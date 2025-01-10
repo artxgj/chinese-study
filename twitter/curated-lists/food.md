@@ -125,3 +125,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [包菜](../hanzi-cards/包菜.md) | cabbage |
 | [香菜](../hanzi-cards/香菜.md) | coriander; cilantro |
 | [芽菜](../hanzi-cards/芽菜.md) | bean sprouts |
+| [胡椒](../hanzi-cards/胡椒.md) | pepper |
+| [胡椒粒](../hanzi-cards/胡椒粒.md) | peppercorn |
+| [辣椒](../hanzi-cards/辣椒.md) | hot pepper; chili |
