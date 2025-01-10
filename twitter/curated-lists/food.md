@@ -104,7 +104,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [叫菜](../hanzi-cards/叫菜.md) | order food |
 | [菜单](../hanzi-cards/菜单.md) | menu |
 | [菜谱](../hanzi-cards/菜谱.md) | menu; cookbook; recipe |
+| [鲁菜](../hanzi-cards/鲁菜.md) | Shandong cuisine |
 | [菜刀](../hanzi-cards/菜刀.md) | kitchen knife; cleaver |
+| [筷子](../hanzi-cards/筷子.md) | chopsticks |
+| [汤匙](../hanzi-cards/汤匙.md) | soup spoon; table spoon |
+| [叉](../hanzi-cards/叉.md) | fork |
 ## Snacks
 |  |  |
 | ----- | :---: |

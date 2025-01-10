@@ -3,7 +3,7 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
-## Customs
+## Civilization and Customs
 |  |  |
 | ----- | :---: |
 | [蛇年](../hanzi-cards/蛇年.md) | Year of the Snake |
@@ -16,6 +16,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [拜年](../hanzi-cards/拜年.md) | to pay a New Year calll to wish somebody a Happy New Year |
 | [红包](../hanzi-cards/红包.md) | red envelope |
 | [春运](../hanzi-cards/春运.md) | (passenger) transport during the Spring Festival period. |
+| [牛郎织女](../hanzi-cards/牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |
+| [炎黃子孫](../hanzi-cards/炎黃子孫.md) | descendants of Yan Di and Huang Di -- the Chinese people |
+| [西游记](../hanzi-cards/西游记.md) | Journey to the West (classic novel) |
+| [百家姓](../hanzi-cards/百家姓.md) | The Book of Family Names |
+| [唐朝](../hanzi-cards/唐朝.md) | Tang Dynasty |
+| [大雁塔](../hanzi-cards/大雁塔.md) | Giant Wild Goose Pagoda |
+| [故宫](../hanzi-cards/故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
 ## Festivals
 |  |  |
 | ----- | :---: |
