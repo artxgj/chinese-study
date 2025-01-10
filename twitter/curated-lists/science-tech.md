@@ -34,12 +34,14 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铑](../hanzi-cards/铑.md) | rhodium |
 | [钯](../hanzi-cards/钯.md) | palladium |
 | [铯](../hanzi-cards/铯.md) | cesium |
+| [鐠](../hanzi-cards/鐠.md) | praseodymium |
 | [钕](../hanzi-cards/钕.md)/[釹](../hanzi-cards/釹.md) | neodynium |
 | [铽](../hanzi-cards/铽.md) | terbium |
 | [镝](../hanzi-cards/镝.md) | dysprosium |
 | [白金](../hanzi-cards/白金.md) | platinum |
 | [铂金](../hanzi-cards/铂金.md) | platinum |
 | [汞](../hanzi-cards/汞.md) | mercury |
+| [鉈](../hanzi-cards/鉈.md) | thallium |
 | [铅](../hanzi-cards/铅.md)/[鉛](../hanzi-cards/鉛.md) | lead |
 | [鐳](../hanzi-cards/鐳.md) | radium |
 | [锕](../hanzi-cards/锕.md) | actinium |
