@@ -6,8 +6,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## People
 |  |  |
 | ----- | :---: |
-| [李白](../hanzi-cards/李白.md) | Li Bai |
-| [杜甫](../hanzi-cards/杜甫.md) | Du Fu |
+| [李白](../hanzi-cards/李白.md) | Li Bai, Tang Dynasty poet |
+| [杜甫](../hanzi-cards/杜甫.md) | Du Fu, Tang Dynasty poet |
+| [苏轼](../hanzi-cards/苏轼.md)/[蘇軾](../hanzi-cards/蘇軾.md) | Su Shi, aka Su Dongpo, Song dynasty writer, calligrapher and public official |
 | [贝多芬](../hanzi-cards/贝多芬.md) | Beethoven |
 | [莎翁](../hanzi-cards/莎翁.md) | Shakespeare |
 | [梵高](../hanzi-cards/梵高.md) | Van Gogh |
