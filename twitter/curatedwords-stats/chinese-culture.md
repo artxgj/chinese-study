@@ -26,6 +26,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [琵琶](../hanzi-cards/琵琶.md) | pipa (a plucked string instrument with a fretted fingeboard) |
 | [二胡](../hanzi-cards/二胡.md) | erhu (Chinese 2-string fiddle) |
 | [悟空](../hanzi-cards/悟空.md) | Wu Kong, the Monkey King (Sun Wukong), from the novel Journey to the West. |
+| [两岸](../hanzi-cards/两岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
+| [华裔](../hanzi-cards/华裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
 ## Festivals
 |  |  |
 | ----- | :---: |

@@ -3,6 +3,29 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
+## Business, Trade, Labor, etc.
+|  |  |
+| ----- | :---: |
+| [供应链](../hanzi-cards/供应链.md)/[供應鏈](../hanzi-cards/供應鏈.md) | supply chain |
+| [港口](../hanzi-cards/港口.md) | port |
+| [物流](../hanzi-cards/物流.md) | logistics |
+| [箱船](../hanzi-cards/箱船.md) | container ship |
+| [集装箱](../hanzi-cards/集装箱.md) | container (for shipping) |
+| [散货船](../hanzi-cards/散货船.md) | bulk freighter |
+| [航线](../hanzi-cards/航线.md) | air or shipping line; route; course |
+| [吞吐量](../hanzi-cards/吞吐量.md) | handling capacity (of a harbour); the volume of freight handled |
+| [航运](../hanzi-cards/航运.md) | shipping; transport |
+| [仓库](../hanzi-cards/仓库.md) | warehouse |
+| [保密协议](../hanzi-cards/保密协议.md) | non-disclosure agreement |
+| [拐点](../hanzi-cards/拐点.md) | inflection point; break point |
+| [尾部风险](../hanzi-cards/尾部风险.md) | tail risk |
+| [商标](../hanzi-cards/商标.md) | trademark |
+| [罢工](../hanzi-cards/罢工.md) | go on strike |
+| [市占率](../hanzi-cards/市占率.md)/[市佔率](../hanzi-cards/市佔率.md) | market share |
+| [专利](../hanzi-cards/专利.md) | patent |
+| [吹哨人](../hanzi-cards/吹哨人.md) | Whistleblower |
+| [招聘](../hanzi-cards/招聘.md) | invite applications for a job; engage (by public notice, advertisements, etc.) |
+| [营销](../hanzi-cards/营销.md) | (verb) market; marketing |
 ## Capital Markets/Venture Capital Terms
 |  |  |
 | ----- | :---: |
@@ -53,7 +76,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [非同质化代币](../hanzi-cards/非同质化代币.md) | NFT (non-fungible token) |
 | [去中心化金融](../hanzi-cards/去中心化金融.md) | DeFi (decentralized finance) |
 | [外汇](../hanzi-cards/外汇.md) | foreign exchange; forex |
-| [汇率](../hanzi-cards/汇率.md) | exchange rate; conversion rate |
+| [汇率](../hanzi-cards/汇率.md)/[匯率](../hanzi-cards/匯率.md) | exchange rate; conversion rate |
 | [黄金](../hanzi-cards/黄金.md) | gold |
 | [布雷顿森林](../hanzi-cards/布雷顿森林.md) | Bretton Woods |
 | [贬值](../hanzi-cards/贬值.md)/[貶值](../hanzi-cards/貶值.md) | devaluation; depreciation |

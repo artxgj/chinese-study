@@ -21,6 +21,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [宇宙](../hanzi-cards/宇宙.md) | universe; cosmos; space; void |
 | [望远镜](../hanzi-cards/望远镜.md) | telescope |
 | [公转](../hanzi-cards/公转.md) | revolve; orbital revolution |
+| [同步轨道](../hanzi-cards/同步轨道.md) | synchronous orbit |
+| [美国太空总署](../hanzi-cards/美国太空总署.md) | NASA |
+| [空间站](../hanzi-cards/空间站.md) | space station |
+| [不明飞行物](../hanzi-cards/不明飞行物.md) | UFO |
 ## Biology
 |  |  |
 | ----- | :---: |
@@ -28,6 +32,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氨基酸](../hanzi-cards/氨基酸.md) | amino acids |
 | [酶](../hanzi-cards/酶.md) | enzyme; ferment |
 | [蛋白质](../hanzi-cards/蛋白质.md) | protein |
+| [细胞](../hanzi-cards/细胞.md) | cells |
 | [信使核糖核酸](../hanzi-cards/信使核糖核酸.md) | mRNA |
 | [光合作用](../hanzi-cards/光合作用.md) | photosynthesis |
 ## Chemistry
@@ -53,6 +58,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氯](../hanzi-cards/氯.md) | chlorine |
 | [钾](../hanzi-cards/钾.md) | potassium |
 | [钛](../hanzi-cards/钛.md) | titanium |
+| [钒](../hanzi-cards/钒.md) | vanadium |
 | [钴](../hanzi-cards/钴.md)/[鈷](../hanzi-cards/鈷.md) | cobalt |
 | [镍](../hanzi-cards/镍.md)/[鎳](../hanzi-cards/鎳.md) | nickel |
 | [铜](../hanzi-cards/铜.md)/[銅](../hanzi-cards/銅.md) | copper |
@@ -67,6 +73,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钕](../hanzi-cards/钕.md)/[釹](../hanzi-cards/釹.md) | neodynium |
 | [铽](../hanzi-cards/铽.md) | terbium |
 | [镝](../hanzi-cards/镝.md) | dysprosium |
+| [铱](../hanzi-cards/铱.md) | iridium |
 | [白金](../hanzi-cards/白金.md) | platinum |
 | [铂金](../hanzi-cards/铂金.md) | platinum |
 | [汞](../hanzi-cards/汞.md) | mercury |
@@ -76,15 +83,17 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [锕](../hanzi-cards/锕.md) | actinium |
 | [钍](../hanzi-cards/钍.md) | thorium |
 | [铀](../hanzi-cards/铀.md) | uranium |
+| [钚](../hanzi-cards/钚.md) | plutonium |
 | [氟](../hanzi-cards/氟.md) | flourine |
 | [氪](../hanzi-cards/氪.md) | krypton |
 | [銻](../hanzi-cards/銻.md) | antimony |
 | [锰](../hanzi-cards/锰.md)/[錳](../hanzi-cards/錳.md) | manganese |
 | [二氧化碳](../hanzi-cards/二氧化碳.md) | carbon dioxide |
-| [二氧化锰](../hanzi-cards/二氧化锰.md)/[二氧化錳](../hanzi-cards/二氧化錳.md) | manganese oxide |
+| [二氧化锰](../hanzi-cards/二氧化锰.md)/[二氧化錳](../hanzi-cards/二氧化錳.md) | manganese dioxide |
 | [二氧化硫](../hanzi-cards/二氧化硫.md) | sulfur dioxide |
 | [一氧化二氮](../hanzi-cards/一氧化二氮.md) | nitrous oxide |
 | [氨](../hanzi-cards/氨.md) | ammonia |
+| [铵](../hanzi-cards/铵.md) | ammonium |
 | [甲烷](../hanzi-cards/甲烷.md) | methane |
 | [磷酸](../hanzi-cards/磷酸.md) | phosphoric acid |
 | [石墨烯](../hanzi-cards/石墨烯.md) | graphene |
@@ -97,6 +106,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [碳化硼](../hanzi-cards/碳化硼.md) | boron carbide |
 | [碳化硅](../hanzi-cards/碳化硅.md)/[碳化矽](../hanzi-cards/碳化矽.md) | silicon carbide |
 | [氮化镓](../hanzi-cards/氮化镓.md)/[氮化鎵](../hanzi-cards/氮化鎵.md) | gallium nitride |
+| [氧化镓](../hanzi-cards/氧化镓.md) | gallium oxide |
 | [氮化鋁](../hanzi-cards/氮化鋁.md) | aluminum nitride |
 | [氮化矽](../hanzi-cards/氮化矽.md) | silicon nitride |
 | [氯化钾](../hanzi-cards/氯化钾.md) | potassium chloride |
@@ -156,6 +166,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [面部识别](../hanzi-cards/面部识别.md) | facial recognition |
 | [锁屏](../hanzi-cards/锁屏.md) | lock screen |
 | [存储](../hanzi-cards/存储.md) | memory; storage; (computer) to save;  to store up; to stockpile |
+| [安卓](../hanzi-cards/安卓.md) | Android (OS) |
+| [闪退](../hanzi-cards/闪退.md) | (of a mobile app) to crash on startup; to crash |
 ## Physics
 |  |  |
 | ----- | :---: |
