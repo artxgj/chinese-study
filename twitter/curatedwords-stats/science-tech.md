@@ -9,6 +9,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [星系](../hanzi-cards/星系.md) | galaxy |
 | [仙女座](../hanzi-cards/仙女座.md) | Andromeda |
 | [矮星](../hanzi-cards/矮星.md) | dwarf star |
+| [彗星](../hanzi-cards/彗星.md) | comet |
 | [近日点](../hanzi-cards/近日点.md) | perihelion |
 | [飞船](../hanzi-cards/飞船.md) | spacecraft; spaceship |
 | [极光](../hanzi-cards/极光.md)/[極光](../hanzi-cards/極光.md) | aurora |

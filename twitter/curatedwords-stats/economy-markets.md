@@ -6,6 +6,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Business, Trade, Labor, etc.
 |  |  |
 | ----- | :---: |
+| [关税](../hanzi-cards/关税.md)/[關稅](../hanzi-cards/關稅.md) | tariff; customs duty |
 | [供应链](../hanzi-cards/供应链.md)/[供應鏈](../hanzi-cards/供應鏈.md) | supply chain |
 | [港口](../hanzi-cards/港口.md) | port |
 | [物流](../hanzi-cards/物流.md) | logistics |
@@ -98,6 +99,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [衰退](../hanzi-cards/衰退.md) | decline; recession |
 | [量化宽松](../hanzi-cards/量化宽松.md) | quantitative easing |
 | [缩减购债](../hanzi-cards/缩减购债.md) | taper; tapering |
+| [软着陆](../hanzi-cards/软着陆.md)/[軟著陸](../hanzi-cards/軟著陸.md) | soft landing |
 | [消费者](../hanzi-cards/消费者.md) | consumer |
 | [零售商](../hanzi-cards/零售商.md) | retailer |
 | [散户](../hanzi-cards/散户.md) | retail investors |
@@ -121,7 +123,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [订单](../hanzi-cards/订单.md) | order for goods; order form |
 | [税](../hanzi-cards/税.md) | tax; duty |
 | [税收](../hanzi-cards/税收.md) | tax revenue |
-| [关税](../hanzi-cards/关税.md) | tariff; customs duty |
 | [放缓](../hanzi-cards/放缓.md) | to slow down; decelerate |
 | [资产](../hanzi-cards/资产.md) | property; capital fund; capital; assets |
 | [债务](../hanzi-cards/债务.md) | debt |
@@ -201,3 +202,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [可再生能源](../hanzi-cards/可再生能源.md) | renewable energy |
 | [臭氧](../hanzi-cards/臭氧.md) | ozone |
 | [页岩](../hanzi-cards/页岩.md) | shale |
+| [钻探](../hanzi-cards/钻探.md)/[鑽探](../hanzi-cards/鑽探.md) | drilling; drill for exploration |

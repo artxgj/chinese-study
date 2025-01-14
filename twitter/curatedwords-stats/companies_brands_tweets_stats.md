@@ -94,6 +94,7 @@
 | [宝洁](../hanzi-cards/宝洁.md) | Procter & Gamble | PG | 11 |
 | [彪马](../hanzi-cards/彪马.md) | Puma | PUMSY | 2 |
 | [瑞萨电子](../hanzi-cards/瑞萨电子.md) | Renesas Electronics | RNECY | 11 |
+| [小红书](../hanzi-cards/小红书.md)/[小紅書](../hanzi-cards/小紅書.md) |  "RedNote" | private | 12 |
 | [力拓](../hanzi-cards/力拓.md) | Rio Tinto Group | RIO | 6 |
 | [罗姆](../hanzi-cards/罗姆.md) | ROHM | ROHCY/ROHCF | 18 |
 | [罗尔斯·罗伊斯](../hanzi-cards/罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |

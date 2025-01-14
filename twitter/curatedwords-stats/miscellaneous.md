@@ -29,34 +29,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [常规赛](../hanzi-cards/常规赛.md) | regular season (sports) |
 | [明星赛](../hanzi-cards/明星赛.md) | All-Star Game |
 | [奥运](../hanzi-cards/奥运.md)/[奧運](../hanzi-cards/奧運.md) | Olympic Games; Olympiad |
-## Kingdom Animalia
-|  |  |
-| ----- | :---: |
-| [海胆](../hanzi-cards/海胆.md) | sea urchin |
-| [海狮](../hanzi-cards/海狮.md) | sea lion |
-| [海豚](../hanzi-cards/海豚.md) | dolphin |
-| [海豹](../hanzi-cards/海豹.md) | seal |
-| [鲨鱼](../hanzi-cards/鲨鱼.md) | shark |
-| [鲸](../hanzi-cards/鲸.md) | whale |
-| [黑露脊鲸](../hanzi-cards/黑露脊鲸.md) | black right whale |
-| [章鱼](../hanzi-cards/章鱼.md) | octopus |
-| [企鹅](../hanzi-cards/企鹅.md) | penguin |
-| [猫头鹰](../hanzi-cards/猫头鹰.md) | owl |
-| [考拉](../hanzi-cards/考拉.md) | koala |
-| [熊猫](../hanzi-cards/熊猫.md)/[熊貓](../hanzi-cards/熊貓.md) | panda |
-| [鳄鱼](../hanzi-cards/鳄鱼.md) | crocodile; alligator |
-| [珊瑚](../hanzi-cards/珊瑚.md) | coral |
-| [孔雀](../hanzi-cards/孔雀.md) | peacock |
-| [蝗虫](../hanzi-cards/蝗虫.md) | locust |
-| [蚱蜢](../hanzi-cards/蚱蜢.md) | grasshopper |
-| [蟋蟀](../hanzi-cards/蟋蟀.md) | cricket |
-| [鬣蜥](../hanzi-cards/鬣蜥.md) | Iguana |
-| [鹦鹉](../hanzi-cards/鹦鹉.md) | parrot |
-| [壁虎](../hanzi-cards/壁虎.md) | gecko |
-| [蟒蛇](../hanzi-cards/蟒蛇.md) | python; anaconda; boa |
-| [花彩雀莺](../hanzi-cards/花彩雀莺.md) | white-browed tit-warbler |
-| [骆驼](../hanzi-cards/骆驼.md) | camel |
-| [蜂鸟](../hanzi-cards/蜂鸟.md)/[蜂鳥](../hanzi-cards/蜂鳥.md) | hummingbird |
 ## Names/Words
 |  |  |
 | ----- | :---: |
@@ -83,6 +55,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [验证](../hanzi-cards/验证.md) | verification |
 | [元旦](../hanzi-cards/元旦.md) | New Year's Day |
 | [圣诞](../hanzi-cards/圣诞.md) | Christmas |
+| [万圣节前夜](../hanzi-cards/万圣节前夜.md) | Halloween |
 | [曙光](../hanzi-cards/曙光.md) | first light of morning; dawn |
 | [不可抗力](../hanzi-cards/不可抗力.md) | force majeure |
 | [北溪](../hanzi-cards/北溪.md) | Nord Stream |
@@ -511,7 +484,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [追捧](../hanzi-cards/追捧.md) | to embrace; favor; acclaim; adulation; high demand |
 | [罚款](../hanzi-cards/罚款.md) | fine; forfeit; penalty |
 | [乐观](../hanzi-cards/乐观.md) | optimistic; hopeful; sanguine |
-| [难民](../hanzi-cards/难民.md) | refugee |
+| [难民](../hanzi-cards/难民.md)/[難民](../hanzi-cards/難民.md) | refugee |
 | [管制](../hanzi-cards/管制.md) | to control; to restrict; put (a criminal, etc) under supervision |
 | [阶层](../hanzi-cards/阶层.md) | social class; social stratum |
 | [缺席](../hanzi-cards/缺席.md) | absent (from a meeting, etc.) |
@@ -535,7 +508,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [委员会](../hanzi-cards/委员会.md) | committee |
 | [审查](../hanzi-cards/审查.md) | investigate; examine (plans, proposals, credential, etc.); censor (books, films, etc.) |
 | [审查制度](../hanzi-cards/审查制度.md) | censorship |
-| [软着陆](../hanzi-cards/软着陆.md) | soft landing |
 | [突显](../hanzi-cards/突显.md) | stand out; clearly show; be conspicuous; be in the limelight |
 | [坍塌](../hanzi-cards/坍塌.md) | cave in; collapse |
 | [祛魅](../hanzi-cards/祛魅.md) | disenchantment |
@@ -550,7 +522,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [沉浸](../hanzi-cards/沉浸.md) | be immersed in; be steeped in; be permeated with |
 | [转换](../hanzi-cards/转换.md) | change; transform |
 | [迄今](../hanzi-cards/迄今.md) | up to now; to this day; to date; so far |
-| [钻探](../hanzi-cards/钻探.md) | drilling; drill for exploration |
 | [动荡](../hanzi-cards/动荡.md) | (of political situation, life, etc.) unstable; turbulent; chaotic |
 | [潜力](../hanzi-cards/潜力.md) | latent capacity; potential; potentiality |
 | [观察](../hanzi-cards/观察.md) | observe; watch; survey |
@@ -619,10 +590,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [灵活](../hanzi-cards/灵活.md) | nimble; agile; quick; flexible; elastic |
 | [接口](../hanzi-cards/接口.md) | interface; gateway; port; connector |
 | [原则](../hanzi-cards/原则.md) | principle; doctrine |
-| [彗星](../hanzi-cards/彗星.md) | comet |
 | [積極](../hanzi-cards/積極.md) | positive |
 | [逆向](../hanzi-cards/逆向.md) | backwards; reverse direction |
-| [万圣节前夜](../hanzi-cards/万圣节前夜.md) | Halloween |
 | [基板](../hanzi-cards/基板.md) | substrate |
 | [困扰](../hanzi-cards/困扰.md) | (verb) perplex; puzzle; trouble |
 | [短信](../hanzi-cards/短信.md) | text message; SMS; short letter; note |
@@ -764,3 +733,31 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [污染](../hanzi-cards/污染.md) | pollution |
 | [厄尔尼诺](../hanzi-cards/厄尔尼诺.md) | El Niño |
 | [拉尼娜](../hanzi-cards/拉尼娜.md) | La Niña |
+## Wildlife/Birds/Pets
+|  |  |
+| ----- | :---: |
+| [海胆](../hanzi-cards/海胆.md) | sea urchin |
+| [海狮](../hanzi-cards/海狮.md) | sea lion |
+| [海豚](../hanzi-cards/海豚.md) | dolphin |
+| [海豹](../hanzi-cards/海豹.md) | seal |
+| [鲨鱼](../hanzi-cards/鲨鱼.md) | shark |
+| [鲸](../hanzi-cards/鲸.md) | whale |
+| [黑露脊鲸](../hanzi-cards/黑露脊鲸.md) | black right whale |
+| [章鱼](../hanzi-cards/章鱼.md) | octopus |
+| [企鹅](../hanzi-cards/企鹅.md) | penguin |
+| [猫头鹰](../hanzi-cards/猫头鹰.md) | owl |
+| [考拉](../hanzi-cards/考拉.md) | koala |
+| [熊猫](../hanzi-cards/熊猫.md)/[熊貓](../hanzi-cards/熊貓.md) | panda |
+| [鳄鱼](../hanzi-cards/鳄鱼.md) | crocodile; alligator |
+| [珊瑚](../hanzi-cards/珊瑚.md) | coral |
+| [孔雀](../hanzi-cards/孔雀.md) | peacock |
+| [蝗虫](../hanzi-cards/蝗虫.md) | locust |
+| [蚱蜢](../hanzi-cards/蚱蜢.md) | grasshopper |
+| [蟋蟀](../hanzi-cards/蟋蟀.md) | cricket |
+| [鬣蜥](../hanzi-cards/鬣蜥.md) | Iguana |
+| [鹦鹉](../hanzi-cards/鹦鹉.md) | parrot |
+| [壁虎](../hanzi-cards/壁虎.md) | gecko |
+| [蟒蛇](../hanzi-cards/蟒蛇.md) | python; anaconda; boa |
+| [花彩雀莺](../hanzi-cards/花彩雀莺.md) | white-browed tit-warbler |
+| [骆驼](../hanzi-cards/骆驼.md) | camel |
+| [蜂鸟](../hanzi-cards/蜂鸟.md)/[蜂鳥](../hanzi-cards/蜂鳥.md) | hummingbird |
