@@ -53,7 +53,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [秘鲁](../hanzi-cards/秘鲁.md) | Peru |
 | [加拉帕戈斯群岛](../hanzi-cards/加拉帕戈斯群岛.md) | Galapagos Islands |
 | [古巴](../hanzi-cards/古巴.md) | Cuba |
-| [加利福尼亚](../hanzi-cards/加利福尼亚.md) | California |
+| [加利福尼亚](../hanzi-cards/加利福尼亚.md)/[加利福尼亞](../hanzi-cards/加利福尼亞.md) | California |
+| [加州](../hanzi-cards/加州.md) | California |
 | [硅谷](../hanzi-cards/硅谷.md) | Silicon Valley |
 | [得克萨斯](../hanzi-cards/得克萨斯.md) | Texas |
 | [亚利桑那](../hanzi-cards/亚利桑那.md) | Arizona |

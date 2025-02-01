@@ -13,7 +13,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [牛年](../hanzi-cards/牛年.md) | Year of the Ox |
 | [农历](../hanzi-cards/农历.md) | traditional Chinese calendar |
 | [新春](../hanzi-cards/新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
-| [拜年](../hanzi-cards/拜年.md) | to pay a New Year calll to wish somebody a Happy New Year |
+| [拜年](../hanzi-cards/拜年.md) | to pay a New Year call to wish somebody a Happy New Year |
 | [红包](../hanzi-cards/红包.md) | red envelope |
 | [春运](../hanzi-cards/春运.md) | (passenger) transport during the Spring Festival period. |
 | [牛郎织女](../hanzi-cards/牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |

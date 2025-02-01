@@ -17,6 +17,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [芒格](../hanzi-cards/芒格.md) | Munger |
 | [玄奘](../hanzi-cards/玄奘.md) | Xuanzang, Tang dynasty Buddhist monk and translator |
 | [张忠谋](../hanzi-cards/张忠谋.md) | Morris Chang |
+| [梁文锋](../hanzi-cards/梁文锋.md) | Liang Wenfeng, DeepSeek founder |
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
 | [雷军](../hanzi-cards/雷军.md)/[雷軍](../hanzi-cards/雷軍.md) | Lei Jun |
 | [任正非](../hanzi-cards/任正非.md) | Ren Zhengfei |
