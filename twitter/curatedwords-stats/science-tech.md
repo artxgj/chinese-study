@@ -3,6 +3,15 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
+## Artificial Intelligence
+|  |  |
+| ----- | :---: |
+| [人工智能](../hanzi-cards/人工智能.md) | AI |
+| [模型](../hanzi-cards/模型.md) | model; mold; matrix; pattern |
+| [自然语言处理](../hanzi-cards/自然语言处理.md) | Natural Language Processing (NLP) |
+| [編碼](../hanzi-cards/編碼.md) | encode |
+| [推理](../hanzi-cards/推理.md) | inference; reasoning |
+| [混合专家](../hanzi-cards/混合专家.md) | Mixture of Experts (MoE) |
 ## Astronomy and Space
 |  |  |
 | ----- | :---: |
@@ -147,7 +156,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Computing
 |  |  |
 | ----- | :---: |
-| [人工智能](../hanzi-cards/人工智能.md) | AI |
 | [空间计算](../hanzi-cards/空间计算.md) | spatial computing |
 | [混合现实](../hanzi-cards/混合现实.md) | mixed reality |
 | [虚拟实境](../hanzi-cards/虚拟实境.md) | virtual reality |
