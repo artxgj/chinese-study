@@ -11,11 +11,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [兔年](../hanzi-cards/兔年.md) | Year of the Rabbit |
 | [虎年](../hanzi-cards/虎年.md) | Year of the Tiger |
 | [牛年](../hanzi-cards/牛年.md) | Year of the Ox |
-| [农历](../hanzi-cards/农历.md) | traditional Chinese calendar |
+| [农历](../hanzi-cards/农历.md)/[農曆](../hanzi-cards/農曆.md) | traditional Chinese calendar |
 | [新春](../hanzi-cards/新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
 | [拜年](../hanzi-cards/拜年.md) | to pay a New Year call to wish somebody a Happy New Year |
-| [红包](../hanzi-cards/红包.md) | red envelope |
-| [春运](../hanzi-cards/春运.md) | (passenger) transport during the Spring Festival period. |
+| [红包](../hanzi-cards/红包.md)/[紅包](../hanzi-cards/紅包.md) | red envelope |
+| [春运](../hanzi-cards/春运.md)/[春運](../hanzi-cards/春運.md) | (passenger) transport during the Spring Festival period. |
 | [牛郎织女](../hanzi-cards/牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |
 | [炎黃子孫](../hanzi-cards/炎黃子孫.md) | descendants of Yan Di and Huang Di -- the Chinese people |
 | [西游记](../hanzi-cards/西游记.md)/[西遊記](../hanzi-cards/西遊記.md) | Journey to the West (classic novel) |
@@ -26,13 +26,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [琵琶](../hanzi-cards/琵琶.md) | pipa (a plucked string instrument with a fretted fingeboard) |
 | [二胡](../hanzi-cards/二胡.md) | erhu (Chinese 2-string fiddle) |
 | [悟空](../hanzi-cards/悟空.md) | Wu Kong, the Monkey King (Sun Wukong), from the novel Journey to the West. |
-| [两岸](../hanzi-cards/两岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
-| [华裔](../hanzi-cards/华裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
+| [两岸](../hanzi-cards/两岸.md)/[兩岸](../hanzi-cards/兩岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
+| [华裔](../hanzi-cards/华裔.md)/[華裔](../hanzi-cards/華裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
 | [杂技](../hanzi-cards/杂技.md)/[雜技](../hanzi-cards/雜技.md) | acrobatics |
 ## Festivals
 |  |  |
 | ----- | :---: |
-| [春节](../hanzi-cards/春节.md) | Spring Festival; Chinese New Year |
+| [春节](../hanzi-cards/春节.md)/[春節](../hanzi-cards/春節.md) | Spring Festival; Chinese New Year |
 | [元宵](../hanzi-cards/元宵.md) | Lantern Festival; night of the 15th day of the first lunar month |
 | [中秋](../hanzi-cards/中秋.md) | Mid-Autumn |
 | [清明](../hanzi-cards/清明.md) | Pure Brightness Festival or Tomb Sweeping Day; clear and bright; sober and calm; well-ordered |
