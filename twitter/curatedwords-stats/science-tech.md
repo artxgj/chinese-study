@@ -12,6 +12,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [編碼](../hanzi-cards/編碼.md) | encode |
 | [推理](../hanzi-cards/推理.md) | inference; reasoning |
 | [混合专家](../hanzi-cards/混合专家.md) | Mixture of Experts (MoE) |
+| [大型语言模型](../hanzi-cards/大型语言模型.md) | Large Language Model (LLM) |
 ## Astronomy and Space
 |  |  |
 | ----- | :---: |
@@ -204,6 +205,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [微细化](../hanzi-cards/微细化.md) | miniaturization |
 | [小型化](../hanzi-cards/小型化.md) | miniaturization |
 | [二维码](../hanzi-cards/二维码.md) | QR code |
+| [纯电动汽车](../hanzi-cards/纯电动汽车.md)/[純電動汽車](../hanzi-cards/純電動汽車.md) | pure electric vehicle |
 | [无人机](../hanzi-cards/无人机.md) | drone; unmanned aerial vehicle (UAV) |
 | [雷达](../hanzi-cards/雷达.md)/[雷達](../hanzi-cards/雷達.md) | radar |
 | [克隆](../hanzi-cards/克隆.md) | clone |
