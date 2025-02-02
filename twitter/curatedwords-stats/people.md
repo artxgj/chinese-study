@@ -31,6 +31,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马英九](../hanzi-cards/马英九.md)/[馬英九](../hanzi-cards/馬英九.md) | Ma Ying-jeou |
 | [李光耀](../hanzi-cards/李光耀.md) | Lee Kuan Yew |
 | [孙中山](../hanzi-cards/孙中山.md) | Sun Yat Sen |
+| [扎哈罗娃](../hanzi-cards/扎哈罗娃.md) | Zakharova (Maria) |
 | [杜特蒂](../hanzi-cards/杜特蒂.md) | Duterte |
 | [尼克松](../hanzi-cards/尼克松.md) | Nixon (Richard Milhaus) |
 | [邓紫棋](../hanzi-cards/邓紫棋.md) | G.E.M. |

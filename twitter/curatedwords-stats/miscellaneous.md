@@ -703,8 +703,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [鑽石](../hanzi-cards/鑽石.md) | diamond |
 | [金属](../hanzi-cards/金属.md)/[金屬](../hanzi-cards/金屬.md) | metals |
 | [紫外](../hanzi-cards/紫外.md) | ultraviolet |
-| [美禄](../hanzi-cards/美禄.md) | Milo |
-| [速溶咖啡](../hanzi-cards/速溶咖啡.md) | Nescafe |
+| [愈来愈](../hanzi-cards/愈来愈.md) | more and more |
+| [越来越](../hanzi-cards/越来越.md) | more and more |
+| [氣氛](../hanzi-cards/氣氛.md) | atmosphere; mood |
 ## Natural Disasters/Climate
 |  |  |
 | ----- | :---: |

@@ -79,6 +79,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [咖啡](../hanzi-cards/咖啡.md) | coffee |
 | [奶茶](../hanzi-cards/奶茶.md) | milk tea |
+| [美禄](../hanzi-cards/美禄.md) | Milo |
+| [速溶咖啡](../hanzi-cards/速溶咖啡.md) | Nescafe |
 | [菊花茶](../hanzi-cards/菊花茶.md) | Chrysanthemum tea |
 | [啤酒](../hanzi-cards/啤酒.md) | beer |
 | [葡萄酒](../hanzi-cards/葡萄酒.md) | wine |
