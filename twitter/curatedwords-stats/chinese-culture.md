@@ -29,6 +29,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [两岸](../hanzi-cards/两岸.md)/[兩岸](../hanzi-cards/兩岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
 | [华裔](../hanzi-cards/华裔.md)/[華裔](../hanzi-cards/華裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
 | [杂技](../hanzi-cards/杂技.md)/[雜技](../hanzi-cards/雜技.md) | acrobatics |
+| [毽子](../hanzi-cards/毽子.md) | shuttlecock |
 ## Festivals
 |  |  |
 | ----- | :---: |
