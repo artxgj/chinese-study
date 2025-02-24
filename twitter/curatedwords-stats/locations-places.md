@@ -25,6 +25,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [印度](../hanzi-cards/印度.md) | India |
 | [斯里兰卡](../hanzi-cards/斯里兰卡.md) | Sri Lanka |
 | [北海道](../hanzi-cards/北海道.md) | Hokkaido |
+| [琉球](../hanzi-cards/琉球.md) | Ryukyu |
 | [冲绳](../hanzi-cards/冲绳.md) | Okinawa |
 | [广岛](../hanzi-cards/广岛.md) | Hiroshima |
 | [汤加](../hanzi-cards/汤加.md) | Tonga |
