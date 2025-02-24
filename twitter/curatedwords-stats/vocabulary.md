@@ -57,7 +57,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [覆盖](../hanzi-cards/覆盖.md) | cover (verb); plant cover; vegetation |
 | [冲击](../hanzi-cards/冲击.md)/[衝擊](../hanzi-cards/衝擊.md) | impact; shock; to attack |
 | [爆发](../hanzi-cards/爆发.md) | erupt; burst out; break out |
-| [引发](../hanzi-cards/引发.md) | initiate; touch (or spark, trigger) off |
+| [引发](../hanzi-cards/引发.md)/[引發](../hanzi-cards/引發.md) | initiate; touch (or spark, trigger) off |
 | [开发](../hanzi-cards/开发.md)/[開發](../hanzi-cards/開發.md) | develop; open up; exploit |
 | [瓶颈](../hanzi-cards/瓶颈.md) | bottleneck |
 | [效率](../hanzi-cards/效率.md) | efficiency |
@@ -287,7 +287,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蓄账户](../hanzi-cards/蓄账户.md) | savings account |
 | [堡礁](../hanzi-cards/堡礁.md) | barrier reef |
 | [海藻](../hanzi-cards/海藻.md) | seaweed |
-| [专属](../hanzi-cards/专属.md) | exclusive; proprietary; private; personal |
+| [专属](../hanzi-cards/专属.md)/[專屬](../hanzi-cards/專屬.md) | exclusive; proprietary; private; personal |
 | [造势](../hanzi-cards/造势.md) | to boost support or interest; to campaign; to promote |
 | [特殊](../hanzi-cards/特殊.md) | special; particular; unusual; extraordinary |
 | [金牛](../hanzi-cards/金牛.md) | Taurus; golden ox |
