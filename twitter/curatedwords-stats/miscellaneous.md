@@ -7,10 +7,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [动画](../hanzi-cards/动画.md) | animation; cartoon |
-| [漫画](../hanzi-cards/漫画.md) | manga; cartoon |
-| [东映](../hanzi-cards/东映.md) | TOEI |
 | [哪吒](../hanzi-cards/哪吒.md) | Ne Zha (character) |
 | [哪吒之魔童闹海](../hanzi-cards/哪吒之魔童闹海.md)/[哪吒之魔童鬧海](../hanzi-cards/哪吒之魔童鬧海.md) | Ne Zha 2 |
+| [漫画](../hanzi-cards/漫画.md) | manga; cartoon |
+| [东映](../hanzi-cards/东映.md) | TOEI |
 | [铁臂阿童木](../hanzi-cards/铁臂阿童木.md) | Astro Boy |
 | [科幻](../hanzi-cards/科幻.md) | scifi |
 | [漫威](../hanzi-cards/漫威.md) | Marvel |

@@ -30,6 +30,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [华裔](../hanzi-cards/华裔.md)/[華裔](../hanzi-cards/華裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
 | [杂技](../hanzi-cards/杂技.md)/[雜技](../hanzi-cards/雜技.md) | acrobatics |
 | [毽子](../hanzi-cards/毽子.md) | shuttlecock |
+| [清华大学](../hanzi-cards/清华大学.md)/[清華大學](../hanzi-cards/清華大學.md) | Tsinghua University |
 ## Festivals
 |  |  |
 | ----- | :---: |

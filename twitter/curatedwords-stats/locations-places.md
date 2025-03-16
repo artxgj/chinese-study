@@ -8,6 +8,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [菲律宾](../hanzi-cards/菲律宾.md)/[菲律賓](../hanzi-cards/菲律賓.md) | Philippines; pronounced as Hui-li̍p-pin by Minnan/Hokkien people |
 | [马尼拉](../hanzi-cards/马尼拉.md)/[馬尼拉](../hanzi-cards/馬尼拉.md) | Manila |
+| [宿务](../hanzi-cards/宿务.md) | Cebu |
 | [厦门](../hanzi-cards/厦门.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](../hanzi-cards/泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
 | [福建](../hanzi-cards/福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |

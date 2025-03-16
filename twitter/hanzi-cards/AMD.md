@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-03-12 08:25:15 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 全球芯片代工巨头台积电据报向美国芯片设计公司英伟达、AMD和博通提议入股一家合资企业，以运营美国科技巨头英特尔的晶圆厂。 https://t.co/WWEZMCXg9Y https://t.co/wAwA5400Pm
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E4%BB%A3%E5%B7%A5%E5%B7%A8%E5%A4%B4%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%8D%AE%E6%8A%A5%E5%90%91%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E8%AE%BE%E8%AE%A1%E5%85%AC%E5%8F%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81AMD%E5%92%8C%E5%8D%9A%E9%80%9A%E6%8F%90%E8%AE%AE%E5%85%A5%E8%82%A1%E4%B8%80%E5%AE%B6%E5%90%88%E8%B5%84%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%BB%A5%E8%BF%90%E8%90%A5%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B1%E7%89%B9%E5%B0%94%E7%9A%84%E6%99%B6%E5%9C%86%E5%8E%82%E3%80%82+https%3A%2F%2Ft.co%2FWWEZMCXg9Y+https%3A%2F%2Ft.co%2FwAwA5400Pm)
+##### Other Words/Names of Interest in the Above Tweet
+[博通](博通.md), [台积电](台积电.md), [合资企业](合资企业.md), [巨头](巨头.md), [晶圆](晶圆.md), [科技](科技.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [英特尔](英特尔.md), [设计](设计.md)
+___
+##### 2025-03-05 06:15:48 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 发现一个开源的魔改版 Ollama：ollama-for-amd。基于官方 Ollama 进行修改，增加对更多 AMD 显卡的支持，快速启动并运行 DeepSeek、Llama 3、Gemma 等大模型。GitHub：https://…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E7%9A%84%E9%AD%94%E6%94%B9%E7%89%88+Ollama%EF%BC%9Aollama-for-amd%E3%80%82%E5%9F%BA%E4%BA%8E%E5%AE%98%E6%96%B9+Ollama+%E8%BF%9B%E8%A1%8C%E4%BF%AE%E6%94%B9%EF%BC%8C%E5%A2%9E%E5%8A%A0%E5%AF%B9%E6%9B%B4%E5%A4%9A+AMD+%E6%98%BE%E5%8D%A1%E7%9A%84%E6%94%AF%E6%8C%81%EF%BC%8C%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E5%B9%B6%E8%BF%90%E8%A1%8C+DeepSeek%E3%80%81Llama+3%E3%80%81Gemma+%E7%AD%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [Gemma](Gemma.md), [启动](启动.md), [型](型.md), [开源](开源.md), [支持](支持.md), [模型](模型.md), [进行](进行.md)
+___
+##### 2025-03-04 07:28:35 UTC ~ Geek
+> RT @geekbb: 看了司波图这期才知道 Ollama 原来有人魔改，让其支持 AMD R580，那黑苹果玩家还不玩起飞啊🤭Ollama-gpu-rx580 https://t.co/g29ftRgPpDGitHub https://t.co/VLMrdHzz8i【8…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E7%9C%8B%E4%BA%86%E5%8F%B8%E6%B3%A2%E5%9B%BE%E8%BF%99%E6%9C%9F%E6%89%8D%E7%9F%A5%E9%81%93+Ollama+%E5%8E%9F%E6%9D%A5%E6%9C%89%E4%BA%BA%E9%AD%94%E6%94%B9%EF%BC%8C%E8%AE%A9%E5%85%B6%E6%94%AF%E6%8C%81+AMD+R580%EF%BC%8C%E9%82%A3%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%8E%A9%E5%AE%B6%E8%BF%98%E4%B8%8D%E7%8E%A9%E8%B5%B7%E9%A3%9E%E5%95%8A%F0%9F%A4%ADOllama-gpu-rx580+https%3A%2F%2Ft.co%2Fg29ftRgPpDGitHub+https%3A%2F%2Ft.co%2FVLMrdHzz8i%E3%80%908%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[支持](支持.md), [玩家](玩家.md), [苹果](苹果.md)
+___
 ##### 2025-02-05 09:29:31 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 财报发布后，AMD股价盘后重挫逾8%。#AMD #超微 #南洋商报 https://t.co/ZfGPKjkRjs https://t.co/INYg7hLs5Y
 
