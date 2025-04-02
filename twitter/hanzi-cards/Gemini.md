@@ -7,6 +7,104 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2025-04-01 04:42:44 UTC ~ jiayuan
+> RT @tisoga: 创建了一个用来分析自己健康 &amp; 运动数据的 app，支持连接到 Whoop, Apple Health, Garmin 导入相关数据。并且还连接了 Gemini Pro 2.5 作为健康教练来分析相关的数据。全程使用 @devv_ai vibe…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tisoga%3A+%E5%88%9B%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%A8%E6%9D%A5%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%81%A5%E5%BA%B7+%26amp%3B+%E8%BF%90%E5%8A%A8%E6%95%B0%E6%8D%AE%E7%9A%84+app%EF%BC%8C%E6%94%AF%E6%8C%81%E8%BF%9E%E6%8E%A5%E5%88%B0+Whoop%2C+Apple+Health%2C+Garmin+%E5%AF%BC%E5%85%A5%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E3%80%82%E5%B9%B6%E4%B8%94%E8%BF%98%E8%BF%9E%E6%8E%A5%E4%BA%86+Gemini+Pro+2.5+%E4%BD%9C%E4%B8%BA%E5%81%A5%E5%BA%B7%E6%95%99%E7%BB%83%E6%9D%A5%E5%88%86%E6%9E%90%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E5%85%A8%E7%A8%8B%E4%BD%BF%E7%94%A8+%40devv_ai+vibe%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [支持](支持.md), [数据](数据.md), [相关](相关.md), [连接](连接.md)
+___
+##### 2025-04-01 04:00:12 UTC ~ 歸藏(guizang.ai)
+> RT @op7418: 新海诚的这种画风转换城市摄影效果真的很好方法昨天一些朋友也说了，就是只描述画风但是不提人名一个小Tips是可以让Gemini 2.5 Pro描述，别让ChatGPT描述，不然还是有几率不给生成懒得找的我也把我的提示词放下面了 https://…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%96%B0%E6%B5%B7%E8%AF%9A%E7%9A%84%E8%BF%99%E7%A7%8D%E7%94%BB%E9%A3%8E%E8%BD%AC%E6%8D%A2%E5%9F%8E%E5%B8%82%E6%91%84%E5%BD%B1%E6%95%88%E6%9E%9C%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD%E6%96%B9%E6%B3%95%E6%98%A8%E5%A4%A9%E4%B8%80%E4%BA%9B%E6%9C%8B%E5%8F%8B%E4%B9%9F%E8%AF%B4%E4%BA%86%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%8F%AA%E6%8F%8F%E8%BF%B0%E7%94%BB%E9%A3%8E%E4%BD%86%E6%98%AF%E4%B8%8D%E6%8F%90%E4%BA%BA%E5%90%8D%E4%B8%80%E4%B8%AA%E5%B0%8FTips%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%AE%A9Gemini+2.5+Pro%E6%8F%8F%E8%BF%B0%EF%BC%8C%E5%88%AB%E8%AE%A9ChatGPT%E6%8F%8F%E8%BF%B0%EF%BC%8C%E4%B8%8D%E7%84%B6%E8%BF%98%E6%98%AF%E6%9C%89%E5%87%A0%E7%8E%87%E4%B8%8D%E7%BB%99%E7%94%9F%E6%88%90%E6%87%92%E5%BE%97%E6%89%BE%E7%9A%84%E6%88%91%E4%B9%9F%E6%8A%8A%E6%88%91%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%94%BE%E4%B8%8B%E9%9D%A2%E4%BA%86+https%3A%2F%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[摄影](摄影.md), [转换](转换.md)
+___
+##### 2025-03-31 10:46:03 UTC ~ 艾森 Essen
+> RT @essen_ai: AI智商图带给我的几个想法：1) Gemini 2.5 Pro 在门萨测试中IQ达到130，这已经与人类的天才水平相当了。2) IQ范围在100-130内的所有大模型都是过去6个月内推出的，而欧洲唯一拿得出手的Mistral在IQ上依然属于弱智一档。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40essen_ai%3A+AI%E6%99%BA%E5%95%86%E5%9B%BE%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%87%A0%E4%B8%AA%E6%83%B3%E6%B3%95%EF%BC%9A1%29+Gemini+2.5+Pro+%E5%9C%A8%E9%97%A8%E8%90%A8%E6%B5%8B%E8%AF%95%E4%B8%ADIQ%E8%BE%BE%E5%88%B0130%EF%BC%8C%E8%BF%99%E5%B7%B2%E7%BB%8F%E4%B8%8E%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A4%A9%E6%89%8D%E6%B0%B4%E5%B9%B3%E7%9B%B8%E5%BD%93%E4%BA%86%E3%80%822%29+IQ%E8%8C%83%E5%9B%B4%E5%9C%A8100-130%E5%86%85%E7%9A%84%E6%89%80%E6%9C%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%BD%E6%98%AF%E8%BF%87%E5%8E%BB6%E4%B8%AA%E6%9C%88%E5%86%85%E6%8E%A8%E5%87%BA%E7%9A%84%EF%BC%8C%E8%80%8C%E6%AC%A7%E6%B4%B2%E5%94%AF%E4%B8%80%E6%8B%BF%E5%BE%97%E5%87%BA%E6%89%8B%E7%9A%84Mistral%E5%9C%A8IQ%E4%B8%8A%E4%BE%9D%E7%84%B6%E5%B1%9E%E4%BA%8E%E5%BC%B1%E6%99%BA%E4%B8%80%E6%A1%A3%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[依然](依然.md), [型](型.md), [推出](推出.md), [模型](模型.md), [水平](水平.md)
+___
+##### 2025-03-31 07:37:36 UTC ~ 宝玉
+> RT @dotey: 模型的搭配使用很有必要比如 DeepResearch 擅长搜集资料比如Gemini和Grok上下文可以很长，内容多的就先让它们预处理把长度浓缩比如Claude擅长编程比如GPT-4.5写作很好但长度不能太长比如音视频用 Gemini 处理最好生…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%90%AD%E9%85%8D%E4%BD%BF%E7%94%A8%E5%BE%88%E6%9C%89%E5%BF%85%E8%A6%81%E6%AF%94%E5%A6%82+DeepResearch+%E6%93%85%E9%95%BF%E6%90%9C%E9%9B%86%E8%B5%84%E6%96%99%E6%AF%94%E5%A6%82Gemini%E5%92%8CGrok%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8F%AF%E4%BB%A5%E5%BE%88%E9%95%BF%EF%BC%8C%E5%86%85%E5%AE%B9%E5%A4%9A%E7%9A%84%E5%B0%B1%E5%85%88%E8%AE%A9%E5%AE%83%E4%BB%AC%E9%A2%84%E5%A4%84%E7%90%86%E6%8A%8A%E9%95%BF%E5%BA%A6%E6%B5%93%E7%BC%A9%E6%AF%94%E5%A6%82Claude%E6%93%85%E9%95%BF%E7%BC%96%E7%A8%8B%E6%AF%94%E5%A6%82GPT-4.5%E5%86%99%E4%BD%9C%E5%BE%88%E5%A5%BD%E4%BD%86%E9%95%BF%E5%BA%A6%E4%B8%8D%E8%83%BD%E5%A4%AA%E9%95%BF%E6%AF%94%E5%A6%82%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%A8+Gemini+%E5%A4%84%E7%90%86%E6%9C%80%E5%A5%BD%E7%94%9F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
+___
+##### 2025-03-27 19:28:55 UTC ~ -Zho-
+> RT @ZHO_ZHO_ZHO: 卧槽，谁说不行？！！！4o 同样可以像 Gemini 一样一句话生成连续的故事剧情和分镜！！！啥也别说了（附提示词）刚刚测试发现 4o 可以剧情+图片连续生成，并且图像质量、特征保持、语义跟随以及故事拓展与修改都比 Gemini 强！！…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ZHO_ZHO_ZHO%3A+%E5%8D%A7%E6%A7%BD%EF%BC%8C%E8%B0%81%E8%AF%B4%E4%B8%8D%E8%A1%8C%EF%BC%9F%EF%BC%81%EF%BC%81%EF%BC%814o+%E5%90%8C%E6%A0%B7%E5%8F%AF%E4%BB%A5%E5%83%8F+Gemini+%E4%B8%80%E6%A0%B7%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%94%9F%E6%88%90%E8%BF%9E%E7%BB%AD%E7%9A%84%E6%95%85%E4%BA%8B%E5%89%A7%E6%83%85%E5%92%8C%E5%88%86%E9%95%9C%EF%BC%81%EF%BC%81%EF%BC%81%E5%95%A5%E4%B9%9F%E5%88%AB%E8%AF%B4%E4%BA%86%EF%BC%88%E9%99%84%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%89%E5%88%9A%E5%88%9A%E6%B5%8B%E8%AF%95%E5%8F%91%E7%8E%B0+4o+%E5%8F%AF%E4%BB%A5%E5%89%A7%E6%83%85%2B%E5%9B%BE%E7%89%87%E8%BF%9E%E7%BB%AD%E7%94%9F%E6%88%90%EF%BC%8C%E5%B9%B6%E4%B8%94%E5%9B%BE%E5%83%8F%E8%B4%A8%E9%87%8F%E3%80%81%E7%89%B9%E5%BE%81%E4%BF%9D%E6%8C%81%E3%80%81%E8%AF%AD%E4%B9%89%E8%B7%9F%E9%9A%8F%E4%BB%A5%E5%8F%8A%E6%95%85%E4%BA%8B%E6%8B%93%E5%B1%95%E4%B8%8E%E4%BF%AE%E6%94%B9%E9%83%BD%E6%AF%94+Gemini+%E5%BC%BA%EF%BC%81%EF%BC%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[拓展](拓展.md), [语义](语义.md), [连续](连续.md)
+___
+##### 2025-03-26 06:38:56 UTC ~ 高级分析师
+> RT @techeconomyana: 确实是非常诡异的热度曲线。ChatGPT、Grok、Claude、Gemini的搜索词都是持续增长的，只有Deepseek走出了小红书式的一波流。 https://t.co/XuzvQ3hpsb
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40techeconomyana%3A+%E7%A1%AE%E5%AE%9E%E6%98%AF%E9%9D%9E%E5%B8%B8%E8%AF%A1%E5%BC%82%E7%9A%84%E7%83%AD%E5%BA%A6%E6%9B%B2%E7%BA%BF%E3%80%82ChatGPT%E3%80%81Grok%E3%80%81Claude%E3%80%81Gemini%E7%9A%84%E6%90%9C%E7%B4%A2%E8%AF%8D%E9%83%BD%E6%98%AF%E6%8C%81%E7%BB%AD%E5%A2%9E%E9%95%BF%E7%9A%84%EF%BC%8C%E5%8F%AA%E6%9C%89Deepseek%E8%B5%B0%E5%87%BA%E4%BA%86%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%BC%8F%E7%9A%84%E4%B8%80%E6%B3%A2%E6%B5%81%E3%80%82+https%3A%2F%2Ft.co%2FXuzvQ3hpsb)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [增长](增长.md), [小红书](小红书.md), [持续](持续.md), [搜索](搜索.md), [曲线](曲线.md), [诡异](诡异.md)
+___
+##### 2025-03-26 05:30:34 UTC ~ 歸藏(guizang.ai)
+> RT @op7418: 怪不得Open AI今晚有发布，原来又是狙击谷歌谷歌发布 Gemini 2.5 Pro 模型，测试分数很离谱- 100 万 token 的上下文窗口- 支持推理能力- 文本、音频、图像、视频多模态- SWE-Bench Verified 编…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%80%AA%E4%B8%8D%E5%BE%97Open+AI%E4%BB%8A%E6%99%9A%E6%9C%89%E5%8F%91%E5%B8%83%EF%BC%8C%E5%8E%9F%E6%9D%A5%E5%8F%88%E6%98%AF%E7%8B%99%E5%87%BB%E8%B0%B7%E6%AD%8C%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83+Gemini+2.5+Pro+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%B5%8B%E8%AF%95%E5%88%86%E6%95%B0%E5%BE%88%E7%A6%BB%E8%B0%B1-+100+%E4%B8%87+token+%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3-+%E6%94%AF%E6%8C%81%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B-+%E6%96%87%E6%9C%AC%E3%80%81%E9%9F%B3%E9%A2%91%E3%80%81%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E5%A4%9A%E6%A8%A1%E6%80%81-+SWE-Bench+Verified+%E7%BC%96%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [型](型.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [谷歌](谷歌.md)
+___
+##### 2025-03-26 04:48:51 UTC ~ Robinson · 鲁棒逊
+> RT @python_xxt: Google Gemini 2.0 pro的吞吐效率，带来的体验提升，远远被低估了在我日常使用中，占比约50-60%Gemini 2.5 pro 更强了，占比只会进一步提高CloseAI 危矣 https://t.co/n664BWf…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40python_xxt%3A+Google+Gemini+2.0+pro%E7%9A%84%E5%90%9E%E5%90%90%E6%95%88%E7%8E%87%EF%BC%8C%E5%B8%A6%E6%9D%A5%E7%9A%84%E4%BD%93%E9%AA%8C%E6%8F%90%E5%8D%87%EF%BC%8C%E8%BF%9C%E8%BF%9C%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%9C%A8%E6%88%91%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E4%B8%AD%EF%BC%8C%E5%8D%A0%E6%AF%94%E7%BA%A650-60%25Gemini+2.5+pro+%E6%9B%B4%E5%BC%BA%E4%BA%86%EF%BC%8C%E5%8D%A0%E6%AF%94%E5%8F%AA%E4%BC%9A%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8F%90%E9%AB%98CloseAI+%E5%8D%B1%E7%9F%A3+https%3A%2F%2Ft.co%2Fn664BWf%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[python](python.md), [低估](低估.md), [提高](提高.md), [效率](效率.md)
+___
+##### 2025-03-24 06:06:03 UTC ~ 歸藏(guizang.ai)
+> RT @op7418: Chatwise 支持 Gemini 2 的图片生成和修改了突然感觉随着模型能力的提升，复杂的工作流编辑又变得不那么重要了 https://t.co/uAiSShI6tI
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+Chatwise+%E6%94%AF%E6%8C%81+Gemini+2+%E7%9A%84%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90%E5%92%8C%E4%BF%AE%E6%94%B9%E4%BA%86%E7%AA%81%E7%84%B6%E6%84%9F%E8%A7%89%E9%9A%8F%E7%9D%80%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E7%9A%84%E6%8F%90%E5%8D%87%EF%BC%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E8%BE%91%E5%8F%88%E5%8F%98%E5%BE%97%E4%B8%8D%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81%E4%BA%86+https%3A%2F%2Ft.co%2FuAiSShI6tI)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [支持](支持.md), [模型](模型.md), [随着](随着.md)
+___
+##### 2025-03-19 08:45:20 UTC ~ 小互
+> RT @imxiaohu: 给你们看个好玩的啊和Gemini 一起作画你随便画就行，然后它可以帮你完善我只是做了简单尝试，想象空间还是很大的可以开发个儿童应用，我觉得很有前景啊，再加上语音功能，那就完美了！very nice... https://t.co/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E7%BB%99%E4%BD%A0%E4%BB%AC%E7%9C%8B%E4%B8%AA%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%95%8A%E5%92%8CGemini+%E4%B8%80%E8%B5%B7%E4%BD%9C%E7%94%BB%E4%BD%A0%E9%9A%8F%E4%BE%BF%E7%94%BB%E5%B0%B1%E8%A1%8C%EF%BC%8C%E7%84%B6%E5%90%8E%E5%AE%83%E5%8F%AF%E4%BB%A5%E5%B8%AE%E4%BD%A0%E5%AE%8C%E5%96%84%E6%88%91%E5%8F%AA%E6%98%AF%E5%81%9A%E4%BA%86%E7%AE%80%E5%8D%95%E5%B0%9D%E8%AF%95%EF%BC%8C%E6%83%B3%E8%B1%A1%E7%A9%BA%E9%97%B4%E8%BF%98%E6%98%AF%E5%BE%88%E5%A4%A7%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%BC%80%E5%8F%91%E4%B8%AA%E5%84%BF%E7%AB%A5%E5%BA%94%E7%94%A8%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E5%BE%88%E6%9C%89%E5%89%8D%E6%99%AF%E5%95%8A%EF%BC%8C%E5%86%8D%E5%8A%A0%E4%B8%8A%E8%AF%AD%E9%9F%B3%E5%8A%9F%E8%83%BD%EF%BC%8C%E9%82%A3%E5%B0%B1%E5%AE%8C%E7%BE%8E%E4%BA%86%EF%BC%81very+nice...+https%3A%2F%2Ft.co%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开发](开发.md)
+___
+##### 2025-03-19 08:06:47 UTC ~ 海拉鲁编程客
+> RT @hylarucoder: 谷歌 Gemini 深度搜索妙招对你感兴趣的领域调研, 把「引用结果的标题」拿过来分析, 这些标题都是「经过 Google 认证的好文章标题」标题怎么参考怎么写, 学会了吗?🧐 https://t.co/IrC887GCRM
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40hylarucoder%3A+%E8%B0%B7%E6%AD%8C+Gemini+%E6%B7%B1%E5%BA%A6%E6%90%9C%E7%B4%A2%E5%A6%99%E6%8B%9B%E5%AF%B9%E4%BD%A0%E6%84%9F%E5%85%B4%E8%B6%A3%E7%9A%84%E9%A2%86%E5%9F%9F%E8%B0%83%E7%A0%94%2C+%E6%8A%8A%E3%80%8C%E5%BC%95%E7%94%A8%E7%BB%93%E6%9E%9C%E7%9A%84%E6%A0%87%E9%A2%98%E3%80%8D%E6%8B%BF%E8%BF%87%E6%9D%A5%E5%88%86%E6%9E%90%2C+%E8%BF%99%E4%BA%9B%E6%A0%87%E9%A2%98%E9%83%BD%E6%98%AF%E3%80%8C%E7%BB%8F%E8%BF%87+Google+%E8%AE%A4%E8%AF%81%E7%9A%84%E5%A5%BD%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98%E3%80%8D%E6%A0%87%E9%A2%98%E6%80%8E%E4%B9%88%E5%8F%82%E8%80%83%E6%80%8E%E4%B9%88%E5%86%99%2C+%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%90%97%3F%F0%9F%A7%90+https%3A%2F%2Ft.co%2FIrC887GCRM)
+##### Other Words/Names of Interest in the Above Tweet
+[兴趣](兴趣.md), [分析](分析.md), [参考](参考.md), [招](招.md), [搜索](搜索.md), [谷歌](谷歌.md), [领域](领域.md)
+___
+##### 2025-03-19 08:01:17 UTC ~ 小互
+> RT @imxiaohu: Google最近有点疯啊疯狂发货Gemini 也推出了Canvas 功能现在你可以：⌨️ 你可以直接在 Canvas 里写 React 或 HTML 代码，并实时预览运行效果。📝 用它来起草、修改、优化文章或报告。🎨 构建交互…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Google%E6%9C%80%E8%BF%91%E6%9C%89%E7%82%B9%E7%96%AF%E5%95%8A%E7%96%AF%E7%8B%82%E5%8F%91%E8%B4%A7Gemini+%E4%B9%9F%E6%8E%A8%E5%87%BA%E4%BA%86Canvas+%E5%8A%9F%E8%83%BD%E7%8E%B0%E5%9C%A8%E4%BD%A0%E5%8F%AF%E4%BB%A5%EF%BC%9A%E2%8C%A8%EF%B8%8F+%E4%BD%A0%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%9C%A8+Canvas+%E9%87%8C%E5%86%99+React+%E6%88%96+HTML+%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%B9%B6%E5%AE%9E%E6%97%B6%E9%A2%84%E8%A7%88%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E3%80%82%F0%9F%93%9D+%E7%94%A8%E5%AE%83%E6%9D%A5%E8%B5%B7%E8%8D%89%E3%80%81%E4%BF%AE%E6%94%B9%E3%80%81%E4%BC%98%E5%8C%96%E6%96%87%E7%AB%A0%E6%88%96%E6%8A%A5%E5%91%8A%E3%80%82%F0%9F%8E%A8+%E6%9E%84%E5%BB%BA%E4%BA%A4%E4%BA%92%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [优化](优化.md), [推出](推出.md), [疯狂](疯狂.md), [直接](直接.md)
+___
+##### 2025-03-17 15:25:06 UTC ~ 歸藏(guizang.ai)
+> RT @op7418: 我现在的内容搜集和学习路径已经变了想写个 MCP 的教程和介绍直接 Gemini Deep Research 搜索整理成文档然后再用我的提示词变成可视化页面辅助阅读和理解，知识消化速度大幅提升里面的可视化内容还能在写文档的时候当配图 ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%88%91%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%86%85%E5%AE%B9%E6%90%9C%E9%9B%86%E5%92%8C%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84%E5%B7%B2%E7%BB%8F%E5%8F%98%E4%BA%86%E6%83%B3%E5%86%99%E4%B8%AA+MCP+%E7%9A%84%E6%95%99%E7%A8%8B%E5%92%8C%E4%BB%8B%E7%BB%8D%E7%9B%B4%E6%8E%A5+Gemini+Deep+Research+%E6%90%9C%E7%B4%A2%E6%95%B4%E7%90%86%E6%88%90%E6%96%87%E6%A1%A3%E7%84%B6%E5%90%8E%E5%86%8D%E7%94%A8%E6%88%91%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D%E5%8F%98%E6%88%90%E5%8F%AF%E8%A7%86%E5%8C%96%E9%A1%B5%E9%9D%A2%E8%BE%85%E5%8A%A9%E9%98%85%E8%AF%BB%E5%92%8C%E7%90%86%E8%A7%A3%EF%BC%8C%E7%9F%A5%E8%AF%86%E6%B6%88%E5%8C%96%E9%80%9F%E5%BA%A6%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%E9%87%8C%E9%9D%A2%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E5%86%85%E5%AE%B9%E8%BF%98%E8%83%BD%E5%9C%A8%E5%86%99%E6%96%87%E6%A1%A3%E7%9A%84%E6%97%B6%E5%80%99%E5%BD%93%E9%85%8D%E5%9B%BE+ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [大幅](大幅.md), [搜索](搜索.md), [直接](直接.md), [速度](速度.md)
+___
+##### 2025-03-17 00:05:01 UTC ~ AI Will
+> RT @FinanceYF5: Gemini Flash 2.0带有原生图像生成功能，简直疯狂它可以生成视觉故事板，通过聊天编辑图像，并在任何图像上准确渲染文本。它甚至通过一个简单的文本提示生成了日语漫画。来自：Shubham Saboo https://t.co/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Gemini+Flash+2.0%E5%B8%A6%E6%9C%89%E5%8E%9F%E7%94%9F%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E5%8A%9F%E8%83%BD%EF%BC%8C%E7%AE%80%E7%9B%B4%E7%96%AF%E7%8B%82%E5%AE%83%E5%8F%AF%E4%BB%A5%E7%94%9F%E6%88%90%E8%A7%86%E8%A7%89%E6%95%85%E4%BA%8B%E6%9D%BF%EF%BC%8C%E9%80%9A%E8%BF%87%E8%81%8A%E5%A4%A9%E7%BC%96%E8%BE%91%E5%9B%BE%E5%83%8F%EF%BC%8C%E5%B9%B6%E5%9C%A8%E4%BB%BB%E4%BD%95%E5%9B%BE%E5%83%8F%E4%B8%8A%E5%87%86%E7%A1%AE%E6%B8%B2%E6%9F%93%E6%96%87%E6%9C%AC%E3%80%82%E5%AE%83%E7%94%9A%E8%87%B3%E9%80%9A%E8%BF%87%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E6%96%87%E6%9C%AC%E6%8F%90%E7%A4%BA%E7%94%9F%E6%88%90%E4%BA%86%E6%97%A5%E8%AF%AD%E6%BC%AB%E7%94%BB%E3%80%82%E6%9D%A5%E8%87%AA%EF%BC%9AShubham+Saboo+https%3A%2F%2Ft.co%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[来自](来自.md), [漫画](漫画.md), [疯狂](疯狂.md), [聊天](聊天.md)
+___
 ##### 2025-03-15 20:07:33 UTC ~ Rozfex
 > RT @rozfex: 电商产品拍摄和修图行业被Google Gemini 彻底摧毁，这就是原生多模态大模型的威力！Gemini就是免费干活的修图师，以跨境电商行业来举例，一般我们选好品、确认进行跟卖之后，头疼的就是要改图让跟竞品不一样。现在直接说出自己的需求，5秒就完成，…
 

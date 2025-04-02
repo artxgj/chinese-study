@@ -13,6 +13,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [推理](../hanzi-cards/推理.md) | inference; reasoning |
 | [混合专家](../hanzi-cards/混合专家.md) | Mixture of Experts (MoE) |
 | [大型语言模型](../hanzi-cards/大型语言模型.md) | Large Language Model (LLM) |
+| [检索增强生成](../hanzi-cards/检索增强生成.md)/[RAG](../hanzi-cards/RAG.md) | Retrieval Augmented Generation |
 ## Astronomy and Space
 |  |  |
 | ----- | :---: |
@@ -179,6 +180,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [安卓](../hanzi-cards/安卓.md) | Android (OS) |
 | [闪退](../hanzi-cards/闪退.md) | (of a mobile app) to crash on startup; to crash |
 | [开源](../hanzi-cards/开源.md)/[開源](../hanzi-cards/開源.md) | open source |
+| [代码](../hanzi-cards/代码.md)/[代碼](../hanzi-cards/代碼.md) | code |
+| [程序](../hanzi-cards/程序.md) | computer program; sequence; order; procedures |
+| [数据结构](../hanzi-cards/数据结构.md) | data structure |
 ## Physics
 |  |  |
 | ----- | :---: |

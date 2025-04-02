@@ -7,6 +7,18 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-03-24 06:09:21 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 蚂蚁集团仍在使用英伟达进行AI开发，但现在主要依赖AMD和中国芯片之类的替代品来训练最新模型。#南洋商报 #蚂蚁集团 #AI #chips #Chinahttps://t.co/vG4dTowST7 https://t.co/UHDtf0…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E4%BB%8D%E5%9C%A8%E4%BD%BF%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%9B%E8%A1%8CAI%E5%BC%80%E5%8F%91%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E4%B8%BB%E8%A6%81%E4%BE%9D%E8%B5%96AMD%E5%92%8C%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B9%8B%E7%B1%BB%E7%9A%84%E6%9B%BF%E4%BB%A3%E5%93%81%E6%9D%A5%E8%AE%AD%E7%BB%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2+%23AI+%23chips+%23Chinahttps%3A%2F%2Ft.co%2FvG4dTowST7+https%3A%2F%2Ft.co%2FUHDtf0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[依赖](依赖.md), [型](型.md), [开发](开发.md), [替代](替代.md), [模型](模型.md), [芯片](芯片.md), [英伟达](英伟达.md), [进行](进行.md)
+___
+##### 2025-03-22 07:59:31 UTC ~ Andy Stewart
+> RT @manateelazycat: 配件到齐了，明天就可以安装AMD 9950x啦，最强风冷，把超频干满，开森。 https://t.co/HP0GAR7J27
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+%E9%85%8D%E4%BB%B6%E5%88%B0%E9%BD%90%E4%BA%86%EF%BC%8C%E6%98%8E%E5%A4%A9%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%AE%89%E8%A3%85AMD+9950x%E5%95%A6%EF%BC%8C%E6%9C%80%E5%BC%BA%E9%A3%8E%E5%86%B7%EF%BC%8C%E6%8A%8A%E8%B6%85%E9%A2%91%E5%B9%B2%E6%BB%A1%EF%BC%8C%E5%BC%80%E6%A3%AE%E3%80%82+https%3A%2F%2Ft.co%2FHP0GAR7J27)
+___
 ##### 2025-03-12 08:25:15 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 全球芯片代工巨头台积电据报向美国芯片设计公司英伟达、AMD和博通提议入股一家合资企业，以运营美国科技巨头英特尔的晶圆厂。 https://t.co/WWEZMCXg9Y https://t.co/wAwA5400Pm
 
@@ -138,7 +150,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6%E5%90%91%E4%B8%AD%E6%9D%B1%E5%87%BA%E5%8F%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E8%AD%A6%E6%83%95%E6%B5%81%E5%90%91%E4%B8%AD%E5%9C%8B%E3%80%91%E6%93%9A%E6%82%89%E9%87%9D%E5%B0%8D%E8%8B%B1%E5%81%89%E9%81%94%E5%92%8CAMD%E7%AD%89%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E6%AD%A3%E5%9C%A8%E6%8E%A8%E9%81%B2%E7%99%BC%E6%94%BE%E5%B0%8D%E4%B8%AD%E6%9D%B1%E7%9A%84%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FR4p09KXMac)
 ##### Other Words/Names of Interest in the Above Tweet
-[半導體](半導體.md), [美國](美國.md), [英偉達](英偉達.md), [限制](限制.md)
+[Mac](Mac.md), [半導體](半導體.md), [美國](美國.md), [英偉達](英偉達.md), [限制](限制.md)
 ___
 ##### 2024-05-31 04:18:07 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 知情人士透露，美国官员已放慢了发给英伟达（#Nvidia）和超微（#AMD）等芯片制造商向中东地区大批出口人工智能（AI）加速器的许可证。 https://t.co/b1j0kA56Wr https://t.co/UXOhv3Y9h7
@@ -201,7 +213,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%8E%A8%E5%87%BA%E6%8C%87%E5%AF%BC%E6%96%B9%E9%92%88%EF%BC%8C%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%EF%BC%8C%E5%9B%BD%E4%BC%81%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AEAMD%EF%BC%88%E4%B9%9F%E7%A7%B0%E8%B6%85%E5%A8%81%EF%BC%89%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E7%82%B9%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%EF%BC%8C%E9%87%87%E8%B4%AD%E5%87%86%E5%88%99%E8%BF%98%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E9%87%87%E8%B4%AD%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BD%AC%E8%80%8C%E9%80%89%E6%8B%A9%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%B4%A7%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
+[Windows](Windows.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
 ___
 ##### 2024-03-24 09:46:39 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 英国媒体报道，中国已推出采购需求标准，意味着中国禁止政府电脑使用英特尔和超威半导体（AMD）芯片。https://t.co/iENfB1PmrU
@@ -278,7 +290,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Dan+Gallagher%E5%86%99%E9%81%93%EF%BC%8CAI%E7%83%AD%E6%BD%AE%E4%BC%BC%E4%B9%8E%E4%BC%9A%E7%BB%99AMD%E7%9A%84%E6%9C%80%E6%96%B0%E8%8A%AF%E7%89%87%E8%8E%B7%E5%BE%97%E6%88%90%E5%8A%9F%E6%89%93%E4%BA%86%E5%8C%85%E7%A5%A8%E3%80%82+%E4%BD%86%E6%98%AF%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9C%A8%E8%BF%99%E4%B8%AA%E5%B8%82%E5%9C%BA%E4%B8%8A%E6%9C%89%E5%BE%88%E5%BC%BA%E7%9A%84%E5%85%88%E5%8F%91%E4%BC%98%E5%8A%BF%EF%BC%8C%E4%BB%96%E4%BB%AC%E8%8A%B1%E4%BA%86%E5%A4%9A%E5%B9%B4%E6%97%B6%E9%97%B4%E5%BC%80%E5%8F%91%E5%BA%95%E5%B1%82%E8%BD%AF%E4%BB%B6%E4%BB%A3%E7%A0%81%E5%92%8C%E5%85%B6%E4%BB%96%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%EF%BC%8C%E8%BF%99%E6%98%AF%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E9%9A%BE%E4%BB%A5%E6%94%BB%E5%85%8B%E7%9A%84%E6%8C%91%E6%88%98%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8CAMD%E7%9A%84%E6%9C%80%E6%96%B0%E6%95%B0%E6%8D%AE%E4%B8%AD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[优势](优势.md), [关键](关键.md), [开发](开发.md), [技术](技术.md), [挑战](挑战.md), [数据](数据.md), [热潮](热潮.md), [竞争](竞争.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md)
+[代码](代码.md), [优势](优势.md), [关键](关键.md), [开发](开发.md), [技术](技术.md), [挑战](挑战.md), [数据](数据.md), [热潮](热潮.md), [竞争](竞争.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md)
 ___
 ##### 2023-05-05 06:05:28 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD的股价周四突然飙升，此前有报道称，这家芯片制造商正与微软合作进军人工智能处理器市场。该报道援引匿名消息称，微软将在AMD开展这项工作时提供财务支持。https://t.co/X8XTHlHyql

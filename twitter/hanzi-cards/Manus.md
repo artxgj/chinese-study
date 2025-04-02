@@ -7,12 +7,40 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2025-04-01 03:47:14 UTC ~ 汉松
+> RT @Yonah_x: 智谱清言的 AutoGLM 效果还不错，在一众的开源 Manus 中是最能打的。我的测试 case 是让它：“到pubmed上面帮我总结一下最新的三篇关于糖尿病的研究”，完成度目前看是 AutoGLM &gt; owl &gt; openmanus。 https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Yonah_x%3A+%E6%99%BA%E8%B0%B1%E6%B8%85%E8%A8%80%E7%9A%84+AutoGLM+%E6%95%88%E6%9E%9C%E8%BF%98%E4%B8%8D%E9%94%99%EF%BC%8C%E5%9C%A8%E4%B8%80%E4%BC%97%E7%9A%84%E5%BC%80%E6%BA%90+Manus+%E4%B8%AD%E6%98%AF%E6%9C%80%E8%83%BD%E6%89%93%E7%9A%84%E3%80%82%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95+case+%E6%98%AF%E8%AE%A9%E5%AE%83%EF%BC%9A%E2%80%9C%E5%88%B0pubmed%E4%B8%8A%E9%9D%A2%E5%B8%AE%E6%88%91%E6%80%BB%E7%BB%93%E4%B8%80%E4%B8%8B%E6%9C%80%E6%96%B0%E7%9A%84%E4%B8%89%E7%AF%87%E5%85%B3%E4%BA%8E%E7%B3%96%E5%B0%BF%E7%97%85%E7%9A%84%E7%A0%94%E7%A9%B6%E2%80%9D%EF%BC%8C%E5%AE%8C%E6%88%90%E5%BA%A6%E7%9B%AE%E5%89%8D%E7%9C%8B%E6%98%AF+AutoGLM+%26gt%3B+owl+%26gt%3B+openmanus%E3%80%82+https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开源](开源.md), [总结](总结.md), [糖尿病](糖尿病.md)
+___
+##### 2025-03-25 05:34:26 UTC ~ AIGCLINK
+> RT @aigclink: 一款完全本地化的AI助手项目：AgenticSeek，本地版Manus AI，支持语音输入，可通过语音交互支持语音交互、文件系统操作、代码编写与调试、网页浏览、自主任务规划和执行等#AgenticSeek #AI助手 https://t.co…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E4%B8%80%E6%AC%BE%E5%AE%8C%E5%85%A8%E6%9C%AC%E5%9C%B0%E5%8C%96%E7%9A%84AI%E5%8A%A9%E6%89%8B%E9%A1%B9%E7%9B%AE%EF%BC%9AAgenticSeek%EF%BC%8C%E6%9C%AC%E5%9C%B0%E7%89%88Manus+AI%EF%BC%8C%E6%94%AF%E6%8C%81%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%EF%BC%8C%E5%8F%AF%E9%80%9A%E8%BF%87%E8%AF%AD%E9%9F%B3%E4%BA%A4%E4%BA%92%E6%94%AF%E6%8C%81%E8%AF%AD%E9%9F%B3%E4%BA%A4%E4%BA%92%E3%80%81%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%93%8D%E4%BD%9C%E3%80%81%E4%BB%A3%E7%A0%81%E7%BC%96%E5%86%99%E4%B8%8E%E8%B0%83%E8%AF%95%E3%80%81%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E3%80%81%E8%87%AA%E4%B8%BB%E4%BB%BB%E5%8A%A1%E8%A7%84%E5%88%92%E5%92%8C%E6%89%A7%E8%A1%8C%E7%AD%89%23AgenticSeek+%23AI%E5%8A%A9%E6%89%8B+https%3A%2F%2Ft.co%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [执行](执行.md), [操作](操作.md), [支持](支持.md), [文件](文件.md), [本地化](本地化.md), [系统](系统.md), [规划](规划.md), [项目](项目.md)
+___
+##### 2025-03-21 09:21:05 UTC ~ meng shao
+> RT @shao__meng: LangManus，一个社区驱动的 AI 自动化多智能体框架，专注于将语言模型与专业工具(如网络搜索、爬虫和 Python 代码执行)相结合项目本质- 学术驱动: 由一群前同事在业余时间开发的学术研究项目- 开源理念: 基于 MIT 许可…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40shao__meng%3A+LangManus%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%A4%BE%E5%8C%BA%E9%A9%B1%E5%8A%A8%E7%9A%84+AI+%E8%87%AA%E5%8A%A8%E5%8C%96%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%A1%86%E6%9E%B6%EF%BC%8C%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%B0%86%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E4%B8%93%E4%B8%9A%E5%B7%A5%E5%85%B7%28%E5%A6%82%E7%BD%91%E7%BB%9C%E6%90%9C%E7%B4%A2%E3%80%81%E7%88%AC%E8%99%AB%E5%92%8C+Python+%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%29%E7%9B%B8%E7%BB%93%E5%90%88%E9%A1%B9%E7%9B%AE%E6%9C%AC%E8%B4%A8-+%E5%AD%A6%E6%9C%AF%E9%A9%B1%E5%8A%A8%3A+%E7%94%B1%E4%B8%80%E7%BE%A4%E5%89%8D%E5%90%8C%E4%BA%8B%E5%9C%A8%E4%B8%9A%E4%BD%99%E6%97%B6%E9%97%B4%E5%BC%80%E5%8F%91%E7%9A%84%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE-+%E5%BC%80%E6%BA%90%E7%90%86%E5%BF%B5%3A+%E5%9F%BA%E4%BA%8E+MIT+%E8%AE%B8%E5%8F%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Python](Python.md), [代码](代码.md), [型](型.md), [工具](工具.md), [开发](开发.md), [开源](开源.md), [执行](执行.md), [搜索](搜索.md), [本质](本质.md), [模型](模型.md), [自动化](自动化.md), [项目](项目.md)
+___
+##### 2025-03-17 00:02:11 UTC ~ AI Will
+> RT @FinanceYF5: Manus AI昨天彻底颠覆了氛围编程。人们简直不敢相信这个具备代理能力的AI有多么震撼。开启了新的可能性。10个疯狂的例子：1. 提示：“编写一个threejs游戏，你控制一架飞机” https://t.co/d6IuhsudLy
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Manus+AI%E6%98%A8%E5%A4%A9%E5%BD%BB%E5%BA%95%E9%A2%A0%E8%A6%86%E4%BA%86%E6%B0%9B%E5%9B%B4%E7%BC%96%E7%A8%8B%E3%80%82%E4%BA%BA%E4%BB%AC%E7%AE%80%E7%9B%B4%E4%B8%8D%E6%95%A2%E7%9B%B8%E4%BF%A1%E8%BF%99%E4%B8%AA%E5%85%B7%E5%A4%87%E4%BB%A3%E7%90%86%E8%83%BD%E5%8A%9B%E7%9A%84AI%E6%9C%89%E5%A4%9A%E4%B9%88%E9%9C%87%E6%92%BC%E3%80%82%E5%BC%80%E5%90%AF%E4%BA%86%E6%96%B0%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%8210%E4%B8%AA%E7%96%AF%E7%8B%82%E7%9A%84%E4%BE%8B%E5%AD%90%EF%BC%9A1.+%E6%8F%90%E7%A4%BA%EF%BC%9A%E2%80%9C%E7%BC%96%E5%86%99%E4%B8%80%E4%B8%AAthreejs%E6%B8%B8%E6%88%8F%EF%BC%8C%E4%BD%A0%E6%8E%A7%E5%88%B6%E4%B8%80%E6%9E%B6%E9%A3%9E%E6%9C%BA%E2%80%9D+https%3A%2F%2Ft.co%2Fd6IuhsudLy)
+##### Other Words/Names of Interest in the Above Tweet
+[控制](控制.md), [氛围](氛围.md), [疯狂](疯狂.md), [颠覆](颠覆.md)
+___
 ##### 2025-03-16 04:34:34 UTC ~ karminski-牙医
 > RT @karminski3: ManusAI 开源替代如同雨后大葱，又看到一个——AgenticSeek这个项目支持语音交互，可以编写代码，内置了Agent路由可以自动选择应该使用哪个Agent来完成任务。并且可以将大型任务拆分逐步完成。地址：https://t.co…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+ManusAI+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3%E5%A6%82%E5%90%8C%E9%9B%A8%E5%90%8E%E5%A4%A7%E8%91%B1%EF%BC%8C%E5%8F%88%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E2%80%94%E2%80%94AgenticSeek%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E6%94%AF%E6%8C%81%E8%AF%AD%E9%9F%B3%E4%BA%A4%E4%BA%92%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%BC%96%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%86%85%E7%BD%AE%E4%BA%86Agent%E8%B7%AF%E7%94%B1%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8A%A8%E9%80%89%E6%8B%A9%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E5%93%AA%E4%B8%AAAgent%E6%9D%A5%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E3%80%82%E5%B9%B6%E4%B8%94%E5%8F%AF%E4%BB%A5%E5%B0%86%E5%A4%A7%E5%9E%8B%E4%BB%BB%E5%8A%A1%E6%8B%86%E5%88%86%E9%80%90%E6%AD%A5%E5%AE%8C%E6%88%90%E3%80%82%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [大葱](大葱.md), [开源](开源.md), [支持](支持.md), [替代](替代.md), [葱](葱.md), [逐步](逐步.md), [项目](项目.md)
+[代码](代码.md), [型](型.md), [大葱](大葱.md), [开源](开源.md), [支持](支持.md), [替代](替代.md), [葱](葱.md), [逐步](逐步.md), [项目](项目.md)
 ___
 ##### 2025-03-15 05:23:37 UTC ~ JimmyLv.eth (🐣, 🐣) 2𐃏24
 > RT @Jimmy_JingLv: 推荐张小珺采访Manus创始人肖弘的播客“昨天问DeepSeek翻译一下贪嗔痴这三个词，他好会解释，贪就是对顺境的执着，嗔就是对逆境的不满，痴是对世界真相的无知。世界真相这个很高端了，我就不谈。但是贪和嗔，这是大家很多时候遇到的问题，是对…
@@ -75,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oasisfeng%3A+%E7%9B%B8%E6%AF%94%E5%85%A8%E4%BA%91%E7%AB%AF%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E7%9A%84+Manus%EF%BC%8C%E6%88%91%E6%9B%B4%E5%81%8F%E5%A5%BD+OpenManus+%E8%BF%99%E7%A7%8D%E6%9C%AC%E5%9C%B0%E6%89%A7%E8%A1%8C%E7%9A%84%E6%A8%A1%E5%BC%8F%E3%80%82%E5%AE%B6%E9%87%8C%E7%9A%84+Mac+mini+%E6%AF%8F%E5%A4%A9+95%25+%E6%97%B6%E9%97%B4%E5%A4%84%E4%BA%8E%E5%BE%85%E6%9C%BA%E7%8A%B6%E6%80%81%EF%BC%8C%E6%8C%BA%E6%9C%9F%E5%BE%85%E5%8F%91%E6%8C%A5%E4%BA%9B%E8%83%BD%E5%8A%A8%E6%80%A7%E4%BB%B7%E5%80%BC%E3%80%82%E6%AF%94%E5%A6%82+%E5%B8%AE%E6%88%91%E6%95%B4%E7%90%86%E7%85%A7%E7%89%87%E3%80%81%E6%A0%B9%E6%8D%AE%E6%88%91%E7%9A%84%E6%94%B6%E8%97%8F%E5%8E%BB%E5%88%B7+Reddit+%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E6%96%B0%E5%B8%96%E3%80%81%E5%8F%8D%E5%A4%8D%E6%89%93%E7%A3%A8%E4%B9%8B%E5%89%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发挥](发挥.md), [处于](处于.md), [执行](执行.md), [根据](根据.md), [模式](模式.md), [状态](状态.md)
+[Mac](Mac.md), [发挥](发挥.md), [处于](处于.md), [执行](执行.md), [根据](根据.md), [模式](模式.md), [状态](状态.md)
 ___
 ##### 2025-03-08 09:56:37 UTC ~ orange.ai
 > RT @oran_ge: Manus 火了，这个火爆程度竟然直接出圈，火到了抖音，火到了央媒，火到了券商研究员拿5万现金求个调研，火到闲鱼一个邀请码都要5万。也许是因为 DeepSeek 火爆在先，大众对技术的热情变得异常高涨，同时又是国产团队作品，自然就承载了一些情怀与希…
