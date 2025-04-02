@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E8%AE%A9+Claude+%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%85%B7%E5%A4%87%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E5%92%8C%E7%BC%96%E8%BE%91%E6%96%87%E4%BB%B6%E8%83%BD%E5%8A%9B%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9ADesktop+Commander+MCP%E3%80%82%E9%80%9A%E8%BF%87%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE%28MCP%29%E8%AE%A9+Claude+%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E3%80%81%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91%E5%92%8C%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [模型](模型.md), [进程](进程.md)
+[Claude](Claude.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [模型](模型.md), [进程](进程.md)
 ___
 ##### 2025-03-23 04:13:13 UTC ~ Lex Tang
 > RT @lexrus: 以后学 Swift 新特性可以用 MCP 这样玩：prompt: `search_with_bing 查找 Swift 语言 6.0 版新特性。crawl_webpages 访问 https://t.co/WzGzKK9iDT ，模仿作者的文风，整理出…
@@ -178,7 +178,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E5%A5%97%E9%80%82%E7%94%A8%E4%BA%8E+MCP%EF%BC%88%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%89%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%EF%BC%9AApple+MCP+tools%E3%80%82%E5%8F%AA%E9%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%87%A0%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%B7%BB%E5%8A%A0%E5%88%B0+Claude+%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E4%B8%AD%EF%BC%8C%E5%8D%B3%E5%8F%AF%E6%8E%88%E4%BA%88%E8%AE%BF%E9%97%AE%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%E7%9A%84%E6%9D%83%E9%99%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2F2K9vr1Q9ed%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
+[Claude](Claude.md), [上下文](上下文.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
 ___
 ##### 2025-02-22 19:05:52 UTC ~ Geek
 > RT @geekbb: Cline 的 MCP 市场功能上线后彻底简化了部署流程，无需三步走，它可自主完成环境配置与依赖包安装。我喝着茶看它一直跑，见证复杂任务被 Cline 优雅解决，感受到了技术赋能带来的效率提升。 https://t.co/0WXhNPfMZM
@@ -192,7 +192,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40akazwz_%3A+%E4%BB%80%E4%B9%88%E6%98%AFMCP%EF%BC%9FMCP%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E6%94%BE%E5%8D%8F%E8%AE%AE%2C%E7%94%A8%E4%BA%8E%E6%A0%87%E5%87%86%E5%8C%96%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E4%B8%BALLM%E6%8F%90%E4%BE%9B%E4%B8%8A%E4%B8%8B%E6%96%87%E3%80%82%E5%B0%86MCP%E8%A7%86%E4%B8%BAAI%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84USB-C%E7%AB%AF%E5%8F%A3%E3%80%82%E6%AD%A3%E5%A6%82USB-C%E6%8F%90%E4%BE%9B%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B0%86%E8%AE%BE%E5%A4%87%E8%BF%9E%E6%8E%A5%E5%88%B0%E5%90%84%E7%A7%8D%E5%A4%96%E5%9B%B4%E8%AE%BE%E5%A4%87%E5%92%8C%E9%99%84%E4%BB%B6%E7%9A%84%E6%A0%87%E5%87%86%E5%8C%96%E6%96%B9%E6%B3%95%E4%B8%80%E6%A0%B7%2CMCP%E4%B9%9F%E6%8F%90%E4%BE%9B%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B0%86AI%E6%A8%A1%E5%9E%8B%E8%BF%9E%E6%8E%A5%E5%88%B0%E4%B8%8D%E5%90%8C%E6%95%B0%E6%8D%AE%E6%BA%90%E5%92%8C%E5%B7%A5%E5%85%B7%E7%9A%84%E6%A0%87%E5%87%86%E5%8C%96%E6%96%B9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [型](型.md), [工具](工具.md), [提供](提供.md), [数据](数据.md), [模型](模型.md), [用于](用于.md), [程序](程序.md), [连接](连接.md)
+[上下文](上下文.md), [协议](协议.md), [型](型.md), [工具](工具.md), [提供](提供.md), [数据](数据.md), [模型](模型.md), [用于](用于.md), [程序](程序.md), [连接](连接.md)
 ___
 ##### 2024-07-31 04:35:09 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国7月份制造业采购经理指数（PMI）连续第三个月萎缩，加剧外界对中国经济复苏步伐的担忧。  https://t.co/MCPIYHr7Fn

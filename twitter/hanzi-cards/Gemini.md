@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%90%AD%E9%85%8D%E4%BD%BF%E7%94%A8%E5%BE%88%E6%9C%89%E5%BF%85%E8%A6%81%E6%AF%94%E5%A6%82+DeepResearch+%E6%93%85%E9%95%BF%E6%90%9C%E9%9B%86%E8%B5%84%E6%96%99%E6%AF%94%E5%A6%82Gemini%E5%92%8CGrok%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8F%AF%E4%BB%A5%E5%BE%88%E9%95%BF%EF%BC%8C%E5%86%85%E5%AE%B9%E5%A4%9A%E7%9A%84%E5%B0%B1%E5%85%88%E8%AE%A9%E5%AE%83%E4%BB%AC%E9%A2%84%E5%A4%84%E7%90%86%E6%8A%8A%E9%95%BF%E5%BA%A6%E6%B5%93%E7%BC%A9%E6%AF%94%E5%A6%82Claude%E6%93%85%E9%95%BF%E7%BC%96%E7%A8%8B%E6%AF%94%E5%A6%82GPT-4.5%E5%86%99%E4%BD%9C%E5%BE%88%E5%A5%BD%E4%BD%86%E9%95%BF%E5%BA%A6%E4%B8%8D%E8%83%BD%E5%A4%AA%E9%95%BF%E6%AF%94%E5%A6%82%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%A8+Gemini+%E5%A4%84%E7%90%86%E6%9C%80%E5%A5%BD%E7%94%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
+[Claude](Claude.md), [上下文](上下文.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
 ___
 ##### 2025-03-27 19:28:55 UTC ~ -Zho-
 > RT @ZHO_ZHO_ZHO: 卧槽，谁说不行？！！！4o 同样可以像 Gemini 一样一句话生成连续的故事剧情和分镜！！！啥也别说了（附提示词）刚刚测试发现 4o 可以剧情+图片连续生成，并且图像质量、特征保持、语义跟随以及故事拓展与修改都比 Gemini 强！！…
@@ -54,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%80%AA%E4%B8%8D%E5%BE%97Open+AI%E4%BB%8A%E6%99%9A%E6%9C%89%E5%8F%91%E5%B8%83%EF%BC%8C%E5%8E%9F%E6%9D%A5%E5%8F%88%E6%98%AF%E7%8B%99%E5%87%BB%E8%B0%B7%E6%AD%8C%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83+Gemini+2.5+Pro+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%B5%8B%E8%AF%95%E5%88%86%E6%95%B0%E5%BE%88%E7%A6%BB%E8%B0%B1-+100+%E4%B8%87+token+%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3-+%E6%94%AF%E6%8C%81%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B-+%E6%96%87%E6%9C%AC%E3%80%81%E9%9F%B3%E9%A2%91%E3%80%81%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E5%A4%9A%E6%A8%A1%E6%80%81-+SWE-Bench+Verified+%E7%BC%96%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [谷歌](谷歌.md)
+[上下文](上下文.md), [发布](发布.md), [型](型.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [谷歌](谷歌.md)
 ___
 ##### 2025-03-26 04:48:51 UTC ~ Robinson · 鲁棒逊
 > RT @python_xxt: Google Gemini 2.0 pro的吞吐效率，带来的体验提升，远远被低估了在我日常使用中，占比约50-60%Gemini 2.5 pro 更强了，占比只会进一步提高CloseAI 危矣 https://t.co/n664BWf…

@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%90%AD%E9%85%8D%E4%BD%BF%E7%94%A8%E5%BE%88%E6%9C%89%E5%BF%85%E8%A6%81%E6%AF%94%E5%A6%82+DeepResearch+%E6%93%85%E9%95%BF%E6%90%9C%E9%9B%86%E8%B5%84%E6%96%99%E6%AF%94%E5%A6%82Gemini%E5%92%8CGrok%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8F%AF%E4%BB%A5%E5%BE%88%E9%95%BF%EF%BC%8C%E5%86%85%E5%AE%B9%E5%A4%9A%E7%9A%84%E5%B0%B1%E5%85%88%E8%AE%A9%E5%AE%83%E4%BB%AC%E9%A2%84%E5%A4%84%E7%90%86%E6%8A%8A%E9%95%BF%E5%BA%A6%E6%B5%93%E7%BC%A9%E6%AF%94%E5%A6%82Claude%E6%93%85%E9%95%BF%E7%BC%96%E7%A8%8B%E6%AF%94%E5%A6%82GPT-4.5%E5%86%99%E4%BD%9C%E5%BE%88%E5%A5%BD%E4%BD%86%E9%95%BF%E5%BA%A6%E4%B8%8D%E8%83%BD%E5%A4%AA%E9%95%BF%E6%AF%94%E5%A6%82%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%A8+Gemini+%E5%A4%84%E7%90%86%E6%9C%80%E5%A5%BD%E7%94%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemini](Gemini.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
+[Gemini](Gemini.md), [上下文](上下文.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
 ___
 ##### 2025-03-31 06:55:20 UTC ~ AI Will
 > RT @FinanceYF5: Anthropic发布新研究：追踪大型语言模型的思维过程Anthropic开发了一种“显微镜”来检查 AI 模型内部发生的事情，并利用它来理解 Claude（其内部机制往往复杂且令人惊讶）。以下原文 https://t.co/v8HkYF…
@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E8%AE%A9+Claude+%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%85%B7%E5%A4%87%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E5%92%8C%E7%BC%96%E8%BE%91%E6%96%87%E4%BB%B6%E8%83%BD%E5%8A%9B%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9ADesktop+Commander+MCP%E3%80%82%E9%80%9A%E8%BF%87%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE%28MCP%29%E8%AE%A9+Claude+%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E3%80%81%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91%E5%92%8C%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [模型](模型.md), [进程](进程.md)
+[MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [模型](模型.md), [进程](进程.md)
 ___
 ##### 2025-03-23 04:08:20 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 昨天向阳乔木整了一套用Claude生成海报的提示词效果非常好，基于他的发散了几个样式可以期待他明天的教程，人人都能实现海报自由了 https://t.co/17LAva36ca
@@ -103,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+Anthropic%E5%B0%86%E6%8E%A8%E5%87%BA%E4%B8%80%E4%B8%AA%E5%8F%ABHarmony%E7%9A%84%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E6%94%AF%E6%8C%81%E5%B0%86%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E9%9B%86%E6%88%90%E5%88%B0Claude%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B8%AD%E8%BF%99%E6%84%8F%E5%91%B3%E7%9D%80Claude%E8%83%BD%E7%9B%B4%E6%8E%A5%E8%AF%BB%E5%8F%96%E3%80%81%E7%B4%A2%E5%BC%95%E3%80%81%E5%88%86%E6%9E%90%E7%9B%AE%E5%BD%95%E4%B8%AD%E7%9A%84%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%EF%BC%8C%E4%B8%8E%E4%BD%A0%E7%9A%84%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E6%97%A0%E7%BC%9D%E4%BA%A4%E4%BA%92%E4%BB%A5%E5%89%8D%EF%BC%8C%E4%BD%A0%E5%BE%97%E6%89%8B%E5%8A%A8%E6%8A%8A%E4%BB%A3%E7%A0%81%E7%BB%99Claude%EF%BC%8C%E7%8E%B0%E5%9C%A8%EF%BC%8C%E7%9B%B4%E6%8E%A5%E8%AE%A9%E5%AE%83%E7%9C%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [代码](代码.md), [分析](分析.md), [意味](意味.md), [意味着](意味着.md), [推出](推出.md), [支持](支持.md), [文件](文件.md), [直接](直接.md)
+[Anthropic](Anthropic.md), [上下文](上下文.md), [代码](代码.md), [分析](分析.md), [意味](意味.md), [意味着](意味着.md), [推出](推出.md), [支持](支持.md), [文件](文件.md), [直接](直接.md)
 ___
 ##### 2025-03-16 18:33:32 UTC ~ orange.ai
 > RT @oran_ge: Claude 在升级到 3.7 之后，能力获得了大幅提升，在前端编程方面已经远远超出其他模型，重新定义了 AI PPT 的概念，我已经把所有图表都交给 Claude 3.7 用代码直接写了。… https://t.co/n9Cmyjk52z
@@ -138,7 +138,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E5%A5%97%E9%80%82%E7%94%A8%E4%BA%8E+MCP%EF%BC%88%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%89%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%EF%BC%9AApple+MCP+tools%E3%80%82%E5%8F%AA%E9%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%87%A0%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%B7%BB%E5%8A%A0%E5%88%B0+Claude+%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E4%B8%AD%EF%BC%8C%E5%8D%B3%E5%8F%AF%E6%8E%88%E4%BA%88%E8%AE%BF%E9%97%AE%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%E7%9A%84%E6%9D%83%E9%99%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2F2K9vr1Q9ed%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
+[MCP](MCP.md), [上下文](上下文.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
 ___
 ##### 2025-02-24 11:26:38 UTC ~ Tw93
 > RT @HiTw93: 假如你想找一些现在 AI 相关的图标设计稿内容，比如 Grok, DeepSeek, ChatGPT, Claude, Gemini，可以去 figma 这个地址瞧瞧。https://t.co/MsUHlCPYy4 https://t.co/RvNid…

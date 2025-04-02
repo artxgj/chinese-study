@@ -42,6 +42,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [牛顿](../hanzi-cards/牛顿.md) | Newton |
 | [巴菲特](../hanzi-cards/巴菲特.md) | Buffett |
 | [芒格](../hanzi-cards/芒格.md) | Munger |
+| [杰弗里·萨克斯](../hanzi-cards/杰弗里·萨克斯.md) | Jeffrey Sachs |
 | [川普](../hanzi-cards/川普.md)/[特朗普](../hanzi-cards/特朗普.md) | Donald Trump |
 | [尼克松](../hanzi-cards/尼克松.md) | Nixon (Richard Milhaus) |
 | [泰勒丝](../hanzi-cards/泰勒丝.md) | Taylor Swift |

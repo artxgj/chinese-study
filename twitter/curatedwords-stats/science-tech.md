@@ -13,7 +13,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [推理](../hanzi-cards/推理.md) | inference; reasoning |
 | [混合专家](../hanzi-cards/混合专家.md) | Mixture of Experts (MoE) |
 | [大型语言模型](../hanzi-cards/大型语言模型.md) | Large Language Model (LLM) |
-| [检索增强生成](../hanzi-cards/检索增强生成.md)/[RAG](../hanzi-cards/RAG.md) | Retrieval Augmented Generation |
+| [检索增强生成](../hanzi-cards/检索增强生成.md)/[RAG](../hanzi-cards/RAG.md) | Retrieval-Augmented Generation |
 ## Astronomy and Space
 |  |  |
 | ----- | :---: |

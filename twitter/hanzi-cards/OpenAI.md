@@ -187,7 +187,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%9D%A8%E4%B8%B9%E6%97%AD%EF%BC%9A%E8%BF%99%E4%B8%AA%E6%98%A5%E8%8A%82%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF%E3%80%8A%E5%94%90%E6%8E%A2%E3%80%8B%E6%92%9E%E4%B8%8A%E7%9A%84%E9%A3%8E%E5%8F%A3%EF%BC%8C%E8%BF%98%E6%98%AFDeepSeek%E6%BF%80%E8%B5%B7%E7%9A%84%E7%83%AD%E8%AE%AE%EF%BC%8C%E9%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%90%8C%E6%A0%B7%E7%9A%84%E6%97%B6%E4%BB%A3%E8%83%8C%E6%99%AF%E3%80%82%E3%80%8A%E5%94%90%E6%8E%A2%E3%80%8B%E7%9A%84%E7%83%AD%E5%BA%A6%E4%BC%9A%E5%9C%A8%E6%98%A5%E8%8A%82%E6%A1%A3%E8%BF%87%E5%8E%BB%E5%90%8E%E6%B7%A1%E4%B8%8B%E5%8E%BB%EF%BC%8C%E4%BD%86%E4%B8%AD%E7%BE%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E4%BC%9A%E5%BB%B6%E7%BB%AD%EF%BC%8CTikTok%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%81DeepSeek%E4%B8%8EOpenAI%E7%9A%84%E8%A7%92%E5%8A%9B%EF%BC%8C%E9%83%BD%E4%BC%9A%E6%88%90%E4%B8%BA%E5%A4%A7%E5%9B%BD%E7%AB%9E%E4%BA%89%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%AA%E6%B3%A8%E8%84%9A%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [命运](命运.md), [延续](延续.md), [春节](春节.md), [竞争](竞争.md)
+[DeepSeek](DeepSeek.md), [TikTok](TikTok.md), [命运](命运.md), [延续](延续.md), [春节](春节.md), [竞争](竞争.md)
 ___
 ##### 2025-02-01 04:15:12 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国科技巨头阿里巴巴本周发布旗下人工智能（AI）大模型通义千问升级版，称这个新模型性能全球领先，在多项测试中得分优于ChatGPT创始者美国OpenAI、美国脸书母公司Meta、中国初创公司深度求索（DeepSeek）等新发布的模型。 https:/…
@@ -215,7 +215,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BB%A7OpenAI%E5%92%8CAnthropic%E7%AD%89%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E8%BF%9B%E5%86%9B%E7%91%9E%E5%A3%AB%E5%B8%82%E5%9C%BA%EF%BC%8C%E4%BB%A5%E6%8C%96%E6%8E%98%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%89%8D%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B7%A8%E4%BC%81%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8B%E7%9A%84%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E4%B9%9F%E5%9C%A8%E8%8B%8F%E9%BB%8E%E4%B8%96%E8%AE%BE%E7%AB%8B%E4%BA%86%E5%AD%90%E5%85%AC%E5%8F%B8%E3%80%82+https%3A%2F%2Ft.co%2FyjW5KaHLtq)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [互联网](互联网.md), [字节跳动](字节跳动.md), [平台](平台.md), [挖掘](挖掘.md), [瑞士](瑞士.md), [科技](科技.md), [美国](美国.md), [设立](设立.md), [进军](进军.md)
+[Anthropic](Anthropic.md), [TikTok](TikTok.md), [互联网](互联网.md), [字节跳动](字节跳动.md), [平台](平台.md), [挖掘](挖掘.md), [瑞士](瑞士.md), [科技](科技.md), [美国](美国.md), [设立](设立.md), [进军](进军.md)
 ___
 ##### 2025-01-30 06:33:37 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据知情人士透露，这项股权投资中的部分资金可能用于OpenAI对“星际之门”(Stargate)的投资承诺。此举可能加深这两家公司的关系，使软银取代微软成为OpenAI最大的投资者。https://t.co/rZgMepiwVl
@@ -229,14 +229,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BB%A7OpenAI%E5%92%8CAnthropic%E7%AD%89%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E8%BF%91%E6%9C%9F%E8%BF%9B%E5%86%9B%E7%91%9E%E5%A3%AB%E4%BB%A5%E6%8C%96%E6%8E%98%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%89%8D%E4%B9%8B%E5%90%8E%EF%BC%8CTikTok%E4%B9%9F%E5%9C%A8%E8%8B%8F%E9%BB%8E%E4%B8%96%E8%AE%BE%E7%AB%8B%E4%BA%86%E4%B8%80%E5%AE%B6%E5%AD%90%E5%85%AC%E5%8F%B8%E3%80%82https%3A%2F%2Ft.co%2FjoHTrMkDSL+https%3A%2F%2Ft.co%2FUZx1R5ZJXG)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [挖掘](挖掘.md), [瑞士](瑞士.md), [科技](科技.md), [设立](设立.md), [进军](进军.md)
+[Anthropic](Anthropic.md), [TikTok](TikTok.md), [挖掘](挖掘.md), [瑞士](瑞士.md), [科技](科技.md), [设立](设立.md), [进军](进军.md)
 ___
 ##### 2025-01-30 04:39:02 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI正在审查DeepSeek使用“蒸馏”技术从OpenAI的工具中提取大量数据以帮助开发其技术的迹象。此前，特朗普的AI沙皇戴维·萨克斯明确指称DeepSeek通过对OpenAI模型进行蒸馏来构建自己的模型。https://t.co/z…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E6%AD%A3%E5%9C%A8%E5%AE%A1%E6%9F%A5DeepSeek%E4%BD%BF%E7%94%A8%E2%80%9C%E8%92%B8%E9%A6%8F%E2%80%9D%E6%8A%80%E6%9C%AF%E4%BB%8EOpenAI%E7%9A%84%E5%B7%A5%E5%85%B7%E4%B8%AD%E6%8F%90%E5%8F%96%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E4%BB%A5%E5%B8%AE%E5%8A%A9%E5%BC%80%E5%8F%91%E5%85%B6%E6%8A%80%E6%9C%AF%E7%9A%84%E8%BF%B9%E8%B1%A1%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84AI%E6%B2%99%E7%9A%87%E6%88%B4%E7%BB%B4%C2%B7%E8%90%A8%E5%85%8B%E6%96%AF%E6%98%8E%E7%A1%AE%E6%8C%87%E7%A7%B0DeepSeek%E9%80%9A%E8%BF%87%E5%AF%B9OpenAI%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E8%92%B8%E9%A6%8F%E6%9D%A5%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82https%3A%2F%2Ft.co%2Fz%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [审查](审查.md), [工具](工具.md), [开发](开发.md), [技术](技术.md), [数据](数据.md), [明确](明确.md), [模型](模型.md), [特朗普](特朗普.md), [蒸馏](蒸馏.md), [进行](进行.md)
+[DeepSeek](DeepSeek.md), [型](型.md), [审查](审查.md), [工具](工具.md), [开发](开发.md), [技术](技术.md), [数据](数据.md), [明确](明确.md), [模型](模型.md), [特朗普](特朗普.md), [萨克斯](萨克斯.md), [蒸馏](蒸馏.md), [进行](进行.md)
 ___
 ##### 2025-01-30 04:36:48 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 软银集团正在商谈向OpenAI投资最高达250亿美元的计划，此举可能使软银成为这家人工智能初创公司最大的支持者。 https://t.co/Si6zO1iXt6
@@ -607,7 +607,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaFinance%3A+TikTok%E5%81%9C%E6%AD%A2%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%BF%90%E8%A1%8C%E3%80%82%E7%8E%B0%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8E%E5%A4%A7%E9%99%86%E5%AE%8C%E5%85%A8%E4%B8%80%E6%A0%B7%EF%BC%9A%E5%8F%AA%E8%83%BD%E7%94%A8%E6%8A%96%E9%9F%B3%EF%BC%8C%E4%B8%8D%E8%83%BD%E7%94%A8%E6%8A%96%E9%9F%B3%E6%B5%B7%E5%A4%96%E7%89%88TikTok%E3%80%82%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%83%85%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%92%8C%E5%86%85%E5%9C%B0%E9%83%BD%E6%98%AF%E8%A6%81%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%E3%80%82%E6%AF%94%E5%A6%82TikTok%E5%92%8COpenAI%E9%83%BD%E4%B8%8D%E8%83%BD%E8%BF%90%E8%90%A5%EF%BC%8C%E5%AF%B9%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%90%9E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28AI%29%E7%9A%84%E9%9D%9E%E5%B8%B8%E8%89%B0%E9%9A%BE%E3%80%82%E4%BC%B0%E8%AE%A1%E4%B8%8B%E4%B8%80%E6%AD%A5%EF%BC%8C%E9%98%B2%E7%81%AB%E5%A2%99%E4%BC%9A%E5%8C%85%E8%A3%B9%E9%A6%99%E6%B8%AF%E3%80%82%E4%BB%A5%E5%90%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [包裹](包裹.md)
+[TikTok](TikTok.md), [人工](人工.md), [人工智能](人工智能.md), [包裹](包裹.md)
 ___
 ##### 2024-03-07 03:44:34 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 生成式人工智能起步公司之间技术竞争越演越烈，ChatGPT劲敌相隔八个月推出新模型备受市场瞩目。不过，作为资本市场的宠儿，市场人士仍看好领头羊OpenAI能获主权投资者的青睐。https://t.co/A3nUjUyaqA

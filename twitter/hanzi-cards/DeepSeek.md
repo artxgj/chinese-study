@@ -289,7 +289,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Gorden_Sun%3A+%E4%B8%8D%E5%88%B0+4+%E4%B8%87%E5%85%83%E7%9A%84+DeepSeek-R1-671B-Q8+%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E7%9B%AE%E5%89%8D%E6%80%A7%E4%BB%B7%E6%AF%94%E6%9C%80%E9%AB%98%E7%9A%84DeepSeek%E7%A1%AC%E4%BB%B6%E6%96%B9%E6%A1%88%E3%80%82%E6%9D%A5%E8%87%AA%E8%85%BE%E8%AE%AF%E7%8E%84%E6%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%EF%BC%8C%E4%BD%BF%E7%94%A8Q8%E9%87%8F%E5%8C%96%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%9C%80%E9%AB%9822K%E4%B8%8A%E4%B8%8B%E6%96%87%E3%80%82+https%3A%2F%2Ft.co%2FYmk53glBnU)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [方案](方案.md), [来自](来自.md), [模型](模型.md), [腾讯](腾讯.md), [量化](量化.md)
+[上下文](上下文.md), [型](型.md), [方案](方案.md), [来自](来自.md), [模型](模型.md), [腾讯](腾讯.md), [量化](量化.md)
 ___
 ##### 2025-03-18 04:06:17 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国商务部各部门最近几周通知工作人员，中国人工智能模型DeepSeek已被禁止在其政府设备上使用。 https://t.co/Mgm0FbzWx4
@@ -380,7 +380,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E7%89%9BP%E4%BA%86%EF%BC%8C%E5%85%84%E5%BC%9F%E4%BB%ACGoogle+%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B+Gemma+3+%E6%80%A7%E8%83%BD%E8%B6%85%E8%B6%8ADeepSeek+V3%E3%80%81o3mini%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%BC%BA%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B-%E6%94%AF%E6%8C%81+140%2B+%E8%AF%AD%E8%A8%80-%E5%A2%9E%E5%BC%BA%E6%96%87%E6%9C%AC%E5%92%8C%E8%A7%86%E8%A7%89%E8%83%BD%E5%8A%9B%EF%BC%8C%E5%8F%AF%E7%90%86%E8%A7%A3%E6%96%87%E6%9C%AC%E3%80%81%E5%9B%BE%E7%89%87%E3%80%81%E7%9F%AD%E8%A7%86%E9%A2%91-128K%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3-%E6%94%AF%E6%8C%81%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%EF%BC%8C%E6%94%AF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemma](Gemma.md), [发布](发布.md), [型](型.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
+[Gemma](Gemma.md), [上下文](上下文.md), [发布](发布.md), [型](型.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-03-12 08:06:54 UTC ~ katon
 > RT @hellokaton: 现在用钉钉/飞书的多维表+DeepSeek 办公非常丝滑访谈纪要→调研报告→用户反馈，自动出思考总结、分类打标、情感分析，打工人的牛马生产力，表格里就能完成 🤯 https://t.co/UH0iu7N2jv
@@ -1994,7 +1994,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%9D%A8%E4%B8%B9%E6%97%AD%EF%BC%9A%E8%BF%99%E4%B8%AA%E6%98%A5%E8%8A%82%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF%E3%80%8A%E5%94%90%E6%8E%A2%E3%80%8B%E6%92%9E%E4%B8%8A%E7%9A%84%E9%A3%8E%E5%8F%A3%EF%BC%8C%E8%BF%98%E6%98%AFDeepSeek%E6%BF%80%E8%B5%B7%E7%9A%84%E7%83%AD%E8%AE%AE%EF%BC%8C%E9%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%90%8C%E6%A0%B7%E7%9A%84%E6%97%B6%E4%BB%A3%E8%83%8C%E6%99%AF%E3%80%82%E3%80%8A%E5%94%90%E6%8E%A2%E3%80%8B%E7%9A%84%E7%83%AD%E5%BA%A6%E4%BC%9A%E5%9C%A8%E6%98%A5%E8%8A%82%E6%A1%A3%E8%BF%87%E5%8E%BB%E5%90%8E%E6%B7%A1%E4%B8%8B%E5%8E%BB%EF%BC%8C%E4%BD%86%E4%B8%AD%E7%BE%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E4%BC%9A%E5%BB%B6%E7%BB%AD%EF%BC%8CTikTok%E7%9A%84%E5%91%BD%E8%BF%90%E3%80%81DeepSeek%E4%B8%8EOpenAI%E7%9A%84%E8%A7%92%E5%8A%9B%EF%BC%8C%E9%83%BD%E4%BC%9A%E6%88%90%E4%B8%BA%E5%A4%A7%E5%9B%BD%E7%AB%9E%E4%BA%89%E6%97%B6%E4%BB%A3%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%AA%E6%B3%A8%E8%84%9A%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [命运](命运.md), [延续](延续.md), [春节](春节.md), [竞争](竞争.md)
+[OpenAI](OpenAI.md), [TikTok](TikTok.md), [命运](命运.md), [延续](延续.md), [春节](春节.md), [竞争](竞争.md)
 ___
 ##### 2025-02-01 05:08:04 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 韩国数据监管机构星期五（1月31日）表示，将要求中国人工智能（AI）公司深度求索（DeepSeek）说明如何管理用户信息。 https://t.co/ARmUa0g6N3
