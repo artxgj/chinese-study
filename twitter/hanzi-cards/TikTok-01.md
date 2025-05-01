@@ -8,6 +8,104 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-03-08 19:09:39 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 美国一个由两党参议员组成的小组将于周二提出一项法案，应对来自对手国家的技术构成的威胁，包括流行的视频分享应用TikTok。该法案是一系列立法中最新的一项，这些立法将解决一个棘手的问题，即如何处理总部位于潜在对手国家（尤其是中国）的公司控制的技术…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%B8%AA%E7%94%B1%E4%B8%A4%E5%85%9A%E5%8F%82%E8%AE%AE%E5%91%98%E7%BB%84%E6%88%90%E7%9A%84%E5%B0%8F%E7%BB%84%E5%B0%86%E4%BA%8E%E5%91%A8%E4%BA%8C%E6%8F%90%E5%87%BA%E4%B8%80%E9%A1%B9%E6%B3%95%E6%A1%88%EF%BC%8C%E5%BA%94%E5%AF%B9%E6%9D%A5%E8%87%AA%E5%AF%B9%E6%89%8B%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%8A%80%E6%9C%AF%E6%9E%84%E6%88%90%E7%9A%84%E5%A8%81%E8%83%81%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%B5%81%E8%A1%8C%E7%9A%84%E8%A7%86%E9%A2%91%E5%88%86%E4%BA%AB%E5%BA%94%E7%94%A8TikTok%E3%80%82%E8%AF%A5%E6%B3%95%E6%A1%88%E6%98%AF%E4%B8%80%E7%B3%BB%E5%88%97%E7%AB%8B%E6%B3%95%E4%B8%AD%E6%9C%80%E6%96%B0%E7%9A%84%E4%B8%80%E9%A1%B9%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%AB%8B%E6%B3%95%E5%B0%86%E8%A7%A3%E5%86%B3%E4%B8%80%E4%B8%AA%E6%A3%98%E6%89%8B%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%8D%B3%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E6%80%BB%E9%83%A8%E4%BD%8D%E4%BA%8E%E6%BD%9C%E5%9C%A8%E5%AF%B9%E6%89%8B%E5%9B%BD%E5%AE%B6%EF%BC%88%E5%B0%A4%E5%85%B6%E6%98%AF%E4%B8%AD%E5%9B%BD%EF%BC%89%E7%9A%84%E5%85%AC%E5%8F%B8%E6%8E%A7%E5%88%B6%E7%9A%84%E6%8A%80%E6%9C%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [处理](处理.md), [威胁](威胁.md), [应对](应对.md), [技术](技术.md), [控制](控制.md), [提出](提出.md), [来自](来自.md), [法案](法案.md), [潜在](潜在.md), [系列](系列.md), [美国](美国.md)
+___
+##### 2023-03-07 02:59:02 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Snap Inc.的股价在周一跳涨了大约11%，因为议员们准备立法限制在美国的海外技术，如TikTok。参议院情报委员会主席华纳周日表示，他将在本周提出一项法案，以解决美国境内的外国技术问题。https://t.co/Z8yC3fC4sh
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Snap+Inc.%E7%9A%84%E8%82%A1%E4%BB%B7%E5%9C%A8%E5%91%A8%E4%B8%80%E8%B7%B3%E6%B6%A8%E4%BA%86%E5%A4%A7%E7%BA%A611%25%EF%BC%8C%E5%9B%A0%E4%B8%BA%E8%AE%AE%E5%91%98%E4%BB%AC%E5%87%86%E5%A4%87%E7%AB%8B%E6%B3%95%E9%99%90%E5%88%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%B5%B7%E5%A4%96%E6%8A%80%E6%9C%AF%EF%BC%8C%E5%A6%82TikTok%E3%80%82%E5%8F%82%E8%AE%AE%E9%99%A2%E6%83%85%E6%8A%A5%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%8D%8E%E7%BA%B3%E5%91%A8%E6%97%A5%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%BB%96%E5%B0%86%E5%9C%A8%E6%9C%AC%E5%91%A8%E6%8F%90%E5%87%BA%E4%B8%80%E9%A1%B9%E6%B3%95%E6%A1%88%EF%BC%8C%E4%BB%A5%E8%A7%A3%E5%86%B3%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%A4%96%E5%9B%BD%E6%8A%80%E6%9C%AF%E9%97%AE%E9%A2%98%E3%80%82https%3A%2F%2Ft.co%2FZ8yC3fC4sh)
+##### Other Words/Names of Interest in the Above Tweet
+[参议院](参议院.md), [委员会](委员会.md), [技术](技术.md), [提出](提出.md), [法案](法案.md), [美国](美国.md), [限制](限制.md)
+___
+##### 2023-03-01 09:44:37 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 美国众议院外交事务委员会开始审议相关立法，以在美国有效禁止TikTok，但将围绕这一措施的投票表决推迟到周三进行。该委员会一些民主党议员提出反对意见，称该法案的表决过于仓促。一些人还说，该法案可能无意中把不构成国家安全风险的美国企业卷入其中。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E5%A4%96%E4%BA%A4%E4%BA%8B%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%BC%80%E5%A7%8B%E5%AE%A1%E8%AE%AE%E7%9B%B8%E5%85%B3%E7%AB%8B%E6%B3%95%EF%BC%8C%E4%BB%A5%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9C%89%E6%95%88%E7%A6%81%E6%AD%A2TikTok%EF%BC%8C%E4%BD%86%E5%B0%86%E5%9B%B4%E7%BB%95%E8%BF%99%E4%B8%80%E6%8E%AA%E6%96%BD%E7%9A%84%E6%8A%95%E7%A5%A8%E8%A1%A8%E5%86%B3%E6%8E%A8%E8%BF%9F%E5%88%B0%E5%91%A8%E4%B8%89%E8%BF%9B%E8%A1%8C%E3%80%82%E8%AF%A5%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%80%E4%BA%9B%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%8F%90%E5%87%BA%E5%8F%8D%E5%AF%B9%E6%84%8F%E8%A7%81%EF%BC%8C%E7%A7%B0%E8%AF%A5%E6%B3%95%E6%A1%88%E7%9A%84%E8%A1%A8%E5%86%B3%E8%BF%87%E4%BA%8E%E4%BB%93%E4%BF%83%E3%80%82%E4%B8%80%E4%BA%9B%E4%BA%BA%E8%BF%98%E8%AF%B4%EF%BC%8C%E8%AF%A5%E6%B3%95%E6%A1%88%E5%8F%AF%E8%83%BD%E6%97%A0%E6%84%8F%E4%B8%AD%E6%8A%8A%E4%B8%8D%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%8D%B7%E5%85%A5%E5%85%B6%E4%B8%AD%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[众议院](众议院.md), [委员会](委员会.md), [审议](审议.md), [推迟](推迟.md), [措施](措施.md), [提出](提出.md), [法案](法案.md), [相关](相关.md), [禁止](禁止.md), [美国](美国.md), [进行](进行.md), [风险](风险.md)
+___
+##### 2023-02-21 07:45:17 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 本周谷歌将在美国最高法院为自己被赋予的互联网平台豁免权进行辩护。争论的焦点是所谓的“230条款”，这一条款使得包括TikTok和谷歌的YouTube等对其平台上几乎所有第三方内容免责。https://t.co/Dw9S1lfBmd
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%9C%AC%E5%91%A8%E8%B0%B7%E6%AD%8C%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E4%B8%BA%E8%87%AA%E5%B7%B1%E8%A2%AB%E8%B5%8B%E4%BA%88%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%B9%B3%E5%8F%B0%E8%B1%81%E5%85%8D%E6%9D%83%E8%BF%9B%E8%A1%8C%E8%BE%A9%E6%8A%A4%E3%80%82%E4%BA%89%E8%AE%BA%E7%9A%84%E7%84%A6%E7%82%B9%E6%98%AF%E6%89%80%E8%B0%93%E7%9A%84%E2%80%9C230%E6%9D%A1%E6%AC%BE%E2%80%9D%EF%BC%8C%E8%BF%99%E4%B8%80%E6%9D%A1%E6%AC%BE%E4%BD%BF%E5%BE%97%E5%8C%85%E6%8B%ACTikTok%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84YouTube%E7%AD%89%E5%AF%B9%E5%85%B6%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E7%AC%AC%E4%B8%89%E6%96%B9%E5%86%85%E5%AE%B9%E5%85%8D%E8%B4%A3%E3%80%82https%3A%2F%2Ft.co%2FDw9S1lfBmd)
+##### Other Words/Names of Interest in the Above Tweet
+[互联网](互联网.md), [免责](免责.md), [包括](包括.md), [平台](平台.md), [最高法院](最高法院.md), [条款](条款.md), [焦点](焦点.md), [美国](美国.md), [谷歌](谷歌.md), [豁免](豁免.md), [进行](进行.md)
+___
+##### 2023-02-17 09:45:43 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 自互联网诞生以来，成年人就开始在网上与未成年人建立不正当关系。据一些执法官员和其他追踪儿童剥削行为的人称，近年来，下载次数最多的社交媒体应用TikTok已成为迄今最大和增长最快的危险地带。https://t.co/SHFjg8oNoI
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%87%AA%E4%BA%92%E8%81%94%E7%BD%91%E8%AF%9E%E7%94%9F%E4%BB%A5%E6%9D%A5%EF%BC%8C%E6%88%90%E5%B9%B4%E4%BA%BA%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%9C%A8%E7%BD%91%E4%B8%8A%E4%B8%8E%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%BB%BA%E7%AB%8B%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%E3%80%82%E6%8D%AE%E4%B8%80%E4%BA%9B%E6%89%A7%E6%B3%95%E5%AE%98%E5%91%98%E5%92%8C%E5%85%B6%E4%BB%96%E8%BF%BD%E8%B8%AA%E5%84%BF%E7%AB%A5%E5%89%A5%E5%89%8A%E8%A1%8C%E4%B8%BA%E7%9A%84%E4%BA%BA%E7%A7%B0%EF%BC%8C%E8%BF%91%E5%B9%B4%E6%9D%A5%EF%BC%8C%E4%B8%8B%E8%BD%BD%E6%AC%A1%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%BA%94%E7%94%A8TikTok%E5%B7%B2%E6%88%90%E4%B8%BA%E8%BF%84%E4%BB%8A%E6%9C%80%E5%A4%A7%E5%92%8C%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB%E7%9A%84%E5%8D%B1%E9%99%A9%E5%9C%B0%E5%B8%A6%E3%80%82https%3A%2F%2Ft.co%2FSHFjg8oNoI)
+##### Other Words/Names of Interest in the Above Tweet
+[互联网](互联网.md), [增长](增长.md), [社交媒体](社交媒体.md), [行为](行为.md), [迄今](迄今.md)
+___
+##### 2023-02-04 17:21:39 UTC ~ DW 中文- 德国之声
+> RT @dw_chinese: #TikTok 在短短几年内成为焦点，如今它已是年轻人之间最受欢迎的应用程序之一，但也是多国政界人士想要限制甚至禁止的社媒平台。https://t.co/9HNTw3g3Sa
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%23TikTok+%E5%9C%A8%E7%9F%AD%E7%9F%AD%E5%87%A0%E5%B9%B4%E5%86%85%E6%88%90%E4%B8%BA%E7%84%A6%E7%82%B9%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%AE%83%E5%B7%B2%E6%98%AF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%8B%E9%97%B4%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B9%8B%E4%B8%80%EF%BC%8C%E4%BD%86%E4%B9%9F%E6%98%AF%E5%A4%9A%E5%9B%BD%E6%94%BF%E7%95%8C%E4%BA%BA%E5%A3%AB%E6%83%B3%E8%A6%81%E9%99%90%E5%88%B6%E7%94%9A%E8%87%B3%E7%A6%81%E6%AD%A2%E7%9A%84%E7%A4%BE%E5%AA%92%E5%B9%B3%E5%8F%B0%E3%80%82https%3A%2F%2Ft.co%2F9HNTw3g3Sa)
+##### Other Words/Names of Interest in the Above Tweet
+[受欢迎](受欢迎.md), [如今](如今.md), [平台](平台.md), [焦点](焦点.md), [禁止](禁止.md), [程序](程序.md), [限制](限制.md)
+___
+##### 2023-02-03 08:14:30 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #更新 又一名知名民主党人士加入了共和党人士寻求牵制TikTok的行动，科罗拉多州的参议员Michael Bennet周四致函苹果公司首席执行官库克和Alphabe的皮采，称TikTok构成国家安全风险，要求从应用商店下架。 https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E6%9B%B4%E6%96%B0+%E5%8F%88%E4%B8%80%E5%90%8D%E7%9F%A5%E5%90%8D%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%A3%AB%E5%8A%A0%E5%85%A5%E4%BA%86%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E5%A3%AB%E5%AF%BB%E6%B1%82%E7%89%B5%E5%88%B6TikTok%E7%9A%84%E8%A1%8C%E5%8A%A8%EF%BC%8C%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9E%E7%9A%84%E5%8F%82%E8%AE%AE%E5%91%98Michael+Bennet%E5%91%A8%E5%9B%9B%E8%87%B4%E5%87%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%BA%93%E5%85%8B%E5%92%8CAlphabe%E7%9A%84%E7%9A%AE%E9%87%87%EF%BC%8C%E7%A7%B0TikTok%E6%9E%84%E6%88%90%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%EF%BC%8C%E8%A6%81%E6%B1%82%E4%BB%8E%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E4%B8%8B%E6%9E%B6%E3%80%82+https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[下架](下架.md), [执行](执行.md), [苹果](苹果.md), [风险](风险.md), [首席执行官](首席执行官.md)
+___
+##### 2023-02-03 05:53:32 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: TikTok正试图赢得华盛顿的信任，做法让人想起另一家中国公司华为曾在美国和欧洲多地采取的策略，而华为的策略并未成功。 https://t.co/8AIEp739dU
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AD%A3%E8%AF%95%E5%9B%BE%E8%B5%A2%E5%BE%97%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%9A%84%E4%BF%A1%E4%BB%BB%EF%BC%8C%E5%81%9A%E6%B3%95%E8%AE%A9%E4%BA%BA%E6%83%B3%E8%B5%B7%E5%8F%A6%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8D%8E%E4%B8%BA%E6%9B%BE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9C%B0%E9%87%87%E5%8F%96%E7%9A%84%E7%AD%96%E7%95%A5%EF%BC%8C%E8%80%8C%E5%8D%8E%E4%B8%BA%E7%9A%84%E7%AD%96%E7%95%A5%E5%B9%B6%E6%9C%AA%E6%88%90%E5%8A%9F%E3%80%82+https%3A%2F%2Ft.co%2F8AIEp739dU)
+##### Other Words/Names of Interest in the Above Tweet
+[华为](华为.md), [策略](策略.md), [美国](美国.md), [试图](试图.md), [采取](采取.md)
+___
+##### 2023-01-31 08:46:47 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #独家 TikTok的CEO周受资已经同意于3月出席美国国会委员会举行的听证会。这场听证会将为共和党人提供一个机会探讨安全和隐私担忧，包括与中国分享用户数据，以及可能被用于宣传或操纵美国用户的风险。 https://t.co/vPIx929KlI
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+TikTok%E7%9A%84CEO%E5%91%A8%E5%8F%97%E8%B5%84%E5%B7%B2%E7%BB%8F%E5%90%8C%E6%84%8F%E4%BA%8E3%E6%9C%88%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BE%E8%A1%8C%E7%9A%84%E5%90%AC%E8%AF%81%E4%BC%9A%E3%80%82%E8%BF%99%E5%9C%BA%E5%90%AC%E8%AF%81%E4%BC%9A%E5%B0%86%E4%B8%BA%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E6%8F%90%E4%BE%9B%E4%B8%80%E4%B8%AA%E6%9C%BA%E4%BC%9A%E6%8E%A2%E8%AE%A8%E5%AE%89%E5%85%A8%E5%92%8C%E9%9A%90%E7%A7%81%E6%8B%85%E5%BF%A7%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%88%86%E4%BA%AB%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%8F%AF%E8%83%BD%E8%A2%AB%E7%94%A8%E4%BA%8E%E5%AE%A3%E4%BC%A0%E6%88%96%E6%93%8D%E7%BA%B5%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E7%9A%84%E9%A3%8E%E9%99%A9%E3%80%82+https%3A%2F%2Ft.co%2FvPIx929KlI)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [周受资](周受资.md), [委员会](委员会.md), [担忧](担忧.md), [探讨](探讨.md), [提供](提供.md), [数据](数据.md), [用于](用于.md), [美国](美国.md), [隐私](隐私.md), [风险](风险.md)
+___
+##### 2023-01-25 02:31:28 UTC ~ DW 中文- 德国之声
+> RT @dw_chinese: 在美国又一所大学推动禁止TikTok之际，知名共和党参议员更是表明，未来将提案在美国全国范圍内禁止TikTok的使用。https://t.co/4O7nnn7RGO
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8F%88%E4%B8%80%E6%89%80%E5%A4%A7%E5%AD%A6%E6%8E%A8%E5%8A%A8%E7%A6%81%E6%AD%A2TikTok%E4%B9%8B%E9%99%85%EF%BC%8C%E7%9F%A5%E5%90%8D%E5%85%B1%E5%92%8C%E5%85%9A%E5%8F%82%E8%AE%AE%E5%91%98%E6%9B%B4%E6%98%AF%E8%A1%A8%E6%98%8E%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%B0%86%E6%8F%90%E6%A1%88%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9C%8D%E5%86%85%E7%A6%81%E6%AD%A2TikTok%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2F4O7nnn7RGO)
+##### Other Words/Names of Interest in the Above Tweet
+[推动](推动.md), [禁止](禁止.md), [美国](美国.md)
+___
+##### 2023-01-17 05:08:25 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 据知情人士称，在最近与美国议员和民间社会组织的对话中，TikTok透露了一项复杂的15亿美元的计划细节，内容是重组该公司的美国业务。创建一个系统来监控这个视频共享应用运行背后的秘密算法，正逐渐成为TikTok这项计划的核心部分，该计划旨在缓解美…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E5%9C%A8%E6%9C%80%E8%BF%91%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E5%92%8C%E6%B0%91%E9%97%B4%E7%A4%BE%E4%BC%9A%E7%BB%84%E7%BB%87%E7%9A%84%E5%AF%B9%E8%AF%9D%E4%B8%AD%EF%BC%8CTikTok%E9%80%8F%E9%9C%B2%E4%BA%86%E4%B8%80%E9%A1%B9%E5%A4%8D%E6%9D%82%E7%9A%8415%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%AE%A1%E5%88%92%E7%BB%86%E8%8A%82%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%E9%87%8D%E7%BB%84%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%E3%80%82%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%B3%BB%E7%BB%9F%E6%9D%A5%E7%9B%91%E6%8E%A7%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E5%85%B1%E4%BA%AB%E5%BA%94%E7%94%A8%E8%BF%90%E8%A1%8C%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86%E7%AE%97%E6%B3%95%EF%BC%8C%E6%AD%A3%E9%80%90%E6%B8%90%E6%88%90%E4%B8%BATikTok%E8%BF%99%E9%A1%B9%E8%AE%A1%E5%88%92%E7%9A%84%E6%A0%B8%E5%BF%83%E9%83%A8%E5%88%86%EF%BC%8C%E8%AF%A5%E8%AE%A1%E5%88%92%E6%97%A8%E5%9C%A8%E7%BC%93%E8%A7%A3%E7%BE%8E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[共享](共享.md), [旨在](旨在.md), [核心](核心.md), [知情](知情.md), [知情人士](知情人士.md), [系统](系统.md), [缓解](缓解.md), [美国](美国.md), [计划](计划.md), [透露](透露.md), [逐渐](逐渐.md)
+___
+##### 2023-01-13 16:02:40 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 美国联邦议员和越来越多的州长以安全问题为由，将TikTok从政府设备上剔除。本文回答了关于这些禁令的一些关键问题，包括 ：TikTok在美国被禁了吗？禁止政府设备安装TikTok背后的原因是什么？ 哪些州采取了行动？TikTok对这些禁令有何评论…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E8%AE%AE%E5%91%98%E5%92%8C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%B7%9E%E9%95%BF%E4%BB%A5%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E4%B8%BA%E7%94%B1%EF%BC%8C%E5%B0%86TikTok%E4%BB%8E%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E4%B8%8A%E5%89%94%E9%99%A4%E3%80%82%E6%9C%AC%E6%96%87%E5%9B%9E%E7%AD%94%E4%BA%86%E5%85%B3%E4%BA%8E%E8%BF%99%E4%BA%9B%E7%A6%81%E4%BB%A4%E7%9A%84%E4%B8%80%E4%BA%9B%E5%85%B3%E9%94%AE%E9%97%AE%E9%A2%98%EF%BC%8C%E5%8C%85%E6%8B%AC+%EF%BC%9ATikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E7%A6%81%E4%BA%86%E5%90%97%EF%BC%9F%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E5%AE%89%E8%A3%85TikTok%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F+%E5%93%AA%E4%BA%9B%E5%B7%9E%E9%87%87%E5%8F%96%E4%BA%86%E8%A1%8C%E5%8A%A8%EF%BC%9FTikTok%E5%AF%B9%E8%BF%99%E4%BA%9B%E7%A6%81%E4%BB%A4%E6%9C%89%E4%BD%95%E8%AF%84%E8%AE%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[关键](关键.md), [包括](包括.md), [禁止](禁止.md), [美国](美国.md), [越来越](越来越.md), [采取](采取.md)
+___
+##### 2023-01-11 03:38:54 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: TikTok首席执行官周受资与欧盟官员会面讨论了这家中国公司遵守欧盟新规的计划，以及围绕TikTok最近披露其监视两名记者的担忧。这是周受资自2021年执掌TikTok以来的首次布鲁塞尔之行。该公司发言人说，此行早已在计划中，并非对华盛顿最近的担…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%91%A8%E5%8F%97%E8%B5%84%E4%B8%8E%E6%AC%A7%E7%9B%9F%E5%AE%98%E5%91%98%E4%BC%9A%E9%9D%A2%E8%AE%A8%E8%AE%BA%E4%BA%86%E8%BF%99%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E9%81%B5%E5%AE%88%E6%AC%A7%E7%9B%9F%E6%96%B0%E8%A7%84%E7%9A%84%E8%AE%A1%E5%88%92%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%9B%B4%E7%BB%95TikTok%E6%9C%80%E8%BF%91%E6%8A%AB%E9%9C%B2%E5%85%B6%E7%9B%91%E8%A7%86%E4%B8%A4%E5%90%8D%E8%AE%B0%E8%80%85%E7%9A%84%E6%8B%85%E5%BF%A7%E3%80%82%E8%BF%99%E6%98%AF%E5%91%A8%E5%8F%97%E8%B5%84%E8%87%AA2021%E5%B9%B4%E6%89%A7%E6%8E%8CTikTok%E4%BB%A5%E6%9D%A5%E7%9A%84%E9%A6%96%E6%AC%A1%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E4%B9%8B%E8%A1%8C%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%8F%91%E8%A8%80%E4%BA%BA%E8%AF%B4%EF%BC%8C%E6%AD%A4%E8%A1%8C%E6%97%A9%E5%B7%B2%E5%9C%A8%E8%AE%A1%E5%88%92%E4%B8%AD%EF%BC%8C%E5%B9%B6%E9%9D%9E%E5%AF%B9%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%9C%80%E8%BF%91%E7%9A%84%E6%8B%85%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[周受资](周受资.md), [执行](执行.md), [披露](披露.md), [担忧](担忧.md), [计划](计划.md), [首席执行官](首席执行官.md)
+___
+##### 2023-01-10 13:42:13 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国再有两个州对中国短视频平台抖音海外应用版TikTok颁布禁令。新泽西州和俄亥俄州星期一（1月9日）签署行政命令，禁止在州政府设备上使用TikTok。https://t.co/FYMDKMSgql
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%B7%9E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E6%8A%96%E9%9F%B3%E6%B5%B7%E5%A4%96%E5%BA%94%E7%94%A8%E7%89%88TikTok%E9%A2%81%E5%B8%83%E7%A6%81%E4%BB%A4%E3%80%82%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%E5%92%8C%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%E6%98%9F%E6%9C%9F%E4%B8%80%EF%BC%881%E6%9C%889%E6%97%A5%EF%BC%89%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%B7%9E%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%E3%80%82https%3A%2F%2Ft.co%2FFYMDKMSgql)
+##### Other Words/Names of Interest in the Above Tweet
+[平台](平台.md), [禁止](禁止.md), [签署](签署.md), [美国](美国.md)
+___
 ##### 2023-01-07 17:03:56 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 两名消息人士透露，在部分美国官员的反对声浪越来越大之际，中国短视频平台抖音海外应用版TikTok已冻结了与美国潜在安全协议相关的顾问招聘程序。 https://t.co/3uYMl5vlXn
 

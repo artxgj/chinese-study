@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemma) for definition
 ### Tweets containing Gemma
 
 ___
+##### 2025-04-04 07:40:47 UTC ~ karminski-牙医
+> RT @karminski3: 刚看到的侧面消息，Meta 的 AI 负责人已经离职了，可能是由于 llama-4 搞不出来目前 llama-4 面临的压力我们来数一数，首先它肯定不能大于 120B，甚至最好还是维持在 70B，然后要超越 Qwen2.5-QwQ，Gemma…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%88%9A%E7%9C%8B%E5%88%B0%E7%9A%84%E4%BE%A7%E9%9D%A2%E6%B6%88%E6%81%AF%EF%BC%8CMeta+%E7%9A%84+AI+%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E7%A6%BB%E8%81%8C%E4%BA%86%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%B1%E4%BA%8E+llama-4+%E6%90%9E%E4%B8%8D%E5%87%BA%E6%9D%A5%E7%9B%AE%E5%89%8D+llama-4+%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%8E%8B%E5%8A%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E6%95%B0%E4%B8%80%E6%95%B0%EF%BC%8C%E9%A6%96%E5%85%88%E5%AE%83%E8%82%AF%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%A4%A7%E4%BA%8E+120B%EF%BC%8C%E7%94%9A%E8%87%B3%E6%9C%80%E5%A5%BD%E8%BF%98%E6%98%AF%E7%BB%B4%E6%8C%81%E5%9C%A8+70B%EF%BC%8C%E7%84%B6%E5%90%8E%E8%A6%81%E8%B6%85%E8%B6%8A+Qwen2.5-QwQ%EF%BC%8CGemma%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Qwen](Qwen.md), [压力](压力.md), [离职](离职.md), [维持](维持.md), [面临](面临.md)
+___
+##### 2025-04-04 02:42:43 UTC ~ karminski-牙医
+> RT @karminski3: Google 的开源模型 Gemma-3 的新 QAT (Quantization Aware Trained, 量化感知训练) 检查点量化版本放出了！这个版本使用 Q4 量化并且能与之前 BF16 版本保持几乎一致的质量（我看到的是Q4量化…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+Google+%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B+Gemma-3+%E7%9A%84%E6%96%B0+QAT+%28Quantization+Aware+Trained%2C+%E9%87%8F%E5%8C%96%E6%84%9F%E7%9F%A5%E8%AE%AD%E7%BB%83%29+%E6%A3%80%E6%9F%A5%E7%82%B9%E9%87%8F%E5%8C%96%E7%89%88%E6%9C%AC%E6%94%BE%E5%87%BA%E4%BA%86%EF%BC%81%E8%BF%99%E4%B8%AA%E7%89%88%E6%9C%AC%E4%BD%BF%E7%94%A8+Q4+%E9%87%8F%E5%8C%96%E5%B9%B6%E4%B8%94%E8%83%BD%E4%B8%8E%E4%B9%8B%E5%89%8D+BF16+%E7%89%88%E6%9C%AC%E4%BF%9D%E6%8C%81%E5%87%A0%E4%B9%8E%E4%B8%80%E8%87%B4%E7%9A%84%E8%B4%A8%E9%87%8F%EF%BC%88%E6%88%91%E7%9C%8B%E5%88%B0%E7%9A%84%E6%98%AFQ4%E9%87%8F%E5%8C%96%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [开源](开源.md), [检查](检查.md), [模型](模型.md), [量化](量化.md)
+___
 ##### 2025-04-01 03:23:16 UTC ~ 小互
 > RT @imxiaohu: Google 发布专为加速治疗性药物开发而设计开源模型：TxGemma它是由  Gemma 模型家族 微调而来，结合了语言理解、科学预测和多轮对话能力。TxGemma 能够帮助研究人员完成从 药物筛选、毒性预测，到临床试验结果预测 的各类任务…
 
@@ -35,7 +49,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [依赖](依赖.md), [处理](处理.md), [数据](数据.md), [核心](核心.md), [计算机](计算机.md), [隐私](隐私.md), [项目](项目.md)
 ___
-##### 2025-03-15 06:01:58 UTC ~ 徐彬
+##### 2025-03-15 06:01:58 UTC ~ Ben X
 > RT @Reportify_Xu: 美国公司也开始卷效率了，Gemma3只用270亿参数，就能达到跟Deepseek R1 6710亿参数类似的性能，看来怎么提高效率这个事大家也都拉齐了。AI行业里的天才太多，谁也很难领先超过3个月。详情请见视频。 https://t.co/s…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Reportify_Xu%3A+%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E4%B9%9F%E5%BC%80%E5%A7%8B%E5%8D%B7%E6%95%88%E7%8E%87%E4%BA%86%EF%BC%8CGemma3%E5%8F%AA%E7%94%A8270%E4%BA%BF%E5%8F%82%E6%95%B0%EF%BC%8C%E5%B0%B1%E8%83%BD%E8%BE%BE%E5%88%B0%E8%B7%9FDeepseek+R1+6710%E4%BA%BF%E5%8F%82%E6%95%B0%E7%B1%BB%E4%BC%BC%E7%9A%84%E6%80%A7%E8%83%BD%EF%BC%8C%E7%9C%8B%E6%9D%A5%E6%80%8E%E4%B9%88%E6%8F%90%E9%AB%98%E6%95%88%E7%8E%87%E8%BF%99%E4%B8%AA%E4%BA%8B%E5%A4%A7%E5%AE%B6%E4%B9%9F%E9%83%BD%E6%8B%89%E9%BD%90%E4%BA%86%E3%80%82AI%E8%A1%8C%E4%B8%9A%E9%87%8C%E7%9A%84%E5%A4%A9%E6%89%8D%E5%A4%AA%E5%A4%9A%EF%BC%8C%E8%B0%81%E4%B9%9F%E5%BE%88%E9%9A%BE%E9%A2%86%E5%85%88%E8%B6%85%E8%BF%873%E4%B8%AA%E6%9C%88%E3%80%82%E8%AF%A6%E6%83%85%E8%AF%B7%E8%A7%81%E8%A7%86%E9%A2%91%E3%80%82+https%3A%2F%2Ft.co%2Fs%E2%80%A6)

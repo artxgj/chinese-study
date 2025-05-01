@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2025-04-28 08:00:36 UTC ~ karminski-牙医
+> RT @karminski3: 卧槽 Gemini Coder 开源了！而且是MIT协议的！这个插件能让你的 VSCode 直接变成 Cursor/Windsurf, 众所周不知，Google AI Studio 可以免费薅羊毛用 Gemini-2.5-Pro 和 Gemi…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%8D%A7%E6%A7%BD+Gemini+Coder+%E5%BC%80%E6%BA%90%E4%BA%86%EF%BC%81%E8%80%8C%E4%B8%94%E6%98%AFMIT%E5%8D%8F%E8%AE%AE%E7%9A%84%EF%BC%81%E8%BF%99%E4%B8%AA%E6%8F%92%E4%BB%B6%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9A%84+VSCode+%E7%9B%B4%E6%8E%A5%E5%8F%98%E6%88%90+Cursor%2FWindsurf%2C+%E4%BC%97%E6%89%80%E5%91%A8%E4%B8%8D%E7%9F%A5%EF%BC%8CGoogle+AI+Studio+%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E8%96%85%E7%BE%8A%E6%AF%9B%E7%94%A8+Gemini-2.5-Pro+%E5%92%8C+Gemi%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[协议](协议.md), [开源](开源.md), [直接](直接.md)
+___
+##### 2025-04-26 18:50:46 UTC ~ AI Will
+> RT @FinanceYF5: 谷歌最强的模型其实是隐藏的Gemini 2.5 Pro 与 Web Grounding 非常强大，且仅在 AI Studio 中提供你可以免费访问最强大的模型，实时获取数据：-访问 AI Studio-选择 Gemini 2.5 P…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+%E8%B0%B7%E6%AD%8C%E6%9C%80%E5%BC%BA%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%85%B6%E5%AE%9E%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84Gemini+2.5+Pro+%E4%B8%8E+Web+Grounding+%E9%9D%9E%E5%B8%B8%E5%BC%BA%E5%A4%A7%EF%BC%8C%E4%B8%94%E4%BB%85%E5%9C%A8+AI+Studio+%E4%B8%AD%E6%8F%90%E4%BE%9B%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E8%AE%BF%E9%97%AE%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%AE%9E%E6%97%B6%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE%EF%BC%9A-%E8%AE%BF%E9%97%AE+AI+Studio-%E9%80%89%E6%8B%A9+Gemini+2.5+P%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [提供](提供.md), [数据](数据.md), [模型](模型.md), [谷歌](谷歌.md)
+___
+##### 2025-04-19 09:20:53 UTC ~ SimbaLee
+> RT @lipeng0820: 🤖考虑到谷歌自己都放水了，15个月的Gemini还是冲了！上车之前考虑好：1.如果用主力账号，需要考虑后续封号的“可能”（但是大家普遍你说不会）2.记得设定好取消订阅的提示，当然有需要可以继续付费3.教育邮箱的来源是否靠谱，需要通过后面…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lipeng0820%3A+%F0%9F%A4%96%E8%80%83%E8%99%91%E5%88%B0%E8%B0%B7%E6%AD%8C%E8%87%AA%E5%B7%B1%E9%83%BD%E6%94%BE%E6%B0%B4%E4%BA%86%EF%BC%8C15%E4%B8%AA%E6%9C%88%E7%9A%84Gemini%E8%BF%98%E6%98%AF%E5%86%B2%E4%BA%86%EF%BC%81%E4%B8%8A%E8%BD%A6%E4%B9%8B%E5%89%8D%E8%80%83%E8%99%91%E5%A5%BD%EF%BC%9A1.%E5%A6%82%E6%9E%9C%E7%94%A8%E4%B8%BB%E5%8A%9B%E8%B4%A6%E5%8F%B7%EF%BC%8C%E9%9C%80%E8%A6%81%E8%80%83%E8%99%91%E5%90%8E%E7%BB%AD%E5%B0%81%E5%8F%B7%E7%9A%84%E2%80%9C%E5%8F%AF%E8%83%BD%E2%80%9D%EF%BC%88%E4%BD%86%E6%98%AF%E5%A4%A7%E5%AE%B6%E6%99%AE%E9%81%8D%E4%BD%A0%E8%AF%B4%E4%B8%8D%E4%BC%9A%EF%BC%892.%E8%AE%B0%E5%BE%97%E8%AE%BE%E5%AE%9A%E5%A5%BD%E5%8F%96%E6%B6%88%E8%AE%A2%E9%98%85%E7%9A%84%E6%8F%90%E7%A4%BA%EF%BC%8C%E5%BD%93%E7%84%B6%E6%9C%89%E9%9C%80%E8%A6%81%E5%8F%AF%E4%BB%A5%E7%BB%A7%E7%BB%AD%E4%BB%98%E8%B4%B93.%E6%95%99%E8%82%B2%E9%82%AE%E7%AE%B1%E7%9A%84%E6%9D%A5%E6%BA%90%E6%98%AF%E5%90%A6%E9%9D%A0%E8%B0%B1%EF%BC%8C%E9%9C%80%E8%A6%81%E9%80%9A%E8%BF%87%E5%90%8E%E9%9D%A2%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[取消](取消.md), [考虑](考虑.md), [谷歌](谷歌.md), [账号](账号.md)
+___
+##### 2025-04-13 18:02:45 UTC ~ Geek
+> RT @geekbb: AstrBot：一款强大的多平台 LLM 聊天机器人及开发框架，支持 QQ、QQ 频道、Telegram、微信、企微、飞书等主流消息平台，兼容 OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama 等多种技术服务与 API。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+___
+##### 2025-04-10 03:26:11 UTC ~ AIGCLINK
+> RT @aigclink: 谷歌昨晚又开源了一个智能体开发套件：ADK，与Gemini和谷歌生态深度整合，可以创建会话型和非会话型智能体，能处理复杂任务和工作流程。支持MCP使用工作流代理（顺序、并行、循环）定义工作流，实现可预测的管道，支持基于LLM驱动的动态路由… ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%B0%B7%E6%AD%8C%E6%98%A8%E6%99%9A%E5%8F%88%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6%EF%BC%9AADK%EF%BC%8C%E4%B8%8EGemini%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%94%9F%E6%80%81%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D%E5%9E%8B%E5%92%8C%E9%9D%9E%E4%BC%9A%E8%AF%9D%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%83%BD%E5%A4%84%E7%90%86%E5%A4%8D%E6%9D%82%E4%BB%BB%E5%8A%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E3%80%82%E6%94%AF%E6%8C%81MCP%E4%BD%BF%E7%94%A8%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BB%A3%E7%90%86%EF%BC%88%E9%A1%BA%E5%BA%8F%E3%80%81%E5%B9%B6%E8%A1%8C%E3%80%81%E5%BE%AA%E7%8E%AF%EF%BC%89%E5%AE%9A%E4%B9%89%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%8C%E5%AE%9E%E7%8E%B0%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E7%AE%A1%E9%81%93%EF%BC%8C%E6%94%AF%E6%8C%81%E5%9F%BA%E4%BA%8ELLM%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%8A%A8%E6%80%81%E8%B7%AF%E7%94%B1%E2%80%A6+ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
+___
+##### 2025-04-09 16:17:09 UTC ~ 向阳乔木
+> RT @vista8: 今天在钉钉做了一场直播，PPT是这两天重新写的。分享三个重点：AI发展速度超乎想象、学什么才能不落伍、如何学才能收获最大。AI发展速度快到上个月在清华大学分享的PPT这个月就得改。最佳编程模型从Claude 3.7变成Gemini 2.5 P…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40vista8%3A+%E4%BB%8A%E5%A4%A9%E5%9C%A8%E9%92%89%E9%92%89%E5%81%9A%E4%BA%86%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%EF%BC%8CPPT%E6%98%AF%E8%BF%99%E4%B8%A4%E5%A4%A9%E9%87%8D%E6%96%B0%E5%86%99%E7%9A%84%E3%80%82%E5%88%86%E4%BA%AB%E4%B8%89%E4%B8%AA%E9%87%8D%E7%82%B9%EF%BC%9AAI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1%E3%80%81%E5%AD%A6%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E4%B8%8D%E8%90%BD%E4%BC%8D%E3%80%81%E5%A6%82%E4%BD%95%E5%AD%A6%E6%89%8D%E8%83%BD%E6%94%B6%E8%8E%B7%E6%9C%80%E5%A4%A7%E3%80%82AI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E5%BF%AB%E5%88%B0%E4%B8%8A%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%86%E4%BA%AB%E7%9A%84PPT%E8%BF%99%E4%B8%AA%E6%9C%88%E5%B0%B1%E5%BE%97%E6%94%B9%E3%80%82%E6%9C%80%E4%BD%B3%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E4%BB%8EClaude+3.7%E5%8F%98%E6%88%90Gemini+2.5+P%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [型](型.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
+___
 ##### 2025-04-01 04:42:44 UTC ~ jiayuan
 > RT @tisoga: 创建了一个用来分析自己健康 &amp; 运动数据的 app，支持连接到 Whoop, Apple Health, Garmin 导入相关数据。并且还连接了 Gemini Pro 2.5 作为健康教练来分析相关的数据。全程使用 @devv_ai vibe…
 
@@ -133,7 +175,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [直接](直接.md)
 ___
-##### 2025-03-14 04:39:51 UTC ~ Jesse Lau
+##### 2025-03-14 04:39:51 UTC ~ Jesse Lau 遁一子
 > RT @jesselaunz: Gemini发布了我最近最想要的更新🥰Deep Research由2.0 Flash Thinking驱动了。可以显示思考过程（我简单录屏了每天的外汇分析prompt）。看来Google是连环打击OpenAI。这项功能本来在Advance…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40jesselaunz%3A+Gemini%E5%8F%91%E5%B8%83%E4%BA%86%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E6%83%B3%E8%A6%81%E7%9A%84%E6%9B%B4%E6%96%B0%F0%9F%A5%B0Deep+Research%E7%94%B12.0+Flash+Thinking%E9%A9%B1%E5%8A%A8%E4%BA%86%E3%80%82%E5%8F%AF%E4%BB%A5%E6%98%BE%E7%A4%BA%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%EF%BC%88%E6%88%91%E7%AE%80%E5%8D%95%E5%BD%95%E5%B1%8F%E4%BA%86%E6%AF%8F%E5%A4%A9%E7%9A%84%E5%A4%96%E6%B1%87%E5%88%86%E6%9E%90prompt%EF%BC%89%E3%80%82%E7%9C%8B%E6%9D%A5Google%E6%98%AF%E8%BF%9E%E7%8E%AF%E6%89%93%E5%87%BBOpenAI%E3%80%82%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%E6%9C%AC%E6%9D%A5%E5%9C%A8Advance%E2%80%A6)

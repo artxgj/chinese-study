@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-04-17 03:52:13 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #实时更新 #特朗普关税 亚洲股市上涨，美日贸易谈判启动；美国证实对英伟达和AMD芯片采取新的出口限制；AMD警告称芯片出口限制将导致其损失8亿美元；阿斯麦以实例揭示关税的隐形成本；加州就关税起诉特朗普政府；基金经理为全球经济“硬着陆”做准备。h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0+%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E+%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E4%B8%8A%E6%B6%A8%EF%BC%8C%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E5%90%AF%E5%8A%A8%EF%BC%9B%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%AE%9E%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%8A%AF%E7%89%87%E9%87%87%E5%8F%96%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%EF%BC%9BAMD%E8%AD%A6%E5%91%8A%E7%A7%B0%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E5%B0%86%E5%AF%BC%E8%87%B4%E5%85%B6%E6%8D%9F%E5%A4%B18%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%9B%E9%98%BF%E6%96%AF%E9%BA%A6%E4%BB%A5%E5%AE%9E%E4%BE%8B%E6%8F%AD%E7%A4%BA%E5%85%B3%E7%A8%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E6%88%90%E6%9C%AC%EF%BC%9B%E5%8A%A0%E5%B7%9E%E5%B0%B1%E5%85%B3%E7%A8%8E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%EF%BC%9B%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E4%B8%BA%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%A1%AC%E7%9D%80%E9%99%86%E2%80%9D%E5%81%9A%E5%87%86%E5%A4%87%E3%80%82h%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损](损.md), [损失](损失.md), [揭示](揭示.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
+___
+##### 2025-04-12 19:52:55 UTC ~ ruanyf
+> RT @ruanyf: 看到一篇分析，本次关税事件，美国受伤最重的科技公司是Intel。中国是它的最大市场，去年占销售29%，比美国本土还大（占25%），它的芯片全部美国制造。Intel已经很困难了，去年亏了188亿美元，现在完全没了翻身希望。最大收益者将是AMD。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ruanyf%3A+%E7%9C%8B%E5%88%B0%E4%B8%80%E7%AF%87%E5%88%86%E6%9E%90%EF%BC%8C%E6%9C%AC%E6%AC%A1%E5%85%B3%E7%A8%8E%E4%BA%8B%E4%BB%B6%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%8F%97%E4%BC%A4%E6%9C%80%E9%87%8D%E7%9A%84%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%98%AFIntel%E3%80%82%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%AE%83%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B8%82%E5%9C%BA%EF%BC%8C%E5%8E%BB%E5%B9%B4%E5%8D%A0%E9%94%80%E5%94%AE29%25%EF%BC%8C%E6%AF%94%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%9C%9F%E8%BF%98%E5%A4%A7%EF%BC%88%E5%8D%A025%25%EF%BC%89%EF%BC%8C%E5%AE%83%E7%9A%84%E8%8A%AF%E7%89%87%E5%85%A8%E9%83%A8%E7%BE%8E%E5%9B%BD%E5%88%B6%E9%80%A0%E3%80%82Intel%E5%B7%B2%E7%BB%8F%E5%BE%88%E5%9B%B0%E9%9A%BE%E4%BA%86%EF%BC%8C%E5%8E%BB%E5%B9%B4%E4%BA%8F%E4%BA%86188%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%AE%8C%E5%85%A8%E6%B2%A1%E4%BA%86%E7%BF%BB%E8%BA%AB%E5%B8%8C%E6%9C%9B%E3%80%82%E6%9C%80%E5%A4%A7%E6%94%B6%E7%9B%8A%E8%80%85%E5%B0%86%E6%98%AFAMD%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[关税](关税.md), [分析](分析.md), [收益](收益.md), [科技](科技.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [销售](销售.md)
+___
 ##### 2025-03-24 06:09:21 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 蚂蚁集团仍在使用英伟达进行AI开发，但现在主要依赖AMD和中国芯片之类的替代品来训练最新模型。#南洋商报 #蚂蚁集团 #AI #chips #Chinahttps://t.co/vG4dTowST7 https://t.co/UHDtf0…
 

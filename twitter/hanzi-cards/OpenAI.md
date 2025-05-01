@@ -7,6 +7,83 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-04-30 19:10:35 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Meta推出了一款独立AI应用程序Meta AI，目前该AI助手在Instagram、WhatsApp和Facebook等多个社交媒体平台上提供。这将与OpenAI的ChatGPT等其他AI聊天机器人形成直接竞争。  https://t.co/P…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Meta%E6%8E%A8%E5%87%BA%E4%BA%86%E4%B8%80%E6%AC%BE%E7%8B%AC%E7%AB%8BAI%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8FMeta+AI%EF%BC%8C%E7%9B%AE%E5%89%8D%E8%AF%A5AI%E5%8A%A9%E6%89%8B%E5%9C%A8Instagram%E3%80%81WhatsApp%E5%92%8CFacebook%E7%AD%89%E5%A4%9A%E4%B8%AA%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E4%B8%8A%E6%8F%90%E4%BE%9B%E3%80%82%E8%BF%99%E5%B0%86%E4%B8%8EOpenAI%E7%9A%84ChatGPT%E7%AD%89%E5%85%B6%E4%BB%96AI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BD%A2%E6%88%90%E7%9B%B4%E6%8E%A5%E7%AB%9E%E4%BA%89%E3%80%82++https%3A%2F%2Ft.co%2FP%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[平台](平台.md), [推出](推出.md), [提供](提供.md), [机器人](机器人.md), [直接](直接.md), [社交媒体](社交媒体.md), [程序](程序.md), [竞争](竞争.md), [聊天](聊天.md)
+___
+##### 2025-04-25 09:42:02 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 新加坡航空公司宣布与人工智能领军企业OpenAI合作，利用先进的生成式AI技术优化客户服务与运营流程。 https://t.co/zSTns5jLOO
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%86%9B%E4%BC%81%E4%B8%9AOpenAI%E5%90%88%E4%BD%9C%EF%BC%8C%E5%88%A9%E7%94%A8%E5%85%88%E8%BF%9B%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8A%80%E6%9C%AF%E4%BC%98%E5%8C%96%E5%AE%A2%E6%88%B7%E6%9C%8D%E5%8A%A1%E4%B8%8E%E8%BF%90%E8%90%A5%E6%B5%81%E7%A8%8B%E3%80%82+https%3A%2F%2Ft.co%2FzSTns5jLOO)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [优化](优化.md), [先进](先进.md), [客户](客户.md), [技术](技术.md), [新加坡](新加坡.md)
+___
+##### 2025-04-23 06:56:39 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 美国司法部对谷歌母公司Alphabet发起的反垄断诉讼持续升温。根据最新庭审证词，若法院最终裁定要求谷歌出售旗下网页浏览器Chrome，以恢复搜索市场竞争，人工智能公司OpenAI已表明有意收购该资产。https://t.co/QGIapM0…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AF%B9%E8%B0%B7%E6%AD%8C%E6%AF%8D%E5%85%AC%E5%8F%B8Alphabet%E5%8F%91%E8%B5%B7%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%E6%8C%81%E7%BB%AD%E5%8D%87%E6%B8%A9%E3%80%82%E6%A0%B9%E6%8D%AE%E6%9C%80%E6%96%B0%E5%BA%AD%E5%AE%A1%E8%AF%81%E8%AF%8D%EF%BC%8C%E8%8B%A5%E6%B3%95%E9%99%A2%E6%9C%80%E7%BB%88%E8%A3%81%E5%AE%9A%E8%A6%81%E6%B1%82%E8%B0%B7%E6%AD%8C%E5%87%BA%E5%94%AE%E6%97%97%E4%B8%8B%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8Chrome%EF%BC%8C%E4%BB%A5%E6%81%A2%E5%A4%8D%E6%90%9C%E7%B4%A2%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%EF%BC%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8OpenAI%E5%B7%B2%E8%A1%A8%E6%98%8E%E6%9C%89%E6%84%8F%E6%94%B6%E8%B4%AD%E8%AF%A5%E8%B5%84%E4%BA%A7%E3%80%82https%3A%2F%2Ft.co%2FQGIapM0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [出售](出售.md), [反垄断](反垄断.md), [垄断](垄断.md), [恢复](恢复.md), [持续](持续.md), [搜索](搜索.md), [收购](收购.md), [根据](根据.md), [竞争](竞争.md), [美国](美国.md), [诉讼](诉讼.md), [谷歌](谷歌.md), [资产](资产.md)
+___
+##### 2025-04-17 17:46:09 UTC ~ 小互
+> RT @imxiaohu: OpenAI首席产品官Kevin Weil：教育 AI 是最具价值的 AI 应用之一“每个孩子有个AI家教”。“这能改变世界，”他说，“研究表明有家教的孩子远超普通教育，现在AI能做到，Open AI会全力支持有人将AI教育应用推广到30亿孩…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+OpenAI%E9%A6%96%E5%B8%AD%E4%BA%A7%E5%93%81%E5%AE%98Kevin+Weil%EF%BC%9A%E6%95%99%E8%82%B2+AI+%E6%98%AF%E6%9C%80%E5%85%B7%E4%BB%B7%E5%80%BC%E7%9A%84+AI+%E5%BA%94%E7%94%A8%E4%B9%8B%E4%B8%80%E2%80%9C%E6%AF%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%89%E4%B8%AAAI%E5%AE%B6%E6%95%99%E2%80%9D%E3%80%82%E2%80%9C%E8%BF%99%E8%83%BD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E2%80%9D%E4%BB%96%E8%AF%B4%EF%BC%8C%E2%80%9C%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E6%9C%89%E5%AE%B6%E6%95%99%E7%9A%84%E5%AD%A9%E5%AD%90%E8%BF%9C%E8%B6%85%E6%99%AE%E9%80%9A%E6%95%99%E8%82%B2%EF%BC%8C%E7%8E%B0%E5%9C%A8AI%E8%83%BD%E5%81%9A%E5%88%B0%EF%BC%8COpen+AI%E4%BC%9A%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E6%9C%89%E4%BA%BA%E5%B0%86AI%E6%95%99%E8%82%B2%E5%BA%94%E7%94%A8%E6%8E%A8%E5%B9%BF%E5%88%B030%E4%BA%BF%E5%AD%A9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[支持](支持.md)
+___
+##### 2025-04-17 16:55:35 UTC ~ 汉松
+> RT @Yonah_x: 从 o3 对手写文字识别的过程来看，它学会了使用图像处理的工具来解决问题。结合之前姚顺雨关于 AI 下半场的分析，OpenAI 应该是朝着用强化学习教模型使用工具，来解决现实问题的方向一路狂奔了。 https://t.co/fNCYorw9aw
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Yonah_x%3A+%E4%BB%8E+o3+%E5%AF%B9%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E7%9A%84%E8%BF%87%E7%A8%8B%E6%9D%A5%E7%9C%8B%EF%BC%8C%E5%AE%83%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BD%BF%E7%94%A8%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E7%9A%84%E5%B7%A5%E5%85%B7%E6%9D%A5%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E3%80%82%E7%BB%93%E5%90%88%E4%B9%8B%E5%89%8D%E5%A7%9A%E9%A1%BA%E9%9B%A8%E5%85%B3%E4%BA%8E+AI+%E4%B8%8B%E5%8D%8A%E5%9C%BA%E7%9A%84%E5%88%86%E6%9E%90%EF%BC%8COpenAI+%E5%BA%94%E8%AF%A5%E6%98%AF%E6%9C%9D%E7%9D%80%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%95%99%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%9D%A5%E8%A7%A3%E5%86%B3%E7%8E%B0%E5%AE%9E%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E5%90%91%E4%B8%80%E8%B7%AF%E7%8B%82%E5%A5%94%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FfNCYorw9aw)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [型](型.md), [处理](处理.md), [工具](工具.md), [模型](模型.md)
+___
+##### 2025-04-17 03:08:17 UTC ~ orange.ai
+> RT @oran_ge: 这个测试太惊艳了OpenAI 终于发布 o3 正式版第一次做到视觉理解+视觉思考再次把AI的能力拉到了新高度 https://t.co/A4rhUDf6Zo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E8%BF%99%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86OpenAI+%E7%BB%88%E4%BA%8E%E5%8F%91%E5%B8%83+o3+%E6%AD%A3%E5%BC%8F%E7%89%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E5%88%B0%E8%A7%86%E8%A7%89%E7%90%86%E8%A7%A3%2B%E8%A7%86%E8%A7%89%E6%80%9D%E8%80%83%E5%86%8D%E6%AC%A1%E6%8A%8AAI%E7%9A%84%E8%83%BD%E5%8A%9B%E6%8B%89%E5%88%B0%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6+https%3A%2F%2Ft.co%2FA4rhUDf6Zo)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [正式](正式.md)
+___
+##### 2025-04-15 08:15:59 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国人工智能（AI）初创企业智谱已聘请中金公司辅导其境内IPO，争取今年上市。因获得两家科技巨头阿里巴巴集团和腾讯投资，智谱被认为是少数几家有能力与美国AI龙头公司OpenAI展开竞争的中国公司之一。 https://t.co/NbyzYByywB
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%99%BA%E8%B0%B1%E5%B7%B2%E8%81%98%E8%AF%B7%E4%B8%AD%E9%87%91%E5%85%AC%E5%8F%B8%E8%BE%85%E5%AF%BC%E5%85%B6%E5%A2%83%E5%86%85IPO%EF%BC%8C%E4%BA%89%E5%8F%96%E4%BB%8A%E5%B9%B4%E4%B8%8A%E5%B8%82%E3%80%82%E5%9B%A0%E8%8E%B7%E5%BE%97%E4%B8%A4%E5%AE%B6%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9B%A2%E5%92%8C%E8%85%BE%E8%AE%AF%E6%8A%95%E8%B5%84%EF%BC%8C%E6%99%BA%E8%B0%B1%E8%A2%AB%E8%AE%A4%E4%B8%BA%E6%98%AF%E5%B0%91%E6%95%B0%E5%87%A0%E5%AE%B6%E6%9C%89%E8%83%BD%E5%8A%9B%E4%B8%8E%E7%BE%8E%E5%9B%BDAI%E9%BE%99%E5%A4%B4%E5%85%AC%E5%8F%B8OpenAI%E5%B1%95%E5%BC%80%E7%AB%9E%E4%BA%89%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E4%B9%8B%E4%B8%80%E3%80%82+https%3A%2F%2Ft.co%2FNbyzYByywB)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [初创企业](初创企业.md), [巨头](巨头.md), [投资](投资.md), [科技](科技.md), [竞争](竞争.md), [美国](美国.md), [腾讯](腾讯.md), [获得](获得.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2025-04-13 18:02:45 UTC ~ Geek
+> RT @geekbb: AstrBot：一款强大的多平台 LLM 聊天机器人及开发框架，支持 QQ、QQ 频道、Telegram、微信、企微、飞书等主流消息平台，兼容 OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama 等多种技术服务与 API。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+___
+##### 2025-04-06 05:04:45 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 事实上，AI模型成本下降趋势早已不可逆转。近两年AI模型的训练与推理成本已下降约80%，DeepSeek的激进定价策略只是加速这过程。不仅打破OpenAI等巨头的定价垄断，也催生大量开源模型，降低AI技术应用门槛，加快AI普及速度。 https://…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BA%8B%E5%AE%9E%E4%B8%8A%EF%BC%8CAI%E6%A8%A1%E5%9E%8B%E6%88%90%E6%9C%AC%E4%B8%8B%E9%99%8D%E8%B6%8B%E5%8A%BF%E6%97%A9%E5%B7%B2%E4%B8%8D%E5%8F%AF%E9%80%86%E8%BD%AC%E3%80%82%E8%BF%91%E4%B8%A4%E5%B9%B4AI%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E5%B7%B2%E4%B8%8B%E9%99%8D%E7%BA%A680%25%EF%BC%8CDeepSeek%E7%9A%84%E6%BF%80%E8%BF%9B%E5%AE%9A%E4%BB%B7%E7%AD%96%E7%95%A5%E5%8F%AA%E6%98%AF%E5%8A%A0%E9%80%9F%E8%BF%99%E8%BF%87%E7%A8%8B%E3%80%82%E4%B8%8D%E4%BB%85%E6%89%93%E7%A0%B4OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E7%9A%84%E5%AE%9A%E4%BB%B7%E5%9E%84%E6%96%AD%EF%BC%8C%E4%B9%9F%E5%82%AC%E7%94%9F%E5%A4%A7%E9%87%8F%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%99%8D%E4%BD%8EAI%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%E9%97%A8%E6%A7%9B%EF%BC%8C%E5%8A%A0%E5%BF%ABAI%E6%99%AE%E5%8F%8A%E9%80%9F%E5%BA%A6%E3%80%82+https%3A%2F%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [不仅](不仅.md), [催生](催生.md), [垄断](垄断.md), [型](型.md), [巨头](巨头.md), [开源](开源.md), [成本](成本.md), [技术](技术.md), [推理](推理.md), [普及](普及.md), [模型](模型.md), [激进](激进.md), [策略](策略.md), [趋势](趋势.md), [速度](速度.md), [门槛](门槛.md), [降低](降低.md)
+___
+##### 2025-04-05 05:40:08 UTC ~ 小互
+> RT @imxiaohu: 一款名为 Quasar Alpha的神秘模型登陆了OpenRouter上下文长度高达 100 万个 token其的响应速度非常快，平均每秒可处理约 136 个 token有人怀疑是 OpenAI 的开源模型，因为问它的是时候它回答是基于G…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E4%B8%80%E6%AC%BE%E5%90%8D%E4%B8%BA+Quasar+Alpha%E7%9A%84%E7%A5%9E%E7%A7%98%E6%A8%A1%E5%9E%8B%E7%99%BB%E9%99%86%E4%BA%86OpenRouter%E4%B8%8A%E4%B8%8B%E6%96%87%E9%95%BF%E5%BA%A6%E9%AB%98%E8%BE%BE+100+%E4%B8%87%E4%B8%AA+token%E5%85%B6%E7%9A%84%E5%93%8D%E5%BA%94%E9%80%9F%E5%BA%A6%E9%9D%9E%E5%B8%B8%E5%BF%AB%EF%BC%8C%E5%B9%B3%E5%9D%87%E6%AF%8F%E7%A7%92%E5%8F%AF%E5%A4%84%E7%90%86%E7%BA%A6+136+%E4%B8%AA+token%E6%9C%89%E4%BA%BA%E6%80%80%E7%96%91%E6%98%AF+OpenAI+%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9B%A0%E4%B8%BA%E9%97%AE%E5%AE%83%E7%9A%84%E6%98%AF%E6%97%B6%E5%80%99%E5%AE%83%E5%9B%9E%E7%AD%94%E6%98%AF%E5%9F%BA%E4%BA%8EG%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上下文](上下文.md), [型](型.md), [处理](处理.md), [开源](开源.md), [模型](模型.md), [速度](速度.md)
+___
+##### 2025-04-02 06:51:52 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【軟銀最高將對OpenAI出資300億美元，但有風險】OpenAI宣佈將從軟銀集團等處籌集400億美元。通過確保鉅額資金，構建AI基礎設施，與DeepSeek等新興企業競爭。當前的課題是OpenAI向營利性企業轉型能否獲得批准…… ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%BB%9F%E9%8A%80%E6%9C%80%E9%AB%98%E5%B0%87%E5%B0%8DOpenAI%E5%87%BA%E8%B3%87300%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BD%86%E6%9C%89%E9%A2%A8%E9%9A%AA%E3%80%91OpenAI%E5%AE%A3%E4%BD%88%E5%B0%87%E5%BE%9E%E8%BB%9F%E9%8A%80%E9%9B%86%E5%9C%98%E7%AD%89%E8%99%95%E7%B1%8C%E9%9B%86400%E5%84%84%E7%BE%8E%E5%85%83%E3%80%82%E9%80%9A%E9%81%8E%E7%A2%BA%E4%BF%9D%E9%89%85%E9%A1%8D%E8%B3%87%E9%87%91%EF%BC%8C%E6%A7%8B%E5%BB%BAAI%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD%EF%BC%8C%E8%88%87DeepSeek%E7%AD%89%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD%E7%AB%B6%E7%88%AD%E3%80%82%E7%95%B6%E5%89%8D%E7%9A%84%E8%AA%B2%E9%A1%8C%E6%98%AFOpenAI%E5%90%91%E7%87%9F%E5%88%A9%E6%80%A7%E4%BC%81%E6%A5%AD%E8%BD%89%E5%9E%8B%E8%83%BD%E5%90%A6%E7%8D%B2%E5%BE%97%E6%89%B9%E5%87%86%E2%80%A6%E2%80%A6+ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [型](型.md), [批准](批准.md)
+___
 ##### 2025-03-29 06:59:44 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 OpenAI即将完成一轮400亿美元的融资，但这家非营利组织必须在年底前成功重组为一家营利性公司，否则，软银可以将这轮融资的规模缩减至200亿美元。https://t.co/y9LuzoTXn6
 
@@ -42,7 +119,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [型](型.md), [开发](开发.md), [指控](指控.md), [控制](控制.md), [支持](支持.md), [机构](机构.md), [模型](模型.md), [深度求索](深度求索.md), [禁止](禁止.md), [美国](美国.md), [补贴](补贴.md)
 ___
-##### 2025-03-14 04:39:51 UTC ~ Jesse Lau
+##### 2025-03-14 04:39:51 UTC ~ Jesse Lau 遁一子
 > RT @jesselaunz: Gemini发布了我最近最想要的更新🥰Deep Research由2.0 Flash Thinking驱动了。可以显示思考过程（我简单录屏了每天的外汇分析prompt）。看来Google是连环打击OpenAI。这项功能本来在Advance…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40jesselaunz%3A+Gemini%E5%8F%91%E5%B8%83%E4%BA%86%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E6%83%B3%E8%A6%81%E7%9A%84%E6%9B%B4%E6%96%B0%F0%9F%A5%B0Deep+Research%E7%94%B12.0+Flash+Thinking%E9%A9%B1%E5%8A%A8%E4%BA%86%E3%80%82%E5%8F%AF%E4%BB%A5%E6%98%BE%E7%A4%BA%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%EF%BC%88%E6%88%91%E7%AE%80%E5%8D%95%E5%BD%95%E5%B1%8F%E4%BA%86%E6%AF%8F%E5%A4%A9%E7%9A%84%E5%A4%96%E6%B1%87%E5%88%86%E6%9E%90prompt%EF%BC%89%E3%80%82%E7%9C%8B%E6%9D%A5Google%E6%98%AF%E8%BF%9E%E7%8E%AF%E6%89%93%E5%87%BBOpenAI%E3%80%82%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%E6%9C%AC%E6%9D%A5%E5%9C%A8Advance%E2%80%A6)

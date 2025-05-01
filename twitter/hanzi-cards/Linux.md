@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Linux) for definition
 ### Tweets containing Linux
 
 ___
+##### 2025-04-27 19:31:40 UTC ~ 蓝点网
+> RT @landiantech: #安全资讯 代理工具Clash Verge rev存在本地提权漏洞，在Windows上可提权到SYSTEM、在Mac/Linux上可提权至root。目前开发团队已经知晓该漏洞并正在修复，请使用该工具的用户及时关注项目主页检查是否有更新。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%23%E5%AE%89%E5%85%A8%E8%B5%84%E8%AE%AF+%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7Clash+Verge+rev%E5%AD%98%E5%9C%A8%E6%9C%AC%E5%9C%B0%E6%8F%90%E6%9D%83%E6%BC%8F%E6%B4%9E%EF%BC%8C%E5%9C%A8Windows%E4%B8%8A%E5%8F%AF%E6%8F%90%E6%9D%83%E5%88%B0SYSTEM%E3%80%81%E5%9C%A8Mac%2FLinux%E4%B8%8A%E5%8F%AF%E6%8F%90%E6%9D%83%E8%87%B3root%E3%80%82%E7%9B%AE%E5%89%8D%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%B7%B2%E7%BB%8F%E7%9F%A5%E6%99%93%E8%AF%A5%E6%BC%8F%E6%B4%9E%E5%B9%B6%E6%AD%A3%E5%9C%A8%E4%BF%AE%E5%A4%8D%EF%BC%8C%E8%AF%B7%E4%BD%BF%E7%94%A8%E8%AF%A5%E5%B7%A5%E5%85%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%8F%8A%E6%97%B6%E5%85%B3%E6%B3%A8%E9%A1%B9%E7%9B%AE%E4%B8%BB%E9%A1%B5%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%9C%89%E6%9B%B4%E6%96%B0%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [Windows](Windows.md), [关注](关注.md), [工具](工具.md), [开发](开发.md), [检查](检查.md), [漏洞](漏洞.md), [项目](项目.md)
+___
 ##### 2025-03-31 16:09:45 UTC ~ Geek
 > RT @geekbb: 黑苹果终将退出舞台，我也坚决不会回到 Windows，，所以提前开始熟悉 Linux 系统。作为一名彻底的新手，我体验了几个主流发行版，最终选定 EndeavourOS。因为有 AI 辅助，如今遇到问题的学习门槛越来越低，上手速度也明显加快了。 http…
 

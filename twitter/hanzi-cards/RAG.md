@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/RAG) for definition
 ### Tweets containing RAG
 
 ___
+##### 2025-04-14 00:57:59 UTC ~ karminski-牙医
+> RT @karminski3: 想在 iPhone 上运行大模型吗？来看看这个——LLMFarm  这个 app 可以运行在 苹果全家桶上，无论是 iOS 还是 MacOS。并且支持RAG。由于它其实是 llama.cpp 的魔改，所以几乎支持所有设备能装得下的模型。地…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%83%B3%E5%9C%A8+iPhone+%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E6%9D%A5%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E2%80%94%E2%80%94LLMFarm++%E8%BF%99%E4%B8%AA+app+%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8C%E5%9C%A8+%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%B8%8A%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF+iOS+%E8%BF%98%E6%98%AF+MacOS%E3%80%82%E5%B9%B6%E4%B8%94%E6%94%AF%E6%8C%81RAG%E3%80%82%E7%94%B1%E4%BA%8E%E5%AE%83%E5%85%B6%E5%AE%9E%E6%98%AF+llama.cpp+%E7%9A%84%E9%AD%94%E6%94%B9%EF%BC%8C%E6%89%80%E4%BB%A5%E5%87%A0%E4%B9%8E%E6%94%AF%E6%8C%81%E6%89%80%E6%9C%89%E8%AE%BE%E5%A4%87%E8%83%BD%E8%A3%85%E5%BE%97%E4%B8%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E5%9C%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [iOS](iOS.md), [iPhone](iPhone.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
+___
+##### 2025-04-08 15:47:55 UTC ~ karminski-牙医
+> RT @karminski3: Cloudflare 刚刚推出了 AutoRAG 服务！在公开测试版期间，启用 AutoRAG 免费。在此阶段，索引、检索和增强的计算操作不产生额外费用。每个账户限制为 10 个 AutoRAG 实例，每个 AutoRAG 最多可处理 100…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+Cloudflare+%E5%88%9A%E5%88%9A%E6%8E%A8%E5%87%BA%E4%BA%86+AutoRAG+%E6%9C%8D%E5%8A%A1%EF%BC%81%E5%9C%A8%E5%85%AC%E5%BC%80%E6%B5%8B%E8%AF%95%E7%89%88%E6%9C%9F%E9%97%B4%EF%BC%8C%E5%90%AF%E7%94%A8+AutoRAG+%E5%85%8D%E8%B4%B9%E3%80%82%E5%9C%A8%E6%AD%A4%E9%98%B6%E6%AE%B5%EF%BC%8C%E7%B4%A2%E5%BC%95%E3%80%81%E6%A3%80%E7%B4%A2%E5%92%8C%E5%A2%9E%E5%BC%BA%E7%9A%84%E8%AE%A1%E7%AE%97%E6%93%8D%E4%BD%9C%E4%B8%8D%E4%BA%A7%E7%94%9F%E9%A2%9D%E5%A4%96%E8%B4%B9%E7%94%A8%E3%80%82%E6%AF%8F%E4%B8%AA%E8%B4%A6%E6%88%B7%E9%99%90%E5%88%B6%E4%B8%BA+10+%E4%B8%AA+AutoRAG+%E5%AE%9E%E4%BE%8B%EF%BC%8C%E6%AF%8F%E4%B8%AA+AutoRAG+%E6%9C%80%E5%A4%9A%E5%8F%AF%E5%A4%84%E7%90%86+100%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[处理](处理.md), [推出](推出.md), [操作](操作.md), [账户](账户.md), [阶段](阶段.md), [限制](限制.md), [额外](额外.md)
+___
 ##### 2025-04-01 04:00:31 UTC ~ 知识分享官
 > RT @knowledgefxg: Awesome LLM Apps这个GitHub项目主要收集了使用大型语言模型(LLM)构建的各种应用程序。目的就是展示和分享那些结合了RAG(检索增强生成)和AI智能体技术的优秀LLM应用案例。不仅提供了代码，还包含了详细的说明文档，帮助…
 

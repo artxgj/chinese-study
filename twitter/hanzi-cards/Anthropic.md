@@ -7,6 +7,53 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2025-04-27 18:39:03 UTC ~ karminski-牙医
+> RT @karminski3: 分享个来自 Anthropic 官方的 Claude Code 最佳实践指南教程，准备尝试用 Claude Code 或者其它 agentic 命令行工具写代码的同学可以看看，写得很棒地址：https://t.co/wtAXxAvTzy ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%88%86%E4%BA%AB%E4%B8%AA%E6%9D%A5%E8%87%AA+Anthropic+%E5%AE%98%E6%96%B9%E7%9A%84+Claude+Code+%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E6%95%99%E7%A8%8B%EF%BC%8C%E5%87%86%E5%A4%87%E5%B0%9D%E8%AF%95%E7%94%A8+Claude+Code+%E6%88%96%E8%80%85%E5%85%B6%E5%AE%83+agentic+%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E5%90%8C%E5%AD%A6%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%EF%BC%8C%E5%86%99%E5%BE%97%E5%BE%88%E6%A3%92%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A%2F%2Ft.co%2FwtAXxAvTzy+ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [代码](代码.md), [实践](实践.md), [工具](工具.md), [指南](指南.md), [最佳](最佳.md), [来自](来自.md)
+___
+##### 2025-04-26 18:29:11 UTC ~ AI Will
+> RT @FinanceYF5: Anthropic发布了关于代理编码的完整指南有6个要点可以最大化Claude Code和LLM的效率来构建。以下是你需要了解的所有内容（并附有官方博客链接） https://t.co/JCHh2lugnV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E5%8F%91%E5%B8%83%E4%BA%86%E5%85%B3%E4%BA%8E%E4%BB%A3%E7%90%86%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%E6%9C%896%E4%B8%AA%E8%A6%81%E7%82%B9%E5%8F%AF%E4%BB%A5%E6%9C%80%E5%A4%A7%E5%8C%96Claude+Code%E5%92%8CLLM%E7%9A%84%E6%95%88%E7%8E%87%E6%9D%A5%E6%9E%84%E5%BB%BA%E3%80%82%E4%BB%A5%E4%B8%8B%E6%98%AF%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%EF%BC%88%E5%B9%B6%E9%99%84%E6%9C%89%E5%AE%98%E6%96%B9%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5%EF%BC%89+https%3A%2F%2Ft.co%2FJCHh2lugnV)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [发布](发布.md), [指南](指南.md), [效率](效率.md)
+___
+##### 2025-04-25 02:38:30 UTC ~ 宝玉
+> RT @dotey: MCP这么火，为什么普通用户却感觉不到？2024年底，Anthropic 推出的 MCP（模型上下文协议，Model Context Protocol）迅速成为技术社区的焦点，仅几个月内便引发大量开发者的热情讨论。作为一种统一的标准化协议，MCP 帮助…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+MCP%E8%BF%99%E4%B9%88%E7%81%AB%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E5%8D%B4%E6%84%9F%E8%A7%89%E4%B8%8D%E5%88%B0%EF%BC%9F2024%E5%B9%B4%E5%BA%95%EF%BC%8CAnthropic+%E6%8E%A8%E5%87%BA%E7%9A%84+MCP%EF%BC%88%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE%EF%BC%8CModel+Context+Protocol%EF%BC%89%E8%BF%85%E9%80%9F%E6%88%90%E4%B8%BA%E6%8A%80%E6%9C%AF%E7%A4%BE%E5%8C%BA%E7%9A%84%E7%84%A6%E7%82%B9%EF%BC%8C%E4%BB%85%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E4%BE%BF%E5%BC%95%E5%8F%91%E5%A4%A7%E9%87%8F%E5%BC%80%E5%8F%91%E8%80%85%E7%9A%84%E7%83%AD%E6%83%85%E8%AE%A8%E8%AE%BA%E3%80%82%E4%BD%9C%E4%B8%BA%E4%B8%80%E7%A7%8D%E7%BB%9F%E4%B8%80%E7%9A%84%E6%A0%87%E5%87%86%E5%8C%96%E5%8D%8F%E8%AE%AE%EF%BC%8CMCP+%E5%B8%AE%E5%8A%A9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [推出](推出.md), [模型](模型.md), [焦点](焦点.md), [迅速](迅速.md)
+___
+##### 2025-04-10 16:53:27 UTC ~ indigo
+> RT @indigo11: 昨天分享的 Anthropic 工程师 Barry Zhang 的观点：Don't build agents for everything！今天 Google 正式公布了 Agentspace，为他的 Cloud 用户提供统一的 Agent 指挥中心…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indigo11%3A+%E6%98%A8%E5%A4%A9%E5%88%86%E4%BA%AB%E7%9A%84+Anthropic+%E5%B7%A5%E7%A8%8B%E5%B8%88+Barry+Zhang+%E7%9A%84%E8%A7%82%E7%82%B9%EF%BC%9ADon%27t+build+agents+for+everything%EF%BC%81%E4%BB%8A%E5%A4%A9+Google+%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%E4%BA%86+Agentspace%EF%BC%8C%E4%B8%BA%E4%BB%96%E7%9A%84+Cloud+%E7%94%A8%E6%88%B7%E6%8F%90%E4%BE%9B%E7%BB%9F%E4%B8%80%E7%9A%84+Agent+%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[提供](提供.md), [正式](正式.md)
+___
+##### 2025-04-10 03:43:53 UTC ~ orange.ai
+> RT @oran_ge: Google 宣布推出 Agent2Agent 协议 (A2A)，这是一种开放协议，让 Agents 可以相互协作，而不受底层框架或供应商的限制。A2A 属于对 Anthropic 的模型上下文协议 (MCP) 的一种补充 https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Google+%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BA+Agent2Agent+%E5%8D%8F%E8%AE%AE+%28A2A%29%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BC%80%E6%94%BE%E5%8D%8F%E8%AE%AE%EF%BC%8C%E8%AE%A9+Agents+%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%92%E5%8D%8F%E4%BD%9C%EF%BC%8C%E8%80%8C%E4%B8%8D%E5%8F%97%E5%BA%95%E5%B1%82%E6%A1%86%E6%9E%B6%E6%88%96%E4%BE%9B%E5%BA%94%E5%95%86%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82A2A+%E5%B1%9E%E4%BA%8E%E5%AF%B9+Anthropic+%E7%9A%84%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE+%28MCP%29+%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A1%A5%E5%85%85+https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [推出](推出.md), [模型](模型.md), [补充](补充.md), [限制](限制.md)
+___
+##### 2025-04-08 15:59:49 UTC ~ indigo
+> RT @indigo11: Anthropic 工程师 Barry Zhang 在 AI Engineer 工作坊上的一个分享 “如何构建有效的 Agent”，其中印象最深的一个观点：Don't build agents for everything，反过来理解就是别做什么都能…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indigo11%3A+Anthropic+%E5%B7%A5%E7%A8%8B%E5%B8%88+Barry+Zhang+%E5%9C%A8+AI+Engineer+%E5%B7%A5%E4%BD%9C%E5%9D%8A%E4%B8%8A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%88%86%E4%BA%AB+%E2%80%9C%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%9C%89%E6%95%88%E7%9A%84+Agent%E2%80%9D%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%82%E7%82%B9%EF%BC%9ADon%27t+build+agents+for+everything%EF%BC%8C%E5%8F%8D%E8%BF%87%E6%9D%A5%E7%90%86%E8%A7%A3%E5%B0%B1%E6%98%AF%E5%88%AB%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E2%80%A6)
+___
+##### 2025-04-03 10:06:16 UTC ~ AI Will
+> RT @FinanceYF5: Anthropic推出了Claude教育版。与大学合作，将人工智能引入高等教育，同时为学生提供全新的学习模式。Claude教育版今天已在伦敦政治经济学院、东北大学和香槟学院上线。所有拥有.edu邮箱的Pro用户也可以使用。 https:/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E6%8E%A8%E5%87%BA%E4%BA%86Claude%E6%95%99%E8%82%B2%E7%89%88%E3%80%82%E4%B8%8E%E5%A4%A7%E5%AD%A6%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E5%85%A5%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%A8%E6%96%B0%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%BC%8F%E3%80%82Claude%E6%95%99%E8%82%B2%E7%89%88%E4%BB%8A%E5%A4%A9%E5%B7%B2%E5%9C%A8%E4%BC%A6%E6%95%A6%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E3%80%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E9%A6%99%E6%A7%9F%E5%AD%A6%E9%99%A2%E4%B8%8A%E7%BA%BF%E3%80%82%E6%89%80%E6%9C%89%E6%8B%A5%E6%9C%89.edu%E9%82%AE%E7%AE%B1%E7%9A%84Pro%E7%94%A8%E6%88%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E3%80%82+https%3A%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [提供](提供.md), [模式](模式.md), [香槟](香槟.md)
+___
 ##### 2025-03-31 06:55:20 UTC ~ AI Will
 > RT @FinanceYF5: Anthropic发布新研究：追踪大型语言模型的思维过程Anthropic开发了一种“显微镜”来检查 AI 模型内部发生的事情，并利用它来理解 Claude（其内部机制往往复杂且令人惊讶）。以下原文 https://t.co/v8HkYF…
 

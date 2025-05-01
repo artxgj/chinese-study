@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2025-04-28 23:50:40 UTC ~ orange.ai
+> RT @oran_ge: 全世界等了一个月，Qwen3 它终于来了！模型特色：思考更深，速度更快-  Qwen3 是全球最强开源模型，性能全面超越 DeepSeek R1，国内第一个敢说全面超越 R1 的模型，之前都是比肩- Qwen3 是国内首个混合推理模型，复杂答案…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%85%A8%E4%B8%96%E7%95%8C%E7%AD%89%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%EF%BC%8CQwen3+%E5%AE%83%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%EF%BC%81%E6%A8%A1%E5%9E%8B%E7%89%B9%E8%89%B2%EF%BC%9A%E6%80%9D%E8%80%83%E6%9B%B4%E6%B7%B1%EF%BC%8C%E9%80%9F%E5%BA%A6%E6%9B%B4%E5%BF%AB-++Qwen3+%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BA%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%80%A7%E8%83%BD%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A+DeepSeek+R1%EF%BC%8C%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%95%A2%E8%AF%B4%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A+R1+%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B9%8B%E5%89%8D%E9%83%BD%E6%98%AF%E6%AF%94%E8%82%A9-+Qwen3+%E6%98%AF%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%B7%B7%E5%90%88%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%A4%8D%E6%9D%82%E7%AD%94%E6%A1%88%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [型](型.md), [开源](开源.md), [推理](推理.md), [模型](模型.md), [速度](速度.md)
+___
+##### 2025-04-10 03:00:57 UTC ~ karminski-牙医
+> RT @karminski3: 最强SVG生成大模型出现了！OmniSVG！这个大模型基于Qwen2.5-VL,并集成了 SVG 标记化器。该模型将文本和图像输入都标记为前缀标记，同时 SVG 标记化器将矢量图形命令编码到一个统一的空间表示。带来了超级震撼的SVG生成效果。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%9C%80%E5%BC%BASVG%E7%94%9F%E6%88%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%87%BA%E7%8E%B0%E4%BA%86%EF%BC%81OmniSVG%EF%BC%81%E8%BF%99%E4%B8%AA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E4%BA%8EQwen2.5-VL%2C%E5%B9%B6%E9%9B%86%E6%88%90%E4%BA%86+SVG+%E6%A0%87%E8%AE%B0%E5%8C%96%E5%99%A8%E3%80%82%E8%AF%A5%E6%A8%A1%E5%9E%8B%E5%B0%86%E6%96%87%E6%9C%AC%E5%92%8C%E5%9B%BE%E5%83%8F%E8%BE%93%E5%85%A5%E9%83%BD%E6%A0%87%E8%AE%B0%E4%B8%BA%E5%89%8D%E7%BC%80%E6%A0%87%E8%AE%B0%EF%BC%8C%E5%90%8C%E6%97%B6+SVG+%E6%A0%87%E8%AE%B0%E5%8C%96%E5%99%A8%E5%B0%86%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%BD%A2%E5%91%BD%E4%BB%A4%E7%BC%96%E7%A0%81%E5%88%B0%E4%B8%80%E4%B8%AA%E7%BB%9F%E4%B8%80%E7%9A%84%E7%A9%BA%E9%97%B4%E8%A1%A8%E7%A4%BA%E3%80%82%E5%B8%A6%E6%9D%A5%E4%BA%86%E8%B6%85%E7%BA%A7%E9%9C%87%E6%92%BC%E7%9A%84SVG%E7%94%9F%E6%88%90%E6%95%88%E6%9E%9C%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [模型](模型.md)
+___
+##### 2025-04-09 07:06:32 UTC ~ Geek
+> RT @geekbb: 听了一下，效果真不错，反正我这木耳是听不出真假了🤯。基于 Qwen2.5 架构直出语音编码，零样本复刻任意人声，中英文混合生成丝滑无界。无需专业设备/海量数据，即刻生成媲美真人的多语言语音。Spark-TTS https://t.co/Ck6M5u…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E5%90%AC%E4%BA%86%E4%B8%80%E4%B8%8B%EF%BC%8C%E6%95%88%E6%9E%9C%E7%9C%9F%E4%B8%8D%E9%94%99%EF%BC%8C%E5%8F%8D%E6%AD%A3%E6%88%91%E8%BF%99%E6%9C%A8%E8%80%B3%E6%98%AF%E5%90%AC%E4%B8%8D%E5%87%BA%E7%9C%9F%E5%81%87%E4%BA%86%F0%9F%A4%AF%E3%80%82%E5%9F%BA%E4%BA%8E+Qwen2.5+%E6%9E%B6%E6%9E%84%E7%9B%B4%E5%87%BA%E8%AF%AD%E9%9F%B3%E7%BC%96%E7%A0%81%EF%BC%8C%E9%9B%B6%E6%A0%B7%E6%9C%AC%E5%A4%8D%E5%88%BB%E4%BB%BB%E6%84%8F%E4%BA%BA%E5%A3%B0%EF%BC%8C%E4%B8%AD%E8%8B%B1%E6%96%87%E6%B7%B7%E5%90%88%E7%94%9F%E6%88%90%E4%B8%9D%E6%BB%91%E6%97%A0%E7%95%8C%E3%80%82%E6%97%A0%E9%9C%80%E4%B8%93%E4%B8%9A%E8%AE%BE%E5%A4%87%2F%E6%B5%B7%E9%87%8F%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%8D%B3%E5%88%BB%E7%94%9F%E6%88%90%E5%AA%B2%E7%BE%8E%E7%9C%9F%E4%BA%BA%E7%9A%84%E5%A4%9A%E8%AF%AD%E8%A8%80%E8%AF%AD%E9%9F%B3%E3%80%82Spark-TTS+https%3A%2F%2Ft.co%2FCk6M5u%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[数据](数据.md)
+___
+##### 2025-04-08 15:51:19 UTC ~ karminski-牙医
+> RT @karminski3: Qwen3 越来越近的，刚刚 vLLM 的 Qwen3 PR 已经合并了，可以看到有两个模型：Qwen3-8BQwen3-MoE-15B-A2B盲猜第一个是多模态？第二个是专注文本的 MoE 模型？我倒是希望能大一点。15B感觉不太够看…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+Qwen3+%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BF%91%E7%9A%84%EF%BC%8C%E5%88%9A%E5%88%9A+vLLM+%E7%9A%84+Qwen3+PR+%E5%B7%B2%E7%BB%8F%E5%90%88%E5%B9%B6%E4%BA%86%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%A8%A1%E5%9E%8B%EF%BC%9AQwen3-8BQwen3-MoE-15B-A2B%E7%9B%B2%E7%8C%9C%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%98%AF%E5%A4%9A%E6%A8%A1%E6%80%81%EF%BC%9F%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%98%AF%E4%B8%93%E6%B3%A8%E6%96%87%E6%9C%AC%E7%9A%84+MoE+%E6%A8%A1%E5%9E%8B%EF%BC%9F%E6%88%91%E5%80%92%E6%98%AF%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%A4%A7%E4%B8%80%E7%82%B9%E3%80%8215B%E6%84%9F%E8%A7%89%E4%B8%8D%E5%A4%AA%E5%A4%9F%E7%9C%8B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [模型](模型.md), [越来越](越来越.md)
+___
+##### 2025-04-04 07:40:47 UTC ~ karminski-牙医
+> RT @karminski3: 刚看到的侧面消息，Meta 的 AI 负责人已经离职了，可能是由于 llama-4 搞不出来目前 llama-4 面临的压力我们来数一数，首先它肯定不能大于 120B，甚至最好还是维持在 70B，然后要超越 Qwen2.5-QwQ，Gemma…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%88%9A%E7%9C%8B%E5%88%B0%E7%9A%84%E4%BE%A7%E9%9D%A2%E6%B6%88%E6%81%AF%EF%BC%8CMeta+%E7%9A%84+AI+%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%B7%B2%E7%BB%8F%E7%A6%BB%E8%81%8C%E4%BA%86%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%98%AF%E7%94%B1%E4%BA%8E+llama-4+%E6%90%9E%E4%B8%8D%E5%87%BA%E6%9D%A5%E7%9B%AE%E5%89%8D+llama-4+%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%8E%8B%E5%8A%9B%E6%88%91%E4%BB%AC%E6%9D%A5%E6%95%B0%E4%B8%80%E6%95%B0%EF%BC%8C%E9%A6%96%E5%85%88%E5%AE%83%E8%82%AF%E5%AE%9A%E4%B8%8D%E8%83%BD%E5%A4%A7%E4%BA%8E+120B%EF%BC%8C%E7%94%9A%E8%87%B3%E6%9C%80%E5%A5%BD%E8%BF%98%E6%98%AF%E7%BB%B4%E6%8C%81%E5%9C%A8+70B%EF%BC%8C%E7%84%B6%E5%90%8E%E8%A6%81%E8%B6%85%E8%B6%8A+Qwen2.5-QwQ%EF%BC%8CGemma%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemma](Gemma.md), [压力](压力.md), [离职](离职.md), [维持](维持.md), [面临](面临.md)
+___
 ##### 2025-03-27 09:52:34 UTC ~ 小互
 > RT @imxiaohu: 阿里云发布 Qwen2.5 Omni 端到端全模态感知与响应模型 是一个可以“看、听、说、写、理解一切”的 AI 模型它不仅能处理文本，还能理解图片、语音、视频；它可以像人一样边听边说，实时对话，语音很自然；无论是让它听你说话，还是给…
 

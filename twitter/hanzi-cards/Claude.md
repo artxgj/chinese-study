@@ -7,6 +7,76 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2025-04-27 18:39:03 UTC ~ karminski-牙医
+> RT @karminski3: 分享个来自 Anthropic 官方的 Claude Code 最佳实践指南教程，准备尝试用 Claude Code 或者其它 agentic 命令行工具写代码的同学可以看看，写得很棒地址：https://t.co/wtAXxAvTzy ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%88%86%E4%BA%AB%E4%B8%AA%E6%9D%A5%E8%87%AA+Anthropic+%E5%AE%98%E6%96%B9%E7%9A%84+Claude+Code+%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97%E6%95%99%E7%A8%8B%EF%BC%8C%E5%87%86%E5%A4%87%E5%B0%9D%E8%AF%95%E7%94%A8+Claude+Code+%E6%88%96%E8%80%85%E5%85%B6%E5%AE%83+agentic+%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E5%90%8C%E5%AD%A6%E5%8F%AF%E4%BB%A5%E7%9C%8B%E7%9C%8B%EF%BC%8C%E5%86%99%E5%BE%97%E5%BE%88%E6%A3%92%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A%2F%2Ft.co%2FwtAXxAvTzy+ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [代码](代码.md), [实践](实践.md), [工具](工具.md), [指南](指南.md), [最佳](最佳.md), [来自](来自.md)
+___
+##### 2025-04-26 18:29:11 UTC ~ AI Will
+> RT @FinanceYF5: Anthropic发布了关于代理编码的完整指南有6个要点可以最大化Claude Code和LLM的效率来构建。以下是你需要了解的所有内容（并附有官方博客链接） https://t.co/JCHh2lugnV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E5%8F%91%E5%B8%83%E4%BA%86%E5%85%B3%E4%BA%8E%E4%BB%A3%E7%90%86%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%E6%9C%896%E4%B8%AA%E8%A6%81%E7%82%B9%E5%8F%AF%E4%BB%A5%E6%9C%80%E5%A4%A7%E5%8C%96Claude+Code%E5%92%8CLLM%E7%9A%84%E6%95%88%E7%8E%87%E6%9D%A5%E6%9E%84%E5%BB%BA%E3%80%82%E4%BB%A5%E4%B8%8B%E6%98%AF%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%EF%BC%88%E5%B9%B6%E9%99%84%E6%9C%89%E5%AE%98%E6%96%B9%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5%EF%BC%89+https%3A%2F%2Ft.co%2FJCHh2lugnV)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [发布](发布.md), [指南](指南.md), [效率](效率.md)
+___
+##### 2025-04-22 16:25:45 UTC ~ GitHubDaily
+> RT @GitHub_Daily: GitHub 上这款 Browserbase MCP Server 浏览器爬虫 MCP 服务器有点强大！通过它能够让 Claude 直接控制网页浏览器，除了可以爬取页面上内容外，还能网页导航、截图、点击和内容填写等操作。GitHub：…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+GitHub+%E4%B8%8A%E8%BF%99%E6%AC%BE+Browserbase+MCP+Server+%E6%B5%8F%E8%A7%88%E5%99%A8%E7%88%AC%E8%99%AB+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9C%89%E7%82%B9%E5%BC%BA%E5%A4%A7%EF%BC%81%E9%80%9A%E8%BF%87%E5%AE%83%E8%83%BD%E5%A4%9F%E8%AE%A9+Claude+%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E7%88%AC%E5%8F%96%E9%A1%B5%E9%9D%A2%E4%B8%8A%E5%86%85%E5%AE%B9%E5%A4%96%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BD%91%E9%A1%B5%E5%AF%BC%E8%88%AA%E3%80%81%E6%88%AA%E5%9B%BE%E3%80%81%E7%82%B9%E5%87%BB%E5%92%8C%E5%86%85%E5%AE%B9%E5%A1%AB%E5%86%99%E7%AD%89%E6%93%8D%E4%BD%9C%E3%80%82GitHub%EF%BC%9A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [控制](控制.md), [操作](操作.md), [直接](直接.md), [除了](除了.md)
+___
+##### 2025-04-21 00:24:29 UTC ~ AIGCLINK
+> RT @aigclink: 微软发布了一个文档转换MCP：markitdown-mcp，用于将网页链接(http/https)、本地文件以及数据转换为Markdown格式！主要是调用MarkItDown进行格式转换。可以通过Docker运行或直接安装，也可以与Claude等…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E4%B8%AA%E6%96%87%E6%A1%A3%E8%BD%AC%E6%8D%A2MCP%EF%BC%9Amarkitdown-mcp%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%B0%86%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%28http%2Fhttps%29%E3%80%81%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E4%BB%A5%E5%8F%8A%E6%95%B0%E6%8D%AE%E8%BD%AC%E6%8D%A2%E4%B8%BAMarkdown%E6%A0%BC%E5%BC%8F%EF%BC%81%E4%B8%BB%E8%A6%81%E6%98%AF%E8%B0%83%E7%94%A8MarkItDown%E8%BF%9B%E8%A1%8C%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E3%80%82%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87Docker%E8%BF%90%E8%A1%8C%E6%88%96%E7%9B%B4%E6%8E%A5%E5%AE%89%E8%A3%85%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%B8%8EClaude%E7%AD%89%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [发布](发布.md), [微软](微软.md), [数据](数据.md), [文件](文件.md), [用于](用于.md), [直接](直接.md), [转换](转换.md), [进行](进行.md)
+___
+##### 2025-04-18 04:24:36 UTC ~ AIGCLINK
+> RT @aigclink: 概念不错，一款LLM通用记忆MCP：Supermemory MCP，作用是让不同的AI，比如ChatGPT、Windsurf、Claude等之间可以共享上下文也就是说你与一个LLM的对话内容可以被其他LLM访问和使用，实现更连贯的对话体验目前…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E6%A6%82%E5%BF%B5%E4%B8%8D%E9%94%99%EF%BC%8C%E4%B8%80%E6%AC%BELLM%E9%80%9A%E7%94%A8%E8%AE%B0%E5%BF%86MCP%EF%BC%9ASupermemory+MCP%EF%BC%8C%E4%BD%9C%E7%94%A8%E6%98%AF%E8%AE%A9%E4%B8%8D%E5%90%8C%E7%9A%84AI%EF%BC%8C%E6%AF%94%E5%A6%82ChatGPT%E3%80%81Windsurf%E3%80%81Claude%E7%AD%89%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E5%85%B1%E4%BA%AB%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B9%9F%E5%B0%B1%E6%98%AF%E8%AF%B4%E4%BD%A0%E4%B8%8E%E4%B8%80%E4%B8%AALLM%E7%9A%84%E5%AF%B9%E8%AF%9D%E5%86%85%E5%AE%B9%E5%8F%AF%E4%BB%A5%E8%A2%AB%E5%85%B6%E4%BB%96LLM%E8%AE%BF%E9%97%AE%E5%92%8C%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%AE%9E%E7%8E%B0%E6%9B%B4%E8%BF%9E%E8%B4%AF%E7%9A%84%E5%AF%B9%E8%AF%9D%E4%BD%93%E9%AA%8C%E7%9B%AE%E5%89%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [上下文](上下文.md), [共享](共享.md), [实现](实现.md)
+___
+##### 2025-04-17 16:56:01 UTC ~ AIGCLINK
+> RT @aigclink: FastAPI-MCP：可以把任意FastAPI应用变成 MCP服务器FastAPI-MCP是一个近乎零配置的工具，用于自动把FastAPI接口转换为MCP工具比如，你让Claude执行："帮我给用户ID为12345的用户发送一封提醒邮件"，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+FastAPI-MCP%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8A%8A%E4%BB%BB%E6%84%8FFastAPI%E5%BA%94%E7%94%A8%E5%8F%98%E6%88%90+MCP%E6%9C%8D%E5%8A%A1%E5%99%A8FastAPI-MCP%E6%98%AF%E4%B8%80%E4%B8%AA%E8%BF%91%E4%B9%8E%E9%9B%B6%E9%85%8D%E7%BD%AE%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E7%94%A8%E4%BA%8E%E8%87%AA%E5%8A%A8%E6%8A%8AFastAPI%E6%8E%A5%E5%8F%A3%E8%BD%AC%E6%8D%A2%E4%B8%BAMCP%E5%B7%A5%E5%85%B7%E6%AF%94%E5%A6%82%EF%BC%8C%E4%BD%A0%E8%AE%A9Claude%E6%89%A7%E8%A1%8C%EF%BC%9A%22%E5%B8%AE%E6%88%91%E7%BB%99%E7%94%A8%E6%88%B7ID%E4%B8%BA12345%E7%9A%84%E7%94%A8%E6%88%B7%E5%8F%91%E9%80%81%E4%B8%80%E5%B0%81%E6%8F%90%E9%86%92%E9%82%AE%E4%BB%B6%22%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [工具](工具.md), [执行](执行.md), [接口](接口.md), [提醒](提醒.md), [用于](用于.md), [转换](转换.md)
+___
+##### 2025-04-13 18:12:47 UTC ~ AIGCLINK
+> RT @aigclink: MCP生态Jupyter MCP Server，让AI助手直接在你的Jupyter笔记本中添加代码/文字比如用Python分析一个数据集，“计算一下这个数据集的平均值和标准差”，你可以用自然语言给ClaudeClaude不仅可以生成结果，还…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+MCP%E7%94%9F%E6%80%81Jupyter+MCP+Server%EF%BC%8C%E8%AE%A9AI%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%9C%A8%E4%BD%A0%E7%9A%84Jupyter%E7%AC%94%E8%AE%B0%E6%9C%AC%E4%B8%AD%E6%B7%BB%E5%8A%A0%E4%BB%A3%E7%A0%81%2F%E6%96%87%E5%AD%97%E6%AF%94%E5%A6%82%E7%94%A8Python%E5%88%86%E6%9E%90%E4%B8%80%E4%B8%AA%E6%95%B0%E6%8D%AE%E9%9B%86%EF%BC%8C%E2%80%9C%E8%AE%A1%E7%AE%97%E4%B8%80%E4%B8%8B%E8%BF%99%E4%B8%AA%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E5%B9%B3%E5%9D%87%E5%80%BC%E5%92%8C%E6%A0%87%E5%87%86%E5%B7%AE%E2%80%9D%EF%BC%8C%E4%BD%A0%E5%8F%AF%E4%BB%A5%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E7%BB%99ClaudeClaude%E4%B8%8D%E4%BB%85%E5%8F%AF%E4%BB%A5%E7%94%9F%E6%88%90%E7%BB%93%E6%9E%9C%EF%BC%8C%E8%BF%98%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [Python](Python.md), [不仅](不仅.md), [代码](代码.md), [分析](分析.md), [数据](数据.md), [生态](生态.md), [直接](直接.md)
+___
+##### 2025-04-11 17:06:14 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 很早前，我们就可以利用 AI 快速抓取网站内容进行提问和理解，但颇为繁琐且技术小白难以上手。现在有了开源工具 sitemcp 后，这一应用场景将变得非常简单。它能一键抓取整个网站内容并将其转化为 MCP 服务器，再搭配 Claude…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%88%E6%97%A9%E5%89%8D%EF%BC%8C%E6%88%91%E4%BB%AC%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%88%A9%E7%94%A8+AI+%E5%BF%AB%E9%80%9F%E6%8A%93%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E8%BF%9B%E8%A1%8C%E6%8F%90%E9%97%AE%E5%92%8C%E7%90%86%E8%A7%A3%EF%BC%8C%E4%BD%86%E9%A2%87%E4%B8%BA%E7%B9%81%E7%90%90%E4%B8%94%E6%8A%80%E6%9C%AF%E5%B0%8F%E7%99%BD%E9%9A%BE%E4%BB%A5%E4%B8%8A%E6%89%8B%E3%80%82%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BA%86%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7+sitemcp+%E5%90%8E%EF%BC%8C%E8%BF%99%E4%B8%80%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%B0%86%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E3%80%82%E5%AE%83%E8%83%BD%E4%B8%80%E9%94%AE%E6%8A%93%E5%8F%96%E6%95%B4%E4%B8%AA%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%B9%B6%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8C%96%E4%B8%BA+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%86%8D%E6%90%AD%E9%85%8D+Claude%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [进行](进行.md)
+___
+##### 2025-04-09 16:17:09 UTC ~ 向阳乔木
+> RT @vista8: 今天在钉钉做了一场直播，PPT是这两天重新写的。分享三个重点：AI发展速度超乎想象、学什么才能不落伍、如何学才能收获最大。AI发展速度快到上个月在清华大学分享的PPT这个月就得改。最佳编程模型从Claude 3.7变成Gemini 2.5 P…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40vista8%3A+%E4%BB%8A%E5%A4%A9%E5%9C%A8%E9%92%89%E9%92%89%E5%81%9A%E4%BA%86%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%EF%BC%8CPPT%E6%98%AF%E8%BF%99%E4%B8%A4%E5%A4%A9%E9%87%8D%E6%96%B0%E5%86%99%E7%9A%84%E3%80%82%E5%88%86%E4%BA%AB%E4%B8%89%E4%B8%AA%E9%87%8D%E7%82%B9%EF%BC%9AAI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1%E3%80%81%E5%AD%A6%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E4%B8%8D%E8%90%BD%E4%BC%8D%E3%80%81%E5%A6%82%E4%BD%95%E5%AD%A6%E6%89%8D%E8%83%BD%E6%94%B6%E8%8E%B7%E6%9C%80%E5%A4%A7%E3%80%82AI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E5%BF%AB%E5%88%B0%E4%B8%8A%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%86%E4%BA%AB%E7%9A%84PPT%E8%BF%99%E4%B8%AA%E6%9C%88%E5%B0%B1%E5%BE%97%E6%94%B9%E3%80%82%E6%9C%80%E4%BD%B3%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E4%BB%8EClaude+3.7%E5%8F%98%E6%88%90Gemini+2.5+P%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemini](Gemini.md), [型](型.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
+___
+##### 2025-04-03 10:06:16 UTC ~ AI Will
+> RT @FinanceYF5: Anthropic推出了Claude教育版。与大学合作，将人工智能引入高等教育，同时为学生提供全新的学习模式。Claude教育版今天已在伦敦政治经济学院、东北大学和香槟学院上线。所有拥有.edu邮箱的Pro用户也可以使用。 https:/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E6%8E%A8%E5%87%BA%E4%BA%86Claude%E6%95%99%E8%82%B2%E7%89%88%E3%80%82%E4%B8%8E%E5%A4%A7%E5%AD%A6%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E5%85%A5%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%A8%E6%96%B0%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%BC%8F%E3%80%82Claude%E6%95%99%E8%82%B2%E7%89%88%E4%BB%8A%E5%A4%A9%E5%B7%B2%E5%9C%A8%E4%BC%A6%E6%95%A6%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E3%80%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E9%A6%99%E6%A7%9F%E5%AD%A6%E9%99%A2%E4%B8%8A%E7%BA%BF%E3%80%82%E6%89%80%E6%9C%89%E6%8B%A5%E6%9C%89.edu%E9%82%AE%E7%AE%B1%E7%9A%84Pro%E7%94%A8%E6%88%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E3%80%82+https%3A%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [提供](提供.md), [模式](模式.md), [香槟](香槟.md)
+___
 ##### 2025-03-31 07:37:36 UTC ~ 宝玉
 > RT @dotey: 模型的搭配使用很有必要比如 DeepResearch 擅长搜集资料比如Gemini和Grok上下文可以很长，内容多的就先让它们预处理把长度浓缩比如Claude擅长编程比如GPT-4.5写作很好但长度不能太长比如音视频用 Gemini 处理最好生…
 

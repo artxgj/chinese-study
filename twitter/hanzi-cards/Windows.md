@@ -7,6 +7,55 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2025-05-01 01:56:34 UTC ~ 蓝点网
+> RT @landiantech: 微软资深工程师透露 #Windows7 为什么会在设置纯色背景后开机会卡顿 30 秒：简单来说就是代码逻辑存在问题。 Windows 开机时会启动多个组件，每个组件会发送准备就绪信号，而负责检测桌面背景的函数存在 BUG，如果无法检测到图片…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E5%BE%AE%E8%BD%AF%E8%B5%84%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%80%8F%E9%9C%B2+%23Windows7+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%9C%A8%E8%AE%BE%E7%BD%AE%E7%BA%AF%E8%89%B2%E8%83%8C%E6%99%AF%E5%90%8E%E5%BC%80%E6%9C%BA%E4%BC%9A%E5%8D%A1%E9%A1%BF+30+%E7%A7%92%EF%BC%9A%E7%AE%80%E5%8D%95%E6%9D%A5%E8%AF%B4%E5%B0%B1%E6%98%AF%E4%BB%A3%E7%A0%81%E9%80%BB%E8%BE%91%E5%AD%98%E5%9C%A8%E9%97%AE%E9%A2%98%E3%80%82+Windows+%E5%BC%80%E6%9C%BA%E6%97%B6%E4%BC%9A%E5%90%AF%E5%8A%A8%E5%A4%9A%E4%B8%AA%E7%BB%84%E4%BB%B6%EF%BC%8C%E6%AF%8F%E4%B8%AA%E7%BB%84%E4%BB%B6%E4%BC%9A%E5%8F%91%E9%80%81%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%E4%BF%A1%E5%8F%B7%EF%BC%8C%E8%80%8C%E8%B4%9F%E8%B4%A3%E6%A3%80%E6%B5%8B%E6%A1%8C%E9%9D%A2%E8%83%8C%E6%99%AF%E7%9A%84%E5%87%BD%E6%95%B0%E5%AD%98%E5%9C%A8+BUG%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%97%A0%E6%B3%95%E6%A3%80%E6%B5%8B%E5%88%B0%E5%9B%BE%E7%89%87%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [启动](启动.md), [微软](微软.md), [检测](检测.md), [透露](透露.md), [逻辑](逻辑.md)
+___
+##### 2025-04-30 03:50:58 UTC ~ Geek
+> RT @geekbb: 打造最强 Mac mini！软路由＋电视盒子+NAS+Windows，一机多用 All in one 教程📺 https://t.co/QUFx0Vzpjh当前 Mac mini M4 的价格🤣，让黑苹果的性价比讨论变得毫无意义，倒是更适合改造成一台…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E6%89%93%E9%80%A0%E6%9C%80%E5%BC%BA+Mac+mini%EF%BC%81%E8%BD%AF%E8%B7%AF%E7%94%B1%EF%BC%8B%E7%94%B5%E8%A7%86%E7%9B%92%E5%AD%90%2BNAS%2BWindows%EF%BC%8C%E4%B8%80%E6%9C%BA%E5%A4%9A%E7%94%A8+All+in+one+%E6%95%99%E7%A8%8B%F0%9F%93%BA+https%3A%2F%2Ft.co%2FQUFx0Vzpjh%E5%BD%93%E5%89%8D+Mac+mini+M4+%E7%9A%84%E4%BB%B7%E6%A0%BC%F0%9F%A4%A3%EF%BC%8C%E8%AE%A9%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%9A%84%E6%80%A7%E4%BB%B7%E6%AF%94%E8%AE%A8%E8%AE%BA%E5%8F%98%E5%BE%97%E6%AF%AB%E6%97%A0%E6%84%8F%E4%B9%89%EF%BC%8C%E5%80%92%E6%98%AF%E6%9B%B4%E9%80%82%E5%90%88%E6%94%B9%E9%80%A0%E6%88%90%E4%B8%80%E5%8F%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [价格](价格.md), [打造](打造.md), [苹果](苹果.md)
+___
+##### 2025-04-27 19:31:40 UTC ~ 蓝点网
+> RT @landiantech: #安全资讯 代理工具Clash Verge rev存在本地提权漏洞，在Windows上可提权到SYSTEM、在Mac/Linux上可提权至root。目前开发团队已经知晓该漏洞并正在修复，请使用该工具的用户及时关注项目主页检查是否有更新。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%23%E5%AE%89%E5%85%A8%E8%B5%84%E8%AE%AF+%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7Clash+Verge+rev%E5%AD%98%E5%9C%A8%E6%9C%AC%E5%9C%B0%E6%8F%90%E6%9D%83%E6%BC%8F%E6%B4%9E%EF%BC%8C%E5%9C%A8Windows%E4%B8%8A%E5%8F%AF%E6%8F%90%E6%9D%83%E5%88%B0SYSTEM%E3%80%81%E5%9C%A8Mac%2FLinux%E4%B8%8A%E5%8F%AF%E6%8F%90%E6%9D%83%E8%87%B3root%E3%80%82%E7%9B%AE%E5%89%8D%E5%BC%80%E5%8F%91%E5%9B%A2%E9%98%9F%E5%B7%B2%E7%BB%8F%E7%9F%A5%E6%99%93%E8%AF%A5%E6%BC%8F%E6%B4%9E%E5%B9%B6%E6%AD%A3%E5%9C%A8%E4%BF%AE%E5%A4%8D%EF%BC%8C%E8%AF%B7%E4%BD%BF%E7%94%A8%E8%AF%A5%E5%B7%A5%E5%85%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%8F%8A%E6%97%B6%E5%85%B3%E6%B3%A8%E9%A1%B9%E7%9B%AE%E4%B8%BB%E9%A1%B5%E6%A3%80%E6%9F%A5%E6%98%AF%E5%90%A6%E6%9C%89%E6%9B%B4%E6%96%B0%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Linux](Linux.md), [Mac](Mac.md), [关注](关注.md), [工具](工具.md), [开发](开发.md), [检查](检查.md), [漏洞](漏洞.md), [项目](项目.md)
+___
+##### 2025-04-13 17:57:02 UTC ~ 歸藏(guizang.ai)
+> RT @op7418: 搞了一个 4o 的新风格Windows 2000 窗口组成的复古平贴画，最近这种复古界面又开始火了可以找任何你喜欢的图片或者角色垫图做提示词放下面了 https://t.co/26eNh5QUTW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%90%9E%E4%BA%86%E4%B8%80%E4%B8%AA+4o+%E7%9A%84%E6%96%B0%E9%A3%8E%E6%A0%BCWindows+2000+%E7%AA%97%E5%8F%A3%E7%BB%84%E6%88%90%E7%9A%84%E5%A4%8D%E5%8F%A4%E5%B9%B3%E8%B4%B4%E7%94%BB%EF%BC%8C%E6%9C%80%E8%BF%91%E8%BF%99%E7%A7%8D%E5%A4%8D%E5%8F%A4%E7%95%8C%E9%9D%A2%E5%8F%88%E5%BC%80%E5%A7%8B%E7%81%AB%E4%BA%86%E5%8F%AF%E4%BB%A5%E6%89%BE%E4%BB%BB%E4%BD%95%E4%BD%A0%E5%96%9C%E6%AC%A2%E7%9A%84%E5%9B%BE%E7%89%87%E6%88%96%E8%80%85%E8%A7%92%E8%89%B2%E5%9E%AB%E5%9B%BE%E5%81%9A%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%94%BE%E4%B8%8B%E9%9D%A2%E4%BA%86+https%3A%2F%2Ft.co%2F26eNh5QUTW)
+##### Other Words/Names of Interest in the Above Tweet
+[角色](角色.md)
+___
+##### 2025-04-12 07:25:32 UTC ~ AIGCLINK
+> RT @aigclink: 让AI访问微信聊天记录的MCP：chatlog，支持Windows/macOS系统和微信3.x/4.0版本可以从本地数据库文件中提取微信聊天记录，提供一个简单的命令行界面，也能通过终端菜单操作也可以通过API查询聊天记录、联系人、群聊和最近会…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%AE%A9AI%E8%AE%BF%E9%97%AE%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E7%9A%84MCP%EF%BC%9Achatlog%EF%BC%8C%E6%94%AF%E6%8C%81Windows%2FmacOS%E7%B3%BB%E7%BB%9F%E5%92%8C%E5%BE%AE%E4%BF%A13.x%2F4.0%E7%89%88%E6%9C%AC%E5%8F%AF%E4%BB%A5%E4%BB%8E%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6%E4%B8%AD%E6%8F%90%E5%8F%96%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2%EF%BC%8C%E4%B9%9F%E8%83%BD%E9%80%9A%E8%BF%87%E7%BB%88%E7%AB%AF%E8%8F%9C%E5%8D%95%E6%93%8D%E4%BD%9C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87API%E6%9F%A5%E8%AF%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E3%80%81%E8%81%94%E7%B3%BB%E4%BA%BA%E3%80%81%E7%BE%A4%E8%81%8A%E5%92%8C%E6%9C%80%E8%BF%91%E4%BC%9A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [mac](mac.md), [微信](微信.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [数据](数据.md), [文件](文件.md), [系统](系统.md), [聊天](聊天.md), [菜](菜.md), [菜单](菜单.md)
+___
+##### 2025-04-12 06:58:01 UTC ~ AI Will
+> RT @FinanceYF5: 哇咔咔 Cursor Pro 免费升级使用？一个自动化工具，自动注册，支持 Windows 和 macOS 系統，完成 Auth 验证，重置 Cursor 的配置。 https://t.co/ov8ob3a5I3
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+%E5%93%87%E5%92%94%E5%92%94+Cursor+Pro+%E5%85%8D%E8%B4%B9%E5%8D%87%E7%BA%A7%E4%BD%BF%E7%94%A8%EF%BC%9F%E4%B8%80%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C%EF%BC%8C%E6%94%AF%E6%8C%81+Windows+%E5%92%8C+macOS+%E7%B3%BB%E7%B5%B1%EF%BC%8C%E5%AE%8C%E6%88%90+Auth+%E9%AA%8C%E8%AF%81%EF%BC%8C%E9%87%8D%E7%BD%AE+Cursor+%E7%9A%84%E9%85%8D%E7%BD%AE%E3%80%82+https%3A%2F%2Ft.co%2Fov8ob3a5I3)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [升级](升级.md), [工具](工具.md), [支持](支持.md), [自动化](自动化.md), [验证](验证.md)
+___
+##### 2025-04-07 07:47:59 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 美国微软视窗XP（Windows XP）系统的蓝天白云绿草预设背景壁纸《幸福》（Bliss），让不少电脑用户留下了深刻印象。https://t.co/IEbLT8ZxAr https://t.co/ScRSvgeOUZ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E5%BE%AE%E8%BD%AF%E8%A7%86%E7%AA%97XP%EF%BC%88Windows+XP%EF%BC%89%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%93%9D%E5%A4%A9%E7%99%BD%E4%BA%91%E7%BB%BF%E8%8D%89%E9%A2%84%E8%AE%BE%E8%83%8C%E6%99%AF%E5%A3%81%E7%BA%B8%E3%80%8A%E5%B9%B8%E7%A6%8F%E3%80%8B%EF%BC%88Bliss%EF%BC%89%EF%BC%8C%E8%AE%A9%E4%B8%8D%E5%B0%91%E7%94%B5%E8%84%91%E7%94%A8%E6%88%B7%E7%95%99%E4%B8%8B%E4%BA%86%E6%B7%B1%E5%88%BB%E5%8D%B0%E8%B1%A1%E3%80%82https%3A%2F%2Ft.co%2FIEbLT8ZxAr+https%3A%2F%2Ft.co%2FScRSvgeOUZ)
+##### Other Words/Names of Interest in the Above Tweet
+[微软](微软.md), [系统](系统.md), [美国](美国.md)
+___
 ##### 2025-03-31 16:09:45 UTC ~ Geek
 > RT @geekbb: 黑苹果终将退出舞台，我也坚决不会回到 Windows，，所以提前开始熟悉 Linux 系统。作为一名彻底的新手，我体验了几个主流发行版，最终选定 EndeavourOS。因为有 AI 辅助，如今遇到问题的学习门槛越来越低，上手速度也明显加快了。 http…
 

@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2025-04-14 00:57:59 UTC ~ karminski-牙医
+> RT @karminski3: 想在 iPhone 上运行大模型吗？来看看这个——LLMFarm  这个 app 可以运行在 苹果全家桶上，无论是 iOS 还是 MacOS。并且支持RAG。由于它其实是 llama.cpp 的魔改，所以几乎支持所有设备能装得下的模型。地…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%83%B3%E5%9C%A8+iPhone+%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E6%9D%A5%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E2%80%94%E2%80%94LLMFarm++%E8%BF%99%E4%B8%AA+app+%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8C%E5%9C%A8+%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%B8%8A%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF+iOS+%E8%BF%98%E6%98%AF+MacOS%E3%80%82%E5%B9%B6%E4%B8%94%E6%94%AF%E6%8C%81RAG%E3%80%82%E7%94%B1%E4%BA%8E%E5%AE%83%E5%85%B6%E5%AE%9E%E6%98%AF+llama.cpp+%E7%9A%84%E9%AD%94%E6%94%B9%EF%BC%8C%E6%89%80%E4%BB%A5%E5%87%A0%E4%B9%8E%E6%94%AF%E6%8C%81%E6%89%80%E6%9C%89%E8%AE%BE%E5%A4%87%E8%83%BD%E8%A3%85%E5%BE%97%E4%B8%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E5%9C%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [RAG](RAG.md), [iPhone](iPhone.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
+___
+##### 2025-04-12 07:44:45 UTC ~ Baye
+> RT @waylybaye: OpenCat 2.50 更新啦，内置了多个 MCP 工具，Cloud 提供了高德地图的 MCP，无需任何配置就可以直接使用。降低了 iOS/macOS 的系统版本要求。支持 Grok 3。修复了很多个 bug。 https://t.co/JopQ…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+OpenCat+2.50+%E6%9B%B4%E6%96%B0%E5%95%A6%EF%BC%8C%E5%86%85%E7%BD%AE%E4%BA%86%E5%A4%9A%E4%B8%AA+MCP+%E5%B7%A5%E5%85%B7%EF%BC%8CCloud+%E6%8F%90%E4%BE%9B%E4%BA%86%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E7%9A%84+MCP%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BB%BB%E4%BD%95%E9%85%8D%E7%BD%AE%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8%E3%80%82%E9%99%8D%E4%BD%8E%E4%BA%86+iOS%2FmacOS+%E7%9A%84%E7%B3%BB%E7%BB%9F%E7%89%88%E6%9C%AC%E8%A6%81%E6%B1%82%E3%80%82%E6%94%AF%E6%8C%81+Grok+3%E3%80%82%E4%BF%AE%E5%A4%8D%E4%BA%86%E5%BE%88%E5%A4%9A%E4%B8%AA+bug%E3%80%82+https%3A%2F%2Ft.co%2FJopQ%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [mac](mac.md), [工具](工具.md), [提供](提供.md), [支持](支持.md), [直接](直接.md), [系统](系统.md), [降低](降低.md)
+___
+##### 2025-04-04 05:39:33 UTC ~ Gong Z.
+> RT @gong_cn: 这两天体验了一下 Rive：它的 iOS SDK 很棒，但是编辑器...很多操作相当反人类，绑定一个变量就像密室逃脱解谜一样，属于不看教程的话自己是绝对鼓捣不出来的那种。 https://t.co/ujTSCTLkpv
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40gong_cn%3A+%E8%BF%99%E4%B8%A4%E5%A4%A9%E4%BD%93%E9%AA%8C%E4%BA%86%E4%B8%80%E4%B8%8B+Rive%EF%BC%9A%E5%AE%83%E7%9A%84+iOS+SDK+%E5%BE%88%E6%A3%92%EF%BC%8C%E4%BD%86%E6%98%AF%E7%BC%96%E8%BE%91%E5%99%A8...%E5%BE%88%E5%A4%9A%E6%93%8D%E4%BD%9C%E7%9B%B8%E5%BD%93%E5%8F%8D%E4%BA%BA%E7%B1%BB%EF%BC%8C%E7%BB%91%E5%AE%9A%E4%B8%80%E4%B8%AA%E5%8F%98%E9%87%8F%E5%B0%B1%E5%83%8F%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E8%A7%A3%E8%B0%9C%E4%B8%80%E6%A0%B7%EF%BC%8C%E5%B1%9E%E4%BA%8E%E4%B8%8D%E7%9C%8B%E6%95%99%E7%A8%8B%E7%9A%84%E8%AF%9D%E8%87%AA%E5%B7%B1%E6%98%AF%E7%BB%9D%E5%AF%B9%E9%BC%93%E6%8D%A3%E4%B8%8D%E5%87%BA%E6%9D%A5%E7%9A%84%E9%82%A3%E7%A7%8D%E3%80%82+https%3A%2F%2Ft.co%2FujTSCTLkpv)
+##### Other Words/Names of Interest in the Above Tweet
+[操作](操作.md)
+___
+##### 2025-04-03 03:36:24 UTC ~ Baye
+> RT @waylybaye: OpenCat iOS 新版也更新啦，采用了新的 UI 和交互，支持搜索模型，支持工具调用，手机上也能使用 MCP 啦。还支持最新的语音识别模型，语音输入更加精准。MCP 配置会在 iOS 和 macOS 之间自动同步，区别是 iOS 以及 A…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+OpenCat+iOS+%E6%96%B0%E7%89%88%E4%B9%9F%E6%9B%B4%E6%96%B0%E5%95%A6%EF%BC%8C%E9%87%87%E7%94%A8%E4%BA%86%E6%96%B0%E7%9A%84+UI+%E5%92%8C%E4%BA%A4%E4%BA%92%EF%BC%8C%E6%94%AF%E6%8C%81%E6%90%9C%E7%B4%A2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%94%AF%E6%8C%81%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%B9%9F%E8%83%BD%E4%BD%BF%E7%94%A8+MCP+%E5%95%A6%E3%80%82%E8%BF%98%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%9A%84%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E6%9B%B4%E5%8A%A0%E7%B2%BE%E5%87%86%E3%80%82MCP+%E9%85%8D%E7%BD%AE%E4%BC%9A%E5%9C%A8+iOS+%E5%92%8C+macOS+%E4%B9%8B%E9%97%B4%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%EF%BC%8C%E5%8C%BA%E5%88%AB%E6%98%AF+iOS+%E4%BB%A5%E5%8F%8A+A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [mac](mac.md), [型](型.md), [工具](工具.md), [搜索](搜索.md), [支持](支持.md), [模型](模型.md)
+___
 ##### 2025-03-31 06:56:38 UTC ~ 暴雪vpn
 > RT @bxvpn: 暴雪VPN&gt;提供永久免费多线路，全部通道不限流量&gt;一个账户可共享高达5个设备使用&gt;无需注册，不记录隐私&gt;提供安卓，iOS，Windows版本&gt;采用了5级不同的连接模式防止被ISP关闭或禁用您的VPN连接，永远使您可以连接上VPN。欢迎下载使用…
 
@@ -14,7 +42,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Windows](Windows.md), [共享](共享.md), [安卓](安卓.md), [提供](提供.md), [暴雪](暴雪.md), [模式](模式.md), [线路](线路.md), [账户](账户.md), [连接](连接.md), [隐私](隐私.md)
 ___
-##### 2025-03-26 06:27:09 UTC ~ 砍怀特@标准件厂长
+##### 2025-03-26 06:27:09 UTC ~ 砍砍@标准件厂长
 > RT @Lakr233: 今天和深度求索的同学聊了一下，觉得很有道理。大致是：『 我们现在看不清 AGI 的样子，所以重心在研究模型上。现在招 iOS 是希望能提高团队的上限，除了做软件，还希望有惊喜。我们不需要大量的用户来支撑研究，所以不需要增加人力来减少时间成本。当…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Lakr233%3A+%E4%BB%8A%E5%A4%A9%E5%92%8C%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E7%9A%84%E5%90%8C%E5%AD%A6%E8%81%8A%E4%BA%86%E4%B8%80%E4%B8%8B%EF%BC%8C%E8%A7%89%E5%BE%97%E5%BE%88%E6%9C%89%E9%81%93%E7%90%86%E3%80%82%E5%A4%A7%E8%87%B4%E6%98%AF%EF%BC%9A%E3%80%8E+%E6%88%91%E4%BB%AC%E7%8E%B0%E5%9C%A8%E7%9C%8B%E4%B8%8D%E6%B8%85+AGI+%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%8C%E6%89%80%E4%BB%A5%E9%87%8D%E5%BF%83%E5%9C%A8%E7%A0%94%E7%A9%B6%E6%A8%A1%E5%9E%8B%E4%B8%8A%E3%80%82%E7%8E%B0%E5%9C%A8%E6%8B%9B+iOS+%E6%98%AF%E5%B8%8C%E6%9C%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E4%B8%8A%E9%99%90%EF%BC%8C%E9%99%A4%E4%BA%86%E5%81%9A%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BF%98%E5%B8%8C%E6%9C%9B%E6%9C%89%E6%83%8A%E5%96%9C%E3%80%82%E6%88%91%E4%BB%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A4%A7%E9%87%8F%E7%9A%84%E7%94%A8%E6%88%B7%E6%9D%A5%E6%94%AF%E6%92%91%E7%A0%94%E7%A9%B6%EF%BC%8C%E6%89%80%E4%BB%A5%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A2%9E%E5%8A%A0%E4%BA%BA%E5%8A%9B%E6%9D%A5%E5%87%8F%E5%B0%91%E6%97%B6%E9%97%B4%E6%88%90%E6%9C%AC%E3%80%82%E5%BD%93%E2%80%A6)

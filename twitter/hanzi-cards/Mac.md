@@ -7,6 +7,63 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2025-04-25 03:52:58 UTC ~ Iven ʕ•̬͡•ʔ✧
+> RT @ivenvd: 终于有人受不了 Homebrew，用 Rust 新写了个 macOS 包管理器，希望能解决 Homebrew 的痛点（不只是慢）。😟 https://t.co/UUufoKvs6J
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ivenvd%3A+%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E5%8F%97%E4%B8%8D%E4%BA%86+Homebrew%EF%BC%8C%E7%94%A8+Rust+%E6%96%B0%E5%86%99%E4%BA%86%E4%B8%AA+macOS+%E5%8C%85%E7%AE%A1%E7%90%86%E5%99%A8%EF%BC%8C%E5%B8%8C%E6%9C%9B%E8%83%BD%E8%A7%A3%E5%86%B3+Homebrew+%E7%9A%84%E7%97%9B%E7%82%B9%EF%BC%88%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%85%A2%EF%BC%89%E3%80%82%F0%9F%98%9F+https%3A%2F%2Ft.co%2FUUufoKvs6J)
+___
+##### 2025-04-19 21:34:39 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 分享一款小巧且实用的 macOS 窗口管理开源工具：Dockit。它能够一键将任意窗口停靠在屏幕左侧或右侧，并且可自由展开和收起，解决屏幕多窗口杂乱情况。GitHub：https://t.co/75qGVONPZl此外，还支持自定…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%88%86%E4%BA%AB%E4%B8%80%E6%AC%BE%E5%B0%8F%E5%B7%A7%E4%B8%94%E5%AE%9E%E7%94%A8%E7%9A%84+macOS+%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9ADockit%E3%80%82%E5%AE%83%E8%83%BD%E5%A4%9F%E4%B8%80%E9%94%AE%E5%B0%86%E4%BB%BB%E6%84%8F%E7%AA%97%E5%8F%A3%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%B1%8F%E5%B9%95%E5%B7%A6%E4%BE%A7%E6%88%96%E5%8F%B3%E4%BE%A7%EF%BC%8C%E5%B9%B6%E4%B8%94%E5%8F%AF%E8%87%AA%E7%94%B1%E5%B1%95%E5%BC%80%E5%92%8C%E6%94%B6%E8%B5%B7%EF%BC%8C%E8%A7%A3%E5%86%B3%E5%B1%8F%E5%B9%95%E5%A4%9A%E7%AA%97%E5%8F%A3%E6%9D%82%E4%B9%B1%E6%83%85%E5%86%B5%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2F75qGVONPZl%E6%AD%A4%E5%A4%96%EF%BC%8C%E8%BF%98%E6%94%AF%E6%8C%81%E8%87%AA%E5%AE%9A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [情况](情况.md), [支持](支持.md)
+___
+##### 2025-04-13 17:46:24 UTC ~ Geek
+> RT @geekbb: 🚀 Mac Classic Player (MCP) 轻量级的 macOS 媒体播放器，受经典 Media Player Classic 启发。专为高效控制和可访问性设计，让你的视频和音频播放更流畅自在。🖥 支持 .mov、.mp4、.webm 和音…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%F0%9F%9A%80+Mac+Classic+Player+%28MCP%29+%E8%BD%BB%E9%87%8F%E7%BA%A7%E7%9A%84+macOS+%E5%AA%92%E4%BD%93%E6%92%AD%E6%94%BE%E5%99%A8%EF%BC%8C%E5%8F%97%E7%BB%8F%E5%85%B8+Media+Player+Classic+%E5%90%AF%E5%8F%91%E3%80%82%E4%B8%93%E4%B8%BA%E9%AB%98%E6%95%88%E6%8E%A7%E5%88%B6%E5%92%8C%E5%8F%AF%E8%AE%BF%E9%97%AE%E6%80%A7%E8%AE%BE%E8%AE%A1%EF%BC%8C%E8%AE%A9%E4%BD%A0%E7%9A%84%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91%E6%92%AD%E6%94%BE%E6%9B%B4%E6%B5%81%E7%95%85%E8%87%AA%E5%9C%A8%E3%80%82%F0%9F%96%A5+%E6%94%AF%E6%8C%81+.mov%E3%80%81.mp4%E3%80%81.webm+%E5%92%8C%E9%9F%B3%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [Mac](Mac.md), [控制](控制.md), [支持](支持.md), [设计](设计.md)
+___
+##### 2025-04-12 07:44:45 UTC ~ Baye
+> RT @waylybaye: OpenCat 2.50 更新啦，内置了多个 MCP 工具，Cloud 提供了高德地图的 MCP，无需任何配置就可以直接使用。降低了 iOS/macOS 的系统版本要求。支持 Grok 3。修复了很多个 bug。 https://t.co/JopQ…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+OpenCat+2.50+%E6%9B%B4%E6%96%B0%E5%95%A6%EF%BC%8C%E5%86%85%E7%BD%AE%E4%BA%86%E5%A4%9A%E4%B8%AA+MCP+%E5%B7%A5%E5%85%B7%EF%BC%8CCloud+%E6%8F%90%E4%BE%9B%E4%BA%86%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE%E7%9A%84+MCP%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BB%BB%E4%BD%95%E9%85%8D%E7%BD%AE%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8%E3%80%82%E9%99%8D%E4%BD%8E%E4%BA%86+iOS%2FmacOS+%E7%9A%84%E7%B3%BB%E7%BB%9F%E7%89%88%E6%9C%AC%E8%A6%81%E6%B1%82%E3%80%82%E6%94%AF%E6%8C%81+Grok+3%E3%80%82%E4%BF%AE%E5%A4%8D%E4%BA%86%E5%BE%88%E5%A4%9A%E4%B8%AA+bug%E3%80%82+https%3A%2F%2Ft.co%2FJopQ%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [iOS](iOS.md), [工具](工具.md), [提供](提供.md), [支持](支持.md), [直接](直接.md), [系统](系统.md), [降低](降低.md)
+___
+##### 2025-04-12 07:25:32 UTC ~ AIGCLINK
+> RT @aigclink: 让AI访问微信聊天记录的MCP：chatlog，支持Windows/macOS系统和微信3.x/4.0版本可以从本地数据库文件中提取微信聊天记录，提供一个简单的命令行界面，也能通过终端菜单操作也可以通过API查询聊天记录、联系人、群聊和最近会…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%AE%A9AI%E8%AE%BF%E9%97%AE%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E7%9A%84MCP%EF%BC%9Achatlog%EF%BC%8C%E6%94%AF%E6%8C%81Windows%2FmacOS%E7%B3%BB%E7%BB%9F%E5%92%8C%E5%BE%AE%E4%BF%A13.x%2F4.0%E7%89%88%E6%9C%AC%E5%8F%AF%E4%BB%A5%E4%BB%8E%E6%9C%AC%E5%9C%B0%E6%95%B0%E6%8D%AE%E5%BA%93%E6%96%87%E4%BB%B6%E4%B8%AD%E6%8F%90%E5%8F%96%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%95%8C%E9%9D%A2%EF%BC%8C%E4%B9%9F%E8%83%BD%E9%80%9A%E8%BF%87%E7%BB%88%E7%AB%AF%E8%8F%9C%E5%8D%95%E6%93%8D%E4%BD%9C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87API%E6%9F%A5%E8%AF%A2%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E3%80%81%E8%81%94%E7%B3%BB%E4%BA%BA%E3%80%81%E7%BE%A4%E8%81%8A%E5%92%8C%E6%9C%80%E8%BF%91%E4%BC%9A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [Windows](Windows.md), [微信](微信.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [数据](数据.md), [文件](文件.md), [系统](系统.md), [聊天](聊天.md), [菜](菜.md), [菜单](菜单.md)
+___
+##### 2025-04-12 06:58:01 UTC ~ AI Will
+> RT @FinanceYF5: 哇咔咔 Cursor Pro 免费升级使用？一个自动化工具，自动注册，支持 Windows 和 macOS 系統，完成 Auth 验证，重置 Cursor 的配置。 https://t.co/ov8ob3a5I3
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+%E5%93%87%E5%92%94%E5%92%94+Cursor+Pro+%E5%85%8D%E8%B4%B9%E5%8D%87%E7%BA%A7%E4%BD%BF%E7%94%A8%EF%BC%9F%E4%B8%80%E4%B8%AA%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%87%AA%E5%8A%A8%E6%B3%A8%E5%86%8C%EF%BC%8C%E6%94%AF%E6%8C%81+Windows+%E5%92%8C+macOS+%E7%B3%BB%E7%B5%B1%EF%BC%8C%E5%AE%8C%E6%88%90+Auth+%E9%AA%8C%E8%AF%81%EF%BC%8C%E9%87%8D%E7%BD%AE+Cursor+%E7%9A%84%E9%85%8D%E7%BD%AE%E3%80%82+https%3A%2F%2Ft.co%2Fov8ob3a5I3)
+##### Other Words/Names of Interest in the Above Tweet
+[Windows](Windows.md), [升级](升级.md), [工具](工具.md), [支持](支持.md), [自动化](自动化.md), [验证](验证.md)
+___
+##### 2025-04-06 18:47:05 UTC ~ Mark View
+> RT @MarkBuildin: 小 tip：在 macOS 上调整窗口大小时，按住 option 会以窗口中心为锚点；按住 shift 会保持窗口纵横比。 https://t.co/YwrpVRazog
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MarkBuildin%3A+%E5%B0%8F+tip%EF%BC%9A%E5%9C%A8+macOS+%E4%B8%8A%E8%B0%83%E6%95%B4%E7%AA%97%E5%8F%A3%E5%A4%A7%E5%B0%8F%E6%97%B6%EF%BC%8C%E6%8C%89%E4%BD%8F+option+%E4%BC%9A%E4%BB%A5%E7%AA%97%E5%8F%A3%E4%B8%AD%E5%BF%83%E4%B8%BA%E9%94%9A%E7%82%B9%EF%BC%9B%E6%8C%89%E4%BD%8F+shift+%E4%BC%9A%E4%BF%9D%E6%8C%81%E7%AA%97%E5%8F%A3%E7%BA%B5%E6%A8%AA%E6%AF%94%E3%80%82+https%3A%2F%2Ft.co%2FYwrpVRazog)
+___
+##### 2025-04-04 05:37:04 UTC ~ 低空飞行
+> RT @localhost_4173: 我最开始也是做着玩，毕竟已经有很多竞品了，只是想用纯前端整一个体验和 chatgpt mac app 类似的 ui，没想到火了
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40localhost_4173%3A+%E6%88%91%E6%9C%80%E5%BC%80%E5%A7%8B%E4%B9%9F%E6%98%AF%E5%81%9A%E7%9D%80%E7%8E%A9%EF%BC%8C%E6%AF%95%E7%AB%9F%E5%B7%B2%E7%BB%8F%E6%9C%89%E5%BE%88%E5%A4%9A%E7%AB%9E%E5%93%81%E4%BA%86%EF%BC%8C%E5%8F%AA%E6%98%AF%E6%83%B3%E7%94%A8%E7%BA%AF%E5%89%8D%E7%AB%AF%E6%95%B4%E4%B8%80%E4%B8%AA%E4%BD%93%E9%AA%8C%E5%92%8C+chatgpt+mac+app+%E7%B1%BB%E4%BC%BC%E7%9A%84+ui%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E7%81%AB%E4%BA%86)
+___
+##### 2025-04-03 03:36:24 UTC ~ Baye
+> RT @waylybaye: OpenCat iOS 新版也更新啦，采用了新的 UI 和交互，支持搜索模型，支持工具调用，手机上也能使用 MCP 啦。还支持最新的语音识别模型，语音输入更加精准。MCP 配置会在 iOS 和 macOS 之间自动同步，区别是 iOS 以及 A…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+OpenCat+iOS+%E6%96%B0%E7%89%88%E4%B9%9F%E6%9B%B4%E6%96%B0%E5%95%A6%EF%BC%8C%E9%87%87%E7%94%A8%E4%BA%86%E6%96%B0%E7%9A%84+UI+%E5%92%8C%E4%BA%A4%E4%BA%92%EF%BC%8C%E6%94%AF%E6%8C%81%E6%90%9C%E7%B4%A2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%94%AF%E6%8C%81%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%B9%9F%E8%83%BD%E4%BD%BF%E7%94%A8+MCP+%E5%95%A6%E3%80%82%E8%BF%98%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%9A%84%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E6%9B%B4%E5%8A%A0%E7%B2%BE%E5%87%86%E3%80%82MCP+%E9%85%8D%E7%BD%AE%E4%BC%9A%E5%9C%A8+iOS+%E5%92%8C+macOS+%E4%B9%8B%E9%97%B4%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%EF%BC%8C%E5%8C%BA%E5%88%AB%E6%98%AF+iOS+%E4%BB%A5%E5%8F%8A+A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [iOS](iOS.md), [型](型.md), [工具](工具.md), [搜索](搜索.md), [支持](支持.md), [模型](模型.md)
+___
 ##### 2025-03-31 02:14:31 UTC ~ Leeyom Wang
 > RT @super_leeyom: Dell的U2725QE到了，国补➕晒单，最终是3774到手，正面观感几乎接近四边等宽了（下巴稍微宽了一点点🤏），整机颜色和 Mac mini 非常搭（都是银色机身），27寸4K 120hz高刷+硬件低蓝光，配合macOS，妙控板帧率也有12…
 
