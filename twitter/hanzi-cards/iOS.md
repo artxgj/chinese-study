@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2025-05-16 12:45:31 UTC ~ Baye
+> RT @waylybaye: iOS App Store 的审核速度慢了好多，刷了下国内社交网络，原来是 AI 引发了大量非 iOS 程序员做 App 的淘金热，甚至非程序员也用 AI 搞 App 了。每个人每个月能用 AI 做好几个 App ……
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+iOS+App+Store+%E7%9A%84%E5%AE%A1%E6%A0%B8%E9%80%9F%E5%BA%A6%E6%85%A2%E4%BA%86%E5%A5%BD%E5%A4%9A%EF%BC%8C%E5%88%B7%E4%BA%86%E4%B8%8B%E5%9B%BD%E5%86%85%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%8E%9F%E6%9D%A5%E6%98%AF+AI+%E5%BC%95%E5%8F%91%E4%BA%86%E5%A4%A7%E9%87%8F%E9%9D%9E+iOS+%E7%A8%8B%E5%BA%8F%E5%91%98%E5%81%9A+App+%E7%9A%84%E6%B7%98%E9%87%91%E7%83%AD%EF%BC%8C%E7%94%9A%E8%87%B3%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%9F%E7%94%A8+AI+%E6%90%9E+App+%E4%BA%86%E3%80%82%E6%AF%8F%E4%B8%AA%E4%BA%BA%E6%AF%8F%E4%B8%AA%E6%9C%88%E8%83%BD%E7%94%A8+AI+%E5%81%9A%E5%A5%BD%E5%87%A0%E4%B8%AA+App+%E2%80%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[引发](引发.md), [程序](程序.md), [速度](速度.md)
+___
+##### 2025-05-12 05:49:49 UTC ~ 图拉鼎
+> RT @tualatrix: 即将在 WWDC25 上公布的 macOS 16 将在隐私方面进一步加强，会使用 iOS 的那套剪贴板权限机制了。这意味着 macOS 下的 App 默认将无法自由读取剪贴板内容了。好事情！https://t.co/7oMFA7uHWx http…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E5%8D%B3%E5%B0%86%E5%9C%A8+WWDC25+%E4%B8%8A%E5%85%AC%E5%B8%83%E7%9A%84+macOS+16+%E5%B0%86%E5%9C%A8%E9%9A%90%E7%A7%81%E6%96%B9%E9%9D%A2%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%EF%BC%8C%E4%BC%9A%E4%BD%BF%E7%94%A8+iOS+%E7%9A%84%E9%82%A3%E5%A5%97%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%9D%83%E9%99%90%E6%9C%BA%E5%88%B6%E4%BA%86%E3%80%82%E8%BF%99%E6%84%8F%E5%91%B3%E7%9D%80+macOS+%E4%B8%8B%E7%9A%84+App+%E9%BB%98%E8%AE%A4%E5%B0%86%E6%97%A0%E6%B3%95%E8%87%AA%E7%94%B1%E8%AF%BB%E5%8F%96%E5%89%AA%E8%B4%B4%E6%9D%BF%E5%86%85%E5%AE%B9%E4%BA%86%E3%80%82%E5%A5%BD%E4%BA%8B%E6%83%85%EF%BC%81https%3A%2F%2Ft.co%2F7oMFA7uHWx+http%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [意味](意味.md), [意味着](意味着.md), [隐私](隐私.md)
+___
+##### 2025-05-12 04:29:12 UTC ~ 图拉鼎
+> RT @tualatrix: 昨天在良渚 demo day 上，有朋友问我有无 iOS 开发人员推荐，然后我想起上个月也有朋友找我推荐 iOS 开发。这种「iOS 开发又有人要了」的感觉，已经很久没有发生过了，上一次遇到这么多需求，还是疫情前。看来，AI 热潮真的（重新）带火了…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E6%98%A8%E5%A4%A9%E5%9C%A8%E8%89%AF%E6%B8%9A+demo+day+%E4%B8%8A%EF%BC%8C%E6%9C%89%E6%9C%8B%E5%8F%8B%E9%97%AE%E6%88%91%E6%9C%89%E6%97%A0+iOS+%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E6%8E%A8%E8%8D%90%EF%BC%8C%E7%84%B6%E5%90%8E%E6%88%91%E6%83%B3%E8%B5%B7%E4%B8%8A%E4%B8%AA%E6%9C%88%E4%B9%9F%E6%9C%89%E6%9C%8B%E5%8F%8B%E6%89%BE%E6%88%91%E6%8E%A8%E8%8D%90+iOS+%E5%BC%80%E5%8F%91%E3%80%82%E8%BF%99%E7%A7%8D%E3%80%8CiOS+%E5%BC%80%E5%8F%91%E5%8F%88%E6%9C%89%E4%BA%BA%E8%A6%81%E4%BA%86%E3%80%8D%E7%9A%84%E6%84%9F%E8%A7%89%EF%BC%8C%E5%B7%B2%E7%BB%8F%E5%BE%88%E4%B9%85%E6%B2%A1%E6%9C%89%E5%8F%91%E7%94%9F%E8%BF%87%E4%BA%86%EF%BC%8C%E4%B8%8A%E4%B8%80%E6%AC%A1%E9%81%87%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E9%9C%80%E6%B1%82%EF%BC%8C%E8%BF%98%E6%98%AF%E7%96%AB%E6%83%85%E5%89%8D%E3%80%82%E7%9C%8B%E6%9D%A5%EF%BC%8CAI+%E7%83%AD%E6%BD%AE%E7%9C%9F%E7%9A%84%EF%BC%88%E9%87%8D%E6%96%B0%EF%BC%89%E5%B8%A6%E7%81%AB%E4%BA%86%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开发](开发.md), [推荐](推荐.md), [热潮](热潮.md), [疫情](疫情.md), [需求](需求.md)
+___
+##### 2025-05-05 10:07:58 UTC ~ 独立开花卓富贵
+> RT @fuguizhuo: 用了鸿蒙 Next 两周后，我觉得未来几年内华为都跟我无缘了。软件生态差的太远了，差不多是iPhone5 时期 iOS 和安卓生态的差距。我举个例子：在去哪儿上面订酒店，地图上的位置没有县级的信息。第三方地图 sdk…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fuguizhuo%3A+%E7%94%A8%E4%BA%86%E9%B8%BF%E8%92%99+Next+%E4%B8%A4%E5%91%A8%E5%90%8E%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E5%86%85%E5%8D%8E%E4%B8%BA%E9%83%BD%E8%B7%9F%E6%88%91%E6%97%A0%E7%BC%98%E4%BA%86%E3%80%82%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%80%81%E5%B7%AE%E7%9A%84%E5%A4%AA%E8%BF%9C%E4%BA%86%EF%BC%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E6%98%AFiPhone5+%E6%97%B6%E6%9C%9F+iOS+%E5%92%8C%E5%AE%89%E5%8D%93%E7%94%9F%E6%80%81%E7%9A%84%E5%B7%AE%E8%B7%9D%E3%80%82%E6%88%91%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E5%9C%A8%E5%8E%BB%E5%93%AA%E5%84%BF%E4%B8%8A%E9%9D%A2%E8%AE%A2%E9%85%92%E5%BA%97%EF%BC%8C%E5%9C%B0%E5%9B%BE%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE%E6%B2%A1%E6%9C%89%E5%8E%BF%E7%BA%A7%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9C%B0%E5%9B%BE+sdk%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [华为](华为.md), [安卓](安卓.md), [差距](差距.md), [生态](生态.md)
+___
 ##### 2025-04-14 00:57:59 UTC ~ karminski-牙医
 > RT @karminski3: 想在 iPhone 上运行大模型吗？来看看这个——LLMFarm  这个 app 可以运行在 苹果全家桶上，无论是 iOS 还是 MacOS。并且支持RAG。由于它其实是 llama.cpp 的魔改，所以几乎支持所有设备能装得下的模型。地…
 

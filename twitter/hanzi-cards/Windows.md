@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2025-05-29 16:43:28 UTC ~ GitHubDaily
+> RT @GitHub_Daily: GitHub 上一款专为 Windows 打造的轻量级快速启动器：Mage，参考了 macOS 的 Raycast。基于 Vite 和 Vue 3 构建，实现了在 Windows 系统上快速启动应用并执行各种操作。GitHub：htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+GitHub+%E4%B8%8A%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+Windows+%E6%89%93%E9%80%A0%E7%9A%84%E8%BD%BB%E9%87%8F%E7%BA%A7%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%9AMage%EF%BC%8C%E5%8F%82%E8%80%83%E4%BA%86+macOS+%E7%9A%84+Raycast%E3%80%82%E5%9F%BA%E4%BA%8E+Vite+%E5%92%8C+Vue+3+%E6%9E%84%E5%BB%BA%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%9C%A8+Windows+%E7%B3%BB%E7%BB%9F%E4%B8%8A%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E5%BA%94%E7%94%A8%E5%B9%B6%E6%89%A7%E8%A1%8C%E5%90%84%E7%A7%8D%E6%93%8D%E4%BD%9C%E3%80%82GitHub%EF%BC%9Ahtt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [参考](参考.md), [启动](启动.md), [实现](实现.md), [打造](打造.md), [执行](执行.md), [操作](操作.md), [系统](系统.md)
+___
 ##### 2025-05-01 01:56:34 UTC ~ 蓝点网
 > RT @landiantech: 微软资深工程师透露 #Windows7 为什么会在设置纯色背景后开机会卡顿 30 秒：简单来说就是代码逻辑存在问题。 Windows 开机时会启动多个组件，每个组件会发送准备就绪信号，而负责检测桌面背景的函数存在 BUG，如果无法检测到图片…
 

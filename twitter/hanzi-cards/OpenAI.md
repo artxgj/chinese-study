@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-05-30 04:30:51 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【DeepSeek升級R1，稱性能「接近OpenAI」】此次升級的R1在解答國際奧數美國預選賽的2025年問題時，正確率達到87.5%，比以前的70%有所提高。在同一測試中，OpenAI於4月開始提供的最新的邏輯思考模型「o3」的正確率為…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E5%8D%87%E7%B4%9AR1%EF%BC%8C%E7%A8%B1%E6%80%A7%E8%83%BD%E3%80%8C%E6%8E%A5%E8%BF%91OpenAI%E3%80%8D%E3%80%91%E6%AD%A4%E6%AC%A1%E5%8D%87%E7%B4%9A%E7%9A%84R1%E5%9C%A8%E8%A7%A3%E7%AD%94%E5%9C%8B%E9%9A%9B%E5%A5%A7%E6%95%B8%E7%BE%8E%E5%9C%8B%E9%A0%90%E9%81%B8%E8%B3%BD%E7%9A%842025%E5%B9%B4%E5%95%8F%E9%A1%8C%E6%99%82%EF%BC%8C%E6%AD%A3%E7%A2%BA%E7%8E%87%E9%81%94%E5%88%B087.5%25%EF%BC%8C%E6%AF%94%E4%BB%A5%E5%89%8D%E7%9A%8470%25%E6%9C%89%E6%89%80%E6%8F%90%E9%AB%98%E3%80%82%E5%9C%A8%E5%90%8C%E4%B8%80%E6%B8%AC%E8%A9%A6%E4%B8%AD%EF%BC%8COpenAI%E6%96%BC4%E6%9C%88%E9%96%8B%E5%A7%8B%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%80%E6%96%B0%E7%9A%84%E9%82%8F%E8%BC%AF%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E3%80%8Co3%E3%80%8D%E7%9A%84%E6%AD%A3%E7%A2%BA%E7%8E%87%E7%82%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [型](型.md), [提供](提供.md), [提高](提高.md), [模型](模型.md), [美國](美國.md)
+___
+##### 2025-05-29 23:50:39 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 在AI模型性能排行榜LiveCodeBench上，DeepSeek的最新产品在代码生成能力方面仅次于OpenAI的o4mini和o3推理模型。DeepSeek此次最新发布紧随阿里巴巴和百度的AI模型更新之后，这加剧了中国AI行业的竞争。htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8AI%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD%E6%8E%92%E8%A1%8C%E6%A6%9CLiveCodeBench%E4%B8%8A%EF%BC%8CDeepSeek%E7%9A%84%E6%9C%80%E6%96%B0%E4%BA%A7%E5%93%81%E5%9C%A8%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E8%83%BD%E5%8A%9B%E6%96%B9%E9%9D%A2%E4%BB%85%E6%AC%A1%E4%BA%8EOpenAI%E7%9A%84o4mini%E5%92%8Co3%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%E3%80%82DeepSeek%E6%AD%A4%E6%AC%A1%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83%E7%B4%A7%E9%9A%8F%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%92%8C%E7%99%BE%E5%BA%A6%E7%9A%84AI%E6%A8%A1%E5%9E%8B%E6%9B%B4%E6%96%B0%E4%B9%8B%E5%90%8E%EF%BC%8C%E8%BF%99%E5%8A%A0%E5%89%A7%E4%BA%86%E4%B8%AD%E5%9B%BDAI%E8%A1%8C%E4%B8%9A%E7%9A%84%E7%AB%9E%E4%BA%89%E3%80%82htt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [代码](代码.md), [加剧](加剧.md), [发布](发布.md), [型](型.md), [推理](推理.md), [模型](模型.md), [竞争](竞争.md), [行业](行业.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2025-05-24 08:02:18 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 美国云端服务巨头甲骨文（Oracle）计划斥资约400亿美元（约1693亿令吉），大手笔采购英伟达（Nvidia）最新一代GB200高阶AI芯片，用于支援OpenAI在德州兴建的大型数据中心。 https://t.co/yZRoNjRnci…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E4%BA%91%E7%AB%AF%E6%9C%8D%E5%8A%A1%E5%B7%A8%E5%A4%B4%E7%94%B2%E9%AA%A8%E6%96%87%EF%BC%88Oracle%EF%BC%89%E8%AE%A1%E5%88%92%E6%96%A5%E8%B5%84%E7%BA%A6400%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A61693%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%EF%BC%8C%E5%A4%A7%E6%89%8B%E7%AC%94%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88Nvidia%EF%BC%89%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3GB200%E9%AB%98%E9%98%B6AI%E8%8A%AF%E7%89%87%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%94%AF%E6%8F%B4OpenAI%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%85%B4%E5%BB%BA%E7%9A%84%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E3%80%82+https%3A%2F%2Ft.co%2FyZRoNjRnci%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [巨头](巨头.md), [支援](支援.md), [数据](数据.md), [用于](用于.md), [甲骨文](甲骨文.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [计划](计划.md)
+___
+##### 2025-05-23 03:48:50 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国“开放人工智能研究中心”（OpenAI）正在亚太地区寻找未来的数据中心站点，匿名知情人士透露，OpenAI首席战略官下周到日本、韩国、澳大利亚、印度、新加坡访问。 https://t.co/m2vwyZCZLY
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BC%80%E6%94%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83%E2%80%9D%EF%BC%88OpenAI%EF%BC%89%E6%AD%A3%E5%9C%A8%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%E5%AF%BB%E6%89%BE%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%AB%99%E7%82%B9%EF%BC%8C%E5%8C%BF%E5%90%8D%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8COpenAI%E9%A6%96%E5%B8%AD%E6%88%98%E7%95%A5%E5%AE%98%E4%B8%8B%E5%91%A8%E5%88%B0%E6%97%A5%E6%9C%AC%E3%80%81%E9%9F%A9%E5%9B%BD%E3%80%81%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E3%80%81%E5%8D%B0%E5%BA%A6%E3%80%81%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%AE%BF%E9%97%AE%E3%80%82+https%3A%2F%2Ft.co%2Fm2vwyZCZLY)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [匿名](匿名.md), [印度](印度.md), [战略](战略.md), [数据](数据.md), [新加坡](新加坡.md), [日本](日本.md), [澳大利亚](澳大利亚.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [透露](透露.md), [韩国](韩国.md)
+___
+##### 2025-05-22 08:09:18 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: iPhone的主要设计师乔纳森·艾维及其设计公司将接管OpenAI的创意和设计主导权，他们将在OpenAI开发消费级设备和其他项目，这些项目将塑造AI未来的外观和体验。 https://t.co/to0W99xMSA
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+iPhone%E7%9A%84%E4%B8%BB%E8%A6%81%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%94%E7%BA%B3%E6%A3%AE%C2%B7%E8%89%BE%E7%BB%B4%E5%8F%8A%E5%85%B6%E8%AE%BE%E8%AE%A1%E5%85%AC%E5%8F%B8%E5%B0%86%E6%8E%A5%E7%AE%A1OpenAI%E7%9A%84%E5%88%9B%E6%84%8F%E5%92%8C%E8%AE%BE%E8%AE%A1%E4%B8%BB%E5%AF%BC%E6%9D%83%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B0%86%E5%9C%A8OpenAI%E5%BC%80%E5%8F%91%E6%B6%88%E8%B4%B9%E7%BA%A7%E8%AE%BE%E5%A4%87%E5%92%8C%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE%EF%BC%8C%E8%BF%99%E4%BA%9B%E9%A1%B9%E7%9B%AE%E5%B0%86%E5%A1%91%E9%80%A0AI%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%A4%96%E8%A7%82%E5%92%8C%E4%BD%93%E9%AA%8C%E3%80%82+https%3A%2F%2Ft.co%2Fto0W99xMSA)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [主导](主导.md), [开发](开发.md), [设计](设计.md), [项目](项目.md)
+___
+##### 2025-05-10 21:46:37 UTC ~ Yachen Liu
+> RT @Blankwonder: 买了 MacWhisper，因为现在 AI 用得越来越多，反而打字速度变成了瓶颈。 测试了一下各种本地模型，还得是用 OpenAI 的 API 才能够取得比较不错的效果。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Blankwonder%3A+%E4%B9%B0%E4%BA%86+MacWhisper%EF%BC%8C%E5%9B%A0%E4%B8%BA%E7%8E%B0%E5%9C%A8+AI+%E7%94%A8%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%8C%E5%8F%8D%E8%80%8C%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%E5%8F%98%E6%88%90%E4%BA%86%E7%93%B6%E9%A2%88%E3%80%82+%E6%B5%8B%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%E5%90%84%E7%A7%8D%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%BF%98%E5%BE%97%E6%98%AF%E7%94%A8+OpenAI+%E7%9A%84+API+%E6%89%8D%E8%83%BD%E5%A4%9F%E5%8F%96%E5%BE%97%E6%AF%94%E8%BE%83%E4%B8%8D%E9%94%99%E7%9A%84%E6%95%88%E6%9E%9C%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [型](型.md), [模型](模型.md), [瓶颈](瓶颈.md), [越来越](越来越.md), [速度](速度.md)
+___
 ##### 2025-04-30 19:10:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Meta推出了一款独立AI应用程序Meta AI，目前该AI助手在Instagram、WhatsApp和Facebook等多个社交媒体平台上提供。这将与OpenAI的ChatGPT等其他AI聊天机器人形成直接竞争。  https://t.co/P…
 

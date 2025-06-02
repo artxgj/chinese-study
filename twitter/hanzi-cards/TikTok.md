@@ -8,6 +8,62 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2025-05-22 16:15:35 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 起初是蛋价上涨、纸箱需求下降、舞池空空如也。现在则是低腰牛仔裤、快闪族——甚至是Lady Gaga在流行乐坛的回归。TikTok一代搜寻美国经济困境迹象的范围已经扩大到，嗯，几乎所有事物。https://t.co/8RuWq2x8NK
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B5%B7%E5%88%9D%E6%98%AF%E8%9B%8B%E4%BB%B7%E4%B8%8A%E6%B6%A8%E3%80%81%E7%BA%B8%E7%AE%B1%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D%E3%80%81%E8%88%9E%E6%B1%A0%E7%A9%BA%E7%A9%BA%E5%A6%82%E4%B9%9F%E3%80%82%E7%8E%B0%E5%9C%A8%E5%88%99%E6%98%AF%E4%BD%8E%E8%85%B0%E7%89%9B%E4%BB%94%E8%A3%A4%E3%80%81%E5%BF%AB%E9%97%AA%E6%97%8F%E2%80%94%E2%80%94%E7%94%9A%E8%87%B3%E6%98%AFLady+Gaga%E5%9C%A8%E6%B5%81%E8%A1%8C%E4%B9%90%E5%9D%9B%E7%9A%84%E5%9B%9E%E5%BD%92%E3%80%82TikTok%E4%B8%80%E4%BB%A3%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%A2%83%E8%BF%B9%E8%B1%A1%E7%9A%84%E8%8C%83%E5%9B%B4%E5%B7%B2%E7%BB%8F%E6%89%A9%E5%A4%A7%E5%88%B0%EF%BC%8C%E5%97%AF%EF%BC%8C%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E4%BA%8B%E7%89%A9%E3%80%82https%3A%2F%2Ft.co%2F8RuWq2x8NK)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [扩大](扩大.md), [美国](美国.md), [需求](需求.md)
+___
+##### 2025-05-19 18:13:58 UTC ~ 小互
+> RT @imxiaohu: GenSpark推出全球首个 Agentic AI下载代理只需一句话，AI会立即搜索、自动下载、并自动整理文件支持下载任何文件：PDF、图像、视频、音乐、各种办公文档等 最多支持一次性下载20张图像、数十篇论文和批量下载TikTok视频等…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+GenSpark%E6%8E%A8%E5%87%BA%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA+Agentic+AI%E4%B8%8B%E8%BD%BD%E4%BB%A3%E7%90%86%E5%8F%AA%E9%9C%80%E4%B8%80%E5%8F%A5%E8%AF%9D%EF%BC%8CAI%E4%BC%9A%E7%AB%8B%E5%8D%B3%E6%90%9C%E7%B4%A2%E3%80%81%E8%87%AA%E5%8A%A8%E4%B8%8B%E8%BD%BD%E3%80%81%E5%B9%B6%E8%87%AA%E5%8A%A8%E6%95%B4%E7%90%86%E6%96%87%E4%BB%B6%E6%94%AF%E6%8C%81%E4%B8%8B%E8%BD%BD%E4%BB%BB%E4%BD%95%E6%96%87%E4%BB%B6%EF%BC%9APDF%E3%80%81%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E3%80%81%E9%9F%B3%E4%B9%90%E3%80%81%E5%90%84%E7%A7%8D%E5%8A%9E%E5%85%AC%E6%96%87%E6%A1%A3%E7%AD%89+%E6%9C%80%E5%A4%9A%E6%94%AF%E6%8C%81%E4%B8%80%E6%AC%A1%E6%80%A7%E4%B8%8B%E8%BD%BD20%E5%BC%A0%E5%9B%BE%E5%83%8F%E3%80%81%E6%95%B0%E5%8D%81%E7%AF%87%E8%AE%BA%E6%96%87%E5%92%8C%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BDTikTok%E8%A7%86%E9%A2%91%E7%AD%89%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[推出](推出.md), [搜索](搜索.md), [支持](支持.md), [文件](文件.md)
+___
+##### 2025-05-16 08:51:03 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #更新 欧盟官员表示，TikTok可能违反了欧盟《数字服务法》中关于广告的规定。如果欧盟的这一指控得到证实，TikTok可能面临高达年收入6%的巨额罚款。欧盟委员会还可能加强对TikTok的监管，并处以定期罚款。https://t.co/5QOU…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E6%9B%B4%E6%96%B0+%E6%AC%A7%E7%9B%9F%E5%AE%98%E5%91%98%E8%A1%A8%E7%A4%BA%EF%BC%8CTikTok%E5%8F%AF%E8%83%BD%E8%BF%9D%E5%8F%8D%E4%BA%86%E6%AC%A7%E7%9B%9F%E3%80%8A%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E6%B3%95%E3%80%8B%E4%B8%AD%E5%85%B3%E4%BA%8E%E5%B9%BF%E5%91%8A%E7%9A%84%E8%A7%84%E5%AE%9A%E3%80%82%E5%A6%82%E6%9E%9C%E6%AC%A7%E7%9B%9F%E7%9A%84%E8%BF%99%E4%B8%80%E6%8C%87%E6%8E%A7%E5%BE%97%E5%88%B0%E8%AF%81%E5%AE%9E%EF%BC%8CTikTok%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E9%AB%98%E8%BE%BE%E5%B9%B4%E6%94%B6%E5%85%A56%25%E7%9A%84%E5%B7%A8%E9%A2%9D%E7%BD%9A%E6%AC%BE%E3%80%82%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A%E8%BF%98%E5%8F%AF%E8%83%BD%E5%8A%A0%E5%BC%BA%E5%AF%B9TikTok%E7%9A%84%E7%9B%91%E7%AE%A1%EF%BC%8C%E5%B9%B6%E5%A4%84%E4%BB%A5%E5%AE%9A%E6%9C%9F%E7%BD%9A%E6%AC%BE%E3%80%82https%3A%2F%2Ft.co%2F5QOU%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[委员会](委员会.md), [指控](指控.md), [收入](收入.md), [监管](监管.md), [罚款](罚款.md), [证实](证实.md), [面临](面临.md)
+___
+##### 2025-05-16 08:50:49 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【歐盟認定「TikTok違規」，廣告資訊披露不充分】《數位服務法》要求公開有關廣告資金來源的資訊。歐盟委員會認為TikTok的措施不夠充分……https://t.co/2LCSzpmpRK
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%AD%90%E7%9B%9F%E8%AA%8D%E5%AE%9A%E3%80%8CTikTok%E9%81%95%E8%A6%8F%E3%80%8D%EF%BC%8C%E5%BB%A3%E5%91%8A%E8%B3%87%E8%A8%8A%E6%8A%AB%E9%9C%B2%E4%B8%8D%E5%85%85%E5%88%86%E3%80%91%E3%80%8A%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99%E6%B3%95%E3%80%8B%E8%A6%81%E6%B1%82%E5%85%AC%E9%96%8B%E6%9C%89%E9%97%9C%E5%BB%A3%E5%91%8A%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90%E7%9A%84%E8%B3%87%E8%A8%8A%E3%80%82%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%8D%E7%82%BATikTok%E7%9A%84%E6%8E%AA%E6%96%BD%E4%B8%8D%E5%A4%A0%E5%85%85%E5%88%86%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F2LCSzpmpRK)
+##### Other Words/Names of Interest in the Above Tweet
+[披露](披露.md), [措施](措施.md)
+___
+##### 2025-05-16 05:22:12 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 如果欧盟委员会最终认定TikTok违反了《数字服务法》中关于向用户提供广告信息的规定，可能会对其处以最高相当于其全球年营业额6%的罚款。https://t.co/5QOUGvQuXq
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%A6%82%E6%9E%9C%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A%E6%9C%80%E7%BB%88%E8%AE%A4%E5%AE%9ATikTok%E8%BF%9D%E5%8F%8D%E4%BA%86%E3%80%8A%E6%95%B0%E5%AD%97%E6%9C%8D%E5%8A%A1%E6%B3%95%E3%80%8B%E4%B8%AD%E5%85%B3%E4%BA%8E%E5%90%91%E7%94%A8%E6%88%B7%E6%8F%90%E4%BE%9B%E5%B9%BF%E5%91%8A%E4%BF%A1%E6%81%AF%E7%9A%84%E8%A7%84%E5%AE%9A%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%AF%B9%E5%85%B6%E5%A4%84%E4%BB%A5%E6%9C%80%E9%AB%98%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%85%B6%E5%85%A8%E7%90%83%E5%B9%B4%E8%90%A5%E4%B8%9A%E9%A2%9D6%25%E7%9A%84%E7%BD%9A%E6%AC%BE%E3%80%82https%3A%2F%2Ft.co%2F5QOUGvQuXq)
+##### Other Words/Names of Interest in the Above Tweet
+[委员会](委员会.md), [提供](提供.md), [罚款](罚款.md)
+___
+##### 2025-05-06 09:40:40 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Meta正在打一场威胁到其社交媒体帝国未来命运的反垄断诉讼，而在案件审理了几周之后，Meta打赢这场官司的最大希望可能要寄托在一个竞争对手身上：TikTok。https://t.co/s5uy2jVff0
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Meta%E6%AD%A3%E5%9C%A8%E6%89%93%E4%B8%80%E5%9C%BA%E5%A8%81%E8%83%81%E5%88%B0%E5%85%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B8%9D%E5%9B%BD%E6%9C%AA%E6%9D%A5%E5%91%BD%E8%BF%90%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%EF%BC%8C%E8%80%8C%E5%9C%A8%E6%A1%88%E4%BB%B6%E5%AE%A1%E7%90%86%E4%BA%86%E5%87%A0%E5%91%A8%E4%B9%8B%E5%90%8E%EF%BC%8CMeta%E6%89%93%E8%B5%A2%E8%BF%99%E5%9C%BA%E5%AE%98%E5%8F%B8%E7%9A%84%E6%9C%80%E5%A4%A7%E5%B8%8C%E6%9C%9B%E5%8F%AF%E8%83%BD%E8%A6%81%E5%AF%84%E6%89%98%E5%9C%A8%E4%B8%80%E4%B8%AA%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E8%BA%AB%E4%B8%8A%EF%BC%9ATikTok%E3%80%82https%3A%2F%2Ft.co%2Fs5uy2jVff0)
+##### Other Words/Names of Interest in the Above Tweet
+[反垄断](反垄断.md), [命运](命运.md), [垄断](垄断.md), [威胁](威胁.md), [审理](审理.md), [案件](案件.md), [社交媒体](社交媒体.md), [竞争](竞争.md), [诉讼](诉讼.md)
+___
+##### 2025-05-05 09:58:34 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国总统特朗普表示，如果脱售TikTok协议无法在6月19日最后期限前达成，他将再次延长中国字节跳动剥离TikTok美国资产的最后期限。 https://t.co/YVTNHzZpsu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%84%B1%E5%94%AETikTok%E5%8D%8F%E8%AE%AE%E6%97%A0%E6%B3%95%E5%9C%A86%E6%9C%8819%E6%97%A5%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%E5%89%8D%E8%BE%BE%E6%88%90%EF%BC%8C%E4%BB%96%E5%B0%86%E5%86%8D%E6%AC%A1%E5%BB%B6%E9%95%BF%E4%B8%AD%E5%9B%BD%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%89%A5%E7%A6%BBTikTok%E7%BE%8E%E5%9B%BD%E8%B5%84%E4%BA%A7%E7%9A%84%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90%E3%80%82+https%3A%2F%2Ft.co%2FYVTNHzZpsu)
+##### Other Words/Names of Interest in the Above Tweet
+[协议](协议.md), [字节跳动](字节跳动.md), [延长](延长.md), [特朗普](特朗普.md), [美国](美国.md), [资产](资产.md), [达成](达成.md)
+___
+##### 2025-05-02 19:18:31 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 热门中国短影音平台TikTok因将欧洲用户的个人资料传输到中国，且无法保障这些数据不被中国当局访问，日前遭欧盟成员国爱尔兰的监管机构重罚5.3亿欧元（约25.7亿令吉）。 https://t.co/HFk9teNn72 https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%83%AD%E9%97%A8%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%B9%B3%E5%8F%B0TikTok%E5%9B%A0%E5%B0%86%E6%AC%A7%E6%B4%B2%E7%94%A8%E6%88%B7%E7%9A%84%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E4%BC%A0%E8%BE%93%E5%88%B0%E4%B8%AD%E5%9B%BD%EF%BC%8C%E4%B8%94%E6%97%A0%E6%B3%95%E4%BF%9D%E9%9A%9C%E8%BF%99%E4%BA%9B%E6%95%B0%E6%8D%AE%E4%B8%8D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E8%AE%BF%E9%97%AE%EF%BC%8C%E6%97%A5%E5%89%8D%E9%81%AD%E6%AC%A7%E7%9B%9F%E6%88%90%E5%91%98%E5%9B%BD%E7%88%B1%E5%B0%94%E5%85%B0%E7%9A%84%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E9%87%8D%E7%BD%9A5.3%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%88%E7%BA%A625.7%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%E3%80%82+https%3A%2F%2Ft.co%2FHFk9teNn72+https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[保障](保障.md), [平台](平台.md), [数据](数据.md), [机构](机构.md), [监管](监管.md)
+___
 ##### 2025-04-27 02:43:39 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【TikTok電商擬2025年中期開通日本站】預計將在2025年中期開始利用短視頻銷售商品。計劃在日本開設電商服務「TikTokShop」，今後將正式開始招募開店者。由於在美國被政府要求出售業務，TikTok正在加快在日本等地擴展業務的步…
 
@@ -2049,62 +2105,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E8%BE%BE1.5%E4%BA%BF%E4%BA%BA%EF%BC%8C%E7%89%B5%E5%88%B6%E7%A6%81%E4%BB%A4%E3%80%91%E8%BF%90%E8%90%A5%E5%85%AC%E5%8F%B8CEO%E5%91%A8%E5%8F%97%E8%B5%84%E5%9C%A8TikTok%E7%9A%84%E8%A7%86%E9%A2%91%E4%B8%AD%E8%A1%A8%E7%A4%BA%EF%BC%8CTikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%91%98%E5%B7%A5%E4%BA%BA%E6%95%B0%E8%BE%BE%E5%88%B0%E7%BA%A67000%E4%BA%BA%EF%BC%8C%E4%BB%A5%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E4%B8%BA%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%9C%89500%E4%B8%87%E5%AE%B6%E4%BC%81%E4%B8%9A%E4%BD%BF%E7%94%A8+%E3%80%82%E5%88%86%E6%9E%90%E8%AE%A4%E4%B8%BA%E6%AD%A4%E7%95%AA%E6%84%8F%E5%9C%A8%E8%A1%A8%E6%80%81%E6%9C%8D%E5%8A%A1%E5%81%9C%E7%94%A8%E5%90%8E%E5%B0%86%E4%BA%A7%E7%94%9F%E5%B7%A8%E5%A4%A7%E5%BD%B1%E5%93%8D%EF%BC%8C%E4%BB%A5%E9%98%BB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [分析](分析.md), [周受资](周受资.md), [影响](影响.md), [美国](美国.md)
-___
-##### 2023-03-22 07:00:16 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: TikTok的姐妹软件CapCut让人们能够使用各种模板、滤镜、视觉效果和音乐轻松编辑视频。用户表示，这有助于他们制作看起来更专业的视频片段，并有更好的机会在TikTok和其他平台（如Instagram和YouTube）上传播开来。https:…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E7%9A%84%E5%A7%90%E5%A6%B9%E8%BD%AF%E4%BB%B6CapCut%E8%AE%A9%E4%BA%BA%E4%BB%AC%E8%83%BD%E5%A4%9F%E4%BD%BF%E7%94%A8%E5%90%84%E7%A7%8D%E6%A8%A1%E6%9D%BF%E3%80%81%E6%BB%A4%E9%95%9C%E3%80%81%E8%A7%86%E8%A7%89%E6%95%88%E6%9E%9C%E5%92%8C%E9%9F%B3%E4%B9%90%E8%BD%BB%E6%9D%BE%E7%BC%96%E8%BE%91%E8%A7%86%E9%A2%91%E3%80%82%E7%94%A8%E6%88%B7%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%BF%99%E6%9C%89%E5%8A%A9%E4%BA%8E%E4%BB%96%E4%BB%AC%E5%88%B6%E4%BD%9C%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9B%B4%E4%B8%93%E4%B8%9A%E7%9A%84%E8%A7%86%E9%A2%91%E7%89%87%E6%AE%B5%EF%BC%8C%E5%B9%B6%E6%9C%89%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%9C%BA%E4%BC%9A%E5%9C%A8TikTok%E5%92%8C%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0%EF%BC%88%E5%A6%82Instagram%E5%92%8CYouTube%EF%BC%89%E4%B8%8A%E4%BC%A0%E6%92%AD%E5%BC%80%E6%9D%A5%E3%80%82https%3A%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md)
-___
-##### 2023-03-21 04:50:16 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 要求不具名的人士称，这项法案将给予美国政府权力，可以在必要时对外国技术实施禁令，其中一项是针对中国公司字节字节跳动拥有的TikTok。https://t.co/qXXZMY0sCg
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%A6%81%E6%B1%82%E4%B8%8D%E5%85%B7%E5%90%8D%E7%9A%84%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E8%BF%99%E9%A1%B9%E6%B3%95%E6%A1%88%E5%B0%86%E7%BB%99%E4%BA%88%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9D%83%E5%8A%9B%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%BF%85%E8%A6%81%E6%97%B6%E5%AF%B9%E5%A4%96%E5%9B%BD%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%96%BD%E7%A6%81%E4%BB%A4%EF%BC%8C%E5%85%B6%E4%B8%AD%E4%B8%80%E9%A1%B9%E6%98%AF%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%8B%A5%E6%9C%89%E7%9A%84TikTok%E3%80%82https%3A%2F%2Ft.co%2FqXXZMY0sCg)
-##### Other Words/Names of Interest in the Above Tweet
-[字节跳动](字节跳动.md), [实施](实施.md), [技术](技术.md), [权力](权力.md), [法案](法案.md), [美国](美国.md), [针对](针对.md)
-___
-##### 2023-03-20 18:35:40 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 在TikTok首席执行官周受资在国会山作证之前，包括投资者Peter Thiel在内的一群硅谷高管以及美国议员正在悄悄动员起来，反对中国参与美国的科技行业。他们计划在周三举行私人晚宴，讨论中国、国家安全以及美国和中国科技领域之间不断加剧的竞争。…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8TikTok%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%91%A8%E5%8F%97%E8%B5%84%E5%9C%A8%E5%9B%BD%E4%BC%9A%E5%B1%B1%E4%BD%9C%E8%AF%81%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%8A%95%E8%B5%84%E8%80%85Peter+Thiel%E5%9C%A8%E5%86%85%E7%9A%84%E4%B8%80%E7%BE%A4%E7%A1%85%E8%B0%B7%E9%AB%98%E7%AE%A1%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E5%8A%A8%E5%91%98%E8%B5%B7%E6%9D%A5%EF%BC%8C%E5%8F%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A%E3%80%82%E4%BB%96%E4%BB%AC%E8%AE%A1%E5%88%92%E5%9C%A8%E5%91%A8%E4%B8%89%E4%B8%BE%E8%A1%8C%E7%A7%81%E4%BA%BA%E6%99%9A%E5%AE%B4%EF%BC%8C%E8%AE%A8%E8%AE%BA%E4%B8%AD%E5%9B%BD%E3%80%81%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E4%B9%8B%E9%97%B4%E4%B8%8D%E6%96%AD%E5%8A%A0%E5%89%A7%E7%9A%84%E7%AB%9E%E4%BA%89%E3%80%82%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[加剧](加剧.md), [包括](包括.md), [周受资](周受资.md), [执行](执行.md), [投资](投资.md), [投资者](投资者.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [竞争](竞争.md), [美国](美国.md), [行业](行业.md), [计划](计划.md), [领域](领域.md), [首席执行官](首席执行官.md)
-___
-##### 2023-03-19 02:34:23 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 【国际特稿】TikTok对国家安全构成的威胁从何而来？TikTok又做了哪些尝试来应对各国的担忧？https://t.co/Jz6p7v7mrR
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E3%80%90%E5%9B%BD%E9%99%85%E7%89%B9%E7%A8%BF%E3%80%91TikTok%E5%AF%B9%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E6%9E%84%E6%88%90%E7%9A%84%E5%A8%81%E8%83%81%E4%BB%8E%E4%BD%95%E8%80%8C%E6%9D%A5%EF%BC%9FTikTok%E5%8F%88%E5%81%9A%E4%BA%86%E5%93%AA%E4%BA%9B%E5%B0%9D%E8%AF%95%E6%9D%A5%E5%BA%94%E5%AF%B9%E5%90%84%E5%9B%BD%E7%9A%84%E6%8B%85%E5%BF%A7%EF%BC%9Fhttps%3A%2F%2Ft.co%2FJz6p7v7mrR)
-##### Other Words/Names of Interest in the Above Tweet
-[威胁](威胁.md), [应对](应对.md), [担忧](担忧.md)
-___
-##### 2023-03-18 03:12:39 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 据知情人士透露，美国司法部正在调查TikTok中国母公司监控美国记者的行为，目前拜登政府已转向采取更强硬的手段，以应对来自这款视频分享应用的安全威胁。https://t.co/EIJix9uNHj
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5TikTok%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%9B%91%E6%8E%A7%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%B7%B2%E8%BD%AC%E5%90%91%E9%87%87%E5%8F%96%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E6%89%8B%E6%AE%B5%EF%BC%8C%E4%BB%A5%E5%BA%94%E5%AF%B9%E6%9D%A5%E8%87%AA%E8%BF%99%E6%AC%BE%E8%A7%86%E9%A2%91%E5%88%86%E4%BA%AB%E5%BA%94%E7%94%A8%E7%9A%84%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%E3%80%82https%3A%2F%2Ft.co%2FEIJix9uNHj)
-##### Other Words/Names of Interest in the Above Tweet
-[威胁](威胁.md), [应对](应对.md), [来自](来自.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [行为](行为.md), [调查](调查.md), [透露](透露.md), [采取](采取.md)
-___
-##### 2023-03-17 08:19:59 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: #独家 TikTok首席执行官周受资在接受采访时说，将TikTok从中资所有者手中剥离（这是美国现在要求采取的行动），不会比TikTok已经提出的规模数十亿美元的计划提供更多的安全保障。https://t.co/Z9rwrjAVuw
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+TikTok%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%91%A8%E5%8F%97%E8%B5%84%E5%9C%A8%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%97%B6%E8%AF%B4%EF%BC%8C%E5%B0%86TikTok%E4%BB%8E%E4%B8%AD%E8%B5%84%E6%89%80%E6%9C%89%E8%80%85%E6%89%8B%E4%B8%AD%E5%89%A5%E7%A6%BB%EF%BC%88%E8%BF%99%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%8E%B0%E5%9C%A8%E8%A6%81%E6%B1%82%E9%87%87%E5%8F%96%E7%9A%84%E8%A1%8C%E5%8A%A8%EF%BC%89%EF%BC%8C%E4%B8%8D%E4%BC%9A%E6%AF%94TikTok%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%87%BA%E7%9A%84%E8%A7%84%E6%A8%A1%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%AE%A1%E5%88%92%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E7%9A%84%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E3%80%82https%3A%2F%2Ft.co%2FZ9rwrjAVuw)
-##### Other Words/Names of Interest in the Above Tweet
-[保障](保障.md), [周受资](周受资.md), [执行](执行.md), [提供](提供.md), [提出](提出.md), [美国](美国.md), [规模](规模.md), [计划](计划.md), [采取](采取.md), [采访](采访.md), [首席执行官](首席执行官.md)
-___
-##### 2023-03-14 17:22:30 UTC ~ BBC News 中文
-> RT @bbcchinese: 在美国的TikTok禁令之下，一些年轻人选择使用虚拟私有网路（VPN）绕过该障碍。很多年轻人对政府所称的中国威胁论不屑一顾。一份调查机构数据显示，18至25岁年龄段的人群中，只有不到三分之一的人赞成禁用。https://t.co/NziCKP…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40bbcchinese%3A+%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84TikTok%E7%A6%81%E4%BB%A4%E4%B9%8B%E4%B8%8B%EF%BC%8C%E4%B8%80%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%80%89%E6%8B%A9%E4%BD%BF%E7%94%A8%E8%99%9A%E6%8B%9F%E7%A7%81%E6%9C%89%E7%BD%91%E8%B7%AF%EF%BC%88VPN%EF%BC%89%E7%BB%95%E8%BF%87%E8%AF%A5%E9%9A%9C%E7%A2%8D%E3%80%82%E5%BE%88%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E6%94%BF%E5%BA%9C%E6%89%80%E7%A7%B0%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A8%81%E8%83%81%E8%AE%BA%E4%B8%8D%E5%B1%91%E4%B8%80%E9%A1%BE%E3%80%82%E4%B8%80%E4%BB%BD%E8%B0%83%E6%9F%A5%E6%9C%BA%E6%9E%84%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%EF%BC%8C18%E8%87%B325%E5%B2%81%E5%B9%B4%E9%BE%84%E6%AE%B5%E7%9A%84%E4%BA%BA%E7%BE%A4%E4%B8%AD%EF%BC%8C%E5%8F%AA%E6%9C%89%E4%B8%8D%E5%88%B0%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E4%BA%BA%E8%B5%9E%E6%88%90%E7%A6%81%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2FNziCKP%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[威胁](威胁.md), [数据](数据.md), [显示](显示.md), [机构](机构.md), [美国](美国.md), [调查](调查.md), [障碍](障碍.md)
-___
-##### 2023-03-09 23:07:12 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: TikTok表示，每年将在保护欧洲用户的措施上花费约13亿美元。相关计划包括几周内在爱尔兰开设两个数据中心，今年晚些时候在挪威开设第三个中心。他们说，目前存储在新加坡和美国的欧洲用户数据将转移到这三个中心。https://t.co/VPAaVrU…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E8%A1%A8%E7%A4%BA%EF%BC%8C%E6%AF%8F%E5%B9%B4%E5%B0%86%E5%9C%A8%E4%BF%9D%E6%8A%A4%E6%AC%A7%E6%B4%B2%E7%94%A8%E6%88%B7%E7%9A%84%E6%8E%AA%E6%96%BD%E4%B8%8A%E8%8A%B1%E8%B4%B9%E7%BA%A613%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E7%9B%B8%E5%85%B3%E8%AE%A1%E5%88%92%E5%8C%85%E6%8B%AC%E5%87%A0%E5%91%A8%E5%86%85%E5%9C%A8%E7%88%B1%E5%B0%94%E5%85%B0%E5%BC%80%E8%AE%BE%E4%B8%A4%E4%B8%AA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%99%9A%E4%BA%9B%E6%97%B6%E5%80%99%E5%9C%A8%E6%8C%AA%E5%A8%81%E5%BC%80%E8%AE%BE%E7%AC%AC%E4%B8%89%E4%B8%AA%E4%B8%AD%E5%BF%83%E3%80%82%E4%BB%96%E4%BB%AC%E8%AF%B4%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%AD%98%E5%82%A8%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%92%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%AC%A7%E6%B4%B2%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E5%B0%86%E8%BD%AC%E7%A7%BB%E5%88%B0%E8%BF%99%E4%B8%89%E4%B8%AA%E4%B8%AD%E5%BF%83%E3%80%82https%3A%2F%2Ft.co%2FVPAaVrU%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [存储](存储.md), [挪威](挪威.md), [措施](措施.md), [数据](数据.md), [新加坡](新加坡.md), [相关](相关.md), [美国](美国.md), [计划](计划.md), [转移](转移.md)
 ____
 
 [Next Page](TikTok-01.md)

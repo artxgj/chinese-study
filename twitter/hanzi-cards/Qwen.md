@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2025-05-30 04:30:28 UTC ~ karminski-牙医
+> RT @karminski3: 给大家解析一下 DeepSeek-R1-0528 的官方放出的评测数据。目前 DeepSeek-R1-0528 毫无疑问是开源模型第一了, Qwen3-235B-A22B 在热座上仅座了一个月[苦涩].… https://t.co/ciYZxhH…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%A7%A3%E6%9E%90%E4%B8%80%E4%B8%8B+DeepSeek-R1-0528+%E7%9A%84%E5%AE%98%E6%96%B9%E6%94%BE%E5%87%BA%E7%9A%84%E8%AF%84%E6%B5%8B%E6%95%B0%E6%8D%AE%E3%80%82%E7%9B%AE%E5%89%8D+DeepSeek-R1-0528+%E6%AF%AB%E6%97%A0%E7%96%91%E9%97%AE%E6%98%AF%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E7%AC%AC%E4%B8%80%E4%BA%86%2C+Qwen3-235B-A22B+%E5%9C%A8%E7%83%AD%E5%BA%A7%E4%B8%8A%E4%BB%85%E5%BA%A7%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%5B%E8%8B%A6%E6%B6%A9%5D.%E2%80%A6+https%3A%2F%2Ft.co%2FciYZxhH%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [型](型.md), [开源](开源.md), [数据](数据.md), [模型](模型.md)
+___
+##### 2025-05-09 01:46:51 UTC ~ karminski-牙医
+> RT @karminski3: 如果在苹果设备上用 MLX 量化模型的同学，务必试试新的 DWQ 量化。从数据上看 4bit-dwq 量化的困惑度甚至比老的 6bit 量化还低。Qwen3-30B-A3B-4bit-DWQ 量化版本的MLX官方地址，17GB 内存就能跑：h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%A6%82%E6%9E%9C%E5%9C%A8%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%94%A8+MLX+%E9%87%8F%E5%8C%96%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%90%8C%E5%AD%A6%EF%BC%8C%E5%8A%A1%E5%BF%85%E8%AF%95%E8%AF%95%E6%96%B0%E7%9A%84+DWQ+%E9%87%8F%E5%8C%96%E3%80%82%E4%BB%8E%E6%95%B0%E6%8D%AE%E4%B8%8A%E7%9C%8B+4bit-dwq+%E9%87%8F%E5%8C%96%E7%9A%84%E5%9B%B0%E6%83%91%E5%BA%A6%E7%94%9A%E8%87%B3%E6%AF%94%E8%80%81%E7%9A%84+6bit+%E9%87%8F%E5%8C%96%E8%BF%98%E4%BD%8E%E3%80%82Qwen3-30B-A3B-4bit-DWQ+%E9%87%8F%E5%8C%96%E7%89%88%E6%9C%AC%E7%9A%84MLX%E5%AE%98%E6%96%B9%E5%9C%B0%E5%9D%80%EF%BC%8C17GB+%E5%86%85%E5%AD%98%E5%B0%B1%E8%83%BD%E8%B7%91%EF%BC%9Ah%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [数据](数据.md), [模型](模型.md), [苹果](苹果.md), [量化](量化.md)
+___
+##### 2025-05-07 03:58:23 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【阿里「通義千問」成為日本AI開發基礎】在日經4月公開的「AI模型評分」榜中，阿里雲的「通義千問（Qwen）」模型超過了中國DeepSeek的模型，在113個模型中位居第6。作為開源模型，通義千問正在得到很多日本新興企業的使用。在評分榜位…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%98%BF%E9%87%8C%E3%80%8C%E9%80%9A%E7%BE%A9%E5%8D%83%E5%95%8F%E3%80%8D%E6%88%90%E7%82%BA%E6%97%A5%E6%9C%ACAI%E9%96%8B%E7%99%BC%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9C%A8%E6%97%A5%E7%B6%934%E6%9C%88%E5%85%AC%E9%96%8B%E7%9A%84%E3%80%8CAI%E6%A8%A1%E5%9E%8B%E8%A9%95%E5%88%86%E3%80%8D%E6%A6%9C%E4%B8%AD%EF%BC%8C%E9%98%BF%E9%87%8C%E9%9B%B2%E7%9A%84%E3%80%8C%E9%80%9A%E7%BE%A9%E5%8D%83%E5%95%8F%EF%BC%88Qwen%EF%BC%89%E3%80%8D%E6%A8%A1%E5%9E%8B%E8%B6%85%E9%81%8E%E4%BA%86%E4%B8%AD%E5%9C%8BDeepSeek%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9C%A8113%E5%80%8B%E6%A8%A1%E5%9E%8B%E4%B8%AD%E4%BD%8D%E5%B1%85%E7%AC%AC6%E3%80%82%E4%BD%9C%E7%82%BA%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%80%9A%E7%BE%A9%E5%8D%83%E5%95%8F%E6%AD%A3%E5%9C%A8%E5%BE%97%E5%88%B0%E5%BE%88%E5%A4%9A%E6%97%A5%E6%9C%AC%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%82%E5%9C%A8%E8%A9%95%E5%88%86%E6%A6%9C%E4%BD%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [型](型.md), [日本](日本.md), [模型](模型.md), [開源](開源.md), [開發](開發.md)
+___
 ##### 2025-04-28 23:50:40 UTC ~ orange.ai
 > RT @oran_ge: 全世界等了一个月，Qwen3 它终于来了！模型特色：思考更深，速度更快-  Qwen3 是全球最强开源模型，性能全面超越 DeepSeek R1，国内第一个敢说全面超越 R1 的模型，之前都是比肩- Qwen3 是国内首个混合推理模型，复杂答案…
 

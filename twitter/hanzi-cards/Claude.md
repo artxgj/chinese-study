@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2025-05-28 15:29:41 UTC ~ karminski-牙医
+> RT @karminski3: 我睡醒了老铁们，开始测试了，直接果断冲 40 刀，顺便把 Claude-4 偷懒没弄的也补上。其他的用 OpenRouter API 测，DeepSeek-R1-0528 用官网 API 测。幸好我这个时间起来，晚上用DeepSeek 应该不会超…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%88%91%E7%9D%A1%E9%86%92%E4%BA%86%E8%80%81%E9%93%81%E4%BB%AC%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%B5%8B%E8%AF%95%E4%BA%86%EF%BC%8C%E7%9B%B4%E6%8E%A5%E6%9E%9C%E6%96%AD%E5%86%B2+40+%E5%88%80%EF%BC%8C%E9%A1%BA%E4%BE%BF%E6%8A%8A+Claude-4+%E5%81%B7%E6%87%92%E6%B2%A1%E5%BC%84%E7%9A%84%E4%B9%9F%E8%A1%A5%E4%B8%8A%E3%80%82%E5%85%B6%E4%BB%96%E7%9A%84%E7%94%A8+OpenRouter+API+%E6%B5%8B%EF%BC%8CDeepSeek-R1-0528+%E7%94%A8%E5%AE%98%E7%BD%91+API+%E6%B5%8B%E3%80%82%E5%B9%B8%E5%A5%BD%E6%88%91%E8%BF%99%E4%B8%AA%E6%97%B6%E9%97%B4%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%99%9A%E4%B8%8A%E7%94%A8DeepSeek+%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E8%B6%85%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [直接](直接.md)
+___
+##### 2025-05-11 07:30:26 UTC ~ AI Will
+> RT @FinanceYF5: 4. 只需几分钟即可构建、部署并盈利化远程MCP服务器。这个MCP模板让你可以通过预配置的Stripe、OAuth登录和Cloudflare部署，快速构建并盈利化MCP服务器。与Cursor、Claude等兼容，立即生效。https:/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+4.+%E5%8F%AA%E9%9C%80%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B3%E5%8F%AF%E6%9E%84%E5%BB%BA%E3%80%81%E9%83%A8%E7%BD%B2%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96%E8%BF%9C%E7%A8%8BMCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E8%BF%99%E4%B8%AAMCP%E6%A8%A1%E6%9D%BF%E8%AE%A9%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E9%A2%84%E9%85%8D%E7%BD%AE%E7%9A%84Stripe%E3%80%81OAuth%E7%99%BB%E5%BD%95%E5%92%8CCloudflare%E9%83%A8%E7%BD%B2%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96MCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E4%B8%8ECursor%E3%80%81Claude%E7%AD%89%E5%85%BC%E5%AE%B9%EF%BC%8C%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%95%88%E3%80%82https%3A%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [盈利](盈利.md)
+___
 ##### 2025-04-27 18:39:03 UTC ~ karminski-牙医
 > RT @karminski3: 分享个来自 Anthropic 官方的 Claude Code 最佳实践指南教程，准备尝试用 Claude Code 或者其它 agentic 命令行工具写代码的同学可以看看，写得很棒地址：https://t.co/wtAXxAvTzy ht…
 

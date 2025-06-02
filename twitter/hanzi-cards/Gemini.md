@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2025-05-19 05:14:03 UTC ~ SimbaLee
+> RT @lipeng0820: ⚙️开始习惯用Gemini代替ChatGPT 发现了Gemini的几个小细节，利用起来可以有效提升回答质量：1.复核内容：图 1 中的按钮可以一键通过Google搜索校验回答，提升结果可信度2.回复润色：长按回答直接对回复结果进行详略改…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lipeng0820%3A+%E2%9A%99%EF%B8%8F%E5%BC%80%E5%A7%8B%E4%B9%A0%E6%83%AF%E7%94%A8Gemini%E4%BB%A3%E6%9B%BFChatGPT+%E5%8F%91%E7%8E%B0%E4%BA%86Gemini%E7%9A%84%E5%87%A0%E4%B8%AA%E5%B0%8F%E7%BB%86%E8%8A%82%EF%BC%8C%E5%88%A9%E7%94%A8%E8%B5%B7%E6%9D%A5%E5%8F%AF%E4%BB%A5%E6%9C%89%E6%95%88%E6%8F%90%E5%8D%87%E5%9B%9E%E7%AD%94%E8%B4%A8%E9%87%8F%EF%BC%9A1.%E5%A4%8D%E6%A0%B8%E5%86%85%E5%AE%B9%EF%BC%9A%E5%9B%BE+1+%E4%B8%AD%E7%9A%84%E6%8C%89%E9%92%AE%E5%8F%AF%E4%BB%A5%E4%B8%80%E9%94%AE%E9%80%9A%E8%BF%87Google%E6%90%9C%E7%B4%A2%E6%A0%A1%E9%AA%8C%E5%9B%9E%E7%AD%94%EF%BC%8C%E6%8F%90%E5%8D%87%E7%BB%93%E6%9E%9C%E5%8F%AF%E4%BF%A1%E5%BA%A62.%E5%9B%9E%E5%A4%8D%E6%B6%A6%E8%89%B2%EF%BC%9A%E9%95%BF%E6%8C%89%E5%9B%9E%E7%AD%94%E7%9B%B4%E6%8E%A5%E5%AF%B9%E5%9B%9E%E5%A4%8D%E7%BB%93%E6%9E%9C%E8%BF%9B%E8%A1%8C%E8%AF%A6%E7%95%A5%E6%94%B9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[搜索](搜索.md), [直接](直接.md), [进行](进行.md)
+___
 ##### 2025-04-28 08:00:36 UTC ~ karminski-牙医
 > RT @karminski3: 卧槽 Gemini Coder 开源了！而且是MIT协议的！这个插件能让你的 VSCode 直接变成 Cursor/Windsurf, 众所周不知，Google AI Studio 可以免费薅羊毛用 Gemini-2.5-Pro 和 Gemi…
 

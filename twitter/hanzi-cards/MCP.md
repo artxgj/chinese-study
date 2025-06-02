@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2025-05-26 06:56:12 UTC ~ karminski-牙医
+> RT @karminski3: 看到个 go 写的操作文件系统的 MCP Server——mcp-filesystem-server通过这个MCP就可以操作本地文件系统了，由于这个是go编写的，go能交叉编译的架构特别多，所以理论上大部分系统都能运行这个MCP Server…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%9C%8B%E5%88%B0%E4%B8%AA+go+%E5%86%99%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84+MCP+Server%E2%80%94%E2%80%94mcp-filesystem-server%E9%80%9A%E8%BF%87%E8%BF%99%E4%B8%AAMCP%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%93%8D%E4%BD%9C%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%BA%86%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%BF%99%E4%B8%AA%E6%98%AFgo%E7%BC%96%E5%86%99%E7%9A%84%EF%BC%8Cgo%E8%83%BD%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E7%9A%84%E6%9E%B6%E6%9E%84%E7%89%B9%E5%88%AB%E5%A4%9A%EF%BC%8C%E6%89%80%E4%BB%A5%E7%90%86%E8%AE%BA%E4%B8%8A%E5%A4%A7%E9%83%A8%E5%88%86%E7%B3%BB%E7%BB%9F%E9%83%BD%E8%83%BD%E8%BF%90%E8%A1%8C%E8%BF%99%E4%B8%AAMCP+Server%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[叉](叉.md), [操作](操作.md), [文件](文件.md), [系统](系统.md)
+___
+##### 2025-05-20 10:23:35 UTC ~ karminski-牙医
+> RT @karminski3: 从微软的发布会看， windows 也前面拥抱 MCP了，windows 的画图，文件系统，照片，WSL（linux 子系统）都能开启MCP选项。 https://t.co/GaTnH7DJKn
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E4%BB%8E%E5%BE%AE%E8%BD%AF%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A%E7%9C%8B%EF%BC%8C+windows+%E4%B9%9F%E5%89%8D%E9%9D%A2%E6%8B%A5%E6%8A%B1+MCP%E4%BA%86%EF%BC%8Cwindows+%E7%9A%84%E7%94%BB%E5%9B%BE%EF%BC%8C%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%EF%BC%8C%E7%85%A7%E7%89%87%EF%BC%8CWSL%EF%BC%88linux+%E5%AD%90%E7%B3%BB%E7%BB%9F%EF%BC%89%E9%83%BD%E8%83%BD%E5%BC%80%E5%90%AFMCP%E9%80%89%E9%A1%B9%E3%80%82+https%3A%2F%2Ft.co%2FGaTnH7DJKn)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [微软](微软.md), [文件](文件.md), [系统](系统.md)
+___
+##### 2025-05-11 07:30:26 UTC ~ AI Will
+> RT @FinanceYF5: 4. 只需几分钟即可构建、部署并盈利化远程MCP服务器。这个MCP模板让你可以通过预配置的Stripe、OAuth登录和Cloudflare部署，快速构建并盈利化MCP服务器。与Cursor、Claude等兼容，立即生效。https:/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+4.+%E5%8F%AA%E9%9C%80%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B3%E5%8F%AF%E6%9E%84%E5%BB%BA%E3%80%81%E9%83%A8%E7%BD%B2%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96%E8%BF%9C%E7%A8%8BMCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E8%BF%99%E4%B8%AAMCP%E6%A8%A1%E6%9D%BF%E8%AE%A9%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E9%A2%84%E9%85%8D%E7%BD%AE%E7%9A%84Stripe%E3%80%81OAuth%E7%99%BB%E5%BD%95%E5%92%8CCloudflare%E9%83%A8%E7%BD%B2%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96MCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E4%B8%8ECursor%E3%80%81Claude%E7%AD%89%E5%85%BC%E5%AE%B9%EF%BC%8C%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%95%88%E3%80%82https%3A%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [盈利](盈利.md)
+___
+##### 2025-05-11 07:30:01 UTC ~ AI Will
+> RT @FinanceYF5: 5个巨大的AI代理、MCP和LLM更新：1. 苹果刚刚发布了FastVLM代码和模型。一款极速的视觉语言模型，直接在iPhone上运行，使用MLX，大幅减少高分辨率图像的编码时间。非常适合实时的设备端应用。 https://t.co/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+5%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84AI%E4%BB%A3%E7%90%86%E3%80%81MCP%E5%92%8CLLM%E6%9B%B4%E6%96%B0%EF%BC%9A1.+%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86FastVLM%E4%BB%A3%E7%A0%81%E5%92%8C%E6%A8%A1%E5%9E%8B%E3%80%82%E4%B8%80%E6%AC%BE%E6%9E%81%E9%80%9F%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8iPhone%E4%B8%8A%E8%BF%90%E8%A1%8C%EF%BC%8C%E4%BD%BF%E7%94%A8MLX%EF%BC%8C%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E7%9A%84%E7%BC%96%E7%A0%81%E6%97%B6%E9%97%B4%E3%80%82%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%AE%9E%E6%97%B6%E7%9A%84%E8%AE%BE%E5%A4%87%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%82+https%3A%2F%2Ft.co%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
+___
+##### 2025-05-05 15:57:28 UTC ~ GitHubDaily
+> RT @GitHub_Daily: Excel MCP Server 这款 MCP 服务器颇为实用，通过 AI 助手直接操作 Excel 文件，或许不用再装微软 Excel 办公软件了。目前已经实现创建、读取和修改 Excel 表格数据，甚至还能应用格式、创建图表和透视表，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Excel+MCP+Server+%E8%BF%99%E6%AC%BE+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%87%E4%B8%BA%E5%AE%9E%E7%94%A8%EF%BC%8C%E9%80%9A%E8%BF%87+AI+%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C+Excel+%E6%96%87%E4%BB%B6%EF%BC%8C%E6%88%96%E8%AE%B8%E4%B8%8D%E7%94%A8%E5%86%8D%E8%A3%85%E5%BE%AE%E8%BD%AF+Excel+%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6%E4%BA%86%E3%80%82%E7%9B%AE%E5%89%8D%E5%B7%B2%E7%BB%8F%E5%AE%9E%E7%8E%B0%E5%88%9B%E5%BB%BA%E3%80%81%E8%AF%BB%E5%8F%96%E5%92%8C%E4%BF%AE%E6%94%B9+Excel+%E8%A1%A8%E6%A0%BC%E6%95%B0%E6%8D%AE%EF%BC%8C%E7%94%9A%E8%87%B3%E8%BF%98%E8%83%BD%E5%BA%94%E7%94%A8%E6%A0%BC%E5%BC%8F%E3%80%81%E5%88%9B%E5%BB%BA%E5%9B%BE%E8%A1%A8%E5%92%8C%E9%80%8F%E8%A7%86%E8%A1%A8%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[实现](实现.md), [微软](微软.md), [操作](操作.md), [数据](数据.md), [文件](文件.md), [直接](直接.md)
+___
 ##### 2025-04-25 10:35:35 UTC ~ AI Will
 > RT @FinanceYF5: 2025年可以构建的23个MCP创业点子（AI智能体/AI/MCP点子）👇MCP改变了游戏规则。  以前：智能体什么都不记得。  现在：它们能记住、推理并协作。收藏这个？不！你或许永远不会去看。  去构建一个，这是最好的理解方式！…
 

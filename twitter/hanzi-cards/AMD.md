@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-05-07 19:53:28 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AMD首席执行官苏姿丰表示，该公司认为，“不断变化的”宏观经济环境以及销往中国的Instinct MI308X受到的限制，“完全可以被我们领先产品阵容带来的强大推动力所抵消”。 https://t.co/3wDadzGwKo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AMD%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B0%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%AE%A4%E4%B8%BA%EF%BC%8C%E2%80%9C%E4%B8%8D%E6%96%AD%E5%8F%98%E5%8C%96%E7%9A%84%E2%80%9D%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E7%8E%AF%E5%A2%83%E4%BB%A5%E5%8F%8A%E9%94%80%E5%BE%80%E4%B8%AD%E5%9B%BD%E7%9A%84Instinct+MI308X%E5%8F%97%E5%88%B0%E7%9A%84%E9%99%90%E5%88%B6%EF%BC%8C%E2%80%9C%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E8%A2%AB%E6%88%91%E4%BB%AC%E9%A2%86%E5%85%88%E4%BA%A7%E5%93%81%E9%98%B5%E5%AE%B9%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%BC%BA%E5%A4%A7%E6%8E%A8%E5%8A%A8%E5%8A%9B%E6%89%80%E6%8A%B5%E6%B6%88%E2%80%9D%E3%80%82+https%3A%2F%2Ft.co%2F3wDadzGwKo)
+##### Other Words/Names of Interest in the Above Tweet
+[宏观](宏观.md), [执行](执行.md), [推动](推动.md), [苏姿丰](苏姿丰.md), [限制](限制.md), [首席执行官](首席执行官.md)
+___
 ##### 2025-04-17 03:52:13 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #实时更新 #特朗普关税 亚洲股市上涨，美日贸易谈判启动；美国证实对英伟达和AMD芯片采取新的出口限制；AMD警告称芯片出口限制将导致其损失8亿美元；阿斯麦以实例揭示关税的隐形成本；加州就关税起诉特朗普政府；基金经理为全球经济“硬着陆”做准备。h…
 
