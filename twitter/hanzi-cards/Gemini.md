@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2025-06-26 08:58:42 UTC ~ orange.ai
+> RT @oran_ge: Google 杀疯了，放出对标 Claude Code 和 Cursor 的 Gemini CLI不要100美金，直接免费提供。不仅免费，而且开源，一发布瞬间 3k Star！每天1000次调用以内都免费，非常之离谱。不管具体水平怎么说，先试试…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Google+%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%8C%E6%94%BE%E5%87%BA%E5%AF%B9%E6%A0%87+Claude+Code+%E5%92%8C+Cursor+%E7%9A%84+Gemini+CLI%E4%B8%8D%E8%A6%81100%E7%BE%8E%E9%87%91%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E3%80%82%E4%B8%8D%E4%BB%85%E5%85%8D%E8%B4%B9%EF%BC%8C%E8%80%8C%E4%B8%94%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B8%80%E5%8F%91%E5%B8%83%E7%9E%AC%E9%97%B4+3k+Star%EF%BC%81%E6%AF%8F%E5%A4%A91000%E6%AC%A1%E8%B0%83%E7%94%A8%E4%BB%A5%E5%86%85%E9%83%BD%E5%85%8D%E8%B4%B9%EF%BC%8C%E9%9D%9E%E5%B8%B8%E4%B9%8B%E7%A6%BB%E8%B0%B1%E3%80%82%E4%B8%8D%E7%AE%A1%E5%85%B7%E4%BD%93%E6%B0%B4%E5%B9%B3%E6%80%8E%E4%B9%88%E8%AF%B4%EF%BC%8C%E5%85%88%E8%AF%95%E8%AF%95%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [不仅](不仅.md), [发布](发布.md), [开源](开源.md), [提供](提供.md), [水平](水平.md), [直接](直接.md), [瞬间](瞬间.md)
+___
+##### 2025-06-20 03:04:36 UTC ~ nicekate
+> RT @nicekate8888: 新视频上线——AI 编程实战：我用 Augment 从零打造了一款 macOS AI RSS 阅读器 (集成 Gemini)1️⃣ 支持总结文章、提取要点、生成 Mermaid 图、AI 对话的智能 RSS 阅读器。2️⃣ 接入 Ge…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nicekate8888%3A+%E6%96%B0%E8%A7%86%E9%A2%91%E4%B8%8A%E7%BA%BF%E2%80%94%E2%80%94AI+%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98%EF%BC%9A%E6%88%91%E7%94%A8+Augment+%E4%BB%8E%E9%9B%B6%E6%89%93%E9%80%A0%E4%BA%86%E4%B8%80%E6%AC%BE+macOS+AI+RSS+%E9%98%85%E8%AF%BB%E5%99%A8+%28%E9%9B%86%E6%88%90+Gemini%291%EF%B8%8F%E2%83%A3+%E6%94%AF%E6%8C%81%E6%80%BB%E7%BB%93%E6%96%87%E7%AB%A0%E3%80%81%E6%8F%90%E5%8F%96%E8%A6%81%E7%82%B9%E3%80%81%E7%94%9F%E6%88%90+Mermaid+%E5%9B%BE%E3%80%81AI+%E5%AF%B9%E8%AF%9D%E7%9A%84%E6%99%BA%E8%83%BD+RSS+%E9%98%85%E8%AF%BB%E5%99%A8%E3%80%822%EF%B8%8F%E2%83%A3+%E6%8E%A5%E5%85%A5+Ge%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [总结](总结.md), [打造](打造.md), [支持](支持.md)
+___
 ##### 2025-05-19 05:14:03 UTC ~ SimbaLee
 > RT @lipeng0820: ⚙️开始习惯用Gemini代替ChatGPT 发现了Gemini的几个小细节，利用起来可以有效提升回答质量：1.复核内容：图 1 中的按钮可以一键通过Google搜索校验回答，提升结果可信度2.回复润色：长按回答直接对回复结果进行详略改…
 
@@ -56,7 +70,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Claude](Claude.md), [型](型.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
 ___
-##### 2025-04-01 04:42:44 UTC ~ jiayuan
+##### 2025-04-01 04:42:44 UTC ~ Jiayuan
 > RT @tisoga: 创建了一个用来分析自己健康 &amp; 运动数据的 app，支持连接到 Whoop, Apple Health, Garmin 导入相关数据。并且还连接了 Gemini Pro 2.5 作为健康教练来分析相关的数据。全程使用 @devv_ai vibe…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tisoga%3A+%E5%88%9B%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%A8%E6%9D%A5%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%81%A5%E5%BA%B7+%26amp%3B+%E8%BF%90%E5%8A%A8%E6%95%B0%E6%8D%AE%E7%9A%84+app%EF%BC%8C%E6%94%AF%E6%8C%81%E8%BF%9E%E6%8E%A5%E5%88%B0+Whoop%2C+Apple+Health%2C+Garmin+%E5%AF%BC%E5%85%A5%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E3%80%82%E5%B9%B6%E4%B8%94%E8%BF%98%E8%BF%9E%E6%8E%A5%E4%BA%86+Gemini+Pro+2.5+%E4%BD%9C%E4%B8%BA%E5%81%A5%E5%BA%B7%E6%95%99%E7%BB%83%E6%9D%A5%E5%88%86%E6%9E%90%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E5%85%A8%E7%A8%8B%E4%BD%BF%E7%94%A8+%40devv_ai+vibe%E2%80%A6)

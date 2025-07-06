@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-06-28 02:18:06 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 软银首席执行官孙正义在东京举行的年度股东大会上表示：“我将全部赌注都押在超级人工智能(ASI)的世界里。”他认为在未来十年，ASI 将创造约600万亿日圆的利润，但只有少数几家公司能从中获益。而他战略的一个关键，就是加强软银与OpenAI的关…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%BD%AF%E9%93%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%AD%99%E6%AD%A3%E4%B9%89%E5%9C%A8%E4%B8%9C%E4%BA%AC%E4%B8%BE%E8%A1%8C%E7%9A%84%E5%B9%B4%E5%BA%A6%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A%E4%B8%8A%E8%A1%A8%E7%A4%BA%EF%BC%9A%E2%80%9C%E6%88%91%E5%B0%86%E5%85%A8%E9%83%A8%E8%B5%8C%E6%B3%A8%E9%83%BD%E6%8A%BC%E5%9C%A8%E8%B6%85%E7%BA%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28ASI%29%E7%9A%84%E4%B8%96%E7%95%8C%E9%87%8C%E3%80%82%E2%80%9D%E4%BB%96%E8%AE%A4%E4%B8%BA%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%8D%81%E5%B9%B4%EF%BC%8CASI+%E5%B0%86%E5%88%9B%E9%80%A0%E7%BA%A6600%E4%B8%87%E4%BA%BF%E6%97%A5%E5%9C%86%E7%9A%84%E5%88%A9%E6%B6%A6%EF%BC%8C%E4%BD%86%E5%8F%AA%E6%9C%89%E5%B0%91%E6%95%B0%E5%87%A0%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%83%BD%E4%BB%8E%E4%B8%AD%E8%8E%B7%E7%9B%8A%E3%80%82%E8%80%8C%E4%BB%96%E6%88%98%E7%95%A5%E7%9A%84%E4%B8%80%E4%B8%AA%E5%85%B3%E9%94%AE%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%8A%A0%E5%BC%BA%E8%BD%AF%E9%93%B6%E4%B8%8EOpenAI%E7%9A%84%E5%85%B3%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [关键](关键.md), [利润](利润.md), [战略](战略.md), [执行](执行.md), [软银](软银.md), [首席执行官](首席执行官.md)
+___
+##### 2025-06-26 16:54:39 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI与微软已陷于激烈的谈判中，双方的合同规定，当OpenAI的系统达到“通用人工智能”水平时，该初创公司将能够限制微软获取其未来技术。微软正极力阻止这种情况发生。https://t.co/e536JV6DAv
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E4%B8%8E%E5%BE%AE%E8%BD%AF%E5%B7%B2%E9%99%B7%E4%BA%8E%E6%BF%80%E7%83%88%E7%9A%84%E8%B0%88%E5%88%A4%E4%B8%AD%EF%BC%8C%E5%8F%8C%E6%96%B9%E7%9A%84%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%EF%BC%8C%E5%BD%93OpenAI%E7%9A%84%E7%B3%BB%E7%BB%9F%E8%BE%BE%E5%88%B0%E2%80%9C%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E2%80%9D%E6%B0%B4%E5%B9%B3%E6%97%B6%EF%BC%8C%E8%AF%A5%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E5%B0%86%E8%83%BD%E5%A4%9F%E9%99%90%E5%88%B6%E5%BE%AE%E8%BD%AF%E8%8E%B7%E5%8F%96%E5%85%B6%E6%9C%AA%E6%9D%A5%E6%8A%80%E6%9C%AF%E3%80%82%E5%BE%AE%E8%BD%AF%E6%AD%A3%E6%9E%81%E5%8A%9B%E9%98%BB%E6%AD%A2%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5%E5%8F%91%E7%94%9F%E3%80%82https%3A%2F%2Ft.co%2Fe536JV6DAv)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [微软](微软.md), [情况](情况.md), [技术](技术.md), [正极](正极.md), [水平](水平.md), [激烈](激烈.md), [系统](系统.md), [谈判](谈判.md), [阻止](阻止.md), [限制](限制.md)
+___
+##### 2025-06-13 09:28:28 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AMD发布了几款以人工智能为重点的新产品，其中包括MI350系列加速器。该公司表示将与Meta Platforms、OpenAI、甲骨文和微软等科技巨头合作，寻求建立一个开放的人工智能生态系统。https://t.co/dsXXlqyJB2
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AMD%E5%8F%91%E5%B8%83%E4%BA%86%E5%87%A0%E6%AC%BE%E4%BB%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%BA%E9%87%8D%E7%82%B9%E7%9A%84%E6%96%B0%E4%BA%A7%E5%93%81%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%ACMI350%E7%B3%BB%E5%88%97%E5%8A%A0%E9%80%9F%E5%99%A8%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E5%B0%86%E4%B8%8EMeta+Platforms%E3%80%81OpenAI%E3%80%81%E7%94%B2%E9%AA%A8%E6%96%87%E5%92%8C%E5%BE%AE%E8%BD%AF%E7%AD%89%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%90%88%E4%BD%9C%EF%BC%8C%E5%AF%BB%E6%B1%82%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%BC%80%E6%94%BE%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E3%80%82https%3A%2F%2Ft.co%2FdsXXlqyJB2)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [人工](人工.md), [人工智能](人工智能.md), [加速器](加速器.md), [包括](包括.md), [发布](发布.md), [巨头](巨头.md), [微软](微软.md), [生态](生态.md), [甲骨文](甲骨文.md), [科技](科技.md), [系列](系列.md), [系统](系统.md)
+___
 ##### 2025-05-30 04:30:51 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DeepSeek升級R1，稱性能「接近OpenAI」】此次升級的R1在解答國際奧數美國預選賽的2025年問題時，正確率達到87.5%，比以前的70%有所提高。在同一測試中，OpenAI於4月開始提供的最新的邏輯思考模型「o3」的正確率為…
 

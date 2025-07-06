@@ -8,6 +8,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-06 05:06:19 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 英伟达周三股价大涨5.4%，受四大利好提振，成功摆脱DeepSeek推出AI新模型引发的卖压。 https://t.co/8Ua1byYYeu https://t.co/XtNR9LwvAL
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%A8%E4%B8%89%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A85.4%25%EF%BC%8C%E5%8F%97%E5%9B%9B%E5%A4%A7%E5%88%A9%E5%A5%BD%E6%8F%90%E6%8C%AF%EF%BC%8C%E6%88%90%E5%8A%9F%E6%91%86%E8%84%B1DeepSeek%E6%8E%A8%E5%87%BAAI%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%BC%95%E5%8F%91%E7%9A%84%E5%8D%96%E5%8E%8B%E3%80%82+https%3A%2F%2Ft.co%2F8Ua1byYYeu+https%3A%2F%2Ft.co%2FXtNR9LwvAL)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [引发](引发.md), [推出](推出.md), [提振](提振.md), [摆脱](摆脱.md), [模型](模型.md), [英伟达](英伟达.md)
+___
+##### 2025-02-06 05:05:52 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国春节假期后复工首日，多家媒体前往中国人工智能公司深度求索（DeepSeek）位于杭州的总部采访，但均被婉拒。 https://t.co/5ymZYzWHsh
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%90%8E%E5%A4%8D%E5%B7%A5%E9%A6%96%E6%97%A5%EF%BC%8C%E5%A4%9A%E5%AE%B6%E5%AA%92%E4%BD%93%E5%89%8D%E5%BE%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E4%BD%8D%E4%BA%8E%E6%9D%AD%E5%B7%9E%E7%9A%84%E6%80%BB%E9%83%A8%E9%87%87%E8%AE%BF%EF%BC%8C%E4%BD%86%E5%9D%87%E8%A2%AB%E5%A9%89%E6%8B%92%E3%80%82+https%3A%2F%2Ft.co%2F5ymZYzWHsh)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [春节](春节.md), [深度求索](深度求索.md), [采访](采访.md)
+___
+##### 2025-02-05 16:01:43 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国A股星期三（2月5日）迎来春节后首个交易日，截至收盘三大股指涨跌互现，深度求索（DeepSeek）概念股掀涨停潮。 https://t.co/nRnXNB9ASp
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BDA%E8%82%A1%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%882%E6%9C%885%E6%97%A5%EF%BC%89%E8%BF%8E%E6%9D%A5%E6%98%A5%E8%8A%82%E5%90%8E%E9%A6%96%E4%B8%AA%E4%BA%A4%E6%98%93%E6%97%A5%EF%BC%8C%E6%88%AA%E8%87%B3%E6%94%B6%E7%9B%98%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%B6%A8%E8%B7%8C%E4%BA%92%E7%8E%B0%EF%BC%8C%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E6%A6%82%E5%BF%B5%E8%82%A1%E6%8E%80%E6%B6%A8%E5%81%9C%E6%BD%AE%E3%80%82+https%3A%2F%2Ft.co%2FnRnXNB9ASp)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [截至](截至.md), [收盘](收盘.md), [春节](春节.md), [深度求索](深度求索.md)
+___
+##### 2025-02-05 15:46:24 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 韩国官员宣布，出于安全隐患等考虑，韩国工业部已暂时禁止员工，使用中国人工智能公司深度求索（DeepSeek）。这一举措使韩国成为最新一个，对DeepSeek发出警告的政府。 https://t.co/mE7KYyBVxR
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%9F%A9%E5%9B%BD%E5%AE%98%E5%91%98%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%87%BA%E4%BA%8E%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3%E7%AD%89%E8%80%83%E8%99%91%EF%BC%8C%E9%9F%A9%E5%9B%BD%E5%B7%A5%E4%B8%9A%E9%83%A8%E5%B7%B2%E6%9A%82%E6%97%B6%E7%A6%81%E6%AD%A2%E5%91%98%E5%B7%A5%EF%BC%8C%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E3%80%82%E8%BF%99%E4%B8%80%E4%B8%BE%E6%8E%AA%E4%BD%BF%E9%9F%A9%E5%9B%BD%E6%88%90%E4%B8%BA%E6%9C%80%E6%96%B0%E4%B8%80%E4%B8%AA%EF%BC%8C%E5%AF%B9DeepSeek%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%E7%9A%84%E6%94%BF%E5%BA%9C%E3%80%82+https%3A%2F%2Ft.co%2FmE7KYyBVxR)
+##### Other Words/Names of Interest in the Above Tweet
+[举措](举措.md), [人工](人工.md), [人工智能](人工智能.md), [深度求索](深度求索.md), [禁止](禁止.md), [考虑](考虑.md), [韩国](韩国.md)
+___
+##### 2025-02-05 09:28:09 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 澳大利亚以数据安全担忧为由，禁止在政府系统和设备上使用中国AI聊天机器人DeepSeek。这并不是第一个针对DeepSeek下达禁令的国家，此前意大利和美国部分联邦机构及地方政府已经将其禁用。https://t.co/00QsdyhYdL
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%BB%A5%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7%E4%B8%BA%E7%94%B1%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E6%94%BF%E5%BA%9C%E7%B3%BB%E7%BB%9F%E5%92%8C%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BDAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BADeepSeek%E3%80%82%E8%BF%99%E5%B9%B6%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%92%88%E5%AF%B9DeepSeek%E4%B8%8B%E8%BE%BE%E7%A6%81%E4%BB%A4%E7%9A%84%E5%9B%BD%E5%AE%B6%EF%BC%8C%E6%AD%A4%E5%89%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%92%8C%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E8%81%94%E9%82%A6%E6%9C%BA%E6%9E%84%E5%8F%8A%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E5%B7%B2%E7%BB%8F%E5%B0%86%E5%85%B6%E7%A6%81%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2F00QsdyhYdL)
+##### Other Words/Names of Interest in the Above Tweet
+[担忧](担忧.md), [数据](数据.md), [机器人](机器人.md), [机构](机构.md), [澳大利亚](澳大利亚.md), [禁止](禁止.md), [系统](系统.md), [美国](美国.md), [聊天](聊天.md), [针对](针对.md)
+___
+##### 2025-02-05 06:48:02 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 近期，全球热议的中国大模型公司 DeepSeek 正在大规模招募人才。根据中国招聘平台信息，DeepSeek 已发布多个职位，员工薪酬采用“14薪”模式，大部分岗位起薪超过人民币2 万元（约 1.3 万令吉），不少高端职位年薪可达百万元级别。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%91%E6%9C%9F%EF%BC%8C%E5%85%A8%E7%90%83%E7%83%AD%E8%AE%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8+DeepSeek+%E6%AD%A3%E5%9C%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E5%8B%9F%E4%BA%BA%E6%89%8D%E3%80%82%E6%A0%B9%E6%8D%AE%E4%B8%AD%E5%9B%BD%E6%8B%9B%E8%81%98%E5%B9%B3%E5%8F%B0%E4%BF%A1%E6%81%AF%EF%BC%8CDeepSeek+%E5%B7%B2%E5%8F%91%E5%B8%83%E5%A4%9A%E4%B8%AA%E8%81%8C%E4%BD%8D%EF%BC%8C%E5%91%98%E5%B7%A5%E8%96%AA%E9%85%AC%E9%87%87%E7%94%A8%E2%80%9C14%E8%96%AA%E2%80%9D%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%A4%A7%E9%83%A8%E5%88%86%E5%B2%97%E4%BD%8D%E8%B5%B7%E8%96%AA%E8%B6%85%E8%BF%87%E4%BA%BA%E6%B0%91%E5%B8%812+%E4%B8%87%E5%85%83%EF%BC%88%E7%BA%A6+1.3+%E4%B8%87%E4%BB%A4%E5%90%89%EF%BC%89%EF%BC%8C%E4%B8%8D%E5%B0%91%E9%AB%98%E7%AB%AF%E8%81%8C%E4%BD%8D%E5%B9%B4%E8%96%AA%E5%8F%AF%E8%BE%BE%E7%99%BE%E4%B8%87%E5%85%83%E7%BA%A7%E5%88%AB%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [型](型.md), [平台](平台.md), [招](招.md), [招募](招募.md), [招聘](招聘.md), [根据](根据.md), [模型](模型.md), [模式](模式.md), [规模](规模.md), [超过](超过.md)
+___
 ##### 2025-02-05 06:46:32 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【阿斯麥CEO談DeepSeek：2030年AI贏家仍未知】在中國難以獲得最尖端晶片的環境下，DeepSeek依然開發出了低成本的生成式AI模型，令世人大為震驚。在AI發展面臨諸多課題的情況下，傅恪禮表示「一般來説，能夠降低成本的東西都是…
 

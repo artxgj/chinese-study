@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2025-06-26 09:45:07 UTC ~ karminski-牙医
+> RT @karminski3: 看到个特别有用的工具——LocalSend这个工具可以让你在本地网络上（同一个局域网）与任何设备分享文件和消息。目前支持 Win, MacOS, Linux, Android, iOS.地址：https://t.co/SZy3OGkcab…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%9C%8B%E5%88%B0%E4%B8%AA%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7%E2%80%94%E2%80%94LocalSend%E8%BF%99%E4%B8%AA%E5%B7%A5%E5%85%B7%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%BD%A0%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%BD%91%E7%BB%9C%E4%B8%8A%EF%BC%88%E5%90%8C%E4%B8%80%E4%B8%AA%E5%B1%80%E5%9F%9F%E7%BD%91%EF%BC%89%E4%B8%8E%E4%BB%BB%E4%BD%95%E8%AE%BE%E5%A4%87%E5%88%86%E4%BA%AB%E6%96%87%E4%BB%B6%E5%92%8C%E6%B6%88%E6%81%AF%E3%80%82%E7%9B%AE%E5%89%8D%E6%94%AF%E6%8C%81+Win%2C+MacOS%2C+Linux%2C+Android%2C+iOS.%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A%2F%2Ft.co%2FSZy3OGkcab%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Linux](Linux.md), [Mac](Mac.md), [工具](工具.md), [支持](支持.md), [文件](文件.md)
+___
+##### 2025-06-12 01:58:41 UTC ~ yetone
+> RT @yetone: 昨晚升级了 iOS，其实我觉得液态玻璃挺好看的🥹
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40yetone%3A+%E6%98%A8%E6%99%9A%E5%8D%87%E7%BA%A7%E4%BA%86+iOS%EF%BC%8C%E5%85%B6%E5%AE%9E%E6%88%91%E8%A7%89%E5%BE%97%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E6%8C%BA%E5%A5%BD%E7%9C%8B%E7%9A%84%F0%9F%A5%B9)
+##### Other Words/Names of Interest in the Above Tweet
+[升级](升级.md), [玻璃](玻璃.md)
+___
+##### 2025-06-11 17:41:06 UTC ~ Cyandev
+> RT @unixzii: #WWDC25 简单研究了一下 Liquid Glass 的实现，这个效果主要还是通过一系列私有 CALayer 的组合来实现的。这里 iOS 首次引入了 _UIMultiLayer 来隐藏一些底层的 sublayers，开发者通过 view.laye…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%23WWDC25+%E7%AE%80%E5%8D%95%E7%A0%94%E7%A9%B6%E4%BA%86%E4%B8%80%E4%B8%8B+Liquid+Glass+%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%95%88%E6%9E%9C%E4%B8%BB%E8%A6%81%E8%BF%98%E6%98%AF%E9%80%9A%E8%BF%87%E4%B8%80%E7%B3%BB%E5%88%97%E7%A7%81%E6%9C%89+CALayer+%E7%9A%84%E7%BB%84%E5%90%88%E6%9D%A5%E5%AE%9E%E7%8E%B0%E7%9A%84%E3%80%82%E8%BF%99%E9%87%8C+iOS+%E9%A6%96%E6%AC%A1%E5%BC%95%E5%85%A5%E4%BA%86+_UIMultiLayer+%E6%9D%A5%E9%9A%90%E8%97%8F%E4%B8%80%E4%BA%9B%E5%BA%95%E5%B1%82%E7%9A%84+sublayers%EF%BC%8C%E5%BC%80%E5%8F%91%E8%80%85%E9%80%9A%E8%BF%87+view.laye%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[实现](实现.md), [开发](开发.md), [系列](系列.md)
+___
+##### 2025-06-10 14:06:23 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #视频 你的iPhone系统即将改头换面。苹果公司iOS 26将推出“液态玻璃”(Liquid Glass)操作系统设计，这是多年来最大规模的一次视觉革新。《华尔街日报》科技作家Joanna Stern带你一览在苹果全球开发者大会(WWDC 20…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E4%BD%A0%E7%9A%84iPhone%E7%B3%BB%E7%BB%9F%E5%8D%B3%E5%B0%86%E6%94%B9%E5%A4%B4%E6%8D%A2%E9%9D%A2%E3%80%82%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8iOS+26%E5%B0%86%E6%8E%A8%E5%87%BA%E2%80%9C%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E2%80%9D%28Liquid+Glass%29%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%EF%BC%8C%E8%BF%99%E6%98%AF%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%9A%84%E4%B8%80%E6%AC%A1%E8%A7%86%E8%A7%89%E9%9D%A9%E6%96%B0%E3%80%82%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E7%A7%91%E6%8A%80%E4%BD%9C%E5%AE%B6Joanna+Stern%E5%B8%A6%E4%BD%A0%E4%B8%80%E8%A7%88%E5%9C%A8%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%28WWDC+20%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [开发](开发.md), [推出](推出.md), [操作](操作.md), [玻璃](玻璃.md), [科技](科技.md), [系统](系统.md), [苹果](苹果.md), [规模](规模.md), [设计](设计.md)
+___
+##### 2025-06-03 09:03:50 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苹果公司正在挑战欧盟委员会的一项命令，该命令具体规定了苹果公司需要如何根据《数字市场法》使其iOS操作系统与竞争对手科技公司的产品更具兼容性。https://t.co/bpOYH2X6ej
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E6%8C%91%E6%88%98%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A%E7%9A%84%E4%B8%80%E9%A1%B9%E5%91%BD%E4%BB%A4%EF%BC%8C%E8%AF%A5%E5%91%BD%E4%BB%A4%E5%85%B7%E4%BD%93%E8%A7%84%E5%AE%9A%E4%BA%86%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9C%80%E8%A6%81%E5%A6%82%E4%BD%95%E6%A0%B9%E6%8D%AE%E3%80%8A%E6%95%B0%E5%AD%97%E5%B8%82%E5%9C%BA%E6%B3%95%E3%80%8B%E4%BD%BF%E5%85%B6iOS%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E6%9B%B4%E5%85%B7%E5%85%BC%E5%AE%B9%E6%80%A7%E3%80%82https%3A%2F%2Ft.co%2FbpOYH2X6ej)
+##### Other Words/Names of Interest in the Above Tweet
+[委员会](委员会.md), [挑战](挑战.md), [操作](操作.md), [根据](根据.md), [科技](科技.md), [竞争](竞争.md), [系统](系统.md), [苹果](苹果.md)
+___
 ##### 2025-05-16 12:45:31 UTC ~ Baye
 > RT @waylybaye: iOS App Store 的审核速度慢了好多，刷了下国内社交网络，原来是 AI 引发了大量非 iOS 程序员做 App 的淘金热，甚至非程序员也用 AI 搞 App 了。每个人每个月能用 AI 做好几个 App ……
 

@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2025-06-26 08:58:42 UTC ~ orange.ai
+> RT @oran_ge: Google 杀疯了，放出对标 Claude Code 和 Cursor 的 Gemini CLI不要100美金，直接免费提供。不仅免费，而且开源，一发布瞬间 3k Star！每天1000次调用以内都免费，非常之离谱。不管具体水平怎么说，先试试…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Google+%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%8C%E6%94%BE%E5%87%BA%E5%AF%B9%E6%A0%87+Claude+Code+%E5%92%8C+Cursor+%E7%9A%84+Gemini+CLI%E4%B8%8D%E8%A6%81100%E7%BE%8E%E9%87%91%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E3%80%82%E4%B8%8D%E4%BB%85%E5%85%8D%E8%B4%B9%EF%BC%8C%E8%80%8C%E4%B8%94%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B8%80%E5%8F%91%E5%B8%83%E7%9E%AC%E9%97%B4+3k+Star%EF%BC%81%E6%AF%8F%E5%A4%A91000%E6%AC%A1%E8%B0%83%E7%94%A8%E4%BB%A5%E5%86%85%E9%83%BD%E5%85%8D%E8%B4%B9%EF%BC%8C%E9%9D%9E%E5%B8%B8%E4%B9%8B%E7%A6%BB%E8%B0%B1%E3%80%82%E4%B8%8D%E7%AE%A1%E5%85%B7%E4%BD%93%E6%B0%B4%E5%B9%B3%E6%80%8E%E4%B9%88%E8%AF%B4%EF%BC%8C%E5%85%88%E8%AF%95%E8%AF%95%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemini](Gemini.md), [不仅](不仅.md), [发布](发布.md), [开源](开源.md), [提供](提供.md), [水平](水平.md), [直接](直接.md), [瞬间](瞬间.md)
+___
+##### 2025-06-07 03:54:43 UTC ~ karminski-牙医
+> RT @karminski3: 看到个写得非常好的 Claude Code 的架构解析。想要制作类似命令行 Coding Agent 工具或者魔改的同学可以深入看看。尤其是 控制流与编排引擎 和 工具和执行引擎 这两章建议重点看，做其它 Agent 工具也很有参考价值。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%9C%8B%E5%88%B0%E4%B8%AA%E5%86%99%E5%BE%97%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%9A%84+Claude+Code+%E7%9A%84%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90%E3%80%82%E6%83%B3%E8%A6%81%E5%88%B6%E4%BD%9C%E7%B1%BB%E4%BC%BC%E5%91%BD%E4%BB%A4%E8%A1%8C+Coding+Agent+%E5%B7%A5%E5%85%B7%E6%88%96%E8%80%85%E9%AD%94%E6%94%B9%E7%9A%84%E5%90%8C%E5%AD%A6%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%85%A5%E7%9C%8B%E7%9C%8B%E3%80%82%E5%B0%A4%E5%85%B6%E6%98%AF+%E6%8E%A7%E5%88%B6%E6%B5%81%E4%B8%8E%E7%BC%96%E6%8E%92%E5%BC%95%E6%93%8E+%E5%92%8C+%E5%B7%A5%E5%85%B7%E5%92%8C%E6%89%A7%E8%A1%8C%E5%BC%95%E6%93%8E+%E8%BF%99%E4%B8%A4%E7%AB%A0%E5%BB%BA%E8%AE%AE%E9%87%8D%E7%82%B9%E7%9C%8B%EF%BC%8C%E5%81%9A%E5%85%B6%E5%AE%83+Agent+%E5%B7%A5%E5%85%B7%E4%B9%9F%E5%BE%88%E6%9C%89%E5%8F%82%E8%80%83%E4%BB%B7%E5%80%BC%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[参考](参考.md), [工具](工具.md), [引擎](引擎.md), [执行](执行.md), [控制](控制.md)
+___
 ##### 2025-05-28 15:29:41 UTC ~ karminski-牙医
 > RT @karminski3: 我睡醒了老铁们，开始测试了，直接果断冲 40 刀，顺便把 Claude-4 偷懒没弄的也补上。其他的用 OpenRouter API 测，DeepSeek-R1-0528 用官网 API 测。幸好我这个时间起来，晚上用DeepSeek 应该不会超…
 

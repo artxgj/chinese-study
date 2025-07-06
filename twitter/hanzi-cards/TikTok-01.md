@@ -8,6 +8,69 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-03-24 06:50:55 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国短视频平台抖音的海外版TikTok首席执行官周受资出席美国众议院能源和商务委员会的听证会，面对美国两大党议员就安全问题所发的疑问。https://t.co/rW2VoEFdW7
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E6%8A%96%E9%9F%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E7%89%88TikTok%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%91%A8%E5%8F%97%E8%B5%84%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E8%83%BD%E6%BA%90%E5%92%8C%E5%95%86%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E7%9A%84%E5%90%AC%E8%AF%81%E4%BC%9A%EF%BC%8C%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%A4%A7%E5%85%9A%E8%AE%AE%E5%91%98%E5%B0%B1%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98%E6%89%80%E5%8F%91%E7%9A%84%E7%96%91%E9%97%AE%E3%80%82https%3A%2F%2Ft.co%2FrW2VoEFdW7)
+##### Other Words/Names of Interest in the Above Tweet
+[众议院](众议院.md), [周受资](周受资.md), [委员会](委员会.md), [平台](平台.md), [执行](执行.md), [美国](美国.md), [能源](能源.md), [首席执行官](首席执行官.md)
+___
+##### 2023-03-24 06:50:32 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国众议院能源和商务委员会对中国短视频平台抖音的海外版TikTok总裁周受资的证词，表示高度怀疑，指责TikTok危害美国国家安全，对儿童和青少年的心理健康有害，甚至导致一些年轻人的死亡。https://t.co/r4d6is7NPw
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E8%83%BD%E6%BA%90%E5%92%8C%E5%95%86%E5%8A%A1%E5%A7%94%E5%91%98%E4%BC%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E6%8A%96%E9%9F%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E7%89%88TikTok%E6%80%BB%E8%A3%81%E5%91%A8%E5%8F%97%E8%B5%84%E7%9A%84%E8%AF%81%E8%AF%8D%EF%BC%8C%E8%A1%A8%E7%A4%BA%E9%AB%98%E5%BA%A6%E6%80%80%E7%96%91%EF%BC%8C%E6%8C%87%E8%B4%A3TikTok%E5%8D%B1%E5%AE%B3%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%EF%BC%8C%E5%AF%B9%E5%84%BF%E7%AB%A5%E5%92%8C%E9%9D%92%E5%B0%91%E5%B9%B4%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%9C%89%E5%AE%B3%EF%BC%8C%E7%94%9A%E8%87%B3%E5%AF%BC%E8%87%B4%E4%B8%80%E4%BA%9B%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%AD%BB%E4%BA%A1%E3%80%82https%3A%2F%2Ft.co%2Fr4d6is7NPw)
+##### Other Words/Names of Interest in the Above Tweet
+[众议院](众议院.md), [周受资](周受资.md), [委员会](委员会.md), [导致](导致.md), [平台](平台.md), [指责](指责.md), [美国](美国.md), [能源](能源.md)
+___
+##### 2023-03-24 06:42:53 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【TikTok CEO在美国国会听证会接受质询】TikTok CEO 周受资出席美国国会的听证会，否认向中国提供信息，并反驳了禁止和出售TikTok的方案。出席听证会的议员一度施加压力说：“如果做虚假发言，将被问罪”，周受资回答说：“我明…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok+CEO%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%90%AC%E8%AF%81%E4%BC%9A%E6%8E%A5%E5%8F%97%E8%B4%A8%E8%AF%A2%E3%80%91TikTok+CEO+%E5%91%A8%E5%8F%97%E8%B5%84%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E7%9A%84%E5%90%AC%E8%AF%81%E4%BC%9A%EF%BC%8C%E5%90%A6%E8%AE%A4%E5%90%91%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%B9%B6%E5%8F%8D%E9%A9%B3%E4%BA%86%E7%A6%81%E6%AD%A2%E5%92%8C%E5%87%BA%E5%94%AETikTok%E7%9A%84%E6%96%B9%E6%A1%88%E3%80%82%E5%87%BA%E5%B8%AD%E5%90%AC%E8%AF%81%E4%BC%9A%E7%9A%84%E8%AE%AE%E5%91%98%E4%B8%80%E5%BA%A6%E6%96%BD%E5%8A%A0%E5%8E%8B%E5%8A%9B%E8%AF%B4%EF%BC%9A%E2%80%9C%E5%A6%82%E6%9E%9C%E5%81%9A%E8%99%9A%E5%81%87%E5%8F%91%E8%A8%80%EF%BC%8C%E5%B0%86%E8%A2%AB%E9%97%AE%E7%BD%AA%E2%80%9D%EF%BC%8C%E5%91%A8%E5%8F%97%E8%B5%84%E5%9B%9E%E7%AD%94%E8%AF%B4%EF%BC%9A%E2%80%9C%E6%88%91%E6%98%8E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[出售](出售.md), [压力](压力.md), [否认](否认.md), [周受资](周受资.md), [提供](提供.md), [方案](方案.md), [禁止](禁止.md), [美国](美国.md)
+___
+##### 2023-03-24 06:41:05 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 中国表示，针对美国强制要求出售TikTok，中方将坚决反对。这是中国首次对拜登政府相关要求作出直接回应。中国商务部表示，出售或者剥离TikTok涉及技术出口问题，必须按照中国的法律法规履行行政许可程序，并得到中国政府的批准。https://t…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%AD%E5%9B%BD%E8%A1%A8%E7%A4%BA%EF%BC%8C%E9%92%88%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%BC%BA%E5%88%B6%E8%A6%81%E6%B1%82%E5%87%BA%E5%94%AETikTok%EF%BC%8C%E4%B8%AD%E6%96%B9%E5%B0%86%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E3%80%82%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AF%B9%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%9B%B8%E5%85%B3%E8%A6%81%E6%B1%82%E4%BD%9C%E5%87%BA%E7%9B%B4%E6%8E%A5%E5%9B%9E%E5%BA%94%E3%80%82%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%87%BA%E5%94%AE%E6%88%96%E8%80%85%E5%89%A5%E7%A6%BBTikTok%E6%B6%89%E5%8F%8A%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3%E9%97%AE%E9%A2%98%EF%BC%8C%E5%BF%85%E9%A1%BB%E6%8C%89%E7%85%A7%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%B1%A5%E8%A1%8C%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E5%B9%B6%E5%BE%97%E5%88%B0%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E6%89%B9%E5%87%86%E3%80%82https%3A%2F%2Ft%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[出售](出售.md), [批准](批准.md), [技术](技术.md), [按照](按照.md), [直接](直接.md), [相关](相关.md), [程序](程序.md), [美国](美国.md), [针对](针对.md)
+___
+##### 2023-03-24 06:37:35 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #视频 周四，TikTok公司CEO周受资出席美国国会听证会，就数据及隐私安全和中国政府对该公司的潜在影响等问题作证。https://t.co/enBw0h811X
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E5%91%A8%E5%9B%9B%EF%BC%8CTikTok%E5%85%AC%E5%8F%B8CEO%E5%91%A8%E5%8F%97%E8%B5%84%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%90%AC%E8%AF%81%E4%BC%9A%EF%BC%8C%E5%B0%B1%E6%95%B0%E6%8D%AE%E5%8F%8A%E9%9A%90%E7%A7%81%E5%AE%89%E5%85%A8%E5%92%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AF%B9%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E6%BD%9C%E5%9C%A8%E5%BD%B1%E5%93%8D%E7%AD%89%E9%97%AE%E9%A2%98%E4%BD%9C%E8%AF%81%E3%80%82https%3A%2F%2Ft.co%2FenBw0h811X)
+##### Other Words/Names of Interest in the Above Tweet
+[周受资](周受资.md), [影响](影响.md), [数据](数据.md), [潜在](潜在.md), [美国](美国.md), [隐私](隐私.md)
+___
+##### 2023-03-23 04:49:49 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 知情人士透露，在一些公司开始为其广告支出制定应急计划之际，TikTok在最近几天试图安抚广告客户，称该应用不太可能在美国被禁。https://t.co/b6whQqmAAB
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E5%9C%A8%E4%B8%80%E4%BA%9B%E5%85%AC%E5%8F%B8%E5%BC%80%E5%A7%8B%E4%B8%BA%E5%85%B6%E5%B9%BF%E5%91%8A%E6%94%AF%E5%87%BA%E5%88%B6%E5%AE%9A%E5%BA%94%E6%80%A5%E8%AE%A1%E5%88%92%E4%B9%8B%E9%99%85%EF%BC%8CTikTok%E5%9C%A8%E6%9C%80%E8%BF%91%E5%87%A0%E5%A4%A9%E8%AF%95%E5%9B%BE%E5%AE%89%E6%8A%9A%E5%B9%BF%E5%91%8A%E5%AE%A2%E6%88%B7%EF%BC%8C%E7%A7%B0%E8%AF%A5%E5%BA%94%E7%94%A8%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%A2%AB%E7%A6%81%E3%80%82https%3A%2F%2Ft.co%2Fb6whQqmAAB)
+##### Other Words/Names of Interest in the Above Tweet
+[客户](客户.md), [支出](支出.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [计划](计划.md), [试图](试图.md), [透露](透露.md)
+___
+##### 2023-03-23 04:24:26 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 周受资将承诺把确保TikTok的安全、特别是对青少年而言的安全作为首要任务，他还将承诺为美国用户数据设置防火墙，阻止来自外国的访问，并保持该平台不受外国政府干预。https://t.co/KYYmg59Wv4
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%91%A8%E5%8F%97%E8%B5%84%E5%B0%86%E6%89%BF%E8%AF%BA%E6%8A%8A%E7%A1%AE%E4%BF%9DTikTok%E7%9A%84%E5%AE%89%E5%85%A8%E3%80%81%E7%89%B9%E5%88%AB%E6%98%AF%E5%AF%B9%E9%9D%92%E5%B0%91%E5%B9%B4%E8%80%8C%E8%A8%80%E7%9A%84%E5%AE%89%E5%85%A8%E4%BD%9C%E4%B8%BA%E9%A6%96%E8%A6%81%E4%BB%BB%E5%8A%A1%EF%BC%8C%E4%BB%96%E8%BF%98%E5%B0%86%E6%89%BF%E8%AF%BA%E4%B8%BA%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E8%AE%BE%E7%BD%AE%E9%98%B2%E7%81%AB%E5%A2%99%EF%BC%8C%E9%98%BB%E6%AD%A2%E6%9D%A5%E8%87%AA%E5%A4%96%E5%9B%BD%E7%9A%84%E8%AE%BF%E9%97%AE%EF%BC%8C%E5%B9%B6%E4%BF%9D%E6%8C%81%E8%AF%A5%E5%B9%B3%E5%8F%B0%E4%B8%8D%E5%8F%97%E5%A4%96%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B9%B2%E9%A2%84%E3%80%82https%3A%2F%2Ft.co%2FKYYmg59Wv4)
+##### Other Words/Names of Interest in the Above Tweet
+[周受资](周受资.md), [干预](干预.md), [平台](平台.md), [数据](数据.md), [来自](来自.md), [确保](确保.md), [美国](美国.md), [阻止](阻止.md)
+___
+##### 2023-03-22 07:06:30 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 根据网络安全公司的一份新报告，30个美国州政府网站含有TikTok母公司字节跳动制作的网络追踪代码，这显示出美国监管机构在遏制这款中国拥有的应用程序收集数据方面所面临的困难。https://t.co/iROLdq4GkS
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%A0%B9%E6%8D%AE%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%85%AC%E5%8F%B8%E7%9A%84%E4%B8%80%E4%BB%BD%E6%96%B0%E6%8A%A5%E5%91%8A%EF%BC%8C30%E4%B8%AA%E7%BE%8E%E5%9B%BD%E5%B7%9E%E6%94%BF%E5%BA%9C%E7%BD%91%E7%AB%99%E5%90%AB%E6%9C%89TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%88%B6%E4%BD%9C%E7%9A%84%E7%BD%91%E7%BB%9C%E8%BF%BD%E8%B8%AA%E4%BB%A3%E7%A0%81%EF%BC%8C%E8%BF%99%E6%98%BE%E7%A4%BA%E5%87%BA%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%9C%A8%E9%81%8F%E5%88%B6%E8%BF%99%E6%AC%BE%E4%B8%AD%E5%9B%BD%E6%8B%A5%E6%9C%89%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%94%B6%E9%9B%86%E6%95%B0%E6%8D%AE%E6%96%B9%E9%9D%A2%E6%89%80%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%9B%B0%E9%9A%BE%E3%80%82https%3A%2F%2Ft.co%2FiROLdq4GkS)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [字节跳动](字节跳动.md), [收集](收集.md), [数据](数据.md), [显示](显示.md), [机构](机构.md), [根据](根据.md), [监管](监管.md), [程序](程序.md), [美国](美国.md), [遏制](遏制.md), [面临](面临.md)
+___
+##### 2023-03-22 07:00:46 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【TikTok称美国用户达1.5亿人，牵制禁令】运营公司CEO周受资在TikTok的视频中表示，TikTok在美国的员工人数达到约7000人，以中小企业为中心，美国有500万家企业使用 。分析认为此番意在表态服务停用后将产生巨大影响，以阻…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E8%BE%BE1.5%E4%BA%BF%E4%BA%BA%EF%BC%8C%E7%89%B5%E5%88%B6%E7%A6%81%E4%BB%A4%E3%80%91%E8%BF%90%E8%90%A5%E5%85%AC%E5%8F%B8CEO%E5%91%A8%E5%8F%97%E8%B5%84%E5%9C%A8TikTok%E7%9A%84%E8%A7%86%E9%A2%91%E4%B8%AD%E8%A1%A8%E7%A4%BA%EF%BC%8CTikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%91%98%E5%B7%A5%E4%BA%BA%E6%95%B0%E8%BE%BE%E5%88%B0%E7%BA%A67000%E4%BA%BA%EF%BC%8C%E4%BB%A5%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E4%B8%BA%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%9C%89500%E4%B8%87%E5%AE%B6%E4%BC%81%E4%B8%9A%E4%BD%BF%E7%94%A8+%E3%80%82%E5%88%86%E6%9E%90%E8%AE%A4%E4%B8%BA%E6%AD%A4%E7%95%AA%E6%84%8F%E5%9C%A8%E8%A1%A8%E6%80%81%E6%9C%8D%E5%8A%A1%E5%81%9C%E7%94%A8%E5%90%8E%E5%B0%86%E4%BA%A7%E7%94%9F%E5%B7%A8%E5%A4%A7%E5%BD%B1%E5%93%8D%EF%BC%8C%E4%BB%A5%E9%98%BB%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [周受资](周受资.md), [影响](影响.md), [美国](美国.md)
+___
 ##### 2023-03-22 07:00:16 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: TikTok的姐妹软件CapCut让人们能够使用各种模板、滤镜、视觉效果和音乐轻松编辑视频。用户表示，这有助于他们制作看起来更专业的视频片段，并有更好的机会在TikTok和其他平台（如Instagram和YouTube）上传播开来。https:…
 

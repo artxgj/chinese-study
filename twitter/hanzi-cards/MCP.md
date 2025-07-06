@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2025-07-01 03:33:44 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 发现了一个能让 AI 拥有持久记忆的 MCP 服务器：MCP Knowledge Graph。通过知识图谱结构存储实体、关系和观察信息，让 AI 能够跨聊天记住我们的信息，巧妙地给 AI 助手添加 “大脑记忆”。GitHub：http…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E8%83%BD%E8%AE%A9+AI+%E6%8B%A5%E6%9C%89%E6%8C%81%E4%B9%85%E8%AE%B0%E5%BF%86%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AMCP+Knowledge+Graph%E3%80%82%E9%80%9A%E8%BF%87%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%BB%93%E6%9E%84%E5%AD%98%E5%82%A8%E5%AE%9E%E4%BD%93%E3%80%81%E5%85%B3%E7%B3%BB%E5%92%8C%E8%A7%82%E5%AF%9F%E4%BF%A1%E6%81%AF%EF%BC%8C%E8%AE%A9+AI+%E8%83%BD%E5%A4%9F%E8%B7%A8%E8%81%8A%E5%A4%A9%E8%AE%B0%E4%BD%8F%E6%88%91%E4%BB%AC%E7%9A%84%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%B7%A7%E5%A6%99%E5%9C%B0%E7%BB%99+AI+%E5%8A%A9%E6%89%8B%E6%B7%BB%E5%8A%A0+%E2%80%9C%E5%A4%A7%E8%84%91%E8%AE%B0%E5%BF%86%E2%80%9D%E3%80%82GitHub%EF%BC%9Ahttp%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[存储](存储.md), [聊天](聊天.md), [观察](观察.md)
+___
+##### 2025-06-11 00:23:35 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 又发现一个强大的 MCP 服务器：Vibetest Use，一键启动多个 Agent 对网站全面自动化测试。底层使用的是 Browser-Use 自动化智能体，最多可支持 10 个 Agent 同时测试网站，自动发现 UI Bug、失效的…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%8F%88%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AVibetest+Use%EF%BC%8C%E4%B8%80%E9%94%AE%E5%90%AF%E5%8A%A8%E5%A4%9A%E4%B8%AA+Agent+%E5%AF%B9%E7%BD%91%E7%AB%99%E5%85%A8%E9%9D%A2%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E3%80%82%E5%BA%95%E5%B1%82%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AF+Browser-Use+%E8%87%AA%E5%8A%A8%E5%8C%96%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E6%9C%80%E5%A4%9A%E5%8F%AF%E6%94%AF%E6%8C%81+10+%E4%B8%AA+Agent+%E5%90%8C%E6%97%B6%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0+UI+Bug%E3%80%81%E5%A4%B1%E6%95%88%E7%9A%84%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[启动](启动.md), [支持](支持.md), [自动化](自动化.md)
+___
 ##### 2025-05-26 06:56:12 UTC ~ karminski-牙医
 > RT @karminski3: 看到个 go 写的操作文件系统的 MCP Server——mcp-filesystem-server通过这个MCP就可以操作本地文件系统了，由于这个是go编写的，go能交叉编译的架构特别多，所以理论上大部分系统都能运行这个MCP Server…
 

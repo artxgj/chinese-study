@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/RAG) for definition
 ### Tweets containing RAG
 
 ___
+##### 2025-06-19 16:15:12 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 跟大家分享 GitHub 上一个结合 GraphRAG 与 DeepSearch 的智能问答系统框架：Graph RAG Agent。该系统框架不仅能回答问题，还能完整展示每一步的思考轨迹和证据来源，让 AI 的推理过程变得可见可信。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E8%B7%9F%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB+GitHub+%E4%B8%8A%E4%B8%80%E4%B8%AA%E7%BB%93%E5%90%88+GraphRAG+%E4%B8%8E+DeepSearch+%E7%9A%84%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B6%EF%BC%9AGraph+RAG+Agent%E3%80%82%E8%AF%A5%E7%B3%BB%E7%BB%9F%E6%A1%86%E6%9E%B6%E4%B8%8D%E4%BB%85%E8%83%BD%E5%9B%9E%E7%AD%94%E9%97%AE%E9%A2%98%EF%BC%8C%E8%BF%98%E8%83%BD%E5%AE%8C%E6%95%B4%E5%B1%95%E7%A4%BA%E6%AF%8F%E4%B8%80%E6%AD%A5%E7%9A%84%E6%80%9D%E8%80%83%E8%BD%A8%E8%BF%B9%E5%92%8C%E8%AF%81%E6%8D%AE%E6%9D%A5%E6%BA%90%EF%BC%8C%E8%AE%A9+AI+%E7%9A%84%E6%8E%A8%E7%90%86%E8%BF%87%E7%A8%8B%E5%8F%98%E5%BE%97%E5%8F%AF%E8%A7%81%E5%8F%AF%E4%BF%A1%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [推理](推理.md), [系统](系统.md), [证据](证据.md)
+___
 ##### 2025-04-14 00:57:59 UTC ~ karminski-牙医
 > RT @karminski3: 想在 iPhone 上运行大模型吗？来看看这个——LLMFarm  这个 app 可以运行在 苹果全家桶上，无论是 iOS 还是 MacOS。并且支持RAG。由于它其实是 llama.cpp 的魔改，所以几乎支持所有设备能装得下的模型。地…
 

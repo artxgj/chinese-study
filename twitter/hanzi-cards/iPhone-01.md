@@ -8,6 +8,69 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2023-09-13 12:07:47 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 法国国家频率管理局星期二（9月12日）发布公告称，检测结果显示苹果iPhone12手机的电磁波辐射值超出欧盟标准，已要求苹果公司自当日起从法国市场暂时下架这款手机。  https://t.co/g5GjdGU3ZM
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B3%95%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%A2%91%E7%8E%87%E7%AE%A1%E7%90%86%E5%B1%80%E6%98%9F%E6%9C%9F%E4%BA%8C%EF%BC%889%E6%9C%8812%E6%97%A5%EF%BC%89%E5%8F%91%E5%B8%83%E5%85%AC%E5%91%8A%E7%A7%B0%EF%BC%8C%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C%E6%98%BE%E7%A4%BA%E8%8B%B9%E6%9E%9CiPhone12%E6%89%8B%E6%9C%BA%E7%9A%84%E7%94%B5%E7%A3%81%E6%B3%A2%E8%BE%90%E5%B0%84%E5%80%BC%E8%B6%85%E5%87%BA%E6%AC%A7%E7%9B%9F%E6%A0%87%E5%87%86%EF%BC%8C%E5%B7%B2%E8%A6%81%E6%B1%82%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%87%AA%E5%BD%93%E6%97%A5%E8%B5%B7%E4%BB%8E%E6%B3%95%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%9A%82%E6%97%B6%E4%B8%8B%E6%9E%B6%E8%BF%99%E6%AC%BE%E6%89%8B%E6%9C%BA%E3%80%82++https%3A%2F%2Ft.co%2Fg5GjdGU3ZM)
+##### Other Words/Names of Interest in the Above Tweet
+[下架](下架.md), [发布](发布.md), [显示](显示.md), [检测](检测.md), [法国](法国.md), [电磁](电磁.md), [苹果](苹果.md)
+___
+##### 2023-09-13 12:04:59 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【财经最热NOW】9月13日｜iPhone 15系列来了！惟市场人士忧心，新意不足和中国公仆禁用打击销量。今日其他重点财经新闻是政府明年落实资本利得税，市场反弹，以及美国指控谷歌年付467亿维持垄断地位。【行家论股】今日分享的3个…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E8%B4%A2%E7%BB%8F%E6%9C%80%E7%83%ADNOW%E3%80%919%E6%9C%8813%E6%97%A5%EF%BD%9CiPhone+15%E7%B3%BB%E5%88%97%E6%9D%A5%E4%BA%86%EF%BC%81%E6%83%9F%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%BF%A7%E5%BF%83%EF%BC%8C%E6%96%B0%E6%84%8F%E4%B8%8D%E8%B6%B3%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%85%AC%E4%BB%86%E7%A6%81%E7%94%A8%E6%89%93%E5%87%BB%E9%94%80%E9%87%8F%E3%80%82%E4%BB%8A%E6%97%A5%E5%85%B6%E4%BB%96%E9%87%8D%E7%82%B9%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E6%98%AF%E6%94%BF%E5%BA%9C%E6%98%8E%E5%B9%B4%E8%90%BD%E5%AE%9E%E8%B5%84%E6%9C%AC%E5%88%A9%E5%BE%97%E7%A8%8E%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%8F%8D%E5%BC%B9%EF%BC%8C%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E6%8C%87%E6%8E%A7%E8%B0%B7%E6%AD%8C%E5%B9%B4%E4%BB%98467%E4%BA%BF%E7%BB%B4%E6%8C%81%E5%9E%84%E6%96%AD%E5%9C%B0%E4%BD%8D%E3%80%82%E3%80%90%E8%A1%8C%E5%AE%B6%E8%AE%BA%E8%82%A1%E3%80%91%E4%BB%8A%E6%97%A5%E5%88%86%E4%BA%AB%E7%9A%843%E4%B8%AA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[反弹](反弹.md), [垄断](垄断.md), [打击](打击.md), [指控](指控.md), [税](税.md), [系列](系列.md), [维持](维持.md), [美国](美国.md), [谷歌](谷歌.md), [销量](销量.md)
+___
+##### 2023-09-13 12:00:31 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 早前有媒体报道称，#中国 当局将转向限制敏感部门和国企使用苹果公司的产品后，中国政府对该话题首次发表回应。中国外交部发言人毛宁指出，注意到与苹果手机 #iPhone 有关的安全事件报道，同时表示没有出台禁止购买的法律法规和政策文件。#appl…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%97%A9%E5%89%8D%E6%9C%89%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%23%E4%B8%AD%E5%9B%BD+%E5%BD%93%E5%B1%80%E5%B0%86%E8%BD%AC%E5%90%91%E9%99%90%E5%88%B6%E6%95%8F%E6%84%9F%E9%83%A8%E9%97%A8%E5%92%8C%E5%9B%BD%E4%BC%81%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%A7%E5%93%81%E5%90%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AF%B9%E8%AF%A5%E8%AF%9D%E9%A2%98%E9%A6%96%E6%AC%A1%E5%8F%91%E8%A1%A8%E5%9B%9E%E5%BA%94%E3%80%82%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E4%BA%BA%E6%AF%9B%E5%AE%81%E6%8C%87%E5%87%BA%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%88%B0%E4%B8%8E%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA+%23iPhone+%E6%9C%89%E5%85%B3%E7%9A%84%E5%AE%89%E5%85%A8%E4%BA%8B%E4%BB%B6%E6%8A%A5%E9%81%93%EF%BC%8C%E5%90%8C%E6%97%B6%E8%A1%A8%E7%A4%BA%E6%B2%A1%E6%9C%89%E5%87%BA%E5%8F%B0%E7%A6%81%E6%AD%A2%E8%B4%AD%E4%B9%B0%E7%9A%84%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%92%8C%E6%94%BF%E7%AD%96%E6%96%87%E4%BB%B6%E3%80%82%23appl%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[指出](指出.md), [政策](政策.md), [敏感](敏感.md), [文件](文件.md), [禁止](禁止.md), [苹果](苹果.md), [购买](购买.md), [限制](限制.md)
+___
+##### 2023-09-13 06:22:43 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苹果公司周二推出iPhone 15最新机型，却被许多媒体评为缺乏亮点，股价应声下挫。究竟中国的最新禁令，以及消费市场的疲软，会否对苹果的未来发展产生影响？https://t.co/eyJOSHlkxM https://t.co/RFUr4m4…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%91%A8%E4%BA%8C%E6%8E%A8%E5%87%BAiPhone+15%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9E%8B%EF%BC%8C%E5%8D%B4%E8%A2%AB%E8%AE%B8%E5%A4%9A%E5%AA%92%E4%BD%93%E8%AF%84%E4%B8%BA%E7%BC%BA%E4%B9%8F%E4%BA%AE%E7%82%B9%EF%BC%8C%E8%82%A1%E4%BB%B7%E5%BA%94%E5%A3%B0%E4%B8%8B%E6%8C%AB%E3%80%82%E7%A9%B6%E7%AB%9F%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%80%E6%96%B0%E7%A6%81%E4%BB%A4%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E7%9A%84%E7%96%B2%E8%BD%AF%EF%BC%8C%E4%BC%9A%E5%90%A6%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E4%BA%A7%E7%94%9F%E5%BD%B1%E5%93%8D%EF%BC%9Fhttps%3A%2F%2Ft.co%2FeyJOSHlkxM+https%3A%2F%2Ft.co%2FRFUr4m4%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [影响](影响.md), [推出](推出.md), [苹果](苹果.md)
+___
+##### 2023-09-13 04:50:00 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【iPhone15发布掀不起市场热情的背后】苹果12日发布了iPhone15系列。但随着发布会进行，苹果股价的跌幅也逐渐扩大，收盘价下跌 1.7%。股市缺乏热情的背后，除了对新机型功能提升步伐放缓和在中国的销量下滑的警惕外，可能还有对当前…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone15%E5%8F%91%E5%B8%83%E6%8E%80%E4%B8%8D%E8%B5%B7%E5%B8%82%E5%9C%BA%E7%83%AD%E6%83%85%E7%9A%84%E8%83%8C%E5%90%8E%E3%80%91%E8%8B%B9%E6%9E%9C12%E6%97%A5%E5%8F%91%E5%B8%83%E4%BA%86iPhone15%E7%B3%BB%E5%88%97%E3%80%82%E4%BD%86%E9%9A%8F%E7%9D%80%E5%8F%91%E5%B8%83%E4%BC%9A%E8%BF%9B%E8%A1%8C%EF%BC%8C%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E7%9A%84%E8%B7%8C%E5%B9%85%E4%B9%9F%E9%80%90%E6%B8%90%E6%89%A9%E5%A4%A7%EF%BC%8C%E6%94%B6%E7%9B%98%E4%BB%B7%E4%B8%8B%E8%B7%8C+1.7%25%E3%80%82%E8%82%A1%E5%B8%82%E7%BC%BA%E4%B9%8F%E7%83%AD%E6%83%85%E7%9A%84%E8%83%8C%E5%90%8E%EF%BC%8C%E9%99%A4%E4%BA%86%E5%AF%B9%E6%96%B0%E6%9C%BA%E5%9E%8B%E5%8A%9F%E8%83%BD%E6%8F%90%E5%8D%87%E6%AD%A5%E4%BC%90%E6%94%BE%E7%BC%93%E5%92%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%94%80%E9%87%8F%E4%B8%8B%E6%BB%91%E7%9A%84%E8%AD%A6%E6%83%95%E5%A4%96%EF%BC%8C%E5%8F%AF%E8%83%BD%E8%BF%98%E6%9C%89%E5%AF%B9%E5%BD%93%E5%89%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[下滑](下滑.md), [下跌](下跌.md), [发布](发布.md), [型](型.md), [扩大](扩大.md), [收盘](收盘.md), [放缓](放缓.md), [系列](系列.md), [苹果](苹果.md), [跌幅](跌幅.md), [进行](进行.md), [逐渐](逐渐.md), [销量](销量.md), [除了](除了.md), [随着](随着.md)
+___
+##### 2023-09-13 03:42:17 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 法国辐射监管机构12日以电磁波过强为由，要求苹果公司停售iPhone 12，并调整现有手机释放的电磁波。https://t.co/mCshY040sd https://t.co/4oOzn3Fd93
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%B3%95%E5%9B%BD%E8%BE%90%E5%B0%84%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%8412%E6%97%A5%E4%BB%A5%E7%94%B5%E7%A3%81%E6%B3%A2%E8%BF%87%E5%BC%BA%E4%B8%BA%E7%94%B1%EF%BC%8C%E8%A6%81%E6%B1%82%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%81%9C%E5%94%AEiPhone+12%EF%BC%8C%E5%B9%B6%E8%B0%83%E6%95%B4%E7%8E%B0%E6%9C%89%E6%89%8B%E6%9C%BA%E9%87%8A%E6%94%BE%E7%9A%84%E7%94%B5%E7%A3%81%E6%B3%A2%E3%80%82https%3A%2F%2Ft.co%2FmCshY040sd+https%3A%2F%2Ft.co%2F4oOzn3Fd93)
+##### Other Words/Names of Interest in the Above Tweet
+[机构](机构.md), [法国](法国.md), [电磁](电磁.md), [监管](监管.md), [苹果](苹果.md)
+___
+##### 2023-09-13 03:41:48 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #视频 当然，新款iPhone的设计和摄像头都有所改进，但苹果公司新一代机型的端口从Lightning改为USB-C才是对消费者影响最大的改变。《华尔街日报》科技专栏作家Joanna Stern带来了她的第一手解读。 https://t.co/g…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E5%BD%93%E7%84%B6%EF%BC%8C%E6%96%B0%E6%AC%BEiPhone%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%92%8C%E6%91%84%E5%83%8F%E5%A4%B4%E9%83%BD%E6%9C%89%E6%89%80%E6%94%B9%E8%BF%9B%EF%BC%8C%E4%BD%86%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%96%B0%E4%B8%80%E4%BB%A3%E6%9C%BA%E5%9E%8B%E7%9A%84%E7%AB%AF%E5%8F%A3%E4%BB%8ELightning%E6%94%B9%E4%B8%BAUSB-C%E6%89%8D%E6%98%AF%E5%AF%B9%E6%B6%88%E8%B4%B9%E8%80%85%E5%BD%B1%E5%93%8D%E6%9C%80%E5%A4%A7%E7%9A%84%E6%94%B9%E5%8F%98%E3%80%82%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E7%A7%91%E6%8A%80%E4%B8%93%E6%A0%8F%E4%BD%9C%E5%AE%B6Joanna+Stern%E5%B8%A6%E6%9D%A5%E4%BA%86%E5%A5%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%8B%E8%A7%A3%E8%AF%BB%E3%80%82+https%3A%2F%2Ft.co%2Fg%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [影响](影响.md), [摄像头](摄像头.md), [消费者](消费者.md), [科技](科技.md), [苹果](苹果.md), [设计](设计.md)
+___
+##### 2023-09-13 03:41:19 UTC ~ DW 中文- 德国之声
+> RT @dw_chinese: 苹果公司週二推出iPhone 15最新机型，却被许多媒体评为缺乏亮点，股价应声下挫。究竟中国的最新禁令，以及消费市场的疲软，会否对苹果的未来发展产生影响？ https://t.co/rvpiYtfYrj
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%80%B1%E4%BA%8C%E6%8E%A8%E5%87%BAiPhone+15%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9E%8B%EF%BC%8C%E5%8D%B4%E8%A2%AB%E8%AE%B8%E5%A4%9A%E5%AA%92%E4%BD%93%E8%AF%84%E4%B8%BA%E7%BC%BA%E4%B9%8F%E4%BA%AE%E7%82%B9%EF%BC%8C%E8%82%A1%E4%BB%B7%E5%BA%94%E5%A3%B0%E4%B8%8B%E6%8C%AB%E3%80%82%E7%A9%B6%E7%AB%9F%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%9C%80%E6%96%B0%E7%A6%81%E4%BB%A4%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E7%9A%84%E7%96%B2%E8%BD%AF%EF%BC%8C%E4%BC%9A%E5%90%A6%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95%E4%BA%A7%E7%94%9F%E5%BD%B1%E5%93%8D%EF%BC%9F+https%3A%2F%2Ft.co%2FrvpiYtfYrj)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [影响](影响.md), [推出](推出.md), [苹果](苹果.md)
+___
+##### 2023-09-13 03:41:00 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【iPhone15在逆风中发布】在手机市场成熟和中国限制等逆风中，新机型配备4800万像素摄像头，充电接口全部改为“USB Type C”。最高端机型的最低售价提高100美元，售价在日本为12万4800日元（约合人民币6166.7元）起……
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone15%E5%9C%A8%E9%80%86%E9%A3%8E%E4%B8%AD%E5%8F%91%E5%B8%83%E3%80%91%E5%9C%A8%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E6%88%90%E7%86%9F%E5%92%8C%E4%B8%AD%E5%9B%BD%E9%99%90%E5%88%B6%E7%AD%89%E9%80%86%E9%A3%8E%E4%B8%AD%EF%BC%8C%E6%96%B0%E6%9C%BA%E5%9E%8B%E9%85%8D%E5%A4%874800%E4%B8%87%E5%83%8F%E7%B4%A0%E6%91%84%E5%83%8F%E5%A4%B4%EF%BC%8C%E5%85%85%E7%94%B5%E6%8E%A5%E5%8F%A3%E5%85%A8%E9%83%A8%E6%94%B9%E4%B8%BA%E2%80%9CUSB+Type+C%E2%80%9D%E3%80%82%E6%9C%80%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9E%8B%E7%9A%84%E6%9C%80%E4%BD%8E%E5%94%AE%E4%BB%B7%E6%8F%90%E9%AB%98100%E7%BE%8E%E5%85%83%EF%BC%8C%E5%94%AE%E4%BB%B7%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%BA12%E4%B8%874800%E6%97%A5%E5%85%83%EF%BC%88%E7%BA%A6%E5%90%88%E4%BA%BA%E6%B0%91%E5%B8%816166.7%E5%85%83%EF%BC%89%E8%B5%B7%E2%80%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[充电](充电.md), [发布](发布.md), [售价](售价.md), [型](型.md), [成熟](成熟.md), [接口](接口.md), [提高](提高.md), [摄像头](摄像头.md), [日本](日本.md), [配备](配备.md), [限制](限制.md)
+___
 ##### 2023-09-13 03:40:10 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司在周二公布了iPhone 15产品系列，给Pro机型带来了一系列渐进式改进：更好的摄像头、改进的电池和新的软件功能。该公司期望消费者会为最先进的功能多花一点钱。 https://t.co/0vMajAZieB
 

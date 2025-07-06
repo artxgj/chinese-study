@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-06-16 04:56:26 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【AMD發佈低價AI晶片，稱性能媲美英偉達】AMD在6月12日發佈新款AI半導體。CEO蘇姿丰表示與競爭對手英偉達相比，能以低成本發揮同等性能。英偉達2024年掌握AI半導體市場超過7成份額。AMD將以廉價産品進行抗衡……https:/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AMD%E7%99%BC%E4%BD%88%E4%BD%8E%E5%83%B9AI%E6%99%B6%E7%89%87%EF%BC%8C%E7%A8%B1%E6%80%A7%E8%83%BD%E5%AA%B2%E7%BE%8E%E8%8B%B1%E5%81%89%E9%81%94%E3%80%91AMD%E5%9C%A86%E6%9C%8812%E6%97%A5%E7%99%BC%E4%BD%88%E6%96%B0%E6%AC%BEAI%E5%8D%8A%E5%B0%8E%E9%AB%94%E3%80%82CEO%E8%98%87%E5%A7%BF%E4%B8%B0%E8%A1%A8%E7%A4%BA%E8%88%87%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E8%8B%B1%E5%81%89%E9%81%94%E7%9B%B8%E6%AF%94%EF%BC%8C%E8%83%BD%E4%BB%A5%E4%BD%8E%E6%88%90%E6%9C%AC%E7%99%BC%E6%8F%AE%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E3%80%82%E8%8B%B1%E5%81%89%E9%81%942024%E5%B9%B4%E6%8E%8C%E6%8F%A1AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B8%82%E5%A0%B4%E8%B6%85%E9%81%8E7%E6%88%90%E4%BB%BD%E9%A1%8D%E3%80%82AMD%E5%B0%87%E4%BB%A5%E5%BB%89%E5%83%B9%E7%94%A3%E5%93%81%E9%80%B2%E8%A1%8C%E6%8A%97%E8%A1%A1%E2%80%A6%E2%80%A6https%3A%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [成本](成本.md), [晶片](晶片.md), [英偉達](英偉達.md)
+___
+##### 2025-06-14 17:07:13 UTC ~ 一只绿喵
+> RT @1greencat: AMD用了台积电新工艺之后 能效真的挺牛逼啊这cpu静置功耗才1瓦1瓦连个小灯泡都点不亮的吧哈哈哈cpu温度最低都35度了 别给cpu冻感冒了 https://t.co/3g8JeObiCK
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%401greencat%3A+AMD%E7%94%A8%E4%BA%86%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%96%B0%E5%B7%A5%E8%89%BA%E4%B9%8B%E5%90%8E+%E8%83%BD%E6%95%88%E7%9C%9F%E7%9A%84%E6%8C%BA%E7%89%9B%E9%80%BC%E5%95%8A%E8%BF%99cpu%E9%9D%99%E7%BD%AE%E5%8A%9F%E8%80%97%E6%89%8D1%E7%93%A61%E7%93%A6%E8%BF%9E%E4%B8%AA%E5%B0%8F%E7%81%AF%E6%B3%A1%E9%83%BD%E7%82%B9%E4%B8%8D%E4%BA%AE%E7%9A%84%E5%90%A7%E5%93%88%E5%93%88%E5%93%88cpu%E6%B8%A9%E5%BA%A6%E6%9C%80%E4%BD%8E%E9%83%BD35%E5%BA%A6%E4%BA%86+%E5%88%AB%E7%BB%99cpu%E5%86%BB%E6%84%9F%E5%86%92%E4%BA%86+https%3A%2F%2Ft.co%2F3g8JeObiCK)
+##### Other Words/Names of Interest in the Above Tweet
+[台积电](台积电.md), [工艺](工艺.md), [感冒](感冒.md)
+___
+##### 2025-06-13 09:28:28 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AMD发布了几款以人工智能为重点的新产品，其中包括MI350系列加速器。该公司表示将与Meta Platforms、OpenAI、甲骨文和微软等科技巨头合作，寻求建立一个开放的人工智能生态系统。https://t.co/dsXXlqyJB2
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AMD%E5%8F%91%E5%B8%83%E4%BA%86%E5%87%A0%E6%AC%BE%E4%BB%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%BA%E9%87%8D%E7%82%B9%E7%9A%84%E6%96%B0%E4%BA%A7%E5%93%81%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%ACMI350%E7%B3%BB%E5%88%97%E5%8A%A0%E9%80%9F%E5%99%A8%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E5%B0%86%E4%B8%8EMeta+Platforms%E3%80%81OpenAI%E3%80%81%E7%94%B2%E9%AA%A8%E6%96%87%E5%92%8C%E5%BE%AE%E8%BD%AF%E7%AD%89%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%90%88%E4%BD%9C%EF%BC%8C%E5%AF%BB%E6%B1%82%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%BC%80%E6%94%BE%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E3%80%82https%3A%2F%2Ft.co%2FdsXXlqyJB2)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [加速器](加速器.md), [包括](包括.md), [发布](发布.md), [巨头](巨头.md), [微软](微软.md), [生态](生态.md), [甲骨文](甲骨文.md), [科技](科技.md), [系列](系列.md), [系统](系统.md)
+___
 ##### 2025-05-07 19:53:28 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD首席执行官苏姿丰表示，该公司认为，“不断变化的”宏观经济环境以及销往中国的Instinct MI308X受到的限制，“完全可以被我们领先产品阵容带来的强大推动力所抵消”。 https://t.co/3wDadzGwKo
 

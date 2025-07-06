@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2025-06-21 19:23:22 UTC ~ yetone
+> RT @yetone: 配置 Windows 11 成生产环境的时候总会或多或少遇到这些坑，如果你遇到过 PowerToys 映射的快捷键莫名其妙就会失效，请看一下这条荒谬的推文
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40yetone%3A+%E9%85%8D%E7%BD%AE+Windows+11+%E6%88%90%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%E6%97%B6%E5%80%99%E6%80%BB%E4%BC%9A%E6%88%96%E5%A4%9A%E6%88%96%E5%B0%91%E9%81%87%E5%88%B0%E8%BF%99%E4%BA%9B%E5%9D%91%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%81%87%E5%88%B0%E8%BF%87+PowerToys+%E6%98%A0%E5%B0%84%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E4%BC%9A%E5%A4%B1%E6%95%88%EF%BC%8C%E8%AF%B7%E7%9C%8B%E4%B8%80%E4%B8%8B%E8%BF%99%E6%9D%A1%E8%8D%92%E8%B0%AC%E7%9A%84%E6%8E%A8%E6%96%87)
+##### Other Words/Names of Interest in the Above Tweet
+[坑](坑.md), [生产](生产.md)
+___
+##### 2025-06-11 18:09:27 UTC ~ Cyandev
+> RT @unixzii: #WWDC25 从 Mac OS X 用静态位图实现水晶效果的 Aqua，到 Windows Vista 用实时模糊 + 位图高光和反射实现玻璃效果的 Windows Aero，再到现在 Apple 用 SDF 实时计算边缘实现玻璃折射效果的 Liqu…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%23WWDC25+%E4%BB%8E+Mac+OS+X+%E7%94%A8%E9%9D%99%E6%80%81%E4%BD%8D%E5%9B%BE%E5%AE%9E%E7%8E%B0%E6%B0%B4%E6%99%B6%E6%95%88%E6%9E%9C%E7%9A%84+Aqua%EF%BC%8C%E5%88%B0+Windows+Vista+%E7%94%A8%E5%AE%9E%E6%97%B6%E6%A8%A1%E7%B3%8A+%2B+%E4%BD%8D%E5%9B%BE%E9%AB%98%E5%85%89%E5%92%8C%E5%8F%8D%E5%B0%84%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E7%9A%84+Windows+Aero%EF%BC%8C%E5%86%8D%E5%88%B0%E7%8E%B0%E5%9C%A8+Apple+%E7%94%A8+SDF+%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E8%BE%B9%E7%BC%98%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%8A%98%E5%B0%84%E6%95%88%E6%9E%9C%E7%9A%84+Liqu%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [实现](实现.md), [玻璃](玻璃.md)
+___
 ##### 2025-05-29 16:43:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: GitHub 上一款专为 Windows 打造的轻量级快速启动器：Mage，参考了 macOS 的 Raycast。基于 Vite 和 Vue 3 构建，实现了在 Windows 系统上快速启动应用并执行各种操作。GitHub：htt…
 
