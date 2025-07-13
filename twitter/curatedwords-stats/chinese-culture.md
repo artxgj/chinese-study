@@ -21,11 +21,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [西游记](../hanzi-cards/西游记.md)/[西遊記](../hanzi-cards/西遊記.md) | Journey to the West (classic novel) |
 | [百家姓](../hanzi-cards/百家姓.md) | The Book of Family Names |
 | [唐朝](../hanzi-cards/唐朝.md) | Tang Dynasty |
+| [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasties |
 | [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
 | [汉朝](../hanzi-cards/汉朝.md) | Han Dynasty |
 | [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
 | [秦朝](../hanzi-cards/秦朝.md) | Qin Dynasty |
 | [宋朝](../hanzi-cards/宋朝.md) | Song Dynasty |
+| [明清](../hanzi-cards/明清.md) | Ming and Qing dynasties |
 | [大雁塔](../hanzi-cards/大雁塔.md) | Giant Wild Goose Pagoda |
 | [故宫](../hanzi-cards/故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
 | [琵琶](../hanzi-cards/琵琶.md) | pipa (a plucked string instrument with a fretted fingeboard) |
