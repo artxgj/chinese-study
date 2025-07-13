@@ -23,7 +23,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [唐朝](../hanzi-cards/唐朝.md) | Tang Dynasty |
 | [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
 | [汉朝](../hanzi-cards/汉朝.md) | Han Dynasty |
-| [东汉](../hanzi-cards/东汉.md) | Eastern Han Dynasty |
+| [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
 | [秦朝](../hanzi-cards/秦朝.md) | Qin Dynasty |
 | [宋朝](../hanzi-cards/宋朝.md) | Song Dynasty |
 | [大雁塔](../hanzi-cards/大雁塔.md) | Giant Wild Goose Pagoda |

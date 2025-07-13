@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-06 06:36:17 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 有分析师认为，DeepSeek带来了更便宜、更节能的AI模型，但其影响尚未在美国股市得到充分体现。硅谷科技巨头的巨额AI投资承诺受到审视，但没有的AI支出竞赛反而愈演愈烈，而投资者则仍有理由保持谨慎。https://t.co/UsprKF1h8F
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%9C%89%E5%88%86%E6%9E%90%E5%B8%88%E8%AE%A4%E4%B8%BA%EF%BC%8CDeepSeek%E5%B8%A6%E6%9D%A5%E4%BA%86%E6%9B%B4%E4%BE%BF%E5%AE%9C%E3%80%81%E6%9B%B4%E8%8A%82%E8%83%BD%E7%9A%84AI%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%BD%86%E5%85%B6%E5%BD%B1%E5%93%8D%E5%B0%9A%E6%9C%AA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82%E5%BE%97%E5%88%B0%E5%85%85%E5%88%86%E4%BD%93%E7%8E%B0%E3%80%82%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E7%9A%84%E5%B7%A8%E9%A2%9DAI%E6%8A%95%E8%B5%84%E6%89%BF%E8%AF%BA%E5%8F%97%E5%88%B0%E5%AE%A1%E8%A7%86%EF%BC%8C%E4%BD%86%E6%B2%A1%E6%9C%89%E7%9A%84AI%E6%94%AF%E5%87%BA%E7%AB%9E%E8%B5%9B%E5%8F%8D%E8%80%8C%E6%84%88%E6%BC%94%E6%84%88%E7%83%88%EF%BC%8C%E8%80%8C%E6%8A%95%E8%B5%84%E8%80%85%E5%88%99%E4%BB%8D%E6%9C%89%E7%90%86%E7%94%B1%E4%BF%9D%E6%8C%81%E8%B0%A8%E6%85%8E%E3%80%82https%3A%2F%2Ft.co%2FUsprKF1h8F)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [分析师](分析师.md), [型](型.md), [审视](审视.md), [巨头](巨头.md), [影响](影响.md), [投资](投资.md), [投资者](投资者.md), [支出](支出.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美国](美国.md), [谨慎](谨慎.md)
+___
+##### 2025-02-06 05:08:37 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 韩国国防部表示，出于对生成式AI服务的安全和技术担忧，其已对工作用的电脑采取了“必要的预防性措施”。#南洋商报 #韩国 #southkorea #DeepSeek #AI https://t.co/OjlvJ7JGIu https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%9F%A9%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%87%BA%E4%BA%8E%E5%AF%B9%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%AE%89%E5%85%A8%E5%92%8C%E6%8A%80%E6%9C%AF%E6%8B%85%E5%BF%A7%EF%BC%8C%E5%85%B6%E5%B7%B2%E5%AF%B9%E5%B7%A5%E4%BD%9C%E7%94%A8%E7%9A%84%E7%94%B5%E8%84%91%E9%87%87%E5%8F%96%E4%BA%86%E2%80%9C%E5%BF%85%E8%A6%81%E7%9A%84%E9%A2%84%E9%98%B2%E6%80%A7%E6%8E%AA%E6%96%BD%E2%80%9D%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E9%9F%A9%E5%9B%BD+%23southkorea+%23DeepSeek+%23AI+https%3A%2F%2Ft.co%2FOjlvJ7JGIu+https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[技术](技术.md), [担忧](担忧.md), [措施](措施.md), [采取](采取.md), [韩国](韩国.md)
+___
 ##### 2025-02-06 05:06:19 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 英伟达周三股价大涨5.4%，受四大利好提振，成功摆脱DeepSeek推出AI新模型引发的卖压。 https://t.co/8Ua1byYYeu https://t.co/XtNR9LwvAL
 

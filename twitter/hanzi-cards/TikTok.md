@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2025-07-10 23:32:34 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 短视频平台TikTok正准备为美国用户推出一个独立应用程式，以便为美国总统特朗普牵线要TikTok出售旗下美国业务铺路。不过，TikTok表示，外媒报道与事实不符，但公司未提供更多细节。https://t.co/J4MDFR6f1G http…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E6%AD%A3%E5%87%86%E5%A4%87%E4%B8%BA%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E6%8E%A8%E5%87%BA%E4%B8%80%E4%B8%AA%E7%8B%AC%E7%AB%8B%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%EF%BC%8C%E4%BB%A5%E4%BE%BF%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B5%E7%BA%BF%E8%A6%81TikTok%E5%87%BA%E5%94%AE%E6%97%97%E4%B8%8B%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%E9%93%BA%E8%B7%AF%E3%80%82%E4%B8%8D%E8%BF%87%EF%BC%8CTikTok%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E4%B8%8E%E4%BA%8B%E5%AE%9E%E4%B8%8D%E7%AC%A6%EF%BC%8C%E4%BD%86%E5%85%AC%E5%8F%B8%E6%9C%AA%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E3%80%82https%3A%2F%2Ft.co%2FJ4MDFR6f1G+http%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[出售](出售.md), [平台](平台.md), [推出](推出.md), [提供](提供.md), [特朗普](特朗普.md), [美国](美国.md)
+___
+##### 2025-07-09 03:21:37 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国科技巨头字节跳动否认有包括甲骨文在内的潜在买家，将收购旗下TikTok的美国业务。 https://t.co/LuYNRyWfQB
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%90%A6%E8%AE%A4%E6%9C%89%E5%8C%85%E6%8B%AC%E7%94%B2%E9%AA%A8%E6%96%87%E5%9C%A8%E5%86%85%E7%9A%84%E6%BD%9C%E5%9C%A8%E4%B9%B0%E5%AE%B6%EF%BC%8C%E5%B0%86%E6%94%B6%E8%B4%AD%E6%97%97%E4%B8%8BTikTok%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%E3%80%82+https%3A%2F%2Ft.co%2FLuYNRyWfQB)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [否认](否认.md), [字节跳动](字节跳动.md), [巨头](巨头.md), [收购](收购.md), [潜在](潜在.md), [甲骨文](甲骨文.md), [科技](科技.md), [美国](美国.md)
+___
 ##### 2025-07-01 10:07:45 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 这一财团此前对TikTok的竞购，因中美贸易紧张局势而陷入停滞。#南洋商报 #美国 #Tiktokhttps://t.co/8t46Bod3Re https://t.co/1D9sF7lW8K
 
@@ -2091,20 +2105,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Dan+Gallagher%E5%86%99%E9%81%93%EF%BC%8CFacebook%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81Snapchat%E5%92%8CPinterest%E4%B8%80%E7%9B%B4%E6%97%A0%E6%B3%95%E5%87%BB%E8%B4%A5TikTok%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%8C%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E6%9B%BF%E5%AE%83%E4%BB%AC%E6%8A%8ATikTok%E8%B8%A2%E5%87%BA%E5%B1%80%EF%BC%8C%E8%BF%99%E6%9C%AA%E5%85%8D%E6%9C%89%E4%BA%9B%E8%BF%87%E4%BA%8E%E4%B9%90%E8%A7%82%E4%BA%86%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [一直](一直.md), [乐观](乐观.md), [投资](投资.md), [投资者](投资者.md), [美国](美国.md), [谷歌](谷歌.md)
-___
-##### 2023-03-25 05:36:30 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 【视频】TikTok新加坡籍总裁周受资出席美国众议院听证会。TikTok提出四项承诺履行安全责任，可美国立法者却不买账，责难拷问频出，还数次打断周受资发言，上演火药味十足的席间激辩。https://t.co/llmGx2Lo9U
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E3%80%90%E8%A7%86%E9%A2%91%E3%80%91TikTok%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B1%8D%E6%80%BB%E8%A3%81%E5%91%A8%E5%8F%97%E8%B5%84%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E5%90%AC%E8%AF%81%E4%BC%9A%E3%80%82TikTok%E6%8F%90%E5%87%BA%E5%9B%9B%E9%A1%B9%E6%89%BF%E8%AF%BA%E5%B1%A5%E8%A1%8C%E5%AE%89%E5%85%A8%E8%B4%A3%E4%BB%BB%EF%BC%8C%E5%8F%AF%E7%BE%8E%E5%9B%BD%E7%AB%8B%E6%B3%95%E8%80%85%E5%8D%B4%E4%B8%8D%E4%B9%B0%E8%B4%A6%EF%BC%8C%E8%B4%A3%E9%9A%BE%E6%8B%B7%E9%97%AE%E9%A2%91%E5%87%BA%EF%BC%8C%E8%BF%98%E6%95%B0%E6%AC%A1%E6%89%93%E6%96%AD%E5%91%A8%E5%8F%97%E8%B5%84%E5%8F%91%E8%A8%80%EF%BC%8C%E4%B8%8A%E6%BC%94%E7%81%AB%E8%8D%AF%E5%91%B3%E5%8D%81%E8%B6%B3%E7%9A%84%E5%B8%AD%E9%97%B4%E6%BF%80%E8%BE%A9%E3%80%82https%3A%2F%2Ft.co%2FllmGx2Lo9U)
-##### Other Words/Names of Interest in the Above Tweet
-[众议院](众议院.md), [周受资](周受资.md), [提出](提出.md), [新加坡](新加坡.md), [美国](美国.md)
-___
-##### 2023-03-24 06:51:29 UTC ~ DW 中文- 德国之声
-> RT @dw_chinese: 中国商务部新闻发言人指出：「出售或者剥离TikTok涉及技术出口问题，必须按照中国的法律法规履行行政许可程序，中国政府将依法作出决定。」TikTok首席执行长周受资(Shou Zi Chew)周四稍晚将出席美国众议院能源及商业委员会听证会。htt…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%8C%87%E5%87%BA%EF%BC%9A%E3%80%8C%E5%87%BA%E5%94%AE%E6%88%96%E8%80%85%E5%89%A5%E7%A6%BBTikTok%E6%B6%89%E5%8F%8A%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3%E9%97%AE%E9%A2%98%EF%BC%8C%E5%BF%85%E9%A1%BB%E6%8C%89%E7%85%A7%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%B1%A5%E8%A1%8C%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BE%9D%E6%B3%95%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A%E3%80%82%E3%80%8DTikTok%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E9%95%BF%E5%91%A8%E5%8F%97%E8%B5%84%28Shou+Zi+Chew%29%E5%91%A8%E5%9B%9B%E7%A8%8D%E6%99%9A%E5%B0%86%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E8%83%BD%E6%BA%90%E5%8F%8A%E5%95%86%E4%B8%9A%E5%A7%94%E5%91%98%E4%BC%9A%E5%90%AC%E8%AF%81%E4%BC%9A%E3%80%82htt%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[众议院](众议院.md), [出售](出售.md), [周受资](周受资.md), [委员会](委员会.md), [执行](执行.md), [技术](技术.md), [指出](指出.md), [按照](按照.md), [程序](程序.md), [美国](美国.md), [能源](能源.md)
 ____
 
 [Next Page](TikTok-01.md)

@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2025-07-12 19:26:29 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 跟大家推荐 GitHub 上一款专为 macOS 系统提供高效截屏和 AI 分析功能的开源工具：Peekaboo。不仅能快速截取屏幕、应用或特定窗口，还能使用 GPT-4 Vision、Claude 或本地模型进行 AI 图像分析。G…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E8%B7%9F%E5%A4%A7%E5%AE%B6%E6%8E%A8%E8%8D%90+GitHub+%E4%B8%8A%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+macOS+%E7%B3%BB%E7%BB%9F%E6%8F%90%E4%BE%9B%E9%AB%98%E6%95%88%E6%88%AA%E5%B1%8F%E5%92%8C+AI+%E5%88%86%E6%9E%90%E5%8A%9F%E8%83%BD%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9APeekaboo%E3%80%82%E4%B8%8D%E4%BB%85%E8%83%BD%E5%BF%AB%E9%80%9F%E6%88%AA%E5%8F%96%E5%B1%8F%E5%B9%95%E3%80%81%E5%BA%94%E7%94%A8%E6%88%96%E7%89%B9%E5%AE%9A%E7%AA%97%E5%8F%A3%EF%BC%8C%E8%BF%98%E8%83%BD%E4%BD%BF%E7%94%A8+GPT-4+Vision%E3%80%81Claude+%E6%88%96%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C+AI+%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E3%80%82G%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [不仅](不仅.md), [分析](分析.md), [型](型.md), [屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
+___
+##### 2025-07-12 04:39:57 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 如果我们平时都是直接让 ChatGPT、Claude 这些 AI 助手帮忙调试代码或解决 Bug，而不是使用 Cursor 等付费 AI 编程助手。那么 gptree 这个开源项目可以看一下，它能一键将整个项目的文件内容和目录结构打包成单…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%A6%82%E6%9E%9C%E6%88%91%E4%BB%AC%E5%B9%B3%E6%97%B6%E9%83%BD%E6%98%AF%E7%9B%B4%E6%8E%A5%E8%AE%A9+ChatGPT%E3%80%81Claude+%E8%BF%99%E4%BA%9B+AI+%E5%8A%A9%E6%89%8B%E5%B8%AE%E5%BF%99%E8%B0%83%E8%AF%95%E4%BB%A3%E7%A0%81%E6%88%96%E8%A7%A3%E5%86%B3+Bug%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E4%BD%BF%E7%94%A8+Cursor+%E7%AD%89%E4%BB%98%E8%B4%B9+AI+%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E3%80%82%E9%82%A3%E4%B9%88+gptree+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%8F%AF%E4%BB%A5%E7%9C%8B%E4%B8%80%E4%B8%8B%EF%BC%8C%E5%AE%83%E8%83%BD%E4%B8%80%E9%94%AE%E5%B0%86%E6%95%B4%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%9A%84%E6%96%87%E4%BB%B6%E5%86%85%E5%AE%B9%E5%92%8C%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E6%89%93%E5%8C%85%E6%88%90%E5%8D%95%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [开源](开源.md), [文件](文件.md), [直接](直接.md), [项目](项目.md)
+___
 ##### 2025-06-26 08:58:42 UTC ~ orange.ai
 > RT @oran_ge: Google 杀疯了，放出对标 Claude Code 和 Cursor 的 Gemini CLI不要100美金，直接免费提供。不仅免费，而且开源，一发布瞬间 3k Star！每天1000次调用以内都免费，非常之离谱。不管具体水平怎么说，先试试…
 

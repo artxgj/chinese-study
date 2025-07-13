@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-03-25 05:36:30 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 【视频】TikTok新加坡籍总裁周受资出席美国众议院听证会。TikTok提出四项承诺履行安全责任，可美国立法者却不买账，责难拷问频出，还数次打断周受资发言，上演火药味十足的席间激辩。https://t.co/llmGx2Lo9U
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E3%80%90%E8%A7%86%E9%A2%91%E3%80%91TikTok%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B1%8D%E6%80%BB%E8%A3%81%E5%91%A8%E5%8F%97%E8%B5%84%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E5%90%AC%E8%AF%81%E4%BC%9A%E3%80%82TikTok%E6%8F%90%E5%87%BA%E5%9B%9B%E9%A1%B9%E6%89%BF%E8%AF%BA%E5%B1%A5%E8%A1%8C%E5%AE%89%E5%85%A8%E8%B4%A3%E4%BB%BB%EF%BC%8C%E5%8F%AF%E7%BE%8E%E5%9B%BD%E7%AB%8B%E6%B3%95%E8%80%85%E5%8D%B4%E4%B8%8D%E4%B9%B0%E8%B4%A6%EF%BC%8C%E8%B4%A3%E9%9A%BE%E6%8B%B7%E9%97%AE%E9%A2%91%E5%87%BA%EF%BC%8C%E8%BF%98%E6%95%B0%E6%AC%A1%E6%89%93%E6%96%AD%E5%91%A8%E5%8F%97%E8%B5%84%E5%8F%91%E8%A8%80%EF%BC%8C%E4%B8%8A%E6%BC%94%E7%81%AB%E8%8D%AF%E5%91%B3%E5%8D%81%E8%B6%B3%E7%9A%84%E5%B8%AD%E9%97%B4%E6%BF%80%E8%BE%A9%E3%80%82https%3A%2F%2Ft.co%2FllmGx2Lo9U)
+##### Other Words/Names of Interest in the Above Tweet
+[众议院](众议院.md), [周受资](周受资.md), [提出](提出.md), [新加坡](新加坡.md), [美国](美国.md)
+___
+##### 2023-03-24 06:51:29 UTC ~ DW 中文- 德国之声
+> RT @dw_chinese: 中国商务部新闻发言人指出：「出售或者剥离TikTok涉及技术出口问题，必须按照中国的法律法规履行行政许可程序，中国政府将依法作出决定。」TikTok首席执行长周受资(Shou Zi Chew)周四稍晚将出席美国众议院能源及商业委员会听证会。htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%8C%87%E5%87%BA%EF%BC%9A%E3%80%8C%E5%87%BA%E5%94%AE%E6%88%96%E8%80%85%E5%89%A5%E7%A6%BBTikTok%E6%B6%89%E5%8F%8A%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3%E9%97%AE%E9%A2%98%EF%BC%8C%E5%BF%85%E9%A1%BB%E6%8C%89%E7%85%A7%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%B1%A5%E8%A1%8C%E8%A1%8C%E6%94%BF%E8%AE%B8%E5%8F%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BE%9D%E6%B3%95%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A%E3%80%82%E3%80%8DTikTok%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E9%95%BF%E5%91%A8%E5%8F%97%E8%B5%84%28Shou+Zi+Chew%29%E5%91%A8%E5%9B%9B%E7%A8%8D%E6%99%9A%E5%B0%86%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E8%83%BD%E6%BA%90%E5%8F%8A%E5%95%86%E4%B8%9A%E5%A7%94%E5%91%98%E4%BC%9A%E5%90%AC%E8%AF%81%E4%BC%9A%E3%80%82htt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[众议院](众议院.md), [出售](出售.md), [周受资](周受资.md), [委员会](委员会.md), [执行](执行.md), [技术](技术.md), [指出](指出.md), [按照](按照.md), [程序](程序.md), [美国](美国.md), [能源](能源.md)
+___
 ##### 2023-03-24 06:50:55 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国短视频平台抖音的海外版TikTok首席执行官周受资出席美国众议院能源和商务委员会的听证会，面对美国两大党议员就安全问题所发的疑问。https://t.co/rW2VoEFdW7
 

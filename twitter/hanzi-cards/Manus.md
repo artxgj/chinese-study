@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2025-07-12 19:37:17 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国AI智能体平台Manus的官方微博和小红书账号已清空内容，在中国访问其官网时，也显示为“Manus在你所在的地区不可用”。 https://t.co/rHNdQQfZxX
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BDAI%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0Manus%E7%9A%84%E5%AE%98%E6%96%B9%E5%BE%AE%E5%8D%9A%E5%92%8C%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E5%B7%B2%E6%B8%85%E7%A9%BA%E5%86%85%E5%AE%B9%EF%BC%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%AE%BF%E9%97%AE%E5%85%B6%E5%AE%98%E7%BD%91%E6%97%B6%EF%BC%8C%E4%B9%9F%E6%98%BE%E7%A4%BA%E4%B8%BA%E2%80%9CManus%E5%9C%A8%E4%BD%A0%E6%89%80%E5%9C%A8%E7%9A%84%E5%9C%B0%E5%8C%BA%E4%B8%8D%E5%8F%AF%E7%94%A8%E2%80%9D%E3%80%82+https%3A%2F%2Ft.co%2FrHNdQQfZxX)
+##### Other Words/Names of Interest in the Above Tweet
+[小红书](小红书.md), [平台](平台.md), [显示](显示.md), [账号](账号.md)
+___
+##### 2025-07-12 07:52:22 UTC ~ Yinsen
+> RT @YinsenHe: 这几天关于 Manus 裁员搬迁的讨论很多，我其实大概能想到那么一丢丢他们的处境与抉择，所以也能理解。我只是好奇，deepseek 能在中国做，Manus 就不能吗？
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40YinsenHe%3A+%E8%BF%99%E5%87%A0%E5%A4%A9%E5%85%B3%E4%BA%8E+Manus+%E8%A3%81%E5%91%98%E6%90%AC%E8%BF%81%E7%9A%84%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%EF%BC%8C%E6%88%91%E5%85%B6%E5%AE%9E%E5%A4%A7%E6%A6%82%E8%83%BD%E6%83%B3%E5%88%B0%E9%82%A3%E4%B9%88%E4%B8%80%E4%B8%A2%E4%B8%A2%E4%BB%96%E4%BB%AC%E7%9A%84%E5%A4%84%E5%A2%83%E4%B8%8E%E6%8A%89%E6%8B%A9%EF%BC%8C%E6%89%80%E4%BB%A5%E4%B9%9F%E8%83%BD%E7%90%86%E8%A7%A3%E3%80%82%E6%88%91%E5%8F%AA%E6%98%AF%E5%A5%BD%E5%A5%87%EF%BC%8Cdeepseek+%E8%83%BD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9A%EF%BC%8CManus+%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%90%97%EF%BC%9F)
+##### Other Words/Names of Interest in the Above Tweet
+[抉择](抉择.md), [裁员](裁员.md)
+___
 ##### 2025-04-01 03:47:14 UTC ~ 汉松
 > RT @Yonah_x: 智谱清言的 AutoGLM 效果还不错，在一众的开源 Manus 中是最能打的。我的测试 case 是让它：“到pubmed上面帮我总结一下最新的三篇关于糖尿病的研究”，完成度目前看是 AutoGLM &gt; owl &gt; openmanus。 https:…
 

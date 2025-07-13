@@ -37,6 +37,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [美国太空总署](../hanzi-cards/美国太空总署.md) | NASA |
 | [空间站](../hanzi-cards/空间站.md) | space station |
 | [不明飞行物](../hanzi-cards/不明飞行物.md) | UFO |
+| [银河](../hanzi-cards/银河.md)/[銀河](../hanzi-cards/銀河.md) | Milky Way |
 ## Biology
 |  |  |
 | ----- | :---: |
