@@ -80,3 +80,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [繁花似锦](../hanzi-cards/繁花似锦.md) | flowers in full bloom |
 | [食不厭精，膾不厭細](../hanzi-cards/食不厭精，膾不厭細.md) | to eat but finely ground grain and finely chopped meat; be particular about one's food |
 | [喋喋不休](../hanzi-cards/喋喋不休.md) | chatter away; rattle on; talk endlessly |
+## Three Kingdoms
+|  |  |
+| ----- | :---: |
+| [曹操](../hanzi-cards/曹操.md) | Cao Cao |
+| [刘备](../hanzi-cards/刘备.md)/[劉備](../hanzi-cards/劉備.md) | Liu Bei |
+| [诸葛亮](../hanzi-cards/诸葛亮.md)/[諸葛孔明](../hanzi-cards/諸葛孔明.md) | Zhuge Liang/Kong Ming |
+| [孙权](../hanzi-cards/孙权.md)/[孫權](../hanzi-cards/孫權.md) | Sun Quan |
+| [庞统](../hanzi-cards/庞统.md) | Pang Tong |
+| [司马懿](../hanzi-cards/司马懿.md) | Sima Yi |
