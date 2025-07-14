@@ -39,6 +39,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [毽子](../hanzi-cards/毽子.md) | shuttlecock |
 | [清华大学](../hanzi-cards/清华大学.md)/[清華大學](../hanzi-cards/清華大學.md) | Tsinghua University |
 | [妈祖](../hanzi-cards/妈祖.md)/[媽祖](../hanzi-cards/媽祖.md) | Mazu, Goddess of the Sea, worshipped by most fishermen in Fujian and Taiwan. |
+| [诗经](../hanzi-cards/诗经.md)/[詩經](../hanzi-cards/詩經.md) | Shijing/Classic of Poetry |
+| [黄帝](../hanzi-cards/黄帝.md) | Yellow Emperor |
 ## Festivals
 |  |  |
 | ----- | :---: |
@@ -89,3 +91,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [孙权](../hanzi-cards/孙权.md)/[孫權](../hanzi-cards/孫權.md) | Sun Quan |
 | [庞统](../hanzi-cards/庞统.md) | Pang Tong |
 | [司马懿](../hanzi-cards/司马懿.md) | Sima Yi |
+| [周瑜](../hanzi-cards/周瑜.md) | Zhou Yu |
