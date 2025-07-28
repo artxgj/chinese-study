@@ -188,7 +188,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+5%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84AI%E4%BB%A3%E7%90%86%E3%80%81MCP%E5%92%8CLLM%E6%9B%B4%E6%96%B0%EF%BC%9A1.+%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86FastVLM%E4%BB%A3%E7%A0%81%E5%92%8C%E6%A8%A1%E5%9E%8B%E3%80%82%E4%B8%80%E6%AC%BE%E6%9E%81%E9%80%9F%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8iPhone%E4%B8%8A%E8%BF%90%E8%A1%8C%EF%BC%8C%E4%BD%BF%E7%94%A8MLX%EF%BC%8C%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E7%9A%84%E7%BC%96%E7%A0%81%E6%97%B6%E9%97%B4%E3%80%82%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%AE%9E%E6%97%B6%E7%9A%84%E8%AE%BE%E5%A4%87%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%82+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
+[LLM](LLM.md), [MCP](MCP.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-05-05 10:07:58 UTC ~ 独立开花卓富贵
 > RT @fuguizhuo: 用了鸿蒙 Next 两周后，我觉得未来几年内华为都跟我无缘了。软件生态差的太远了，差不多是iPhone5 时期 iOS 和安卓生态的差距。我举个例子：在去哪儿上面订酒店，地图上的位置没有县级的信息。第三方地图 sdk…
@@ -270,7 +270,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%83%B3%E5%9C%A8+iPhone+%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E6%9D%A5%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E2%80%94%E2%80%94LLMFarm++%E8%BF%99%E4%B8%AA+app+%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8C%E5%9C%A8+%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%B8%8A%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF+iOS+%E8%BF%98%E6%98%AF+MacOS%E3%80%82%E5%B9%B6%E4%B8%94%E6%94%AF%E6%8C%81RAG%E3%80%82%E7%94%B1%E4%BA%8E%E5%AE%83%E5%85%B6%E5%AE%9E%E6%98%AF+llama.cpp+%E7%9A%84%E9%AD%94%E6%94%B9%EF%BC%8C%E6%89%80%E4%BB%A5%E5%87%A0%E4%B9%8E%E6%94%AF%E6%8C%81%E6%89%80%E6%9C%89%E8%AE%BE%E5%A4%87%E8%83%BD%E8%A3%85%E5%BE%97%E4%B8%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E5%9C%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [RAG](RAG.md), [iOS](iOS.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
+[LLM](LLM.md), [Mac](Mac.md), [RAG](RAG.md), [iOS](iOS.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
 ___
 ##### 2025-04-13 20:07:52 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: iPhone现在每五部就有一部是“印度制造”。#南洋商报 #APPLE #iPhone #China #India新闻链接：https://t.co/oeyni8td7L https://t.co/CBpAA6RmJr
@@ -333,7 +333,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E4%B8%AA%E5%8F%AF%E5%B8%AE%E4%BD%A0%E5%9C%A8%E5%AE%B6%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA+AI+%E9%9B%86%E7%BE%A4%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9Aexo%E3%80%82%E8%AF%A5%E9%A1%B9%E7%9B%AE%E6%94%AF%E6%8C%81%E5%B0%86%E7%8E%B0%E6%9C%89%E8%AE%BE%E5%A4%87%E7%BB%9F%E4%B8%80%E5%88%B0%E4%B8%80%E4%B8%AA%E5%8A%9F%E8%83%BD%E5%BC%BA%E5%A4%A7%E7%9A%84GPU%E4%B8%AD%EF%BC%8C%E6%94%AF%E6%8C%81+iPhone%EF%BC%8CiPad%EF%BC%8CAndroid%EF%BC%8CMac%EF%BC%8CNvidia%EF%BC%8C%E6%A0%91%E8%8E%93%E6%B4%BE%E7%AD%89%E7%AD%89%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E8%AE%BE%E5%A4%87%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [开源](开源.md), [支持](支持.md), [项目](项目.md)
+[GPU](GPU.md), [Mac](Mac.md), [开源](开源.md), [支持](支持.md), [项目](项目.md)
 ___
 ##### 2025-03-17 15:50:30 UTC ~ safari
 > RT @safaricheung: 「负责初代 iPhone 」听起来就很厉害，「负责初代 Vision Pro」听起来就有种要扑街的感觉。然后这两个产品硬件负责人是同一个人。
@@ -1115,7 +1115,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%96%B0%E6%AC%BE%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BAiPhone+16%E6%9C%AA%E5%8F%91%E5%B8%83%EF%BC%8C%E7%9B%B8%E5%85%B3%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%B7%B2%E6%8A%A2%E5%85%88%E4%B8%8A%E6%9E%B6%EF%BC%8C%E4%BD%86%E4%BD%8E%E8%BF%B7%E9%A2%84%E5%94%AE%E8%AE%A2%E5%8D%95%E9%87%8F%E6%88%96%E4%BF%83%E4%BD%BF%E5%8E%82%E5%AE%B6%E5%87%8F%E4%BA%A7%EF%BC%8C%E5%B8%82%E9%9D%A2%E4%B8%8A%E6%89%8B%E6%9C%BA%E9%85%8D%E4%BB%B6%E9%80%89%E6%8B%A9%E5%8F%AF%E8%83%BD%E6%AF%94%E5%BE%80%E5%B9%B4%E5%B0%91%E3%80%82%E7%9B%AE%E5%89%8D%E8%B7%9D%E7%A6%BB%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E6%96%B0%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E8%BF%98%E6%9C%89%E4%B8%80%E4%B8%AA%E5%A4%9A%E6%9C%88%EF%BC%8C%E4%BD%86%E5%9C%A8%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E6%89%8B%E6%9C%BA%E5%A3%B3%E9%9B%86%E6%95%A3%E5%9C%B0%E4%B9%8B%E4%B8%80%E7%9A%84%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%EF%BC%8C%E4%B8%8D%E5%B0%91%E5%95%86%E5%AE%B6%E7%9A%84%E8%B4%A7%E6%9E%B6%E4%B8%8A%E5%B7%B2%E5%87%BA%E7%8E%B0iPhone%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[低迷](低迷.md), [促使](促使.md), [发布](发布.md), [相关](相关.md), [苹果](苹果.md), [订单](订单.md), [距离](距离.md)
+[低迷](低迷.md), [促使](促使.md), [发布](发布.md), [深圳](深圳.md), [相关](相关.md), [苹果](苹果.md), [订单](订单.md), [距离](距离.md)
 ___
 ##### 2024-07-21 06:18:39 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 分析师预计，IOS18将AI导入iPhone16，且搭载潜望镜头，可望提升换机需求。#apple #iPhone16 #tsmc #鸿海 #南洋商报 https://t.co/6DeOxietOz https://t.co/pEdfg5T0Rh
@@ -1801,7 +1801,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E3%80%90%E7%AB%8B%E8%AE%AF%E7%B2%BE%E5%AF%86%E5%8F%8A%E5%85%B6CEO%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BAiPhone%E7%94%9F%E4%BA%A7%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA%E7%9A%84%E4%B8%80%E7%8E%AF%EF%BC%9F%E3%80%91%E7%8E%8B%E6%9D%A5%E6%98%A5%E6%B2%A1%E4%B8%8A%E8%BF%87%E5%A4%A7%E5%AD%A6%EF%BC%8C%E5%8D%81%E5%87%A0%E5%B2%81%E5%B0%B1%E5%8E%BB%E5%B7%A5%E5%8E%82%E6%89%93%E5%B7%A5%E3%80%821988%E5%B9%B4%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E8%AE%BE%E4%BA%86%E4%B8%80%E5%AE%B6%E5%B7%A5%E5%8E%82%EF%BC%8C%E5%A5%B9%E6%98%AF%E9%A6%96%E6%89%B9%E5%8F%97%E9%9B%87%E7%9A%84%E5%B7%A5%E4%BA%BA%E4%B9%8B%E4%B8%80%E3%80%82%E5%A5%B9%E5%9C%A8%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%B7%A5%E4%BD%9C%E4%BA%8610%E5%B9%B4%EF%BC%8C%E4%BB%8E%E6%9C%BA%E6%A2%B0%E6%80%A7%E7%94%9F%E4%BA%A7%E5%B7%A5%E4%BD%9C%E4%B8%80%E7%9B%B4%E5%81%9A%E5%88%B0%E4%BA%86%E5%9B%A2%E9%98%9F%E8%B4%9F%E8%B4%A3%E4%BA%BA%E3%80%821998%E5%B9%B4%E5%A5%B9%E5%BC%80%E5%A7%8B%E7%8B%AC%E7%AB%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[一直](一直.md), [富士康](富士康.md), [机械](机械.md), [生产](生产.md), [精密](精密.md), [首批](首批.md)
+[一直](一直.md), [富士康](富士康.md), [机械](机械.md), [深圳](深圳.md), [生产](生产.md), [精密](精密.md), [首批](首批.md)
 ___
 ##### 2023-10-21 06:02:26 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【台积电业绩触底，对iPhone15出货增长】台积电7～9月净利润比去年同期减少24.9%，降至2110亿新台币。但与4～6月相比，营业收入增长13.7%，利润增长16.1%，业绩出现触底态势。3纳米半导体面向苹果iPhone15系列的高…

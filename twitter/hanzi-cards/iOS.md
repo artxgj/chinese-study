@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%83%B3%E5%9C%A8+iPhone+%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E6%9D%A5%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E2%80%94%E2%80%94LLMFarm++%E8%BF%99%E4%B8%AA+app+%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8C%E5%9C%A8+%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%B8%8A%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF+iOS+%E8%BF%98%E6%98%AF+MacOS%E3%80%82%E5%B9%B6%E4%B8%94%E6%94%AF%E6%8C%81RAG%E3%80%82%E7%94%B1%E4%BA%8E%E5%AE%83%E5%85%B6%E5%AE%9E%E6%98%AF+llama.cpp+%E7%9A%84%E9%AD%94%E6%94%B9%EF%BC%8C%E6%89%80%E4%BB%A5%E5%87%A0%E4%B9%8E%E6%94%AF%E6%8C%81%E6%89%80%E6%9C%89%E8%AE%BE%E5%A4%87%E8%83%BD%E8%A3%85%E5%BE%97%E4%B8%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E5%9C%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [RAG](RAG.md), [iPhone](iPhone.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
+[LLM](LLM.md), [Mac](Mac.md), [RAG](RAG.md), [iPhone](iPhone.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
 ___
 ##### 2025-04-12 07:44:45 UTC ~ Baye
 > RT @waylybaye: OpenCat 2.50 更新啦，内置了多个 MCP 工具，Cloud 提供了高德地图的 MCP，无需任何配置就可以直接使用。降低了 iOS/macOS 的系统版本要求。支持 Grok 3。修复了很多个 bug。 https://t.co/JopQ…

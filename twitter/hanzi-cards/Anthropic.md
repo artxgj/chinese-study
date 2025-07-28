@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E5%8F%91%E5%B8%83%E4%BA%86%E5%85%B3%E4%BA%8E%E4%BB%A3%E7%90%86%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%E6%9C%896%E4%B8%AA%E8%A6%81%E7%82%B9%E5%8F%AF%E4%BB%A5%E6%9C%80%E5%A4%A7%E5%8C%96Claude+Code%E5%92%8CLLM%E7%9A%84%E6%95%88%E7%8E%87%E6%9D%A5%E6%9E%84%E5%BB%BA%E3%80%82%E4%BB%A5%E4%B8%8B%E6%98%AF%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%EF%BC%88%E5%B9%B6%E9%99%84%E6%9C%89%E5%AE%98%E6%96%B9%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5%EF%BC%89+https%3A%2F%2Ft.co%2FJCHh2lugnV)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [发布](发布.md), [指南](指南.md), [效率](效率.md)
+[Claude](Claude.md), [LLM](LLM.md), [发布](发布.md), [指南](指南.md), [效率](效率.md)
 ___
 ##### 2025-04-25 02:38:30 UTC ~ 宝玉
 > RT @dotey: MCP这么火，为什么普通用户却感觉不到？2024年底，Anthropic 推出的 MCP（模型上下文协议，Model Context Protocol）迅速成为技术社区的焦点，仅几个月内便引发大量开发者的热情讨论。作为一种统一的标准化协议，MCP 帮助…

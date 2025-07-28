@@ -54,14 +54,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+[DeepSeek](DeepSeek.md), [LLM](LLM.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
 ___
 ##### 2025-04-10 03:26:11 UTC ~ AIGCLINK
 > RT @aigclink: 谷歌昨晚又开源了一个智能体开发套件：ADK，与Gemini和谷歌生态深度整合，可以创建会话型和非会话型智能体，能处理复杂任务和工作流程。支持MCP使用工作流代理（顺序、并行、循环）定义工作流，实现可预测的管道，支持基于LLM驱动的动态路由… ht…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%B0%B7%E6%AD%8C%E6%98%A8%E6%99%9A%E5%8F%88%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6%EF%BC%9AADK%EF%BC%8C%E4%B8%8EGemini%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%94%9F%E6%80%81%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D%E5%9E%8B%E5%92%8C%E9%9D%9E%E4%BC%9A%E8%AF%9D%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%83%BD%E5%A4%84%E7%90%86%E5%A4%8D%E6%9D%82%E4%BB%BB%E5%8A%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E3%80%82%E6%94%AF%E6%8C%81MCP%E4%BD%BF%E7%94%A8%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BB%A3%E7%90%86%EF%BC%88%E9%A1%BA%E5%BA%8F%E3%80%81%E5%B9%B6%E8%A1%8C%E3%80%81%E5%BE%AA%E7%8E%AF%EF%BC%89%E5%AE%9A%E4%B9%89%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%8C%E5%AE%9E%E7%8E%B0%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E7%AE%A1%E9%81%93%EF%BC%8C%E6%94%AF%E6%8C%81%E5%9F%BA%E4%BA%8ELLM%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%8A%A8%E6%80%81%E8%B7%AF%E7%94%B1%E2%80%A6+ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
+[LLM](LLM.md), [MCP](MCP.md), [型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
 ___
 ##### 2025-04-09 16:17:09 UTC ~ 向阳乔木
 > RT @vista8: 今天在钉钉做了一场直播，PPT是这两天重新写的。分享三个重点：AI发展速度超乎想象、学什么才能不落伍、如何学才能收获最大。AI发展速度快到上个月在清华大学分享的PPT这个月就得改。最佳编程模型从Claude 3.7变成Gemini 2.5 P…

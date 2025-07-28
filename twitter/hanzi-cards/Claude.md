@@ -61,7 +61,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E5%8F%91%E5%B8%83%E4%BA%86%E5%85%B3%E4%BA%8E%E4%BB%A3%E7%90%86%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%8C%E6%95%B4%E6%8C%87%E5%8D%97%E6%9C%896%E4%B8%AA%E8%A6%81%E7%82%B9%E5%8F%AF%E4%BB%A5%E6%9C%80%E5%A4%A7%E5%8C%96Claude+Code%E5%92%8CLLM%E7%9A%84%E6%95%88%E7%8E%87%E6%9D%A5%E6%9E%84%E5%BB%BA%E3%80%82%E4%BB%A5%E4%B8%8B%E6%98%AF%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9%EF%BC%88%E5%B9%B6%E9%99%84%E6%9C%89%E5%AE%98%E6%96%B9%E5%8D%9A%E5%AE%A2%E9%93%BE%E6%8E%A5%EF%BC%89+https%3A%2F%2Ft.co%2FJCHh2lugnV)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [发布](发布.md), [指南](指南.md), [效率](效率.md)
+[Anthropic](Anthropic.md), [LLM](LLM.md), [发布](发布.md), [指南](指南.md), [效率](效率.md)
 ___
 ##### 2025-04-22 16:25:45 UTC ~ GitHubDaily
 > RT @GitHub_Daily: GitHub 上这款 Browserbase MCP Server 浏览器爬虫 MCP 服务器有点强大！通过它能够让 Claude 直接控制网页浏览器，除了可以爬取页面上内容外，还能网页导航、截图、点击和内容填写等操作。GitHub：…
@@ -82,7 +82,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E6%A6%82%E5%BF%B5%E4%B8%8D%E9%94%99%EF%BC%8C%E4%B8%80%E6%AC%BELLM%E9%80%9A%E7%94%A8%E8%AE%B0%E5%BF%86MCP%EF%BC%9ASupermemory+MCP%EF%BC%8C%E4%BD%9C%E7%94%A8%E6%98%AF%E8%AE%A9%E4%B8%8D%E5%90%8C%E7%9A%84AI%EF%BC%8C%E6%AF%94%E5%A6%82ChatGPT%E3%80%81Windsurf%E3%80%81Claude%E7%AD%89%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E5%85%B1%E4%BA%AB%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B9%9F%E5%B0%B1%E6%98%AF%E8%AF%B4%E4%BD%A0%E4%B8%8E%E4%B8%80%E4%B8%AALLM%E7%9A%84%E5%AF%B9%E8%AF%9D%E5%86%85%E5%AE%B9%E5%8F%AF%E4%BB%A5%E8%A2%AB%E5%85%B6%E4%BB%96LLM%E8%AE%BF%E9%97%AE%E5%92%8C%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%AE%9E%E7%8E%B0%E6%9B%B4%E8%BF%9E%E8%B4%AF%E7%9A%84%E5%AF%B9%E8%AF%9D%E4%BD%93%E9%AA%8C%E7%9B%AE%E5%89%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [上下文](上下文.md), [共享](共享.md), [实现](实现.md)
+[LLM](LLM.md), [MCP](MCP.md), [上下文](上下文.md), [共享](共享.md), [实现](实现.md)
 ___
 ##### 2025-04-17 16:56:01 UTC ~ AIGCLINK
 > RT @aigclink: FastAPI-MCP：可以把任意FastAPI应用变成 MCP服务器FastAPI-MCP是一个近乎零配置的工具，用于自动把FastAPI接口转换为MCP工具比如，你让Claude执行："帮我给用户ID为12345的用户发送一封提醒邮件"，…

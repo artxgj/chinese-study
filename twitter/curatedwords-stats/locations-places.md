@@ -15,9 +15,14 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [福建](../hanzi-cards/福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
 | [闽](../hanzi-cards/闽.md)/[閩](../hanzi-cards/閩.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](../hanzi-cards/闽南.md)/[閩南](../hanzi-cards/閩南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
-| [陕西](../hanzi-cards/陕西.md)/[陝西](../hanzi-cards/陝西.md) | Shaanxi |
-| [山西](../hanzi-cards/山西.md) | Shanxi |
+| [深圳](../hanzi-cards/深圳.md) | Shenzhen |
+| [广东](../hanzi-cards/广东.md)/[廣東](../hanzi-cards/廣東.md) | Guangdong |
+| [杭州](../hanzi-cards/杭州.md) | Hangzhou |
 | [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |
+| [山东](../hanzi-cards/山东.md)/[山東](../hanzi-cards/山東.md) | Shandong |
+| [山西](../hanzi-cards/山西.md) | Shanxi |
+| [陕西](../hanzi-cards/陕西.md)/[陝西](../hanzi-cards/陝西.md) | Shaanxi |
+| [西安](../hanzi-cards/西安.md) | Xi'an |
 | [敦煌](../hanzi-cards/敦煌.md) | Dunhuang |
 | [新疆](../hanzi-cards/新疆.md) | Xinjiang |
 | [西藏](../hanzi-cards/西藏.md) | Xizang/Tibet |

@@ -54,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+5%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84AI%E4%BB%A3%E7%90%86%E3%80%81MCP%E5%92%8CLLM%E6%9B%B4%E6%96%B0%EF%BC%9A1.+%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86FastVLM%E4%BB%A3%E7%A0%81%E5%92%8C%E6%A8%A1%E5%9E%8B%E3%80%82%E4%B8%80%E6%AC%BE%E6%9E%81%E9%80%9F%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8iPhone%E4%B8%8A%E8%BF%90%E8%A1%8C%EF%BC%8C%E4%BD%BF%E7%94%A8MLX%EF%BC%8C%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E7%9A%84%E7%BC%96%E7%A0%81%E6%97%B6%E9%97%B4%E3%80%82%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%AE%9E%E6%97%B6%E7%9A%84%E8%AE%BE%E5%A4%87%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%82+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
+[LLM](LLM.md), [iPhone](iPhone.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-05-05 15:57:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: Excel MCP Server 这款 MCP 服务器颇为实用，通过 AI 助手直接操作 Excel 文件，或许不用再装微软 Excel 办公软件了。目前已经实现创建、读取和修改 Excel 表格数据，甚至还能应用格式、创建图表和透视表，…
@@ -124,7 +124,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40miantiao_me%3A+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%83%BD%E6%9C%89%E6%88%AA%E6%AD%A2%E6%97%B6%E9%97%B4%EF%BC%8C%E9%9D%A2%E5%AF%B9%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BA%93%E5%86%99%E5%87%BA%E6%9D%A5%E7%9A%84%E4%BB%A3%E7%A0%81%E5%A4%A7%E6%A6%82%E7%8E%87%E6%B2%A1%E6%B3%95%E7%94%A8Context7+%E6%8F%90%E4%BE%9B%E4%BA%86+1800%2B+%E7%83%AD%E9%97%A8%E5%BA%93%E7%9A%84+LLMs.txt+%E5%92%8C+MCP+Server+%E7%BB%99%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%BB%E5%8F%96%E6%88%96%E8%80%85%E7%BC%96%E8%BE%91%E5%99%A8%E8%B0%83%E7%94%A8%EF%BC%8C%E7%94%B1+Upstash+%E5%BC%80%E6%BA%90%E8%AE%A9+AI+%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%90%86%E8%A7%A3%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [型](型.md), [开源](开源.md), [提供](提供.md), [模型](模型.md)
+[LLM](LLM.md), [代码](代码.md), [型](型.md), [开源](开源.md), [提供](提供.md), [模型](模型.md)
 ___
 ##### 2025-04-21 00:24:29 UTC ~ AIGCLINK
 > RT @aigclink: 微软发布了一个文档转换MCP：markitdown-mcp，用于将网页链接(http/https)、本地文件以及数据转换为Markdown格式！主要是调用MarkItDown进行格式转换。可以通过Docker运行或直接安装，也可以与Claude等…
@@ -173,7 +173,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E6%A6%82%E5%BF%B5%E4%B8%8D%E9%94%99%EF%BC%8C%E4%B8%80%E6%AC%BELLM%E9%80%9A%E7%94%A8%E8%AE%B0%E5%BF%86MCP%EF%BC%9ASupermemory+MCP%EF%BC%8C%E4%BD%9C%E7%94%A8%E6%98%AF%E8%AE%A9%E4%B8%8D%E5%90%8C%E7%9A%84AI%EF%BC%8C%E6%AF%94%E5%A6%82ChatGPT%E3%80%81Windsurf%E3%80%81Claude%E7%AD%89%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E5%85%B1%E4%BA%AB%E4%B8%8A%E4%B8%8B%E6%96%87%E4%B9%9F%E5%B0%B1%E6%98%AF%E8%AF%B4%E4%BD%A0%E4%B8%8E%E4%B8%80%E4%B8%AALLM%E7%9A%84%E5%AF%B9%E8%AF%9D%E5%86%85%E5%AE%B9%E5%8F%AF%E4%BB%A5%E8%A2%AB%E5%85%B6%E4%BB%96LLM%E8%AE%BF%E9%97%AE%E5%92%8C%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%AE%9E%E7%8E%B0%E6%9B%B4%E8%BF%9E%E8%B4%AF%E7%9A%84%E5%AF%B9%E8%AF%9D%E4%BD%93%E9%AA%8C%E7%9B%AE%E5%89%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [上下文](上下文.md), [共享](共享.md), [实现](实现.md)
+[Claude](Claude.md), [LLM](LLM.md), [上下文](上下文.md), [共享](共享.md), [实现](实现.md)
 ___
 ##### 2025-04-17 17:48:06 UTC ~ meng shao
 > RT @shao__meng: FastAPI-MCP：将 FastAPI 应用端点自动转化为 MCP 的开源项目，来自 Tadata 团队感谢 @makhlevich 的邀约，很开心能为 FastAPI-MCP 编写中文版 Readme，希望能让这个项目帮助到更多的开发者…
@@ -313,7 +313,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%B0%B7%E6%AD%8C%E6%98%A8%E6%99%9A%E5%8F%88%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6%EF%BC%9AADK%EF%BC%8C%E4%B8%8EGemini%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%94%9F%E6%80%81%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D%E5%9E%8B%E5%92%8C%E9%9D%9E%E4%BC%9A%E8%AF%9D%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%83%BD%E5%A4%84%E7%90%86%E5%A4%8D%E6%9D%82%E4%BB%BB%E5%8A%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E3%80%82%E6%94%AF%E6%8C%81MCP%E4%BD%BF%E7%94%A8%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BB%A3%E7%90%86%EF%BC%88%E9%A1%BA%E5%BA%8F%E3%80%81%E5%B9%B6%E8%A1%8C%E3%80%81%E5%BE%AA%E7%8E%AF%EF%BC%89%E5%AE%9A%E4%B9%89%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%8C%E5%AE%9E%E7%8E%B0%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E7%AE%A1%E9%81%93%EF%BC%8C%E6%94%AF%E6%8C%81%E5%9F%BA%E4%BA%8ELLM%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%8A%A8%E6%80%81%E8%B7%AF%E7%94%B1%E2%80%A6+ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemini](Gemini.md), [型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
+[Gemini](Gemini.md), [LLM](LLM.md), [型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
 ___
 ##### 2025-04-09 11:42:42 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 上周我写 MCP 教程的时候说，希望有大厂可以搞个一键安装的 MCP 商店没想到这一天来的这么快阿里云百炼平台推出了业界首个全生命周期MCP服务企业、开发者甚至个人用户可以一键部署 MCP 服务，可视化构建 Agents！👇下面写个简单的…
@@ -444,14 +444,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E4%BB%BD%E7%B2%BE%E5%BF%83%E6%95%B4%E7%90%86%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86%EF%BC%9Aawesome-LLM-resourses%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E3%80%81%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E3%80%81%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E3%80%81o1+%E6%A8%A1%E5%9E%8B%E3%80%81MCP%E3%80%81%E7%9F%A5%E8%AF%86%E5%BA%93+RAG%E3%80%81%E6%99%BA%E8%83%BD%E4%BD%93+Agents%E3%80%81%E4%B9%A6%E7%B1%8D%E3%80%81%E6%95%99%E7%A8%8B%E3%80%81%E8%AE%BA%E6%96%87%E7%AD%89%E8%B5%84%E6%BA%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[RAG](RAG.md), [型](型.md), [处理](处理.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [资源](资源.md)
+[LLM](LLM.md), [RAG](RAG.md), [型](型.md), [处理](处理.md), [大语言模型](大语言模型.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [资源](资源.md)
 ___
 ##### 2025-03-20 06:56:37 UTC ~ nowa
 > RT @nowazhu: 我们刚刚通过 LongPort 的 OpenAPI 服务 Release 了 Longbridge 的 MCP Server，现在可以方便地使用 Cursor 等 IDE 或者直接使用 LLM 调用 Longbridge 的股票行情、订单、持仓等 AP…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nowazhu%3A+%E6%88%91%E4%BB%AC%E5%88%9A%E5%88%9A%E9%80%9A%E8%BF%87+LongPort+%E7%9A%84+OpenAPI+%E6%9C%8D%E5%8A%A1+Release+%E4%BA%86+Longbridge+%E7%9A%84+MCP+Server%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E6%96%B9%E4%BE%BF%E5%9C%B0%E4%BD%BF%E7%94%A8+Cursor+%E7%AD%89+IDE+%E6%88%96%E8%80%85%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8+LLM+%E8%B0%83%E7%94%A8+Longbridge+%E7%9A%84%E8%82%A1%E7%A5%A8%E8%A1%8C%E6%83%85%E3%80%81%E8%AE%A2%E5%8D%95%E3%80%81%E6%8C%81%E4%BB%93%E7%AD%89+AP%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[直接](直接.md), [行情](行情.md), [订单](订单.md)
+[LLM](LLM.md), [直接](直接.md), [行情](行情.md), [订单](订单.md)
 ___
 ##### 2025-03-18 05:15:35 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: Blender MCP 重大更新，不是建模建不好吗现在可以调用 polyhaven 的 1500 个资产库了直接从资产库拉素材拼装，比原来从零开始更快而且效果更好仅用文字创建海滩场景，Claude 自动拉取HDRI、纹理和模型https:…
@@ -549,7 +549,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40akazwz_%3A+%E4%BB%80%E4%B9%88%E6%98%AFMCP%EF%BC%9FMCP%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%80%E6%94%BE%E5%8D%8F%E8%AE%AE%2C%E7%94%A8%E4%BA%8E%E6%A0%87%E5%87%86%E5%8C%96%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A6%82%E4%BD%95%E4%B8%BALLM%E6%8F%90%E4%BE%9B%E4%B8%8A%E4%B8%8B%E6%96%87%E3%80%82%E5%B0%86MCP%E8%A7%86%E4%B8%BAAI%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84USB-C%E7%AB%AF%E5%8F%A3%E3%80%82%E6%AD%A3%E5%A6%82USB-C%E6%8F%90%E4%BE%9B%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B0%86%E8%AE%BE%E5%A4%87%E8%BF%9E%E6%8E%A5%E5%88%B0%E5%90%84%E7%A7%8D%E5%A4%96%E5%9B%B4%E8%AE%BE%E5%A4%87%E5%92%8C%E9%99%84%E4%BB%B6%E7%9A%84%E6%A0%87%E5%87%86%E5%8C%96%E6%96%B9%E6%B3%95%E4%B8%80%E6%A0%B7%2CMCP%E4%B9%9F%E6%8F%90%E4%BE%9B%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B0%86AI%E6%A8%A1%E5%9E%8B%E8%BF%9E%E6%8E%A5%E5%88%B0%E4%B8%8D%E5%90%8C%E6%95%B0%E6%8D%AE%E6%BA%90%E5%92%8C%E5%B7%A5%E5%85%B7%E7%9A%84%E6%A0%87%E5%87%86%E5%8C%96%E6%96%B9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上下文](上下文.md), [协议](协议.md), [型](型.md), [工具](工具.md), [提供](提供.md), [数据](数据.md), [模型](模型.md), [用于](用于.md), [程序](程序.md), [连接](连接.md)
+[LLM](LLM.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [工具](工具.md), [提供](提供.md), [数据](数据.md), [模型](模型.md), [用于](用于.md), [程序](程序.md), [连接](连接.md)
 ___
 ##### 2024-07-31 04:35:09 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国7月份制造业采购经理指数（PMI）连续第三个月萎缩，加剧外界对中国经济复苏步伐的担忧。  https://t.co/MCPIYHr7Fn

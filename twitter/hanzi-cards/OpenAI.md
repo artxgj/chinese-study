@@ -152,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [LLM](LLM.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
 ___
 ##### 2025-04-06 05:04:45 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 事实上，AI模型成本下降趋势早已不可逆转。近两年AI模型的训练与推理成本已下降约80%，DeepSeek的激进定价策略只是加速这过程。不仅打破OpenAI等巨头的定价垄断，也催生大量开源模型，降低AI技术应用门槛，加快AI普及速度。 https://…
@@ -285,7 +285,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E6%AD%A3%E5%9C%A8%E9%99%8D%E4%BD%8E%E5%AF%B9%E5%85%B6%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A2%84%E6%9C%9F%EF%BC%8C%E5%B9%B6%E5%B0%86%E9%87%8D%E7%82%B9%E6%94%BE%E5%9C%A8%E4%B8%80%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%96%B9%E6%B3%95%E4%B8%8A%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%9C%AA%E6%9D%A5%E6%9B%B4%E6%96%B0ChatGPT%E8%83%8C%E5%90%8E%E7%9A%84%E6%8A%80%E6%9C%AF%E3%80%82OpenAI%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B0%86%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%91%A8%E5%86%85%E5%85%88%E5%8F%91%E5%B8%83GPT-4.5%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E5%8F%91%E5%B8%83GPT-5%E3%80%82https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [执行](执行.md), [技术](技术.md), [模型](模型.md), [用于](用于.md), [降低](降低.md), [预期](预期.md), [首席执行官](首席执行官.md)
+[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [大语言模型](大语言模型.md), [执行](执行.md), [技术](技术.md), [模型](模型.md), [用于](用于.md), [降低](降低.md), [预期](预期.md), [首席执行官](首席执行官.md)
 ___
 ##### 2025-02-13 05:15:42 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【日本AI研究第一人這樣評價Deepseek】東京大學教授 松尾豐：DeepSeek的技術很出色，性能與美國OpenAI接近。DeepSeek的出現對日本的初創企業來説也是一種鼓舞。（關於安全風險）根據使用方式的不同，風險也不同，這點不管…
@@ -481,7 +481,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E5%8F%91%E5%B8%83%E4%B8%80%E6%AC%BE%E4%BB%B7%E6%A0%BC%E4%BD%8E%E5%BB%89%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8BDeepSeek-R1%EF%BC%8C%E5%85%B6%E6%80%A7%E8%83%BD%E6%AF%94%E6%8B%9F%E7%BE%8E%E5%9B%BDOpenAI%E5%BC%80%E5%8F%91%E7%9A%84%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8Bo1%EF%BC%8C%E4%BD%86%E8%AE%AD%E7%BB%83%E6%88%90%E6%9C%AC%E6%9B%B4%E4%BD%8E%E3%80%82+https%3A%2F%2Ft.co%2FQLIjvqKnl7)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [价格](价格.md), [低廉](低廉.md), [发布](发布.md), [型](型.md), [开发](开发.md), [成本](成本.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md)
+[DeepSeek](DeepSeek.md), [价格](价格.md), [低廉](低廉.md), [发布](发布.md), [型](型.md), [大语言模型](大语言模型.md), [开发](开发.md), [成本](成本.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md)
 ___
 ##### 2025-01-24 05:25:29 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国总统特朗普21日宣布，将由OpenAI、甲骨文和软银三大科技公司共同投资成立新的AI公司“星际之门”（Stargate），总投资额达到5000亿美元。此举引起全球关注，尤其是被排除在外的全球首富马斯克随后在社交媒体上与OpenAI执行长奥…
@@ -1181,7 +1181,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%91%A8%E4%B8%80%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%BF%99%E5%AE%B6%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E6%AC%BE%E7%94%9F%E6%88%90%E5%BC%8F%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%A7%B0%E8%BF%99%E6%AC%BE%E6%A8%A1%E5%9E%8B%E5%B0%86%E6%AF%94%E8%82%A9ChatGPT%E6%8A%80%E6%9C%AF%E3%80%82%E6%B7%B1%E5%9C%B3%E4%B8%8A%E5%B8%82%E7%9A%84%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E7%A5%A8%E8%A7%A6%E5%8F%8A10%25%E6%B6%A8%E5%81%9C%E6%9D%BF%EF%BC%8C%E5%B9%B4%E5%86%85%E6%B6%A8%E5%B9%85%E8%BE%BE95%25%EF%BC%8C%E6%AD%A4%E5%89%8D%E7%94%B1OpenAI%E5%BC%80%E5%8F%91%E7%9A%84ChatGPT%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E5%8F%91%E7%83%AD%E6%BD%AE%EF%BC%8C%E4%B8%AD%E5%9B%BDAI%E7%9B%B8%E5%85%B3%E8%82%A1%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [机器人](机器人.md), [模型](模型.md), [涨幅](涨幅.md), [热潮](热潮.md), [相关](相关.md), [聊天](聊天.md), [股份](股份.md)
+[发布](发布.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [机器人](机器人.md), [模型](模型.md), [涨幅](涨幅.md), [深圳](深圳.md), [热潮](热潮.md), [相关](相关.md), [聊天](聊天.md), [股份](股份.md)
 ___
 ##### 2023-05-08 04:36:21 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #更新 OpenAI在去年11月下旬发布的ChatGPT引发了一场新的全球人工智能竞赛。这款聊天机器人是新一波所谓生成式AI浪潮的一部分。它已经震动了大型科技公司，并势将颠覆众多行业和未来工作。政府对ChatGPT这样的工具作何反应？AI会抢人类…
@@ -1223,7 +1223,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+OpenAI%E6%89%93%E9%80%A0%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAChatGPT%E8%87%AA%E5%8E%BB%E5%B9%B411%E6%9C%88%E5%BA%95%E6%8E%A8%E5%87%BA%E5%90%8E%EF%BC%8C%E7%9F%AD%E7%9F%AD2%E4%B8%AA%E6%9C%88%E5%86%85%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E6%95%B0%E7%AA%81%E7%A0%B41%E4%BA%BF%E6%88%B7%EF%BC%8C%E6%88%90%E4%B8%BA%E5%8F%B2%E4%B8%8A%E7%94%A8%E6%88%B7%E6%95%B0%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%E3%80%82%E8%B0%81%E6%98%AF%E8%BF%99%E6%B3%A2ChatGPT%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%9A%84%E8%B5%A2%E5%AE%B6%EF%BC%9F%E4%BD%A0%E4%BB%A5%E4%B8%BA%E5%8F%AA%E6%9C%89%E5%BE%AE%E8%BD%AF%EF%BC%9F%E5%85%B6%E5%AE%9E%E5%B9%95%E5%90%8E%E7%9A%84%E8%B5%A2%E5%AE%B6%E6%98%AFGPU%E6%99%B6%E7%89%87%E9%BE%99%E5%A4%B4%E4%BC%81%E4%B8%9ANVIDIA%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[增长](增长.md), [微软](微软.md), [打造](打造.md), [推出](推出.md), [晶片](晶片.md), [机器人](机器人.md), [活跃](活跃.md), [突破](突破.md), [聊天](聊天.md)
+[GPU](GPU.md), [增长](增长.md), [微软](微软.md), [打造](打造.md), [推出](推出.md), [晶片](晶片.md), [机器人](机器人.md), [活跃](活跃.md), [突破](突破.md), [聊天](聊天.md)
 ___
 ##### 2023-03-09 19:12:48 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 一家由苹果公司前高管创立的初创公司公布了新一轮1亿美元的投资，并宣布与ChatGPT的创建者OpenAI以及微软建立了合作关系。https://t.co/4YYicy9KY4
@@ -1251,7 +1251,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90ChatGPT%E7%9A%84%E8%83%8C%E5%90%8E%E8%B5%A2%E5%AE%B6%E2%80%94%E2%80%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%91%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9C%A82022%E5%B9%B411%E6%9C%88%EF%BD%9E2023%E5%B9%B41%E6%9C%88%E9%94%80%E5%94%AE%E9%A2%9D%E5%92%8C%E5%88%A9%E6%B6%A6%E5%8F%8C%E4%B8%8B%E9%99%8D%EF%BC%8C%E4%BD%86%E8%B4%A2%E6%8A%A5%E5%8F%91%E5%B8%83%E5%90%8E%E8%82%A1%E4%BB%B7%E5%8D%B4%E4%B8%8A%E6%B6%A8%E8%BF%919%EF%BC%85%E3%80%82%E8%83%8C%E5%90%8E%E5%AD%98%E5%9C%A8%E7%9A%84%E6%98%AF%E7%BE%8E%E5%9B%BDOpenAI%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9CChatGPT%E2%80%9D%E3%80%82%E8%BF%99%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%A6%81%E8%AE%A9AI%E5%8F%98%E8%81%AA%E6%98%8E%E9%9C%80%E8%A6%81%E5%A4%A7%E9%87%8F%E4%BD%BF%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84GPU%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [利润](利润.md), [发布](发布.md), [机器人](机器人.md), [美国](美国.md), [聊天](聊天.md), [英伟达](英伟达.md), [销售](销售.md), [销售额](销售额.md)
+[GPU](GPU.md), [上涨](上涨.md), [利润](利润.md), [发布](发布.md), [机器人](机器人.md), [美国](美国.md), [聊天](聊天.md), [英伟达](英伟达.md), [销售](销售.md), [销售额](销售额.md)
 ___
 ##### 2023-02-27 02:44:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【资金涌向生成式AI，企业估值2年增至6倍】以微软投资、推出ChatGPT的OpenAI为代表，很多初创企业获得巨额融资。全球生成式AI企业的总估值达到约480亿美元。OpenAI的估值预计为290亿美元，还有5家企业成为“独角兽”……h…

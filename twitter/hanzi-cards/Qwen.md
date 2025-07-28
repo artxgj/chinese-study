@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+Qwen3+%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%BF%91%E7%9A%84%EF%BC%8C%E5%88%9A%E5%88%9A+vLLM+%E7%9A%84+Qwen3+PR+%E5%B7%B2%E7%BB%8F%E5%90%88%E5%B9%B6%E4%BA%86%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%88%B0%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%A8%A1%E5%9E%8B%EF%BC%9AQwen3-8BQwen3-MoE-15B-A2B%E7%9B%B2%E7%8C%9C%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%98%AF%E5%A4%9A%E6%A8%A1%E6%80%81%EF%BC%9F%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%98%AF%E4%B8%93%E6%B3%A8%E6%96%87%E6%9C%AC%E7%9A%84+MoE+%E6%A8%A1%E5%9E%8B%EF%BC%9F%E6%88%91%E5%80%92%E6%98%AF%E5%B8%8C%E6%9C%9B%E8%83%BD%E5%A4%A7%E4%B8%80%E7%82%B9%E3%80%8215B%E6%84%9F%E8%A7%89%E4%B8%8D%E5%A4%AA%E5%A4%9F%E7%9C%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [模型](模型.md), [越来越](越来越.md)
+[LLM](LLM.md), [型](型.md), [模型](模型.md), [越来越](越来越.md)
 ___
 ##### 2025-04-04 07:40:47 UTC ~ karminski-牙医
 > RT @karminski3: 刚看到的侧面消息，Meta 的 AI 负责人已经离职了，可能是由于 llama-4 搞不出来目前 llama-4 面临的压力我们来数一数，首先它肯定不能大于 120B，甚至最好还是维持在 70B，然后要超越 Qwen2.5-QwQ，Gemma…
