@@ -8,6 +8,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2023-09-13 15:31:54 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 今年iPhone 15系列相比iPhone 14系列有哪些变化？ 本文从充电接口、 工业设计、 摄像头、 芯片、 价格等方面进行了全面的对比。https://t.co/8phoDV531D
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BB%8A%E5%B9%B4iPhone+15%E7%B3%BB%E5%88%97%E7%9B%B8%E6%AF%94iPhone+14%E7%B3%BB%E5%88%97%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96%EF%BC%9F+%E6%9C%AC%E6%96%87%E4%BB%8E%E5%85%85%E7%94%B5%E6%8E%A5%E5%8F%A3%E3%80%81+%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E3%80%81+%E6%91%84%E5%83%8F%E5%A4%B4%E3%80%81+%E8%8A%AF%E7%89%87%E3%80%81+%E4%BB%B7%E6%A0%BC%E7%AD%89%E6%96%B9%E9%9D%A2%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%85%A8%E9%9D%A2%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%82https%3A%2F%2Ft.co%2F8phoDV531D)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [充电](充电.md), [接口](接口.md), [摄像头](摄像头.md), [系列](系列.md), [芯片](芯片.md), [设计](设计.md), [进行](进行.md)
+___
+##### 2023-09-13 13:44:11 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 兴业投行认为，苹果刚发布的 #iPhone15 了无新意，加上华为手机翻身和中国禁止公务员使用 #iPhone，其销量将面对逆风，苹果无力扶持正处于下行周期的半导体科技领域。#applehttps://t.co/4Agibrluny htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%85%B4%E4%B8%9A%E6%8A%95%E8%A1%8C%E8%AE%A4%E4%B8%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%8F%91%E5%B8%83%E7%9A%84+%23iPhone15+%E4%BA%86%E6%97%A0%E6%96%B0%E6%84%8F%EF%BC%8C%E5%8A%A0%E4%B8%8A%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E7%BF%BB%E8%BA%AB%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%85%AC%E5%8A%A1%E5%91%98%E4%BD%BF%E7%94%A8+%23iPhone%EF%BC%8C%E5%85%B6%E9%94%80%E9%87%8F%E5%B0%86%E9%9D%A2%E5%AF%B9%E9%80%86%E9%A3%8E%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%97%A0%E5%8A%9B%E6%89%B6%E6%8C%81%E6%AD%A3%E5%A4%84%E4%BA%8E%E4%B8%8B%E8%A1%8C%E5%91%A8%E6%9C%9F%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E3%80%82%23applehttps%3A%2F%2Ft.co%2F4Agibrluny+htt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半导体](半导体.md), [华为](华为.md), [发布](发布.md), [处于](处于.md), [投行](投行.md), [禁止](禁止.md), [科技](科技.md), [苹果](苹果.md), [销量](销量.md), [领域](领域.md)
+___
+##### 2023-09-13 13:42:39 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 针对媒体报道称，中国要求政府官员不得在工作中使用苹果iPhone手机，中国外交部回应称，没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。 https://t.co/86YJfbAC3J
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%92%88%E5%AF%B9%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98%E4%B8%8D%E5%BE%97%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9CiPhone%E6%89%8B%E6%9C%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E6%B2%A1%E6%9C%89%E5%87%BA%E5%8F%B0%E7%A6%81%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%92%8C%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9C%E7%AD%89%E5%A4%96%E5%9B%BD%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E7%9A%84%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%92%8C%E6%94%BF%E7%AD%96%E6%96%87%E4%BB%B6%E3%80%82+https%3A%2F%2Ft.co%2F86YJfbAC3J)
+##### Other Words/Names of Interest in the Above Tweet
+[品牌](品牌.md), [政策](政策.md), [文件](文件.md), [禁止](禁止.md), [苹果](苹果.md), [购买](购买.md), [针对](针对.md)
+___
 ##### 2023-09-13 12:07:47 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 法国国家频率管理局星期二（9月12日）发布公告称，检测结果显示苹果iPhone12手机的电磁波辐射值超出欧盟标准，已要求苹果公司自当日起从法国市场暂时下架这款手机。  https://t.co/g5GjdGU3ZM
 

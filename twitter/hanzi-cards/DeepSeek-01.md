@@ -8,6 +8,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-06 17:11:09 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【最新的开源DeepSeek R1在强化学习阶段之前，使用了多阶段训练和冷启动数据，在全球技术领域引起了轩然大波。#奕帆丰顺】#DeepSeek #AI #人工智能 #南洋商报 https://t.co/pwkYMnMedO https://…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%9C%80%E6%96%B0%E7%9A%84%E5%BC%80%E6%BA%90DeepSeek+R1%E5%9C%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E9%98%B6%E6%AE%B5%E4%B9%8B%E5%89%8D%EF%BC%8C%E4%BD%BF%E7%94%A8%E4%BA%86%E5%A4%9A%E9%98%B6%E6%AE%B5%E8%AE%AD%E7%BB%83%E5%92%8C%E5%86%B7%E5%90%AF%E5%8A%A8%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%9C%A8%E5%85%A8%E7%90%83%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E5%BC%95%E8%B5%B7%E4%BA%86%E8%BD%A9%E7%84%B6%E5%A4%A7%E6%B3%A2%E3%80%82%23%E5%A5%95%E5%B8%86%E4%B8%B0%E9%A1%BA%E3%80%91%23DeepSeek+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+https%3A%2F%2Ft.co%2FpwkYMnMedO+https%3A%2F%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [启动](启动.md), [开源](开源.md), [引起](引起.md), [技术](技术.md), [数据](数据.md), [阶段](阶段.md), [领域](领域.md)
+___
+##### 2025-02-06 16:49:53 UTC ~ 中國新聞社
+> RT @CNS1952: 【多地召開新春第一會，置頂營商環境】“華為以領先的數字技術賦能千行百業；深度求索(DeepSeek)以不怕虎的勇氣銳氣撼動美國人工智能巨頭、產生連鎖效應；宇樹科技的機器人登上央視春晚舞台……”在中國經濟第一大省廣東的新春第一會上，省委書記黃坤明接連點…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E3%80%90%E5%A4%9A%E5%9C%B0%E5%8F%AC%E9%96%8B%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E6%9C%83%EF%BC%8C%E7%BD%AE%E9%A0%82%E7%87%9F%E5%95%86%E7%92%B0%E5%A2%83%E3%80%91%E2%80%9C%E8%8F%AF%E7%82%BA%E4%BB%A5%E9%A0%98%E5%85%88%E7%9A%84%E6%95%B8%E5%AD%97%E6%8A%80%E8%A1%93%E8%B3%A6%E8%83%BD%E5%8D%83%E8%A1%8C%E7%99%BE%E6%A5%AD%EF%BC%9B%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%28DeepSeek%29%E4%BB%A5%E4%B8%8D%E6%80%95%E8%99%8E%E7%9A%84%E5%8B%87%E6%B0%A3%E9%8A%B3%E6%B0%A3%E6%92%BC%E5%8B%95%E7%BE%8E%E5%9C%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A8%E9%A0%AD%E3%80%81%E7%94%A2%E7%94%9F%E9%80%A3%E9%8E%96%E6%95%88%E6%87%89%EF%BC%9B%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%E2%80%A6%E2%80%A6%E2%80%9D%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%BB%A3%E6%9D%B1%E7%9A%84%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E6%9C%83%E4%B8%8A%EF%BC%8C%E7%9C%81%E5%A7%94%E6%9B%B8%E8%A8%98%E9%BB%83%E5%9D%A4%E6%98%8E%E6%8E%A5%E9%80%A3%E9%BB%9E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [新春](新春.md), [深度求索](深度求索.md), [科技](科技.md), [美國](美國.md), [華為](華為.md)
+___
+##### 2025-02-06 11:48:36 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 韩国多个政府部门开始屏蔽中国人工智能（AI）企业深度探索（DeepSeek）的大模型平台。 https://t.co/XnlIsznPKN https://t.co/XbuTxIxjts
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%9F%A9%E5%9B%BD%E5%A4%9A%E4%B8%AA%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E5%BC%80%E5%A7%8B%E5%B1%8F%E8%94%BD%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E4%BC%81%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B9%B3%E5%8F%B0%E3%80%82+https%3A%2F%2Ft.co%2FXnlIsznPKN+https%3A%2F%2Ft.co%2FXbuTxIxjts)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [屏](屏.md), [平台](平台.md), [探索](探索.md), [模型](模型.md), [韩国](韩国.md)
+___
+##### 2025-02-06 06:36:52 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 华尔街的AI交易上周遇挫，但投资者仍紧紧抓住过去两年屡试不爽的策略，也就是坚定推高大型科技股，押注美国尖端芯片将使这些公司在AI革命中处于领先地位。Meta和微软等公司表示，DeepSeek的横空出世不会阻止其雄心勃勃的投资。https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8D%8E%E5%B0%94%E8%A1%97%E7%9A%84AI%E4%BA%A4%E6%98%93%E4%B8%8A%E5%91%A8%E9%81%87%E6%8C%AB%EF%BC%8C%E4%BD%86%E6%8A%95%E8%B5%84%E8%80%85%E4%BB%8D%E7%B4%A7%E7%B4%A7%E6%8A%93%E4%BD%8F%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E5%B1%A1%E8%AF%95%E4%B8%8D%E7%88%BD%E7%9A%84%E7%AD%96%E7%95%A5%EF%BC%8C%E4%B9%9F%E5%B0%B1%E6%98%AF%E5%9D%9A%E5%AE%9A%E6%8E%A8%E9%AB%98%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E8%82%A1%EF%BC%8C%E6%8A%BC%E6%B3%A8%E7%BE%8E%E5%9B%BD%E5%B0%96%E7%AB%AF%E8%8A%AF%E7%89%87%E5%B0%86%E4%BD%BF%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E5%9C%A8AI%E9%9D%A9%E5%91%BD%E4%B8%AD%E5%A4%84%E4%BA%8E%E9%A2%86%E5%85%88%E5%9C%B0%E4%BD%8D%E3%80%82Meta%E5%92%8C%E5%BE%AE%E8%BD%AF%E7%AD%89%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8CDeepSeek%E7%9A%84%E6%A8%AA%E7%A9%BA%E5%87%BA%E4%B8%96%E4%B8%8D%E4%BC%9A%E9%98%BB%E6%AD%A2%E5%85%B6%E9%9B%84%E5%BF%83%E5%8B%83%E5%8B%83%E7%9A%84%E6%8A%95%E8%B5%84%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [型](型.md), [处于](处于.md), [尖端](尖端.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [押注](押注.md), [推高](推高.md), [横空出世](横空出世.md), [科技](科技.md), [策略](策略.md), [美国](美国.md), [芯片](芯片.md), [阻止](阻止.md)
+___
 ##### 2025-02-06 06:36:17 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 有分析师认为，DeepSeek带来了更便宜、更节能的AI模型，但其影响尚未在美国股市得到充分体现。硅谷科技巨头的巨额AI投资承诺受到审视，但没有的AI支出竞赛反而愈演愈烈，而投资者则仍有理由保持谨慎。https://t.co/UsprKF1h8F
 
@@ -34,7 +62,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E5%90%8E%E5%A4%8D%E5%B7%A5%E9%A6%96%E6%97%A5%EF%BC%8C%E5%A4%9A%E5%AE%B6%E5%AA%92%E4%BD%93%E5%89%8D%E5%BE%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E4%BD%8D%E4%BA%8E%E6%9D%AD%E5%B7%9E%E7%9A%84%E6%80%BB%E9%83%A8%E9%87%87%E8%AE%BF%EF%BC%8C%E4%BD%86%E5%9D%87%E8%A2%AB%E5%A9%89%E6%8B%92%E3%80%82+https%3A%2F%2Ft.co%2F5ymZYzWHsh)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [春节](春节.md), [深度求索](深度求索.md), [采访](采访.md)
+[人工](人工.md), [人工智能](人工智能.md), [春节](春节.md), [杭州](杭州.md), [深度求索](深度求索.md), [采访](采访.md)
 ___
 ##### 2025-02-05 16:01:43 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国A股星期三（2月5日）迎来春节后首个交易日，截至收盘三大股指涨跌互现，深度求索（DeepSeek）概念股掀涨停潮。 https://t.co/nRnXNB9ASp
@@ -83,7 +111,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%88%86%E7%81%AB%E5%90%8E%EF%BC%8C%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%92%8C%E6%9D%AD%E5%B7%9E%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%8C%E9%83%A8%E5%88%86%E5%B2%97%E4%BD%8D%E5%B9%B4%E8%96%AA%E8%B6%85%E8%BF%87100%E4%B8%87%E5%85%83%EF%BC%88%E4%BA%BA%E6%B0%91%E5%B8%81%EF%BC%8C18.6%E4%B8%87%E6%96%B0%E5%85%83%EF%BC%89%E3%80%82+https%3A%2F%2Ft.co%2Fsq9xy10MJb)
 ##### Other Words/Names of Interest in the Above Tweet
-[启动](启动.md), [招](招.md), [招聘](招聘.md), [深度求索](深度求索.md), [规模](规模.md), [超过](超过.md)
+[启动](启动.md), [招](招.md), [招聘](招聘.md), [杭州](杭州.md), [深度求索](深度求索.md), [规模](规模.md), [超过](超过.md)
 ___
 ##### 2025-02-04 11:32:07 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 继华为云等多个平台后，阿里云和百度智能云也宣布上线人工智能（AI）公司深度求索（DeepSeek）大模型。 https://t.co/j1hGDQmNsU

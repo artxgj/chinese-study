@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2025-07-14 15:31:08 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: “中国团队、英文界面、新加坡总部”——三个看似毫无交集的标签，同时贴在Manus AI身上。这家曾被视为中国通用AI破局者、一度引爆全球科技圈的公司，如今正悄然转身，撤出中国。 https://t.co/NaEmfJmgk1
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%9B%A2%E9%98%9F%E3%80%81%E8%8B%B1%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%80%BB%E9%83%A8%E2%80%9D%E2%80%94%E2%80%94%E4%B8%89%E4%B8%AA%E7%9C%8B%E4%BC%BC%E6%AF%AB%E6%97%A0%E4%BA%A4%E9%9B%86%E7%9A%84%E6%A0%87%E7%AD%BE%EF%BC%8C%E5%90%8C%E6%97%B6%E8%B4%B4%E5%9C%A8Manus+AI%E8%BA%AB%E4%B8%8A%E3%80%82%E8%BF%99%E5%AE%B6%E6%9B%BE%E8%A2%AB%E8%A7%86%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%94%A8AI%E7%A0%B4%E5%B1%80%E8%80%85%E3%80%81%E4%B8%80%E5%BA%A6%E5%BC%95%E7%88%86%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E5%9C%88%E7%9A%84%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%A6%82%E4%BB%8A%E6%AD%A3%E6%82%84%E7%84%B6%E8%BD%AC%E8%BA%AB%EF%BC%8C%E6%92%A4%E5%87%BA%E4%B8%AD%E5%9B%BD%E3%80%82+https%3A%2F%2Ft.co%2FNaEmfJmgk1)
+##### Other Words/Names of Interest in the Above Tweet
+[圈](圈.md), [如今](如今.md), [引爆](引爆.md), [撤出](撤出.md), [新加坡](新加坡.md), [科技](科技.md)
+___
+##### 2025-07-13 20:24:23 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Manus除了立即将微博、小红书账号内容清零，官网拒绝一切中国IP访问，与阿里巴巴的合作承诺也一笔勾销。#南洋商报 #manus #AI #china #singaporehttps://t.co/KzcDtlDWxc https://t…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Manus%E9%99%A4%E4%BA%86%E7%AB%8B%E5%8D%B3%E5%B0%86%E5%BE%AE%E5%8D%9A%E3%80%81%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%B4%A6%E5%8F%B7%E5%86%85%E5%AE%B9%E6%B8%85%E9%9B%B6%EF%BC%8C%E5%AE%98%E7%BD%91%E6%8B%92%E7%BB%9D%E4%B8%80%E5%88%87%E4%B8%AD%E5%9B%BDIP%E8%AE%BF%E9%97%AE%EF%BC%8C%E4%B8%8E%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E5%90%88%E4%BD%9C%E6%89%BF%E8%AF%BA%E4%B9%9F%E4%B8%80%E7%AC%94%E5%8B%BE%E9%94%80%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23manus+%23AI+%23china+%23singaporehttps%3A%2F%2Ft.co%2FKzcDtlDWxc+https%3A%2F%2Ft%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[小红书](小红书.md), [账号](账号.md), [阿里巴巴](阿里巴巴.md), [除了](除了.md)
+___
 ##### 2025-07-12 19:37:17 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国AI智能体平台Manus的官方微博和小红书账号已清空内容，在中国访问其官网时，也显示为“Manus在你所在的地区不可用”。 https://t.co/rHNdQQfZxX
 
@@ -14,7 +28,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [小红书](小红书.md), [平台](平台.md), [显示](显示.md), [账号](账号.md)
 ___
-##### 2025-07-12 07:52:22 UTC ~ Yinsen
+##### 2025-07-12 07:52:22 UTC ~ 
 > RT @YinsenHe: 这几天关于 Manus 裁员搬迁的讨论很多，我其实大概能想到那么一丢丢他们的处境与抉择，所以也能理解。我只是好奇，deepseek 能在中国做，Manus 就不能吗？
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40YinsenHe%3A+%E8%BF%99%E5%87%A0%E5%A4%A9%E5%85%B3%E4%BA%8E+Manus+%E8%A3%81%E5%91%98%E6%90%AC%E8%BF%81%E7%9A%84%E8%AE%A8%E8%AE%BA%E5%BE%88%E5%A4%9A%EF%BC%8C%E6%88%91%E5%85%B6%E5%AE%9E%E5%A4%A7%E6%A6%82%E8%83%BD%E6%83%B3%E5%88%B0%E9%82%A3%E4%B9%88%E4%B8%80%E4%B8%A2%E4%B8%A2%E4%BB%96%E4%BB%AC%E7%9A%84%E5%A4%84%E5%A2%83%E4%B8%8E%E6%8A%89%E6%8B%A9%EF%BC%8C%E6%89%80%E4%BB%A5%E4%B9%9F%E8%83%BD%E7%90%86%E8%A7%A3%E3%80%82%E6%88%91%E5%8F%AA%E6%98%AF%E5%A5%BD%E5%A5%87%EF%BC%8Cdeepseek+%E8%83%BD%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%81%9A%EF%BC%8CManus+%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%90%97%EF%BC%9F)

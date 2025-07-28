@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-03-25 05:45:09 UTC ~ DW 中文- 德国之声
+> RT @dw_chinese: TikTok在美国拥有1.5亿用户。除了人气和粉丝之外，TikTok的支持者还认为它提供了生计、社会变革的途径和社区意识。https://t.co/u6l1oSn3ic
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8B%A5%E6%9C%891.5%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82%E9%99%A4%E4%BA%86%E4%BA%BA%E6%B0%94%E5%92%8C%E7%B2%89%E4%B8%9D%E4%B9%8B%E5%A4%96%EF%BC%8CTikTok%E7%9A%84%E6%94%AF%E6%8C%81%E8%80%85%E8%BF%98%E8%AE%A4%E4%B8%BA%E5%AE%83%E6%8F%90%E4%BE%9B%E4%BA%86%E7%94%9F%E8%AE%A1%E3%80%81%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9%E7%9A%84%E9%80%94%E5%BE%84%E5%92%8C%E7%A4%BE%E5%8C%BA%E6%84%8F%E8%AF%86%E3%80%82https%3A%2F%2Ft.co%2Fu6l1oSn3ic)
+##### Other Words/Names of Interest in the Above Tweet
+[提供](提供.md), [支持](支持.md), [美国](美国.md), [除了](除了.md)
+___
+##### 2023-03-25 05:37:12 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #股闻天下 专栏记者Dan Gallagher写道，Facebook、谷歌、Snapchat和Pinterest一直无法击败TikTok。现在，这些公司的投资者认为美国政府将替它们把TikTok踢出局，这未免有些过于乐观了。https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Dan+Gallagher%E5%86%99%E9%81%93%EF%BC%8CFacebook%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81Snapchat%E5%92%8CPinterest%E4%B8%80%E7%9B%B4%E6%97%A0%E6%B3%95%E5%87%BB%E8%B4%A5TikTok%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%8C%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E6%9B%BF%E5%AE%83%E4%BB%AC%E6%8A%8ATikTok%E8%B8%A2%E5%87%BA%E5%B1%80%EF%BC%8C%E8%BF%99%E6%9C%AA%E5%85%8D%E6%9C%89%E4%BA%9B%E8%BF%87%E4%BA%8E%E4%B9%90%E8%A7%82%E4%BA%86%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[一直](一直.md), [乐观](乐观.md), [投资](投资.md), [投资者](投资者.md), [美国](美国.md), [谷歌](谷歌.md)
+___
 ##### 2023-03-25 05:36:30 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 【视频】TikTok新加坡籍总裁周受资出席美国众议院听证会。TikTok提出四项承诺履行安全责任，可美国立法者却不买账，责难拷问频出，还数次打断周受资发言，上演火药味十足的席间激辩。https://t.co/llmGx2Lo9U
 

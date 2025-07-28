@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-07-26 19:25:46 UTC ~ xiao Y
+> RT @xczyuan: DeepSeek性能比肩OpenAI 成本仅1/3：ChatGPT据报需要一万台英伟达（Nvidia）的图像处理器处理训练数据，DeepSeek工程师称他们仅用2000台图像处理器就取得相同结果。 https://t.co/KgyJq21MMz
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40xczyuan%3A+DeepSeek%E6%80%A7%E8%83%BD%E6%AF%94%E8%82%A9OpenAI+%E6%88%90%E6%9C%AC%E4%BB%851%2F3%EF%BC%9AChatGPT%E6%8D%AE%E6%8A%A5%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%87%E5%8F%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88Nvidia%EF%BC%89%E7%9A%84%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%99%A8%E5%A4%84%E7%90%86%E8%AE%AD%E7%BB%83%E6%95%B0%E6%8D%AE%EF%BC%8CDeepSeek%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E4%BB%96%E4%BB%AC%E4%BB%85%E7%94%A82000%E5%8F%B0%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%99%A8%E5%B0%B1%E5%8F%96%E5%BE%97%E7%9B%B8%E5%90%8C%E7%BB%93%E6%9E%9C%E3%80%82+https%3A%2F%2Ft.co%2FKgyJq21MMz)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [图像处理](图像处理.md), [处理](处理.md), [成本](成本.md), [数据](数据.md), [英伟达](英伟达.md)
+___
+##### 2025-07-26 06:46:11 UTC ~ FTChinese
+> RT @FTChinese: 【谷歌的人工智能之战正在走向新战场】理查德•沃特斯：谷歌长期依靠搜索在广告领域占据的主导地位正开始松动，这使得它不得不在新的战场上与人工智能应用展开竞争——而且对手不仅仅是OpenAI。https://t.co/Yv510lQ4qF https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%B0%B7%E6%AD%8C%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B9%8B%E6%88%98%E6%AD%A3%E5%9C%A8%E8%B5%B0%E5%90%91%E6%96%B0%E6%88%98%E5%9C%BA%E3%80%91%E7%90%86%E6%9F%A5%E5%BE%B7%E2%80%A2%E6%B2%83%E7%89%B9%E6%96%AF%EF%BC%9A%E8%B0%B7%E6%AD%8C%E9%95%BF%E6%9C%9F%E4%BE%9D%E9%9D%A0%E6%90%9C%E7%B4%A2%E5%9C%A8%E5%B9%BF%E5%91%8A%E9%A2%86%E5%9F%9F%E5%8D%A0%E6%8D%AE%E7%9A%84%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D%E6%AD%A3%E5%BC%80%E5%A7%8B%E6%9D%BE%E5%8A%A8%EF%BC%8C%E8%BF%99%E4%BD%BF%E5%BE%97%E5%AE%83%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%9C%A8%E6%96%B0%E7%9A%84%E6%88%98%E5%9C%BA%E4%B8%8A%E4%B8%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E5%B1%95%E5%BC%80%E7%AB%9E%E4%BA%89%E2%80%94%E2%80%94%E8%80%8C%E4%B8%94%E5%AF%B9%E6%89%8B%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AFOpenAI%E3%80%82https%3A%2F%2Ft.co%2FYv510lQ4qF+https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [主导](主导.md), [人工](人工.md), [人工智能](人工智能.md), [搜索](搜索.md), [竞争](竞争.md), [谷歌](谷歌.md), [领域](领域.md)
+___
+##### 2025-07-19 07:21:30 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 摩根大通首先将从那些非上市企业在塑造产业格局和推动创新方面发挥重要作用的领域入手。#南洋商报 #摩根大通 #JPMorgan #OpenAI #AI https://t.co/XKNNGVoBQg https://t.co/yHgpFgt9…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E9%A6%96%E5%85%88%E5%B0%86%E4%BB%8E%E9%82%A3%E4%BA%9B%E9%9D%9E%E4%B8%8A%E5%B8%82%E4%BC%81%E4%B8%9A%E5%9C%A8%E5%A1%91%E9%80%A0%E4%BA%A7%E4%B8%9A%E6%A0%BC%E5%B1%80%E5%92%8C%E6%8E%A8%E5%8A%A8%E5%88%9B%E6%96%B0%E6%96%B9%E9%9D%A2%E5%8F%91%E6%8C%A5%E9%87%8D%E8%A6%81%E4%BD%9C%E7%94%A8%E7%9A%84%E9%A2%86%E5%9F%9F%E5%85%A5%E6%89%8B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A+%23JPMorgan+%23OpenAI+%23AI+https%3A%2F%2Ft.co%2FXKNNGVoBQg+https%3A%2F%2Ft.co%2FyHgpFgt9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[产业](产业.md), [发挥](发挥.md), [推动](推动.md), [摩根大通](摩根大通.md), [格局](格局.md), [领域](领域.md)
+___
+##### 2025-07-14 05:13:05 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #独家 据知情人士透露，谷歌已同意在一项交易中支付约24亿美元，以获得AI编程初创公司Windsurf的技术授权，并聘请其首席执行官和部分员工。此前OpenAI收购Windsurf的谈判陷入停滞。 https://t.co/5nVuyfIB7C
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%B7%B2%E5%90%8C%E6%84%8F%E5%9C%A8%E4%B8%80%E9%A1%B9%E4%BA%A4%E6%98%93%E4%B8%AD%E6%94%AF%E4%BB%98%E7%BA%A624%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BB%A5%E8%8E%B7%E5%BE%97AI%E7%BC%96%E7%A8%8B%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Windsurf%E7%9A%84%E6%8A%80%E6%9C%AF%E6%8E%88%E6%9D%83%EF%BC%8C%E5%B9%B6%E8%81%98%E8%AF%B7%E5%85%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%92%8C%E9%83%A8%E5%88%86%E5%91%98%E5%B7%A5%E3%80%82%E6%AD%A4%E5%89%8DOpenAI%E6%94%B6%E8%B4%ADWindsurf%E7%9A%84%E8%B0%88%E5%88%A4%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E%E3%80%82+https%3A%2F%2Ft.co%2F5nVuyfIB7C)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [停滞](停滞.md), [执行](执行.md), [技术](技术.md), [授权](授权.md), [支付](支付.md), [收购](收购.md), [知情](知情.md), [知情人士](知情人士.md), [获得](获得.md), [谈判](谈判.md), [谷歌](谷歌.md), [透露](透露.md), [陷入](陷入.md), [首席执行官](首席执行官.md)
+___
 ##### 2025-06-28 02:18:06 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 软银首席执行官孙正义在东京举行的年度股东大会上表示：“我将全部赌注都押在超级人工智能(ASI)的世界里。”他认为在未来十年，ASI 将创造约600万亿日圆的利润，但只有少数几家公司能从中获益。而他战略的一个关键，就是加强软银与OpenAI的关…
 
@@ -103,7 +131,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Yonah_x%3A+%E4%BB%8E+o3+%E5%AF%B9%E6%89%8B%E5%86%99%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E7%9A%84%E8%BF%87%E7%A8%8B%E6%9D%A5%E7%9C%8B%EF%BC%8C%E5%AE%83%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BD%BF%E7%94%A8%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E7%9A%84%E5%B7%A5%E5%85%B7%E6%9D%A5%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E3%80%82%E7%BB%93%E5%90%88%E4%B9%8B%E5%89%8D%E5%A7%9A%E9%A1%BA%E9%9B%A8%E5%85%B3%E4%BA%8E+AI+%E4%B8%8B%E5%8D%8A%E5%9C%BA%E7%9A%84%E5%88%86%E6%9E%90%EF%BC%8COpenAI+%E5%BA%94%E8%AF%A5%E6%98%AF%E6%9C%9D%E7%9D%80%E7%94%A8%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%95%99%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%9D%A5%E8%A7%A3%E5%86%B3%E7%8E%B0%E5%AE%9E%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B9%E5%90%91%E4%B8%80%E8%B7%AF%E7%8B%82%E5%A5%94%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FfNCYorw9aw)
 ##### Other Words/Names of Interest in the Above Tweet
-[分析](分析.md), [型](型.md), [处理](处理.md), [工具](工具.md), [模型](模型.md)
+[分析](分析.md), [图像处理](图像处理.md), [型](型.md), [处理](处理.md), [工具](工具.md), [模型](模型.md)
 ___
 ##### 2025-04-17 03:08:17 UTC ~ orange.ai
 > RT @oran_ge: 这个测试太惊艳了OpenAI 终于发布 o3 正式版第一次做到视觉理解+视觉思考再次把AI的能力拉到了新高度 https://t.co/A4rhUDf6Zo

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Mac) for definition
 ### Tweets containing Mac
 
 ___
+##### 2025-07-21 07:31:57 UTC ~ Geek
+> RT @geekbb: 这款叫 AppLoader 的小工具就是给 Mac 用的“极简应用商店”。它把 Homebrew 的仓库做成一键列表，不用到处找 DMG。可一键搜索、安装或卸载那些 Mac App Store 中未上架的软件。注意，该应用尚处早期测试阶段且未经苹果官方…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E8%BF%99%E6%AC%BE%E5%8F%AB+AppLoader+%E7%9A%84%E5%B0%8F%E5%B7%A5%E5%85%B7%E5%B0%B1%E6%98%AF%E7%BB%99+Mac+%E7%94%A8%E7%9A%84%E2%80%9C%E6%9E%81%E7%AE%80%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97%E2%80%9D%E3%80%82%E5%AE%83%E6%8A%8A+Homebrew+%E7%9A%84%E4%BB%93%E5%BA%93%E5%81%9A%E6%88%90%E4%B8%80%E9%94%AE%E5%88%97%E8%A1%A8%EF%BC%8C%E4%B8%8D%E7%94%A8%E5%88%B0%E5%A4%84%E6%89%BE+DMG%E3%80%82%E5%8F%AF%E4%B8%80%E9%94%AE%E6%90%9C%E7%B4%A2%E3%80%81%E5%AE%89%E8%A3%85%E6%88%96%E5%8D%B8%E8%BD%BD%E9%82%A3%E4%BA%9B+Mac+App+Store+%E4%B8%AD%E6%9C%AA%E4%B8%8A%E6%9E%B6%E7%9A%84%E8%BD%AF%E4%BB%B6%E3%80%82%E6%B3%A8%E6%84%8F%EF%BC%8C%E8%AF%A5%E5%BA%94%E7%94%A8%E5%B0%9A%E5%A4%84%E6%97%A9%E6%9C%9F%E6%B5%8B%E8%AF%95%E9%98%B6%E6%AE%B5%E4%B8%94%E6%9C%AA%E7%BB%8F%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[仓库](仓库.md), [工具](工具.md), [搜索](搜索.md), [苹果](苹果.md), [阶段](阶段.md)
+___
 ##### 2025-07-08 01:26:17 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【日本最大半導體經銷商社長:增加中國半導體交易】日本Macnica的社長原一將：雖然存在地緣風險，但不聚焦中國市場是不可能的。目前我們主要經營歐美廠商生産的半導體，但今後中國的需求方可能會避開歐美産品而選擇中國本國産品…… https:/…
 

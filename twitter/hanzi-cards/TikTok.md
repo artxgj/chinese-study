@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2025-07-25 02:03:39 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国商务部长卢特尼克说，如果中国不批准出售短影音应用TikTok的交易，TikTok将不得不停止在美国运营。 https://t.co/0wOp2GPKpz
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%8D%A2%E7%89%B9%E5%B0%BC%E5%85%8B%E8%AF%B4%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%89%B9%E5%87%86%E5%87%BA%E5%94%AE%E7%9F%AD%E5%BD%B1%E9%9F%B3%E5%BA%94%E7%94%A8TikTok%E7%9A%84%E4%BA%A4%E6%98%93%EF%BC%8CTikTok%E5%B0%86%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%81%9C%E6%AD%A2%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%BF%90%E8%90%A5%E3%80%82+https%3A%2F%2Ft.co%2F0wOp2GPKpz)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [出售](出售.md), [批准](批准.md), [美国](美国.md)
+___
+##### 2025-07-16 09:45:55 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 随着YouTube Shorts、TikTok 和 Instagram Reels 等短视频平台日益流行，越来越多人沉迷于滑动观看，但这已不再只是时间管理的问题。科学界逐渐将“短视频成瘾”（Short Video Addiction, SVA…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%9A%8F%E7%9D%80YouTube+Shorts%E3%80%81TikTok+%E5%92%8C+Instagram+Reels+%E7%AD%89%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E6%97%A5%E7%9B%8A%E6%B5%81%E8%A1%8C%EF%BC%8C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E6%B2%89%E8%BF%B7%E4%BA%8E%E6%BB%91%E5%8A%A8%E8%A7%82%E7%9C%8B%EF%BC%8C%E4%BD%86%E8%BF%99%E5%B7%B2%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9A%84%E9%97%AE%E9%A2%98%E3%80%82%E7%A7%91%E5%AD%A6%E7%95%8C%E9%80%90%E6%B8%90%E5%B0%86%E2%80%9C%E7%9F%AD%E8%A7%86%E9%A2%91%E6%88%90%E7%98%BE%E2%80%9D%EF%BC%88Short+Video+Addiction%2C+SVA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[平台](平台.md), [越来越](越来越.md), [逐渐](逐渐.md), [随着](随着.md)
+___
 ##### 2025-07-10 23:32:34 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 短视频平台TikTok正准备为美国用户推出一个独立应用程式，以便为美国总统特朗普牵线要TikTok出售旗下美国业务铺路。不过，TikTok表示，外媒报道与事实不符，但公司未提供更多细节。https://t.co/J4MDFR6f1G http…
 
@@ -775,6 +789,8 @@ ___
 > RT @XinhuaChinese: 重庆又火了！英国博主在TikTok分享的重庆8D地形视频，短短十小时便狂揽120万点赞，播放量破千万。视频里，重庆的立体交通和魔幻地形令网友惊叹，仿佛现实版“赛博朋克”。网友：太不可思议了，地图还能正常使用吗？ https://t.co/d…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XinhuaChinese%3A+%E9%87%8D%E5%BA%86%E5%8F%88%E7%81%AB%E4%BA%86%EF%BC%81%E8%8B%B1%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%9C%A8TikTok%E5%88%86%E4%BA%AB%E7%9A%84%E9%87%8D%E5%BA%868D%E5%9C%B0%E5%BD%A2%E8%A7%86%E9%A2%91%EF%BC%8C%E7%9F%AD%E7%9F%AD%E5%8D%81%E5%B0%8F%E6%97%B6%E4%BE%BF%E7%8B%82%E6%8F%BD120%E4%B8%87%E7%82%B9%E8%B5%9E%EF%BC%8C%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E5%8D%83%E4%B8%87%E3%80%82%E8%A7%86%E9%A2%91%E9%87%8C%EF%BC%8C%E9%87%8D%E5%BA%86%E7%9A%84%E7%AB%8B%E4%BD%93%E4%BA%A4%E9%80%9A%E5%92%8C%E9%AD%94%E5%B9%BB%E5%9C%B0%E5%BD%A2%E4%BB%A4%E7%BD%91%E5%8F%8B%E6%83%8A%E5%8F%B9%EF%BC%8C%E4%BB%BF%E4%BD%9B%E7%8E%B0%E5%AE%9E%E7%89%88%E2%80%9C%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%85%8B%E2%80%9D%E3%80%82%E7%BD%91%E5%8F%8B%EF%BC%9A%E5%A4%AA%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E4%BA%86%EF%BC%8C%E5%9C%B0%E5%9B%BE%E8%BF%98%E8%83%BD%E6%AD%A3%E5%B8%B8%E4%BD%BF%E7%94%A8%E5%90%97%EF%BC%9F+https%3A%2F%2Ft.co%2Fd%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[重庆](重庆.md)
 ___
 ##### 2025-01-06 04:28:28 UTC ~ FTChinese
 > RT @FTChinese: 【“一国一策”系列之七：为何拼多多TEMU与字节TikTok Shop都瞄准欧洲？】宋欣：中国电商平台是否能够在欧洲市场延续过往的神话？欧洲市场应该关注哪一些消费人群，这些人群特点是什么？欧洲的新型消费趋势如何？https://t.co/EjaoV…
@@ -2091,20 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E6%96%B0%E9%97%BB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%9D%9F%E7%8F%8F%E5%A9%B7%E8%AF%B4%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E4%BB%85%E4%BB%8E%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E8%BA%AB%E4%BB%BD%E5%87%BA%E5%8F%91%E7%9A%84%E5%BC%BA%E5%88%B6%E5%87%BA%E5%94%AE%E8%A6%81%E6%B1%82%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8C%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82TikTok%E4%BB%8E%E6%80%BB%E9%83%A8%E4%BD%8D%E4%BA%8E%E5%8C%97%E4%BA%AC%E7%9A%84%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%89%A5%E7%A6%BB%E5%87%BA%E6%9D%A5%EF%BC%8C%E5%90%A6%E5%88%99%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%B0%81%E7%A6%81%E3%80%82https%3A%2F%2Ft.co%2Fp7f3KQY337)
 ##### Other Words/Names of Interest in the Above Tweet
 [出售](出售.md), [字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [美国](美国.md), [面临](面临.md)
-___
-##### 2023-03-25 05:45:09 UTC ~ DW 中文- 德国之声
-> RT @dw_chinese: TikTok在美国拥有1.5亿用户。除了人气和粉丝之外，TikTok的支持者还认为它提供了生计、社会变革的途径和社区意识。https://t.co/u6l1oSn3ic
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8B%A5%E6%9C%891.5%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82%E9%99%A4%E4%BA%86%E4%BA%BA%E6%B0%94%E5%92%8C%E7%B2%89%E4%B8%9D%E4%B9%8B%E5%A4%96%EF%BC%8CTikTok%E7%9A%84%E6%94%AF%E6%8C%81%E8%80%85%E8%BF%98%E8%AE%A4%E4%B8%BA%E5%AE%83%E6%8F%90%E4%BE%9B%E4%BA%86%E7%94%9F%E8%AE%A1%E3%80%81%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9%E7%9A%84%E9%80%94%E5%BE%84%E5%92%8C%E7%A4%BE%E5%8C%BA%E6%84%8F%E8%AF%86%E3%80%82https%3A%2F%2Ft.co%2Fu6l1oSn3ic)
-##### Other Words/Names of Interest in the Above Tweet
-[提供](提供.md), [支持](支持.md), [美国](美国.md), [除了](除了.md)
-___
-##### 2023-03-25 05:37:12 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: #股闻天下 专栏记者Dan Gallagher写道，Facebook、谷歌、Snapchat和Pinterest一直无法击败TikTok。现在，这些公司的投资者认为美国政府将替它们把TikTok踢出局，这未免有些过于乐观了。https://t.…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Dan+Gallagher%E5%86%99%E9%81%93%EF%BC%8CFacebook%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81Snapchat%E5%92%8CPinterest%E4%B8%80%E7%9B%B4%E6%97%A0%E6%B3%95%E5%87%BB%E8%B4%A5TikTok%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%8C%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E6%9B%BF%E5%AE%83%E4%BB%AC%E6%8A%8ATikTok%E8%B8%A2%E5%87%BA%E5%B1%80%EF%BC%8C%E8%BF%99%E6%9C%AA%E5%85%8D%E6%9C%89%E4%BA%9B%E8%BF%87%E4%BA%8E%E4%B9%90%E8%A7%82%E4%BA%86%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[一直](一直.md), [乐观](乐观.md), [投资](投资.md), [投资者](投资者.md), [美国](美国.md), [谷歌](谷歌.md)
 ____
 
 [Next Page](TikTok-01.md)

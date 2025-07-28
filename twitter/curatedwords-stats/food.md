@@ -45,7 +45,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [云吞面](../hanzi-cards/云吞面.md) | wonton noodles |
 | [牛肉饭](../hanzi-cards/牛肉饭.md) | beef rice |
 | [咖喱饭](../hanzi-cards/咖喱饭.md) | curry rice |
-| [饺子](../hanzi-cards/饺子.md) | dumplings |
+| [饺子](../hanzi-cards/饺子.md)/[餃子](../hanzi-cards/餃子.md) | dumplings |
 | [寿司](../hanzi-cards/寿司.md)/[壽司](../hanzi-cards/壽司.md) | sushi |
 | [金枪鱼](../hanzi-cards/金枪鱼.md) | tuna |
 | [鲣鱼](../hanzi-cards/鲣鱼.md) | oceanic bonito; skipjack (tuna) |

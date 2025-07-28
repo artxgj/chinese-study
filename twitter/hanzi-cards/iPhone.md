@@ -8,6 +8,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2025-07-23 07:21:21 UTC ~ 中國新聞社
+> RT @CNS1952: 【“回不去”的美國製造（中）：“打工人”不再愛“打螺絲”】“數以百萬計的人類大軍，擰著小小的螺絲去製造蘋果手機(iPhone)，這種事情將會在美國發生。”美國商務部長霍華德·盧特尼克如此展望未來。特朗普政府不斷揮舞“”補貼”大旗，試圖讓美國製造業回流，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E3%80%90%E2%80%9C%E5%9B%9E%E4%B8%8D%E5%8E%BB%E2%80%9D%E7%9A%84%E7%BE%8E%E5%9C%8B%E8%A3%BD%E9%80%A0%EF%BC%88%E4%B8%AD%EF%BC%89%EF%BC%9A%E2%80%9C%E6%89%93%E5%B7%A5%E4%BA%BA%E2%80%9D%E4%B8%8D%E5%86%8D%E6%84%9B%E2%80%9C%E6%89%93%E8%9E%BA%E7%B5%B2%E2%80%9D%E3%80%91%E2%80%9C%E6%95%B8%E4%BB%A5%E7%99%BE%E8%90%AC%E8%A8%88%E7%9A%84%E4%BA%BA%E9%A1%9E%E5%A4%A7%E8%BB%8D%EF%BC%8C%E6%93%B0%E8%91%97%E5%B0%8F%E5%B0%8F%E7%9A%84%E8%9E%BA%E7%B5%B2%E5%8E%BB%E8%A3%BD%E9%80%A0%E8%98%8B%E6%9E%9C%E6%89%8B%E6%A9%9F%28iPhone%29%EF%BC%8C%E9%80%99%E7%A8%AE%E4%BA%8B%E6%83%85%E5%B0%87%E6%9C%83%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%99%BC%E7%94%9F%E3%80%82%E2%80%9D%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E9%95%B7%E9%9C%8D%E8%8F%AF%E5%BE%B7%C2%B7%E7%9B%A7%E7%89%B9%E5%B0%BC%E5%85%8B%E5%A6%82%E6%AD%A4%E5%B1%95%E6%9C%9B%E6%9C%AA%E4%BE%86%E3%80%82%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%96%B7%E6%8F%AE%E8%88%9E%E2%80%9C%E2%80%9D%E8%A3%9C%E8%B2%BC%E2%80%9D%E5%A4%A7%E6%97%97%EF%BC%8C%E8%A9%A6%E5%9C%96%E8%AE%93%E7%BE%8E%E5%9C%8B%E8%A3%BD%E9%80%A0%E6%A5%AD%E5%9B%9E%E6%B5%81%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[特朗普](特朗普.md), [美國](美國.md), [蘋果](蘋果.md)
+___
+##### 2025-07-18 06:00:06 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【鏈接——iPhone神話在中國破滅】2024年iPhone中國出貨量同比減少2成，1年內減少900萬部。但蘋果仍難以擺脫依賴中國的窘境。原因是華為和小米等崛起，中國已成為全球手機技術的發源地。反觀蘋果，創新停滯、未能開拓新興市場，還面臨…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%8F%88%E6%8E%A5%E2%80%94%E2%80%94iPhone%E7%A5%9E%E8%A9%B1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%A0%B4%E6%BB%85%E3%80%912024%E5%B9%B4iPhone%E4%B8%AD%E5%9C%8B%E5%87%BA%E8%B2%A8%E9%87%8F%E5%90%8C%E6%AF%94%E6%B8%9B%E5%B0%912%E6%88%90%EF%BC%8C1%E5%B9%B4%E5%85%A7%E6%B8%9B%E5%B0%91900%E8%90%AC%E9%83%A8%E3%80%82%E4%BD%86%E8%98%8B%E6%9E%9C%E4%BB%8D%E9%9B%A3%E4%BB%A5%E6%93%BA%E8%84%AB%E4%BE%9D%E8%B3%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%AA%98%E5%A2%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%8F%AF%E7%82%BA%E5%92%8C%E5%B0%8F%E7%B1%B3%E7%AD%89%E5%B4%9B%E8%B5%B7%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E6%89%8B%E6%A9%9F%E6%8A%80%E8%A1%93%E7%9A%84%E7%99%BC%E6%BA%90%E5%9C%B0%E3%80%82%E5%8F%8D%E8%A7%80%E8%98%8B%E6%9E%9C%EF%BC%8C%E5%89%B5%E6%96%B0%E5%81%9C%E6%BB%AF%E3%80%81%E6%9C%AA%E8%83%BD%E9%96%8B%E6%8B%93%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4%EF%BC%8C%E9%82%84%E9%9D%A2%E8%87%A8%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[小米](小米.md), [崛起](崛起.md), [擺脫](擺脫.md), [華為](華為.md), [蘋果](蘋果.md)
+___
+##### 2025-07-13 09:41:59 UTC ~ orange.ai
+> RT @oran_ge: 最近发现 iPhone 的语音备忘录可以直接分享到飞书妙计了这样录音内容可以直接转成文本，特别方便再到设置里把操作按钮设置成语音备忘录🤯 直接长按录音就可以了劲省999买录音笔的钱，还能减少几十g的重量其实备忘录内置了语音转文本，但是App…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E6%9C%80%E8%BF%91%E5%8F%91%E7%8E%B0+iPhone+%E7%9A%84%E8%AF%AD%E9%9F%B3%E5%A4%87%E5%BF%98%E5%BD%95%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%88%86%E4%BA%AB%E5%88%B0%E9%A3%9E%E4%B9%A6%E5%A6%99%E8%AE%A1%E4%BA%86%E8%BF%99%E6%A0%B7%E5%BD%95%E9%9F%B3%E5%86%85%E5%AE%B9%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E8%BD%AC%E6%88%90%E6%96%87%E6%9C%AC%EF%BC%8C%E7%89%B9%E5%88%AB%E6%96%B9%E4%BE%BF%E5%86%8D%E5%88%B0%E8%AE%BE%E7%BD%AE%E9%87%8C%E6%8A%8A%E6%93%8D%E4%BD%9C%E6%8C%89%E9%92%AE%E8%AE%BE%E7%BD%AE%E6%88%90%E8%AF%AD%E9%9F%B3%E5%A4%87%E5%BF%98%E5%BD%95%F0%9F%A4%AF+%E7%9B%B4%E6%8E%A5%E9%95%BF%E6%8C%89%E5%BD%95%E9%9F%B3%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%E5%8A%B2%E7%9C%81999%E4%B9%B0%E5%BD%95%E9%9F%B3%E7%AC%94%E7%9A%84%E9%92%B1%EF%BC%8C%E8%BF%98%E8%83%BD%E5%87%8F%E5%B0%91%E5%87%A0%E5%8D%81g%E7%9A%84%E9%87%8D%E9%87%8F%E5%85%B6%E5%AE%9E%E5%A4%87%E5%BF%98%E5%BD%95%E5%86%85%E7%BD%AE%E4%BA%86%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E6%9C%AC%EF%BC%8C%E4%BD%86%E6%98%AFApp%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[操作](操作.md), [直接](直接.md)
+___
 ##### 2025-07-03 06:31:50 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据彭博报道，富士康要求数百名中国工程师和技术人员离开其在印度的iPhone工厂，这对苹果公司在印度扩大生产的努力造成了打击。 https://t.co/wLWhAkLWyY
 
@@ -2082,27 +2103,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%B3%95%E5%9B%BD%E8%BE%90%E5%B0%84%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E6%98%A8%E5%A4%A9%E6%8C%87%E5%87%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%E7%9A%84iPhone+12%E6%89%8B%E6%9C%BA%E2%80%9C%E7%94%B5%E7%A3%81%E6%B3%A2%E5%A4%AA%E5%BC%BA%E2%80%9D%EF%BC%8C%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E8%B4%A9%E5%94%AE%EF%BC%8C%E8%80%8C%E5%BE%B7%E5%9B%BD%E3%80%81%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B9%9F%E7%BA%B7%E7%BA%B7%E4%BC%A0%E5%87%BA%E4%B8%8B%E6%9E%B6%E5%A3%B0%E6%B5%AA%E3%80%82https%3A%2F%2Ft.co%2Forr0eUZHBW+https%3A%2F%2Ft.co%2F6GSGMC2L8b)
 ##### Other Words/Names of Interest in the Above Tweet
 [下架](下架.md), [德国](德国.md), [指出](指出.md), [机构](机构.md), [法国](法国.md), [电磁](电磁.md), [监管](监管.md), [苹果](苹果.md), [西班牙](西班牙.md)
-___
-##### 2023-09-13 15:31:54 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 今年iPhone 15系列相比iPhone 14系列有哪些变化？ 本文从充电接口、 工业设计、 摄像头、 芯片、 价格等方面进行了全面的对比。https://t.co/8phoDV531D
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BB%8A%E5%B9%B4iPhone+15%E7%B3%BB%E5%88%97%E7%9B%B8%E6%AF%94iPhone+14%E7%B3%BB%E5%88%97%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96%EF%BC%9F+%E6%9C%AC%E6%96%87%E4%BB%8E%E5%85%85%E7%94%B5%E6%8E%A5%E5%8F%A3%E3%80%81+%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E3%80%81+%E6%91%84%E5%83%8F%E5%A4%B4%E3%80%81+%E8%8A%AF%E7%89%87%E3%80%81+%E4%BB%B7%E6%A0%BC%E7%AD%89%E6%96%B9%E9%9D%A2%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%85%A8%E9%9D%A2%E7%9A%84%E5%AF%B9%E6%AF%94%E3%80%82https%3A%2F%2Ft.co%2F8phoDV531D)
-##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [充电](充电.md), [接口](接口.md), [摄像头](摄像头.md), [系列](系列.md), [芯片](芯片.md), [设计](设计.md), [进行](进行.md)
-___
-##### 2023-09-13 13:44:11 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 兴业投行认为，苹果刚发布的 #iPhone15 了无新意，加上华为手机翻身和中国禁止公务员使用 #iPhone，其销量将面对逆风，苹果无力扶持正处于下行周期的半导体科技领域。#applehttps://t.co/4Agibrluny htt…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%85%B4%E4%B8%9A%E6%8A%95%E8%A1%8C%E8%AE%A4%E4%B8%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%8F%91%E5%B8%83%E7%9A%84+%23iPhone15+%E4%BA%86%E6%97%A0%E6%96%B0%E6%84%8F%EF%BC%8C%E5%8A%A0%E4%B8%8A%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E7%BF%BB%E8%BA%AB%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%85%AC%E5%8A%A1%E5%91%98%E4%BD%BF%E7%94%A8+%23iPhone%EF%BC%8C%E5%85%B6%E9%94%80%E9%87%8F%E5%B0%86%E9%9D%A2%E5%AF%B9%E9%80%86%E9%A3%8E%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%97%A0%E5%8A%9B%E6%89%B6%E6%8C%81%E6%AD%A3%E5%A4%84%E4%BA%8E%E4%B8%8B%E8%A1%8C%E5%91%A8%E6%9C%9F%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E3%80%82%23applehttps%3A%2F%2Ft.co%2F4Agibrluny+htt%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[半导体](半导体.md), [华为](华为.md), [发布](发布.md), [处于](处于.md), [投行](投行.md), [禁止](禁止.md), [科技](科技.md), [苹果](苹果.md), [销量](销量.md), [领域](领域.md)
-___
-##### 2023-09-13 13:42:39 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 针对媒体报道称，中国要求政府官员不得在工作中使用苹果iPhone手机，中国外交部回应称，没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。 https://t.co/86YJfbAC3J
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%92%88%E5%AF%B9%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98%E4%B8%8D%E5%BE%97%E5%9C%A8%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9CiPhone%E6%89%8B%E6%9C%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E6%B2%A1%E6%9C%89%E5%87%BA%E5%8F%B0%E7%A6%81%E6%AD%A2%E8%B4%AD%E4%B9%B0%E5%92%8C%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9C%E7%AD%89%E5%A4%96%E5%9B%BD%E5%93%81%E7%89%8C%E6%89%8B%E6%9C%BA%E7%9A%84%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E5%92%8C%E6%94%BF%E7%AD%96%E6%96%87%E4%BB%B6%E3%80%82+https%3A%2F%2Ft.co%2F86YJfbAC3J)
-##### Other Words/Names of Interest in the Above Tweet
-[品牌](品牌.md), [政策](政策.md), [文件](文件.md), [禁止](禁止.md), [苹果](苹果.md), [购买](购买.md), [针对](针对.md)
 ____
 
 [Next Page](iPhone-01.md)

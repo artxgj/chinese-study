@@ -40,7 +40,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [清华大学](../hanzi-cards/清华大学.md)/[清華大學](../hanzi-cards/清華大學.md) | Tsinghua University |
 | [妈祖](../hanzi-cards/妈祖.md)/[媽祖](../hanzi-cards/媽祖.md) | Mazu, Goddess of the Sea, worshipped by most fishermen in Fujian and Taiwan. |
 | [诗经](../hanzi-cards/诗经.md)/[詩經](../hanzi-cards/詩經.md) | Shijing/Classic of Poetry |
-| [黄帝](../hanzi-cards/黄帝.md) | Yellow Emperor |
+| [黄帝](../hanzi-cards/黄帝.md)/[黃帝](../hanzi-cards/黃帝.md) | Yellow Emperor |
+| [高考](../hanzi-cards/高考.md) | college entrance exam |
+| [录取通知书](../hanzi-cards/录取通知书.md)/[錄取通知書](../hanzi-cards/錄取通知書.md) | admission notice (issued by a university |
+| [华夏](../hanzi-cards/华夏.md)/[華夏](../hanzi-cards/華夏.md) | old name for China |
+| [抗日战争](../hanzi-cards/抗日战争.md)/[抗日戰爭](../hanzi-cards/抗日戰爭.md) | War of Resistance against Japan (1937-1945) |
 ## Festivals
 |  |  |
 | ----- | :---: |

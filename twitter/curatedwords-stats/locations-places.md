@@ -9,11 +9,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [菲律宾](../hanzi-cards/菲律宾.md)/[菲律賓](../hanzi-cards/菲律賓.md) | Philippines; pronounced as Hui-li̍p-pin by Minnan/Hokkien people |
 | [马尼拉](../hanzi-cards/马尼拉.md)/[馬尼拉](../hanzi-cards/馬尼拉.md) | Manila |
 | [宿务](../hanzi-cards/宿务.md) | Cebu |
-| [厦门](../hanzi-cards/厦门.md) | Ē-mn̂g (Xiamen in Mandarin) |
+| [厦门](../hanzi-cards/厦门.md)/[廈門](../hanzi-cards/廈門.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](../hanzi-cards/泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
+| [晋江](../hanzi-cards/晋江.md) | Jinjiang, county-level city in Quanzhou |
 | [福建](../hanzi-cards/福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
-| [闽](../hanzi-cards/闽.md) | bân (Min in Mandarin), short name for Fujian Province |
-| [闽南](../hanzi-cards/闽南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
+| [闽](../hanzi-cards/闽.md)/[閩](../hanzi-cards/閩.md) | bân (Min in Mandarin), short name for Fujian Province |
+| [闽南](../hanzi-cards/闽南.md)/[閩南](../hanzi-cards/閩南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
+| [陕西](../hanzi-cards/陕西.md)/[陝西](../hanzi-cards/陝西.md) | Shaanxi |
+| [山西](../hanzi-cards/山西.md) | Shanxi |
+| [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |
+| [敦煌](../hanzi-cards/敦煌.md) | Dunhuang |
+| [新疆](../hanzi-cards/新疆.md) | Xinjiang |
+| [西藏](../hanzi-cards/西藏.md) | Xizang/Tibet |
+| [重庆](../hanzi-cards/重庆.md)/[重慶](../hanzi-cards/重慶.md) | Chongqing |
 | [台湾](../hanzi-cards/台湾.md)/[台灣](../hanzi-cards/台灣.md) | Taiwan |
 | [新加坡](../hanzi-cards/新加坡.md) | Singapore |
 | [槟城](../hanzi-cards/槟城.md) | Penang |

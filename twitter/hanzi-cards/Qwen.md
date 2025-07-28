@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2025-07-26 19:17:31 UTC ~ karminski-牙医
+> RT @karminski3: Qwen 刚刚又发布了Qwen3-MT！——一个翻译大模型这个模型也是基于Qwen3 后训练的，主打多语言翻译，支持92种语言。并且提供了术语干预、领域提示和翻译记忆等高级翻译功能。从公开的数据来看应该是MoE模型，那可能就是用 Qwen3-…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+Qwen+%E5%88%9A%E5%88%9A%E5%8F%88%E5%8F%91%E5%B8%83%E4%BA%86Qwen3-MT%EF%BC%81%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E7%BF%BB%E8%AF%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E4%B9%9F%E6%98%AF%E5%9F%BA%E4%BA%8EQwen3+%E5%90%8E%E8%AE%AD%E7%BB%83%E7%9A%84%EF%BC%8C%E4%B8%BB%E6%89%93%E5%A4%9A%E8%AF%AD%E8%A8%80%E7%BF%BB%E8%AF%91%EF%BC%8C%E6%94%AF%E6%8C%8192%E7%A7%8D%E8%AF%AD%E8%A8%80%E3%80%82%E5%B9%B6%E4%B8%94%E6%8F%90%E4%BE%9B%E4%BA%86%E6%9C%AF%E8%AF%AD%E5%B9%B2%E9%A2%84%E3%80%81%E9%A2%86%E5%9F%9F%E6%8F%90%E7%A4%BA%E5%92%8C%E7%BF%BB%E8%AF%91%E8%AE%B0%E5%BF%86%E7%AD%89%E9%AB%98%E7%BA%A7%E7%BF%BB%E8%AF%91%E5%8A%9F%E8%83%BD%E3%80%82%E4%BB%8E%E5%85%AC%E5%BC%80%E7%9A%84%E6%95%B0%E6%8D%AE%E6%9D%A5%E7%9C%8B%E5%BA%94%E8%AF%A5%E6%98%AFMoE%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%82%A3%E5%8F%AF%E8%83%BD%E5%B0%B1%E6%98%AF%E7%94%A8+Qwen3-%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [型](型.md), [干预](干预.md), [提供](提供.md), [支持](支持.md), [数据](数据.md), [模型](模型.md), [领域](领域.md)
+___
+##### 2025-07-13 09:36:40 UTC ~ karminski-牙医
+> RT @karminski3: 测试立刻出问题了啊，Grok 4 思考时间特别长, 几乎接近之前疯狂思考来刷分的 Qwen-qwq 了，一个20小球的编程问题6分钟.......  但人家 Qwen3 已经把这个情况优化了, 你 Grok 4 怎么走前任走过的路还掉坑了呢？…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%B5%8B%E8%AF%95%E7%AB%8B%E5%88%BB%E5%87%BA%E9%97%AE%E9%A2%98%E4%BA%86%E5%95%8A%EF%BC%8CGrok+4+%E6%80%9D%E8%80%83%E6%97%B6%E9%97%B4%E7%89%B9%E5%88%AB%E9%95%BF%2C+%E5%87%A0%E4%B9%8E%E6%8E%A5%E8%BF%91%E4%B9%8B%E5%89%8D%E7%96%AF%E7%8B%82%E6%80%9D%E8%80%83%E6%9D%A5%E5%88%B7%E5%88%86%E7%9A%84+Qwen-qwq+%E4%BA%86%EF%BC%8C%E4%B8%80%E4%B8%AA20%E5%B0%8F%E7%90%83%E7%9A%84%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%986%E5%88%86%E9%92%9F.......++%E4%BD%86%E4%BA%BA%E5%AE%B6+Qwen3+%E5%B7%B2%E7%BB%8F%E6%8A%8A%E8%BF%99%E4%B8%AA%E6%83%85%E5%86%B5%E4%BC%98%E5%8C%96%E4%BA%86%2C+%E4%BD%A0+Grok+4+%E6%80%8E%E4%B9%88%E8%B5%B0%E5%89%8D%E4%BB%BB%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E8%BF%98%E6%8E%89%E5%9D%91%E4%BA%86%E5%91%A2%EF%BC%9F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[优化](优化.md), [坑](坑.md), [情况](情况.md), [疯狂](疯狂.md)
+___
 ##### 2025-05-30 04:30:28 UTC ~ karminski-牙医
 > RT @karminski3: 给大家解析一下 DeepSeek-R1-0528 的官方放出的评测数据。目前 DeepSeek-R1-0528 毫无疑问是开源模型第一了, Qwen3-235B-A22B 在热座上仅座了一个月[苦涩].… https://t.co/ciYZxhH…
 

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2025-07-20 00:40:56 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 给苹果开发者推荐一个实用的 MCP 服务器：Apple Doc MCP，在 AI 编程助手上直接获取 Apple 最新开发文档，大大提升我们的开发效率。支持智能搜索和通配符匹配，能够实时获取 SwiftUI、UIKit、Foundatio…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AApple+Doc+MCP%EF%BC%8C%E5%9C%A8+AI+%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%8F%96+Apple+%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%EF%BC%8C%E5%A4%A7%E5%A4%A7%E6%8F%90%E5%8D%87%E6%88%91%E4%BB%AC%E7%9A%84%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E3%80%82%E6%94%AF%E6%8C%81%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%92%8C%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%AE%9E%E6%97%B6%E8%8E%B7%E5%8F%96+SwiftUI%E3%80%81UIKit%E3%80%81Foundatio%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [直接](直接.md), [苹果](苹果.md)
+___
 ##### 2025-07-01 03:33:44 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 发现了一个能让 AI 拥有持久记忆的 MCP 服务器：MCP Knowledge Graph。通过知识图谱结构存储实体、关系和观察信息，让 AI 能够跨聊天记住我们的信息，巧妙地给 AI 助手添加 “大脑记忆”。GitHub：http…
 
@@ -399,7 +406,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [屏](屏.md), [引发](引发.md), [持续](持续.md), [来自](来自.md), [社交媒体](社交媒体.md)
 ___
-##### 2025-03-28 07:35:39 UTC ~ Yinsen
+##### 2025-03-28 07:35:39 UTC ~ 
 > RT @YinsenHe: 在地图上两个地点中间找位置的需求，过去十年没有找到最佳的解决方案。在今天 Cherry Studio+DeepSeek V3 0324 + 高德 MCP server 完美解决，堪称神迹！虽然很多人说 MCP 还是极客玩物，但我觉得未来一两年，MCP…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40YinsenHe%3A+%E5%9C%A8%E5%9C%B0%E5%9B%BE%E4%B8%8A%E4%B8%A4%E4%B8%AA%E5%9C%B0%E7%82%B9%E4%B8%AD%E9%97%B4%E6%89%BE%E4%BD%8D%E7%BD%AE%E7%9A%84%E9%9C%80%E6%B1%82%EF%BC%8C%E8%BF%87%E5%8E%BB%E5%8D%81%E5%B9%B4%E6%B2%A1%E6%9C%89%E6%89%BE%E5%88%B0%E6%9C%80%E4%BD%B3%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%82%E5%9C%A8%E4%BB%8A%E5%A4%A9+Cherry+Studio%2BDeepSeek+V3+0324+%2B+%E9%AB%98%E5%BE%B7+MCP+server+%E5%AE%8C%E7%BE%8E%E8%A7%A3%E5%86%B3%EF%BC%8C%E5%A0%AA%E7%A7%B0%E7%A5%9E%E8%BF%B9%EF%BC%81%E8%99%BD%E7%84%B6%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AF%B4+MCP+%E8%BF%98%E6%98%AF%E6%9E%81%E5%AE%A2%E7%8E%A9%E7%89%A9%EF%BC%8C%E4%BD%86%E6%88%91%E8%A7%89%E5%BE%97%E6%9C%AA%E6%9D%A5%E4%B8%80%E4%B8%A4%E5%B9%B4%EF%BC%8CMCP%E2%80%A6)
