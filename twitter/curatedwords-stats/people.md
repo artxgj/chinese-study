@@ -21,7 +21,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [李光耀](../hanzi-cards/李光耀.md) | Lee Kuan Yew |
 | [雷军](../hanzi-cards/雷军.md)/[雷軍](../hanzi-cards/雷軍.md) | Lei Jun |
 | [黄仁勋](../hanzi-cards/黄仁勋.md)/[黃仁勳](../hanzi-cards/黃仁勳.md) | Jensen Huang |
-| [苏姿丰](../hanzi-cards/苏姿丰.md) | Lisa Su |
+| [苏姿丰](../hanzi-cards/苏姿丰.md)/[蘇姿丰](../hanzi-cards/蘇姿丰.md) | Lisa Su |
 | [陈立武](../hanzi-cards/陈立武.md) | Lip-Bu Tan, CEO of Intel |
 | [郭台铭](../hanzi-cards/郭台铭.md) | Terry Gou |
 | [马云](../hanzi-cards/马云.md) | Jack Ma |
