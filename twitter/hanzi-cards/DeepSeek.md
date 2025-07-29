@@ -983,7 +983,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ixiaowenz%3A+DeepSeek+%E8%BF%99%E6%98%AF%E7%9C%9F%E7%9A%84%E5%9C%A8%E6%8E%80%E6%A1%8C%E5%AD%90%E3%80%82%E7%9B%B4%E6%8E%A5%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%8C%E8%80%81%E5%AD%90%E5%A6%82%E6%9E%9C%E6%95%9E%E5%BC%80%E4%BA%86%E5%8D%96+Token%EF%BC%8C%E5%B0%B1%E6%88%91%E8%BF%99%E4%BB%B7%E6%A0%BC%E9%83%BD%E6%98%AF+545%25+%E7%9A%84+profit+margin%E2%80%A6%E2%80%A6%E7%AD%89%E4%BA%8E%E6%98%AF%E8%AF%B4%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%BB%AC%E6%AF%94%E6%88%91%E8%B4%B5+10+%E5%80%8D%EF%BC%8C100+%E5%80%8D%E7%9A%84%EF%BC%8C%E4%BD%A0%E4%BB%AC%E5%BA%94%E8%AF%A5%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E2%80%A6%E2%80%A6%E5%A6%82%E6%9E%9C%E4%BD%A0%E4%BB%AC%E8%B5%9A%E4%B8%8D%E5%88%B0%EF%BC%8C%E8%AF%B4%E6%98%8E%E4%BD%A0%E4%BB%AC%E8%8F%9C%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [直接](直接.md), [菜](菜.md)
+[价格](价格.md), [直接](直接.md), [老子](老子.md), [菜](菜.md)
 ___
 ##### 2025-03-02 00:29:17 UTC ~ 九原客
 > RT @9hills: DeepSeek 这个速度是在 Prefill-Decode 分离 + 大规模专家并行的条件下才能实现。就是说需要大量的机器才可以，单台机器就很难达到这个速度。H100 单机 NVIDIA 给的输出 tokens 应该是 800多。考虑prefi…

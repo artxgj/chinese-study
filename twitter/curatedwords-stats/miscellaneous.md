@@ -85,5 +85,5 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [壁虎](../hanzi-cards/壁虎.md) | gecko |
 | [蟒蛇](../hanzi-cards/蟒蛇.md) | python; anaconda; boa |
 | [花彩雀莺](../hanzi-cards/花彩雀莺.md) | white-browed tit-warbler |
-| [骆驼](../hanzi-cards/骆驼.md) | camel |
+| [骆驼](../hanzi-cards/骆驼.md)/[駱駝](../hanzi-cards/駱駝.md) | camel |
 | [蜂鸟](../hanzi-cards/蜂鸟.md)/[蜂鳥](../hanzi-cards/蜂鳥.md) | hummingbird |
