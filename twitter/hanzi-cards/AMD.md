@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AMD%E7%99%BC%E4%BD%88%E4%BD%8E%E5%83%B9AI%E6%99%B6%E7%89%87%EF%BC%8C%E7%A8%B1%E6%80%A7%E8%83%BD%E5%AA%B2%E7%BE%8E%E8%8B%B1%E5%81%89%E9%81%94%E3%80%91AMD%E5%9C%A86%E6%9C%8812%E6%97%A5%E7%99%BC%E4%BD%88%E6%96%B0%E6%AC%BEAI%E5%8D%8A%E5%B0%8E%E9%AB%94%E3%80%82CEO%E8%98%87%E5%A7%BF%E4%B8%B0%E8%A1%A8%E7%A4%BA%E8%88%87%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E8%8B%B1%E5%81%89%E9%81%94%E7%9B%B8%E6%AF%94%EF%BC%8C%E8%83%BD%E4%BB%A5%E4%BD%8E%E6%88%90%E6%9C%AC%E7%99%BC%E6%8F%AE%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E3%80%82%E8%8B%B1%E5%81%89%E9%81%942024%E5%B9%B4%E6%8E%8C%E6%8F%A1AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B8%82%E5%A0%B4%E8%B6%85%E9%81%8E7%E6%88%90%E4%BB%BD%E9%A1%8D%E3%80%82AMD%E5%B0%87%E4%BB%A5%E5%BB%89%E5%83%B9%E7%94%A3%E5%93%81%E9%80%B2%E8%A1%8C%E6%8A%97%E8%A1%A1%E2%80%A6%E2%80%A6https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[半導體](半導體.md), [成本](成本.md), [晶片](晶片.md), [英偉達](英偉達.md)
+[半導體](半導體.md), [成本](成本.md), [晶片](晶片.md), [英偉達](英偉達.md), [蘇姿丰](蘇姿丰.md)
 ___
 ##### 2025-06-14 17:07:13 UTC ~ 一只绿喵
 > RT @1greencat: AMD用了台积电新工艺之后 能效真的挺牛逼啊这cpu静置功耗才1瓦1瓦连个小灯泡都点不亮的吧哈哈哈cpu温度最低都35度了 别给cpu冻感冒了 https://t.co/3g8JeObiCK

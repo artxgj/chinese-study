@@ -393,7 +393,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40pengchujin%3A+%E5%85%A8%E6%96%B0%E7%9A%84+MacBook+Air+M4+%E5%8F%AF%E4%BB%A5%E9%A2%84%E7%BA%A6%E6%98%8E%E5%A4%A9%E4%B8%8A%E5%8D%88+9+%E7%82%B9%E8%B4%AD%E4%B9%B0%E4%BA%86%EF%BC%8C13+%E5%AF%B8+16%2B256+%E5%8E%9F%E4%BB%B7+7999%E3%80%82-+%E5%9B%BD%E8%A1%A5%E5%90%8E%E4%BB%B7%E6%A0%BC+6399-+%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8A%A0%E5%9B%BD%E8%A1%A5+5799%E8%BF%99%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%A6%99%E4%BA%86%EF%BC%8C%E4%B8%8D%E8%BF%87%E7%9B%AE%E5%89%8D%E5%8F%AA%E6%9C%89%E5%8C%97%E4%BA%AC%E3%80%81%E6%B5%99%E6%B1%9F%E7%AD%89%E5%9C%B0%E8%83%BD%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8F%A0%E5%8A%A0%E5%9B%BD%E8%A1%A5%E3%80%82%E4%BA%AC%E4%B8%9C%F0%9F%94%97+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [优惠](优惠.md), [购买](购买.md)
+[价格](价格.md), [优惠](优惠.md), [浙江](浙江.md), [购买](购买.md)
 ___
 ##### 2025-03-05 20:23:42 UTC ~ 外汇交易员
 > RT @myfxtrader: #观察 预测生效：苹果刚刚推出了新款Mac Studio，可选配512GB统一内存。该配置可以运行满血版的DeepSeek R1，最低7.4万元即可拥有。让企业可以超低成本部署私有的大模型。这会成为接下来的热议话题。 https://t.co/R…
@@ -806,7 +806,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40bbcchinese%3A+%E7%8E%9B%E5%A7%AC%C2%B7%E9%BA%A6%E5%85%8B%E5%B0%BC%E5%B0%94%EF%BC%88Maggie+MacNeil%EF%BC%89%E4%B8%BA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%9C%A8%E4%BB%8A%E5%B1%8A%E5%A5%A5%E8%BF%90%E5%A4%BA%E5%BE%97%E9%A6%96%E9%9D%A2%E9%87%91%E7%89%8C%EF%BC%8C%E5%A5%B9%E5%9C%A8100%E7%B1%B3%E8%9D%B6%E6%B3%B3%E4%B8%AD%E5%A4%BA%E9%87%91%E3%80%8223%E5%B2%81%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%88%99%E6%8B%BF%E4%B8%8B%E9%93%B6%E7%89%8C%E3%80%82%E6%8D%AE%E5%BD%93%E5%9C%B0%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%EF%BC%8C%E7%8E%9B%E5%A7%AC%E6%9D%A5%E8%87%AA%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E4%BC%A6%E6%95%A6%E5%B8%82%EF%BC%8C%E4%BA%8E2000%E5%B9%B4%E5%87%BA%E7%94%9F%E4%BA%8E%E4%B8%AD%E5%9B%BD%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%EF%BC%8C%E4%B8%80%E5%B2%81%E6%97%B6%E8%A2%AB%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%BA%AD%E6%94%B6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[加拿大](加拿大.md), [奥运](奥运.md), [张雨霏](张雨霏.md), [来自](来自.md), [麦](麦.md)
+[加拿大](加拿大.md), [奥运](奥运.md), [张雨霏](张雨霏.md), [来自](来自.md), [江西](江西.md), [麦](麦.md)
 ___
 ##### 2021-05-02 07:26:19 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: iPhone 12系列的昂贵机型受到了欢迎，本季度Mac电脑和iPad的收入也因企业员工居家办公和学生在家上网课的强劲需求而上升，当季利润为236亿美元，收入增长54%至896亿美元，远远超出华尔街的预期。苹果本财年的利润和收入也有望创下纪录。该…

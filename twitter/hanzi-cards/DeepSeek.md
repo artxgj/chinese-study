@@ -270,7 +270,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indiehackercase%3A+DeepSeek%E6%9C%80%E6%96%B0%E9%87%8D%E7%A3%85%E6%96%87%E4%BB%B6%E6%9D%A5%E4%BA%86%EF%BC%81%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6DeepSeek%E7%B3%BB%E5%88%97%E4%B8%93%E9%A2%98%E8%AE%B2%E5%BA%A7%E8%B5%84%E6%96%99%EF%BC%8C%E5%88%86%E4%B8%BA%E4%B8%A4%E5%AD%A3%EF%BC%8C%E6%80%BB%E5%85%B116%E4%B8%AAPPT%E6%96%87%E4%BB%B6%EF%BC%8C%E8%BF%98%E6%9C%89%E8%A7%86%E9%A2%91%E8%AE%B2%E8%A7%A3%E3%80%82%E5%86%85%E5%AE%B9%E6%97%A2%E6%9C%89%E6%8A%80%E6%9C%AF%E6%96%B9%E9%9D%A2%E7%9A%84%E6%8E%A2%E8%AE%A8%EF%BC%8C%E4%B9%9F%E6%9C%89%E5%AF%B9DeepSeek%E5%9C%A8%E6%95%99%E8%82%B2%E3%80%81%E7%A7%91%E7%A0%94%E3%80%81%E5%8C%BB%E7%96%97%E7%AD%89%E5%90%84%E8%A1%8C%E4%B8%9A%E5%BA%94%E7%94%A8%E7%9A%84%E8%AF%A6%E7%BB%86%E8%A7%A3%E8%AF%BB%E3%80%82%E9%93%BE%E6%8E%A5%EF%BC%9Ahttps%3A%2F%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[医疗](医疗.md), [技术](技术.md), [探讨](探讨.md), [文件](文件.md), [系列](系列.md), [行业](行业.md)
+[医疗](医疗.md), [技术](技术.md), [探讨](探讨.md), [文件](文件.md), [浙江](浙江.md), [系列](系列.md), [行业](行业.md)
 ___
 ##### 2025-04-24 03:42:08 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【上海車展直擊：中國EV的競爭核心是AI】華為發佈了使用AI的自動駕駛系統；本田將搭載DeepSeek；寶馬除了與阿里巴巴集團合作開發的AI外，還根據領域採用DeepSeek。擁有AI技術的科技公司正在提高存在感……https://t.…
@@ -707,7 +707,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40whyyoutouzhele%3A+%E6%8D%AE%E6%8A%A5DeepSeek%E5%AF%B9%E5%91%98%E5%B7%A5%E7%9A%84%E5%87%BA%E5%9B%BD%E6%97%85%E8%A1%8C%E5%AE%9E%E6%96%BD%E4%B8%A5%E6%A0%BC%E9%99%90%E5%88%B6%EF%BC%8C%E4%B8%BA%E4%BA%86%E8%90%BD%E5%AE%9E%E8%BF%99%E9%A1%B9%E6%97%85%E8%A1%8C%E9%99%90%E5%88%B6%EF%BC%8CDeepSeek%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%B9%BB%E6%96%B9%E9%87%8F%E5%8C%96%E5%B7%B2%E8%A6%81%E6%B1%82%E9%83%A8%E5%88%86%E5%91%98%E5%B7%A5%E4%B8%8A%E4%BA%A4%E4%B8%AA%E4%BA%BA%E6%8A%A4%E7%85%A7%E3%80%82+%E6%8A%A5%E9%81%93%E8%BF%98%E7%A7%B0%EF%BC%8C%E5%B9%BB%E6%96%B9%E9%87%8F%E5%8C%96%E6%80%BB%E9%83%A8%E6%89%80%E5%9C%A8%E7%9A%84%E6%B5%99%E6%B1%9F%E7%9C%81%E6%94%BF%E5%BA%9C%E4%B9%9F%E6%AD%A3%E5%AF%B9%E6%89%80%E6%9C%89%E6%BD%9C%E5%9C%A8%E6%8A%95%E8%B5%84%E8%80%85%E8%BF%9B%E8%A1%8C%E8%BF%87%E6%BB%A4%EF%BC%8C%E4%BB%A5%E5%86%B3%E5%AE%9A%E5%93%AA%E4%BA%9B%E6%8A%95%E8%B5%84%E8%80%85%E8%83%BD%E5%A4%9F%E5%8F%82%E5%8A%A0DeepSe%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[严格](严格.md), [实施](实施.md), [投资](投资.md), [投资者](投资者.md), [护照](护照.md), [潜在](潜在.md), [进行](进行.md), [量化](量化.md), [限制](限制.md)
+[严格](严格.md), [实施](实施.md), [投资](投资.md), [投资者](投资者.md), [护照](护照.md), [浙江](浙江.md), [潜在](潜在.md), [进行](进行.md), [量化](量化.md), [限制](限制.md)
 ___
 ##### 2025-03-17 14:57:38 UTC ~ 汉松
 > RT @Yonah_x: 两台M3 ultra 512g MacStudio到手，还买了一根支持120gbps 雷电五线，试试看能不能部署起来满血版DeepSeek R1。 https://t.co/0F4way6oDo
@@ -1198,7 +1198,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indiehackercase%3A+%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E7%9A%84DeepSeek%E6%8A%A5%E5%91%8A%E4%B9%9F%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C153%E9%A1%B5%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B%E9%9B%86%E3%80%82%E6%B5%99%E5%A4%A7%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83%E5%87%BA%E7%9A%84%EF%BC%8C%E6%94%B6%E9%9B%86%E4%BA%86%E4%B8%BB%E6%B5%81%E5%AA%92%E4%BD%93%E5%92%8C%E5%90%84%E4%B8%AA%E4%BA%A7%E4%B8%9ADeepSeek%E7%9A%84%E4%BC%97%E5%A4%9A%E5%BA%94%E7%94%A8%E6%A1%88%E4%BE%8B%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AF%E5%88%9B%E4%B8%9A%E8%80%85%E7%9A%84%E5%8F%82%E8%80%83%E8%B5%84%E6%BA%90%E5%AE%9D%E5%BA%93%E3%80%82%E6%AF%95%E7%AB%9F%E6%98%AFDeepSeek%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%AF%8D%E6%A0%A1%E5%87%BA%E7%9A%84%E6%96%87%E6%A1%A3%EF%BC%8C%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%EF%BC%81%E9%93%BE%E6%8E%A5%EF%BC%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[产业](产业.md), [创业者](创业者.md), [参考](参考.md), [各个](各个.md), [技术](技术.md), [收集](收集.md), [案例](案例.md), [流媒体](流媒体.md), [行业](行业.md), [资源](资源.md)
+[产业](产业.md), [创业者](创业者.md), [参考](参考.md), [各个](各个.md), [技术](技术.md), [收集](收集.md), [案例](案例.md), [流媒体](流媒体.md), [浙江](浙江.md), [行业](行业.md), [资源](资源.md)
 ___
 ##### 2025-02-25 05:58:56 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: DeepSeek爆火后，美国AI巨头英伟达研发的H20晶片在中国需求量激增，显示英伟达仍在AI晶片市场占据主导地位。 https://t.co/PYjV3f8UnR
@@ -1329,7 +1329,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BD%E6%B5%99%E6%B1%9F%E4%B9%89%E4%B9%8C%E4%B8%80%E5%90%8D%E8%80%81%E6%9D%BF%E5%A8%98%E5%88%A9%E7%94%A8DeepSeek%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B5%B0%E7%BA%A2%EF%BC%8C%E5%9C%A8%E8%84%B8%E4%B9%A6%E7%9A%84%E8%A7%86%E9%A2%91%E9%87%8C%EF%BC%8C%E8%80%81%E6%9D%BF%E5%A8%98%E7%94%A8%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E7%86%9F%E7%BB%83%E5%9C%B0%E4%BB%8B%E7%BB%8D%E5%95%86%E5%93%81%E3%80%82%E5%85%B6%E5%AE%9E%EF%BC%8C%E8%BF%99%E6%AE%B5%E8%A7%86%E9%A2%91%E6%98%AF%E7%94%B1AI%E7%94%9F%E6%88%90%E7%9A%84%E3%80%82https%3A%2F%2Ft.co%2Feyqs7JvauB+https%3A%2F%2Ft.co%2F9EHFJxzv4W)
 ##### Other Words/Names of Interest in the Above Tweet
-[义乌](义乌.md), [商品](商品.md)
+[义乌](义乌.md), [商品](商品.md), [浙江](浙江.md)
 ___
 ##### 2025-02-22 05:37:22 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 早在中国人工智能公司深度求索（DeepSeek）爆火之前，从事AI研究的“95后”罗福莉去年底因传被小米集团董事长雷军高薪挖角而走入公众视野，被中国媒体封为“天才AI少女”。对于自己频频成为话题焦点，罗福莉高呼：“神化一个人的结果就是捧得多高摔得多重…
@@ -1343,7 +1343,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E3%80%90%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8B%99%E7%B3%BB%E7%B5%B1%E6%8E%A5%E5%85%A5DeepSeek%EF%BC%8CAI%E5%85%AC%E5%8B%99%E5%93%A1%E6%89%B9%E9%87%8F%E4%B8%8A%E5%B4%97%E3%80%91%E9%96%8B%E5%B9%B4%E4%BB%A5%E4%BE%86%EF%BC%8C%E5%8C%97%E4%BA%AC%E3%80%81%E5%BB%A3%E6%9D%B1%E3%80%81%E6%B1%9F%E8%98%87%E3%80%81%E6%B1%9F%E8%A5%BF%E3%80%81%E5%85%A7%E8%92%99%E5%8F%A4%E7%AD%89%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8B%99%E7%B3%BB%E7%B5%B1%E9%83%BD%E5%B7%B2%E6%8E%A5%E5%85%A5+DeepSeek%E2%80%A6+https%3A%2F%2Ft.co%2FpCMZSeG6PA)
 ##### Other Words/Names of Interest in the Above Tweet
-[內蒙古](內蒙古.md), [廣東](廣東.md)
+[內蒙古](內蒙古.md), [廣東](廣東.md), [江蘇](江蘇.md), [江西](江西.md)
 ___
 ##### 2025-02-21 17:16:56 UTC ~ New China 中文
 > RT @XinhuaChinese: 厉害了！义乌老板娘用DeepSeek玩转跨国生意近日，义乌老板娘用DeepSeek+AI视频做跨国生意，效果炸裂！只需要对着镜头说12345，就能生成几十种语言的视频，文案由DeepSeek一键生成。网友：太震撼了！ https://t.…
@@ -1875,7 +1875,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%A4%E5%AE%B6%E6%80%BB%E9%83%A8%E8%AE%BE%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BC%9A%E6%9D%AD%E5%B7%9E%E7%9A%84%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E4%B8%80%E5%A4%95%E7%88%86%E7%BA%A2%EF%BC%8C%E4%B8%8D%E4%BB%85%E5%BC%95%E5%8F%91%E8%88%86%E8%AE%BA%E5%85%B3%E6%B3%A8%E6%9D%AD%E5%B7%9E%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%EF%BC%8C%E8%BF%98%E6%8E%80%E8%B5%B7%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8F%8D%E6%80%9D%E5%A6%82%E4%BD%95%E7%9B%B4%E9%9D%A2%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%97%B6%E4%BB%A3%E7%9A%84%E5%91%BC%E5%95%B8%E8%80%8C%E6%9D%A5%E3%80%82+https%3A%2F%2Ft.co%2FCp9jL68uCK)
 ##### Other Words/Names of Interest in the Above Tweet
-[不仅](不仅.md), [人工](人工.md), [人工智能](人工智能.md), [关注](关注.md), [初创企业](初创企业.md), [引发](引发.md), [掀起](掀起.md), [春节](春节.md), [杭州](杭州.md), [深度求索](深度求索.md), [科技](科技.md)
+[不仅](不仅.md), [人工](人工.md), [人工智能](人工智能.md), [关注](关注.md), [初创企业](初创企业.md), [引发](引发.md), [掀起](掀起.md), [春节](春节.md), [杭州](杭州.md), [浙江](浙江.md), [深度求索](深度求索.md), [科技](科技.md)
 ___
 ##### 2025-02-10 06:26:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 中国三大电信运营商的股价跳升，这些公司此前表示，已将DeepSeek的AI模型整合到它们的产品中。https://t.co/99oHLXUI7v
@@ -1959,7 +1959,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%80%BB%E9%83%A8%E4%BD%8D%E4%BA%8E%E4%B8%AD%E5%9B%BD%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82%E7%9A%84DeepSeek%E7%88%86%E7%BA%A2%E5%90%8E%EF%BC%8C%E6%9D%AD%E5%B7%9E%E5%85%B6%E4%BB%96%E5%87%A0%E5%AE%B6%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E4%B9%9F%E5%8F%97%E5%88%B0%E5%85%B3%E6%B3%A8%EF%BC%8C%E8%A2%AB%E5%A4%96%E7%95%8C%E8%AA%89%E4%B8%BA%E2%80%9C%E6%9D%AD%E5%B7%9E%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E3%80%82%E6%B1%9F%E8%8B%8F%E7%9C%81%E5%A7%94%E6%9C%BA%E5%85%B3%E6%8A%A5%E5%8F%91%E6%96%87%E9%97%AE%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%97%E4%BA%AC%E5%8F%91%E5%B1%95%E4%B8%8D%E5%87%BA%E2%80%9C%E6%9D%AD%E5%B7%9E%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%EF%BC%9F+https%3A%2F%2Ft.co%2Fln7R8G5l78)
 ##### Other Words/Names of Interest in the Above Tweet
-[关注](关注.md), [南京](南京.md), [杭州](杭州.md), [科技](科技.md)
+[关注](关注.md), [南京](南京.md), [杭州](杭州.md), [江苏](江苏.md), [浙江](浙江.md), [科技](科技.md)
 ___
 ##### 2025-02-08 09:36:22 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 近期，各大社交平台充斥着DeepSeek相关教程，有人仅靠售卖课程和信息差，在短短几天内收入超过5万元人民币（下同，约3万令吉），甚至有社群平台仅会员费收入就超过18万元。https://t.co/WVY5WCFngd https://t.c…
