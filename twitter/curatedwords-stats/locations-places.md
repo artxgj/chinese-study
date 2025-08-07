@@ -3,6 +3,43 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
+## China: Provinces, Direct-administered municipality, and Special Administrative Regions
+|  |  |
+| ----- | :---: |
+| [新疆](../hanzi-cards/新疆.md) | Xinjiang |
+| [西藏](../hanzi-cards/西藏.md) | Xizang |
+| [青海](../hanzi-cards/青海.md) | Qinghai |
+| [甘肃](../hanzi-cards/甘肃.md)/[甘肅](../hanzi-cards/甘肅.md) | Gansu |
+| [云南](../hanzi-cards/云南.md)/[雲南](../hanzi-cards/雲南.md) | Yunnan |
+| [内蒙古](../hanzi-cards/内蒙古.md)/[內蒙古](../hanzi-cards/內蒙古.md) | Inner Mongolia |
+| [宁夏](../hanzi-cards/宁夏.md)/[寧夏](../hanzi-cards/寧夏.md) | Ningxia |
+| [陕西](../hanzi-cards/陕西.md)/[陝西](../hanzi-cards/陝西.md) | Shaanxi |
+| [四川](../hanzi-cards/四川.md) | Sichuan |
+| [重庆](../hanzi-cards/重庆.md)/[重慶](../hanzi-cards/重慶.md) | Chongqing |
+| [山西](../hanzi-cards/山西.md) | Shanxi |
+| [河南](../hanzi-cards/河南.md) | Henan |
+| [湖北](../hanzi-cards/湖北.md) | Hubei |
+| [湖南](../hanzi-cards/湖南.md) | Hunan |
+| [贵州](../hanzi-cards/贵州.md)/[貴州](../hanzi-cards/貴州.md) | Guizhou |
+| [广西](../hanzi-cards/广西.md)/[廣西](../hanzi-cards/廣西.md) | Guangxi |
+| [河北](../hanzi-cards/河北.md) | Hebei |
+| [北京](../hanzi-cards/北京.md) | Beijing |
+| [天津](../hanzi-cards/天津.md) | Tianjin |
+| [江西](../hanzi-cards/江西.md) | Jiangxi |
+| [广东](../hanzi-cards/广东.md)/[廣東](../hanzi-cards/廣東.md) | Guangdong |
+| [澳门](../hanzi-cards/澳门.md)/[澳門](../hanzi-cards/澳門.md) | Macao |
+| [香港](../hanzi-cards/香港.md) | Hong Kong |
+| [安徽](../hanzi-cards/安徽.md) | Anhui |
+| [辽宁](../hanzi-cards/辽宁.md)/[遼寧](../hanzi-cards/遼寧.md) | Liaoning |
+| [山东](../hanzi-cards/山东.md)/[山東](../hanzi-cards/山東.md) | Shandong |
+| [江苏](../hanzi-cards/江苏.md)/[江蘇](../hanzi-cards/江蘇.md) | Jiangsu |
+| [浙江](../hanzi-cards/浙江.md) | Zhejiang |
+| [上海](../hanzi-cards/上海.md) | Shanghai |
+| [福建](../hanzi-cards/福建.md) | Fujian |
+| [吉林](../hanzi-cards/吉林.md) | Jilin |
+| [黑龙江](../hanzi-cards/黑龙江.md)/[黑龍江](../hanzi-cards/黑龍江.md) | Heilongjiang |
+| [海南](../hanzi-cards/海南.md) | Hainan |
+| [台湾](../hanzi-cards/台湾.md)/[臺灣](../hanzi-cards/臺灣.md) | Taiwan |
 ## Places and Regions
 |  |  |
 | ----- | :---: |
@@ -15,30 +52,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [福建](../hanzi-cards/福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
 | [闽](../hanzi-cards/闽.md)/[閩](../hanzi-cards/閩.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](../hanzi-cards/闽南.md)/[閩南](../hanzi-cards/閩南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
-| [江西](../hanzi-cards/江西.md) | Jiangxi |
-| [安徽](../hanzi-cards/安徽.md) | Anhui |
 | [杭州](../hanzi-cards/杭州.md) | Hangzhou |
 | [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |
-| [浙江](../hanzi-cards/浙江.md) | Zhejiang |
 | [南京](../hanzi-cards/南京.md) | Nanjing |
-| [江苏](../hanzi-cards/江苏.md)/[江蘇](../hanzi-cards/江蘇.md) | Jiangsu |
-| [山东](../hanzi-cards/山东.md)/[山東](../hanzi-cards/山東.md) | Shandong |
 | [深圳](../hanzi-cards/深圳.md) | Shenzhen |
-| [广东](../hanzi-cards/广东.md)/[廣東](../hanzi-cards/廣東.md) | Guangdong |
-| [广西](../hanzi-cards/广西.md)/[廣西](../hanzi-cards/廣西.md) | Guangxi |
-| [贵州](../hanzi-cards/贵州.md)/[貴州](../hanzi-cards/貴州.md) | Guizhou |
-| [云南](../hanzi-cards/云南.md)/[雲南](../hanzi-cards/雲南.md) | Yunnan |
-| [西藏](../hanzi-cards/西藏.md) | Xizang/Tibet |
-| [新疆](../hanzi-cards/新疆.md) | Xinjiang |
 | [敦煌](../hanzi-cards/敦煌.md) | Dunhuang |
-| [甘肃](../hanzi-cards/甘肃.md)/[甘肅](../hanzi-cards/甘肅.md) | Gansu |
-| [四川](../hanzi-cards/四川.md) | Sichuan |
-| [重庆](../hanzi-cards/重庆.md)/[重慶](../hanzi-cards/重慶.md) | Chongqing |
-| [陕西](../hanzi-cards/陕西.md)/[陝西](../hanzi-cards/陝西.md) | Shaanxi |
 | [西安](../hanzi-cards/西安.md) | Xi'an |
-| [山西](../hanzi-cards/山西.md) | Shanxi |
-| [內蒙古](../hanzi-cards/內蒙古.md)/[内蒙古](../hanzi-cards/内蒙古.md) | Inner Mongolia |
-| [台湾](../hanzi-cards/台湾.md)/[台灣](../hanzi-cards/台灣.md) | Taiwan |
 | [新加坡](../hanzi-cards/新加坡.md) | Singapore |
 | [槟城](../hanzi-cards/槟城.md) | Penang |
 | [马来西亚](../hanzi-cards/马来西亚.md) | Malaysia |
