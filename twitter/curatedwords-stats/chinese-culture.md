@@ -6,6 +6,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Civilization and Culture
 |  |  |
 | ----- | :---: |
+| [甲骨文](../hanzi-cards/甲骨文.md) | Oracle bones |
 | [蛇年](../hanzi-cards/蛇年.md) | Year of the Snake |
 | [龙年](../hanzi-cards/龙年.md) | Year of the Dragon |
 | [兔年](../hanzi-cards/兔年.md) | Year of the Rabbit |
@@ -54,6 +55,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [清明](../hanzi-cards/清明.md) | Pure Brightness Festival or Tomb Sweeping Day; clear and bright; sober and calm; well-ordered |
 | [端午](../hanzi-cards/端午.md) | Dragon Boat Festival (5th day of 5th Lunar month) |
 | [腊八节](../hanzi-cards/腊八节.md)/[臘八節](../hanzi-cards/臘八節.md) | Laba Rice Porridge Festival, on the 8th day of the 12th Lunar month |
+| [七夕节](../hanzi-cards/七夕节.md)/[七夕節](../hanzi-cards/七夕節.md) | Qixi Festival, Chinese-equivalent of Valentine's Day |
 ## Idioms
 |  |  |
 | ----- | :---: |

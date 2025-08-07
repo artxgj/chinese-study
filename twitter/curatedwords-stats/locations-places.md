@@ -35,7 +35,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [江苏](../hanzi-cards/江苏.md)/[江蘇](../hanzi-cards/江蘇.md) | Jiangsu |
 | [浙江](../hanzi-cards/浙江.md) | Zhejiang |
 | [上海](../hanzi-cards/上海.md) | Shanghai |
-| [福建](../hanzi-cards/福建.md) | Fujian |
+| [福建](../hanzi-cards/福建.md) | Fujian (Hok-kiàn/Hokkien) |
 | [吉林](../hanzi-cards/吉林.md) | Jilin |
 | [黑龙江](../hanzi-cards/黑龙江.md)/[黑龍江](../hanzi-cards/黑龍江.md) | Heilongjiang |
 | [海南](../hanzi-cards/海南.md) | Hainan |
@@ -49,15 +49,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [厦门](../hanzi-cards/厦门.md)/[廈門](../hanzi-cards/廈門.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](../hanzi-cards/泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
 | [晋江](../hanzi-cards/晋江.md) | Jinjiang, county-level city in Quanzhou |
-| [福建](../hanzi-cards/福建.md) | Hok-kiàn/Hokkien (Fujian in Mandarin) |
 | [闽](../hanzi-cards/闽.md)/[閩](../hanzi-cards/閩.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](../hanzi-cards/闽南.md)/[閩南](../hanzi-cards/閩南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
 | [杭州](../hanzi-cards/杭州.md) | Hangzhou |
+| [苏州](../hanzi-cards/苏州.md)/[蘇州](../hanzi-cards/蘇州.md) | Suzhou |
 | [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |
 | [南京](../hanzi-cards/南京.md) | Nanjing |
+| [大连](../hanzi-cards/大连.md)/[大連](../hanzi-cards/大連.md) | Dalian |
+| [哈尔滨](../hanzi-cards/哈尔滨.md)/[哈爾濱](../hanzi-cards/哈爾濱.md) | Harbin |
 | [深圳](../hanzi-cards/深圳.md) | Shenzhen |
 | [敦煌](../hanzi-cards/敦煌.md) | Dunhuang |
+| [玉門關](../hanzi-cards/玉門關.md) | Yumen Pass |
 | [西安](../hanzi-cards/西安.md) | Xi'an |
+| [成都](../hanzi-cards/成都.md) | Chengdu |
 | [新加坡](../hanzi-cards/新加坡.md) | Singapore |
 | [槟城](../hanzi-cards/槟城.md) | Penang |
 | [马来西亚](../hanzi-cards/马来西亚.md) | Malaysia |
