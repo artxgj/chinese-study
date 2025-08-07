@@ -328,7 +328,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AD%A3%E5%8A%AA%E5%8A%9B%E4%B8%8E%E6%80%BB%E9%83%A8%E8%AE%BE%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB%EF%BC%8C%E4%BD%86%E8%BF%99%E4%B8%AA%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E4%BB%8D%E7%84%B6%E4%BE%9D%E9%9D%A0%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%89%8D%E6%9D%A5%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E5%85%B3%E9%94%AE%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%B9%B6%E7%BB%A7%E7%BB%AD%E5%9C%A8%E5%BD%93%E5%9C%B0%E6%8B%9B%E4%BA%BA%E3%80%82https%3A%2F%2Ft.co%2F2dW3B4goGF)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [处理](处理.md), [字节跳动](字节跳动.md), [招](招.md), [距离](距离.md)
+[关键](关键.md), [北京](北京.md), [处理](处理.md), [字节跳动](字节跳动.md), [招](招.md), [距离](距离.md)
 ___
 ##### 2022-12-16 11:19:40 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 美国参议院通过了在政府发放的智能手机和其他设备上禁用TikTok的法案，但该法案在众议院面临着不明朗的未来，即便人们越来越担心这个中国公司拥有的视频应用的安全风险。https://t.co/jJ1wweDkgT
@@ -832,7 +832,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E5%91%A8%E6%97%A5%EF%BC%888%E6%9C%888%E6%97%A5%EF%BC%89%E6%8A%A5%E5%AF%BC%EF%BC%8CTikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%E8%A7%A3%E5%86%B3%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E7%9A%84%E6%8B%85%E5%BF%A7%E5%90%8E%EF%BC%8C%E9%87%8D%E5%90%AF%E5%85%B6%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%9A%84%E8%AE%A1%E5%88%92%E3%80%82%E4%B8%8D%E8%BF%87%EF%BC%8C%E5%AF%B9%E4%BA%8E%E8%AF%A5%E6%8A%A5%E5%AF%BC%E7%9A%84%E8%AF%B4%E6%B3%95%EF%BC%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%88%99%E4%BA%88%E4%BB%A5%E5%90%A6%E8%AE%A4%E3%80%82https%3A%2F%2Ft.co%2FBqfZhX8XoM)
 ##### Other Words/Names of Interest in the Above Tweet
-[否认](否认.md), [字节跳动](字节跳动.md), [担忧](担忧.md), [机构](机构.md), [监管](监管.md), [计划](计划.md), [金融](金融.md)
+[否认](否认.md), [字节跳动](字节跳动.md), [担忧](担忧.md), [机构](机构.md), [监管](监管.md), [计划](计划.md), [金融](金融.md), [香港](香港.md)
 ___
 ##### 2021-08-06 06:42:35 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【TikTok下载量超Facebook成世界第一】在疫情下增长的社交网站有哪些？日本经济新闻调查了2020年全球下载量，抖音国际版TikTok首次排到第1。特朗普曾要求出售美国业务或禁止使用TikTok。但疫情下TikTok人气越来越高。…

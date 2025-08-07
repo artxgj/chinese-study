@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E7%81%A3%E5%87%BA%E5%8F%A3%E9%87%8D%E5%BF%83%E8%AE%8A%E5%8C%96%EF%BC%8C%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E9%A1%8D%E6%8E%A5%E8%BF%91%E5%A4%A7%E9%99%B8%E3%80%91%E7%94%B1%E6%96%BC%E5%8F%B0%E7%81%A3%E7%9A%84%E5%87%BA%E5%8F%A3%E7%9B%AE%E7%9A%84%E5%9C%B0%E8%BD%89%E5%90%91%E7%BE%8E%E5%9C%8B%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E8%88%87%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E5%87%BA%E5%8F%A3%E5%AD%98%E5%9C%A83%E8%87%B34%E5%80%8D%E7%9A%84%E5%B7%AE%E8%B7%9D%EF%BC%8C%E5%A6%82%E4%BB%8A%E4%BA%8C%E8%80%85%E7%9A%84%E5%B7%AE%E8%B7%9D%E5%B7%B2%E7%B8%AE%E5%B0%8F%E8%87%B3%E5%83%850.1%E5%80%8B%E7%99%BE%E5%88%86%E9%BB%9E%E3%80%82%E9%85%8D%E5%82%99GPU%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8%E3%80%81%E9%A1%AF%E7%A4%BA%E5%8D%A1%E4%BB%A5%E5%8F%8A%E6%A9%9F%E6%A2%B0%E9%A1%9E%E7%94%A3%E5%93%81%E7%AD%89%E7%9A%84%E5%87%BA%E5%8F%A3%E5%9D%87%E5%A2%9E%E9%95%B7%E2%80%A6%E2%80%A6++https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[台灣](台灣.md), [如今](如今.md), [差距](差距.md), [美國](美國.md)
+[如今](如今.md), [差距](差距.md), [美國](美國.md)
 ___
 ##### 2025-06-19 08:02:52 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 摩尔线程创办人兼执行长张建中曾任辉达在GPU行业深耕近20年。#南洋商报 #摩尔线程 #中国 #GPUhttps://t.co/e7v2KxwGMD https://t.co/ZO5Ho9bTLc

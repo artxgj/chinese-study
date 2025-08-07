@@ -262,7 +262,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%8E%A8%E5%87%BA%E6%8C%87%E5%AF%BC%E6%96%B9%E9%92%88%EF%BC%8C%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%EF%BC%8C%E5%9B%BD%E4%BC%81%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AEAMD%EF%BC%88%E4%B9%9F%E7%A7%B0%E8%B6%85%E5%A8%81%EF%BC%89%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E7%82%B9%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%EF%BC%8C%E9%87%87%E8%B4%AD%E5%87%86%E5%88%99%E8%BF%98%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E9%87%87%E8%B4%AD%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BD%AC%E8%80%8C%E9%80%89%E6%8B%A9%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%B4%A7%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Windows](Windows.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
+[Windows](Windows.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
 ___
 ##### 2024-03-24 09:46:39 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 英国媒体报道，中国已推出采购需求标准，意味着中国禁止政府电脑使用英特尔和超威半导体（AMD）芯片。https://t.co/iENfB1PmrU
@@ -381,7 +381,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BDAI%E5%B8%82%E5%9C%BA%E5%AF%B9%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%85%85%E6%BB%A1%E5%90%B8%E5%BC%95%E5%8A%9B%E3%80%91%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%B9%95%EF%BC%8C%E9%AB%98%E9%80%9A%E3%80%81AMD%E7%AD%89%E6%AC%A7%E7%BE%8E%E9%AB%98%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E7%9A%84%E7%BB%8F%E8%90%A5%E9%AB%98%E7%AE%A1%E5%8F%82%E5%8A%A0%E4%BA%86%E5%A4%A7%E4%BC%9A%E3%80%82%E8%99%BD%E7%84%B6%E4%B8%AD%E7%BE%8E%E5%9C%A8%E9%AB%98%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%97%A5%E7%9B%8A%E5%B0%96%E9%94%90%EF%BC%8C%E4%BD%86%E4%B8%AD%E7%BE%8E%E4%BC%81%E4%B8%9A%E5%9C%A8%E6%94%B6%E7%9B%8A%E5%92%8C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E6%96%B9%E9%9D%A2%E9%83%BD%E7%9B%B8%E4%BA%92%E9%9C%80%E8%A6%81%E5%AF%B9%E6%96%B9%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FDj9CDjS%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [吸引](吸引.md), [开发](开发.md), [技术](技术.md), [收益](收益.md), [矛盾](矛盾.md), [科技](科技.md), [经营](经营.md), [美国](美国.md), [领域](领域.md)
+[上海](上海.md), [人工](人工.md), [人工智能](人工智能.md), [吸引](吸引.md), [开发](开发.md), [技术](技术.md), [收益](收益.md), [矛盾](矛盾.md), [科技](科技.md), [经营](经营.md), [美国](美国.md), [领域](领域.md)
 ___
 ##### 2022-09-01 04:50:10 UTC ~ DW 中文- 德国之声
 > RT @dw_chinese: 美国芯片公司英伟达（NVIDIA）和AMD日前接获美国政府下达新的出口许可要求，将暂停旗下AI芯片对中国发货，以避免沦为“军事用途”。此消息让两大晶片公司股价下跌，甚至造成英伟达高达4亿美元的业务损失。https://t.co/BtIGwCTK…

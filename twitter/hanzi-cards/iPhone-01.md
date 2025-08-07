@@ -160,7 +160,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E8%8B%A5%E5%8C%97%E4%BA%AC%E9%99%90%E5%88%B6%E5%85%AC%E5%8A%A1%E5%91%98%E7%94%A8%23iPhone%F0%9F%93%B5%EF%BC%8C%E8%AF%A5%E4%B8%BE%E6%8E%AA%E6%88%96%E5%BD%B1%E5%93%8D%E5%88%B0%E5%85%B6%E4%BB%96%E6%95%B0%E5%AE%B6%E4%BE%9D%E8%B5%96%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E5%B8%82%E5%9C%BA%E5%92%8C%E7%94%9F%E4%BA%A7%E7%BA%BF%E7%9A%84%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%82%E4%B8%8D%E8%BF%87%E4%B9%9F%E6%9C%89%E4%BA%BA%E8%AE%A4%E4%B8%BA%E8%AF%A5%E6%B6%88%E6%81%AF%E7%9A%84%E5%BD%B1%E5%93%8D%E8%A2%AB%E5%A4%B8%E5%A4%A7%E4%BA%86%E3%80%82%E5%88%86%E6%9E%90%E5%B8%88%E8%89%BE%E5%A4%AB%E6%96%AF%E9%A2%84%E8%AE%A1%EF%BC%8C%E6%9C%AA%E6%9D%A512%E4%B8%AA%E6%9C%88%E4%B8%AD%E5%9B%BD%F0%9F%87%A8%F0%9F%87%B3%E5%B0%86%E5%94%AE%E5%87%BA%E7%BA%A64500%E4%B8%87%E9%83%A8+iPhone+%EF%BC%8C%E8%80%8C%E5%8F%97%E7%A6%81%E5%94%AE%E4%BB%A4%E5%BD%B1%E5%93%8D%E7%9A%84%E5%B0%86%E4%B8%8D%E5%88%B050%E4%B8%87%E9%83%A8%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[举措](举措.md), [依赖](依赖.md), [分析](分析.md), [分析师](分析师.md), [影响](影响.md), [生产](生产.md), [科技](科技.md), [美国](美国.md), [销售](销售.md), [限制](限制.md), [预计](预计.md)
+[举措](举措.md), [依赖](依赖.md), [分析](分析.md), [分析师](分析师.md), [北京](北京.md), [影响](影响.md), [生产](生产.md), [科技](科技.md), [美国](美国.md), [销售](销售.md), [限制](限制.md), [预计](预计.md)
 ___
 ##### 2023-09-08 05:09:55 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 一位分析师表示，在官方禁令颁布之前，中共官员可能早已在工作场所中避免使用美国产品了。另一位分析师估计，中国市场明年将售出的约4,500万部iPhone中，这一问题可能会影响其中的50万部。https://t.co/TnGzYfOOKJ
@@ -545,7 +545,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%B8%BF%E6%B5%B7%E7%B2%BE%E5%AF%86%EF%BC%88%E5%8F%88%E5%90%8D%E5%AF%8C%E5%A3%AB%E5%BA%B7%EF%BC%89%E8%B4%A2%E6%8A%A5%E6%98%BE%E7%A4%BA11%E6%9C%88%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D11.4%EF%BC%85%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%BF%90%E8%90%A5%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7iPhone%E7%BB%84%E8%A3%85%E5%8E%82%EF%BC%8C%E6%97%A9%E5%89%8D%E5%9B%A0%E6%89%80%E5%9C%A8%E5%9C%B0%E6%B2%B3%E5%8D%97%E9%83%91%E5%B7%9E%E7%9A%84%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96%E5%AF%BC%E8%87%B4%E5%8F%91%E8%B4%A7%E9%87%8F%E5%87%8F%E5%B0%91%EF%BC%8C%E8%BF%99%E5%AF%B9%E5%85%B6%E4%B8%9A%E7%BB%A9%E4%BA%A7%E7%94%9F%E4%BA%86%E4%B8%80%E5%AE%9A%E5%BD%B1%E5%93%8D%E3%80%82https%3A%2F%2Ft.co%2F1cB5hrzOI7)
 ##### Other Words/Names of Interest in the Above Tweet
-[业绩](业绩.md), [富士康](富士康.md), [导致](导致.md), [影响](影响.md), [政策](政策.md), [显示](显示.md), [精密](精密.md), [组装](组装.md), [苹果](苹果.md), [营收](营收.md), [鸿海](鸿海.md)
+[业绩](业绩.md), [富士康](富士康.md), [导致](导致.md), [影响](影响.md), [政策](政策.md), [显示](显示.md), [河南](河南.md), [精密](精密.md), [组装](组装.md), [苹果](苹果.md), [营收](营收.md), [鸿海](鸿海.md)
 ___
 ##### 2022-12-06 01:58:37 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据知情人士称，最近几周苹果公司加快推动把部分生产迁出中国的计划，而且也在设法减少对以富士康为首的台湾组装商的依赖。分析人士称，一年来发生的事件削弱了中国作为稳定制造中心的地位，中国“iPhone之城”的动荡意味着苹果公司不再愿意把这么多业务押…
@@ -587,7 +587,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E8%B4%A2%E7%BB%8F%E6%9C%80%E7%83%ADNOW%E3%80%9111%E6%9C%8829%E6%97%A5%EF%BD%9C%E4%B8%AD%E5%9B%BD%E6%8E%80%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD+%E5%B8%82%E5%9C%BA%E6%B2%A1%E5%9C%A8%E6%80%95%EF%BC%9F%E4%B8%AD%E5%9B%BD%E6%8E%80%E8%B5%B7%E4%BA%86%E2%80%9C%E7%99%BD%E7%BA%B8%E9%9D%A9%E5%91%BD%E2%80%9D%EF%BC%8C%E4%BD%86%E6%8A%95%E8%B5%84%E8%80%85%E7%9C%8B%E8%B5%B7%E6%9D%A5%E4%BC%BC%E4%B9%8E%E5%B9%B6%E4%B8%8D%E5%A4%AA%E6%8B%85%E5%BF%A7%E3%80%82%E4%BB%8A%E6%97%A5%E5%85%B6%E4%BB%96%E9%87%8D%E7%82%B9%E8%B4%A2%E7%BB%8F%E6%96%B0%E9%97%BB%E6%98%AFiPhone%E6%88%96%E5%BF%AB%E6%B2%A1%E6%8E%A8%E7%89%B9%E7%94%A8%E4%BA%86%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%BA%91%E9%A1%B6%E6%BE%B3%E9%97%A8%E6%A2%A6%E7%A2%8E%E5%8F%8D%E6%9B%B4%E5%A5%BD%EF%BC%9F%E3%80%90%E8%A1%8C%E5%AE%B6%E8%AE%BA%E8%82%A1%E3%80%91%E4%BB%8A%E6%97%A5%E5%88%86%E4%BA%AB%E7%9A%843%E4%B8%AA%E8%82%A1%E9%A1%B9%E5%8C%85%E6%8B%AC%E4%BA%9A%E9%80%9A%EF%BC%88AXIAT%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [投资](投资.md), [投资者](投资者.md), [担忧](担忧.md), [掀起](掀起.md), [推特](推特.md)
+[包括](包括.md), [投资](投资.md), [投资者](投资者.md), [担忧](担忧.md), [掀起](掀起.md), [推特](推特.md), [澳门](澳门.md)
 ___
 ##### 2022-11-29 03:33:22 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【索尼将为下一代iPhone提供新型图像传感器】索尼的新型传感器可在每个像素中存储原来两倍的电量，能够减少曝光过度和曝光不足。预计将搭载到最早2023年上市的下一代iPhone上。如果该传感器被iPhone采用，索尼将在与三星等的竞争中占…
@@ -601,7 +601,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%B7%A5%E5%8E%82%E6%89%80%E5%9C%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B2%B3%E5%8D%97%E9%83%91%E5%B7%9E%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%9B%AD%E5%8C%BA%E4%B8%8A%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%8E%A5%E8%BF%9E%E5%8F%91%E7%94%9F%E5%B7%A5%E4%BA%BA%E5%87%BA%E9%80%83%E5%92%8C%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%EF%BC%8C%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E8%BF%99%E4%BA%9B%E5%8A%A8%E8%8D%A1%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E4%BB%8A%E5%B9%B4%E7%9A%84iPhone+Pro%E4%BA%A7%E9%87%8F%E5%87%8F%E5%B0%91%E8%BF%91600%E4%B8%87%E9%83%A8%E3%80%82https%3A%2F%2Ft.co%2FnJhquc0QLU)
 ##### Other Words/Names of Interest in the Above Tweet
-[动荡](动荡.md), [富士康](富士康.md), [导致](导致.md), [抗议](抗议.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md)
+[动荡](动荡.md), [富士康](富士康.md), [导致](导致.md), [抗议](抗议.md), [河南](河南.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md)
 ___
 ##### 2022-11-24 05:59:33 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #视频 周二，工人间流传的一段视频显示，在富士康郑州工厂内，穿着白色防护服的警察用警棍殴打举行抗议的工人。这座全球最大的苹果公司iPhone组装厂最近几周一直处于严格封控状态。https://t.co/KhPtFJpWk3
@@ -685,7 +685,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%91%A8%E4%B8%89%EF%BC%8C%E5%AF%8C%E5%A3%AB%E5%BA%B7%E4%BD%8D%E4%BA%8E%E9%83%91%E5%B7%9E%E7%9A%84iPhone%E6%89%8B%E6%9C%BA%E7%BB%84%E8%A3%85%E5%8E%82%E6%89%80%E5%9C%A8%E7%9A%84%E8%88%AA%E7%A9%BA%E6%B8%AF%E5%8C%BA%E5%BC%80%E5%A7%8B%E6%89%A7%E8%A1%8C%E4%B8%83%E5%A4%A9%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%E3%80%82%E7%96%AB%E6%83%85%E5%B7%B2%E7%BB%8F%E8%AE%A9%E8%AE%B8%E5%A4%9A%E5%B7%A5%E4%BA%BA%E5%87%BA%E8%B5%B0%EF%BC%8C%E7%9B%AE%E5%89%8D%E8%AF%A5%E7%BB%84%E8%A3%85%E5%8E%82%E6%AD%A3%E5%9C%A8%E8%89%B0%E9%9A%BE%E5%9C%B0%E7%BB%B4%E6%8C%81%E7%94%9F%E4%BA%A7%E3%80%82%E6%AD%A4%E5%89%8D%E6%B2%B3%E5%8D%97%E7%9C%81%E7%9C%81%E9%95%BF%E8%A7%86%E5%AF%9F%E4%BA%86%E8%AF%A5%E5%8C%BA%EF%BC%8C%E5%B9%B6%E8%A6%81%E6%B1%82%E5%BD%93%E5%9C%B0%E5%AE%98%E5%91%98%E5%8A%A0%E5%BC%BA%E5%AF%B9%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E8%A1%8C%E5%8A%A8%E7%9A%84%E7%9B%91%E7%9D%A3%E3%80%82++https%3A%2F%2Ft.co%2FUPe8cXB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[富士康](富士康.md), [执行](执行.md), [生产](生产.md), [疫情](疫情.md), [监督](监督.md), [组装](组装.md), [维持](维持.md)
+[富士康](富士康.md), [执行](执行.md), [河南](河南.md), [生产](生产.md), [疫情](疫情.md), [监督](监督.md), [组装](组装.md), [维持](维持.md)
 ___
 ##### 2022-11-01 05:29:43 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 知情人士说，富士康集团计划将受疫情影响的郑州厂区的部分生产转移到中国国内其他厂区。此前，郑州厂区许多员工因对疫情感到恐惧而相继离开该厂。郭明錤等多位分析师认为，富士康郑州厂区受干扰可能会影响到全球约10%的iPhone产能。   https://…
@@ -832,7 +832,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94%E7%94%B1%E6%97%A5%E6%9C%AC%E7%94%9F%E4%BA%A7%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%EF%BC%8C%E5%A6%82%E4%BD%95%EF%BC%9F%E3%80%91%E4%B8%AD%E5%B1%B1%E6%B7%B3%E5%8F%B2%EF%BC%9A%E4%BB%A5%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%94%BB%E4%B8%80%E4%B8%AA1500%E5%85%AC%E9%87%8C%E5%90%8C%E5%BF%83%E5%9C%86%EF%BC%8C%E6%9C%89%E7%94%9F%E4%BA%A7%E5%85%A8%E4%B8%96%E7%95%8C%E5%A4%A7%E9%83%A8%E5%88%86iPhone%E6%89%8B%E6%9C%BA%E7%9A%84%E9%B8%BF%E6%B5%B7%E3%80%81%E5%92%8C%E7%A1%95%E8%81%94%E5%90%88%E7%A7%91%E6%8A%80%E7%AD%89%E7%9A%84%E5%B7%A5%E5%8E%82%E7%9A%84%E4%B8%8A%E6%B5%B7%E3%80%81%E6%98%86%E5%B1%B1%E3%80%81%E9%83%91%E5%B7%9E%E9%83%BD%E5%9C%A8%E5%9C%88%E5%86%85%E3%80%82%E6%8D%A2%E8%A8%80%E4%B9%8B%EF%BC%8CiPhone%E7%9A%84%E7%94%9F%E4%BA%A7%E5%9F%BA%E5%9C%B0%E5%BB%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B9%9F%E5%BA%94%E8%AF%A5%E4%B8%8D%E8%B6%B3%E4%B8%BA%E5%A5%87%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[圈](圈.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [鸿海](鸿海.md)
+[上海](上海.md), [圈](圈.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [鸿海](鸿海.md)
 ___
 ##### 2022-09-09 23:20:30 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 9月9日消息，马斯克称，SpaceX已经与苹果谈判，考虑将星链卫星服务引入iPhone 14，为新增加的SOS功能提供支持。 https://t.co/cqPtpRpEQO https://t.co/Qv9PIJSopK
@@ -986,7 +986,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94%E7%94%B1%E6%97%A5%E6%9C%AC%E7%94%9F%E4%BA%A7%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%EF%BC%8C%E5%A6%82%E4%BD%95%EF%BC%9F%E3%80%91%E4%B8%AD%E5%B1%B1%E6%B7%B3%E5%8F%B2%EF%BC%9A%E4%BB%A5%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%94%BB%E4%B8%80%E4%B8%AA1500%E5%85%AC%E9%87%8C%E5%90%8C%E5%BF%83%E5%9C%86%EF%BC%8C%E6%9C%89%E7%94%9F%E4%BA%A7%E5%85%A8%E4%B8%96%E7%95%8C%E5%A4%A7%E9%83%A8%E5%88%86iPhone%E6%89%8B%E6%9C%BA%E7%9A%84%E9%B8%BF%E6%B5%B7%E3%80%81%E5%92%8C%E7%A1%95%E8%81%94%E5%90%88%E7%A7%91%E6%8A%80%E7%AD%89%E7%9A%84%E5%B7%A5%E5%8E%82%E7%9A%84%E4%B8%8A%E6%B5%B7%E3%80%81%E6%98%86%E5%B1%B1%E3%80%81%E9%83%91%E5%B7%9E%E9%83%BD%E5%9C%A8%E5%9C%88%E5%86%85%E3%80%82%E6%8D%A2%E8%A8%80%E4%B9%8B%EF%BC%8CiPhone%E7%9A%84%E7%94%9F%E4%BA%A7%E5%9F%BA%E5%9C%B0%E5%BB%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B9%9F%E5%BA%94%E8%AF%A5%E4%B8%8D%E8%B6%B3%E4%B8%BA%E5%A5%87%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[圈](圈.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [鸿海](鸿海.md)
+[上海](上海.md), [圈](圈.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [鸿海](鸿海.md)
 ___
 ##### 2022-07-01 09:50:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【苹果产品7月1日起在日本全面涨价】在日美利率差扩大的背景下，日元急剧贬值，日本人熟悉的耐用消费品价格也开始受到影响。iPhone 13以前的含税价格为9.88万日元（约合人民币4901元）起，此次上调为11.78万日元（约合人民币584…
@@ -1028,7 +1028,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E5%85%A8%E7%90%83%E5%94%AE%E4%BB%B7%E5%AF%B9%E6%AF%94%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%9C%80%E4%BE%BF%E5%AE%9C%EF%BC%8C%E5%B7%B4%E8%A5%BF%E6%9C%80%E8%B4%B5%E3%80%91%E6%97%A5%E6%9C%ACMM%E7%BB%BC%E7%A0%94%E5%AF%B9%E2%80%9CiPhone%E2%80%9D%E5%9C%A8%E5%85%A8%E7%90%8334%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E7%9A%84%E9%94%80%E5%94%AE%E4%BB%B7%E6%A0%BC%E8%BF%9B%E8%A1%8C%E4%BA%86%E5%AF%B9%E6%AF%94%E3%80%823%E6%AC%BE%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9A%84%E5%94%AE%E4%BB%B7%E6%AF%94%E5%85%A8%E7%90%83%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%E4%BE%BF%E5%AE%9C18%EF%BD%9E24%EF%BC%85%E3%80%82%E6%8C%892021%E5%B9%B49%E6%9C%88iPhone13%E4%B8%8A%E5%B8%82%E6%97%B6%E7%9A%84%E6%B1%87%E7%8E%87%E6%8D%A2%E7%AE%97%EF%BC%8C%E9%A6%99%E6%B8%AF%E6%AF%94%E6%97%A5%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [售价](售价.md), [型](型.md), [巴西](巴西.md), [日本](日本.md), [水平](水平.md), [汇率](汇率.md), [进行](进行.md), [销售](销售.md)
+[价格](价格.md), [售价](售价.md), [型](型.md), [巴西](巴西.md), [日本](日本.md), [水平](水平.md), [汇率](汇率.md), [进行](进行.md), [销售](销售.md), [香港](香港.md)
 ___
 ##### 2022-06-08 10:43:28 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【欧盟将统一充电端口为Type-C】新规在欧盟内具有效力，iPhone也将被迫进行对应。欧盟认为此举有助于减少电子垃圾……https://t.co/s2iLV6TU4t
@@ -1063,7 +1063,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%94%B1%E6%97%A5%E6%9C%AC%E7%94%9F%E4%BA%A7%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%EF%BC%8C%E5%A6%82%E4%BD%95%EF%BC%9F%E3%80%91%E4%B8%AD%E5%B1%B1%E6%B7%B3%E5%8F%B2%EF%BC%9A%E4%BB%A5%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%94%BB%E4%B8%80%E4%B8%AA1500%E5%85%AC%E9%87%8C%E5%90%8C%E5%BF%83%E5%9C%86%EF%BC%8C%E6%9C%89%E7%94%9F%E4%BA%A7%E5%85%A8%E4%B8%96%E7%95%8C%E5%A4%A7%E9%83%A8%E5%88%86iPhone%E6%89%8B%E6%9C%BA%E7%9A%84%E9%B8%BF%E6%B5%B7%E3%80%81%E5%92%8C%E7%A1%95%E8%81%94%E5%90%88%E7%A7%91%E6%8A%80%E7%AD%89%E7%9A%84%E5%B7%A5%E5%8E%82%E7%9A%84%E4%B8%8A%E6%B5%B7%E3%80%81%E6%98%86%E5%B1%B1%E3%80%81%E9%83%91%E5%B7%9E%E9%83%BD%E5%9C%A8%E5%9C%88%E5%86%85%E3%80%82%E6%8D%A2%E8%A8%80%E4%B9%8B%EF%BC%8CiPhone%E7%9A%84%E7%94%9F%E4%BA%A7%E5%9F%BA%E5%9C%B0%E5%BB%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B9%9F%E5%BA%94%E8%AF%A5%E4%B8%8D%E8%B6%B3%E4%B8%BA%E5%A5%87%E2%80%A6%E2%80%A6ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[圈](圈.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [鸿海](鸿海.md)
+[上海](上海.md), [圈](圈.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [鸿海](鸿海.md)
 ___
 ##### 2022-05-25 10:34:06 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 受到中国封城措施的影响，苹果今年至少有一款新旗舰iPhone的开发已落后原定计划。https://t.co/tSSaMvKTwI
@@ -1140,7 +1140,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%92%8C%E7%A1%95%E8%81%94%E5%90%88%E7%A7%91%E6%8A%802%E5%AE%B6%E5%A4%A7%E9%99%86%E5%B7%A5%E5%8E%82%E5%81%9C%E4%BA%A7%E3%80%91%E5%81%9C%E4%BA%A7%E5%B7%A5%E5%8E%82%E4%BD%8D%E4%BA%8E%E4%B8%8A%E6%B5%B7%E5%92%8C%E6%98%86%E5%B1%B1%E3%80%82%E5%92%8C%E7%A1%95%E6%98%AF%E4%BB%85%E6%AC%A1%E4%BA%8E%E9%B8%BF%E6%B5%B7%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%94%B5%E5%AD%90%E4%BB%A3%E5%B7%A5%E4%BC%81%E4%B8%9A%EF%BC%8C%E7%94%9F%E4%BA%A7%E7%BA%A63%E6%88%90iPhone%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FnICp184aaH)
 ##### Other Words/Names of Interest in the Above Tweet
-[生产](生产.md), [科技](科技.md), [鸿海](鸿海.md)
+[上海](上海.md), [生产](生产.md), [科技](科技.md), [鸿海](鸿海.md)
 ___
 ##### 2022-04-12 17:08:42 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #股闻天下 专栏记者Megha Mandavia写道，印度正在成为苹果公司在亚洲地区除中国以外的重点押注对象。苹果公司已开始在印度生产iPhone 13。但印度要想在这块制造业领域抢占到较大的份额，就需要打造出一个更强大的国内市场、推出利好出口的…
@@ -1567,7 +1567,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%83%91%E5%B7%9E%E5%8E%82%E5%8C%BA%E5%8F%97%E5%88%B0%E6%B2%B3%E5%8D%97%E4%B8%A5%E9%87%8D%E6%B4%AA%E7%81%BE%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E6%8D%AE%E5%BD%93%E5%9C%B0%E5%B7%A5%E5%8E%82%E5%91%98%E5%B7%A5%E8%AF%B4%EF%BC%8C%E8%AF%A5%E7%BB%84%E8%A3%85%E5%9F%BA%E5%9C%B0%E7%9A%84%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%87%BA%E7%8E%B0%E7%A7%AF%E6%B0%B4%EF%BC%8C%E5%8F%91%E7%94%9F%E4%B8%B4%E6%97%B6%E5%81%9C%E7%94%B5%E6%83%85%E5%86%B5%EF%BC%8C%E8%AE%B8%E5%A4%9A%E5%B7%A5%E4%BA%BA%E5%9B%A0%E6%AD%A4%E8%A2%AB%E8%BF%AB%E6%94%BE%E5%81%87%E3%80%82%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%B7%A5%E5%8E%82%E7%94%9F%E4%BA%A7%E5%8F%AF%E8%83%BD%E5%8F%97%E5%88%B0%E5%B9%B2%E6%89%B0%E6%AD%A3%E5%80%BC%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%BE%9B%E5%BA%94%E5%95%86%E5%BC%80%E5%A7%8B%E5%8A%A0%E7%B4%A7%E5%87%86%E5%A4%87%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E6%8E%A8%E5%87%BA%E7%9A%84%E6%96%B0%E6%AC%BEiPhone%E4%B9%8B%E9%99%85%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[严重](严重.md), [临时](临时.md), [因此](因此.md), [富士康](富士康.md), [影响](影响.md), [情况](情况.md), [推出](推出.md), [洪灾](洪灾.md), [生产](生产.md), [组装](组装.md), [苹果](苹果.md), [预计](预计.md)
+[严重](严重.md), [临时](临时.md), [因此](因此.md), [富士康](富士康.md), [影响](影响.md), [情况](情况.md), [推出](推出.md), [河南](河南.md), [洪灾](洪灾.md), [生产](生产.md), [组装](组装.md), [苹果](苹果.md), [预计](预计.md)
 ___
 ##### 2021-07-14 06:54:46 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据彭博报道，苹果正寻求将今年新iPhone的产量提高20%。消息源表示，提升产量也是试图捕捉华为受制裁后留下的商机。https://t.co/CqMUilDJe9
@@ -1602,7 +1602,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E5%9C%A8%E5%9B%BD%E5%AE%89%E6%B3%95%E5%AE%9E%E6%96%BD%E5%90%8E%EF%BC%8C%E4%B8%BA%E4%BA%86%E9%80%83%E7%A6%BB%E9%A6%99%E6%B8%AF%EF%BC%8C%E4%BA%94%E5%90%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%98%E5%9D%90%E5%85%85%E6%B0%94%E5%BF%AB%E8%89%87%E8%88%AA%E8%A1%8C%E6%95%B0%E7%99%BE%E8%8B%B1%E9%87%8C%E5%89%8D%E5%BE%80%E5%8F%B0%E6%B9%BE%EF%BC%8C%E4%BB%A5%E9%81%BF%E5%85%8D%E6%8A%97%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8C%87%E6%8E%A7%E3%80%82%E4%BB%96%E4%BB%AC%E8%83%BD%E7%94%A8%E6%9D%A5%E5%AF%BC%E8%88%AA%E7%9A%84%E5%8F%AA%E6%9C%89%E5%87%A0%E9%83%A8iPhone%E5%92%8C%E4%B8%80%E4%B8%AA%E6%8C%87%E5%8D%97%E9%92%88%E3%80%82%E2%80%9C%E6%88%91%E4%BB%AC%E5%AE%B3%E6%80%95%E5%BE%97%E8%A6%81%E6%AD%BB%EF%BC%8C%E2%80%9D%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BD%8D%E5%9B%9E%E5%BF%86%E6%B5%B7%E4%B8%8A%E6%97%85%E7%A8%8B%E8%AF%B4%E5%88%B0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%9A%84%E4%BB%8B%E5%85%A5%E4%B8%8B%EF%BC%8C%E4%BA%94%E4%BA%BA%E6%9C%80%E7%BB%88%E9%83%BD%E5%88%B0%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AF%BB%E6%B1%82%E5%BA%87%E6%8A%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[台湾](台湾.md), [回忆](回忆.md), [实施](实施.md), [快艇](快艇.md), [抗议](抗议.md), [指南](指南.md), [指控](指控.md), [相关](相关.md), [美国](美国.md)
+[台湾](台湾.md), [回忆](回忆.md), [实施](实施.md), [快艇](快艇.md), [抗议](抗议.md), [指南](指南.md), [指控](指控.md), [相关](相关.md), [美国](美国.md), [香港](香港.md)
 ___
 ##### 2021-06-22 07:36:25 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 德国监管部门调查苹果的移动操作系统iOS是否围绕iPhone打造了一个跨越多个市场的生态系统，可能让其他公司难以挑战这家科技巨头。科技巨头在欧洲因反垄断和隐私问题而受到越来越多的审视，该调查是这方面的最新进展。https://t.co/C4Bv3…
@@ -1644,7 +1644,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BC%81%E4%B8%9A%E6%8E%92%E5%9C%A8%E8%8B%B9%E6%9E%9C%E4%BE%9B%E8%B4%A7%E5%95%86%E7%9A%84%E9%A6%96%E4%BD%8D%E3%80%91%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB%E5%88%86%E6%9E%90%E8%8B%B9%E6%9E%9C%E6%8A%AB%E9%9C%B2%E7%9A%842020%E5%B9%B4%E4%BE%9B%E8%B4%A7%E5%95%86%E5%90%8D%E5%8D%95%E6%98%BE%E7%A4%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%EF%BC%88%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF%EF%BC%89%E4%BC%81%E4%B8%9A%E5%9C%A8200%E5%AE%B6%E4%B8%AD%E5%8D%A051%E5%AE%B6%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E5%8F%B0%E6%B9%BE%E3%80%82%E4%BD%86%E6%8B%86%E8%A7%A3%E2%80%9CiPhone12%E2%80%9D%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%BE%E7%A4%BA%EF%BC%8C%E5%9C%A8%E9%87%91%E9%A2%9D%E6%96%B9%E9%9D%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BB%85%E5%8D%A04.7%EF%BC%85%E2%80%A6%E2%80%A6https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[供货](供货.md), [供货商](供货商.md), [分析](分析.md), [包括](包括.md), [台湾](台湾.md), [披露](披露.md), [拆解](拆解.md), [日本](日本.md), [显示](显示.md), [苹果](苹果.md), [超过](超过.md), [金额](金额.md)
+[供货](供货.md), [供货商](供货商.md), [分析](分析.md), [包括](包括.md), [台湾](台湾.md), [披露](披露.md), [拆解](拆解.md), [日本](日本.md), [显示](显示.md), [苹果](苹果.md), [超过](超过.md), [金额](金额.md), [香港](香港.md)
 ___
 ##### 2021-05-25 00:09:43 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【苹果支撑着夏普业绩】​夏普预计合并净利润将比上财年增加43％，业绩趋于好转。2021年夏普向苹果iPhone供应的液晶显示屏预计比2020年增加11％，与苹果加深合作关系起到了拉动作用，但或许不能长久……https://t.co/PF7…

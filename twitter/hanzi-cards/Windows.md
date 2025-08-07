@@ -143,7 +143,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%95%85%E9%9A%9C%E5%AF%BC%E8%87%B4%E5%85%A8%E7%90%83%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%AE%95%E6%9C%BA%E5%90%8E%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA%E8%BF%90%E4%BD%9C%E6%98%9F%E6%9C%9F%E5%85%AD%EF%BC%887%E6%9C%8820%E6%97%A5%EF%BC%89%E5%B7%B2%E5%85%A8%E9%9D%A2%E6%81%A2%E5%A4%8D%E3%80%82https%3A%2F%2Ft.co%2FD63S6GHo9P)
 ##### Other Words/Names of Interest in the Above Tweet
-[导致](导致.md), [微软](微软.md), [恢复](恢复.md), [操作](操作.md), [故障](故障.md), [系统](系统.md)
+[导致](导致.md), [微软](微软.md), [恢复](恢复.md), [操作](操作.md), [故障](故障.md), [系统](系统.md), [香港](香港.md)
 ___
 ##### 2024-07-20 06:17:31 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 微软（Windows）作业系统19日大当机，全球各地电脑陷入混乱。外媒形容，这是“全球前所未见最严重IT当机”，或是“史上最大规模IT当机”。https://t.co/Q55LcVs2FM https://t.co/V8Xhg8OaR9
@@ -157,7 +157,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%8E%A8%E5%87%BA%E6%8C%87%E5%AF%BC%E6%96%B9%E9%92%88%EF%BC%8C%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%EF%BC%8C%E5%9B%BD%E4%BC%81%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AEAMD%EF%BC%88%E4%B9%9F%E7%A7%B0%E8%B6%85%E5%A8%81%EF%BC%89%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E7%82%B9%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%EF%BC%8C%E9%87%87%E8%B4%AD%E5%87%86%E5%88%99%E8%BF%98%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E9%87%87%E8%B4%AD%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BD%AC%E8%80%8C%E9%80%89%E6%8B%A9%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%B4%A7%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[AMD](AMD.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
+[AMD](AMD.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
 ___
 ##### 2024-03-13 06:12:33 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大單價格連續4個月上漲】DRAM的大宗交易價格2月環比上漲5％。2024年美國微軟的Windows 10操作系統將停止提供支持服務，預計會出現個人電腦更新需求。為了實現穩定採購，記憶體的買方接受了廠商的漲價要求……https:…

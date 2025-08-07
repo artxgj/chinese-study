@@ -111,7 +111,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%88%86%E7%81%AB%E5%90%8E%EF%BC%8C%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%92%8C%E6%9D%AD%E5%B7%9E%E5%90%AF%E5%8A%A8%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8B%9B%E8%81%98%EF%BC%8C%E9%83%A8%E5%88%86%E5%B2%97%E4%BD%8D%E5%B9%B4%E8%96%AA%E8%B6%85%E8%BF%87100%E4%B8%87%E5%85%83%EF%BC%88%E4%BA%BA%E6%B0%91%E5%B8%81%EF%BC%8C18.6%E4%B8%87%E6%96%B0%E5%85%83%EF%BC%89%E3%80%82+https%3A%2F%2Ft.co%2Fsq9xy10MJb)
 ##### Other Words/Names of Interest in the Above Tweet
-[启动](启动.md), [招](招.md), [招聘](招聘.md), [杭州](杭州.md), [深度求索](深度求索.md), [规模](规模.md), [超过](超过.md)
+[北京](北京.md), [启动](启动.md), [招](招.md), [招聘](招聘.md), [杭州](杭州.md), [深度求索](深度求索.md), [规模](规模.md), [超过](超过.md)
 ___
 ##### 2025-02-04 11:32:07 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 继华为云等多个平台后，阿里云和百度智能云也宣布上线人工智能（AI）公司深度求索（DeepSeek）大模型。 https://t.co/j1hGDQmNsU

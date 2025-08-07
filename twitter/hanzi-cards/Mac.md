@@ -393,7 +393,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40pengchujin%3A+%E5%85%A8%E6%96%B0%E7%9A%84+MacBook+Air+M4+%E5%8F%AF%E4%BB%A5%E9%A2%84%E7%BA%A6%E6%98%8E%E5%A4%A9%E4%B8%8A%E5%8D%88+9+%E7%82%B9%E8%B4%AD%E4%B9%B0%E4%BA%86%EF%BC%8C13+%E5%AF%B8+16%2B256+%E5%8E%9F%E4%BB%B7+7999%E3%80%82-+%E5%9B%BD%E8%A1%A5%E5%90%8E%E4%BB%B7%E6%A0%BC+6399-+%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8A%A0%E5%9B%BD%E8%A1%A5+5799%E8%BF%99%E4%BB%B7%E6%A0%BC%E5%A4%AA%E9%A6%99%E4%BA%86%EF%BC%8C%E4%B8%8D%E8%BF%87%E7%9B%AE%E5%89%8D%E5%8F%AA%E6%9C%89%E5%8C%97%E4%BA%AC%E3%80%81%E6%B5%99%E6%B1%9F%E7%AD%89%E5%9C%B0%E8%83%BD%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E5%8F%A0%E5%8A%A0%E5%9B%BD%E8%A1%A5%E3%80%82%E4%BA%AC%E4%B8%9C%F0%9F%94%97+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [优惠](优惠.md), [浙江](浙江.md), [购买](购买.md)
+[价格](价格.md), [优惠](优惠.md), [北京](北京.md), [浙江](浙江.md), [购买](购买.md)
 ___
 ##### 2025-03-05 20:23:42 UTC ~ 外汇交易员
 > RT @myfxtrader: #观察 预测生效：苹果刚刚推出了新款Mac Studio，可选配512GB统一内存。该配置可以运行满血版的DeepSeek R1，最低7.4万元即可拥有。让企业可以超低成本部署私有的大模型。这会成为接下来的热议话题。 https://t.co/R…
@@ -540,7 +540,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E7%81%A319%E5%AE%B6%E4%B8%BB%E8%A6%81IT%E4%BC%81%E6%A5%AD2023%E5%B9%B412%E6%9C%88%E7%87%9F%E6%94%B6%E6%B8%9B17.2%25%C2%A0%E3%80%91%E6%A5%AD%E5%8B%99%E4%B8%BB%E8%A6%81%E9%9D%A2%E5%90%91%E7%BE%8E%E5%9C%8B%E8%98%8B%E6%9E%9C%E7%9A%84%E4%BC%81%E6%A5%AD%E7%9A%84%E6%B8%9B%E9%80%9F%E5%B0%A4%E7%82%BA%E6%98%8E%E9%A1%AF%E3%80%82%E9%B4%BB%E6%B5%B7%E7%9A%8412%E6%9C%88%E7%87%9F%E6%94%B6%E6%B8%9B%E5%B0%9126.9%25%E3%80%82%E5%92%8C%E7%A2%A9%E8%81%AF%E5%90%88%E7%A7%91%E6%8A%80%E7%9A%84%E7%87%9F%E6%94%B6%E4%B9%9F%E6%B8%9B%E5%B0%9125.8%25%E3%80%82%E5%9C%A8%E8%98%8B%E6%9E%9C%E7%AD%86%E8%A8%98%E6%9C%AC%E9%9B%BB%E8%85%A6MacBook%E7%94%9F%E7%94%A3%E4%B8%AD%E5%B1%AC%E6%96%BC%E6%9C%80%E5%A4%A7%E4%BC%81%E6%A5%AD%E7%9A%84%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6%E7%9A%84%E7%87%9F%E6%94%B6%E6%B8%9B%E5%B0%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[台灣](台灣.md), [科技](科技.md), [美國](美國.md), [蘋果](蘋果.md)
+[科技](科技.md), [美國](美國.md), [蘋果](蘋果.md)
 ___
 ##### 2023-11-03 05:37:50 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 苹果星期五（11月3日）发布了第四财季财报，中国市场的营收低于一些分析师的预期。苹果CEO库克在随后的会议上说，Mac和iPad业务疲软，但iPhone在中国的营收达到了创纪录的水平。他还说，中国是一个非常重要的市场，他对该市场的长期前景“非常乐观”…
