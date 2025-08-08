@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-07-28 14:58:12 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 谷歌DeepMind和OpenAI的AI模型在国际数学奥林匹克竞赛中斩获金牌，但仍有包括多位美国高中生在内的26位参赛者得分超过了它们。这可能是人类最后一次在这类顶级智力竞赛中胜过AI吗？“我认为AI明年真的有可能拿到满分了，” 其中一位得分…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B0%B7%E6%AD%8CDeepMind%E5%92%8COpenAI%E7%9A%84AI%E6%A8%A1%E5%9E%8B%E5%9C%A8%E5%9B%BD%E9%99%85%E6%95%B0%E5%AD%A6%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E7%AB%9E%E8%B5%9B%E4%B8%AD%E6%96%A9%E8%8E%B7%E9%87%91%E7%89%8C%EF%BC%8C%E4%BD%86%E4%BB%8D%E6%9C%89%E5%8C%85%E6%8B%AC%E5%A4%9A%E4%BD%8D%E7%BE%8E%E5%9B%BD%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9C%A8%E5%86%85%E7%9A%8426%E4%BD%8D%E5%8F%82%E8%B5%9B%E8%80%85%E5%BE%97%E5%88%86%E8%B6%85%E8%BF%87%E4%BA%86%E5%AE%83%E4%BB%AC%E3%80%82%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BA%BA%E7%B1%BB%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%9C%A8%E8%BF%99%E7%B1%BB%E9%A1%B6%E7%BA%A7%E6%99%BA%E5%8A%9B%E7%AB%9E%E8%B5%9B%E4%B8%AD%E8%83%9C%E8%BF%87AI%E5%90%97%EF%BC%9F%E2%80%9C%E6%88%91%E8%AE%A4%E4%B8%BAAI%E6%98%8E%E5%B9%B4%E7%9C%9F%E7%9A%84%E6%9C%89%E5%8F%AF%E8%83%BD%E6%8B%BF%E5%88%B0%E6%BB%A1%E5%88%86%E4%BA%86%EF%BC%8C%E2%80%9D+%E5%85%B6%E4%B8%AD%E4%B8%80%E4%BD%8D%E5%BE%97%E5%88%86%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [型](型.md), [模型](模型.md), [美国](美国.md), [谷歌](谷歌.md), [超过](超过.md)
+___
 ##### 2025-07-26 19:25:46 UTC ~ xiao Y
 > RT @xczyuan: DeepSeek性能比肩OpenAI 成本仅1/3：ChatGPT据报需要一万台英伟达（Nvidia）的图像处理器处理训练数据，DeepSeek工程师称他们仅用2000台图像处理器就取得相同结果。 https://t.co/KgyJq21MMz
 

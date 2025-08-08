@@ -64,12 +64,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [成都](../hanzi-cards/成都.md) | Chengdu |
 | [新加坡](../hanzi-cards/新加坡.md) | Singapore |
 | [槟城](../hanzi-cards/槟城.md) | Penang |
-| [马来西亚](../hanzi-cards/马来西亚.md) | Malaysia |
+| [马来西亚](../hanzi-cards/马来西亚.md)/[馬來西亞](../hanzi-cards/馬來西亞.md) | Malaysia |
 | [缅甸](../hanzi-cards/缅甸.md) | Myanmar |
 | [柬埔寨](../hanzi-cards/柬埔寨.md) | Cambodia |
-| [泰国](../hanzi-cards/泰国.md) | Thailand |
+| [泰国](../hanzi-cards/泰国.md)/[泰國](../hanzi-cards/泰國.md) | Thailand |
 | [峇厘岛](../hanzi-cards/峇厘岛.md) | Bali |
-| [东南亚](../hanzi-cards/东南亚.md) | Southeast Asia |
+| [东南亚](../hanzi-cards/东南亚.md)/[東南亞](../hanzi-cards/東南亞.md) | Southeast Asia |
 | [印度](../hanzi-cards/印度.md) | India |
 | [斯里兰卡](../hanzi-cards/斯里兰卡.md) | Sri Lanka |
 | [北海道](../hanzi-cards/北海道.md) | Hokkaido |
