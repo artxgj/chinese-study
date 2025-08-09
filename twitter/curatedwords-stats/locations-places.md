@@ -3,7 +3,7 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
-## China: Provinces, Direct-administered municipality, and Special Administrative Regions
+## China: Provinces, Municipalities, and Special Administrative Regions
 |  |  |
 | ----- | :---: |
 | [新疆](../hanzi-cards/新疆.md) | Xinjiang |
