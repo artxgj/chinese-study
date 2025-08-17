@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-08-12 13:52:46 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 特朗普政府决定从英伟达和AMD的对华AI芯片销售额中抽成15%，引发了若干法律和国家安全层面的关切。这种安排合法吗？美国政府能获得多少收入？该协议说明了什么问题？https://t.co/fXe5r89Aob
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%86%B3%E5%AE%9A%E4%BB%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E7%9A%84%E5%AF%B9%E5%8D%8EAI%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E9%A2%9D%E4%B8%AD%E6%8A%BD%E6%88%9015%25%EF%BC%8C%E5%BC%95%E5%8F%91%E4%BA%86%E8%8B%A5%E5%B9%B2%E6%B3%95%E5%BE%8B%E5%92%8C%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%B1%82%E9%9D%A2%E7%9A%84%E5%85%B3%E5%88%87%E3%80%82%E8%BF%99%E7%A7%8D%E5%AE%89%E6%8E%92%E5%90%88%E6%B3%95%E5%90%97%EF%BC%9F%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%83%BD%E8%8E%B7%E5%BE%97%E5%A4%9A%E5%B0%91%E6%94%B6%E5%85%A5%EF%BC%9F%E8%AF%A5%E5%8D%8F%E8%AE%AE%E8%AF%B4%E6%98%8E%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%9Fhttps%3A%2F%2Ft.co%2FfXe5r89Aob)
+##### Other Words/Names of Interest in the Above Tweet
+[协议](协议.md), [安排](安排.md), [引发](引发.md), [收入](收入.md), [特朗普](特朗普.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md), [销售](销售.md), [销售额](销售额.md)
+___
+##### 2025-08-12 13:30:07 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #股闻天下 专栏记者Asa Fitch写道，特朗普政府与英伟达和AMD达成协议，将从这两家公司在中国的AI芯片销售中提成。对于英伟达这样利润丰厚的公司来说，影响或许没那么重大。但其他公司可能就没那么幸运了。https://t.co/ZzA9nsk…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Asa+Fitch%E5%86%99%E9%81%93%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%B0%86%E4%BB%8E%E8%BF%99%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84AI%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E4%B8%AD%E6%8F%90%E6%88%90%E3%80%82%E5%AF%B9%E4%BA%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%99%E6%A0%B7%E5%88%A9%E6%B6%A6%E4%B8%B0%E5%8E%9A%E7%9A%84%E5%85%AC%E5%8F%B8%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%BD%B1%E5%93%8D%E6%88%96%E8%AE%B8%E6%B2%A1%E9%82%A3%E4%B9%88%E9%87%8D%E5%A4%A7%E3%80%82%E4%BD%86%E5%85%B6%E4%BB%96%E5%85%AC%E5%8F%B8%E5%8F%AF%E8%83%BD%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E5%B9%B8%E8%BF%90%E4%BA%86%E3%80%82https%3A%2F%2Ft.co%2FZzA9nsk%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[丰厚](丰厚.md), [利润](利润.md), [协议](协议.md), [影响](影响.md), [特朗普](特朗普.md), [芯片](芯片.md), [英伟达](英伟达.md), [达成](达成.md), [销售](销售.md)
+___
+##### 2025-08-11 00:59:48 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 据《金融时报》周日报道，作为获得新出口许可证的条件，英伟达和AMD将把它们在中国芯片销售收入的15%上交给美国政府。 https://t.co/Djoiy8E9o1
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E5%91%A8%E6%97%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E4%BD%9C%E4%B8%BA%E8%8E%B7%E5%BE%97%E6%96%B0%E5%87%BA%E5%8F%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E6%9D%A1%E4%BB%B6%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E5%B0%86%E6%8A%8A%E5%AE%83%E4%BB%AC%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A5%E7%9A%8415%25%E4%B8%8A%E4%BA%A4%E7%BB%99%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E3%80%82+https%3A%2F%2Ft.co%2FDjoiy8E9o1)
+##### Other Words/Names of Interest in the Above Tweet
+[收入](收入.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md), [金融](金融.md), [销售](销售.md)
+___
 ##### 2025-07-18 15:07:42 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 彭博社近日报道，美国特朗普政府近期放宽了英伟达（NVIDIA）和超微（AMD）向中国出口芯片的限制，此举引发华府对华鹰派的强烈不满。https://t.co/S09jvzUVoO https://t.co/j9fMximosc
 

@@ -3,18 +3,18 @@
 | Chinese Name | English Name | U.S. Ticker | Number of Tweets |
 | ----- | ----- | :---: | :---: |
 | [阿迪达斯](../hanzi-cards/阿迪达斯.md) | Adidas | ADDYY | 15 |
-| [超微](../hanzi-cards/超微.md)/[AMD](../hanzi-cards/AMD.md) | Advanced Micro Devices (AMD) | AMD | 79 |
+| [超微](../hanzi-cards/超微.md)/[AMD](../hanzi-cards/AMD.md) | Advanced Micro Devices (AMD) | AMD | 82 |
 | [空中客车](../hanzi-cards/空中客车.md) | Airbus | EADSY | 21 |
-| [阿里巴巴](../hanzi-cards/阿里巴巴.md) | Alibaba | BABA | 222 |
+| [阿里巴巴](../hanzi-cards/阿里巴巴.md) | Alibaba | BABA | 223 |
 | [全日空](../hanzi-cards/全日空.md) | All Nippon Airways (ANA) | ALNPY | 27 |
 | [亚马逊](../hanzi-cards/亚马逊.md)/[亞馬遜](../hanzi-cards/亞馬遜.md) | Amazon | AMZN | 289 |
-| [苹果](../hanzi-cards/苹果.md)/[蘋果](../hanzi-cards/蘋果.md) | Apple | AAPL | 1339 |
-| [应用材料](../hanzi-cards/应用材料.md)/[應用材料](../hanzi-cards/應用材料.md) | Applied Materials | AMAT | 10 |
+| [苹果](../hanzi-cards/苹果.md)/[蘋果](../hanzi-cards/蘋果.md) | Apple | AAPL | 1344 |
+| [应用材料](../hanzi-cards/应用材料.md)/[應用材料](../hanzi-cards/應用材料.md) | Applied Materials | AMAT | 11 |
 | [朝日](../hanzi-cards/朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 9 |
 | [亚瑟士](../hanzi-cards/亚瑟士.md)/[亞瑟士](../hanzi-cards/亞瑟士.md) | ASICS | ASCCY | 28 |
 | [阿斯麦](../hanzi-cards/阿斯麦.md)/[阿斯麥](../hanzi-cards/阿斯麥.md) | ASML | ASML | 47 |
 | [美国银行](../hanzi-cards/美国银行.md) | Bank of America | BAC | 43 |
-| [伯克希尔哈撒韦公司](../hanzi-cards/伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 44 |
+| [伯克希尔哈撒韦公司](../hanzi-cards/伯克希尔哈撒韦公司.md) | Berkshire Hathaway | BRK.A | 45 |
 | [币安](../hanzi-cards/币安.md) | Binance | (private) | 64 |
 | [暴雪](../hanzi-cards/暴雪.md) | Blizzard | AIY.DE | 49 |
 | [宝马](../hanzi-cards/宝马.md) | BMW | BMWYY | 42 |
@@ -30,7 +30,7 @@
 | [可口可乐](../hanzi-cards/可口可乐.md) | Coca-Cola | K | 19 |
 | [第一三共](../hanzi-cards/第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 6 |
 | [达能](../hanzi-cards/达能.md) | Danone | DANOY | 6 |
-| [深度求索](../hanzi-cards/深度求索.md)/[DeepSeek](../hanzi-cards/DeepSeek.md) | DeepSeek | (private) | 548 |
+| [深度求索](../hanzi-cards/深度求索.md)/[DeepSeek](../hanzi-cards/DeepSeek.md) | DeepSeek | (private) | 553 |
 | [电装](../hanzi-cards/电装.md) | Denso | DNZOY | 15 |
 | [鼎泰丰](../hanzi-cards/鼎泰丰.md) | Din Tai Fung | privately-held | 1 |
 | [迪奥](../hanzi-cards/迪奥.md) | Dior | CHDRY | 10 |
@@ -42,7 +42,7 @@
 | [富达国际](../hanzi-cards/富达国际.md) | Fidelity International | (private) | 5 |
 | [富士胶片](../hanzi-cards/富士胶片.md) | Fujifilm | FUJIY/FUJIF | 12 |
 | [富士康](../hanzi-cards/富士康.md) | FoxConn | (see Hon Hai) | 97 |
-| [吉利](../hanzi-cards/吉利.md) | Geely Automobile Holdings Ltd | GELYY | 61 |
+| [吉利](../hanzi-cards/吉利.md) | Geely Automobile Holdings Ltd | GELYY | 62 |
 | [通用汽车](../hanzi-cards/通用汽车.md)/[通用汽車](../hanzi-cards/通用汽車.md) | General Motors | GM | 57 |
 | [高盛](../hanzi-cards/高盛.md) | Goldman Sachs | GS | 118 |
 | [谷歌](../hanzi-cards/谷歌.md) | Google | GOOG | 406 |
@@ -52,8 +52,8 @@
 | [鸿海](../hanzi-cards/鸿海.md) | Hon Hai Technology Group | HNHPF | 127 |
 | [本田](../hanzi-cards/本田.md) | Honda | HMC | 254 |
 | [汇丰](../hanzi-cards/汇丰.md)/[匯豐](../hanzi-cards/匯豐.md) | HSBC | HSBC | 53 |
-| [华为](../hanzi-cards/华为.md)/[華為](../hanzi-cards/華為.md) | Huawei | (private) | 429 |
-| [英特尔](../hanzi-cards/英特尔.md)/[英特爾](../hanzi-cards/英特爾.md) | Intel | INTC | 218 |
+| [华为](../hanzi-cards/华为.md)/[華為](../hanzi-cards/華為.md) | Huawei | (private) | 432 |
+| [英特尔](../hanzi-cards/英特尔.md)/[英特爾](../hanzi-cards/英特爾.md) | Intel | INTC | 223 |
 | [日本航空](../hanzi-cards/日本航空.md) | Japan Airlines (JAL) | JAPSY | 48 |
 | [摩根大通](../hanzi-cards/摩根大通.md) | JPMorgan Chase | JPM | 107 |
 | [龟甲万](../hanzi-cards/龟甲万.md) | Kikkoman | KIKOY | 1 |
@@ -78,8 +78,8 @@
 | [三菱](../hanzi-cards/三菱.md) | Mitsubishi |  | 135 |
 | [三井化学](../hanzi-cards/三井化学.md) | Mitsui Chemicals | MITUY | 3 |
 | [莫德纳](../hanzi-cards/莫德纳.md) | Moderna | MRNA | 57 |
-| [无印良品](../hanzi-cards/无印良品.md)/[無印良品](../hanzi-cards/無印良品.md) | MUJI | RYKKY | 13 |
-| [村田](../hanzi-cards/村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 32 |
+| [无印良品](../hanzi-cards/无印良品.md)/[無印良品](../hanzi-cards/無印良品.md) | MUJI | RYKKY | 14 |
+| [村田](../hanzi-cards/村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 33 |
 | [雀巢](../hanzi-cards/雀巢.md) | Nestlé S.A. | NSRGF | 13 |
 | [奈飞](../hanzi-cards/奈飞.md) | Netflix | NFLX | 9 |
 | [日本电产](../hanzi-cards/日本电产.md) | Nidec | NJDCY | 14 |
@@ -87,7 +87,7 @@
 | [尼康](../hanzi-cards/尼康.md) | Nikon | NINOY | 16 |
 | [任天堂](../hanzi-cards/任天堂.md) | Nintendo | NTDOY/NTDOF | 78 |
 | [日产](../hanzi-cards/日产.md) | Nissan | NSANY | 115 |
-| [英伟达](../hanzi-cards/英伟达.md)/[英偉達](../hanzi-cards/英偉達.md) | Nvidia | NVDA | 690 |
+| [英伟达](../hanzi-cards/英伟达.md)/[英偉達](../hanzi-cards/英偉達.md) | Nvidia | NVDA | 699 |
 | [荷兰恩智浦半导体](../hanzi-cards/荷兰恩智浦半导体.md) | NXP Semiconductors | NXPI | 1 |
 | [甲骨文](../hanzi-cards/甲骨文.md) | Oracle | ORCL | 37 |
 | [华侨银行](../hanzi-cards/华侨银行.md) | OCBC Bank | OVCHY | 11 |
@@ -109,7 +109,7 @@
 | [资生堂](../hanzi-cards/资生堂.md) | Shiseido | SSDOY | 13 |
 | [西门子](../hanzi-cards/西门子.md) | Siemens | SIEGY | 10 |
 | [希克斯](../hanzi-cards/希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
-| [中芯国际](../hanzi-cards/中芯国际.md) | SMIC | 0981.HK | 38 |
+| [中芯国际](../hanzi-cards/中芯国际.md) | SMIC | 0981.HK | 42 |
 | [软银](../hanzi-cards/软银.md) | SoftBank | SFTBF | 98 |
 | [索尼](../hanzi-cards/索尼.md) | SONY | SONY | 192 |
 | [星巴克](../hanzi-cards/星巴克.md) | Starbucks | SBUX | 90 |
@@ -128,7 +128,7 @@
 | [东洋钢业](../hanzi-cards/东洋钢业.md) | Toyo Steel | (private) | 1 |
 | [丰田](../hanzi-cards/丰田.md)/[豐田](../hanzi-cards/豐田.md) | Toyota | TM | 479 |
 | [傳音](../hanzi-cards/傳音.md) | Transsion | 688036.SS | 2 |
-| [台积电](../hanzi-cards/台积电.md)/[台積電](../hanzi-cards/台積電.md) | TSMC | TSMC | 487 |
+| [台积电](../hanzi-cards/台积电.md)/[台積電](../hanzi-cards/台積電.md) | TSMC | TSMC | 488 |
 | [优步](../hanzi-cards/优步.md) | Uber | UBER | 20 |
 | [优衣库](../hanzi-cards/优衣库.md)/[優衣庫](../hanzi-cards/優衣庫.md) | Uniqlo | FRCOY (parent) | 73 |
 | [维萨](../hanzi-cards/维萨.md)/[維薩](../hanzi-cards/維薩.md) | Visa | V | 3 |

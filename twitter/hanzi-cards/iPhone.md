@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2025-08-08 04:12:29 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #股闻天下 专栏作家Dan Gallagher写道，苹果公司似乎已花钱摆平了与美国总统特朗普之间的麻烦。但对于这家iPhone制造商来说，关税风险并未完全消失，其他问题也同样存在。https://t.co/OFInrkAEf4
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E4%BD%9C%E5%AE%B6Dan+Gallagher%E5%86%99%E9%81%93%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%BC%BC%E4%B9%8E%E5%B7%B2%E8%8A%B1%E9%92%B1%E6%91%86%E5%B9%B3%E4%BA%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E9%97%B4%E7%9A%84%E9%BA%BB%E7%83%A6%E3%80%82%E4%BD%86%E5%AF%B9%E4%BA%8E%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E6%9D%A5%E8%AF%B4%EF%BC%8C%E5%85%B3%E7%A8%8E%E9%A3%8E%E9%99%A9%E5%B9%B6%E6%9C%AA%E5%AE%8C%E5%85%A8%E6%B6%88%E5%A4%B1%EF%BC%8C%E5%85%B6%E4%BB%96%E9%97%AE%E9%A2%98%E4%B9%9F%E5%90%8C%E6%A0%B7%E5%AD%98%E5%9C%A8%E3%80%82https%3A%2F%2Ft.co%2FOFInrkAEf4)
+##### Other Words/Names of Interest in the Above Tweet
+[关税](关税.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [苹果](苹果.md), [风险](风险.md)
+___
 ##### 2025-08-08 00:58:44 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 尽管苹果近年来积极构建中国以外的供应链，但印度当前所面临的关税风险仍对苹果构成压力。#南洋商报 #APPLE #iPhone #India #tariffs https://t.co/ykKMoW3k2V https://t.co/85pm…
 
@@ -2096,13 +2103,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA+%23iPhone15+%E7%B3%BB%E5%88%97%E6%96%B0%E6%9C%BA%EF%BC%8C%E8%AF%9D%E9%A2%98%E4%B8%8E%E9%A2%84%E8%B4%AD%E7%83%AD%E6%BD%AE%E4%B8%8D%E8%BE%93%E4%BB%A5%E5%BE%80%EF%BC%8C%E7%9F%A5%E5%90%8D%E5%88%86%E6%9E%90%E5%B8%88%E9%83%AD%E6%98%8E%E9%8C%A4%E8%A7%82%E5%AF%9F%E9%A6%96%E5%91%A8%E9%A2%84%E8%B4%AD%E7%9A%84%E7%8A%B6%E5%86%B5%E5%90%8E%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B%E5%B7%B2%E5%85%88%E8%A1%8C%E8%B0%83%E9%99%8D%EF%BC%8C%E6%89%80%E4%BB%A5%E6%AF%94%E5%85%88%E5%89%8D%E6%8B%85%E5%BF%83%E7%9A%84%E8%BF%98%E8%A6%81%E5%A5%BD%EF%BC%8C%E6%80%BB%E5%87%BA%E8%B4%A7%E9%87%8F%E9%A2%84%E4%BC%B0%E4%BB%8D%E4%B8%BA8000%E4%B8%87%E5%8F%B0%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E9%83%AD%E6%98%8E%E9%8C%A4%E4%B9%9F%E5%88%86%E6%9E%90%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%A6%81%E4%BB%A4%E4%B8%8E+%23%E5%8D%8E%E4%B8%BA+%E6%96%B0%E6%9C%BA%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%BD%B1%E5%93%8D%E3%80%82%23%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [分析](分析.md), [分析师](分析师.md), [华为](华为.md), [影响](影响.md), [担心](担心.md), [推出](推出.md), [热潮](热潮.md), [状况](状况.md), [系列](系列.md), [苹果](苹果.md), [观察](观察.md), [预测](预测.md)
-___
-##### 2023-09-18 11:39:53 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: iPhone 15上周才推出，迪拜的奢侈品制造商Caviar便推出超高级版iPhone的客制服务——除了有18k金机身外，还可把整副劳力士跟钻石结合到机身上，不过价钱也“超高级”，可买房或是豪车了！ https://t.co/v9nePOFJ…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+iPhone+15%E4%B8%8A%E5%91%A8%E6%89%8D%E6%8E%A8%E5%87%BA%EF%BC%8C%E8%BF%AA%E6%8B%9C%E7%9A%84%E5%A5%A2%E4%BE%88%E5%93%81%E5%88%B6%E9%80%A0%E5%95%86Caviar%E4%BE%BF%E6%8E%A8%E5%87%BA%E8%B6%85%E9%AB%98%E7%BA%A7%E7%89%88iPhone%E7%9A%84%E5%AE%A2%E5%88%B6%E6%9C%8D%E5%8A%A1%E2%80%94%E2%80%94%E9%99%A4%E4%BA%86%E6%9C%8918k%E9%87%91%E6%9C%BA%E8%BA%AB%E5%A4%96%EF%BC%8C%E8%BF%98%E5%8F%AF%E6%8A%8A%E6%95%B4%E5%89%AF%E5%8A%B3%E5%8A%9B%E5%A3%AB%E8%B7%9F%E9%92%BB%E7%9F%B3%E7%BB%93%E5%90%88%E5%88%B0%E6%9C%BA%E8%BA%AB%E4%B8%8A%EF%BC%8C%E4%B8%8D%E8%BF%87%E4%BB%B7%E9%92%B1%E4%B9%9F%E2%80%9C%E8%B6%85%E9%AB%98%E7%BA%A7%E2%80%9D%EF%BC%8C%E5%8F%AF%E4%B9%B0%E6%88%BF%E6%88%96%E6%98%AF%E8%B1%AA%E8%BD%A6%E4%BA%86%EF%BC%81+https%3A%2F%2Ft.co%2Fv9nePOFJ%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[奢侈](奢侈.md), [奢侈品](奢侈品.md), [推出](推出.md), [钻石](钻石.md), [除了](除了.md)
 ____
 
 [Next Page](iPhone-01.md)
