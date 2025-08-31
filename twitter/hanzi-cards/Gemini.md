@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2025-08-27 15:19:23 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苹果公司在AI领域的迟缓进展引发投资者担忧。尽管传出其可能与谷歌Gemini合作增强Siri的消息被市场视为积极信号，但MarketWatch采访的分析师警告称，这可能削弱苹果品牌的隐私优势，甚至加速其在AI竞赛中的落后。 https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9C%A8AI%E9%A2%86%E5%9F%9F%E7%9A%84%E8%BF%9F%E7%BC%93%E8%BF%9B%E5%B1%95%E5%BC%95%E5%8F%91%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%85%E5%BF%A7%E3%80%82%E5%B0%BD%E7%AE%A1%E4%BC%A0%E5%87%BA%E5%85%B6%E5%8F%AF%E8%83%BD%E4%B8%8E%E8%B0%B7%E6%AD%8CGemini%E5%90%88%E4%BD%9C%E5%A2%9E%E5%BC%BASiri%E7%9A%84%E6%B6%88%E6%81%AF%E8%A2%AB%E5%B8%82%E5%9C%BA%E8%A7%86%E4%B8%BA%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7%EF%BC%8C%E4%BD%86MarketWatch%E9%87%87%E8%AE%BF%E7%9A%84%E5%88%86%E6%9E%90%E5%B8%88%E8%AD%A6%E5%91%8A%E7%A7%B0%EF%BC%8C%E8%BF%99%E5%8F%AF%E8%83%BD%E5%89%8A%E5%BC%B1%E8%8B%B9%E6%9E%9C%E5%93%81%E7%89%8C%E7%9A%84%E9%9A%90%E7%A7%81%E4%BC%98%E5%8A%BF%EF%BC%8C%E7%94%9A%E8%87%B3%E5%8A%A0%E9%80%9F%E5%85%B6%E5%9C%A8AI%E7%AB%9E%E8%B5%9B%E4%B8%AD%E7%9A%84%E8%90%BD%E5%90%8E%E3%80%82+https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[优势](优势.md), [分析](分析.md), [分析师](分析师.md), [品牌](品牌.md), [引发](引发.md), [投资](投资.md), [投资者](投资者.md), [担忧](担忧.md), [积极](积极.md), [苹果](苹果.md), [谷歌](谷歌.md), [采访](采访.md), [隐私](隐私.md), [领域](领域.md)
+___
+##### 2025-08-21 15:07:55 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AI手机赛道竞争激烈，谷歌Pixel 10凭借其集成Gemini的强大功能遥遥领先，而苹果的AI产品则显得迟滞不前。https://t.co/YKajFRltVj
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AI%E6%89%8B%E6%9C%BA%E8%B5%9B%E9%81%93%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88%EF%BC%8C%E8%B0%B7%E6%AD%8CPixel+10%E5%87%AD%E5%80%9F%E5%85%B6%E9%9B%86%E6%88%90Gemini%E7%9A%84%E5%BC%BA%E5%A4%A7%E5%8A%9F%E8%83%BD%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%EF%BC%8C%E8%80%8C%E8%8B%B9%E6%9E%9C%E7%9A%84AI%E4%BA%A7%E5%93%81%E5%88%99%E6%98%BE%E5%BE%97%E8%BF%9F%E6%BB%9E%E4%B8%8D%E5%89%8D%E3%80%82https%3A%2F%2Ft.co%2FYKajFRltVj)
+##### Other Words/Names of Interest in the Above Tweet
+[激烈](激烈.md), [竞争](竞争.md), [苹果](苹果.md), [谷歌](谷歌.md)
+___
 ##### 2025-06-26 08:58:42 UTC ~ orange.ai
 > RT @oran_ge: Google 杀疯了，放出对标 Claude Code 和 Cursor 的 Gemini CLI不要100美金，直接免费提供。不仅免费，而且开源，一发布瞬间 3k Star！每天1000次调用以内都免费，非常之离谱。不管具体水平怎么说，先试试…
 

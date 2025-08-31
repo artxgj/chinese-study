@@ -1636,6 +1636,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 扔,,rēng,"throw, hurl; throw away, cast"
 托,,tuō,"to hold up with palm; to support, rely on"
 扛,,káng,carry on shoulders; lift
+扞,,hàn,"ward off, withstand, resist"
 扣,,kòu,"knock, strike, rap, tap; button"
 执,,zhí,hold in hand; keep; carry out
 扭,,niǔ,"turn, twist, wrench; seize, grasp"
@@ -2864,6 +2865,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 獨,独,dú,"alone, single, solitary, only"
 獰,狞,níng,ferocious appearance; hideous
 獲,获,huò,"obtain, get, receive; seize"
+獴,,měng,mongoose
 獵,猎,liè,hunt; field sports
 獷,犷,guǎng,"fierce, rude, uncivilized"
 獸,兽,shòu,"beast, animal; bestial"
@@ -3264,7 +3266,6 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 秘,,mì,"secret, mysterious, abstruse"
 租,,zū,"rent, lease; rental; tax"
 秣,,mò,"fodder, horse feed; feed horse"
-秤,,chèng,"balance, scale, steelyard"
 秦,,qín,feudal state of Qin; the Qin dynasty (from which the name 'China' comes)
 秧,,yāng,"rice seedlings, young rice plants"
 秩,,zhì,order; orderly; salary; decade
@@ -4003,7 +4004,6 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 藤,,téng,"rattan, cane; creeper plant"
 藥,药,yào,"drugs, pharmaceuticals, medicine"
 藩,,fān,fence; boundary; outlying border
-藴,蕴,yùn,collect
 藹,蔼,ǎi,"lush; affable, friendly"
 藺,蔺,lìn,rush used in making mats; surname
 藻,,zǎo,"splendid, magnificent; algae"
@@ -4713,6 +4713,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 醪,,láo,"unclear wine, wine with dregs"
 醫,医,yī,"medicine; to cure, heal; physician"
 醬,酱,jiàng,any jam-like or paste-like food
+醯,,xī,vinegar; pickle; acid
 醴,,lǐ,sweet wine; sweet spring
 醺,,xūn,"get drunk, be intoxicated"
 釀,酿,niàng,"brew, ferment"
@@ -4844,7 +4845,6 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 鎮,镇,zhèn,"town, market place; suppress"
 鎳,镍,niè,"nickel (element 28, Ni)"
 鎵,镓,jiā,"gallium (element 31, Ga)"
-鎸,镌,juān,"engraving tool; carve, engrave"
 鏈,链,liàn,"chain, wire, cable; chain, shack"
 鏑,镝,dí,"dysprosium (element 66, Dy); the barb of an arrow; the head of a javelin"
 鏖,,áo,"to fight to the end, engage in a fierce battle"
@@ -4859,6 +4859,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 鐘,钟,zhōng,clock; bell
 鐠,镨,pǔ,"praseodymium (element 59, Pr)"
 鐧,锏,jiān,kind of rapier
+鐫,𰾹,juān,"engraving tool; carve, engrave"
 鐫,镌,juān,"engraving tool; carve, engrave"
 鐮,镰,lián,sickle
 鐲,镯,zhuó,"bracelet, armband; small bell"
@@ -5026,6 +5027,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 靠,,kào,"lean on, trust, depend on; near"
 靡,,mí,"divide, disperse, scatter"
 面,,miàn,"face; surface; plane; side, dimension; Kangxi radical 176"
+靦,䩄,tiǎn,"timid, shy, bashful"
 靨,靥,yè,dimples
 革,,gé,"leather, animal hides; Kangxi radical 177; hexagram ䷰"
 靴,,xuē,boots
@@ -5047,8 +5049,8 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 音,,yīn,"sound, tone, pitch, pronunciation; Kangxi radical 180"
 韵,,yùn,rhyme; vowel
 韶,,sháo,music of the emperor Shun; beautiful
-韻,𱂐,yùn,rhyme; vowel
 韻,韵,yùn,rhyme; vowel
+韻,𱂐,yùn,rhyme; vowel
 響,响,xiǎng,"make sound, make noise; sound"
 頁,页,yè,"page, sheet, leaf; Kangxi radical 181"
 頂,顶,dǐng,"top, peak; carry on head; very"

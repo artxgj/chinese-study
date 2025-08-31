@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2025-08-28 05:37:18 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 数据中心业务虽是本季主要成长来源，但核心GPU“运算”收入季减1％，是AI狂潮以来首次下滑，显示英伟达面临保持高增长的挑战。#南洋商报 #抛售 #芯片 #英伟达 #财报https://t.co/gkrtj8FYGM https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%B8%9A%E5%8A%A1%E8%99%BD%E6%98%AF%E6%9C%AC%E5%AD%A3%E4%B8%BB%E8%A6%81%E6%88%90%E9%95%BF%E6%9D%A5%E6%BA%90%EF%BC%8C%E4%BD%86%E6%A0%B8%E5%BF%83GPU%E2%80%9C%E8%BF%90%E7%AE%97%E2%80%9D%E6%94%B6%E5%85%A5%E5%AD%A3%E5%87%8F1%EF%BC%85%EF%BC%8C%E6%98%AFAI%E7%8B%82%E6%BD%AE%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E4%B8%8B%E6%BB%91%EF%BC%8C%E6%98%BE%E7%A4%BA%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%9D%A2%E4%B8%B4%E4%BF%9D%E6%8C%81%E9%AB%98%E5%A2%9E%E9%95%BF%E7%9A%84%E6%8C%91%E6%88%98%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E6%8A%9B%E5%94%AE+%23%E8%8A%AF%E7%89%87+%23%E8%8B%B1%E4%BC%9F%E8%BE%BE+%23%E8%B4%A2%E6%8A%A5https%3A%2F%2Ft.co%2Fgkrtj8FYGM+https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[下滑](下滑.md), [增长](增长.md), [抛售](抛售.md), [挑战](挑战.md), [收入](收入.md), [数据](数据.md), [显示](显示.md), [核心](核心.md), [芯片](芯片.md), [英伟达](英伟达.md), [面临](面临.md)
+___
+##### 2025-08-22 07:12:50 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【英偉達將參與開發日本超算「富岳」的後續機型】英偉達將與日本理研將共同開發AI用圖形處理器（GPU）。這是海外企業首次參與日本核心超級電腦的開發。將凝聚日美的最先進技術，力爭實現性能達到全球最高水準的超級電腦…… https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B1%E5%81%89%E9%81%94%E5%B0%87%E5%8F%83%E8%88%87%E9%96%8B%E7%99%BC%E6%97%A5%E6%9C%AC%E8%B6%85%E7%AE%97%E3%80%8C%E5%AF%8C%E5%B2%B3%E3%80%8D%E7%9A%84%E5%BE%8C%E7%BA%8C%E6%A9%9F%E5%9E%8B%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E5%B0%87%E8%88%87%E6%97%A5%E6%9C%AC%E7%90%86%E7%A0%94%E5%B0%87%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BCAI%E7%94%A8%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E3%80%82%E9%80%99%E6%98%AF%E6%B5%B7%E5%A4%96%E4%BC%81%E6%A5%AD%E9%A6%96%E6%AC%A1%E5%8F%83%E8%88%87%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BF%83%E8%B6%85%E7%B4%9A%E9%9B%BB%E8%85%A6%E7%9A%84%E9%96%8B%E7%99%BC%E3%80%82%E5%B0%87%E5%87%9D%E8%81%9A%E6%97%A5%E7%BE%8E%E7%9A%84%E6%9C%80%E5%85%88%E9%80%B2%E6%8A%80%E8%A1%93%EF%BC%8C%E5%8A%9B%E7%88%AD%E5%AF%A6%E7%8F%BE%E6%80%A7%E8%83%BD%E9%81%94%E5%88%B0%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%B0%B4%E6%BA%96%E7%9A%84%E8%B6%85%E7%B4%9A%E9%9B%BB%E8%85%A6%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [日本](日本.md), [核心](核心.md), [英偉達](英偉達.md), [開發](開發.md)
+___
 ##### 2025-07-26 19:18:34 UTC ~ AI有话说
 > RT @Medal_AI: wtffmpeg - 让本地大模型将自然语言转换为FFmpeg命令的神器！告别繁琐的手动查找，只需用简单语言描述需求，即可生成可执行命令。支持GPU加速，本地运行，安全又高效。轻松定制模型，满足个性化需求。立即体验，让视频处理更简单！https:/…
 

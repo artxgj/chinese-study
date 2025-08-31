@@ -8,6 +8,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2023-09-19 15:02:54 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国科技巨头苹果公司9月14日刚推出iPhone 15旗舰手机系列，没过几天就被一张客服人员的照片刷屏。这张来自苹果手表专家一对一导购页面的照片，显示的是一位留有黑色长辫子的苹果手表专家。不少中国网民表示该人物的形象让他们感到不舒服，并把苹果骂上…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B89%E6%9C%8814%E6%97%A5%E5%88%9A%E6%8E%A8%E5%87%BAiPhone+15%E6%97%97%E8%88%B0%E6%89%8B%E6%9C%BA%E7%B3%BB%E5%88%97%EF%BC%8C%E6%B2%A1%E8%BF%87%E5%87%A0%E5%A4%A9%E5%B0%B1%E8%A2%AB%E4%B8%80%E5%BC%A0%E5%AE%A2%E6%9C%8D%E4%BA%BA%E5%91%98%E7%9A%84%E7%85%A7%E7%89%87%E5%88%B7%E5%B1%8F%E3%80%82%E8%BF%99%E5%BC%A0%E6%9D%A5%E8%87%AA%E8%8B%B9%E6%9E%9C%E6%89%8B%E8%A1%A8%E4%B8%93%E5%AE%B6%E4%B8%80%E5%AF%B9%E4%B8%80%E5%AF%BC%E8%B4%AD%E9%A1%B5%E9%9D%A2%E7%9A%84%E7%85%A7%E7%89%87%EF%BC%8C%E6%98%BE%E7%A4%BA%E7%9A%84%E6%98%AF%E4%B8%80%E4%BD%8D%E7%95%99%E6%9C%89%E9%BB%91%E8%89%B2%E9%95%BF%E8%BE%AB%E5%AD%90%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E8%A1%A8%E4%B8%93%E5%AE%B6%E3%80%82%E4%B8%8D%E5%B0%91%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E8%A1%A8%E7%A4%BA%E8%AF%A5%E4%BA%BA%E7%89%A9%E7%9A%84%E5%BD%A2%E8%B1%A1%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%84%9F%E5%88%B0%E4%B8%8D%E8%88%92%E6%9C%8D%EF%BC%8C%E5%B9%B6%E6%8A%8A%E8%8B%B9%E6%9E%9C%E9%AA%82%E4%B8%8A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[屏](屏.md), [巨头](巨头.md), [推出](推出.md), [显示](显示.md), [来自](来自.md), [科技](科技.md), [系列](系列.md), [美国](美国.md), [苹果](苹果.md)
+___
+##### 2023-09-19 07:25:25 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #视频 在刚刚发布的iOS 17中，iPhone的通话界面大变样，此外新增了Live Voicemail语音留言实时转文字、FaceTime视频留言和自定义贴纸等新功能。《华尔街日报》科技专栏作家Joanna Stern带你速览这些变化。htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E5%9C%A8%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E7%9A%84iOS+17%E4%B8%AD%EF%BC%8CiPhone%E7%9A%84%E9%80%9A%E8%AF%9D%E7%95%8C%E9%9D%A2%E5%A4%A7%E5%8F%98%E6%A0%B7%EF%BC%8C%E6%AD%A4%E5%A4%96%E6%96%B0%E5%A2%9E%E4%BA%86Live+Voicemail%E8%AF%AD%E9%9F%B3%E7%95%99%E8%A8%80%E5%AE%9E%E6%97%B6%E8%BD%AC%E6%96%87%E5%AD%97%E3%80%81FaceTime%E8%A7%86%E9%A2%91%E7%95%99%E8%A8%80%E5%92%8C%E8%87%AA%E5%AE%9A%E4%B9%89%E8%B4%B4%E7%BA%B8%E7%AD%89%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%82%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E7%A7%91%E6%8A%80%E4%B8%93%E6%A0%8F%E4%BD%9C%E5%AE%B6Joanna+Stern%E5%B8%A6%E4%BD%A0%E9%80%9F%E8%A7%88%E8%BF%99%E4%BA%9B%E5%8F%98%E5%8C%96%E3%80%82htt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iOS](iOS.md), [发布](发布.md), [科技](科技.md)
+___
+##### 2023-09-18 11:42:37 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苹果推出 #iPhone15 系列新机，话题与预购热潮不输以往，知名分析师郭明錤观察首周预购的状况后表示，市场预测已先行调降，所以比先前担心的还要好，总出货量预估仍为8000万台。此外，郭明錤也分析中国政府禁令与 #华为 新机对苹果的影响。#…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA+%23iPhone15+%E7%B3%BB%E5%88%97%E6%96%B0%E6%9C%BA%EF%BC%8C%E8%AF%9D%E9%A2%98%E4%B8%8E%E9%A2%84%E8%B4%AD%E7%83%AD%E6%BD%AE%E4%B8%8D%E8%BE%93%E4%BB%A5%E5%BE%80%EF%BC%8C%E7%9F%A5%E5%90%8D%E5%88%86%E6%9E%90%E5%B8%88%E9%83%AD%E6%98%8E%E9%8C%A4%E8%A7%82%E5%AF%9F%E9%A6%96%E5%91%A8%E9%A2%84%E8%B4%AD%E7%9A%84%E7%8A%B6%E5%86%B5%E5%90%8E%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B%E5%B7%B2%E5%85%88%E8%A1%8C%E8%B0%83%E9%99%8D%EF%BC%8C%E6%89%80%E4%BB%A5%E6%AF%94%E5%85%88%E5%89%8D%E6%8B%85%E5%BF%83%E7%9A%84%E8%BF%98%E8%A6%81%E5%A5%BD%EF%BC%8C%E6%80%BB%E5%87%BA%E8%B4%A7%E9%87%8F%E9%A2%84%E4%BC%B0%E4%BB%8D%E4%B8%BA8000%E4%B8%87%E5%8F%B0%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E9%83%AD%E6%98%8E%E9%8C%A4%E4%B9%9F%E5%88%86%E6%9E%90%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%A6%81%E4%BB%A4%E4%B8%8E+%23%E5%8D%8E%E4%B8%BA+%E6%96%B0%E6%9C%BA%E5%AF%B9%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%BD%B1%E5%93%8D%E3%80%82%23%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [分析师](分析师.md), [华为](华为.md), [影响](影响.md), [担心](担心.md), [推出](推出.md), [热潮](热潮.md), [状况](状况.md), [系列](系列.md), [苹果](苹果.md), [观察](观察.md), [预测](预测.md)
+___
 ##### 2023-09-18 11:39:53 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: iPhone 15上周才推出，迪拜的奢侈品制造商Caviar便推出超高级版iPhone的客制服务——除了有18k金机身外，还可把整副劳力士跟钻石结合到机身上，不过价钱也“超高级”，可买房或是豪车了！ https://t.co/v9nePOFJ…
 

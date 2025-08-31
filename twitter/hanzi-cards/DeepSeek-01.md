@@ -8,6 +8,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-07 16:24:30 UTC ~ 中國新聞社
+> RT @CNS1952: 【DeepSeek火爆全球，中國撬動全球人工智能發展新範式】中國外交部發言人林劍7日宣布，國家主席習近平特別代表、中共中央政治局委員、國務院副總理張國清將於2月9日至12日應邀赴法國出席人工智能行動峰會。… https://t.co/5UBh9SnLYu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E3%80%90DeepSeek%E7%81%AB%E7%88%86%E5%85%A8%E7%90%83%EF%BC%8C%E4%B8%AD%E5%9C%8B%E6%92%AC%E5%8B%95%E5%85%A8%E7%90%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%99%BC%E5%B1%95%E6%96%B0%E7%AF%84%E5%BC%8F%E3%80%91%E4%B8%AD%E5%9C%8B%E5%A4%96%E4%BA%A4%E9%83%A8%E7%99%BC%E8%A8%80%E4%BA%BA%E6%9E%97%E5%8A%8D7%E6%97%A5%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%9C%8B%E5%AE%B6%E4%B8%BB%E5%B8%AD%E7%BF%92%E8%BF%91%E5%B9%B3%E7%89%B9%E5%88%A5%E4%BB%A3%E8%A1%A8%E3%80%81%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%93%A1%E3%80%81%E5%9C%8B%E5%8B%99%E9%99%A2%E5%89%AF%E7%B8%BD%E7%90%86%E5%BC%B5%E5%9C%8B%E6%B8%85%E5%B0%87%E6%96%BC2%E6%9C%889%E6%97%A5%E8%87%B312%E6%97%A5%E6%87%89%E9%82%80%E8%B5%B4%E6%B3%95%E5%9C%8B%E5%87%BA%E5%B8%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%A1%8C%E5%8B%95%E5%B3%B0%E6%9C%83%E3%80%82%E2%80%A6+https%3A%2F%2Ft.co%2F5UBh9SnLYu)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [習近平](習近平.md), [赴](赴.md)
+___
+##### 2025-02-07 08:16:18 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: DeepSeek的突然崛起推动香港恒生科技指数进入技术性牛市区域，较1月份的低点上涨逾20%。分析师认为，DeepSeek低成本但功能强大的模型及其开源性质，可能会加速AI在中国各行各业的采用。https://t.co/YZLmpesKfu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+DeepSeek%E7%9A%84%E7%AA%81%E7%84%B6%E5%B4%9B%E8%B5%B7%E6%8E%A8%E5%8A%A8%E9%A6%99%E6%B8%AF%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80%E6%8C%87%E6%95%B0%E8%BF%9B%E5%85%A5%E6%8A%80%E6%9C%AF%E6%80%A7%E7%89%9B%E5%B8%82%E5%8C%BA%E5%9F%9F%EF%BC%8C%E8%BE%831%E6%9C%88%E4%BB%BD%E7%9A%84%E4%BD%8E%E7%82%B9%E4%B8%8A%E6%B6%A8%E9%80%BE20%25%E3%80%82%E5%88%86%E6%9E%90%E5%B8%88%E8%AE%A4%E4%B8%BA%EF%BC%8CDeepSeek%E4%BD%8E%E6%88%90%E6%9C%AC%E4%BD%86%E5%8A%9F%E8%83%BD%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%8F%8A%E5%85%B6%E5%BC%80%E6%BA%90%E6%80%A7%E8%B4%A8%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%8A%A0%E9%80%9FAI%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%90%84%E8%A1%8C%E5%90%84%E4%B8%9A%E7%9A%84%E9%87%87%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2FYZLmpesKfu)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [型](型.md), [崛起](崛起.md), [开源](开源.md), [成本](成本.md), [技术](技术.md), [推动](推动.md), [模型](模型.md), [科技](科技.md), [逾](逾.md), [香港](香港.md)
+___
+##### 2025-02-07 07:02:32 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 中国新创公司DeepSeek推出低成本的AI开源模型，效率媲美美国科技巨头的产品，为人工智能产业投下一记震撼弹，被看好改写市场生态。此事让中国DeepSeek概念股大涨。https://t.co/ZhTXluywwd https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%88%9B%E5%85%AC%E5%8F%B8DeepSeek%E6%8E%A8%E5%87%BA%E4%BD%8E%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%95%88%E7%8E%87%E5%AA%B2%E7%BE%8E%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E4%B8%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E6%8A%95%E4%B8%8B%E4%B8%80%E8%AE%B0%E9%9C%87%E6%92%BC%E5%BC%B9%EF%BC%8C%E8%A2%AB%E7%9C%8B%E5%A5%BD%E6%94%B9%E5%86%99%E5%B8%82%E5%9C%BA%E7%94%9F%E6%80%81%E3%80%82%E6%AD%A4%E4%BA%8B%E8%AE%A9%E4%B8%AD%E5%9B%BDDeepSeek%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8%E3%80%82https%3A%2F%2Ft.co%2FZhTXluywwd+https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[产业](产业.md), [人工](人工.md), [人工智能](人工智能.md), [型](型.md), [巨头](巨头.md), [开源](开源.md), [成本](成本.md), [推出](推出.md), [效率](效率.md), [模型](模型.md), [生态](生态.md), [科技](科技.md), [美国](美国.md)
+___
+##### 2025-02-07 04:38:27 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【日本政府提醒各部門謹慎使用DeepSeek】日本政府再次強調必須遵守禁止使用生成式AI處理機密資訊的規定。如果確有使用需求，相關部門需充分考慮風險，並向日本內閣網路安全中心和數位廳尋求建議……  https://t.co/tlNVQ…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%8F%90%E9%86%92%E5%90%84%E9%83%A8%E9%96%80%E8%AC%B9%E6%85%8E%E4%BD%BF%E7%94%A8DeepSeek%E3%80%91%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%86%8D%E6%AC%A1%E5%BC%B7%E8%AA%BF%E5%BF%85%E9%A0%88%E9%81%B5%E5%AE%88%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8%E7%94%9F%E6%88%90%E5%BC%8FAI%E8%99%95%E7%90%86%E6%A9%9F%E5%AF%86%E8%B3%87%E8%A8%8A%E7%9A%84%E8%A6%8F%E5%AE%9A%E3%80%82%E5%A6%82%E6%9E%9C%E7%A2%BA%E6%9C%89%E4%BD%BF%E7%94%A8%E9%9C%80%E6%B1%82%EF%BC%8C%E7%9B%B8%E9%97%9C%E9%83%A8%E9%96%80%E9%9C%80%E5%85%85%E5%88%86%E8%80%83%E6%85%AE%E9%A2%A8%E9%9A%AA%EF%BC%8C%E4%B8%A6%E5%90%91%E6%97%A5%E6%9C%AC%E5%85%A7%E9%96%A3%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E4%B8%AD%E5%BF%83%E5%92%8C%E6%95%B8%E4%BD%8D%E5%BB%B3%E5%B0%8B%E6%B1%82%E5%BB%BA%E8%AD%B0%E2%80%A6%E2%80%A6++https%3A%2F%2Ft.co%2FtlNVQ%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[提醒](提醒.md), [日本](日本.md), [禁止](禁止.md), [需求](需求.md)
+___
 ##### 2025-02-07 04:22:30 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: DeepSeek揭示了电力行业最担心的事情之一：AI热潮可能并不如预期那般耗电。该公司AI模型的发布已经导致科技和电力公司股价暴跌。业内人士表示，从长远来看，DeepSeek能耗效率的提升让人质疑是否还需要大规模投资建造旨在运营数十年之久的新…
 

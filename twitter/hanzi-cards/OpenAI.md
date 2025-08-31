@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-08-26 17:13:12 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 马斯克的人工智能初创公司xAI周一起诉苹果公司和OpenAI，指控这两家企业的合作关系非法阻碍AI公司的竞争。https://t.co/GxqgIgRZQA
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8xAI%E5%91%A8%E4%B8%80%E8%B5%B7%E8%AF%89%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%92%8COpenAI%EF%BC%8C%E6%8C%87%E6%8E%A7%E8%BF%99%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%E7%9A%84%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%E9%9D%9E%E6%B3%95%E9%98%BB%E7%A2%8DAI%E5%85%AC%E5%8F%B8%E7%9A%84%E7%AB%9E%E4%BA%89%E3%80%82https%3A%2F%2Ft.co%2FGxqgIgRZQA)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [指控](指控.md), [竞争](竞争.md), [苹果](苹果.md), [起诉](起诉.md), [阻碍](阻碍.md)
+___
+##### 2025-08-22 10:35:20 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI计划今年在印度开设其首个办事处，此举旨在满足这个大型市场对AI日益增长的需求。OpenAI表示，该公司在印度扩大业务的努力将涉及与政府合作，为该国量身定制AI工具，以及与当地企业和学术机构合作。https://t.co/nYu7vGH…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E8%AE%A1%E5%88%92%E4%BB%8A%E5%B9%B4%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%BC%80%E8%AE%BE%E5%85%B6%E9%A6%96%E4%B8%AA%E5%8A%9E%E4%BA%8B%E5%A4%84%EF%BC%8C%E6%AD%A4%E4%B8%BE%E6%97%A8%E5%9C%A8%E6%BB%A1%E8%B6%B3%E8%BF%99%E4%B8%AA%E5%A4%A7%E5%9E%8B%E5%B8%82%E5%9C%BA%E5%AF%B9AI%E6%97%A5%E7%9B%8A%E5%A2%9E%E9%95%BF%E7%9A%84%E9%9C%80%E6%B1%82%E3%80%82OpenAI%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%89%A9%E5%A4%A7%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%8A%AA%E5%8A%9B%E5%B0%86%E6%B6%89%E5%8F%8A%E4%B8%8E%E6%94%BF%E5%BA%9C%E5%90%88%E4%BD%9C%EF%BC%8C%E4%B8%BA%E8%AF%A5%E5%9B%BD%E9%87%8F%E8%BA%AB%E5%AE%9A%E5%88%B6AI%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%8E%E5%BD%93%E5%9C%B0%E4%BC%81%E4%B8%9A%E5%92%8C%E5%AD%A6%E6%9C%AF%E6%9C%BA%E6%9E%84%E5%90%88%E4%BD%9C%E3%80%82https%3A%2F%2Ft.co%2FnYu7vGH%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[印度](印度.md), [型](型.md), [增长](增长.md), [工具](工具.md), [扩大](扩大.md), [旨在](旨在.md), [机构](机构.md), [此举](此举.md), [计划](计划.md), [需求](需求.md)
+___
 ##### 2025-07-28 14:58:12 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 谷歌DeepMind和OpenAI的AI模型在国际数学奥林匹克竞赛中斩获金牌，但仍有包括多位美国高中生在内的26位参赛者得分超过了它们。这可能是人类最后一次在这类顶级智力竞赛中胜过AI吗？“我认为AI明年真的有可能拿到满分了，” 其中一位得分…
 
