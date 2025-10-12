@@ -8,6 +8,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-08 04:03:14 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【DeepSeek技术突破展示中国在人工智能领域的快速发展，同时也引发关于数据安全、信息透明度及全球技术竞争格局的关注。——#陈万诚】#南洋商报 #DeepSeek #AI #人工智能 https://t.co/uAOtdaKunU htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90DeepSeek%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BF%AB%E9%80%9F%E5%8F%91%E5%B1%95%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B9%9F%E5%BC%95%E5%8F%91%E5%85%B3%E4%BA%8E%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E3%80%81%E4%BF%A1%E6%81%AF%E9%80%8F%E6%98%8E%E5%BA%A6%E5%8F%8A%E5%85%A8%E7%90%83%E6%8A%80%E6%9C%AF%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E7%9A%84%E5%85%B3%E6%B3%A8%E3%80%82%E2%80%94%E2%80%94%23%E9%99%88%E4%B8%87%E8%AF%9A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+https%3A%2F%2Ft.co%2FuAOtdaKunU+htt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [关注](关注.md), [引发](引发.md), [技术](技术.md), [数据](数据.md), [格局](格局.md), [突破](突破.md), [竞争](竞争.md), [透明](透明.md), [透明度](透明度.md), [领域](领域.md)
+___
+##### 2025-02-08 03:44:30 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【中國不僅僅有DeepSeek 】除DeepSeek外，月之暗面、智譜AI、MiniMAX以及百川智慧等也是獨角獸企業。從資金上支援這些AI初創企業的是阿里巴巴、騰訊等中國的網際網路相關企業， 清華大學、北京大學和中國科學院等則成為人才供…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%83%85%E5%83%85%E6%9C%89DeepSeek%C2%A0%E3%80%91%E9%99%A4DeepSeek%E5%A4%96%EF%BC%8C%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81%E6%99%BA%E8%AD%9CAI%E3%80%81MiniMAX%E4%BB%A5%E5%8F%8A%E7%99%BE%E5%B7%9D%E6%99%BA%E6%85%A7%E7%AD%89%E4%B9%9F%E6%98%AF%E7%8D%A8%E8%A7%92%E7%8D%B8%E4%BC%81%E6%A5%AD%E3%80%82%E5%BE%9E%E8%B3%87%E9%87%91%E4%B8%8A%E6%94%AF%E6%8F%B4%E9%80%99%E4%BA%9BAI%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%AD%E7%9A%84%E6%98%AF%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E3%80%81%E9%A8%B0%E8%A8%8A%E7%AD%89%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E7%9B%B8%E9%97%9C%E4%BC%81%E6%A5%AD%EF%BC%8C+%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E3%80%81%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%B8%E5%92%8C%E4%B8%AD%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%99%A2%E7%AD%89%E5%89%87%E6%88%90%E7%82%BA%E4%BA%BA%E6%89%8D%E4%BE%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[北京](北京.md), [支援](支援.md), [清華大學](清華大學.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2025-02-07 16:33:40 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 亚马逊、谷歌、微软和Meta都计划进一步加大AI支出。尽管投资者担心中国DeepSeek的影响以及美国科技巨头能否获得足够的利润，但AI军备竞赛仍在加速。亚马逊CEO表示，“几乎我们今天所知的每一款应用都将通过内置AI进行重塑。”https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BA%9A%E9%A9%AC%E9%80%8A%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%BE%AE%E8%BD%AF%E5%92%8CMeta%E9%83%BD%E8%AE%A1%E5%88%92%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%A4%A7AI%E6%94%AF%E5%87%BA%E3%80%82%E5%B0%BD%E7%AE%A1%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%85%E5%BF%83%E4%B8%AD%E5%9B%BDDeepSeek%E7%9A%84%E5%BD%B1%E5%93%8D%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%8E%B7%E5%BE%97%E8%B6%B3%E5%A4%9F%E7%9A%84%E5%88%A9%E6%B6%A6%EF%BC%8C%E4%BD%86AI%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%E4%BB%8D%E5%9C%A8%E5%8A%A0%E9%80%9F%E3%80%82%E4%BA%9A%E9%A9%AC%E9%80%8ACEO%E8%A1%A8%E7%A4%BA%EF%BC%8C%E2%80%9C%E5%87%A0%E4%B9%8E%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E6%89%80%E7%9F%A5%E7%9A%84%E6%AF%8F%E4%B8%80%E6%AC%BE%E5%BA%94%E7%94%A8%E9%83%BD%E5%B0%86%E9%80%9A%E8%BF%87%E5%86%85%E7%BD%AEAI%E8%BF%9B%E8%A1%8C%E9%87%8D%E5%A1%91%E3%80%82%E2%80%9Dhttps%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[亚马逊](亚马逊.md), [利润](利润.md), [巨头](巨头.md), [影响](影响.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [担心](担心.md), [支出](支出.md), [科技](科技.md), [美国](美国.md), [获得](获得.md), [计划](计划.md), [谷歌](谷歌.md), [进行](进行.md)
+___
 ##### 2025-02-07 16:24:30 UTC ~ 中國新聞社
 > RT @CNS1952: 【DeepSeek火爆全球，中國撬動全球人工智能發展新範式】中國外交部發言人林劍7日宣布，國家主席習近平特別代表、中共中央政治局委員、國務院副總理張國清將於2月9日至12日應邀赴法國出席人工智能行動峰會。… https://t.co/5UBh9SnLYu
 

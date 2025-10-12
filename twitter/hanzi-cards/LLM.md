@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/LLM) for definition
 ### Tweets containing LLM
 
 ___
+##### 2025-10-06 04:20:58 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 想在自己电脑上跑大模型处理长文档，但动辄几十 GB 的模型参数让普通显卡根本吃不消，更别说处理 10 万字的超长上下文了。无独有偶，找到了 oLLM 这个轻量化推理库，专为消费级 GPU 优化，用 8GB 显存就能跑 80B 参数的大模型…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%83%B3%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%94%B5%E8%84%91%E4%B8%8A%E8%B7%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%84%E7%90%86%E9%95%BF%E6%96%87%E6%A1%A3%EF%BC%8C%E4%BD%86%E5%8A%A8%E8%BE%84%E5%87%A0%E5%8D%81+GB+%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E8%AE%A9%E6%99%AE%E9%80%9A%E6%98%BE%E5%8D%A1%E6%A0%B9%E6%9C%AC%E5%90%83%E4%B8%8D%E6%B6%88%EF%BC%8C%E6%9B%B4%E5%88%AB%E8%AF%B4%E5%A4%84%E7%90%86+10+%E4%B8%87%E5%AD%97%E7%9A%84%E8%B6%85%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BA%86%E3%80%82%E6%97%A0%E7%8B%AC%E6%9C%89%E5%81%B6%EF%BC%8C%E6%89%BE%E5%88%B0%E4%BA%86+oLLM+%E8%BF%99%E4%B8%AA%E8%BD%BB%E9%87%8F%E5%8C%96%E6%8E%A8%E7%90%86%E5%BA%93%EF%BC%8C%E4%B8%93%E4%B8%BA%E6%B6%88%E8%B4%B9%E7%BA%A7+GPU+%E4%BC%98%E5%8C%96%EF%BC%8C%E7%94%A8+8GB+%E6%98%BE%E5%AD%98%E5%B0%B1%E8%83%BD%E8%B7%91+80B+%E5%8F%82%E6%95%B0%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[GPU](GPU.md), [上下文](上下文.md), [优化](优化.md), [型](型.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
+___
+##### 2025-09-13 10:04:17 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 关于 AI 工程的教程，网上很多都过于理论化，尤其缺少如何将基础模型真正应用到生产环境的资料。今天看到《AI Engineering》这本书籍就颇为不错，提供了从基础模型到实际应用的完整工程化框架。涵盖了 LLM 和多模态模型的适配方…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%85%B3%E4%BA%8E+AI+%E5%B7%A5%E7%A8%8B%E7%9A%84%E6%95%99%E7%A8%8B%EF%BC%8C%E7%BD%91%E4%B8%8A%E5%BE%88%E5%A4%9A%E9%83%BD%E8%BF%87%E4%BA%8E%E7%90%86%E8%AE%BA%E5%8C%96%EF%BC%8C%E5%B0%A4%E5%85%B6%E7%BC%BA%E5%B0%91%E5%A6%82%E4%BD%95%E5%B0%86%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E7%9C%9F%E6%AD%A3%E5%BA%94%E7%94%A8%E5%88%B0%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%E8%B5%84%E6%96%99%E3%80%82%E4%BB%8A%E5%A4%A9%E7%9C%8B%E5%88%B0%E3%80%8AAI+Engineering%E3%80%8B%E8%BF%99%E6%9C%AC%E4%B9%A6%E7%B1%8D%E5%B0%B1%E9%A2%87%E4%B8%BA%E4%B8%8D%E9%94%99%EF%BC%8C%E6%8F%90%E4%BE%9B%E4%BA%86%E4%BB%8E%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B%E5%88%B0%E5%AE%9E%E9%99%85%E5%BA%94%E7%94%A8%E7%9A%84%E5%AE%8C%E6%95%B4%E5%B7%A5%E7%A8%8B%E5%8C%96%E6%A1%86%E6%9E%B6%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86+LLM+%E5%92%8C%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%80%82%E9%85%8D%E6%96%B9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [提供](提供.md), [模型](模型.md), [涵盖](涵盖.md), [生产](生产.md)
+___
+##### 2025-09-12 06:35:17 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 微软与OpenAI宣布双方基本上已达成延长合作协议，就待最终敲定。#南洋商报 #microsoft #OpenAI #人工智能 #LLMhttps://t.co/Y6EATi4k04 https://t.co/ZEvkTMZ1Ka
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%E4%B8%8EOpenAI%E5%AE%A3%E5%B8%83%E5%8F%8C%E6%96%B9%E5%9F%BA%E6%9C%AC%E4%B8%8A%E5%B7%B2%E8%BE%BE%E6%88%90%E5%BB%B6%E9%95%BF%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%B0%B1%E5%BE%85%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23microsoft+%23OpenAI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23LLMhttps%3A%2F%2Ft.co%2FY6EATi4k04+https%3A%2F%2Ft.co%2FZEvkTMZ1Ka)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [协议](协议.md), [延长](延长.md), [微软](微软.md), [达成](达成.md)
+___
 ##### 2025-07-26 19:11:55 UTC ~ johann.GPT
 > RT @ProgramerJohann: bentoml 推出 《LLM Inference Handbook》一份专为开发者打造的技术手册，用于汇总和梳理大语言模型推理（LLM inference）在生产环境中的最佳实践与优化思路。包含如何实际部署、扩展和运维 LLM、性…
 

@@ -7,6 +7,118 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-10-09 07:27:21 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 微软正寻求摆脱对合作伙伴OpenAI的依赖，并为其Copilot聊天机器人建立用户基础。https://t.co/SVsppkGQkJ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%BE%AE%E8%BD%AF%E6%AD%A3%E5%AF%BB%E6%B1%82%E6%91%86%E8%84%B1%E5%AF%B9%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4OpenAI%E7%9A%84%E4%BE%9D%E8%B5%96%EF%BC%8C%E5%B9%B6%E4%B8%BA%E5%85%B6Copilot%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BB%BA%E7%AB%8B%E7%94%A8%E6%88%B7%E5%9F%BA%E7%A1%80%E3%80%82https%3A%2F%2Ft.co%2FSVsppkGQkJ)
+##### Other Words/Names of Interest in the Above Tweet
+[依赖](依赖.md), [微软](微软.md), [摆脱](摆脱.md), [机器人](机器人.md), [聊天](聊天.md)
+___
+##### 2025-10-07 08:58:20 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI和AMD的合作消息激发了对整个半导体供应链需求将更加强劲的预期，在此背景下，台积电股价创下新高。https://t.co/Yx0bFY78C7
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%92%8CAMD%E7%9A%84%E5%90%88%E4%BD%9C%E6%B6%88%E6%81%AF%E6%BF%80%E5%8F%91%E4%BA%86%E5%AF%B9%E6%95%B4%E4%B8%AA%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BE%9B%E5%BA%94%E9%93%BE%E9%9C%80%E6%B1%82%E5%B0%86%E6%9B%B4%E5%8A%A0%E5%BC%BA%E5%8A%B2%E7%9A%84%E9%A2%84%E6%9C%9F%EF%BC%8C%E5%9C%A8%E6%AD%A4%E8%83%8C%E6%99%AF%E4%B8%8B%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%82%A1%E4%BB%B7%E5%88%9B%E4%B8%8B%E6%96%B0%E9%AB%98%E3%80%82https%3A%2F%2Ft.co%2FYx0bFY78C7)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [供应链](供应链.md), [半导体](半导体.md), [台积电](台积电.md), [强劲](强劲.md), [需求](需求.md), [预期](预期.md)
+___
+##### 2025-10-07 05:29:39 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: AMD已向OpenAI发出最多1.6亿股普通股的认股权证，实际行使数量将依芯片部署进度及股价表现分阶段解锁。#南洋商报 #AMD #openai #股价 #芯片https://t.co/BAkBgUlFau https://t.co/CQ…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+AMD%E5%B7%B2%E5%90%91OpenAI%E5%8F%91%E5%87%BA%E6%9C%80%E5%A4%9A1.6%E4%BA%BF%E8%82%A1%E6%99%AE%E9%80%9A%E8%82%A1%E7%9A%84%E8%AE%A4%E8%82%A1%E6%9D%83%E8%AF%81%EF%BC%8C%E5%AE%9E%E9%99%85%E8%A1%8C%E4%BD%BF%E6%95%B0%E9%87%8F%E5%B0%86%E4%BE%9D%E8%8A%AF%E7%89%87%E9%83%A8%E7%BD%B2%E8%BF%9B%E5%BA%A6%E5%8F%8A%E8%82%A1%E4%BB%B7%E8%A1%A8%E7%8E%B0%E5%88%86%E9%98%B6%E6%AE%B5%E8%A7%A3%E9%94%81%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23AMD+%23openai+%23%E8%82%A1%E4%BB%B7+%23%E8%8A%AF%E7%89%87https%3A%2F%2Ft.co%2FBAkBgUlFau+https%3A%2F%2Ft.co%2FCQ%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [芯片](芯片.md), [阶段](阶段.md)
+___
+##### 2025-10-07 05:28:30 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 人工智能公司OpenAI在星期一（10月6日）举行的年度开发商大会，掀起股市热潮。仅因在大会上被提及，数家上市公司股价即大幅上涨，显示OpenAI的市场影响力正从合作伙伴扩散到更广泛的科技股领域。 https://t.co/iBzXcWtsDf
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8OpenAI%E5%9C%A8%E6%98%9F%E6%9C%9F%E4%B8%80%EF%BC%8810%E6%9C%886%E6%97%A5%EF%BC%89%E4%B8%BE%E8%A1%8C%E7%9A%84%E5%B9%B4%E5%BA%A6%E5%BC%80%E5%8F%91%E5%95%86%E5%A4%A7%E4%BC%9A%EF%BC%8C%E6%8E%80%E8%B5%B7%E8%82%A1%E5%B8%82%E7%83%AD%E6%BD%AE%E3%80%82%E4%BB%85%E5%9B%A0%E5%9C%A8%E5%A4%A7%E4%BC%9A%E4%B8%8A%E8%A2%AB%E6%8F%90%E5%8F%8A%EF%BC%8C%E6%95%B0%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%8D%B3%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8%EF%BC%8C%E6%98%BE%E7%A4%BAOpenAI%E7%9A%84%E5%B8%82%E5%9C%BA%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%AD%A3%E4%BB%8E%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E6%89%A9%E6%95%A3%E5%88%B0%E6%9B%B4%E5%B9%BF%E6%B3%9B%E7%9A%84%E7%A7%91%E6%8A%80%E8%82%A1%E9%A2%86%E5%9F%9F%E3%80%82+https%3A%2F%2Ft.co%2FiBzXcWtsDf)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [人工](人工.md), [人工智能](人工智能.md), [大幅](大幅.md), [广泛](广泛.md), [开发](开发.md), [影响](影响.md), [扩散](扩散.md), [掀起](掀起.md), [显示](显示.md), [热潮](热潮.md), [科技](科技.md), [领域](领域.md)
+___
+##### 2025-10-07 04:29:51 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI和AMD宣布了一项价值数百亿美元的合作，将共同建设运行AMD处理器的AI数据中心，这是对英伟达迄今为止最直接的挑战之一。https://t.co/uw2wN5ELSF
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%92%8CAMD%E5%AE%A3%E5%B8%83%E4%BA%86%E4%B8%80%E9%A1%B9%E4%BB%B7%E5%80%BC%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E5%85%B1%E5%90%8C%E5%BB%BA%E8%AE%BE%E8%BF%90%E8%A1%8CAMD%E5%A4%84%E7%90%86%E5%99%A8%E7%9A%84AI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E8%BF%99%E6%98%AF%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%84%E4%BB%8A%E4%B8%BA%E6%AD%A2%E6%9C%80%E7%9B%B4%E6%8E%A5%E7%9A%84%E6%8C%91%E6%88%98%E4%B9%8B%E4%B8%80%E3%80%82https%3A%2F%2Ft.co%2Fuw2wN5ELSF)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [处理](处理.md), [建设](建设.md), [挑战](挑战.md), [数据](数据.md), [直接](直接.md), [英伟达](英伟达.md), [迄今](迄今.md)
+___
+##### 2025-10-06 07:02:06 UTC ~ 中國新聞社
+> RT @CNS1952: 【AI博弈，關鍵在這】一座1千兆瓦的數據中心，一年要用多少電？大概相當於一座中等大小城市的全年耗電量。如果全球AI大模型同步滿負荷運載，電還夠用嗎？隨着OpenAI、英偉達、谷歌等科技巨頭紛紛投入“千億級”建廠競賽，AI不再只是技術角逐，更演變為一場電…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E3%80%90AI%E5%8D%9A%E5%BC%88%EF%BC%8C%E9%97%9C%E9%8D%B5%E5%9C%A8%E9%80%99%E3%80%91%E4%B8%80%E5%BA%A71%E5%8D%83%E5%85%86%E7%93%A6%E7%9A%84%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%EF%BC%8C%E4%B8%80%E5%B9%B4%E8%A6%81%E7%94%A8%E5%A4%9A%E5%B0%91%E9%9B%BB%EF%BC%9F%E5%A4%A7%E6%A6%82%E7%9B%B8%E7%95%B6%E6%96%BC%E4%B8%80%E5%BA%A7%E4%B8%AD%E7%AD%89%E5%A4%A7%E5%B0%8F%E5%9F%8E%E5%B8%82%E7%9A%84%E5%85%A8%E5%B9%B4%E8%80%97%E9%9B%BB%E9%87%8F%E3%80%82%E5%A6%82%E6%9E%9C%E5%85%A8%E7%90%83AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%8C%E6%AD%A5%E6%BB%BF%E8%B2%A0%E8%8D%B7%E9%81%8B%E8%BC%89%EF%BC%8C%E9%9B%BB%E9%82%84%E5%A4%A0%E7%94%A8%E5%97%8E%EF%BC%9F%E9%9A%A8%E7%9D%80OpenAI%E3%80%81%E8%8B%B1%E5%81%89%E9%81%94%E3%80%81%E8%B0%B7%E6%AD%8C%E7%AD%89%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E7%B4%9B%E7%B4%9B%E6%8A%95%E5%85%A5%E2%80%9C%E5%8D%83%E5%84%84%E7%B4%9A%E2%80%9D%E5%BB%BA%E5%BB%A0%E7%AB%B6%E8%B3%BD%EF%BC%8CAI%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E6%8A%80%E8%A1%93%E8%A7%92%E9%80%90%EF%BC%8C%E6%9B%B4%E6%BC%94%E8%AE%8A%E7%82%BA%E4%B8%80%E5%A0%B4%E9%9B%BB%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[兆瓦](兆瓦.md), [型](型.md), [數據](數據.md), [模型](模型.md), [科技](科技.md), [英偉達](英偉達.md), [角逐](角逐.md), [谷歌](谷歌.md)
+___
+##### 2025-10-02 05:15:01 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 微软的Copilot消费级应用正面直击市场领先者ChatGPT，而OpenAI也在持续渗透企业用户群，这是微软收入的主要来源。#南洋商报 #Microsoft #Copilot #OpenAI #ChatGPT https://t.co/b…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%E7%9A%84Copilot%E6%B6%88%E8%B4%B9%E7%BA%A7%E5%BA%94%E7%94%A8%E6%AD%A3%E9%9D%A2%E7%9B%B4%E5%87%BB%E5%B8%82%E5%9C%BA%E9%A2%86%E5%85%88%E8%80%85ChatGPT%EF%BC%8C%E8%80%8COpenAI%E4%B9%9F%E5%9C%A8%E6%8C%81%E7%BB%AD%E6%B8%97%E9%80%8F%E4%BC%81%E4%B8%9A%E7%94%A8%E6%88%B7%E7%BE%A4%EF%BC%8C%E8%BF%99%E6%98%AF%E5%BE%AE%E8%BD%AF%E6%94%B6%E5%85%A5%E7%9A%84%E4%B8%BB%E8%A6%81%E6%9D%A5%E6%BA%90%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Microsoft+%23Copilot+%23OpenAI+%23ChatGPT+https%3A%2F%2Ft.co%2Fb%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[微软](微软.md), [持续](持续.md), [收入](收入.md)
+___
+##### 2025-09-24 05:34:06 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 新宣布的计划，向着未来四年内投资5000亿美元，在美国建设数据中心和AI基础设施的目标大幅靠拢。#南洋商报 #OpenAI #数据中心 #datacenter #Stargate https://t.co/Y7nx7vxIGU https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%96%B0%E5%AE%A3%E5%B8%83%E7%9A%84%E8%AE%A1%E5%88%92%EF%BC%8C%E5%90%91%E7%9D%80%E6%9C%AA%E6%9D%A5%E5%9B%9B%E5%B9%B4%E5%86%85%E6%8A%95%E8%B5%845000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E8%AE%BE%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%92%8CAI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E7%9B%AE%E6%A0%87%E5%A4%A7%E5%B9%85%E9%9D%A0%E6%8B%A2%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23OpenAI+%23%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83+%23datacenter+%23Stargate+https%3A%2F%2Ft.co%2FY7nx7vxIGU+https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[基础设施](基础设施.md), [大幅](大幅.md), [建设](建设.md), [投资](投资.md), [数据](数据.md), [美国](美国.md), [计划](计划.md), [设施](设施.md)
+___
+##### 2025-09-23 06:39:08 UTC ~ FTChinese
+> RT @FTChinese: 【英伟达拟向OpenAI投资最高1000亿美元】如果全部兑现，这将成为有史以来对私人公司的最大规模投资，该合作伙伴关系将助力大规模扩建AI数据中心。https://t.co/OSntJOPf6m https://t.co/zJTXhYDI4I
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%9F%E5%90%91OpenAI%E6%8A%95%E8%B5%84%E6%9C%80%E9%AB%981000%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%91%E5%A6%82%E6%9E%9C%E5%85%A8%E9%83%A8%E5%85%91%E7%8E%B0%EF%BC%8C%E8%BF%99%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E5%AF%B9%E7%A7%81%E4%BA%BA%E5%85%AC%E5%8F%B8%E7%9A%84%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%95%E8%B5%84%EF%BC%8C%E8%AF%A5%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E5%B0%86%E5%8A%A9%E5%8A%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%A9%E5%BB%BAAI%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E3%80%82https%3A%2F%2Ft.co%2FOSntJOPf6m+https%3A%2F%2Ft.co%2FzJTXhYDI4I)
+##### Other Words/Names of Interest in the Above Tweet
+[投资](投资.md), [数据](数据.md), [有史以来](有史以来.md), [英伟达](英伟达.md), [规模](规模.md)
+___
+##### 2025-09-23 06:36:27 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 这些芯片的功耗，相当于800多万美国家庭的用电需求。#南洋商报 #英伟达 #OpenAI #NVIDIA #黄仁勋https://t.co/eeMsKW45Lv https://t.co/AsO3uOfOm8
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%99%E4%BA%9B%E8%8A%AF%E7%89%87%E7%9A%84%E5%8A%9F%E8%80%97%EF%BC%8C%E7%9B%B8%E5%BD%93%E4%BA%8E800%E5%A4%9A%E4%B8%87%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E7%9A%84%E7%94%A8%E7%94%B5%E9%9C%80%E6%B1%82%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B1%E4%BC%9F%E8%BE%BE+%23OpenAI+%23NVIDIA+%23%E9%BB%84%E4%BB%81%E5%8B%8Bhttps%3A%2F%2Ft.co%2FeeMsKW45Lv+https%3A%2F%2Ft.co%2FAsO3uOfOm8)
+##### Other Words/Names of Interest in the Above Tweet
+[美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [需求](需求.md), [黄仁勋](黄仁勋.md)
+___
+##### 2025-09-23 06:29:07 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国晶片巨头英伟达宣布将向人工智能企业OpenAI投资最高1000亿美元（约1282亿新元），双方共建大规模数据中心。 https://t.co/MaDUJOY8qz
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E6%99%B6%E7%89%87%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AE%A3%E5%B8%83%E5%B0%86%E5%90%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9AOpenAI%E6%8A%95%E8%B5%84%E6%9C%80%E9%AB%981000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A61282%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E5%8F%8C%E6%96%B9%E5%85%B1%E5%BB%BA%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E3%80%82+https%3A%2F%2Ft.co%2FMaDUJOY8qz)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [巨头](巨头.md), [投资](投资.md), [数据](数据.md), [晶片](晶片.md), [美国](美国.md), [英伟达](英伟达.md), [规模](规模.md)
+___
+##### 2025-09-23 06:13:00 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 英伟达的又一笔投资承诺，这次是向OpenAI投资最高达1,000亿美元。受此消息影响，英伟达股价上涨近4%，市值被推高至近4.5万亿美元。https://t.co/MwEghKSx2S
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E5%8F%88%E4%B8%80%E7%AC%94%E6%8A%95%E8%B5%84%E6%89%BF%E8%AF%BA%EF%BC%8C%E8%BF%99%E6%AC%A1%E6%98%AF%E5%90%91OpenAI%E6%8A%95%E8%B5%84%E6%9C%80%E9%AB%98%E8%BE%BE1%2C000%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E5%8F%97%E6%AD%A4%E6%B6%88%E6%81%AF%E5%BD%B1%E5%93%8D%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8%E8%BF%914%25%EF%BC%8C%E5%B8%82%E5%80%BC%E8%A2%AB%E6%8E%A8%E9%AB%98%E8%87%B3%E8%BF%914.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FMwEghKSx2S)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [市值](市值.md), [影响](影响.md), [投资](投资.md), [推高](推高.md), [英伟达](英伟达.md)
+___
+##### 2025-09-23 00:18:30 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 受英伟达对OpenAI的投资交易推动，美国三大股指周一均创下新纪录。纳指领涨0.7%，标普500指数上涨0.4%。道指微涨0.1%。英伟达股价上涨3.9%。https://t.co/mTg0h5YgU1
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8F%97%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9OpenAI%E7%9A%84%E6%8A%95%E8%B5%84%E4%BA%A4%E6%98%93%E6%8E%A8%E5%8A%A8%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%91%A8%E4%B8%80%E5%9D%87%E5%88%9B%E4%B8%8B%E6%96%B0%E7%BA%AA%E5%BD%95%E3%80%82%E7%BA%B3%E6%8C%87%E9%A2%86%E6%B6%A80.7%25%EF%BC%8C%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E4%B8%8A%E6%B6%A80.4%25%E3%80%82%E9%81%93%E6%8C%87%E5%BE%AE%E6%B6%A80.1%25%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A83.9%25%E3%80%82https%3A%2F%2Ft.co%2FmTg0h5YgU1)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [交易](交易.md), [投资](投资.md), [推动](推动.md), [标普](标普.md), [纪录](纪录.md), [美国](美国.md), [英伟达](英伟达.md)
+___
+##### 2025-09-19 03:47:37 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 微软表示，其耗资33亿美元在威斯康星州打造的数据中心将于2026年初投入运行，最初将用于训练OpenAI的模型。该公司还将追加40亿美元投资再建一座巨型数据中心。https://t.co/GL0l3zGbhP
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%BE%AE%E8%BD%AF%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%85%B6%E8%80%97%E8%B5%8433%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9C%A8%E5%A8%81%E6%96%AF%E5%BA%B7%E6%98%9F%E5%B7%9E%E6%89%93%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%B0%86%E4%BA%8E2026%E5%B9%B4%E5%88%9D%E6%8A%95%E5%85%A5%E8%BF%90%E8%A1%8C%EF%BC%8C%E6%9C%80%E5%88%9D%E5%B0%86%E7%94%A8%E4%BA%8E%E8%AE%AD%E7%BB%83OpenAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%BF%98%E5%B0%86%E8%BF%BD%E5%8A%A040%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E5%86%8D%E5%BB%BA%E4%B8%80%E5%BA%A7%E5%B7%A8%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E3%80%82https%3A%2F%2Ft.co%2FGL0l3zGbhP)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [微软](微软.md), [打造](打造.md), [投资](投资.md), [数据](数据.md), [模型](模型.md), [用于](用于.md)
+___
+##### 2025-09-12 06:35:17 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 微软与OpenAI宣布双方基本上已达成延长合作协议，就待最终敲定。#南洋商报 #microsoft #OpenAI #人工智能 #LLMhttps://t.co/Y6EATi4k04 https://t.co/ZEvkTMZ1Ka
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%E4%B8%8EOpenAI%E5%AE%A3%E5%B8%83%E5%8F%8C%E6%96%B9%E5%9F%BA%E6%9C%AC%E4%B8%8A%E5%B7%B2%E8%BE%BE%E6%88%90%E5%BB%B6%E9%95%BF%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%B0%B1%E5%BE%85%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23microsoft+%23OpenAI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23LLMhttps%3A%2F%2Ft.co%2FY6EATi4k04+https%3A%2F%2Ft.co%2FZEvkTMZ1Ka)
+##### Other Words/Names of Interest in the Above Tweet
+[LLM](LLM.md), [人工](人工.md), [人工智能](人工智能.md), [协议](协议.md), [延长](延长.md), [微软](微软.md), [达成](达成.md)
+___
+##### 2025-09-05 08:09:37 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 据《金融时报》报道，知情人士透露，OpenAI计划明年推出首款人工智能（AI）晶片，将与美国半导体巨头博通（Broadcom）合作开发。 https://t.co/sv3Vzif37x
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%8D%AE%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8COpenAI%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E6%8E%A8%E5%87%BA%E9%A6%96%E6%AC%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%99%B6%E7%89%87%EF%BC%8C%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B7%A8%E5%A4%B4%E5%8D%9A%E9%80%9A%EF%BC%88Broadcom%EF%BC%89%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E3%80%82+https%3A%2F%2Ft.co%2Fsv3Vzif37x)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [半导体](半导体.md), [博通](博通.md), [巨头](巨头.md), [开发](开发.md), [推出](推出.md), [晶片](晶片.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [计划](计划.md), [透露](透露.md), [金融](金融.md)
+___
 ##### 2025-08-26 17:13:12 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 马斯克的人工智能初创公司xAI周一起诉苹果公司和OpenAI，指控这两家企业的合作关系非法阻碍AI公司的竞争。https://t.co/GxqgIgRZQA
 

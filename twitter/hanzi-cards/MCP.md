@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2025-10-08 03:05:34 UTC ~ GitHubDaily
+> RT @GitHub_Daily: Apple MCP 这个开源 MCP 服务器颇为实用，让 AI 助手直接帮我们操作 Mac 上各种原生应用。已支持信息、邮件、日历、提醒事项、通讯录、地图等应用的自动化操作。甚至还能执行复杂的链式任务，比如说：“获取当天会议笔记，找到…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Apple+MCP+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%87%E4%B8%BA%E5%AE%9E%E7%94%A8%EF%BC%8C%E8%AE%A9+AI+%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B8%AE%E6%88%91%E4%BB%AC%E6%93%8D%E4%BD%9C+Mac+%E4%B8%8A%E5%90%84%E7%A7%8D%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E3%80%82%E5%B7%B2%E6%94%AF%E6%8C%81%E4%BF%A1%E6%81%AF%E3%80%81%E9%82%AE%E4%BB%B6%E3%80%81%E6%97%A5%E5%8E%86%E3%80%81%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%E3%80%81%E9%80%9A%E8%AE%AF%E5%BD%95%E3%80%81%E5%9C%B0%E5%9B%BE%E7%AD%89%E5%BA%94%E7%94%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%93%8D%E4%BD%9C%E3%80%82%E7%94%9A%E8%87%B3%E8%BF%98%E8%83%BD%E6%89%A7%E8%A1%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E9%93%BE%E5%BC%8F%E4%BB%BB%E5%8A%A1%EF%BC%8C%E6%AF%94%E5%A6%82%E8%AF%B4%EF%BC%9A%E2%80%9C%E8%8E%B7%E5%8F%96%E5%BD%93%E5%A4%A9%E4%BC%9A%E8%AE%AE%E7%AC%94%E8%AE%B0%EF%BC%8C%E6%89%BE%E5%88%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [直接](直接.md), [自动化](自动化.md)
+___
 ##### 2025-07-20 00:40:56 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 给苹果开发者推荐一个实用的 MCP 服务器：Apple Doc MCP，在 AI 编程助手上直接获取 Apple 最新开发文档，大大提升我们的开发效率。支持智能搜索和通配符匹配，能够实时获取 SwiftUI、UIKit、Foundatio…
 

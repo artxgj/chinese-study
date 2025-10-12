@@ -8,6 +8,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-09-30 01:34:49 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国人工智能深度求索（DeepSeek）更新了一个实验性的模型，称之为迈向新一代架构的步骤。 https://t.co/410YOyn67Z
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E6%9B%B4%E6%96%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E5%AE%9E%E9%AA%8C%E6%80%A7%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%A7%B0%E4%B9%8B%E4%B8%BA%E8%BF%88%E5%90%91%E6%96%B0%E4%B8%80%E4%BB%A3%E6%9E%B6%E6%9E%84%E7%9A%84%E6%AD%A5%E9%AA%A4%E3%80%82+https%3A%2F%2Ft.co%2F410YOyn67Z)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [模型](模型.md), [深度求索](深度求索.md)
+___
+##### 2025-09-20 07:37:31 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 浙江大学也是DeepSeek创始人梁文峰的母校。#南洋商报 #DeepSeek #Huawei #浙江大学https://t.co/nXmbvFwPHs https://t.co/hyrq46BsMz
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6%E4%B9%9F%E6%98%AFDeepSeek%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E6%96%87%E5%B3%B0%E7%9A%84%E6%AF%8D%E6%A0%A1%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23Huawei+%23%E6%B5%99%E6%B1%9F%E5%A4%A7%E5%AD%A6https%3A%2F%2Ft.co%2FnXmbvFwPHs+https%3A%2F%2Ft.co%2Fhyrq46BsMz)
+##### Other Words/Names of Interest in the Above Tweet
+[浙江](浙江.md)
+___
+##### 2025-09-19 11:12:42 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国人工智能（AI）企业深度求索（DeepSeek）透露，开源AI模型DeepSeek-R1的训练费用仅为29.4万美元（37.7万新元），远低于美国同行公布的数字。 https://t.co/Jp2px9LZFb
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E4%BC%81%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E9%80%8F%E9%9C%B2%EF%BC%8C%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8BDeepSeek-R1%E7%9A%84%E8%AE%AD%E7%BB%83%E8%B4%B9%E7%94%A8%E4%BB%85%E4%B8%BA29.4%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%8837.7%E4%B8%87%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E8%BF%9C%E4%BD%8E%E4%BA%8E%E7%BE%8E%E5%9B%BD%E5%90%8C%E8%A1%8C%E5%85%AC%E5%B8%83%E7%9A%84%E6%95%B0%E5%AD%97%E3%80%82+https%3A%2F%2Ft.co%2FJp2px9LZFb)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [开源](开源.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md), [透露](透露.md)
+___
+##### 2025-09-01 07:42:17 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【股市上的「中國AI威脅論」再起】有報導稱中國阿里巴巴集團開發出了新的AI半導體，由於市場擔憂美國在該領域的優勢地位發生動搖，美國和日本半導體相關股出現下跌。投資者由此聯想到的是今年1月的「DeepSeek衝擊」……https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%82%A1%E5%B8%82%E4%B8%8A%E7%9A%84%E3%80%8C%E4%B8%AD%E5%9C%8BAI%E5%A8%81%E8%84%85%E8%AB%96%E3%80%8D%E5%86%8D%E8%B5%B7%E3%80%91%E6%9C%89%E5%A0%B1%E5%B0%8E%E7%A8%B1%E4%B8%AD%E5%9C%8B%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9B%86%E5%9C%98%E9%96%8B%E7%99%BC%E5%87%BA%E4%BA%86%E6%96%B0%E7%9A%84AI%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E7%94%B1%E6%96%BC%E5%B8%82%E5%A0%B4%E6%93%94%E6%86%82%E7%BE%8E%E5%9C%8B%E5%9C%A8%E8%A9%B2%E9%A0%98%E5%9F%9F%E7%9A%84%E5%84%AA%E5%8B%A2%E5%9C%B0%E4%BD%8D%E7%99%BC%E7%94%9F%E5%8B%95%E6%90%96%EF%BC%8C%E7%BE%8E%E5%9C%8B%E5%92%8C%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%9B%B8%E9%97%9C%E8%82%A1%E5%87%BA%E7%8F%BE%E4%B8%8B%E8%B7%8C%E3%80%82%E6%8A%95%E8%B3%87%E8%80%85%E7%94%B1%E6%AD%A4%E8%81%AF%E6%83%B3%E5%88%B0%E7%9A%84%E6%98%AF%E4%BB%8A%E5%B9%B41%E6%9C%88%E7%9A%84%E3%80%8CDeepSeek%E8%A1%9D%E6%93%8A%E3%80%8D%E2%80%A6%E2%80%A6https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[下跌](下跌.md), [半導體](半導體.md), [擔憂](擔憂.md), [日本](日本.md), [美國](美國.md), [衝擊](衝擊.md), [開發](開發.md), [阿里巴巴](阿里巴巴.md), [領域](領域.md)
+___
 ##### 2025-08-29 06:32:02 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中美科技博弈持续，华为董事、质量流程IT总裁陶景文本周表示，中国国产算力基本能解决美国“卡脖子”问题，中国还有一批像DeepSeek这样的优秀大模型公司，大模型竞争力已经不输于美国。 https://t.co/nLimm3xybj
 
@@ -1359,13 +1387,6 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [不仅](不仅.md), [优化](优化.md), [升级](升级.md), [持续](持续.md), [推理](推理.md), [黃仁勳](黃仁勳.md), [黄仁勋](黄仁勋.md)
 ___
-##### 2025-02-22 09:41:45 UTC ~ 𝐶𝑜𝑟𝑟𝑖𝑛𝑒✨
-> RT @Qpigpig: 梁文峰决定下周彻底开源DeepSeek核心五大代码库。这是对马斯克自称“最强大AI模型”的回击，也是彻底打碎了美国星际之门的战略。DS确实是要集国内甚至国际的力量来共建模型。马斯克自家搞花了几十亿美金来建模，换做普通小公司根本撑不了，DS彻底开源这…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Qpigpig%3A+%E6%A2%81%E6%96%87%E5%B3%B0%E5%86%B3%E5%AE%9A%E4%B8%8B%E5%91%A8%E5%BD%BB%E5%BA%95%E5%BC%80%E6%BA%90DeepSeek%E6%A0%B8%E5%BF%83%E4%BA%94%E5%A4%A7%E4%BB%A3%E7%A0%81%E5%BA%93%E3%80%82%E8%BF%99%E6%98%AF%E5%AF%B9%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E7%A7%B0%E2%80%9C%E6%9C%80%E5%BC%BA%E5%A4%A7AI%E6%A8%A1%E5%9E%8B%E2%80%9D%E7%9A%84%E5%9B%9E%E5%87%BB%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%BD%BB%E5%BA%95%E6%89%93%E7%A2%8E%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%98%9F%E9%99%85%E4%B9%8B%E9%97%A8%E7%9A%84%E6%88%98%E7%95%A5%E3%80%82DS%E7%A1%AE%E5%AE%9E%E6%98%AF%E8%A6%81%E9%9B%86%E5%9B%BD%E5%86%85%E7%94%9A%E8%87%B3%E5%9B%BD%E9%99%85%E7%9A%84%E5%8A%9B%E9%87%8F%E6%9D%A5%E5%85%B1%E5%BB%BA%E6%A8%A1%E5%9E%8B%E3%80%82%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E5%AE%B6%E6%90%9E%E8%8A%B1%E4%BA%86%E5%87%A0%E5%8D%81%E4%BA%BF%E7%BE%8E%E9%87%91%E6%9D%A5%E5%BB%BA%E6%A8%A1%EF%BC%8C%E6%8D%A2%E5%81%9A%E6%99%AE%E9%80%9A%E5%B0%8F%E5%85%AC%E5%8F%B8%E6%A0%B9%E6%9C%AC%E6%92%91%E4%B8%8D%E4%BA%86%EF%BC%8CDS%E5%BD%BB%E5%BA%95%E5%BC%80%E6%BA%90%E8%BF%99%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [型](型.md), [开源](开源.md), [战略](战略.md), [核心](核心.md), [模型](模型.md), [美国](美国.md)
-___
 ##### 2025-02-22 06:34:51 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: DeepSeek称，任何人都可以下载、构建或改进广受好评的R1或其他平台背后的代码。#南洋商报 #DeepSeek #AI #人工智能 https://t.co/0qk2LVITtZ https://t.co/OjmBrQh4uA
 
@@ -2072,27 +2093,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E6%96%87%E9%94%8B%E7%9A%84%E6%88%90%E9%95%BF%E8%83%8C%E6%99%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8E%80%E8%B5%B7%E4%B8%80%E5%9C%BA%E6%9C%89%E5%85%B3%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E5%92%8C%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2%E7%9A%84%E8%AE%A8%E8%AE%BA%E3%80%82%E6%9C%89%E6%96%87%E7%AB%A0%E6%84%9F%E8%B0%A2%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E7%9A%84%E6%AD%BB%E7%A3%95%EF%BC%8C%E5%B9%B6%E7%A7%B0%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B4%A2%E5%AF%8C%E3%80%82+https%3A%2F%2Ft.co%2F1QQfWSfcus)
 ##### Other Words/Names of Interest in the Above Tweet
 [小镇](小镇.md), [掀起](掀起.md), [梁文锋](梁文锋.md), [深度求索](深度求索.md)
-___
-##### 2025-02-08 04:03:14 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 【DeepSeek技术突破展示中国在人工智能领域的快速发展，同时也引发关于数据安全、信息透明度及全球技术竞争格局的关注。——#陈万诚】#南洋商报 #DeepSeek #AI #人工智能 https://t.co/uAOtdaKunU htt…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90DeepSeek%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BF%AB%E9%80%9F%E5%8F%91%E5%B1%95%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B9%9F%E5%BC%95%E5%8F%91%E5%85%B3%E4%BA%8E%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E3%80%81%E4%BF%A1%E6%81%AF%E9%80%8F%E6%98%8E%E5%BA%A6%E5%8F%8A%E5%85%A8%E7%90%83%E6%8A%80%E6%9C%AF%E7%AB%9E%E4%BA%89%E6%A0%BC%E5%B1%80%E7%9A%84%E5%85%B3%E6%B3%A8%E3%80%82%E2%80%94%E2%80%94%23%E9%99%88%E4%B8%87%E8%AF%9A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+https%3A%2F%2Ft.co%2FuAOtdaKunU+htt%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [关注](关注.md), [引发](引发.md), [技术](技术.md), [数据](数据.md), [格局](格局.md), [突破](突破.md), [竞争](竞争.md), [透明](透明.md), [透明度](透明度.md), [领域](领域.md)
-___
-##### 2025-02-08 03:44:30 UTC ~ 日經中文網
-> RT @rijingzhongwen: 【中國不僅僅有DeepSeek 】除DeepSeek外，月之暗面、智譜AI、MiniMAX以及百川智慧等也是獨角獸企業。從資金上支援這些AI初創企業的是阿里巴巴、騰訊等中國的網際網路相關企業， 清華大學、北京大學和中國科學院等則成為人才供…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8B%E4%B8%8D%E5%83%85%E5%83%85%E6%9C%89DeepSeek%C2%A0%E3%80%91%E9%99%A4DeepSeek%E5%A4%96%EF%BC%8C%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81%E6%99%BA%E8%AD%9CAI%E3%80%81MiniMAX%E4%BB%A5%E5%8F%8A%E7%99%BE%E5%B7%9D%E6%99%BA%E6%85%A7%E7%AD%89%E4%B9%9F%E6%98%AF%E7%8D%A8%E8%A7%92%E7%8D%B8%E4%BC%81%E6%A5%AD%E3%80%82%E5%BE%9E%E8%B3%87%E9%87%91%E4%B8%8A%E6%94%AF%E6%8F%B4%E9%80%99%E4%BA%9BAI%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%AD%E7%9A%84%E6%98%AF%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E3%80%81%E9%A8%B0%E8%A8%8A%E7%AD%89%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E7%9B%B8%E9%97%9C%E4%BC%81%E6%A5%AD%EF%BC%8C+%E6%B8%85%E8%8F%AF%E5%A4%A7%E5%AD%B8%E3%80%81%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%B8%E5%92%8C%E4%B8%AD%E5%9C%8B%E7%A7%91%E5%AD%B8%E9%99%A2%E7%AD%89%E5%89%87%E6%88%90%E7%82%BA%E4%BA%BA%E6%89%8D%E4%BE%9B%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[北京](北京.md), [支援](支援.md), [清華大學](清華大學.md), [阿里巴巴](阿里巴巴.md)
-___
-##### 2025-02-07 16:33:40 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 亚马逊、谷歌、微软和Meta都计划进一步加大AI支出。尽管投资者担心中国DeepSeek的影响以及美国科技巨头能否获得足够的利润，但AI军备竞赛仍在加速。亚马逊CEO表示，“几乎我们今天所知的每一款应用都将通过内置AI进行重塑。”https:…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BA%9A%E9%A9%AC%E9%80%8A%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%BE%AE%E8%BD%AF%E5%92%8CMeta%E9%83%BD%E8%AE%A1%E5%88%92%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%A4%A7AI%E6%94%AF%E5%87%BA%E3%80%82%E5%B0%BD%E7%AE%A1%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%85%E5%BF%83%E4%B8%AD%E5%9B%BDDeepSeek%E7%9A%84%E5%BD%B1%E5%93%8D%E4%BB%A5%E5%8F%8A%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%83%BD%E5%90%A6%E8%8E%B7%E5%BE%97%E8%B6%B3%E5%A4%9F%E7%9A%84%E5%88%A9%E6%B6%A6%EF%BC%8C%E4%BD%86AI%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%E4%BB%8D%E5%9C%A8%E5%8A%A0%E9%80%9F%E3%80%82%E4%BA%9A%E9%A9%AC%E9%80%8ACEO%E8%A1%A8%E7%A4%BA%EF%BC%8C%E2%80%9C%E5%87%A0%E4%B9%8E%E6%88%91%E4%BB%AC%E4%BB%8A%E5%A4%A9%E6%89%80%E7%9F%A5%E7%9A%84%E6%AF%8F%E4%B8%80%E6%AC%BE%E5%BA%94%E7%94%A8%E9%83%BD%E5%B0%86%E9%80%9A%E8%BF%87%E5%86%85%E7%BD%AEAI%E8%BF%9B%E8%A1%8C%E9%87%8D%E5%A1%91%E3%80%82%E2%80%9Dhttps%3A%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[亚马逊](亚马逊.md), [利润](利润.md), [巨头](巨头.md), [影响](影响.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [担心](担心.md), [支出](支出.md), [科技](科技.md), [美国](美国.md), [获得](获得.md), [计划](计划.md), [谷歌](谷歌.md), [进行](进行.md)
 ____
 
 [Next Page](DeepSeek-01.md)

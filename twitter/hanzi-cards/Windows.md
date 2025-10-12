@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2025-09-27 19:43:53 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 微软先前宣布将于10月14日后停止为Windows 10提供更新，个人与企业用户若想继续获得支持，需额外付费购买延长更新服务，或付费使用云端备份功能。#南洋商报 #微软 #Microsoft #Windows10https://t.co/h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%E5%85%88%E5%89%8D%E5%AE%A3%E5%B8%83%E5%B0%86%E4%BA%8E10%E6%9C%8814%E6%97%A5%E5%90%8E%E5%81%9C%E6%AD%A2%E4%B8%BAWindows+10%E6%8F%90%E4%BE%9B%E6%9B%B4%E6%96%B0%EF%BC%8C%E4%B8%AA%E4%BA%BA%E4%B8%8E%E4%BC%81%E4%B8%9A%E7%94%A8%E6%88%B7%E8%8B%A5%E6%83%B3%E7%BB%A7%E7%BB%AD%E8%8E%B7%E5%BE%97%E6%94%AF%E6%8C%81%EF%BC%8C%E9%9C%80%E9%A2%9D%E5%A4%96%E4%BB%98%E8%B4%B9%E8%B4%AD%E4%B9%B0%E5%BB%B6%E9%95%BF%E6%9B%B4%E6%96%B0%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%88%96%E4%BB%98%E8%B4%B9%E4%BD%BF%E7%94%A8%E4%BA%91%E7%AB%AF%E5%A4%87%E4%BB%BD%E5%8A%9F%E8%83%BD%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%BE%AE%E8%BD%AF+%23Microsoft+%23Windows10https%3A%2F%2Ft.co%2Fh%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[延长](延长.md), [微软](微软.md), [提供](提供.md), [支持](支持.md), [获得](获得.md), [购买](购买.md), [额外](额外.md)
+___
+##### 2025-09-23 06:38:45 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 除了苹果，微软近期也针对Windows用户释出类似警讯，呼吁用户不要再用 #Chrome。https://t.co/iB3iDEGmkH https://t.co/QOSGsNCkTx
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%99%A4%E4%BA%86%E8%8B%B9%E6%9E%9C%EF%BC%8C%E5%BE%AE%E8%BD%AF%E8%BF%91%E6%9C%9F%E4%B9%9F%E9%92%88%E5%AF%B9Windows%E7%94%A8%E6%88%B7%E9%87%8A%E5%87%BA%E7%B1%BB%E4%BC%BC%E8%AD%A6%E8%AE%AF%EF%BC%8C%E5%91%BC%E5%90%81%E7%94%A8%E6%88%B7%E4%B8%8D%E8%A6%81%E5%86%8D%E7%94%A8+%23Chrome%E3%80%82https%3A%2F%2Ft.co%2FiB3iDEGmkH+https%3A%2F%2Ft.co%2FQOSGsNCkTx)
+##### Other Words/Names of Interest in the Above Tweet
+[呼吁](呼吁.md), [微软](微软.md), [苹果](苹果.md), [针对](针对.md), [除了](除了.md)
+___
 ##### 2025-07-24 15:56:59 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 使用 Windows 11 系统时间一长，就会出现卡顿现象，内存占用越来越高，不知不觉下安装一堆用不到的应用，整个系统变得臃肿不堪。要想解决这些问题，可以试下 Win11Debloat 这个强大脚本，帮我们优化系统臃肿，让电脑重新变得流畅…
 
