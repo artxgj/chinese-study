@@ -52,8 +52,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [春节](../hanzi-cards/春节.md)/[春節](../hanzi-cards/春節.md) | Spring Festival; Chinese New Year |
 | [元宵](../hanzi-cards/元宵.md) | Lantern Festival; night of the 15th day of the first lunar month |
 | [中秋](../hanzi-cards/中秋.md) | Mid-Autumn |
+| [月饼](../hanzi-cards/月饼.md)/[月餅](../hanzi-cards/月餅.md) | mooncake |
 | [清明](../hanzi-cards/清明.md) | Pure Brightness Festival or Tomb Sweeping Day; clear and bright; sober and calm; well-ordered |
 | [端午](../hanzi-cards/端午.md) | Dragon Boat Festival (5th day of 5th Lunar month) |
+| [粽子](../hanzi-cards/粽子.md) | glutinous rice dumpling eaten during Dragon Boat Festival |
+| [肉粽](../hanzi-cards/肉粽.md) | glutinous rice dumpling filled with meat, eaten during Dragon Boat Festival |
 | [腊八节](../hanzi-cards/腊八节.md)/[臘八節](../hanzi-cards/臘八節.md) | Laba Rice Porridge Festival, on the 8th day of the 12th Lunar month |
 | [七夕节](../hanzi-cards/七夕节.md)/[七夕節](../hanzi-cards/七夕節.md) | Qixi Festival, Chinese-equivalent of Valentine's Day |
 ## Idioms
