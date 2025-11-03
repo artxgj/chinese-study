@@ -35,7 +35,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Qwen](Qwen.md), [型](型.md), [模型](模型.md), [系列](系列.md), [超过](超过.md)
 ___
-##### 2025-03-18 07:14:03 UTC ~ orange.ai
+##### 2025-03-18 07:14:03 UTC ~ Orange AI
 > RT @oran_ge: Gemma 3 刚发布没多久，Mistral 就超过了它MIstral 新发布的模型 Small 3.124B 大小，可以运行在单张4090或32G内存的Mac上。似乎是个本地OCR的好选择 https://t.co/GzMFMmyXMV
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Gemma+3+%E5%88%9A%E5%8F%91%E5%B8%83%E6%B2%A1%E5%A4%9A%E4%B9%85%EF%BC%8CMistral+%E5%B0%B1%E8%B6%85%E8%BF%87%E4%BA%86%E5%AE%83MIstral+%E6%96%B0%E5%8F%91%E5%B8%83%E7%9A%84%E6%A8%A1%E5%9E%8B+Small+3.124B+%E5%A4%A7%E5%B0%8F%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8C%E5%9C%A8%E5%8D%95%E5%BC%A04090%E6%88%9632G%E5%86%85%E5%AD%98%E7%9A%84Mac%E4%B8%8A%E3%80%82%E4%BC%BC%E4%B9%8E%E6%98%AF%E4%B8%AA%E6%9C%AC%E5%9C%B0OCR%E7%9A%84%E5%A5%BD%E9%80%89%E6%8B%A9+https%3A%2F%2Ft.co%2FGzMFMmyXMV)

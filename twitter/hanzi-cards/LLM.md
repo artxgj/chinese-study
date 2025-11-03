@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/LLM) for definition
 ### Tweets containing LLM
 
 ___
+##### 2025-10-20 10:17:22 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 想从文档中提取结构化数据，大部分 LLM 框架要写一大堆复杂的代码才能实现，增加不少开发难度。最近发现了 ContextGem 这个开源 LLM 框架，只需几行代码就能从文档中提取想要的信息。通过阅读整份文档理解上下文，还能帮我们发现…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%83%B3%E4%BB%8E%E6%96%87%E6%A1%A3%E4%B8%AD%E6%8F%90%E5%8F%96%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%A4%A7%E9%83%A8%E5%88%86+LLM+%E6%A1%86%E6%9E%B6%E8%A6%81%E5%86%99%E4%B8%80%E5%A4%A7%E5%A0%86%E5%A4%8D%E6%9D%82%E7%9A%84%E4%BB%A3%E7%A0%81%E6%89%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%EF%BC%8C%E5%A2%9E%E5%8A%A0%E4%B8%8D%E5%B0%91%E5%BC%80%E5%8F%91%E9%9A%BE%E5%BA%A6%E3%80%82%E6%9C%80%E8%BF%91%E5%8F%91%E7%8E%B0%E4%BA%86+ContextGem+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90+LLM+%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%8F%AA%E9%9C%80%E5%87%A0%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%B0%B1%E8%83%BD%E4%BB%8E%E6%96%87%E6%A1%A3%E4%B8%AD%E6%8F%90%E5%8F%96%E6%83%B3%E8%A6%81%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82%E9%80%9A%E8%BF%87%E9%98%85%E8%AF%BB%E6%95%B4%E4%BB%BD%E6%96%87%E6%A1%A3%E7%90%86%E8%A7%A3%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E8%BF%98%E8%83%BD%E5%B8%AE%E6%88%91%E4%BB%AC%E5%8F%91%E7%8E%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上下文](上下文.md), [代码](代码.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [数据](数据.md)
+___
 ##### 2025-10-06 04:20:58 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 想在自己电脑上跑大模型处理长文档，但动辄几十 GB 的模型参数让普通显卡根本吃不消，更别说处理 10 万字的超长上下文了。无独有偶，找到了 oLLM 这个轻量化推理库，专为消费级 GPU 优化，用 8GB 显存就能跑 80B 参数的大模型…
 

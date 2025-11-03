@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-08 04:32:44 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 深度求索（DeepSeek）创始人梁文锋的成长背景在中国掀起一场有关“小镇做题家”和应试教育的讨论。有文章感谢“小镇做题家”的死磕，并称“小镇做题家”是国家的财富。 https://t.co/1QQfWSfcus
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E6%96%87%E9%94%8B%E7%9A%84%E6%88%90%E9%95%BF%E8%83%8C%E6%99%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8E%80%E8%B5%B7%E4%B8%80%E5%9C%BA%E6%9C%89%E5%85%B3%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E5%92%8C%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2%E7%9A%84%E8%AE%A8%E8%AE%BA%E3%80%82%E6%9C%89%E6%96%87%E7%AB%A0%E6%84%9F%E8%B0%A2%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E7%9A%84%E6%AD%BB%E7%A3%95%EF%BC%8C%E5%B9%B6%E7%A7%B0%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B4%A2%E5%AF%8C%E3%80%82+https%3A%2F%2Ft.co%2F1QQfWSfcus)
+##### Other Words/Names of Interest in the Above Tweet
+[小镇](小镇.md), [掀起](掀起.md), [梁文锋](梁文锋.md), [深度求索](深度求索.md)
+___
 ##### 2025-02-08 04:03:14 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 【DeepSeek技术突破展示中国在人工智能领域的快速发展，同时也引发关于数据安全、信息透明度及全球技术竞争格局的关注。——#陈万诚】#南洋商报 #DeepSeek #AI #人工智能 https://t.co/uAOtdaKunU htt…
 

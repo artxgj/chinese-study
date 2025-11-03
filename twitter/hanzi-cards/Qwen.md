@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2025-10-29 03:25:15 UTC ~ 中國新聞社
+> RT @CNS1952: 上海95後小夥手搓AI眼鏡體驗失明的一天，設備基於開源Qwen-Omni開發，硬件成本僅百元，可實時識別盲道、紅綠燈、障礙物等。來源：中國青年報 #AI #科技中國 https://t.co/CYy0BBYZeq
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E4%B8%8A%E6%B5%B795%E5%BE%8C%E5%B0%8F%E5%A4%A5%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%8F%A1%E9%AB%94%E9%A9%97%E5%A4%B1%E6%98%8E%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%8C%E8%A8%AD%E5%82%99%E5%9F%BA%E6%96%BC%E9%96%8B%E6%BA%90Qwen-Omni%E9%96%8B%E7%99%BC%EF%BC%8C%E7%A1%AC%E4%BB%B6%E6%88%90%E6%9C%AC%E5%83%85%E7%99%BE%E5%85%83%EF%BC%8C%E5%8F%AF%E5%AF%A6%E6%99%82%E8%AD%98%E5%88%A5%E7%9B%B2%E9%81%93%E3%80%81%E7%B4%85%E7%B6%A0%E7%87%88%E3%80%81%E9%9A%9C%E7%A4%99%E7%89%A9%E7%AD%89%E3%80%82%E4%BE%86%E6%BA%90%EF%BC%9A%E4%B8%AD%E5%9C%8B%E9%9D%92%E5%B9%B4%E5%A0%B1+%23AI+%23%E7%A7%91%E6%8A%80%E4%B8%AD%E5%9C%8B+https%3A%2F%2Ft.co%2FCYy0BBYZeq)
+##### Other Words/Names of Interest in the Above Tweet
+[上海](上海.md), [成本](成本.md), [科技](科技.md), [開源](開源.md), [開發](開發.md)
+___
 ##### 2025-09-24 09:41:54 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 阿里巴巴港股大涨，该公司表示将向人工智能领域投资逾530亿美元并发布了新模型Qwen3-Max。此外，有消息称凯西·伍德旗下基金正重新建仓这家中国科技公司。 https://t.co/BiTyMo9F82
 
@@ -49,7 +56,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [型](型.md), [日本](日本.md), [模型](模型.md), [開源](開源.md), [開發](開發.md)
 ___
-##### 2025-04-28 23:50:40 UTC ~ orange.ai
+##### 2025-04-28 23:50:40 UTC ~ Orange AI
 > RT @oran_ge: 全世界等了一个月，Qwen3 它终于来了！模型特色：思考更深，速度更快-  Qwen3 是全球最强开源模型，性能全面超越 DeepSeek R1，国内第一个敢说全面超越 R1 的模型，之前都是比肩- Qwen3 是国内首个混合推理模型，复杂答案…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%85%A8%E4%B8%96%E7%95%8C%E7%AD%89%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%EF%BC%8CQwen3+%E5%AE%83%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%EF%BC%81%E6%A8%A1%E5%9E%8B%E7%89%B9%E8%89%B2%EF%BC%9A%E6%80%9D%E8%80%83%E6%9B%B4%E6%B7%B1%EF%BC%8C%E9%80%9F%E5%BA%A6%E6%9B%B4%E5%BF%AB-++Qwen3+%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BA%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%80%A7%E8%83%BD%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A+DeepSeek+R1%EF%BC%8C%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%95%A2%E8%AF%B4%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A+R1+%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B9%8B%E5%89%8D%E9%83%BD%E6%98%AF%E6%AF%94%E8%82%A9-+Qwen3+%E6%98%AF%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%B7%B7%E5%90%88%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%A4%8D%E6%9D%82%E7%AD%94%E6%A1%88%E2%80%A6)
@@ -140,7 +147,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [发布](发布.md), [数据](数据.md), [量化](量化.md)
 ___
-##### 2025-03-06 02:06:40 UTC ~ orange.ai
+##### 2025-03-06 02:06:40 UTC ~ Orange AI
 > RT @oran_ge: 千问团队发布了 QwQ-32B，用 32B 参数达到了 DeepSeek R1 671B 的同等指标。“ 这次，我们研究了扩展 RL 的方法，并基于我们的 Qwen2 取得了一些令人印象深刻的成果。 5-32B 。我们发现 RL 训练可以不断提高性…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%86+QwQ-32B%EF%BC%8C%E7%94%A8+32B+%E5%8F%82%E6%95%B0%E8%BE%BE%E5%88%B0%E4%BA%86+DeepSeek+R1+671B+%E7%9A%84%E5%90%8C%E7%AD%89%E6%8C%87%E6%A0%87%E3%80%82%E2%80%9C+%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E7%A0%94%E7%A9%B6%E4%BA%86%E6%89%A9%E5%B1%95+RL+%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84+Qwen2+%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BB%A4%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E6%88%90%E6%9E%9C%E3%80%82+5-32B+%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%91%E7%8E%B0+RL+%E8%AE%AD%E7%BB%83%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98%E6%80%A7%E2%80%A6)

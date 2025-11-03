@@ -27,6 +27,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [吹哨人](../hanzi-cards/吹哨人.md) | Whistleblower |
 | [招聘](../hanzi-cards/招聘.md) | invite applications for a job; engage (by public notice, advertisements, etc.) |
 | [营销](../hanzi-cards/营销.md) | (verb) market; marketing |
+| [亚太经济合作组织](../hanzi-cards/亚太经济合作组织.md)/[亞太經合組織](../hanzi-cards/亞太經合組織.md) | APEC |
 ## Capital Markets/Venture Capital Terms
 |  |  |
 | ----- | :---: |

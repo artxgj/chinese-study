@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-10-21 15:38:53 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 准备入手苹果电脑的朋友，如果之前一直没有体验过 macOS 系统，不知道是否适合自己。可以通过 OSX-PROXMOX 这个开源工具，在自己任意 AMD 或 Intel 电脑上运行 macOS 系统体验一下。只需一行命令就能自动完成所…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%87%86%E5%A4%87%E5%85%A5%E6%89%8B%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%B9%8B%E5%89%8D%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E4%BD%93%E9%AA%8C%E8%BF%87+macOS+%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E5%90%A6%E9%80%82%E5%90%88%E8%87%AA%E5%B7%B1%E3%80%82%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87+OSX-PROXMOX+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%9C%A8%E8%87%AA%E5%B7%B1%E4%BB%BB%E6%84%8F+AMD+%E6%88%96+Intel+%E7%94%B5%E8%84%91%E4%B8%8A%E8%BF%90%E8%A1%8C+macOS+%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E4%B8%80%E4%B8%8B%E3%80%82%E5%8F%AA%E9%9C%80%E4%B8%80%E8%A1%8C%E5%91%BD%E4%BB%A4%E5%B0%B1%E8%83%BD%E8%87%AA%E5%8A%A8%E5%AE%8C%E6%88%90%E6%89%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [一直](一直.md), [工具](工具.md), [开源](开源.md), [系统](系统.md), [苹果](苹果.md)
+___
+##### 2025-10-15 04:35:24 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AMD正与甲骨文合作，将上线一个大型数据中心集群，该集群将使用数万枚AMD最新的AI芯片。两家公司计划在2027年及以后扩大合作关系。https://t.co/xyvpqFs8jm
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AMD%E6%AD%A3%E4%B8%8E%E7%94%B2%E9%AA%A8%E6%96%87%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E4%B8%8A%E7%BA%BF%E4%B8%80%E4%B8%AA%E5%A4%A7%E5%9E%8B%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%9B%86%E7%BE%A4%EF%BC%8C%E8%AF%A5%E9%9B%86%E7%BE%A4%E5%B0%86%E4%BD%BF%E7%94%A8%E6%95%B0%E4%B8%87%E6%9E%9AAMD%E6%9C%80%E6%96%B0%E7%9A%84AI%E8%8A%AF%E7%89%87%E3%80%82%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%AE%A1%E5%88%92%E5%9C%A82027%E5%B9%B4%E5%8F%8A%E4%BB%A5%E5%90%8E%E6%89%A9%E5%A4%A7%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%E3%80%82https%3A%2F%2Ft.co%2FxyvpqFs8jm)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [扩大](扩大.md), [数据](数据.md), [甲骨文](甲骨文.md), [芯片](芯片.md), [计划](计划.md)
+___
+##### 2025-10-13 17:15:02 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苏姿丰自称“工程师中的工程师”。自2014年上任以来，她将AMD从破产边缘拉了回来，并将其市值从不到30亿美元提升至3,480亿美元。她还是黄仁勋的远房表亲。https://t.co/4hDVY02lCW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%8F%E5%A7%BF%E4%B8%B0%E8%87%AA%E7%A7%B0%E2%80%9C%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B8%AD%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%88%E2%80%9D%E3%80%82%E8%87%AA2014%E5%B9%B4%E4%B8%8A%E4%BB%BB%E4%BB%A5%E6%9D%A5%EF%BC%8C%E5%A5%B9%E5%B0%86AMD%E4%BB%8E%E7%A0%B4%E4%BA%A7%E8%BE%B9%E7%BC%98%E6%8B%89%E4%BA%86%E5%9B%9E%E6%9D%A5%EF%BC%8C%E5%B9%B6%E5%B0%86%E5%85%B6%E5%B8%82%E5%80%BC%E4%BB%8E%E4%B8%8D%E5%88%B030%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8F%90%E5%8D%87%E8%87%B33%2C480%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E5%A5%B9%E8%BF%98%E6%98%AF%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9A%84%E8%BF%9C%E6%88%BF%E8%A1%A8%E4%BA%B2%E3%80%82https%3A%2F%2Ft.co%2F4hDVY02lCW)
+##### Other Words/Names of Interest in the Above Tweet
+[市值](市值.md), [破产](破产.md), [苏姿丰](苏姿丰.md), [黄仁勋](黄仁勋.md)
+___
 ##### 2025-10-07 08:58:20 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI和AMD的合作消息激发了对整个半导体供应链需求将更加强劲的预期，在此背景下，台积电股价创下新高。https://t.co/Yx0bFY78C7
 

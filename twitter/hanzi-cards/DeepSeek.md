@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-10-25 04:21:40 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 有位开发者，基于 DeepSeek-OCR 模型实现了一个简单实用的 OCR 前端应用：deepSeek_ocr_app，项目已开源。提供简洁直观的操作界面，只需要拖拽上传图片，即可开始处理，最大支持 100MB 文件。支持四种核心…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%9C%89%E4%BD%8D%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8C%E5%9F%BA%E4%BA%8E+DeepSeek-OCR+%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E5%AE%9E%E7%94%A8%E7%9A%84+OCR+%E5%89%8D%E7%AB%AF%E5%BA%94%E7%94%A8%EF%BC%9AdeepSeek_ocr_app%EF%BC%8C%E9%A1%B9%E7%9B%AE%E5%B7%B2%E5%BC%80%E6%BA%90%E3%80%82%E6%8F%90%E4%BE%9B%E7%AE%80%E6%B4%81%E7%9B%B4%E8%A7%82%E7%9A%84%E6%93%8D%E4%BD%9C%E7%95%8C%E9%9D%A2%EF%BC%8C%E5%8F%AA%E9%9C%80%E8%A6%81%E6%8B%96%E6%8B%BD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%EF%BC%8C%E5%8D%B3%E5%8F%AF%E5%BC%80%E5%A7%8B%E5%A4%84%E7%90%86%EF%BC%8C%E6%9C%80%E5%A4%A7%E6%94%AF%E6%8C%81+100MB+%E6%96%87%E4%BB%B6%E3%80%82%E6%94%AF%E6%8C%81%E5%9B%9B%E7%A7%8D%E6%A0%B8%E5%BF%83%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [文件](文件.md), [核心](核心.md), [模型](模型.md), [项目](项目.md)
+___
 ##### 2025-09-30 01:34:49 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能深度求索（DeepSeek）更新了一个实验性的模型，称之为迈向新一代架构的步骤。 https://t.co/410YOyn67Z
 
@@ -218,7 +225,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Claude](Claude.md), [直接](直接.md)
 ___
-##### 2025-05-28 15:14:22 UTC ~ orange.ai
+##### 2025-05-28 15:14:22 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek R1 模型官方宣布已完成“小版本试升级”可以在官网和APP体验这个小版本，代码能力大幅增强笑死了
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+DeepSeek+R1+%E6%A8%A1%E5%9E%8B%E5%AE%98%E6%96%B9%E5%AE%A3%E5%B8%83%E5%B7%B2%E5%AE%8C%E6%88%90%E2%80%9C%E5%B0%8F%E7%89%88%E6%9C%AC%E8%AF%95%E5%8D%87%E7%BA%A7%E2%80%9D%E5%8F%AF%E4%BB%A5%E5%9C%A8%E5%AE%98%E7%BD%91%E5%92%8CAPP%E4%BD%93%E9%AA%8C%E8%BF%99%E4%B8%AA%E5%B0%8F%E7%89%88%E6%9C%AC%EF%BC%8C%E4%BB%A3%E7%A0%81%E8%83%BD%E5%8A%9B%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%BC%BA%E7%AC%91%E6%AD%BB%E4%BA%86)
@@ -328,7 +335,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [推理](推理.md), [模型](模型.md)
 ___
-##### 2025-04-28 23:50:40 UTC ~ orange.ai
+##### 2025-04-28 23:50:40 UTC ~ Orange AI
 > RT @oran_ge: 全世界等了一个月，Qwen3 它终于来了！模型特色：思考更深，速度更快-  Qwen3 是全球最强开源模型，性能全面超越 DeepSeek R1，国内第一个敢说全面超越 R1 的模型，之前都是比肩- Qwen3 是国内首个混合推理模型，复杂答案…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%85%A8%E4%B8%96%E7%95%8C%E7%AD%89%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%88%EF%BC%8CQwen3+%E5%AE%83%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%EF%BC%81%E6%A8%A1%E5%9E%8B%E7%89%B9%E8%89%B2%EF%BC%9A%E6%80%9D%E8%80%83%E6%9B%B4%E6%B7%B1%EF%BC%8C%E9%80%9F%E5%BA%A6%E6%9B%B4%E5%BF%AB-++Qwen3+%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%BC%BA%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%80%A7%E8%83%BD%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A+DeepSeek+R1%EF%BC%8C%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%95%A2%E8%AF%B4%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A+R1+%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B9%8B%E5%89%8D%E9%83%BD%E6%98%AF%E6%AF%94%E8%82%A9-+Qwen3+%E6%98%AF%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E6%B7%B7%E5%90%88%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%A4%8D%E6%9D%82%E7%AD%94%E6%A1%88%E2%80%A6)
@@ -377,7 +384,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [包括](包括.md), [客户](客户.md), [梁文锋](梁文锋.md), [监管](监管.md), [知情](知情.md), [知情人士](知情人士.md), [芯片](芯片.md), [英伟达](英伟达.md), [设计](设计.md), [透露](透露.md), [需求](需求.md), [黄仁勋](黄仁勋.md)
 ___
-##### 2025-04-17 09:38:06 UTC ~ orange.ai
+##### 2025-04-17 09:38:06 UTC ~ Orange AI
 > RT @oran_ge: 前几天看到字节发布了豆包深度思考模型技术报告，从模型指标看起来显著超过了 DeepSeek R1。对这个模型的表现非常期待，今天刚好看到火山开放模型 API 了，就拿来实测了一下。测完感受到这个模型的最大的特色，就是是视觉理解能力+深度思考能力…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%89%8D%E5%87%A0%E5%A4%A9%E7%9C%8B%E5%88%B0%E5%AD%97%E8%8A%82%E5%8F%91%E5%B8%83%E4%BA%86%E8%B1%86%E5%8C%85%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%EF%BC%8C%E4%BB%8E%E6%A8%A1%E5%9E%8B%E6%8C%87%E6%A0%87%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%98%BE%E8%91%97%E8%B6%85%E8%BF%87%E4%BA%86+DeepSeek+R1%E3%80%82%E5%AF%B9%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%A1%A8%E7%8E%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%EF%BC%8C%E4%BB%8A%E5%A4%A9%E5%88%9A%E5%A5%BD%E7%9C%8B%E5%88%B0%E7%81%AB%E5%B1%B1%E5%BC%80%E6%94%BE%E6%A8%A1%E5%9E%8B+API+%E4%BA%86%EF%BC%8C%E5%B0%B1%E6%8B%BF%E6%9D%A5%E5%AE%9E%E6%B5%8B%E4%BA%86%E4%B8%80%E4%B8%8B%E3%80%82%E6%B5%8B%E5%AE%8C%E6%84%9F%E5%8F%97%E5%88%B0%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%9C%80%E5%A4%A7%E7%9A%84%E7%89%B9%E8%89%B2%EF%BC%8C%E5%B0%B1%E6%98%AF%E6%98%AF%E8%A7%86%E8%A7%89%E7%90%86%E8%A7%A3%E8%83%BD%E5%8A%9B%2B%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E8%83%BD%E5%8A%9B%E2%80%A6)
@@ -391,7 +398,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [不仅](不仅.md), [人工](人工.md), [人工智能](人工智能.md), [关键](关键.md), [布局](布局.md), [技术](技术.md), [措施](措施.md), [晶片](晶片.md), [此举](此举.md), [特朗普](特朗普.md), [禁止](禁止.md), [科技](科技.md), [管制](管制.md), [美国](美国.md), [英伟达](英伟达.md)
 ___
-##### 2025-04-15 08:19:01 UTC ~ orange.ai
+##### 2025-04-15 08:19:01 UTC ~ Orange AI
 > RT @oran_ge: 今天智谱搞了两个大动作。首先是早晨的各种推送，智谱正式启动 IPO 流程。然后是开源了全套 Agent 模型，狙击了 Close AI 的 GPT4.1。- 基础模型 GLM4 32B 0414 ，性能对标 DeepSeek V3 ，写网页能力…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E4%BB%8A%E5%A4%A9%E6%99%BA%E8%B0%B1%E6%90%9E%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%A4%A7%E5%8A%A8%E4%BD%9C%E3%80%82%E9%A6%96%E5%85%88%E6%98%AF%E6%97%A9%E6%99%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%8E%A8%E9%80%81%EF%BC%8C%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8+IPO+%E6%B5%81%E7%A8%8B%E3%80%82%E7%84%B6%E5%90%8E%E6%98%AF%E5%BC%80%E6%BA%90%E4%BA%86%E5%85%A8%E5%A5%97+Agent+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%8B%99%E5%87%BB%E4%BA%86+Close+AI+%E7%9A%84+GPT4.1%E3%80%82-+%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B+GLM4+32B+0414+%EF%BC%8C%E6%80%A7%E8%83%BD%E5%AF%B9%E6%A0%87+DeepSeek+V3+%EF%BC%8C%E5%86%99%E7%BD%91%E9%A1%B5%E8%83%BD%E5%8A%9B%E2%80%A6)
@@ -531,7 +538,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [奖励](奖励.md), [收集](收集.md), [数据](数据.md), [模型](模型.md), [火山](火山.md), [计划](计划.md), [资源](资源.md)
 ___
-##### 2025-03-26 08:08:12 UTC ~ orange.ai
+##### 2025-03-26 08:08:12 UTC ~ Orange AI
 > RT @oran_ge: 今天突然想到一个非常尴尬的事情就是如果 DeepSeek R2 出了其他家国产模型还没做出 R1 水平的模型那文本模型团队是不是可以干点别的了…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E4%BB%8A%E5%A4%A9%E7%AA%81%E7%84%B6%E6%83%B3%E5%88%B0%E4%B8%80%E4%B8%AA%E9%9D%9E%E5%B8%B8%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%BA%8B%E6%83%85%E5%B0%B1%E6%98%AF%E5%A6%82%E6%9E%9C+DeepSeek+R2+%E5%87%BA%E4%BA%86%E5%85%B6%E4%BB%96%E5%AE%B6%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E8%BF%98%E6%B2%A1%E5%81%9A%E5%87%BA+R1+%E6%B0%B4%E5%B9%B3%E7%9A%84%E6%A8%A1%E5%9E%8B%E9%82%A3%E6%96%87%E6%9C%AC%E6%A8%A1%E5%9E%8B%E5%9B%A2%E9%98%9F%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8F%AF%E4%BB%A5%E5%B9%B2%E7%82%B9%E5%88%AB%E7%9A%84%E4%BA%86%E2%80%A6)
@@ -587,7 +594,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [提供](提供.md), [来自](来自.md), [量化](量化.md)
 ___
-##### 2025-03-25 14:58:10 UTC ~ orange.ai
+##### 2025-03-25 14:58:10 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek-V3-0324 官方报告来了，在代码指标上竟然超过了 GPT 4.5 和 Claude 3.7 。。。1.推理任务表现提高新版 V3 模型借鉴 DeepSeek-R1 模型训练过程中所使用的强化学习技术，大幅提高了在推理类任务…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+DeepSeek-V3-0324+%E5%AE%98%E6%96%B9%E6%8A%A5%E5%91%8A%E6%9D%A5%E4%BA%86%EF%BC%8C%E5%9C%A8%E4%BB%A3%E7%A0%81%E6%8C%87%E6%A0%87%E4%B8%8A%E7%AB%9F%E7%84%B6%E8%B6%85%E8%BF%87%E4%BA%86+GPT+4.5+%E5%92%8C+Claude+3.7+%E3%80%82%E3%80%82%E3%80%821.%E6%8E%A8%E7%90%86%E4%BB%BB%E5%8A%A1%E8%A1%A8%E7%8E%B0%E6%8F%90%E9%AB%98%E6%96%B0%E7%89%88+V3+%E6%A8%A1%E5%9E%8B%E5%80%9F%E9%89%B4+DeepSeek-R1+%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%89%80%E4%BD%BF%E7%94%A8%E7%9A%84%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF%EF%BC%8C%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E4%BA%86%E5%9C%A8%E6%8E%A8%E7%90%86%E7%B1%BB%E4%BB%BB%E5%8A%A1%E2%80%A6)
@@ -629,7 +636,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [模型](模型.md)
 ___
-##### 2025-03-25 05:42:08 UTC ~ orange.ai
+##### 2025-03-25 05:42:08 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek V3 更新，前端代码能力相比上一代大幅增强，可以解锁很多 Claude 3.7 的玩法这三张图是我分别用三个模型跑出来的结果，Claude 3.7 的设计感还是好一些图1 DeepSeek V3 图2 DeepSeek V3 0…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+DeepSeek+V3+%E6%9B%B4%E6%96%B0%EF%BC%8C%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%83%BD%E5%8A%9B%E7%9B%B8%E6%AF%94%E4%B8%8A%E4%B8%80%E4%BB%A3%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%BC%BA%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A7%A3%E9%94%81%E5%BE%88%E5%A4%9A+Claude+3.7+%E7%9A%84%E7%8E%A9%E6%B3%95%E8%BF%99%E4%B8%89%E5%BC%A0%E5%9B%BE%E6%98%AF%E6%88%91%E5%88%86%E5%88%AB%E7%94%A8%E4%B8%89%E4%B8%AA%E6%A8%A1%E5%9E%8B%E8%B7%91%E5%87%BA%E6%9D%A5%E7%9A%84%E7%BB%93%E6%9E%9C%EF%BC%8CClaude+3.7+%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%84%9F%E8%BF%98%E6%98%AF%E5%A5%BD%E4%B8%80%E4%BA%9B%E5%9B%BE1+DeepSeek+V3+%E5%9B%BE2+DeepSeek+V3+0%E2%80%A6)
@@ -667,7 +674,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indiehackercase%3A+%E8%BF%99%E4%BB%BD%E8%B5%84%E6%96%99%E5%8E%89%E5%AE%B3%E4%BA%86%EF%BC%81%E6%83%B3%E5%81%9ADeepSeek%E8%87%AA%E5%AA%92%E4%BD%93%E5%89%AF%E4%B8%9A%E7%9A%84%E4%B8%80%E5%AE%9A%E4%BF%9D%E5%AD%98%E3%80%82%E5%90%84%E7%A7%8DDeepSeek%E6%8C%87%E4%BB%A4%E6%8F%90%E7%A4%BA%E8%AF%8D%E9%83%BD%E7%BB%99%E4%BD%A0%E5%87%86%E5%A4%87%E5%A5%BD%E4%BA%86%EF%BC%8C%E6%96%87%E7%94%9F%E5%9B%BE%E5%92%8C%E8%A7%86%E9%A2%91%E3%80%81%E5%85%AC%E4%BC%97%E5%8F%B7%E7%88%86%E6%96%87%E3%80%81%E6%B0%91%E9%97%B4%E6%95%85%E4%BA%8B%E3%80%81%E5%86%99%E5%B0%8F%E8%AF%B4%E3%80%81%E5%BE%AE%E5%A4%B4%E6%9D%A1%E7%AD%89%E7%AD%89%EF%BC%8C%E8%BF%9E%E6%8E%92%E7%89%88%E7%9A%84%E6%8C%87%E4%BB%A4%E9%83%BD%E6%9C%89%E3%80%82%E9%93%BE%E6%8E%A5%E8%A7%81%E8%AF%84%E8%AE%BA%E5%8C%BA%E3%80%82+https%3A%2F%2Ft.co%2FjSBuhh%E2%80%A6)
 ___
-##### 2025-03-21 19:41:58 UTC ~ orange.ai
+##### 2025-03-21 19:41:58 UTC ~ Orange AI
 > RT @oran_ge: 就在刚刚，腾讯发布了自家的深度思考模型混元T1正式版。能力对齐 R1 ，使用创新架构，推理速度飞快。模型特点：- 性能强悍，混元 T1 在多项评测指标中都达到 DeepSeek R1 和 OpenAI o1 同样的水平- 使用了 Hybrid…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%B0%B1%E5%9C%A8%E5%88%9A%E5%88%9A%EF%BC%8C%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%83%E4%BA%86%E8%87%AA%E5%AE%B6%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E6%B7%B7%E5%85%83T1%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%82%E8%83%BD%E5%8A%9B%E5%AF%B9%E9%BD%90+R1+%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%88%9B%E6%96%B0%E6%9E%B6%E6%9E%84%EF%BC%8C%E6%8E%A8%E7%90%86%E9%80%9F%E5%BA%A6%E9%A3%9E%E5%BF%AB%E3%80%82%E6%A8%A1%E5%9E%8B%E7%89%B9%E7%82%B9%EF%BC%9A-+%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%EF%BC%8C%E6%B7%B7%E5%85%83+T1+%E5%9C%A8%E5%A4%9A%E9%A1%B9%E8%AF%84%E6%B5%8B%E6%8C%87%E6%A0%87%E4%B8%AD%E9%83%BD%E8%BE%BE%E5%88%B0+DeepSeek+R1+%E5%92%8C+OpenAI+o1+%E5%90%8C%E6%A0%B7%E7%9A%84%E6%B0%B4%E5%B9%B3-+%E4%BD%BF%E7%94%A8%E4%BA%86+Hybrid%E2%80%A6)
@@ -924,7 +931,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [人工](人工.md), [人工智能](人工智能.md), [清华大学](清华大学.md), [规划](规划.md)
 ___
-##### 2025-03-08 09:56:37 UTC ~ orange.ai
+##### 2025-03-08 09:56:37 UTC ~ Orange AI
 > RT @oran_ge: Manus 火了，这个火爆程度竟然直接出圈，火到了抖音，火到了央媒，火到了券商研究员拿5万现金求个调研，火到闲鱼一个邀请码都要5万。也许是因为 DeepSeek 火爆在先，大众对技术的热情变得异常高涨，同时又是国产团队作品，自然就承载了一些情怀与希…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Manus+%E7%81%AB%E4%BA%86%EF%BC%8C%E8%BF%99%E4%B8%AA%E7%81%AB%E7%88%86%E7%A8%8B%E5%BA%A6%E7%AB%9F%E7%84%B6%E7%9B%B4%E6%8E%A5%E5%87%BA%E5%9C%88%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E6%8A%96%E9%9F%B3%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E5%A4%AE%E5%AA%92%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E5%88%B8%E5%95%86%E7%A0%94%E7%A9%B6%E5%91%98%E6%8B%BF5%E4%B8%87%E7%8E%B0%E9%87%91%E6%B1%82%E4%B8%AA%E8%B0%83%E7%A0%94%EF%BC%8C%E7%81%AB%E5%88%B0%E9%97%B2%E9%B1%BC%E4%B8%80%E4%B8%AA%E9%82%80%E8%AF%B7%E7%A0%81%E9%83%BD%E8%A6%815%E4%B8%87%E3%80%82%E4%B9%9F%E8%AE%B8%E6%98%AF%E5%9B%A0%E4%B8%BA+DeepSeek+%E7%81%AB%E7%88%86%E5%9C%A8%E5%85%88%EF%BC%8C%E5%A4%A7%E4%BC%97%E5%AF%B9%E6%8A%80%E6%9C%AF%E7%9A%84%E7%83%AD%E6%83%85%E5%8F%98%E5%BE%97%E5%BC%82%E5%B8%B8%E9%AB%98%E6%B6%A8%EF%BC%8C%E5%90%8C%E6%97%B6%E5%8F%88%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%9B%A2%E9%98%9F%E4%BD%9C%E5%93%81%EF%BC%8C%E8%87%AA%E7%84%B6%E5%B0%B1%E6%89%BF%E8%BD%BD%E4%BA%86%E4%B8%80%E4%BA%9B%E6%83%85%E6%80%80%E4%B8%8E%E5%B8%8C%E2%80%A6)
@@ -966,14 +973,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Qwen](Qwen.md), [发布](发布.md), [数据](数据.md), [量化](量化.md)
 ___
-##### 2025-03-06 02:06:40 UTC ~ orange.ai
+##### 2025-03-06 02:06:40 UTC ~ Orange AI
 > RT @oran_ge: 千问团队发布了 QwQ-32B，用 32B 参数达到了 DeepSeek R1 671B 的同等指标。“ 这次，我们研究了扩展 RL 的方法，并基于我们的 Qwen2 取得了一些令人印象深刻的成果。 5-32B 。我们发现 RL 训练可以不断提高性…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%86+QwQ-32B%EF%BC%8C%E7%94%A8+32B+%E5%8F%82%E6%95%B0%E8%BE%BE%E5%88%B0%E4%BA%86+DeepSeek+R1+671B+%E7%9A%84%E5%90%8C%E7%AD%89%E6%8C%87%E6%A0%87%E3%80%82%E2%80%9C+%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E7%A0%94%E7%A9%B6%E4%BA%86%E6%89%A9%E5%B1%95+RL+%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84+Qwen2+%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BB%A4%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E6%88%90%E6%9E%9C%E3%80%82+5-32B+%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%91%E7%8E%B0+RL+%E8%AE%AD%E7%BB%83%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98%E6%80%A7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [Qwen](Qwen.md), [发布](发布.md), [提高](提高.md)
 ___
-##### 2025-03-06 00:36:53 UTC ~ orange.ai
+##### 2025-03-06 00:36:53 UTC ~ Orange AI
 > RT @oran_ge: 昨晚多维表格+DeepSeek 的语音笔记一图流帮助新人真正上手，有时候就差一次手把手的教 https://t.co/7bJhxGbnNu
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E6%98%A8%E6%99%9A%E5%A4%9A%E7%BB%B4%E8%A1%A8%E6%A0%BC%2BDeepSeek+%E7%9A%84%E8%AF%AD%E9%9F%B3%E7%AC%94%E8%AE%B0%E4%B8%80%E5%9B%BE%E6%B5%81%E5%B8%AE%E5%8A%A9%E6%96%B0%E4%BA%BA%E7%9C%9F%E6%AD%A3%E4%B8%8A%E6%89%8B%EF%BC%8C%E6%9C%89%E6%97%B6%E5%80%99%E5%B0%B1%E5%B7%AE%E4%B8%80%E6%AC%A1%E6%89%8B%E6%8A%8A%E6%89%8B%E7%9A%84%E6%95%99+https%3A%2F%2Ft.co%2F7bJhxGbnNu)
@@ -1485,7 +1492,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [成本](成本.md), [模型](模型.md), [清华大学](清华大学.md), [门槛](门槛.md)
 ___
-##### 2025-02-19 02:37:57 UTC ~ orange.ai
+##### 2025-02-19 02:37:57 UTC ~ Orange AI
 > RT @oran_ge: 这这这。。。原来还可以把思想钢印抹掉？PPLX 做了个 DeepSeek R1 的无审查版本 R1 1776，并且开源了这是 DeepSeek R1 模型的一个版本，经过后期训练，可以提供未经审查、公正和真实的信息。为了让模型在敏感话题上“不受审…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E8%BF%99%E8%BF%99%E8%BF%99%E3%80%82%E3%80%82%E3%80%82%E5%8E%9F%E6%9D%A5%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%8A%8A%E6%80%9D%E6%83%B3%E9%92%A2%E5%8D%B0%E6%8A%B9%E6%8E%89%EF%BC%9FPPLX+%E5%81%9A%E4%BA%86%E4%B8%AA+DeepSeek+R1+%E7%9A%84%E6%97%A0%E5%AE%A1%E6%9F%A5%E7%89%88%E6%9C%AC+R1+1776%EF%BC%8C%E5%B9%B6%E4%B8%94%E5%BC%80%E6%BA%90%E4%BA%86%E8%BF%99%E6%98%AF+DeepSeek+R1+%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%B8%80%E4%B8%AA%E7%89%88%E6%9C%AC%EF%BC%8C%E7%BB%8F%E8%BF%87%E5%90%8E%E6%9C%9F%E8%AE%AD%E7%BB%83%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%8F%90%E4%BE%9B%E6%9C%AA%E7%BB%8F%E5%AE%A1%E6%9F%A5%E3%80%81%E5%85%AC%E6%AD%A3%E5%92%8C%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82%E4%B8%BA%E4%BA%86%E8%AE%A9%E6%A8%A1%E5%9E%8B%E5%9C%A8%E6%95%8F%E6%84%9F%E8%AF%9D%E9%A2%98%E4%B8%8A%E2%80%9C%E4%B8%8D%E5%8F%97%E5%AE%A1%E2%80%A6)
@@ -2086,13 +2093,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%BA%84%E6%85%A7%E8%89%AF%EF%BC%9ADeepSeek%E7%9A%84%E5%87%BA%E7%8E%B0%E7%8A%B9%E5%A6%82%E5%9C%A8AI%E7%95%8C%E6%8A%95%E4%B8%8B%E4%B8%80%E9%A2%97%E5%8E%9F%E5%AD%90%E5%BC%B9%E3%80%82%E7%9B%B8%E5%85%B3%E4%B8%93%E5%AE%B6%E7%9B%B4%E8%A8%80%EF%BC%8CDeepSeek%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%86%B2%E5%87%BB%E6%98%AF%E2%80%9C%E7%9F%AD%E7%A9%BA%E9%95%BF%E5%A4%9A%E2%80%9D%EF%BC%8C%E8%BF%87%E5%8E%BB%E4%BE%9D%E8%B5%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%AB%98%E6%88%90%E9%95%BF%E7%9A%84%E9%AB%98%E8%8E%B7%E5%88%A9%E5%8E%BB%E5%B9%B4%E5%B7%B2%E5%91%8A%E7%BB%88%E7%BB%93%EF%BC%8C%E6%9C%AA%E6%9D%A5AI%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%B0%86%E6%98%AF%E2%80%9C%E5%90%83%E8%BD%AF%EF%BC%88%E4%BD%93%EF%BC%89%E4%B8%8D%E5%90%83%E7%A1%AC%EF%BC%88%E4%BD%93%EF%BC%89%E2%80%9D%E3%80%82https%3A%2F%2Ft.co%2FjGwFRl3jj%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [依赖](依赖.md), [冲击](冲击.md), [半导体](半导体.md), [原子](原子.md), [台湾](台湾.md), [相关](相关.md), [趋势](趋势.md)
-___
-##### 2025-02-08 04:32:44 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 深度求索（DeepSeek）创始人梁文锋的成长背景在中国掀起一场有关“小镇做题家”和应试教育的讨论。有文章感谢“小镇做题家”的死磕，并称“小镇做题家”是国家的财富。 https://t.co/1QQfWSfcus
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%A2%81%E6%96%87%E9%94%8B%E7%9A%84%E6%88%90%E9%95%BF%E8%83%8C%E6%99%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8E%80%E8%B5%B7%E4%B8%80%E5%9C%BA%E6%9C%89%E5%85%B3%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E5%92%8C%E5%BA%94%E8%AF%95%E6%95%99%E8%82%B2%E7%9A%84%E8%AE%A8%E8%AE%BA%E3%80%82%E6%9C%89%E6%96%87%E7%AB%A0%E6%84%9F%E8%B0%A2%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E7%9A%84%E6%AD%BB%E7%A3%95%EF%BC%8C%E5%B9%B6%E7%A7%B0%E2%80%9C%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E2%80%9D%E6%98%AF%E5%9B%BD%E5%AE%B6%E7%9A%84%E8%B4%A2%E5%AF%8C%E3%80%82+https%3A%2F%2Ft.co%2F1QQfWSfcus)
-##### Other Words/Names of Interest in the Above Tweet
-[小镇](小镇.md), [掀起](掀起.md), [梁文锋](梁文锋.md), [深度求索](深度求索.md)
 ____
 
 [Next Page](DeepSeek-01.md)

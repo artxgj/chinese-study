@@ -21,7 +21,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [代码](代码.md), [开源](开源.md), [文件](文件.md), [直接](直接.md), [项目](项目.md)
 ___
-##### 2025-06-26 08:58:42 UTC ~ orange.ai
+##### 2025-06-26 08:58:42 UTC ~ Orange AI
 > RT @oran_ge: Google 杀疯了，放出对标 Claude Code 和 Cursor 的 Gemini CLI不要100美金，直接免费提供。不仅免费，而且开源，一发布瞬间 3k Star！每天1000次调用以内都免费，非常之离谱。不管具体水平怎么说，先试试…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Google+%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%8C%E6%94%BE%E5%87%BA%E5%AF%B9%E6%A0%87+Claude+Code+%E5%92%8C+Cursor+%E7%9A%84+Gemini+CLI%E4%B8%8D%E8%A6%81100%E7%BE%8E%E9%87%91%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E3%80%82%E4%B8%8D%E4%BB%85%E5%85%8D%E8%B4%B9%EF%BC%8C%E8%80%8C%E4%B8%94%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B8%80%E5%8F%91%E5%B8%83%E7%9E%AC%E9%97%B4+3k+Star%EF%BC%81%E6%AF%8F%E5%A4%A91000%E6%AC%A1%E8%B0%83%E7%94%A8%E4%BB%A5%E5%86%85%E9%83%BD%E5%85%8D%E8%B4%B9%EF%BC%8C%E9%9D%9E%E5%B8%B8%E4%B9%8B%E7%A6%BB%E8%B0%B1%E3%80%82%E4%B8%8D%E7%AE%A1%E5%85%B7%E4%BD%93%E6%B0%B4%E5%B9%B3%E6%80%8E%E4%B9%88%E8%AF%B4%EF%BC%8C%E5%85%88%E8%AF%95%E8%AF%95%E2%80%A6)
@@ -140,7 +140,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Gemini](Gemini.md), [增长](增长.md), [小红书](小红书.md), [持续](持续.md), [搜索](搜索.md), [曲线](曲线.md), [诡异](诡异.md)
 ___
-##### 2025-03-25 14:58:10 UTC ~ orange.ai
+##### 2025-03-25 14:58:10 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek-V3-0324 官方报告来了，在代码指标上竟然超过了 GPT 4.5 和 Claude 3.7 。。。1.推理任务表现提高新版 V3 模型借鉴 DeepSeek-R1 模型训练过程中所使用的强化学习技术，大幅提高了在推理类任务…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+DeepSeek-V3-0324+%E5%AE%98%E6%96%B9%E6%8A%A5%E5%91%8A%E6%9D%A5%E4%BA%86%EF%BC%8C%E5%9C%A8%E4%BB%A3%E7%A0%81%E6%8C%87%E6%A0%87%E4%B8%8A%E7%AB%9F%E7%84%B6%E8%B6%85%E8%BF%87%E4%BA%86+GPT+4.5+%E5%92%8C+Claude+3.7+%E3%80%82%E3%80%82%E3%80%821.%E6%8E%A8%E7%90%86%E4%BB%BB%E5%8A%A1%E8%A1%A8%E7%8E%B0%E6%8F%90%E9%AB%98%E6%96%B0%E7%89%88+V3+%E6%A8%A1%E5%9E%8B%E5%80%9F%E9%89%B4+DeepSeek-R1+%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%89%80%E4%BD%BF%E7%94%A8%E7%9A%84%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF%EF%BC%8C%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E4%BA%86%E5%9C%A8%E6%8E%A8%E7%90%86%E7%B1%BB%E4%BB%BB%E5%8A%A1%E2%80%A6)
@@ -168,7 +168,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [价格](价格.md), [型](型.md), [推理](推理.md), [模型](模型.md)
 ___
-##### 2025-03-25 05:42:08 UTC ~ orange.ai
+##### 2025-03-25 05:42:08 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek V3 更新，前端代码能力相比上一代大幅增强，可以解锁很多 Claude 3.7 的玩法这三张图是我分别用三个模型跑出来的结果，Claude 3.7 的设计感还是好一些图1 DeepSeek V3 图2 DeepSeek V3 0…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+DeepSeek+V3+%E6%9B%B4%E6%96%B0%EF%BC%8C%E5%89%8D%E7%AB%AF%E4%BB%A3%E7%A0%81%E8%83%BD%E5%8A%9B%E7%9B%B8%E6%AF%94%E4%B8%8A%E4%B8%80%E4%BB%A3%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%BC%BA%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%A7%A3%E9%94%81%E5%BE%88%E5%A4%9A+Claude+3.7+%E7%9A%84%E7%8E%A9%E6%B3%95%E8%BF%99%E4%B8%89%E5%BC%A0%E5%9B%BE%E6%98%AF%E6%88%91%E5%88%86%E5%88%AB%E7%94%A8%E4%B8%89%E4%B8%AA%E6%A8%A1%E5%9E%8B%E8%B7%91%E5%87%BA%E6%9D%A5%E7%9A%84%E7%BB%93%E6%9E%9C%EF%BC%8CClaude+3.7+%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%84%9F%E8%BF%98%E6%98%AF%E5%A5%BD%E4%B8%80%E4%BA%9B%E5%9B%BE1+DeepSeek+V3+%E5%9B%BE2+DeepSeek+V3+0%E2%80%A6)
@@ -189,7 +189,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [实现](实现.md)
 ___
-##### 2025-03-21 03:01:56 UTC ~ orange.ai
+##### 2025-03-21 03:01:56 UTC ~ Orange AI
 > RT @oran_ge: 昨天一晚上 AI 行业都发生了什么：Claude 官方网站终于支持了联网搜索，全网欢呼Claude Code 支持了输入网址作为编程参考Google AI Studio 的生图功能大幅降低安全性误判，提高可用性OpenAI 发布了替换 Whis…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E6%98%A8%E5%A4%A9%E4%B8%80%E6%99%9A%E4%B8%8A+AI+%E8%A1%8C%E4%B8%9A%E9%83%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9AClaude+%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99%E7%BB%88%E4%BA%8E%E6%94%AF%E6%8C%81%E4%BA%86%E8%81%94%E7%BD%91%E6%90%9C%E7%B4%A2%EF%BC%8C%E5%85%A8%E7%BD%91%E6%AC%A2%E5%91%BCClaude+Code+%E6%94%AF%E6%8C%81%E4%BA%86%E8%BE%93%E5%85%A5%E7%BD%91%E5%9D%80%E4%BD%9C%E4%B8%BA%E7%BC%96%E7%A8%8B%E5%8F%82%E8%80%83Google+AI+Studio+%E7%9A%84%E7%94%9F%E5%9B%BE%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BD%8E%E5%AE%89%E5%85%A8%E6%80%A7%E8%AF%AF%E5%88%A4%EF%BC%8C%E6%8F%90%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7OpenAI+%E5%8F%91%E5%B8%83%E4%BA%86%E6%9B%BF%E6%8D%A2+Whis%E2%80%A6)
@@ -217,7 +217,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Anthropic](Anthropic.md), [上下文](上下文.md), [代码](代码.md), [分析](分析.md), [意味](意味.md), [意味着](意味着.md), [推出](推出.md), [支持](支持.md), [文件](文件.md), [直接](直接.md)
 ___
-##### 2025-03-16 18:33:32 UTC ~ orange.ai
+##### 2025-03-16 18:33:32 UTC ~ Orange AI
 > RT @oran_ge: Claude 在升级到 3.7 之后，能力获得了大幅提升，在前端编程方面已经远远超出其他模型，重新定义了 AI PPT 的概念，我已经把所有图表都交给 Claude 3.7 用代码直接写了。… https://t.co/n9Cmyjk52z
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Claude+%E5%9C%A8%E5%8D%87%E7%BA%A7%E5%88%B0+3.7+%E4%B9%8B%E5%90%8E%EF%BC%8C%E8%83%BD%E5%8A%9B%E8%8E%B7%E5%BE%97%E4%BA%86%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%EF%BC%8C%E5%9C%A8%E5%89%8D%E7%AB%AF%E7%BC%96%E7%A8%8B%E6%96%B9%E9%9D%A2%E5%B7%B2%E7%BB%8F%E8%BF%9C%E8%BF%9C%E8%B6%85%E5%87%BA%E5%85%B6%E4%BB%96%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E4%BA%86+AI+PPT+%E7%9A%84%E6%A6%82%E5%BF%B5%EF%BC%8C%E6%88%91%E5%B7%B2%E7%BB%8F%E6%8A%8A%E6%89%80%E6%9C%89%E5%9B%BE%E8%A1%A8%E9%83%BD%E4%BA%A4%E7%BB%99+Claude+3.7+%E7%94%A8%E4%BB%A3%E7%A0%81%E7%9B%B4%E6%8E%A5%E5%86%99%E4%BA%86%E3%80%82%E2%80%A6+https%3A%2F%2Ft.co%2Fn9Cmyjk52z)
@@ -238,7 +238,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [MCP](MCP.md), [型](型.md), [实现](实现.md), [开源](开源.md), [控制](控制.md), [操作](操作.md), [模型](模型.md), [直接](直接.md), [进行](进行.md), [项目](项目.md)
 ___
-##### 2025-03-06 02:08:18 UTC ~ orange.ai
+##### 2025-03-06 02:08:18 UTC ~ Orange AI
 > RT @oran_ge: WindSurf Wave4 的大更新来了最大的更新是内置了一个可交互的预览功能，配合新的 Claude 3.7 可以说是如虎添翼。最近大家都在用 Claude 3.7 生成高保真原型或者设计图，但是如果要修改某个元素，描述起来是非常麻烦的。…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+WindSurf+Wave4+%E7%9A%84%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%9D%A5%E4%BA%86%E6%9C%80%E5%A4%A7%E7%9A%84%E6%9B%B4%E6%96%B0%E6%98%AF%E5%86%85%E7%BD%AE%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%9A%84%E9%A2%84%E8%A7%88%E5%8A%9F%E8%83%BD%EF%BC%8C%E9%85%8D%E5%90%88%E6%96%B0%E7%9A%84+Claude+3.7+%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AF%E5%A6%82%E8%99%8E%E6%B7%BB%E7%BF%BC%E3%80%82%E6%9C%80%E8%BF%91%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%94%A8+Claude+3.7+%E7%94%9F%E6%88%90%E9%AB%98%E4%BF%9D%E7%9C%9F%E5%8E%9F%E5%9E%8B%E6%88%96%E8%80%85%E8%AE%BE%E8%AE%A1%E5%9B%BE%EF%BC%8C%E4%BD%86%E6%98%AF%E5%A6%82%E6%9E%9C%E8%A6%81%E4%BF%AE%E6%94%B9%E6%9F%90%E4%B8%AA%E5%85%83%E7%B4%A0%EF%BC%8C%E6%8F%8F%E8%BF%B0%E8%B5%B7%E6%9D%A5%E6%98%AF%E9%9D%9E%E5%B8%B8%E9%BA%BB%E7%83%A6%E7%9A%84%E3%80%82%E2%80%A6)

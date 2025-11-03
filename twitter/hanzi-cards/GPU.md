@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2025-10-31 08:25:31 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国晶片巨头英伟达（Nvidia）将为韩国政府和四家韩国企业供应26万块图形处理器（GPU），总价值高达14万亿韩元（约128亿新元）。 https://t.co/YoIS0xY6Z0
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E6%99%B6%E7%89%87%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88Nvidia%EF%BC%89%E5%B0%86%E4%B8%BA%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%92%8C%E5%9B%9B%E5%AE%B6%E9%9F%A9%E5%9B%BD%E4%BC%81%E4%B8%9A%E4%BE%9B%E5%BA%9426%E4%B8%87%E5%9D%97%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%EF%BC%8C%E6%80%BB%E4%BB%B7%E5%80%BC%E9%AB%98%E8%BE%BE14%E4%B8%87%E4%BA%BF%E9%9F%A9%E5%85%83%EF%BC%88%E7%BA%A6128%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%E3%80%82+https%3A%2F%2Ft.co%2FYoIS0xY6Z0)
+##### Other Words/Names of Interest in the Above Tweet
+[处理](处理.md), [巨头](巨头.md), [晶片](晶片.md), [美国](美国.md), [英伟达](英伟达.md), [韩国](韩国.md)
+___
+##### 2025-10-20 07:41:19 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 当需要管理多台 GPU 服务器，通过 SSH 连接到每台机器上查看显卡运行状态，来回切换确实挺麻烦。GPU Hot 这个开源工具正好解决这个痛点，让我们能在浏览器中可视化统一管理所有 GPU 资源。不仅能实时监控单台机器的所有 GPU…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BD%93%E9%9C%80%E8%A6%81%E7%AE%A1%E7%90%86%E5%A4%9A%E5%8F%B0+GPU+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E9%80%9A%E8%BF%87+SSH+%E8%BF%9E%E6%8E%A5%E5%88%B0%E6%AF%8F%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%9F%A5%E7%9C%8B%E6%98%BE%E5%8D%A1%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81%EF%BC%8C%E6%9D%A5%E5%9B%9E%E5%88%87%E6%8D%A2%E7%A1%AE%E5%AE%9E%E6%8C%BA%E9%BA%BB%E7%83%A6%E3%80%82GPU+Hot+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%AD%A3%E5%A5%BD%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E7%97%9B%E7%82%B9%EF%BC%8C%E8%AE%A9%E6%88%91%E4%BB%AC%E8%83%BD%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89+GPU+%E8%B5%84%E6%BA%90%E3%80%82%E4%B8%8D%E4%BB%85%E8%83%BD%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E5%8D%95%E5%8F%B0%E6%9C%BA%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89+GPU%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [工具](工具.md), [开源](开源.md), [状态](状态.md), [资源](资源.md), [连接](连接.md)
+___
 ##### 2025-10-12 01:55:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 想要学习 GPU 编程，而网上的教程大多数以理论为主，缺少系统性的练习题目，无法动手实践。可以看一下，LeetGPU Challenges 这份精心设计的 GPU 编程挑战题集，就像是 GPU 版本的 LeetCode。每道题目都包含…
 

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2025-10-21 23:37:01 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Anthropic联合创始人克拉克撰文称AI为不可预测的“神秘生物”，迅速引发白宫及科技界人士的批评。现在争论双方的眼中都看到了怪物，只不过对谁的怪物更可怕意见不一。特朗普的AI“沙皇”萨克斯警告说，监管将阻碍美国在AI竞赛中与“另一个怪物”中国…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Anthropic%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%85%8B%E6%8B%89%E5%85%8B%E6%92%B0%E6%96%87%E7%A7%B0AI%E4%B8%BA%E4%B8%8D%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E2%80%9C%E7%A5%9E%E7%A7%98%E7%94%9F%E7%89%A9%E2%80%9D%EF%BC%8C%E8%BF%85%E9%80%9F%E5%BC%95%E5%8F%91%E7%99%BD%E5%AE%AB%E5%8F%8A%E7%A7%91%E6%8A%80%E7%95%8C%E4%BA%BA%E5%A3%AB%E7%9A%84%E6%89%B9%E8%AF%84%E3%80%82%E7%8E%B0%E5%9C%A8%E4%BA%89%E8%AE%BA%E5%8F%8C%E6%96%B9%E7%9A%84%E7%9C%BC%E4%B8%AD%E9%83%BD%E7%9C%8B%E5%88%B0%E4%BA%86%E6%80%AA%E7%89%A9%EF%BC%8C%E5%8F%AA%E4%B8%8D%E8%BF%87%E5%AF%B9%E8%B0%81%E7%9A%84%E6%80%AA%E7%89%A9%E6%9B%B4%E5%8F%AF%E6%80%95%E6%84%8F%E8%A7%81%E4%B8%8D%E4%B8%80%E3%80%82%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84AI%E2%80%9C%E6%B2%99%E7%9A%87%E2%80%9D%E8%90%A8%E5%85%8B%E6%96%AF%E8%AD%A6%E5%91%8A%E8%AF%B4%EF%BC%8C%E7%9B%91%E7%AE%A1%E5%B0%86%E9%98%BB%E7%A2%8D%E7%BE%8E%E5%9B%BD%E5%9C%A8AI%E7%AB%9E%E8%B5%9B%E4%B8%AD%E4%B8%8E%E2%80%9C%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%80%AA%E7%89%A9%E2%80%9D%E4%B8%AD%E5%9B%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[引发](引发.md), [批评](批评.md), [特朗普](特朗普.md), [监管](监管.md), [科技](科技.md), [美国](美国.md), [萨克斯](萨克斯.md), [迅速](迅速.md), [阻碍](阻碍.md), [预测](预测.md)
+___
 ##### 2025-04-27 18:39:03 UTC ~ karminski-牙医
 > RT @karminski3: 分享个来自 Anthropic 官方的 Claude Code 最佳实践指南教程，准备尝试用 Claude Code 或者其它 agentic 命令行工具写代码的同学可以看看，写得很棒地址：https://t.co/wtAXxAvTzy ht…
 
@@ -35,7 +42,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [提供](提供.md), [正式](正式.md)
 ___
-##### 2025-04-10 03:43:53 UTC ~ orange.ai
+##### 2025-04-10 03:43:53 UTC ~ Orange AI
 > RT @oran_ge: Google 宣布推出 Agent2Agent 协议 (A2A)，这是一种开放协议，让 Agents 可以相互协作，而不受底层框架或供应商的限制。A2A 属于对 Anthropic 的模型上下文协议 (MCP) 的一种补充 https://t.…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Google+%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BA+Agent2Agent+%E5%8D%8F%E8%AE%AE+%28A2A%29%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BC%80%E6%94%BE%E5%8D%8F%E8%AE%AE%EF%BC%8C%E8%AE%A9+Agents+%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%92%E5%8D%8F%E4%BD%9C%EF%BC%8C%E8%80%8C%E4%B8%8D%E5%8F%97%E5%BA%95%E5%B1%82%E6%A1%86%E6%9E%B6%E6%88%96%E4%BE%9B%E5%BA%94%E5%95%86%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82A2A+%E5%B1%9E%E4%BA%8E%E5%AF%B9+Anthropic+%E7%9A%84%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE+%28MCP%29+%E7%9A%84%E4%B8%80%E7%A7%8D%E8%A1%A5%E5%85%85+https%3A%2F%2Ft.%E2%80%A6)

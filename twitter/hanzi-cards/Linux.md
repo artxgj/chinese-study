@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Linux) for definition
 ### Tweets containing Linux
 
 ___
+##### 2025-10-26 02:05:46 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 有时候需要在 Linux 桌面系统上截图，内置的工具过于简单，不可以添加箭头、文字说明等信息标注，无法满足需求。近日，在 GitHub 上发现了 Satty 这款开源的截图标注工具，专为 Linux 系统打造，功能丰富而且操作流畅。… h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%9C%89%E6%97%B6%E5%80%99%E9%9C%80%E8%A6%81%E5%9C%A8+Linux+%E6%A1%8C%E9%9D%A2%E7%B3%BB%E7%BB%9F%E4%B8%8A%E6%88%AA%E5%9B%BE%EF%BC%8C%E5%86%85%E7%BD%AE%E7%9A%84%E5%B7%A5%E5%85%B7%E8%BF%87%E4%BA%8E%E7%AE%80%E5%8D%95%EF%BC%8C%E4%B8%8D%E5%8F%AF%E4%BB%A5%E6%B7%BB%E5%8A%A0%E7%AE%AD%E5%A4%B4%E3%80%81%E6%96%87%E5%AD%97%E8%AF%B4%E6%98%8E%E7%AD%89%E4%BF%A1%E6%81%AF%E6%A0%87%E6%B3%A8%EF%BC%8C%E6%97%A0%E6%B3%95%E6%BB%A1%E8%B6%B3%E9%9C%80%E6%B1%82%E3%80%82%E8%BF%91%E6%97%A5%EF%BC%8C%E5%9C%A8+GitHub+%E4%B8%8A%E5%8F%91%E7%8E%B0%E4%BA%86+Satty+%E8%BF%99%E6%AC%BE%E5%BC%80%E6%BA%90%E7%9A%84%E6%88%AA%E5%9B%BE%E6%A0%87%E6%B3%A8%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%93%E4%B8%BA+Linux+%E7%B3%BB%E7%BB%9F%E6%89%93%E9%80%A0%EF%BC%8C%E5%8A%9F%E8%83%BD%E4%B8%B0%E5%AF%8C%E8%80%8C%E4%B8%94%E6%93%8D%E4%BD%9C%E6%B5%81%E7%95%85%E3%80%82%E2%80%A6+h%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[工具](工具.md), [开源](开源.md), [打造](打造.md), [操作](操作.md), [系统](系统.md), [需求](需求.md)
+___
 ##### 2025-06-26 09:45:07 UTC ~ karminski-牙医
 > RT @karminski3: 看到个特别有用的工具——LocalSend这个工具可以让你在本地网络上（同一个局域网）与任何设备分享文件和消息。目前支持 Win, MacOS, Linux, Android, iOS.地址：https://t.co/SZy3OGkcab…
 

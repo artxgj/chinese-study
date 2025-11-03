@@ -105,7 +105,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Qwen](Qwen.md), [圈](圈.md), [型](型.md), [推理](推理.md), [模型](模型.md), [蒸馏](蒸馏.md), [透露](透露.md)
 ___
-##### 2025-03-09 09:35:50 UTC ~ orange.ai
+##### 2025-03-09 09:35:50 UTC ~ Orange AI
 > RT @oran_ge: 用不上 Manus 的也可以试试 OWLOWL 在 GAIA 基准测试中取得 58.18 平均分，在开源框架中排名第一。核心功能：- 在线搜索：使用维基百科、谷歌搜索等，进行实时信息检索- 多模态处理：支持互联网或本地视频、图片、语音处理-…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E7%94%A8%E4%B8%8D%E4%B8%8A+Manus+%E7%9A%84%E4%B9%9F%E5%8F%AF%E4%BB%A5%E8%AF%95%E8%AF%95+OWLOWL+%E5%9C%A8+GAIA+%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%8F%96%E5%BE%97+58.18+%E5%B9%B3%E5%9D%87%E5%88%86%EF%BC%8C%E5%9C%A8%E5%BC%80%E6%BA%90%E6%A1%86%E6%9E%B6%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E3%80%82%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%EF%BC%9A-+%E5%9C%A8%E7%BA%BF%E6%90%9C%E7%B4%A2%EF%BC%9A%E4%BD%BF%E7%94%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E3%80%81%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2%E7%AD%89%EF%BC%8C%E8%BF%9B%E8%A1%8C%E5%AE%9E%E6%97%B6%E4%BF%A1%E6%81%AF%E6%A3%80%E7%B4%A2-+%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%84%E7%90%86%EF%BC%9A%E6%94%AF%E6%8C%81%E4%BA%92%E8%81%94%E7%BD%91%E6%88%96%E6%9C%AC%E5%9C%B0%E8%A7%86%E9%A2%91%E3%80%81%E5%9B%BE%E7%89%87%E3%80%81%E8%AF%AD%E9%9F%B3%E5%A4%84%E7%90%86-%E2%80%A6)
@@ -133,21 +133,21 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Mac](Mac.md), [发挥](发挥.md), [处于](处于.md), [执行](执行.md), [根据](根据.md), [模式](模式.md), [状态](状态.md)
 ___
-##### 2025-03-08 09:56:37 UTC ~ orange.ai
+##### 2025-03-08 09:56:37 UTC ~ Orange AI
 > RT @oran_ge: Manus 火了，这个火爆程度竟然直接出圈，火到了抖音，火到了央媒，火到了券商研究员拿5万现金求个调研，火到闲鱼一个邀请码都要5万。也许是因为 DeepSeek 火爆在先，大众对技术的热情变得异常高涨，同时又是国产团队作品，自然就承载了一些情怀与希…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Manus+%E7%81%AB%E4%BA%86%EF%BC%8C%E8%BF%99%E4%B8%AA%E7%81%AB%E7%88%86%E7%A8%8B%E5%BA%A6%E7%AB%9F%E7%84%B6%E7%9B%B4%E6%8E%A5%E5%87%BA%E5%9C%88%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E6%8A%96%E9%9F%B3%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E5%A4%AE%E5%AA%92%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E5%88%B8%E5%95%86%E7%A0%94%E7%A9%B6%E5%91%98%E6%8B%BF5%E4%B8%87%E7%8E%B0%E9%87%91%E6%B1%82%E4%B8%AA%E8%B0%83%E7%A0%94%EF%BC%8C%E7%81%AB%E5%88%B0%E9%97%B2%E9%B1%BC%E4%B8%80%E4%B8%AA%E9%82%80%E8%AF%B7%E7%A0%81%E9%83%BD%E8%A6%815%E4%B8%87%E3%80%82%E4%B9%9F%E8%AE%B8%E6%98%AF%E5%9B%A0%E4%B8%BA+DeepSeek+%E7%81%AB%E7%88%86%E5%9C%A8%E5%85%88%EF%BC%8C%E5%A4%A7%E4%BC%97%E5%AF%B9%E6%8A%80%E6%9C%AF%E7%9A%84%E7%83%AD%E6%83%85%E5%8F%98%E5%BE%97%E5%BC%82%E5%B8%B8%E9%AB%98%E6%B6%A8%EF%BC%8C%E5%90%8C%E6%97%B6%E5%8F%88%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%9B%A2%E9%98%9F%E4%BD%9C%E5%93%81%EF%BC%8C%E8%87%AA%E7%84%B6%E5%B0%B1%E6%89%BF%E8%BD%BD%E4%BA%86%E4%B8%80%E4%BA%9B%E6%83%85%E6%80%80%E4%B8%8E%E5%B8%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [圈](圈.md), [大众](大众.md), [异常](异常.md), [技术](技术.md), [直接](直接.md), [程度](程度.md)
 ___
-##### 2025-03-06 17:17:26 UTC ~ orange.ai
+##### 2025-03-06 17:17:26 UTC ~ Orange AI
 > RT @oran_ge: Manus 测试1:列出收盘同花顺的收盘点评作为参考。 1.做出今日榜单总结 2.列出明天板块方向 3.做出短线策略 4.完成一套A股股神秘籍，发到公众号参考。完整报告：https://t.co/efuJyroLL5 https://t…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Manus+%E6%B5%8B%E8%AF%951%3A%E5%88%97%E5%87%BA%E6%94%B6%E7%9B%98%E5%90%8C%E8%8A%B1%E9%A1%BA%E7%9A%84%E6%94%B6%E7%9B%98%E7%82%B9%E8%AF%84%E4%BD%9C%E4%B8%BA%E5%8F%82%E8%80%83%E3%80%82+1.%E5%81%9A%E5%87%BA%E4%BB%8A%E6%97%A5%E6%A6%9C%E5%8D%95%E6%80%BB%E7%BB%93+2.%E5%88%97%E5%87%BA%E6%98%8E%E5%A4%A9%E6%9D%BF%E5%9D%97%E6%96%B9%E5%90%91+3.%E5%81%9A%E5%87%BA%E7%9F%AD%E7%BA%BF%E7%AD%96%E7%95%A5+4.%E5%AE%8C%E6%88%90%E4%B8%80%E5%A5%97A%E8%82%A1%E8%82%A1%E7%A5%9E%E7%A7%98%E7%B1%8D%EF%BC%8C%E5%8F%91%E5%88%B0%E5%85%AC%E4%BC%97%E5%8F%B7%E5%8F%82%E8%80%83%E3%80%82%E5%AE%8C%E6%95%B4%E6%8A%A5%E5%91%8A%EF%BC%9Ahttps%3A%2F%2Ft.co%2FefuJyroLL5+https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [参考](参考.md), [总结](总结.md), [收盘](收盘.md), [策略](策略.md)
 ___
-##### 2025-03-06 17:17:08 UTC ~ orange.ai
+##### 2025-03-06 17:17:08 UTC ~ Orange AI
 > RT @oran_ge: Manus 实测结果出来了！感谢大家下午的积极留言由于每天限量10个任务所以精选了这些主题进行测试由于目前官方的流量压力实在太大了疯狂遇到这个错误：高系统负载导致了内部服务器错误。请稍后重试或创建一个新的会话。 (10091) 获取问题支持…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Manus+%E5%AE%9E%E6%B5%8B%E7%BB%93%E6%9E%9C%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E4%B8%8B%E5%8D%88%E7%9A%84%E7%A7%AF%E6%9E%81%E7%95%99%E8%A8%80%E7%94%B1%E4%BA%8E%E6%AF%8F%E5%A4%A9%E9%99%90%E9%87%8F10%E4%B8%AA%E4%BB%BB%E5%8A%A1%E6%89%80%E4%BB%A5%E7%B2%BE%E9%80%89%E4%BA%86%E8%BF%99%E4%BA%9B%E4%B8%BB%E9%A2%98%E8%BF%9B%E8%A1%8C%E6%B5%8B%E8%AF%95%E7%94%B1%E4%BA%8E%E7%9B%AE%E5%89%8D%E5%AE%98%E6%96%B9%E7%9A%84%E6%B5%81%E9%87%8F%E5%8E%8B%E5%8A%9B%E5%AE%9E%E5%9C%A8%E5%A4%AA%E5%A4%A7%E4%BA%86%E7%96%AF%E7%8B%82%E9%81%87%E5%88%B0%E8%BF%99%E4%B8%AA%E9%94%99%E8%AF%AF%EF%BC%9A%E9%AB%98%E7%B3%BB%E7%BB%9F%E8%B4%9F%E8%BD%BD%E5%AF%BC%E8%87%B4%E4%BA%86%E5%86%85%E9%83%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%94%99%E8%AF%AF%E3%80%82%E8%AF%B7%E7%A8%8D%E5%90%8E%E9%87%8D%E8%AF%95%E6%88%96%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E4%BC%9A%E8%AF%9D%E3%80%82+%2810091%29+%E8%8E%B7%E5%8F%96%E9%97%AE%E9%A2%98%E6%94%AF%E6%8C%81%E2%80%A6)

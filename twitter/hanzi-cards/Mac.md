@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2025-10-21 15:38:53 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 准备入手苹果电脑的朋友，如果之前一直没有体验过 macOS 系统，不知道是否适合自己。可以通过 OSX-PROXMOX 这个开源工具，在自己任意 AMD 或 Intel 电脑上运行 macOS 系统体验一下。只需一行命令就能自动完成所…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%87%86%E5%A4%87%E5%85%A5%E6%89%8B%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%B9%8B%E5%89%8D%E4%B8%80%E7%9B%B4%E6%B2%A1%E6%9C%89%E4%BD%93%E9%AA%8C%E8%BF%87+macOS+%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E5%90%A6%E9%80%82%E5%90%88%E8%87%AA%E5%B7%B1%E3%80%82%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87+OSX-PROXMOX+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%9C%A8%E8%87%AA%E5%B7%B1%E4%BB%BB%E6%84%8F+AMD+%E6%88%96+Intel+%E7%94%B5%E8%84%91%E4%B8%8A%E8%BF%90%E8%A1%8C+macOS+%E7%B3%BB%E7%BB%9F%E4%BD%93%E9%AA%8C%E4%B8%80%E4%B8%8B%E3%80%82%E5%8F%AA%E9%9C%80%E4%B8%80%E8%A1%8C%E5%91%BD%E4%BB%A4%E5%B0%B1%E8%83%BD%E8%87%AA%E5%8A%A8%E5%AE%8C%E6%88%90%E6%89%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [一直](一直.md), [工具](工具.md), [开源](开源.md), [系统](系统.md), [苹果](苹果.md)
+___
 ##### 2025-10-08 09:52:27 UTC ~ GitHubDaily
 > RT @GitHub_Daily: macOS 系统自带的日历查看缺少国内农历、节气、假期等相关信息，而第三方日历软件要么收费要么功能过于复杂。可以看一下，MacCalendar 这款开源的精美日历工具，专为我们这些需要本土化日历功能的用户而设计。它直接集成在菜单栏中，…
 

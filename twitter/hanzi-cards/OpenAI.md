@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2025-10-16 07:32:09 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 富士康科技集团的股价飙升，这是在投资者对AI的热情推动下又一次出现的股价跳涨。此前，该公司董事长表示，他已与ChatGPT开发商OpenAI会面，并计划与芯片巨头英伟达会面。https://t.co/m13iEZQ0Po
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%AF%8C%E5%A3%AB%E5%BA%B7%E7%A7%91%E6%8A%80%E9%9B%86%E5%9B%A2%E7%9A%84%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%EF%BC%8C%E8%BF%99%E6%98%AF%E5%9C%A8%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9AI%E7%9A%84%E7%83%AD%E6%83%85%E6%8E%A8%E5%8A%A8%E4%B8%8B%E5%8F%88%E4%B8%80%E6%AC%A1%E5%87%BA%E7%8E%B0%E7%9A%84%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B6%A8%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%95%BF%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%BB%96%E5%B7%B2%E4%B8%8EChatGPT%E5%BC%80%E5%8F%91%E5%95%86OpenAI%E4%BC%9A%E9%9D%A2%EF%BC%8C%E5%B9%B6%E8%AE%A1%E5%88%92%E4%B8%8E%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BC%9A%E9%9D%A2%E3%80%82https%3A%2F%2Ft.co%2Fm13iEZQ0Po)
+##### Other Words/Names of Interest in the Above Tweet
+[富士康](富士康.md), [巨头](巨头.md), [开发](开发.md), [投资](投资.md), [投资者](投资者.md), [推动](推动.md), [科技](科技.md), [芯片](芯片.md), [英伟达](英伟达.md), [计划](计划.md), [飙升](飙升.md)
+___
+##### 2025-10-15 04:37:59 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 聊天机器人ChatGPT的开发商OpenAI今日宣布，将逐步放宽对ChatGPT的使用限制，其中包括允许经过验证的成年用户接触情色内容。#南洋商报 #ChatGPT #OpenAIhttps://t.co/lRU4l4t4OH https…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAChatGPT%E7%9A%84%E5%BC%80%E5%8F%91%E5%95%86OpenAI%E4%BB%8A%E6%97%A5%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%B0%86%E9%80%90%E6%AD%A5%E6%94%BE%E5%AE%BD%E5%AF%B9ChatGPT%E7%9A%84%E4%BD%BF%E7%94%A8%E9%99%90%E5%88%B6%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%AC%E5%85%81%E8%AE%B8%E7%BB%8F%E8%BF%87%E9%AA%8C%E8%AF%81%E7%9A%84%E6%88%90%E5%B9%B4%E7%94%A8%E6%88%B7%E6%8E%A5%E8%A7%A6%E6%83%85%E8%89%B2%E5%86%85%E5%AE%B9%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23ChatGPT+%23OpenAIhttps%3A%2F%2Ft.co%2FlRU4l4t4OH+https%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[允许](允许.md), [包括](包括.md), [开发](开发.md), [接触](接触.md), [放宽](放宽.md), [机器人](机器人.md), [聊天](聊天.md), [逐步](逐步.md), [限制](限制.md), [验证](验证.md)
+___
+##### 2025-10-14 14:57:11 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 晶片制造商博通和人工智能宠儿OpenAI正式宣布合作。这两家公司在隔夜宣布，将联合构建和部署1万兆瓦的定制人工智能加速器，以扩大人工智能基础设施规模。不过，双方没有披露具体的财务条款。在这个消息传出后，博通股价隔夜就上涨将近10%。 https://…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%99%B6%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E5%8D%9A%E9%80%9A%E5%92%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%AE%A0%E5%84%BFOpenAI%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E5%90%88%E4%BD%9C%E3%80%82%E8%BF%99%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%9C%A8%E9%9A%94%E5%A4%9C%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%B0%86%E8%81%94%E5%90%88%E6%9E%84%E5%BB%BA%E5%92%8C%E9%83%A8%E7%BD%B21%E4%B8%87%E5%85%86%E7%93%A6%E7%9A%84%E5%AE%9A%E5%88%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%A0%E9%80%9F%E5%99%A8%EF%BC%8C%E4%BB%A5%E6%89%A9%E5%A4%A7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E8%A7%84%E6%A8%A1%E3%80%82%E4%B8%8D%E8%BF%87%EF%BC%8C%E5%8F%8C%E6%96%B9%E6%B2%A1%E6%9C%89%E6%8A%AB%E9%9C%B2%E5%85%B7%E4%BD%93%E7%9A%84%E8%B4%A2%E5%8A%A1%E6%9D%A1%E6%AC%BE%E3%80%82%E5%9C%A8%E8%BF%99%E4%B8%AA%E6%B6%88%E6%81%AF%E4%BC%A0%E5%87%BA%E5%90%8E%EF%BC%8C%E5%8D%9A%E9%80%9A%E8%82%A1%E4%BB%B7%E9%9A%94%E5%A4%9C%E5%B0%B1%E4%B8%8A%E6%B6%A8%E5%B0%86%E8%BF%9110%25%E3%80%82+https%3A%2F%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [人工](人工.md), [人工智能](人工智能.md), [兆瓦](兆瓦.md), [加速器](加速器.md), [博通](博通.md), [基础设施](基础设施.md), [扩大](扩大.md), [披露](披露.md), [晶片](晶片.md), [条款](条款.md), [正式](正式.md), [规模](规模.md), [设施](设施.md)
+___
+##### 2025-10-14 01:59:52 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI和博通正在合作，将在未来四年内开发和部署10吉瓦的定制AI芯片和计算系统，这项备受关注的合作旨在满足该初创公司巨大的算力需求。知情人士称，这项新协议的价值将以十亿美元计。https://t.co/ka1WVgtXng
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%92%8C%E5%8D%9A%E9%80%9A%E6%AD%A3%E5%9C%A8%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%9B%9B%E5%B9%B4%E5%86%85%E5%BC%80%E5%8F%91%E5%92%8C%E9%83%A8%E7%BD%B210%E5%90%89%E7%93%A6%E7%9A%84%E5%AE%9A%E5%88%B6AI%E8%8A%AF%E7%89%87%E5%92%8C%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F%EF%BC%8C%E8%BF%99%E9%A1%B9%E5%A4%87%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84%E5%90%88%E4%BD%9C%E6%97%A8%E5%9C%A8%E6%BB%A1%E8%B6%B3%E8%AF%A5%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E5%B7%A8%E5%A4%A7%E7%9A%84%E7%AE%97%E5%8A%9B%E9%9C%80%E6%B1%82%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E8%BF%99%E9%A1%B9%E6%96%B0%E5%8D%8F%E8%AE%AE%E7%9A%84%E4%BB%B7%E5%80%BC%E5%B0%86%E4%BB%A5%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%A1%E3%80%82https%3A%2F%2Ft.co%2Fka1WVgtXng)
+##### Other Words/Names of Interest in the Above Tweet
+[关注](关注.md), [协议](协议.md), [博通](博通.md), [备受](备受.md), [开发](开发.md), [旨在](旨在.md), [知情](知情.md), [知情人士](知情人士.md), [系统](系统.md), [芯片](芯片.md), [需求](需求.md)
+___
 ##### 2025-10-09 07:27:21 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 微软正寻求摆脱对合作伙伴OpenAI的依赖，并为其Copilot聊天机器人建立用户基础。https://t.co/SVsppkGQkJ
 
@@ -266,7 +294,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [分析](分析.md), [图像处理](图像处理.md), [型](型.md), [处理](处理.md), [工具](工具.md), [模型](模型.md)
 ___
-##### 2025-04-17 03:08:17 UTC ~ orange.ai
+##### 2025-04-17 03:08:17 UTC ~ Orange AI
 > RT @oran_ge: 这个测试太惊艳了OpenAI 终于发布 o3 正式版第一次做到视觉理解+视觉思考再次把AI的能力拉到了新高度 https://t.co/A4rhUDf6Zo
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E8%BF%99%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86OpenAI+%E7%BB%88%E4%BA%8E%E5%8F%91%E5%B8%83+o3+%E6%AD%A3%E5%BC%8F%E7%89%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%81%9A%E5%88%B0%E8%A7%86%E8%A7%89%E7%90%86%E8%A7%A3%2B%E8%A7%86%E8%A7%89%E6%80%9D%E8%80%83%E5%86%8D%E6%AC%A1%E6%8A%8AAI%E7%9A%84%E8%83%BD%E5%8A%9B%E6%8B%89%E5%88%B0%E4%BA%86%E6%96%B0%E9%AB%98%E5%BA%A6+https%3A%2F%2Ft.co%2FA4rhUDf6Zo)
@@ -322,14 +350,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [科技](科技.md)
 ___
-##### 2025-03-21 19:41:58 UTC ~ orange.ai
+##### 2025-03-21 19:41:58 UTC ~ Orange AI
 > RT @oran_ge: 就在刚刚，腾讯发布了自家的深度思考模型混元T1正式版。能力对齐 R1 ，使用创新架构，推理速度飞快。模型特点：- 性能强悍，混元 T1 在多项评测指标中都达到 DeepSeek R1 和 OpenAI o1 同样的水平- 使用了 Hybrid…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%B0%B1%E5%9C%A8%E5%88%9A%E5%88%9A%EF%BC%8C%E8%85%BE%E8%AE%AF%E5%8F%91%E5%B8%83%E4%BA%86%E8%87%AA%E5%AE%B6%E7%9A%84%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E6%B7%B7%E5%85%83T1%E6%AD%A3%E5%BC%8F%E7%89%88%E3%80%82%E8%83%BD%E5%8A%9B%E5%AF%B9%E9%BD%90+R1+%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%88%9B%E6%96%B0%E6%9E%B6%E6%9E%84%EF%BC%8C%E6%8E%A8%E7%90%86%E9%80%9F%E5%BA%A6%E9%A3%9E%E5%BF%AB%E3%80%82%E6%A8%A1%E5%9E%8B%E7%89%B9%E7%82%B9%EF%BC%9A-+%E6%80%A7%E8%83%BD%E5%BC%BA%E6%82%8D%EF%BC%8C%E6%B7%B7%E5%85%83+T1+%E5%9C%A8%E5%A4%9A%E9%A1%B9%E8%AF%84%E6%B5%8B%E6%8C%87%E6%A0%87%E4%B8%AD%E9%83%BD%E8%BE%BE%E5%88%B0+DeepSeek+R1+%E5%92%8C+OpenAI+o1+%E5%90%8C%E6%A0%B7%E7%9A%84%E6%B0%B4%E5%B9%B3-+%E4%BD%BF%E7%94%A8%E4%BA%86+Hybrid%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [发布](发布.md), [型](型.md), [推理](推理.md), [模型](模型.md), [正式](正式.md), [水平](水平.md), [腾讯](腾讯.md), [速度](速度.md)
 ___
-##### 2025-03-21 03:01:56 UTC ~ orange.ai
+##### 2025-03-21 03:01:56 UTC ~ Orange AI
 > RT @oran_ge: 昨天一晚上 AI 行业都发生了什么：Claude 官方网站终于支持了联网搜索，全网欢呼Claude Code 支持了输入网址作为编程参考Google AI Studio 的生图功能大幅降低安全性误判，提高可用性OpenAI 发布了替换 Whis…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E6%98%A8%E5%A4%A9%E4%B8%80%E6%99%9A%E4%B8%8A+AI+%E8%A1%8C%E4%B8%9A%E9%83%BD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9AClaude+%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%99%E7%BB%88%E4%BA%8E%E6%94%AF%E6%8C%81%E4%BA%86%E8%81%94%E7%BD%91%E6%90%9C%E7%B4%A2%EF%BC%8C%E5%85%A8%E7%BD%91%E6%AC%A2%E5%91%BCClaude+Code+%E6%94%AF%E6%8C%81%E4%BA%86%E8%BE%93%E5%85%A5%E7%BD%91%E5%9D%80%E4%BD%9C%E4%B8%BA%E7%BC%96%E7%A8%8B%E5%8F%82%E8%80%83Google+AI+Studio+%E7%9A%84%E7%94%9F%E5%9B%BE%E5%8A%9F%E8%83%BD%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BD%8E%E5%AE%89%E5%85%A8%E6%80%A7%E8%AF%AF%E5%88%A4%EF%BC%8C%E6%8F%90%E9%AB%98%E5%8F%AF%E7%94%A8%E6%80%A7OpenAI+%E5%8F%91%E5%B8%83%E4%BA%86%E6%9B%BF%E6%8D%A2+Whis%E2%80%A6)
@@ -357,7 +385,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [挑战](挑战.md), [模型](模型.md), [阿里巴巴](阿里巴巴.md)
 ___
-##### 2025-03-12 15:26:17 UTC ~ orange.ai
+##### 2025-03-12 15:26:17 UTC ~ Orange AI
 > RT @oran_ge: OpenAI 昨晚直播，推出了一套构建 Agent 的新工具。- 全新的 Responses API，支持网络搜索、文件搜索、计算机使用。- 全新的 Agents SDK，用于编排单agent或多agent工作流。这次发布代表里 OpenAI…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+OpenAI+%E6%98%A8%E6%99%9A%E7%9B%B4%E6%92%AD%EF%BC%8C%E6%8E%A8%E5%87%BA%E4%BA%86%E4%B8%80%E5%A5%97%E6%9E%84%E5%BB%BA+Agent+%E7%9A%84%E6%96%B0%E5%B7%A5%E5%85%B7%E3%80%82-+%E5%85%A8%E6%96%B0%E7%9A%84+Responses+API%EF%BC%8C%E6%94%AF%E6%8C%81%E7%BD%91%E7%BB%9C%E6%90%9C%E7%B4%A2%E3%80%81%E6%96%87%E4%BB%B6%E6%90%9C%E7%B4%A2%E3%80%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BD%BF%E7%94%A8%E3%80%82-+%E5%85%A8%E6%96%B0%E7%9A%84+Agents+SDK%EF%BC%8C%E7%94%A8%E4%BA%8E%E7%BC%96%E6%8E%92%E5%8D%95agent%E6%88%96%E5%A4%9Aagent%E5%B7%A5%E4%BD%9C%E6%B5%81%E3%80%82%E8%BF%99%E6%AC%A1%E5%8F%91%E5%B8%83%E4%BB%A3%E8%A1%A8%E9%87%8C+OpenAI%E2%80%A6)
