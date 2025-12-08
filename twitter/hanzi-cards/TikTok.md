@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2025-12-04 10:32:28 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国字节跳动公司旗下TikTok将在巴西投资逾2000亿雷亚尔（近489亿新元）建设数据中心，这将成为该公司在拉丁美洲的首个项目。 https://t.co/F1TwYg6V2C
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%85%AC%E5%8F%B8%E6%97%97%E4%B8%8BTikTok%E5%B0%86%E5%9C%A8%E5%B7%B4%E8%A5%BF%E6%8A%95%E8%B5%84%E9%80%BE2000%E4%BA%BF%E9%9B%B7%E4%BA%9A%E5%B0%94%EF%BC%88%E8%BF%91489%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%E5%BB%BA%E8%AE%BE%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E8%BF%99%E5%B0%86%E6%88%90%E4%B8%BA%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E6%8B%89%E4%B8%81%E7%BE%8E%E6%B4%B2%E7%9A%84%E9%A6%96%E4%B8%AA%E9%A1%B9%E7%9B%AE%E3%80%82+https%3A%2F%2Ft.co%2FF1TwYg6V2C)
+##### Other Words/Names of Interest in the Above Tweet
+[字节跳动](字节跳动.md), [巴西](巴西.md), [建设](建设.md), [投资](投资.md), [数据](数据.md), [逾](逾.md), [项目](项目.md)
+___
 ##### 2025-10-07 08:39:50 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 印尼恢复TikTok的注册许可，有官员表示，这家社交媒体平台已遵守了数据披露规定。https://t.co/zh2f3m7ddu
 
@@ -2100,13 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%9010%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8BChatGPT%E9%97%AE%E4%B8%96%E8%BF%99%E5%8D%8A%E5%B9%B4%E3%80%91ChatGPT%E5%8F%91%E5%B8%83%E5%90%8E%E7%9A%842%E4%B8%AA%E6%9C%88%E5%86%85%EF%BC%8C%E5%9C%A8%E5%85%A8%E7%90%83%E7%9A%84%E6%9C%88%E5%9D%87%E7%94%A8%E6%88%B7%E6%95%B0%E5%B0%B1%E8%BE%BE%E5%88%B01%E4%BA%BF%E4%BA%BA%EF%BC%8C%E8%BF%87%E5%8E%BBTikTok%E5%92%8CInstagram%E5%88%86%E5%88%AB%E7%94%A8%E4%BA%869%E4%B8%AA%E6%9C%88%E5%92%8C28%E4%B8%AA%E6%9C%88%E6%89%8D%E8%8E%B7%E5%BE%971%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82ChatGPT%E5%8F%AF%E8%83%BD%E5%B0%86%E5%85%A8%E7%90%83%E7%9A%84GDP%E6%8E%A8%E9%AB%987%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%A6%E2%80%A6http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [推高](推高.md), [获得](获得.md)
-___
-##### 2023-05-26 05:02:35 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: TikTok正在测试一个由生成式AI驱动的聊天机器人，旨在帮助用户寻找内容并获得更多的内容推荐。该公司周四表示，已经在菲律宾测试该功能，其聊天机器人被称为Tako。 https://t.co/Jb6Y07tWRC
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%AA%E7%94%B1%E7%94%9F%E6%88%90%E5%BC%8FAI%E9%A9%B1%E5%8A%A8%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E6%97%A8%E5%9C%A8%E5%B8%AE%E5%8A%A9%E7%94%A8%E6%88%B7%E5%AF%BB%E6%89%BE%E5%86%85%E5%AE%B9%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%9B%B4%E5%A4%9A%E7%9A%84%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%91%A8%E5%9B%9B%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%8B%E8%AF%95%E8%AF%A5%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%85%B6%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E7%A7%B0%E4%B8%BATako%E3%80%82+https%3A%2F%2Ft.co%2FJb6Y07tWRC)
-##### Other Words/Names of Interest in the Above Tweet
-[推荐](推荐.md), [旨在](旨在.md), [机器人](机器人.md), [聊天](聊天.md), [获得](获得.md), [菲律宾](菲律宾.md)
 ____
 
 [Next Page](TikTok-01.md)

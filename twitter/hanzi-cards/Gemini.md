@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2025-11-21 07:10:21 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 谷歌发布了Nano Banana Pro，这是其基于Gemini 3 Pro打造的人工智能图像编辑和生成平台的更新版本。https://t.co/NzSlCjwAEW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E4%BA%86Nano+Banana+Pro%EF%BC%8C%E8%BF%99%E6%98%AF%E5%85%B6%E5%9F%BA%E4%BA%8EGemini+3+Pro%E6%89%93%E9%80%A0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9B%BE%E5%83%8F%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%9F%E6%88%90%E5%B9%B3%E5%8F%B0%E7%9A%84%E6%9B%B4%E6%96%B0%E7%89%88%E6%9C%AC%E3%80%82https%3A%2F%2Ft.co%2FNzSlCjwAEW)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [平台](平台.md), [打造](打造.md), [谷歌](谷歌.md)
+___
 ##### 2025-08-27 15:19:23 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司在AI领域的迟缓进展引发投资者担忧。尽管传出其可能与谷歌Gemini合作增强Siri的消息被市场视为积极信号，但MarketWatch采访的分析师警告称，这可能削弱苹果品牌的隐私优势，甚至加速其在AI竞赛中的落后。 https://t.c…
 

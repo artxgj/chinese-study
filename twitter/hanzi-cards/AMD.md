@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2025-12-06 06:28:32 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国超微半导体（AMD）已获得向中国出口部分MI308晶片的许可，并准备好在出口后向美国政府缴纳销售所得营收的15%。 https://t.co/MLCss60kDD
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AE%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%E5%B7%B2%E8%8E%B7%E5%BE%97%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E9%83%A8%E5%88%86MI308%E6%99%B6%E7%89%87%E7%9A%84%E8%AE%B8%E5%8F%AF%EF%BC%8C%E5%B9%B6%E5%87%86%E5%A4%87%E5%A5%BD%E5%9C%A8%E5%87%BA%E5%8F%A3%E5%90%8E%E5%90%91%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%BC%B4%E7%BA%B3%E9%94%80%E5%94%AE%E6%89%80%E5%BE%97%E8%90%A5%E6%94%B6%E7%9A%8415%25%E3%80%82+https%3A%2F%2Ft.co%2FMLCss60kDD)
+##### Other Words/Names of Interest in the Above Tweet
+[半导体](半导体.md), [晶片](晶片.md), [美国](美国.md), [获得](获得.md), [营收](营收.md), [超微](超微.md), [销售](销售.md)
+___
+##### 2025-12-05 05:31:44 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国跨党派参议员包括共和党对华鹰派科顿，星期四（12月4日）联手推出一项法案，阻止特朗普政府在未来两年半内放松对中国获取英伟达和超微半导体（AMD）人工智能（AI）晶片的限制。 https://t.co/PWTt8jWkPz
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E8%B7%A8%E5%85%9A%E6%B4%BE%E5%8F%82%E8%AE%AE%E5%91%98%E5%8C%85%E6%8B%AC%E5%85%B1%E5%92%8C%E5%85%9A%E5%AF%B9%E5%8D%8E%E9%B9%B0%E6%B4%BE%E7%A7%91%E9%A1%BF%EF%BC%8C%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%8812%E6%9C%884%E6%97%A5%EF%BC%89%E8%81%94%E6%89%8B%E6%8E%A8%E5%87%BA%E4%B8%80%E9%A1%B9%E6%B3%95%E6%A1%88%EF%BC%8C%E9%98%BB%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%9C%A8%E6%9C%AA%E6%9D%A5%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%86%85%E6%94%BE%E6%9D%BE%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%8E%B7%E5%8F%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8C%E8%B6%85%E5%BE%AE%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%99%B6%E7%89%87%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82+https%3A%2F%2Ft.co%2FPWTt8jWkPz)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [包括](包括.md), [半导体](半导体.md), [推出](推出.md), [晶片](晶片.md), [法案](法案.md), [特朗普](特朗普.md), [美国](美国.md), [英伟达](英伟达.md), [超微](超微.md), [阻止](阻止.md), [限制](限制.md)
+___
+##### 2025-11-26 03:56:47 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Alphabet向4万亿美元市值迈进，英伟达、AMD等AI相关股票大跌。分析师指出，谷歌进军英伟达的领地“触动了一种已经存在的恐惧”。投资者将资金投入到几乎所有其他领域，道指上涨664点，创下8月以来的最佳单日表现。https://t.co/A2…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Alphabet%E5%90%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E8%BF%88%E8%BF%9B%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81AMD%E7%AD%89AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E5%A4%A7%E8%B7%8C%E3%80%82%E5%88%86%E6%9E%90%E5%B8%88%E6%8C%87%E5%87%BA%EF%BC%8C%E8%B0%B7%E6%AD%8C%E8%BF%9B%E5%86%9B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A2%86%E5%9C%B0%E2%80%9C%E8%A7%A6%E5%8A%A8%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8%E7%9A%84%E6%81%90%E6%83%A7%E2%80%9D%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E8%B5%84%E9%87%91%E6%8A%95%E5%85%A5%E5%88%B0%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%85%B6%E4%BB%96%E9%A2%86%E5%9F%9F%EF%BC%8C%E9%81%93%E6%8C%87%E4%B8%8A%E6%B6%A8664%E7%82%B9%EF%BC%8C%E5%88%9B%E4%B8%8B8%E6%9C%88%E4%BB%A5%E6%9D%A5%E7%9A%84%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0%E3%80%82https%3A%2F%2Ft.co%2FA2%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [投资者](投资者.md), [指出](指出.md), [最佳](最佳.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [进军](进军.md), [领域](领域.md)
+___
+##### 2025-11-21 16:45:49 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苏姿丰带领AMD向AI转向的决定让该公司的规模在三年间几乎扩大到原来的四倍。如今，AMD将推出最新一代AI芯片MI450，目标是与终极巨头英伟达展开较量。https://t.co/AV6hJcO0X1
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%8F%E5%A7%BF%E4%B8%B0%E5%B8%A6%E9%A2%86AMD%E5%90%91AI%E8%BD%AC%E5%90%91%E7%9A%84%E5%86%B3%E5%AE%9A%E8%AE%A9%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E8%A7%84%E6%A8%A1%E5%9C%A8%E4%B8%89%E5%B9%B4%E9%97%B4%E5%87%A0%E4%B9%8E%E6%89%A9%E5%A4%A7%E5%88%B0%E5%8E%9F%E6%9D%A5%E7%9A%84%E5%9B%9B%E5%80%8D%E3%80%82%E5%A6%82%E4%BB%8A%EF%BC%8CAMD%E5%B0%86%E6%8E%A8%E5%87%BA%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3AI%E8%8A%AF%E7%89%87MI450%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E4%B8%8E%E7%BB%88%E6%9E%81%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B1%95%E5%BC%80%E8%BE%83%E9%87%8F%E3%80%82https%3A%2F%2Ft.co%2FAV6hJcO0X1)
+##### Other Words/Names of Interest in the Above Tweet
+[如今](如今.md), [巨头](巨头.md), [扩大](扩大.md), [推出](推出.md), [芯片](芯片.md), [苏姿丰](苏姿丰.md), [英伟达](英伟达.md), [规模](规模.md)
+___
 ##### 2025-10-21 15:38:53 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 准备入手苹果电脑的朋友，如果之前一直没有体验过 macOS 系统，不知道是否适合自己。可以通过 OSX-PROXMOX 这个开源工具，在自己任意 AMD 或 Intel 电脑上运行 macOS 系统体验一下。只需一行命令就能自动完成所…
 

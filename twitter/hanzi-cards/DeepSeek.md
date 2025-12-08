@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-12-03 05:36:38 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 我在计划东北秋季一周游时用了DeepSeek。按照要求优化行程后，它给出这个结语： 您将在沈阳触摸王朝崛起的龙纹砖，在长春聆听殖民铁轨的哀鸣，六日遍历东北400年风云。听起来挺令人期待的，对不？https://t.co/VHGYL0LPVH…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%88%91%E5%9C%A8%E8%AE%A1%E5%88%92%E4%B8%9C%E5%8C%97%E7%A7%8B%E5%AD%A3%E4%B8%80%E5%91%A8%E6%B8%B8%E6%97%B6%E7%94%A8%E4%BA%86DeepSeek%E3%80%82%E6%8C%89%E7%85%A7%E8%A6%81%E6%B1%82%E4%BC%98%E5%8C%96%E8%A1%8C%E7%A8%8B%E5%90%8E%EF%BC%8C%E5%AE%83%E7%BB%99%E5%87%BA%E8%BF%99%E4%B8%AA%E7%BB%93%E8%AF%AD%EF%BC%9A+%E6%82%A8%E5%B0%86%E5%9C%A8%E6%B2%88%E9%98%B3%E8%A7%A6%E6%91%B8%E7%8E%8B%E6%9C%9D%E5%B4%9B%E8%B5%B7%E7%9A%84%E9%BE%99%E7%BA%B9%E7%A0%96%EF%BC%8C%E5%9C%A8%E9%95%BF%E6%98%A5%E8%81%86%E5%90%AC%E6%AE%96%E6%B0%91%E9%93%81%E8%BD%A8%E7%9A%84%E5%93%80%E9%B8%A3%EF%BC%8C%E5%85%AD%E6%97%A5%E9%81%8D%E5%8E%86%E4%B8%9C%E5%8C%97400%E5%B9%B4%E9%A3%8E%E4%BA%91%E3%80%82%E5%90%AC%E8%B5%B7%E6%9D%A5%E6%8C%BA%E4%BB%A4%E4%BA%BA%E6%9C%9F%E5%BE%85%E7%9A%84%EF%BC%8C%E5%AF%B9%E4%B8%8D%EF%BC%9Fhttps%3A%2F%2Ft.co%2FVHGYL0LPVH%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[优化](优化.md), [崛起](崛起.md), [按照](按照.md), [殖民](殖民.md), [计划](计划.md)
+___
 ##### 2025-10-25 04:21:40 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 有位开发者，基于 DeepSeek-OCR 模型实现了一个简单实用的 OCR 前端应用：deepSeek_ocr_app，项目已开源。提供简洁直观的操作界面，只需要拖拽上传图片，即可开始处理，最大支持 100MB 文件。支持四种核心…
 
@@ -835,7 +842,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [分析](分析.md), [工具](工具.md), [提高](提高.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [数据](数据.md), [方案](方案.md), [替代](替代.md), [用于](用于.md), [系统](系统.md), [进行](进行.md)
 ___
-##### 2025-03-15 05:23:37 UTC ~ 吕立青_JimmyLv (🐣, 🐣) 2𐃏25 | building bibigpt.co
+##### 2025-03-15 05:23:37 UTC ~ 吕立青_JimmyLv (闭关ing) 2𐃏25
 > RT @Jimmy_JingLv: 推荐张小珺采访Manus创始人肖弘的播客“昨天问DeepSeek翻译一下贪嗔痴这三个词，他好会解释，贪就是对顺境的执着，嗔就是对逆境的不满，痴是对世界真相的无知。世界真相这个很高端了，我就不谈。但是贪和嗔，这是大家很多时候遇到的问题，是对…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jimmy_JingLv%3A+%E6%8E%A8%E8%8D%90%E5%BC%A0%E5%B0%8F%E7%8F%BA%E9%87%87%E8%AE%BFManus%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%82%96%E5%BC%98%E7%9A%84%E6%92%AD%E5%AE%A2%E2%80%9C%E6%98%A8%E5%A4%A9%E9%97%AEDeepSeek%E7%BF%BB%E8%AF%91%E4%B8%80%E4%B8%8B%E8%B4%AA%E5%97%94%E7%97%B4%E8%BF%99%E4%B8%89%E4%B8%AA%E8%AF%8D%EF%BC%8C%E4%BB%96%E5%A5%BD%E4%BC%9A%E8%A7%A3%E9%87%8A%EF%BC%8C%E8%B4%AA%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%A1%BA%E5%A2%83%E7%9A%84%E6%89%A7%E7%9D%80%EF%BC%8C%E5%97%94%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%80%86%E5%A2%83%E7%9A%84%E4%B8%8D%E6%BB%A1%EF%BC%8C%E7%97%B4%E6%98%AF%E5%AF%B9%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9B%B8%E7%9A%84%E6%97%A0%E7%9F%A5%E3%80%82%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9B%B8%E8%BF%99%E4%B8%AA%E5%BE%88%E9%AB%98%E7%AB%AF%E4%BA%86%EF%BC%8C%E6%88%91%E5%B0%B1%E4%B8%8D%E8%B0%88%E3%80%82%E4%BD%86%E6%98%AF%E8%B4%AA%E5%92%8C%E5%97%94%EF%BC%8C%E8%BF%99%E6%98%AF%E5%A4%A7%E5%AE%B6%E5%BE%88%E5%A4%9A%E6%97%B6%E5%80%99%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%AF%E5%AF%B9%E2%80%A6)
@@ -2086,13 +2093,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8D%AE%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E5%93%81%E6%A6%9C%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%8CDeepSeek%E5%BA%94%E7%94%A8%E5%9C%A8%E4%B8%8A%E7%BA%BF%E4%BB%8520%E5%A4%A9%E5%90%8E%EF%BC%8C%E5%85%B6%E6%97%A5%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E6%95%B0%EF%BC%88DAU%EF%BC%89%E8%BF%85%E9%80%9F%E7%AA%81%E7%A0%B42000%E4%B8%87%E5%A4%A7%E5%85%B3%EF%BC%8C%E8%BE%BE2215%E4%B8%87%EF%BC%8C%E5%B7%B2%E6%98%AFOpen+AI+ChatGPT%E7%9A%8440%25%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23AI+%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+%23alibaba%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [数据](数据.md), [活跃](活跃.md), [突破](突破.md), [统计](统计.md), [迅速](迅速.md), [阿里巴巴](阿里巴巴.md)
-___
-##### 2025-02-08 05:57:44 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 庄慧良：DeepSeek的出现犹如在AI界投下一颗原子弹。相关专家直言，DeepSeek对台湾的冲击是“短空长多”，过去依赖半导体高成长的高获利去年已告终结，未来AI发展趋势将是“吃软（体）不吃硬（体）”。https://t.co/jGwFRl3jj…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%BA%84%E6%85%A7%E8%89%AF%EF%BC%9ADeepSeek%E7%9A%84%E5%87%BA%E7%8E%B0%E7%8A%B9%E5%A6%82%E5%9C%A8AI%E7%95%8C%E6%8A%95%E4%B8%8B%E4%B8%80%E9%A2%97%E5%8E%9F%E5%AD%90%E5%BC%B9%E3%80%82%E7%9B%B8%E5%85%B3%E4%B8%93%E5%AE%B6%E7%9B%B4%E8%A8%80%EF%BC%8CDeepSeek%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%86%B2%E5%87%BB%E6%98%AF%E2%80%9C%E7%9F%AD%E7%A9%BA%E9%95%BF%E5%A4%9A%E2%80%9D%EF%BC%8C%E8%BF%87%E5%8E%BB%E4%BE%9D%E8%B5%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%AB%98%E6%88%90%E9%95%BF%E7%9A%84%E9%AB%98%E8%8E%B7%E5%88%A9%E5%8E%BB%E5%B9%B4%E5%B7%B2%E5%91%8A%E7%BB%88%E7%BB%93%EF%BC%8C%E6%9C%AA%E6%9D%A5AI%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%B0%86%E6%98%AF%E2%80%9C%E5%90%83%E8%BD%AF%EF%BC%88%E4%BD%93%EF%BC%89%E4%B8%8D%E5%90%83%E7%A1%AC%EF%BC%88%E4%BD%93%EF%BC%89%E2%80%9D%E3%80%82https%3A%2F%2Ft.co%2FjGwFRl3jj%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[依赖](依赖.md), [冲击](冲击.md), [半导体](半导体.md), [原子](原子.md), [台湾](台湾.md), [相关](相关.md), [趋势](趋势.md)
 ____
 
 [Next Page](DeepSeek-01.md)

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2025-11-27 03:12:37 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【AI半導體英偉達一強格局或生變，谷歌TPU崛起】英偉達在2024年面向數據中心的AI半導體市場上掌握約8成份額。但據悉Meta正在考慮採用谷歌的高性能AI半導體TPU。越來越多觀點認為，即使不依賴英偉達昂貴的GPU，也可以開發高性能AI…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%8B%B1%E5%81%89%E9%81%94%E4%B8%80%E5%BC%B7%E6%A0%BC%E5%B1%80%E6%88%96%E7%94%9F%E8%AE%8A%EF%BC%8C%E8%B0%B7%E6%AD%8CTPU%E5%B4%9B%E8%B5%B7%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E5%9C%A82024%E5%B9%B4%E9%9D%A2%E5%90%91%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E7%9A%84AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B8%82%E5%A0%B4%E4%B8%8A%E6%8E%8C%E6%8F%A1%E7%B4%848%E6%88%90%E4%BB%BD%E9%A1%8D%E3%80%82%E4%BD%86%E6%93%9A%E6%82%89Meta%E6%AD%A3%E5%9C%A8%E8%80%83%E6%85%AE%E6%8E%A1%E7%94%A8%E8%B0%B7%E6%AD%8C%E7%9A%84%E9%AB%98%E6%80%A7%E8%83%BDAI%E5%8D%8A%E5%B0%8E%E9%AB%94TPU%E3%80%82%E8%B6%8A%E4%BE%86%E8%B6%8A%E5%A4%9A%E8%A7%80%E9%BB%9E%E8%AA%8D%E7%82%BA%EF%BC%8C%E5%8D%B3%E4%BD%BF%E4%B8%8D%E4%BE%9D%E8%B3%B4%E8%8B%B1%E5%81%89%E9%81%94%E6%98%82%E8%B2%B4%E7%9A%84GPU%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E9%96%8B%E7%99%BC%E9%AB%98%E6%80%A7%E8%83%BDAI%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [崛起](崛起.md), [數據](數據.md), [格局](格局.md), [英偉達](英偉達.md), [谷歌](谷歌.md), [開發](開發.md)
+___
 ##### 2025-10-31 08:25:31 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国晶片巨头英伟达（Nvidia）将为韩国政府和四家韩国企业供应26万块图形处理器（GPU），总价值高达14万亿韩元（约128亿新元）。 https://t.co/YoIS0xY6Z0
 

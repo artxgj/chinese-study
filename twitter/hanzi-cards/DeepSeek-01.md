@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-08 05:57:44 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 庄慧良：DeepSeek的出现犹如在AI界投下一颗原子弹。相关专家直言，DeepSeek对台湾的冲击是“短空长多”，过去依赖半导体高成长的高获利去年已告终结，未来AI发展趋势将是“吃软（体）不吃硬（体）”。https://t.co/jGwFRl3jj…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%BA%84%E6%85%A7%E8%89%AF%EF%BC%9ADeepSeek%E7%9A%84%E5%87%BA%E7%8E%B0%E7%8A%B9%E5%A6%82%E5%9C%A8AI%E7%95%8C%E6%8A%95%E4%B8%8B%E4%B8%80%E9%A2%97%E5%8E%9F%E5%AD%90%E5%BC%B9%E3%80%82%E7%9B%B8%E5%85%B3%E4%B8%93%E5%AE%B6%E7%9B%B4%E8%A8%80%EF%BC%8CDeepSeek%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%86%B2%E5%87%BB%E6%98%AF%E2%80%9C%E7%9F%AD%E7%A9%BA%E9%95%BF%E5%A4%9A%E2%80%9D%EF%BC%8C%E8%BF%87%E5%8E%BB%E4%BE%9D%E8%B5%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%AB%98%E6%88%90%E9%95%BF%E7%9A%84%E9%AB%98%E8%8E%B7%E5%88%A9%E5%8E%BB%E5%B9%B4%E5%B7%B2%E5%91%8A%E7%BB%88%E7%BB%93%EF%BC%8C%E6%9C%AA%E6%9D%A5AI%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E5%B0%86%E6%98%AF%E2%80%9C%E5%90%83%E8%BD%AF%EF%BC%88%E4%BD%93%EF%BC%89%E4%B8%8D%E5%90%83%E7%A1%AC%EF%BC%88%E4%BD%93%EF%BC%89%E2%80%9D%E3%80%82https%3A%2F%2Ft.co%2FjGwFRl3jj%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[依赖](依赖.md), [冲击](冲击.md), [半导体](半导体.md), [原子](原子.md), [台湾](台湾.md), [相关](相关.md), [趋势](趋势.md)
+___
 ##### 2025-02-08 04:32:44 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 深度求索（DeepSeek）创始人梁文锋的成长背景在中国掀起一场有关“小镇做题家”和应试教育的讨论。有文章感谢“小镇做题家”的死磕，并称“小镇做题家”是国家的财富。 https://t.co/1QQfWSfcus
 

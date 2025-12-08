@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-05-26 05:02:35 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: TikTok正在测试一个由生成式AI驱动的聊天机器人，旨在帮助用户寻找内容并获得更多的内容推荐。该公司周四表示，已经在菲律宾测试该功能，其聊天机器人被称为Tako。 https://t.co/Jb6Y07tWRC
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%AA%E7%94%B1%E7%94%9F%E6%88%90%E5%BC%8FAI%E9%A9%B1%E5%8A%A8%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%EF%BC%8C%E6%97%A8%E5%9C%A8%E5%B8%AE%E5%8A%A9%E7%94%A8%E6%88%B7%E5%AF%BB%E6%89%BE%E5%86%85%E5%AE%B9%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%9B%B4%E5%A4%9A%E7%9A%84%E5%86%85%E5%AE%B9%E6%8E%A8%E8%8D%90%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%91%A8%E5%9B%9B%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%8B%E8%AF%95%E8%AF%A5%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%85%B6%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E7%A7%B0%E4%B8%BATako%E3%80%82+https%3A%2F%2Ft.co%2FJb6Y07tWRC)
+##### Other Words/Names of Interest in the Above Tweet
+[推荐](推荐.md), [旨在](旨在.md), [机器人](机器人.md), [聊天](聊天.md), [获得](获得.md), [菲律宾](菲律宾.md)
+___
 ##### 2023-05-24 05:48:58 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国短视频平台抖音的海外版TikTok总裁周受资说，TikTok有信心阻止美国蒙大拿州的禁令。https://t.co/99ShoZ7aCx
 

@@ -35,7 +35,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [推出](推出.md), [模型](模型.md), [焦点](焦点.md), [迅速](迅速.md)
 ___
-##### 2025-04-10 16:53:27 UTC ~ indigo
+##### 2025-04-10 16:53:27 UTC ~ 
 > RT @indigo11: 昨天分享的 Anthropic 工程师 Barry Zhang 的观点：Don't build agents for everything！今天 Google 正式公布了 Agentspace，为他的 Cloud 用户提供统一的 Agent 指挥中心…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indigo11%3A+%E6%98%A8%E5%A4%A9%E5%88%86%E4%BA%AB%E7%9A%84+Anthropic+%E5%B7%A5%E7%A8%8B%E5%B8%88+Barry+Zhang+%E7%9A%84%E8%A7%82%E7%82%B9%EF%BC%9ADon%27t+build+agents+for+everything%EF%BC%81%E4%BB%8A%E5%A4%A9+Google+%E6%AD%A3%E5%BC%8F%E5%85%AC%E5%B8%83%E4%BA%86+Agentspace%EF%BC%8C%E4%B8%BA%E4%BB%96%E7%9A%84+Cloud+%E7%94%A8%E6%88%B7%E6%8F%90%E4%BE%9B%E7%BB%9F%E4%B8%80%E7%9A%84+Agent+%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83%E2%80%A6)
@@ -49,7 +49,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [推出](推出.md), [模型](模型.md), [补充](补充.md), [限制](限制.md)
 ___
-##### 2025-04-08 15:59:49 UTC ~ indigo
+##### 2025-04-08 15:59:49 UTC ~ 
 > RT @indigo11: Anthropic 工程师 Barry Zhang 在 AI Engineer 工作坊上的一个分享 “如何构建有效的 Agent”，其中印象最深的一个观点：Don't build agents for everything，反过来理解就是别做什么都能…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indigo11%3A+Anthropic+%E5%B7%A5%E7%A8%8B%E5%B8%88+Barry+Zhang+%E5%9C%A8+AI+Engineer+%E5%B7%A5%E4%BD%9C%E5%9D%8A%E4%B8%8A%E7%9A%84%E4%B8%80%E4%B8%AA%E5%88%86%E4%BA%AB+%E2%80%9C%E5%A6%82%E4%BD%95%E6%9E%84%E5%BB%BA%E6%9C%89%E6%95%88%E7%9A%84+Agent%E2%80%9D%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8D%B0%E8%B1%A1%E6%9C%80%E6%B7%B1%E7%9A%84%E4%B8%80%E4%B8%AA%E8%A7%82%E7%82%B9%EF%BC%9ADon%27t+build+agents+for+everything%EF%BC%8C%E5%8F%8D%E8%BF%87%E6%9D%A5%E7%90%86%E8%A7%A3%E5%B0%B1%E6%98%AF%E5%88%AB%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E2%80%A6)

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Linux) for definition
 ### Tweets containing Linux
 
 ___
+##### 2025-11-28 11:40:25 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 使用 Linux 系统，有些界面过于复杂臃肿，有些又过于简陋缺少功能，想找个既美观又实用的桌面环境颇为困难。刚好看到 Budgie Desktop 这个开源桌面环境项目，提供简洁高颜值的界面设计，同时保持功能的完整性。基于成熟的 GN…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%BD%BF%E7%94%A8+Linux+%E7%B3%BB%E7%BB%9F%EF%BC%8C%E6%9C%89%E4%BA%9B%E7%95%8C%E9%9D%A2%E8%BF%87%E4%BA%8E%E5%A4%8D%E6%9D%82%E8%87%83%E8%82%BF%EF%BC%8C%E6%9C%89%E4%BA%9B%E5%8F%88%E8%BF%87%E4%BA%8E%E7%AE%80%E9%99%8B%E7%BC%BA%E5%B0%91%E5%8A%9F%E8%83%BD%EF%BC%8C%E6%83%B3%E6%89%BE%E4%B8%AA%E6%97%A2%E7%BE%8E%E8%A7%82%E5%8F%88%E5%AE%9E%E7%94%A8%E7%9A%84%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83%E9%A2%87%E4%B8%BA%E5%9B%B0%E9%9A%BE%E3%80%82%E5%88%9A%E5%A5%BD%E7%9C%8B%E5%88%B0+Budgie+Desktop+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E6%A1%8C%E9%9D%A2%E7%8E%AF%E5%A2%83%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%8F%90%E4%BE%9B%E7%AE%80%E6%B4%81%E9%AB%98%E9%A2%9C%E5%80%BC%E7%9A%84%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1%EF%BC%8C%E5%90%8C%E6%97%B6%E4%BF%9D%E6%8C%81%E5%8A%9F%E8%83%BD%E7%9A%84%E5%AE%8C%E6%95%B4%E6%80%A7%E3%80%82%E5%9F%BA%E4%BA%8E%E6%88%90%E7%86%9F%E7%9A%84+GN%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开源](开源.md), [成熟](成熟.md), [提供](提供.md), [系统](系统.md), [设计](设计.md), [项目](项目.md)
+___
 ##### 2025-10-26 02:05:46 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 有时候需要在 Linux 桌面系统上截图，内置的工具过于简单，不可以添加箭头、文字说明等信息标注，无法满足需求。近日，在 GitHub 上发现了 Satty 这款开源的截图标注工具，专为 Linux 系统打造，功能丰富而且操作流畅。… h…
 
