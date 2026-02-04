@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2026-01-22 16:38:24 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Siri目前缺乏聊天式体验，也不具备像OpenAI的ChatGPT或谷歌的Gemini那样的AI对话能力。#南洋商报 #apple #Siri #AI https://t.co/CloIOJddm3 https://t.co/inaOFC…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Siri%E7%9B%AE%E5%89%8D%E7%BC%BA%E4%B9%8F%E8%81%8A%E5%A4%A9%E5%BC%8F%E4%BD%93%E9%AA%8C%EF%BC%8C%E4%B9%9F%E4%B8%8D%E5%85%B7%E5%A4%87%E5%83%8FOpenAI%E7%9A%84ChatGPT%E6%88%96%E8%B0%B7%E6%AD%8C%E7%9A%84Gemini%E9%82%A3%E6%A0%B7%E7%9A%84AI%E5%AF%B9%E8%AF%9D%E8%83%BD%E5%8A%9B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23apple+%23Siri+%23AI+https%3A%2F%2Ft.co%2FCloIOJddm3+https%3A%2F%2Ft.co%2FinaOFC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [聊天](聊天.md), [谷歌](谷歌.md)
+___
+##### 2026-01-22 06:28:42 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 把谷歌的Gemini用在杂乱的邮箱里，可能会有惊喜效果，但别指望它能神奇地解决你的邮件“灾区”。https://t.co/zHMZTV8DBF
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8A%8A%E8%B0%B7%E6%AD%8C%E7%9A%84Gemini%E7%94%A8%E5%9C%A8%E6%9D%82%E4%B9%B1%E7%9A%84%E9%82%AE%E7%AE%B1%E9%87%8C%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%9C%89%E6%83%8A%E5%96%9C%E6%95%88%E6%9E%9C%EF%BC%8C%E4%BD%86%E5%88%AB%E6%8C%87%E6%9C%9B%E5%AE%83%E8%83%BD%E7%A5%9E%E5%A5%87%E5%9C%B0%E8%A7%A3%E5%86%B3%E4%BD%A0%E7%9A%84%E9%82%AE%E4%BB%B6%E2%80%9C%E7%81%BE%E5%8C%BA%E2%80%9D%E3%80%82https%3A%2F%2Ft.co%2FzHMZTV8DBF)
+##### Other Words/Names of Interest in the Above Tweet
+[神奇](神奇.md), [谷歌](谷歌.md)
+___
+##### 2026-01-15 21:12:55 UTC ~ FTChinese
+> RT @FTChinese: 【苹果在AI竞赛中按兵不动，欲在谷歌与OpenAI之间充当“造王者”】苹果为使用Gemini模型而达成的数十亿美元交易，折射出对基础设施支出的谨慎态度。https://t.co/NlP1xm5BVp https://t.co/Yh4k5aorVo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%9C%A8AI%E7%AB%9E%E8%B5%9B%E4%B8%AD%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8%EF%BC%8C%E6%AC%B2%E5%9C%A8%E8%B0%B7%E6%AD%8C%E4%B8%8EOpenAI%E4%B9%8B%E9%97%B4%E5%85%85%E5%BD%93%E2%80%9C%E9%80%A0%E7%8E%8B%E8%80%85%E2%80%9D%E3%80%91%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%BF%E7%94%A8Gemini%E6%A8%A1%E5%9E%8B%E8%80%8C%E8%BE%BE%E6%88%90%E7%9A%84%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%A4%E6%98%93%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E5%AF%B9%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%94%AF%E5%87%BA%E7%9A%84%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6%E3%80%82https%3A%2F%2Ft.co%2FNlP1xm5BVp+https%3A%2F%2Ft.co%2FYh4k5aorVo)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [交易](交易.md), [型](型.md), [基础设施](基础设施.md), [支出](支出.md), [模型](模型.md), [苹果](苹果.md), [设施](设施.md), [谨慎](谨慎.md), [谷歌](谷歌.md), [达成](达成.md)
+___
+##### 2026-01-13 05:39:00 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 谷歌宣布将与连锁超市沃尔玛（Walmart）、跨境电商Shopify、家居电商Wayfair及多家大型零售商展开合作，未来用户在使用AI助手Gemini时，可直接在聊天界面完成购物，无需跳转至其他网站。#南洋商报 #google #Gemi…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E4%B8%8E%E8%BF%9E%E9%94%81%E8%B6%85%E5%B8%82%E6%B2%83%E5%B0%94%E7%8E%9B%EF%BC%88Walmart%EF%BC%89%E3%80%81%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86Shopify%E3%80%81%E5%AE%B6%E5%B1%85%E7%94%B5%E5%95%86Wayfair%E5%8F%8A%E5%A4%9A%E5%AE%B6%E5%A4%A7%E5%9E%8B%E9%9B%B6%E5%94%AE%E5%95%86%E5%B1%95%E5%BC%80%E5%90%88%E4%BD%9C%EF%BC%8C%E6%9C%AA%E6%9D%A5%E7%94%A8%E6%88%B7%E5%9C%A8%E4%BD%BF%E7%94%A8AI%E5%8A%A9%E6%89%8BGemini%E6%97%B6%EF%BC%8C%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%9C%A8%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2%E5%AE%8C%E6%88%90%E8%B4%AD%E7%89%A9%EF%BC%8C%E6%97%A0%E9%9C%80%E8%B7%B3%E8%BD%AC%E8%87%B3%E5%85%B6%E4%BB%96%E7%BD%91%E7%AB%99%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23google+%23Gemi%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [沃尔玛](沃尔玛.md), [电商](电商.md), [直接](直接.md), [聊天](聊天.md), [谷歌](谷歌.md), [购物](购物.md), [跨境](跨境.md), [零售商](零售商.md)
+___
+##### 2026-01-13 02:18:55 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Alphabet的市值在周一盘中交易中突破4万亿美元，此前苹果宣布将引入谷歌Gemini模型赋能iPhone Siri，市场对谷歌AI业务前景的信心倍增。https://t.co/FHOHo2Xr8w
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Alphabet%E7%9A%84%E5%B8%82%E5%80%BC%E5%9C%A8%E5%91%A8%E4%B8%80%E7%9B%98%E4%B8%AD%E4%BA%A4%E6%98%93%E4%B8%AD%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AD%A4%E5%89%8D%E8%8B%B9%E6%9E%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8CGemini%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BDiPhone+Siri%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%AF%B9%E8%B0%B7%E6%AD%8CAI%E4%B8%9A%E5%8A%A1%E5%89%8D%E6%99%AF%E7%9A%84%E4%BF%A1%E5%BF%83%E5%80%8D%E5%A2%9E%E3%80%82https%3A%2F%2Ft.co%2FFHOHo2Xr8w)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [交易](交易.md), [型](型.md), [市值](市值.md), [模型](模型.md), [突破](突破.md), [苹果](苹果.md), [谷歌](谷歌.md)
+___
+##### 2026-01-12 17:55:57 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: Alphabet旗下的搜索巨头谷歌在星期天（11日）宣布，将与全球最大零售商沃尔玛集团（Walmart）、Shopify、Wayfair等大型零售商合作，增强它的人工智能聊天机器人Gemini的购物功能。这次合作的目的是把谷歌的Gemini打造成为一…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+Alphabet%E6%97%97%E4%B8%8B%E7%9A%84%E6%90%9C%E7%B4%A2%E5%B7%A8%E5%A4%B4%E8%B0%B7%E6%AD%8C%E5%9C%A8%E6%98%9F%E6%9C%9F%E5%A4%A9%EF%BC%8811%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%B0%86%E4%B8%8E%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%9B%B6%E5%94%AE%E5%95%86%E6%B2%83%E5%B0%94%E7%8E%9B%E9%9B%86%E5%9B%A2%EF%BC%88Walmart%EF%BC%89%E3%80%81Shopify%E3%80%81Wayfair%E7%AD%89%E5%A4%A7%E5%9E%8B%E9%9B%B6%E5%94%AE%E5%95%86%E5%90%88%E4%BD%9C%EF%BC%8C%E5%A2%9E%E5%BC%BA%E5%AE%83%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAGemini%E7%9A%84%E8%B4%AD%E7%89%A9%E5%8A%9F%E8%83%BD%E3%80%82%E8%BF%99%E6%AC%A1%E5%90%88%E4%BD%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E6%8A%8A%E8%B0%B7%E6%AD%8C%E7%9A%84Gemini%E6%89%93%E9%80%A0%E6%88%90%E4%B8%BA%E4%B8%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [巨头](巨头.md), [打造](打造.md), [搜索](搜索.md), [机器人](机器人.md), [沃尔玛](沃尔玛.md), [聊天](聊天.md), [谷歌](谷歌.md), [购物](购物.md), [零售商](零售商.md)
+___
 ##### 2025-11-21 07:10:21 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 谷歌发布了Nano Banana Pro，这是其基于Gemini 3 Pro打造的人工智能图像编辑和生成平台的更新版本。https://t.co/NzSlCjwAEW
 
@@ -91,7 +133,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Claude](Claude.md), [型](型.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
 ___
-##### 2025-04-01 04:42:44 UTC ~ 
+##### 2025-04-01 04:42:44 UTC ~ Jiayuan
 > RT @tisoga: 创建了一个用来分析自己健康 &amp; 运动数据的 app，支持连接到 Whoop, Apple Health, Garmin 导入相关数据。并且还连接了 Gemini Pro 2.5 作为健康教练来分析相关的数据。全程使用 @devv_ai vibe…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tisoga%3A+%E5%88%9B%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%A8%E6%9D%A5%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%81%A5%E5%BA%B7+%26amp%3B+%E8%BF%90%E5%8A%A8%E6%95%B0%E6%8D%AE%E7%9A%84+app%EF%BC%8C%E6%94%AF%E6%8C%81%E8%BF%9E%E6%8E%A5%E5%88%B0+Whoop%2C+Apple+Health%2C+Garmin+%E5%AF%BC%E5%85%A5%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E3%80%82%E5%B9%B6%E4%B8%94%E8%BF%98%E8%BF%9E%E6%8E%A5%E4%BA%86+Gemini+Pro+2.5+%E4%BD%9C%E4%B8%BA%E5%81%A5%E5%BA%B7%E6%95%99%E7%BB%83%E6%9D%A5%E5%88%86%E6%9E%90%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E5%85%A8%E7%A8%8B%E4%BD%BF%E7%94%A8+%40devv_ai+vibe%E2%80%A6)
@@ -154,7 +196,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [支持](支持.md), [模型](模型.md), [随着](随着.md)
 ___
-##### 2025-03-19 08:45:20 UTC ~ 小互
+##### 2025-03-19 08:45:20 UTC ~ 
 > RT @imxiaohu: 给你们看个好玩的啊和Gemini 一起作画你随便画就行，然后它可以帮你完善我只是做了简单尝试，想象空间还是很大的可以开发个儿童应用，我觉得很有前景啊，再加上语音功能，那就完美了！very nice... https://t.co/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E7%BB%99%E4%BD%A0%E4%BB%AC%E7%9C%8B%E4%B8%AA%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%95%8A%E5%92%8CGemini+%E4%B8%80%E8%B5%B7%E4%BD%9C%E7%94%BB%E4%BD%A0%E9%9A%8F%E4%BE%BF%E7%94%BB%E5%B0%B1%E8%A1%8C%EF%BC%8C%E7%84%B6%E5%90%8E%E5%AE%83%E5%8F%AF%E4%BB%A5%E5%B8%AE%E4%BD%A0%E5%AE%8C%E5%96%84%E6%88%91%E5%8F%AA%E6%98%AF%E5%81%9A%E4%BA%86%E7%AE%80%E5%8D%95%E5%B0%9D%E8%AF%95%EF%BC%8C%E6%83%B3%E8%B1%A1%E7%A9%BA%E9%97%B4%E8%BF%98%E6%98%AF%E5%BE%88%E5%A4%A7%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%BC%80%E5%8F%91%E4%B8%AA%E5%84%BF%E7%AB%A5%E5%BA%94%E7%94%A8%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E5%BE%88%E6%9C%89%E5%89%8D%E6%99%AF%E5%95%8A%EF%BC%8C%E5%86%8D%E5%8A%A0%E4%B8%8A%E8%AF%AD%E9%9F%B3%E5%8A%9F%E8%83%BD%EF%BC%8C%E9%82%A3%E5%B0%B1%E5%AE%8C%E7%BE%8E%E4%BA%86%EF%BC%81very+nice...+https%3A%2F%2Ft.co%2F%E2%80%A6)
@@ -168,7 +210,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [兴趣](兴趣.md), [分析](分析.md), [参考](参考.md), [招](招.md), [搜索](搜索.md), [谷歌](谷歌.md), [领域](领域.md)
 ___
-##### 2025-03-19 08:01:17 UTC ~ 小互
+##### 2025-03-19 08:01:17 UTC ~ 
 > RT @imxiaohu: Google最近有点疯啊疯狂发货Gemini 也推出了Canvas 功能现在你可以：⌨️ 你可以直接在 Canvas 里写 React 或 HTML 代码，并实时预览运行效果。📝 用它来起草、修改、优化文章或报告。🎨 构建交互…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Google%E6%9C%80%E8%BF%91%E6%9C%89%E7%82%B9%E7%96%AF%E5%95%8A%E7%96%AF%E7%8B%82%E5%8F%91%E8%B4%A7Gemini+%E4%B9%9F%E6%8E%A8%E5%87%BA%E4%BA%86Canvas+%E5%8A%9F%E8%83%BD%E7%8E%B0%E5%9C%A8%E4%BD%A0%E5%8F%AF%E4%BB%A5%EF%BC%9A%E2%8C%A8%EF%B8%8F+%E4%BD%A0%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%9C%A8+Canvas+%E9%87%8C%E5%86%99+React+%E6%88%96+HTML+%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%B9%B6%E5%AE%9E%E6%97%B6%E9%A2%84%E8%A7%88%E8%BF%90%E8%A1%8C%E6%95%88%E6%9E%9C%E3%80%82%F0%9F%93%9D+%E7%94%A8%E5%AE%83%E6%9D%A5%E8%B5%B7%E8%8D%89%E3%80%81%E4%BF%AE%E6%94%B9%E3%80%81%E4%BC%98%E5%8C%96%E6%96%87%E7%AB%A0%E6%88%96%E6%8A%A5%E5%91%8A%E3%80%82%F0%9F%8E%A8+%E6%9E%84%E5%BB%BA%E4%BA%A4%E4%BA%92%E2%80%A6)

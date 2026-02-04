@@ -21,7 +21,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [开源](开源.md), [检查](检查.md), [模型](模型.md), [量化](量化.md)
 ___
-##### 2025-04-01 03:23:16 UTC ~ 小互
+##### 2025-04-01 03:23:16 UTC ~ 
 > RT @imxiaohu: Google 发布专为加速治疗性药物开发而设计开源模型：TxGemma它是由  Gemma 模型家族 微调而来，结合了语言理解、科学预测和多轮对话能力。TxGemma 能够帮助研究人员完成从 药物筛选、毒性预测，到临床试验结果预测 的各类任务…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Google+%E5%8F%91%E5%B8%83%E4%B8%93%E4%B8%BA%E5%8A%A0%E9%80%9F%E6%B2%BB%E7%96%97%E6%80%A7%E8%8D%AF%E7%89%A9%E5%BC%80%E5%8F%91%E8%80%8C%E8%AE%BE%E8%AE%A1%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%9ATxGemma%E5%AE%83%E6%98%AF%E7%94%B1++Gemma+%E6%A8%A1%E5%9E%8B%E5%AE%B6%E6%97%8F+%E5%BE%AE%E8%B0%83%E8%80%8C%E6%9D%A5%EF%BC%8C%E7%BB%93%E5%90%88%E4%BA%86%E8%AF%AD%E8%A8%80%E7%90%86%E8%A7%A3%E3%80%81%E7%A7%91%E5%AD%A6%E9%A2%84%E6%B5%8B%E5%92%8C%E5%A4%9A%E8%BD%AE%E5%AF%B9%E8%AF%9D%E8%83%BD%E5%8A%9B%E3%80%82TxGemma+%E8%83%BD%E5%A4%9F%E5%B8%AE%E5%8A%A9%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E5%AE%8C%E6%88%90%E4%BB%8E+%E8%8D%AF%E7%89%A9%E7%AD%9B%E9%80%89%E3%80%81%E6%AF%92%E6%80%A7%E9%A2%84%E6%B5%8B%EF%BC%8C%E5%88%B0%E4%B8%B4%E5%BA%8A%E8%AF%95%E9%AA%8C%E7%BB%93%E6%9E%9C%E9%A2%84%E6%B5%8B+%E7%9A%84%E5%90%84%E7%B1%BB%E4%BB%BB%E5%8A%A1%E2%80%A6)
@@ -63,7 +63,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [开源](开源.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [谷歌](谷歌.md), [超过](超过.md)
 ___
-##### 2025-03-12 15:19:28 UTC ~ 小互
+##### 2025-03-12 15:19:28 UTC ~ 
 > RT @imxiaohu: 牛P了，兄弟们Google 发布最新开源模型 Gemma 3 性能超越DeepSeek V3、o3mini为全球第二强开源模型-支持 140+ 语言-增强文本和视觉能力，可理解文本、图片、短视频-128K上下文窗口-支持函数调用，支…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E7%89%9BP%E4%BA%86%EF%BC%8C%E5%85%84%E5%BC%9F%E4%BB%ACGoogle+%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B+Gemma+3+%E6%80%A7%E8%83%BD%E8%B6%85%E8%B6%8ADeepSeek+V3%E3%80%81o3mini%E4%B8%BA%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%8C%E5%BC%BA%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B-%E6%94%AF%E6%8C%81+140%2B+%E8%AF%AD%E8%A8%80-%E5%A2%9E%E5%BC%BA%E6%96%87%E6%9C%AC%E5%92%8C%E8%A7%86%E8%A7%89%E8%83%BD%E5%8A%9B%EF%BC%8C%E5%8F%AF%E7%90%86%E8%A7%A3%E6%96%87%E6%9C%AC%E3%80%81%E5%9B%BE%E7%89%87%E3%80%81%E7%9F%AD%E8%A7%86%E9%A2%91-128K%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3-%E6%94%AF%E6%8C%81%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%EF%BC%8C%E6%94%AF%E2%80%A6)

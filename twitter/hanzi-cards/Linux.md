@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Linux) for definition
 ### Tweets containing Linux
 
 ___
+##### 2026-01-06 15:08:48 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 经常需要截图分享给朋友，或者录制操作演示，Windows 上的 ShareX 好用，但切换到 Linux 或 macOS 系统就没法用了。偶然看到 SnapX 这个开源项目，基于 ShareX 重构，实现了真正的跨平台支持，Linux、W…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%8F%E5%B8%B8%E9%9C%80%E8%A6%81%E6%88%AA%E5%9B%BE%E5%88%86%E4%BA%AB%E7%BB%99%E6%9C%8B%E5%8F%8B%EF%BC%8C%E6%88%96%E8%80%85%E5%BD%95%E5%88%B6%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA%EF%BC%8CWindows+%E4%B8%8A%E7%9A%84+ShareX+%E5%A5%BD%E7%94%A8%EF%BC%8C%E4%BD%86%E5%88%87%E6%8D%A2%E5%88%B0+Linux+%E6%88%96+macOS+%E7%B3%BB%E7%BB%9F%E5%B0%B1%E6%B2%A1%E6%B3%95%E7%94%A8%E4%BA%86%E3%80%82%E5%81%B6%E7%84%B6%E7%9C%8B%E5%88%B0+SnapX+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%9F%BA%E4%BA%8E+ShareX+%E9%87%8D%E6%9E%84%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%EF%BC%8CLinux%E3%80%81W%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Windows](Windows.md), [mac](mac.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [操作](操作.md), [支持](支持.md), [系统](系统.md), [项目](项目.md)
+___
+##### 2026-01-05 03:58:31 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 用 Android 手机的朋友，想把照片或文件传到 Mac 或 Linux 电脑上，颇为麻烦。要么通过数据线传输，要么用微信文件传输助手，一直以来跨平台文件传输体验都不太方便。直到最近，在 GitHub 找到了 rquickshare…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%94%A8+Android+%E6%89%8B%E6%9C%BA%E7%9A%84%E6%9C%8B%E5%8F%8B%EF%BC%8C%E6%83%B3%E6%8A%8A%E7%85%A7%E7%89%87%E6%88%96%E6%96%87%E4%BB%B6%E4%BC%A0%E5%88%B0+Mac+%E6%88%96+Linux+%E7%94%B5%E8%84%91%E4%B8%8A%EF%BC%8C%E9%A2%87%E4%B8%BA%E9%BA%BB%E7%83%A6%E3%80%82%E8%A6%81%E4%B9%88%E9%80%9A%E8%BF%87%E6%95%B0%E6%8D%AE%E7%BA%BF%E4%BC%A0%E8%BE%93%EF%BC%8C%E8%A6%81%E4%B9%88%E7%94%A8%E5%BE%AE%E4%BF%A1%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8A%A9%E6%89%8B%EF%BC%8C%E4%B8%80%E7%9B%B4%E4%BB%A5%E6%9D%A5%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E4%BD%93%E9%AA%8C%E9%83%BD%E4%B8%8D%E5%A4%AA%E6%96%B9%E4%BE%BF%E3%80%82%E7%9B%B4%E5%88%B0%E6%9C%80%E8%BF%91%EF%BC%8C%E5%9C%A8+GitHub+%E6%89%BE%E5%88%B0%E4%BA%86+rquickshare%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [一直](一直.md), [平台](平台.md), [微信](微信.md), [数据](数据.md), [文件](文件.md), [直到](直到.md)
+___
 ##### 2025-11-28 11:40:25 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 使用 Linux 系统，有些界面过于复杂臃肿，有些又过于简陋缺少功能，想找个既美观又实用的桌面环境颇为困难。刚好看到 Budgie Desktop 这个开源桌面环境项目，提供简洁高颜值的界面设计，同时保持功能的完整性。基于成熟的 GN…
 

@@ -8,6 +8,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-08 07:33:12 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 肯纳格投行认为，中国人工智能（AI）公司DeepSeek的崛起，为科技领域带来许多不确定因素，引发股市中的避险情绪估值降低，因而将科技股评级下调至“中和”。https://t.co/ggVW3QSBr5 https://t.co/Zi6iLq…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%82%AF%E7%BA%B3%E6%A0%BC%E6%8A%95%E8%A1%8C%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%85%AC%E5%8F%B8DeepSeek%E7%9A%84%E5%B4%9B%E8%B5%B7%EF%BC%8C%E4%B8%BA%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E5%B8%A6%E6%9D%A5%E8%AE%B8%E5%A4%9A%E4%B8%8D%E7%A1%AE%E5%AE%9A%E5%9B%A0%E7%B4%A0%EF%BC%8C%E5%BC%95%E5%8F%91%E8%82%A1%E5%B8%82%E4%B8%AD%E7%9A%84%E9%81%BF%E9%99%A9%E6%83%85%E7%BB%AA%E4%BC%B0%E5%80%BC%E9%99%8D%E4%BD%8E%EF%BC%8C%E5%9B%A0%E8%80%8C%E5%B0%86%E7%A7%91%E6%8A%80%E8%82%A1%E8%AF%84%E7%BA%A7%E4%B8%8B%E8%B0%83%E8%87%B3%E2%80%9C%E4%B8%AD%E5%92%8C%E2%80%9D%E3%80%82https%3A%2F%2Ft.co%2FggVW3QSBr5+https%3A%2F%2Ft.co%2FZi6iLq%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [估值](估值.md), [因素](因素.md), [崛起](崛起.md), [引发](引发.md), [投行](投行.md), [科技](科技.md), [评级](评级.md), [避险](避险.md), [降低](降低.md), [领域](领域.md)
+___
+##### 2025-02-08 06:00:14 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国吉利汽车等多家车企宣布接入深度求索（DeepSeek）人工智能（AI）模型，标志着中国车企开始角逐AI战场。 https://t.co/TCXETUuwr6
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E7%AD%89%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%AE%A3%E5%B8%83%E6%8E%A5%E5%85%A5%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%A0%87%E5%BF%97%E7%9D%80%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%BC%80%E5%A7%8B%E8%A7%92%E9%80%90AI%E6%88%98%E5%9C%BA%E3%80%82+https%3A%2F%2Ft.co%2FTCXETUuwr6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [吉利](吉利.md), [型](型.md), [标志](标志.md), [模型](模型.md), [深度求索](深度求索.md), [角逐](角逐.md)
+___
+##### 2025-02-08 05:59:37 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【美國科技巨頭維持高水準AI投資】亞馬遜等4家企業2024年設備投資額增長6成，達到約2450億美元，2025年也將維持3~7成的高增長。對於美國IT巨頭的鉅額投資，因為1月DeepSeek的登場，擔憂有所加強…… https://t…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E7%B6%AD%E6%8C%81%E9%AB%98%E6%B0%B4%E6%BA%96AI%E6%8A%95%E8%B3%87%E3%80%91%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%AD%894%E5%AE%B6%E4%BC%81%E6%A5%AD2024%E5%B9%B4%E8%A8%AD%E5%82%99%E6%8A%95%E8%B3%87%E9%A1%8D%E5%A2%9E%E9%95%B76%E6%88%90%EF%BC%8C%E9%81%94%E5%88%B0%E7%B4%842450%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C2025%E5%B9%B4%E4%B9%9F%E5%B0%87%E7%B6%AD%E6%8C%813~7%E6%88%90%E7%9A%84%E9%AB%98%E5%A2%9E%E9%95%B7%E3%80%82%E5%B0%8D%E6%96%BC%E7%BE%8E%E5%9C%8BIT%E5%B7%A8%E9%A0%AD%E7%9A%84%E9%89%85%E9%A1%8D%E6%8A%95%E8%B3%87%EF%BC%8C%E5%9B%A0%E7%82%BA1%E6%9C%88DeepSeek%E7%9A%84%E7%99%BB%E5%A0%B4%EF%BC%8C%E6%93%94%E6%86%82%E6%9C%89%E6%89%80%E5%8A%A0%E5%BC%B7%E2%80%A6%E2%80%A6+https%3A%2F%2Ft%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[亞馬遜](亞馬遜.md), [擔憂](擔憂.md), [科技](科技.md), [美國](美國.md)
+___
+##### 2025-02-08 05:58:01 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 据中国AI产品榜统计数据，DeepSeek应用在上线仅20天后，其日活跃用户数（DAU）迅速突破2000万大关，达2215万，已是Open AI ChatGPT的40%。#南洋商报 #DeepSeek #AI #阿里巴巴 #alibaba…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8D%AE%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E5%93%81%E6%A6%9C%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%EF%BC%8CDeepSeek%E5%BA%94%E7%94%A8%E5%9C%A8%E4%B8%8A%E7%BA%BF%E4%BB%8520%E5%A4%A9%E5%90%8E%EF%BC%8C%E5%85%B6%E6%97%A5%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E6%95%B0%EF%BC%88DAU%EF%BC%89%E8%BF%85%E9%80%9F%E7%AA%81%E7%A0%B42000%E4%B8%87%E5%A4%A7%E5%85%B3%EF%BC%8C%E8%BE%BE2215%E4%B8%87%EF%BC%8C%E5%B7%B2%E6%98%AFOpen+AI+ChatGPT%E7%9A%8440%25%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23AI+%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+%23alibaba%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[数据](数据.md), [活跃](活跃.md), [突破](突破.md), [统计](统计.md), [迅速](迅速.md), [阿里巴巴](阿里巴巴.md)
+___
 ##### 2025-02-08 05:57:44 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 庄慧良：DeepSeek的出现犹如在AI界投下一颗原子弹。相关专家直言，DeepSeek对台湾的冲击是“短空长多”，过去依赖半导体高成长的高获利去年已告终结，未来AI发展趋势将是“吃软（体）不吃硬（体）”。https://t.co/jGwFRl3jj…
 

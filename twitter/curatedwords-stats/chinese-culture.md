@@ -7,8 +7,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [甲骨文](../hanzi-cards/甲骨文.md) | Oracle bones |
+| [马年](../hanzi-cards/马年.md)/[馬年](../hanzi-cards/馬年.md) | Year of the Horse |
 | [蛇年](../hanzi-cards/蛇年.md) | Year of the Snake |
-| [龙年](../hanzi-cards/龙年.md) | Year of the Dragon |
+| [龙年](../hanzi-cards/龙年.md)/[龍年](../hanzi-cards/龍年.md) | Year of the Dragon |
 | [兔年](../hanzi-cards/兔年.md) | Year of the Rabbit |
 | [虎年](../hanzi-cards/虎年.md) | Year of the Tiger |
 | [牛年](../hanzi-cards/牛年.md) | Year of the Ox |
@@ -21,14 +22,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [炎黃子孫](../hanzi-cards/炎黃子孫.md) | descendants of Yan Di and Huang Di -- the Chinese people |
 | [西游记](../hanzi-cards/西游记.md)/[西遊記](../hanzi-cards/西遊記.md) | Journey to the West (classic novel) |
 | [百家姓](../hanzi-cards/百家姓.md) | The Book of Family Names |
-| [唐朝](../hanzi-cards/唐朝.md) | Tang Dynasty |
+| [唐朝](../hanzi-cards/唐朝.md)/[唐代](../hanzi-cards/唐代.md) | Tang Dynasty |
 | [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasties |
 | [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
-| [汉朝](../hanzi-cards/汉朝.md) | Han Dynasty |
+| [汉](../hanzi-cards/汉.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
+| [汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
 | [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
-| [秦朝](../hanzi-cards/秦朝.md) | Qin Dynasty |
-| [宋朝](../hanzi-cards/宋朝.md) | Song Dynasty |
+| [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |
+| [宋朝](../hanzi-cards/宋朝.md)/[宋代](../hanzi-cards/宋代.md) | Song Dynasty |
+| [商朝](../hanzi-cards/商朝.md) | Shang Dynasty |
+| [夏朝](../hanzi-cards/夏朝.md) | Xia Dynasty |
 | [明清](../hanzi-cards/明清.md) | Ming and Qing dynasties |
+| [明代](../hanzi-cards/明代.md) | Ming Dynasty |
+| [清代](../hanzi-cards/清代.md) | Qing Dynasty |
 | [大雁塔](../hanzi-cards/大雁塔.md) | Giant Wild Goose Pagoda |
 | [故宫](../hanzi-cards/故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
 | [琵琶](../hanzi-cards/琵琶.md) | pipa (a plucked string instrument with a fretted fingeboard) |
@@ -91,6 +97,34 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [繁花似锦](../hanzi-cards/繁花似锦.md) | flowers in full bloom |
 | [食不厭精，膾不厭細](../hanzi-cards/食不厭精，膾不厭細.md) | to eat but finely ground grain and finely chopped meat; be particular about one's food |
 | [喋喋不休](../hanzi-cards/喋喋不休.md) | chatter away; rattle on; talk endlessly |
+## Solar Terms
+|  |  |
+| ----- | :---: |
+| [立春](../hanzi-cards/立春.md) | Beginning of Spring |
+| [雨水](../hanzi-cards/雨水.md) | Rain Water |
+| [惊蛰](../hanzi-cards/惊蛰.md)/[驚蟄](../hanzi-cards/驚蟄.md) | Awakening of Insects |
+| [春分](../hanzi-cards/春分.md) | Spring Equinox |
+| [清明](../hanzi-cards/清明.md) | Pure Brightness (also a festival name or Tomb Sweeping Day); clear and bright; sober and calm; well-ordered |
+| [谷雨](../hanzi-cards/谷雨.md)/[穀雨](../hanzi-cards/穀雨.md) | Grain Rain |
+| [立夏](../hanzi-cards/立夏.md) | Beginning of Summer |
+| [小满](../hanzi-cards/小满.md)/[小滿](../hanzi-cards/小滿.md) | Lesser Fullness of Grain |
+| [芒种](../hanzi-cards/芒种.md)/[芒種](../hanzi-cards/芒種.md) | Grain in Ear |
+| [夏至](../hanzi-cards/夏至.md) | Summer Solstice |
+| [小暑](../hanzi-cards/小暑.md) | Lesser Heat |
+| [大暑](../hanzi-cards/大暑.md) | Greater Heat |
+| [立秋](../hanzi-cards/立秋.md) | Beginning of Autumn |
+| [处暑](../hanzi-cards/处暑.md)/[處暑](../hanzi-cards/處暑.md) | End of Heat |
+| [白露](../hanzi-cards/白露.md) | White Dew |
+| [秋分](../hanzi-cards/秋分.md) | Autumnal Equinox |
+| [寒露](../hanzi-cards/寒露.md) | Cold Dew |
+| [霜降](../hanzi-cards/霜降.md) | Frost's Descent |
+| [立冬](../hanzi-cards/立冬.md) | Beginning of Winter |
+| [小雪](../hanzi-cards/小雪.md) | Lesser Snow; light snow |
+| [大雪](../hanzi-cards/大雪.md) | Greater Snow; heavy snow |
+| [冬至](../hanzi-cards/冬至.md) | Winter Solstice |
+| [小寒](../hanzi-cards/小寒.md) | Lesser Cold |
+| [大寒](../hanzi-cards/大寒.md) | Greater Cold |
+| [节气](../hanzi-cards/节气.md)/[節氣](../hanzi-cards/節氣.md) | solar term or period (one of 24 periods of the lunar year) |
 ## Three Kingdoms
 |  |  |
 | ----- | :---: |

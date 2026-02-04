@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2026-01-08 13:46:55 UTC ~ GitHubDaily
+> RT @GitHub_Daily: Mac 电脑用久之后，系统缓存、应用残留文件堆积如山，磁盘空间莫名其妙就满，想清理又怕误删系统文件。在 GitHub 上找到 MacOptimizer 这款实用的开源工具，专为 macOS 设计的系统优化助手，界面简洁直观，功能相当强大。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Mac+%E7%94%B5%E8%84%91%E7%94%A8%E4%B9%85%E4%B9%8B%E5%90%8E%EF%BC%8C%E7%B3%BB%E7%BB%9F%E7%BC%93%E5%AD%98%E3%80%81%E5%BA%94%E7%94%A8%E6%AE%8B%E7%95%99%E6%96%87%E4%BB%B6%E5%A0%86%E7%A7%AF%E5%A6%82%E5%B1%B1%EF%BC%8C%E7%A3%81%E7%9B%98%E7%A9%BA%E9%97%B4%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E6%BB%A1%EF%BC%8C%E6%83%B3%E6%B8%85%E7%90%86%E5%8F%88%E6%80%95%E8%AF%AF%E5%88%A0%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6%E3%80%82%E5%9C%A8+GitHub+%E4%B8%8A%E6%89%BE%E5%88%B0+MacOptimizer+%E8%BF%99%E6%AC%BE%E5%AE%9E%E7%94%A8%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%93%E4%B8%BA+macOS+%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96%E5%8A%A9%E6%89%8B%EF%BC%8C%E7%95%8C%E9%9D%A2%E7%AE%80%E6%B4%81%E7%9B%B4%E8%A7%82%EF%BC%8C%E5%8A%9F%E8%83%BD%E7%9B%B8%E5%BD%93%E5%BC%BA%E5%A4%A7%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [优化](优化.md), [工具](工具.md), [开源](开源.md), [文件](文件.md), [系统](系统.md), [设计](设计.md)
+___
+##### 2026-01-06 15:08:48 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 经常需要截图分享给朋友，或者录制操作演示，Windows 上的 ShareX 好用，但切换到 Linux 或 macOS 系统就没法用了。偶然看到 SnapX 这个开源项目，基于 ShareX 重构，实现了真正的跨平台支持，Linux、W…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%8F%E5%B8%B8%E9%9C%80%E8%A6%81%E6%88%AA%E5%9B%BE%E5%88%86%E4%BA%AB%E7%BB%99%E6%9C%8B%E5%8F%8B%EF%BC%8C%E6%88%96%E8%80%85%E5%BD%95%E5%88%B6%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA%EF%BC%8CWindows+%E4%B8%8A%E7%9A%84+ShareX+%E5%A5%BD%E7%94%A8%EF%BC%8C%E4%BD%86%E5%88%87%E6%8D%A2%E5%88%B0+Linux+%E6%88%96+macOS+%E7%B3%BB%E7%BB%9F%E5%B0%B1%E6%B2%A1%E6%B3%95%E7%94%A8%E4%BA%86%E3%80%82%E5%81%B6%E7%84%B6%E7%9C%8B%E5%88%B0+SnapX+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%9F%BA%E4%BA%8E+ShareX+%E9%87%8D%E6%9E%84%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%EF%BC%8CLinux%E3%80%81W%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Linux](Linux.md), [Windows](Windows.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [操作](操作.md), [支持](支持.md), [系统](系统.md), [项目](项目.md)
+___
 ##### 2025-10-21 15:38:53 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 准备入手苹果电脑的朋友，如果之前一直没有体验过 macOS 系统，不知道是否适合自己。可以通过 OSX-PROXMOX 这个开源工具，在自己任意 AMD 或 Intel 电脑上运行 macOS 系统体验一下。只需一行命令就能自动完成所…
 
@@ -19,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+macOS+%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%B8%A6%E7%9A%84%E6%97%A5%E5%8E%86%E6%9F%A5%E7%9C%8B%E7%BC%BA%E5%B0%91%E5%9B%BD%E5%86%85%E5%86%9C%E5%8E%86%E3%80%81%E8%8A%82%E6%B0%94%E3%80%81%E5%81%87%E6%9C%9F%E7%AD%89%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF%EF%BC%8C%E8%80%8C%E7%AC%AC%E4%B8%89%E6%96%B9%E6%97%A5%E5%8E%86%E8%BD%AF%E4%BB%B6%E8%A6%81%E4%B9%88%E6%94%B6%E8%B4%B9%E8%A6%81%E4%B9%88%E5%8A%9F%E8%83%BD%E8%BF%87%E4%BA%8E%E5%A4%8D%E6%9D%82%E3%80%82%E5%8F%AF%E4%BB%A5%E7%9C%8B%E4%B8%80%E4%B8%8B%EF%BC%8CMacCalendar+%E8%BF%99%E6%AC%BE%E5%BC%80%E6%BA%90%E7%9A%84%E7%B2%BE%E7%BE%8E%E6%97%A5%E5%8E%86%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%93%E4%B8%BA%E6%88%91%E4%BB%AC%E8%BF%99%E4%BA%9B%E9%9C%80%E8%A6%81%E6%9C%AC%E5%9C%9F%E5%8C%96%E6%97%A5%E5%8E%86%E5%8A%9F%E8%83%BD%E7%9A%84%E7%94%A8%E6%88%B7%E8%80%8C%E8%AE%BE%E8%AE%A1%E3%80%82%E5%AE%83%E7%9B%B4%E6%8E%A5%E9%9B%86%E6%88%90%E5%9C%A8%E8%8F%9C%E5%8D%95%E6%A0%8F%E4%B8%AD%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [农历](农历.md), [工具](工具.md), [开源](开源.md), [直接](直接.md), [相关](相关.md), [系统](系统.md), [菜](菜.md), [菜单](菜单.md), [设计](设计.md)
+[Mac](Mac.md), [农历](农历.md), [工具](工具.md), [开源](开源.md), [直接](直接.md), [相关](相关.md), [系统](系统.md), [节气](节气.md), [菜](菜.md), [菜单](菜单.md), [设计](设计.md)
 ___
 ##### 2025-09-27 08:35:43 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 升级到 macOS Tahoe 后发现系统移除了经典的启动台 Launchpad 功能，让人感觉到颇为难用。然后，在 GitHub 上找到了 LaunchNext 这个开源工具，可以将系统自由切换到原来熟悉的 Launchpad 应用管理…

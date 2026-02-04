@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2026-01-08 14:44:45 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #独家 据知情人士透露，聊天机器人Claude的开发商Anthropic计划以3,500亿美元的投前估值融资100亿美元，该估值较四个月前增长近一倍。https://t.co/sZJ24FYbRu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAClaude%E7%9A%84%E5%BC%80%E5%8F%91%E5%95%86Anthropic%E8%AE%A1%E5%88%92%E4%BB%A53%2C500%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%8A%95%E5%89%8D%E4%BC%B0%E5%80%BC%E8%9E%8D%E8%B5%84100%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%AF%A5%E4%BC%B0%E5%80%BC%E8%BE%83%E5%9B%9B%E4%B8%AA%E6%9C%88%E5%89%8D%E5%A2%9E%E9%95%BF%E8%BF%91%E4%B8%80%E5%80%8D%E3%80%82https%3A%2F%2Ft.co%2FsZJ24FYbRu)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [估值](估值.md), [增长](增长.md), [开发](开发.md), [机器人](机器人.md), [知情](知情.md), [知情人士](知情人士.md), [聊天](聊天.md), [融资](融资.md), [计划](计划.md), [透露](透露.md)
+___
 ##### 2025-07-12 19:26:29 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 跟大家推荐 GitHub 上一款专为 macOS 系统提供高效截屏和 AI 分析功能的开源工具：Peekaboo。不仅能快速截取屏幕、应用或特定窗口，还能使用 GPT-4 Vision、Claude 或本地模型进行 AI 图像分析。G…
 

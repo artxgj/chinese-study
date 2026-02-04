@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2026-01-19 01:51:05 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【阿里巴巴AI「千問」接入網購業務】只需對Qwen説「點兩杯拿鐵」，Qwen便會通過淘寶閃購選擇用戶所在地附近的咖啡店完成下單……https://t.co/JaeoEM7P6g
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4AI%E3%80%8C%E5%8D%83%E5%95%8F%E3%80%8D%E6%8E%A5%E5%85%A5%E7%B6%B2%E8%B3%BC%E6%A5%AD%E5%8B%99%E3%80%91%E5%8F%AA%E9%9C%80%E5%B0%8DQwen%E8%AA%AC%E3%80%8C%E9%BB%9E%E5%85%A9%E6%9D%AF%E6%8B%BF%E9%90%B5%E3%80%8D%EF%BC%8CQwen%E4%BE%BF%E6%9C%83%E9%80%9A%E9%81%8E%E6%B7%98%E5%AF%B6%E9%96%83%E8%B3%BC%E9%81%B8%E6%93%87%E7%94%A8%E6%88%B6%E6%89%80%E5%9C%A8%E5%9C%B0%E9%99%84%E8%BF%91%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%AE%8C%E6%88%90%E4%B8%8B%E5%96%AE%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FJaeoEM7P6g)
+##### Other Words/Names of Interest in the Above Tweet
+[咖啡](咖啡.md), [阿里巴巴](阿里巴巴.md)
+___
 ##### 2025-10-29 03:25:15 UTC ~ 中國新聞社
 > RT @CNS1952: 上海95後小夥手搓AI眼鏡體驗失明的一天，設備基於開源Qwen-Omni開發，硬件成本僅百元，可實時識別盲道、紅綠燈、障礙物等。來源：中國青年報 #AI #科技中國 https://t.co/CYy0BBYZeq
 
@@ -91,7 +98,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Gemma](Gemma.md), [压力](压力.md), [离职](离职.md), [维持](维持.md), [面临](面临.md)
 ___
-##### 2025-03-27 09:52:34 UTC ~ 小互
+##### 2025-03-27 09:52:34 UTC ~ 
 > RT @imxiaohu: 阿里云发布 Qwen2.5 Omni 端到端全模态感知与响应模型 是一个可以“看、听、说、写、理解一切”的 AI 模型它不仅能处理文本，还能理解图片、语音、视频；它可以像人一样边听边说，实时对话，语音很自然；无论是让它听你说话，还是给…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E9%98%BF%E9%87%8C%E4%BA%91%E5%8F%91%E5%B8%83+Qwen2.5+Omni+%E7%AB%AF%E5%88%B0%E7%AB%AF%E5%85%A8%E6%A8%A1%E6%80%81%E6%84%9F%E7%9F%A5%E4%B8%8E%E5%93%8D%E5%BA%94%E6%A8%A1%E5%9E%8B+%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BB%A5%E2%80%9C%E7%9C%8B%E3%80%81%E5%90%AC%E3%80%81%E8%AF%B4%E3%80%81%E5%86%99%E3%80%81%E7%90%86%E8%A7%A3%E4%B8%80%E5%88%87%E2%80%9D%E7%9A%84+AI+%E6%A8%A1%E5%9E%8B%E5%AE%83%E4%B8%8D%E4%BB%85%E8%83%BD%E5%A4%84%E7%90%86%E6%96%87%E6%9C%AC%EF%BC%8C%E8%BF%98%E8%83%BD%E7%90%86%E8%A7%A3%E5%9B%BE%E7%89%87%E3%80%81%E8%AF%AD%E9%9F%B3%E3%80%81%E8%A7%86%E9%A2%91%EF%BC%9B%E5%AE%83%E5%8F%AF%E4%BB%A5%E5%83%8F%E4%BA%BA%E4%B8%80%E6%A0%B7%E8%BE%B9%E5%90%AC%E8%BE%B9%E8%AF%B4%EF%BC%8C%E5%AE%9E%E6%97%B6%E5%AF%B9%E8%AF%9D%EF%BC%8C%E8%AF%AD%E9%9F%B3%E5%BE%88%E8%87%AA%E7%84%B6%EF%BC%9B%E6%97%A0%E8%AE%BA%E6%98%AF%E8%AE%A9%E5%AE%83%E5%90%AC%E4%BD%A0%E8%AF%B4%E8%AF%9D%EF%BC%8C%E8%BF%98%E6%98%AF%E7%BB%99%E2%80%A6)
@@ -119,7 +126,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [代码](代码.md), [发布](发布.md), [型](型.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
 ___
-##### 2025-03-21 15:16:58 UTC ~ 小互
+##### 2025-03-21 15:16:58 UTC ~ 
 > RT @imxiaohu: Fin-R1：基于Qwen2.5-7B 并通过强化学习训练金融推理模型 在多项金融基准测试中SOTA 水平Fin-R1（强化后），以仅 7B 参数，超越大多数同规模乃至数十倍规模模型，部分关键任务甚至拿下第一。在FinQA（金融表格推理）…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Fin-R1%EF%BC%9A%E5%9F%BA%E4%BA%8EQwen2.5-7B+%E5%B9%B6%E9%80%9A%E8%BF%87%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E9%87%91%E8%9E%8D%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B+%E5%9C%A8%E5%A4%9A%E9%A1%B9%E9%87%91%E8%9E%8D%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%ADSOTA+%E6%B0%B4%E5%B9%B3Fin-R1%EF%BC%88%E5%BC%BA%E5%8C%96%E5%90%8E%EF%BC%89%EF%BC%8C%E4%BB%A5%E4%BB%85+7B+%E5%8F%82%E6%95%B0%EF%BC%8C%E8%B6%85%E8%B6%8A%E5%A4%A7%E5%A4%9A%E6%95%B0%E5%90%8C%E8%A7%84%E6%A8%A1%E4%B9%83%E8%87%B3%E6%95%B0%E5%8D%81%E5%80%8D%E8%A7%84%E6%A8%A1%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%83%A8%E5%88%86%E5%85%B3%E9%94%AE%E4%BB%BB%E5%8A%A1%E7%94%9A%E8%87%B3%E6%8B%BF%E4%B8%8B%E7%AC%AC%E4%B8%80%E3%80%82%E5%9C%A8FinQA%EF%BC%88%E9%87%91%E8%9E%8D%E8%A1%A8%E6%A0%BC%E6%8E%A8%E7%90%86%EF%BC%89%E2%80%A6)

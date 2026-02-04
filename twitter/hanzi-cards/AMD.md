@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-01-14 06:39:41 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【美國附條件解禁英偉達等的AI半導體對華出口】對象為英偉達的H200以及具有同等或更低性能的AI半導體，還有AMD的MI325X。似乎設想主要面向在中國開展業務的西方企業，對總部設在中國大陸和澳門的中國企業的出口仍為「原則上禁止」。還要求…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E9%99%84%E6%A2%9D%E4%BB%B6%E8%A7%A3%E7%A6%81%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%89%E7%9A%84AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B0%8D%E8%8F%AF%E5%87%BA%E5%8F%A3%E3%80%91%E5%B0%8D%E8%B1%A1%E7%82%BA%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84H200%E4%BB%A5%E5%8F%8A%E5%85%B7%E6%9C%89%E5%90%8C%E7%AD%89%E6%88%96%E6%9B%B4%E4%BD%8E%E6%80%A7%E8%83%BD%E7%9A%84AI%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E9%82%84%E6%9C%89AMD%E7%9A%84MI325X%E3%80%82%E4%BC%BC%E4%B9%8E%E8%A8%AD%E6%83%B3%E4%B8%BB%E8%A6%81%E9%9D%A2%E5%90%91%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%96%8B%E5%B1%95%E6%A5%AD%E5%8B%99%E7%9A%84%E8%A5%BF%E6%96%B9%E4%BC%81%E6%A5%AD%EF%BC%8C%E5%B0%8D%E7%B8%BD%E9%83%A8%E8%A8%AD%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E5%92%8C%E6%BE%B3%E9%96%80%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%87%BA%E5%8F%A3%E4%BB%8D%E7%82%BA%E3%80%8C%E5%8E%9F%E5%89%87%E4%B8%8A%E7%A6%81%E6%AD%A2%E3%80%8D%E3%80%82%E9%82%84%E8%A6%81%E6%B1%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [澳門](澳門.md), [禁止](禁止.md), [美國](美國.md), [英偉達](英偉達.md)
+___
+##### 2026-01-06 06:50:25 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苏姿丰与黄仁勋等多位美国科技业高层一样，看好AI浪潮仍将持续扩张。#南洋商报 #苏姿丰 #AMD #chips #AIhttps://t.co/5mHEWddUCy https://t.co/8U4Pb0wdLS
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%8F%E5%A7%BF%E4%B8%B0%E4%B8%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E5%A4%9A%E4%BD%8D%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E4%B8%9A%E9%AB%98%E5%B1%82%E4%B8%80%E6%A0%B7%EF%BC%8C%E7%9C%8B%E5%A5%BDAI%E6%B5%AA%E6%BD%AE%E4%BB%8D%E5%B0%86%E6%8C%81%E7%BB%AD%E6%89%A9%E5%BC%A0%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%8F%E5%A7%BF%E4%B8%B0+%23AMD+%23chips+%23AIhttps%3A%2F%2Ft.co%2F5mHEWddUCy+https%3A%2F%2Ft.co%2F8U4Pb0wdLS)
+##### Other Words/Names of Interest in the Above Tweet
+[持续](持续.md), [科技](科技.md), [美国](美国.md), [苏姿丰](苏姿丰.md), [黄仁勋](黄仁勋.md)
+___
 ##### 2025-12-06 06:28:32 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国超微半导体（AMD）已获得向中国出口部分MI308晶片的许可，并准备好在出口后向美国政府缴纳销售所得营收的15%。 https://t.co/MLCss60kDD
 

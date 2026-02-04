@@ -7,6 +7,62 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2026-01-25 02:31:15 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国官方正深入审查美国科技巨头Meta收购人工智能起步公司Manus的交易，若认定存在违规行为，这宗收购案可能面临变动甚至被推翻的风险。 https://t.co/9EkWGVjBac
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E6%AD%A3%E6%B7%B1%E5%85%A5%E5%AE%A1%E6%9F%A5%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4Meta%E6%94%B6%E8%B4%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%B5%B7%E6%AD%A5%E5%85%AC%E5%8F%B8Manus%E7%9A%84%E4%BA%A4%E6%98%93%EF%BC%8C%E8%8B%A5%E8%AE%A4%E5%AE%9A%E5%AD%98%E5%9C%A8%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E8%BF%99%E5%AE%97%E6%94%B6%E8%B4%AD%E6%A1%88%E5%8F%AF%E8%83%BD%E9%9D%A2%E4%B8%B4%E5%8F%98%E5%8A%A8%E7%94%9A%E8%87%B3%E8%A2%AB%E6%8E%A8%E7%BF%BB%E7%9A%84%E9%A3%8E%E9%99%A9%E3%80%82+https%3A%2F%2Ft.co%2F9EkWGVjBac)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [人工](人工.md), [人工智能](人工智能.md), [审查](审查.md), [巨头](巨头.md), [收购](收购.md), [科技](科技.md), [美国](美国.md), [行为](行为.md), [面临](面临.md), [风险](风险.md)
+___
+##### 2026-01-19 18:56:59 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【新一代的Llama大型模型、Meta智能眼镜作为AI的入口，再加上Manus AI 各种应用等……Meta 的AI反击战，值得让我们期待。#孙德俊】#南洋商报 #ManusAI #Metahttps://t.co/11kvFLH2DN…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%96%B0%E4%B8%80%E4%BB%A3%E7%9A%84Llama%E5%A4%A7%E5%9E%8B%E6%A8%A1%E5%9E%8B%E3%80%81Meta%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E4%BD%9C%E4%B8%BAAI%E7%9A%84%E5%85%A5%E5%8F%A3%EF%BC%8C%E5%86%8D%E5%8A%A0%E4%B8%8AManus+AI+%E5%90%84%E7%A7%8D%E5%BA%94%E7%94%A8%E7%AD%89%E2%80%A6%E2%80%A6Meta+%E7%9A%84AI%E5%8F%8D%E5%87%BB%E6%88%98%EF%BC%8C%E5%80%BC%E5%BE%97%E8%AE%A9%E6%88%91%E4%BB%AC%E6%9C%9F%E5%BE%85%E3%80%82%23%E5%AD%99%E5%BE%B7%E4%BF%8A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23ManusAI+%23Metahttps%3A%2F%2Ft.co%2F11kvFLH2DN%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [模型](模型.md)
+___
+##### 2026-01-08 14:34:23 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国官方证实，将对美国科技巨头Meta收购人工智能公司Manus，与出口管制、技术进出口、对外投资等相关法律法规的一致性，开展评估调查。 https://t.co/ykloBlKoZN
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E%EF%BC%8C%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4Meta%E6%94%B6%E8%B4%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Manus%EF%BC%8C%E4%B8%8E%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E3%80%81%E6%8A%80%E6%9C%AF%E8%BF%9B%E5%87%BA%E5%8F%A3%E3%80%81%E5%AF%B9%E5%A4%96%E6%8A%95%E8%B5%84%E7%AD%89%E7%9B%B8%E5%85%B3%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%E7%9A%84%E4%B8%80%E8%87%B4%E6%80%A7%EF%BC%8C%E5%BC%80%E5%B1%95%E8%AF%84%E4%BC%B0%E8%B0%83%E6%9F%A5%E3%80%82+https%3A%2F%2Ft.co%2FykloBlKoZN)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [巨头](巨头.md), [技术](技术.md), [投资](投资.md), [收购](收购.md), [相关](相关.md), [科技](科技.md), [管制](管制.md), [美国](美国.md), [证实](证实.md), [评估](评估.md), [调查](调查.md)
+___
+##### 2026-01-08 01:23:15 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国据报正在审查美国科技巨头Meta收购人工智能公司Manus的交易，评估是否违反中国技术出口管制规定。分析认为，Manus迁出中国、被国际大厂收购，虽被业界奉为中国初创企业变现的完美路径，但这起高调交易令北京担忧造成不良示范效应，导致科技资产和人才…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E6%8D%AE%E6%8A%A5%E6%AD%A3%E5%9C%A8%E5%AE%A1%E6%9F%A5%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4Meta%E6%94%B6%E8%B4%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Manus%E7%9A%84%E4%BA%A4%E6%98%93%EF%BC%8C%E8%AF%84%E4%BC%B0%E6%98%AF%E5%90%A6%E8%BF%9D%E5%8F%8D%E4%B8%AD%E5%9B%BD%E6%8A%80%E6%9C%AF%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E8%A7%84%E5%AE%9A%E3%80%82%E5%88%86%E6%9E%90%E8%AE%A4%E4%B8%BA%EF%BC%8CManus%E8%BF%81%E5%87%BA%E4%B8%AD%E5%9B%BD%E3%80%81%E8%A2%AB%E5%9B%BD%E9%99%85%E5%A4%A7%E5%8E%82%E6%94%B6%E8%B4%AD%EF%BC%8C%E8%99%BD%E8%A2%AB%E4%B8%9A%E7%95%8C%E5%A5%89%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E5%8F%98%E7%8E%B0%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%B7%AF%E5%BE%84%EF%BC%8C%E4%BD%86%E8%BF%99%E8%B5%B7%E9%AB%98%E8%B0%83%E4%BA%A4%E6%98%93%E4%BB%A4%E5%8C%97%E4%BA%AC%E6%8B%85%E5%BF%A7%E9%80%A0%E6%88%90%E4%B8%8D%E8%89%AF%E7%A4%BA%E8%8C%83%E6%95%88%E5%BA%94%EF%BC%8C%E5%AF%BC%E8%87%B4%E7%A7%91%E6%8A%80%E8%B5%84%E4%BA%A7%E5%92%8C%E4%BA%BA%E6%89%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [人工](人工.md), [人工智能](人工智能.md), [分析](分析.md), [初创企业](初创企业.md), [北京](北京.md), [审查](审查.md), [导致](导致.md), [巨头](巨头.md), [技术](技术.md), [担忧](担忧.md), [收购](收购.md), [科技](科技.md), [管制](管制.md), [美国](美国.md), [评估](评估.md), [资产](资产.md)
+___
+##### 2026-01-07 06:20:31 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 英国《金融时报》星期二（1月6日）引述两名消息人士透露，中国官员正在审查美国科技巨头Meta以20亿美元（25.6亿新元）收购人工智能初创公司Manus的交易，以确定是否存在技术管制违规行为。 https://t.co/4vrv1s3Ddg
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%98%9F%E6%9C%9F%E4%BA%8C%EF%BC%881%E6%9C%886%E6%97%A5%EF%BC%89%E5%BC%95%E8%BF%B0%E4%B8%A4%E5%90%8D%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E6%AD%A3%E5%9C%A8%E5%AE%A1%E6%9F%A5%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4Meta%E4%BB%A520%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8825.6%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%E6%94%B6%E8%B4%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Manus%E7%9A%84%E4%BA%A4%E6%98%93%EF%BC%8C%E4%BB%A5%E7%A1%AE%E5%AE%9A%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E6%8A%80%E6%9C%AF%E7%AE%A1%E5%88%B6%E8%BF%9D%E8%A7%84%E8%A1%8C%E4%B8%BA%E3%80%82+https%3A%2F%2Ft.co%2F4vrv1s3Ddg)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [人工](人工.md), [人工智能](人工智能.md), [审查](审查.md), [巨头](巨头.md), [引述](引述.md), [技术](技术.md), [收购](收购.md), [科技](科技.md), [管制](管制.md), [美国](美国.md), [行为](行为.md), [透露](透露.md), [金融](金融.md)
+___
+##### 2026-01-03 02:45:39 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: Manus卖给美企将引蝴蝶效应? 受访专家认为，Manus模式会否被沿用，取决于企业规模和业务。 https://t.co/ruNDeiMbzk
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+Manus%E5%8D%96%E7%BB%99%E7%BE%8E%E4%BC%81%E5%B0%86%E5%BC%95%E8%9D%B4%E8%9D%B6%E6%95%88%E5%BA%94%3F+%E5%8F%97%E8%AE%BF%E4%B8%93%E5%AE%B6%E8%AE%A4%E4%B8%BA%EF%BC%8CManus%E6%A8%A1%E5%BC%8F%E4%BC%9A%E5%90%A6%E8%A2%AB%E6%B2%BF%E7%94%A8%EF%BC%8C%E5%8F%96%E5%86%B3%E4%BA%8E%E4%BC%81%E4%B8%9A%E8%A7%84%E6%A8%A1%E5%92%8C%E4%B8%9A%E5%8A%A1%E3%80%82+https%3A%2F%2Ft.co%2FruNDeiMbzk)
+##### Other Words/Names of Interest in the Above Tweet
+[模式](模式.md), [规模](规模.md)
+___
+##### 2025-12-31 14:06:06 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Manus的创始人做出了淡化自身中国背景的战略性决定，这有助于为该公司获得美国的投资做好准备。一位学者表示，如果这笔交易顺利完成，将为中国的年轻AI初创公司开辟一条新路。他说，问题在于华盛顿方面是会支持这笔交易，还是会认为这只是美国资本投资中国公…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Manus%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%81%9A%E5%87%BA%E4%BA%86%E6%B7%A1%E5%8C%96%E8%87%AA%E8%BA%AB%E4%B8%AD%E5%9B%BD%E8%83%8C%E6%99%AF%E7%9A%84%E6%88%98%E7%95%A5%E6%80%A7%E5%86%B3%E5%AE%9A%EF%BC%8C%E8%BF%99%E6%9C%89%E5%8A%A9%E4%BA%8E%E4%B8%BA%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%8E%B7%E5%BE%97%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%8A%95%E8%B5%84%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%E3%80%82%E4%B8%80%E4%BD%8D%E5%AD%A6%E8%80%85%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%E9%A1%BA%E5%88%A9%E5%AE%8C%E6%88%90%EF%BC%8C%E5%B0%86%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B9%B4%E8%BD%BBAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E5%BC%80%E8%BE%9F%E4%B8%80%E6%9D%A1%E6%96%B0%E8%B7%AF%E3%80%82%E4%BB%96%E8%AF%B4%EF%BC%8C%E9%97%AE%E9%A2%98%E5%9C%A8%E4%BA%8E%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%96%B9%E9%9D%A2%E6%98%AF%E4%BC%9A%E6%94%AF%E6%8C%81%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%EF%BC%8C%E8%BF%98%E6%98%AF%E4%BC%9A%E8%AE%A4%E4%B8%BA%E8%BF%99%E5%8F%AA%E6%98%AF%E7%BE%8E%E5%9B%BD%E8%B5%84%E6%9C%AC%E6%8A%95%E8%B5%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [战略](战略.md), [投资](投资.md), [支持](支持.md), [美国](美国.md), [获得](获得.md)
+___
+##### 2025-12-31 00:42:31 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 脸书母公司Meta已同意收购来自中国、曾被外界称为“下一个DeepSeek”的新创公司Manus，借此补强旗下广受关注的AI代理产品线。#南洋商报 #Meta #Manus #AIhttps://t.co/q34N4nL4Pf https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%84%B8%E4%B9%A6%E6%AF%8D%E5%85%AC%E5%8F%B8Meta%E5%B7%B2%E5%90%8C%E6%84%8F%E6%94%B6%E8%B4%AD%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E3%80%81%E6%9B%BE%E8%A2%AB%E5%A4%96%E7%95%8C%E7%A7%B0%E4%B8%BA%E2%80%9C%E4%B8%8B%E4%B8%80%E4%B8%AADeepSeek%E2%80%9D%E7%9A%84%E6%96%B0%E5%88%9B%E5%85%AC%E5%8F%B8Manus%EF%BC%8C%E5%80%9F%E6%AD%A4%E8%A1%A5%E5%BC%BA%E6%97%97%E4%B8%8B%E5%B9%BF%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84AI%E4%BB%A3%E7%90%86%E4%BA%A7%E5%93%81%E7%BA%BF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Meta+%23Manus+%23AIhttps%3A%2F%2Ft.co%2Fq34N4nL4Pf+https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [关注](关注.md), [收购](收购.md), [来自](来自.md)
+___
 ##### 2025-07-14 15:31:08 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: “中国团队、英文界面、新加坡总部”——三个看似毫无交集的标签，同时贴在Manus AI身上。这家曾被视为中国通用AI破局者、一度引爆全球科技圈的公司，如今正悄然转身，撤出中国。 https://t.co/NaEmfJmgk1
 
@@ -70,14 +126,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [代码](代码.md), [型](型.md), [大葱](大葱.md), [开源](开源.md), [支持](支持.md), [替代](替代.md), [葱](葱.md), [逐步](逐步.md), [项目](项目.md)
 ___
-##### 2025-03-15 05:23:37 UTC ~ 吕立青_JimmyLv (闭关ing) 2𐃏25
+##### 2025-03-15 05:23:37 UTC ~ 吕立青_JimmyLv 2𐃏26
 > RT @Jimmy_JingLv: 推荐张小珺采访Manus创始人肖弘的播客“昨天问DeepSeek翻译一下贪嗔痴这三个词，他好会解释，贪就是对顺境的执着，嗔就是对逆境的不满，痴是对世界真相的无知。世界真相这个很高端了，我就不谈。但是贪和嗔，这是大家很多时候遇到的问题，是对…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jimmy_JingLv%3A+%E6%8E%A8%E8%8D%90%E5%BC%A0%E5%B0%8F%E7%8F%BA%E9%87%87%E8%AE%BFManus%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%82%96%E5%BC%98%E7%9A%84%E6%92%AD%E5%AE%A2%E2%80%9C%E6%98%A8%E5%A4%A9%E9%97%AEDeepSeek%E7%BF%BB%E8%AF%91%E4%B8%80%E4%B8%8B%E8%B4%AA%E5%97%94%E7%97%B4%E8%BF%99%E4%B8%89%E4%B8%AA%E8%AF%8D%EF%BC%8C%E4%BB%96%E5%A5%BD%E4%BC%9A%E8%A7%A3%E9%87%8A%EF%BC%8C%E8%B4%AA%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%A1%BA%E5%A2%83%E7%9A%84%E6%89%A7%E7%9D%80%EF%BC%8C%E5%97%94%E5%B0%B1%E6%98%AF%E5%AF%B9%E9%80%86%E5%A2%83%E7%9A%84%E4%B8%8D%E6%BB%A1%EF%BC%8C%E7%97%B4%E6%98%AF%E5%AF%B9%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9B%B8%E7%9A%84%E6%97%A0%E7%9F%A5%E3%80%82%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9B%B8%E8%BF%99%E4%B8%AA%E5%BE%88%E9%AB%98%E7%AB%AF%E4%BA%86%EF%BC%8C%E6%88%91%E5%B0%B1%E4%B8%8D%E8%B0%88%E3%80%82%E4%BD%86%E6%98%AF%E8%B4%AA%E5%92%8C%E5%97%94%EF%BC%8C%E8%BF%99%E6%98%AF%E5%A4%A7%E5%AE%B6%E5%BE%88%E5%A4%9A%E6%97%B6%E5%80%99%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%AF%E5%AF%B9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [推荐](推荐.md), [肖](肖.md), [采访](采访.md)
 ___
-##### 2025-03-12 07:21:25 UTC ~ 小互
+##### 2025-03-12 07:21:25 UTC ~ 
 > RT @imxiaohu: Manus宣布与阿里通义千问团队达成战略合作双方将基于通义千问系列开源模型，在国产模型和算力平台上实现Manus的全部功能。目前两家技术团队已展开紧密协作，开发中国版本！ https://t.co/x8XQYBaItG
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Manus%E5%AE%A3%E5%B8%83%E4%B8%8E%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9F%BA%E4%BA%8E%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E7%B3%BB%E5%88%97%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9C%A8%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%AE%97%E5%8A%9B%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%AE%9E%E7%8E%B0Manus%E7%9A%84%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD%E3%80%82%E7%9B%AE%E5%89%8D%E4%B8%A4%E5%AE%B6%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F%E5%B7%B2%E5%B1%95%E5%BC%80%E7%B4%A7%E5%AF%86%E5%8D%8F%E4%BD%9C%EF%BC%8C%E5%BC%80%E5%8F%91%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9C%AC%EF%BC%81+https%3A%2F%2Ft.co%2Fx8XQYBaItG)

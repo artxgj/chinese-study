@@ -8,6 +8,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-06-23 06:42:20 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 由中资拥有的视频分享公司TikTok的首席运营官、驻美国的最高级别高管V Pappas将在任职近五年后离职，此举为该公司在最重要市场面临关键时刻之际调整领导层拉开序幕。https://t.co/eQCAz2XnBT
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%94%B1%E4%B8%AD%E8%B5%84%E6%8B%A5%E6%9C%89%E7%9A%84%E8%A7%86%E9%A2%91%E5%88%86%E4%BA%AB%E5%85%AC%E5%8F%B8TikTok%E7%9A%84%E9%A6%96%E5%B8%AD%E8%BF%90%E8%90%A5%E5%AE%98%E3%80%81%E9%A9%BB%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%9C%80%E9%AB%98%E7%BA%A7%E5%88%AB%E9%AB%98%E7%AE%A1V+Pappas%E5%B0%86%E5%9C%A8%E4%BB%BB%E8%81%8C%E8%BF%91%E4%BA%94%E5%B9%B4%E5%90%8E%E7%A6%BB%E8%81%8C%EF%BC%8C%E6%AD%A4%E4%B8%BE%E4%B8%BA%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E6%9C%80%E9%87%8D%E8%A6%81%E5%B8%82%E5%9C%BA%E9%9D%A2%E4%B8%B4%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E4%B9%8B%E9%99%85%E8%B0%83%E6%95%B4%E9%A2%86%E5%AF%BC%E5%B1%82%E6%8B%89%E5%BC%80%E5%BA%8F%E5%B9%95%E3%80%82https%3A%2F%2Ft.co%2FeQCAz2XnBT)
+##### Other Words/Names of Interest in the Above Tweet
+[关键](关键.md), [此举](此举.md), [离职](离职.md), [美国](美国.md), [面临](面临.md), [领导](领导.md)
+___
+##### 2023-06-22 05:52:52 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 对于所有面向消费者的美国公司来说，社交媒体巨头TikTok上的潮流已成为不可回避的考量因素，这打破了商业周期，也颠覆了企业的研发。这像是一场赌博。但许多高管表示这场赌博是必要的。 https://t.co/9S4PB2Kl8W
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%AF%B9%E4%BA%8E%E6%89%80%E6%9C%89%E9%9D%A2%E5%90%91%E6%B6%88%E8%B4%B9%E8%80%85%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E6%9D%A5%E8%AF%B4%EF%BC%8C%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B7%A8%E5%A4%B4TikTok%E4%B8%8A%E7%9A%84%E6%BD%AE%E6%B5%81%E5%B7%B2%E6%88%90%E4%B8%BA%E4%B8%8D%E5%8F%AF%E5%9B%9E%E9%81%BF%E7%9A%84%E8%80%83%E9%87%8F%E5%9B%A0%E7%B4%A0%EF%BC%8C%E8%BF%99%E6%89%93%E7%A0%B4%E4%BA%86%E5%95%86%E4%B8%9A%E5%91%A8%E6%9C%9F%EF%BC%8C%E4%B9%9F%E9%A2%A0%E8%A6%86%E4%BA%86%E4%BC%81%E4%B8%9A%E7%9A%84%E7%A0%94%E5%8F%91%E3%80%82%E8%BF%99%E5%83%8F%E6%98%AF%E4%B8%80%E5%9C%BA%E8%B5%8C%E5%8D%9A%E3%80%82%E4%BD%86%E8%AE%B8%E5%A4%9A%E9%AB%98%E7%AE%A1%E8%A1%A8%E7%A4%BA%E8%BF%99%E5%9C%BA%E8%B5%8C%E5%8D%9A%E6%98%AF%E5%BF%85%E8%A6%81%E7%9A%84%E3%80%82+https%3A%2F%2Ft.co%2F9S4PB2Kl8W)
+##### Other Words/Names of Interest in the Above Tweet
+[因素](因素.md), [巨头](巨头.md), [消费者](消费者.md), [研发](研发.md), [社交媒体](社交媒体.md), [美国](美国.md), [颠覆](颠覆.md)
+___
+##### 2023-06-08 09:09:34 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 字节跳动（ByteDance）旗下的社交媒体TikTok计划今年把全球电子商务业务的规模增加三倍以上，商品交易总值达到200亿美元（370亿新元），这主要依靠东南亚的快速增长。https://t.co/ICbHXkWwA0
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%EF%BC%88ByteDance%EF%BC%89%E6%97%97%E4%B8%8B%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93TikTok%E8%AE%A1%E5%88%92%E4%BB%8A%E5%B9%B4%E6%8A%8A%E5%85%A8%E7%90%83%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E4%B8%9A%E5%8A%A1%E7%9A%84%E8%A7%84%E6%A8%A1%E5%A2%9E%E5%8A%A0%E4%B8%89%E5%80%8D%E4%BB%A5%E4%B8%8A%EF%BC%8C%E5%95%86%E5%93%81%E4%BA%A4%E6%98%93%E6%80%BB%E5%80%BC%E8%BE%BE%E5%88%B0200%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88370%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E8%BF%99%E4%B8%BB%E8%A6%81%E4%BE%9D%E9%9D%A0%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%9A%84%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF%E3%80%82https%3A%2F%2Ft.co%2FICbHXkWwA0)
+##### Other Words/Names of Interest in the Above Tweet
+[东南亚](东南亚.md), [交易](交易.md), [商品](商品.md), [增长](增长.md), [字节跳动](字节跳动.md), [社交媒体](社交媒体.md), [规模](规模.md), [计划](计划.md)
+___
+##### 2023-06-06 04:39:10 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: TikTok母公司字节跳动的一名前高管指称，公司内部的一个中共委员会在2018年访问了TikTok香港用户数据，关注民权活动人士和抗议者。该公司否认了这一说法。 诉状说，公司党委成员可获得“超级用户”资格，查看字节跳动收集的所有数据。http…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84%E4%B8%80%E5%90%8D%E5%89%8D%E9%AB%98%E7%AE%A1%E6%8C%87%E7%A7%B0%EF%BC%8C%E5%85%AC%E5%8F%B8%E5%86%85%E9%83%A8%E7%9A%84%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%85%B1%E5%A7%94%E5%91%98%E4%BC%9A%E5%9C%A82018%E5%B9%B4%E8%AE%BF%E9%97%AE%E4%BA%86TikTok%E9%A6%99%E6%B8%AF%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%85%B3%E6%B3%A8%E6%B0%91%E6%9D%83%E6%B4%BB%E5%8A%A8%E4%BA%BA%E5%A3%AB%E5%92%8C%E6%8A%97%E8%AE%AE%E8%80%85%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%90%A6%E8%AE%A4%E4%BA%86%E8%BF%99%E4%B8%80%E8%AF%B4%E6%B3%95%E3%80%82+%E8%AF%89%E7%8A%B6%E8%AF%B4%EF%BC%8C%E5%85%AC%E5%8F%B8%E5%85%9A%E5%A7%94%E6%88%90%E5%91%98%E5%8F%AF%E8%8E%B7%E5%BE%97%E2%80%9C%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7%E2%80%9D%E8%B5%84%E6%A0%BC%EF%BC%8C%E6%9F%A5%E7%9C%8B%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%94%B6%E9%9B%86%E7%9A%84%E6%89%80%E6%9C%89%E6%95%B0%E6%8D%AE%E3%80%82http%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[关注](关注.md), [否认](否认.md), [委员会](委员会.md), [字节跳动](字节跳动.md), [抗议](抗议.md), [收集](收集.md), [数据](数据.md), [获得](获得.md), [香港](香港.md)
+___
+##### 2023-06-02 06:56:46 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 据美国科技媒体The Information报道，TikTok新加坡籍首席执行官周受资的职权范围将扩大，他将掌管母公司旗下的内容分享平台Lemon8。https://t.co/EmhsCurSfC
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%8D%AE%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93The+Information%E6%8A%A5%E9%81%93%EF%BC%8CTikTok%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%B1%8D%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%91%A8%E5%8F%97%E8%B5%84%E7%9A%84%E8%81%8C%E6%9D%83%E8%8C%83%E5%9B%B4%E5%B0%86%E6%89%A9%E5%A4%A7%EF%BC%8C%E4%BB%96%E5%B0%86%E6%8E%8C%E7%AE%A1%E6%AF%8D%E5%85%AC%E5%8F%B8%E6%97%97%E4%B8%8B%E7%9A%84%E5%86%85%E5%AE%B9%E5%88%86%E4%BA%AB%E5%B9%B3%E5%8F%B0Lemon8%E3%80%82https%3A%2F%2Ft.co%2FEmhsCurSfC)
+##### Other Words/Names of Interest in the Above Tweet
+[周受资](周受资.md), [平台](平台.md), [执行](执行.md), [扩大](扩大.md), [新加坡](新加坡.md), [科技](科技.md), [美国](美国.md), [首席执行官](首席执行官.md)
+___
+##### 2023-05-31 05:38:37 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【10个数字看ChatGPT问世这半年】ChatGPT发布后的2个月内，在全球的月均用户数就达到1亿人，过去TikTok和Instagram分别用了9个月和28个月才获得1亿用户。ChatGPT可能将全球的GDP推高7万亿美元……http…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%9010%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8BChatGPT%E9%97%AE%E4%B8%96%E8%BF%99%E5%8D%8A%E5%B9%B4%E3%80%91ChatGPT%E5%8F%91%E5%B8%83%E5%90%8E%E7%9A%842%E4%B8%AA%E6%9C%88%E5%86%85%EF%BC%8C%E5%9C%A8%E5%85%A8%E7%90%83%E7%9A%84%E6%9C%88%E5%9D%87%E7%94%A8%E6%88%B7%E6%95%B0%E5%B0%B1%E8%BE%BE%E5%88%B01%E4%BA%BF%E4%BA%BA%EF%BC%8C%E8%BF%87%E5%8E%BBTikTok%E5%92%8CInstagram%E5%88%86%E5%88%AB%E7%94%A8%E4%BA%869%E4%B8%AA%E6%9C%88%E5%92%8C28%E4%B8%AA%E6%9C%88%E6%89%8D%E8%8E%B7%E5%BE%971%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82ChatGPT%E5%8F%AF%E8%83%BD%E5%B0%86%E5%85%A8%E7%90%83%E7%9A%84GDP%E6%8E%A8%E9%AB%987%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%A6%E2%80%A6http%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [推高](推高.md), [获得](获得.md)
+___
 ##### 2023-05-26 05:02:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: TikTok正在测试一个由生成式AI驱动的聊天机器人，旨在帮助用户寻找内容并获得更多的内容推荐。该公司周四表示，已经在菲律宾测试该功能，其聊天机器人被称为Tako。 https://t.co/Jb6Y07tWRC
 

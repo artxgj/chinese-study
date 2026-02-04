@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2026-01-06 15:08:48 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 经常需要截图分享给朋友，或者录制操作演示，Windows 上的 ShareX 好用，但切换到 Linux 或 macOS 系统就没法用了。偶然看到 SnapX 这个开源项目，基于 ShareX 重构，实现了真正的跨平台支持，Linux、W…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%8F%E5%B8%B8%E9%9C%80%E8%A6%81%E6%88%AA%E5%9B%BE%E5%88%86%E4%BA%AB%E7%BB%99%E6%9C%8B%E5%8F%8B%EF%BC%8C%E6%88%96%E8%80%85%E5%BD%95%E5%88%B6%E6%93%8D%E4%BD%9C%E6%BC%94%E7%A4%BA%EF%BC%8CWindows+%E4%B8%8A%E7%9A%84+ShareX+%E5%A5%BD%E7%94%A8%EF%BC%8C%E4%BD%86%E5%88%87%E6%8D%A2%E5%88%B0+Linux+%E6%88%96+macOS+%E7%B3%BB%E7%BB%9F%E5%B0%B1%E6%B2%A1%E6%B3%95%E7%94%A8%E4%BA%86%E3%80%82%E5%81%B6%E7%84%B6%E7%9C%8B%E5%88%B0+SnapX+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%9F%BA%E4%BA%8E+ShareX+%E9%87%8D%E6%9E%84%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%BA%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B7%A8%E5%B9%B3%E5%8F%B0%E6%94%AF%E6%8C%81%EF%BC%8CLinux%E3%80%81W%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Linux](Linux.md), [mac](mac.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [操作](操作.md), [支持](支持.md), [系统](系统.md), [项目](项目.md)
+___
 ##### 2025-09-27 19:43:53 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 微软先前宣布将于10月14日后停止为Windows 10提供更新，个人与企业用户若想继续获得支持，需额外付费购买延长更新服务，或付费使用云端备份功能。#南洋商报 #微软 #Microsoft #Windows10https://t.co/h…
 

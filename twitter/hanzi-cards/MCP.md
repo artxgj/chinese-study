@@ -84,7 +84,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Anthropic](Anthropic.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [推出](推出.md), [模型](模型.md), [焦点](焦点.md), [迅速](迅速.md)
 ___
-##### 2025-04-24 03:48:48 UTC ~ 面条
+##### 2025-04-24 03:48:48 UTC ~ 
 > RT @miantiao_me: 在 Docker 沙箱中运行 MCP Server，减少 npx 和 uvx 直接运行带来的任意文件读取风险。可以分享给小白朋友使用，同时移动端也可以完美调用了 https://t.co/l3IiU0Su6n
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40miantiao_me%3A+%E5%9C%A8+Docker+%E6%B2%99%E7%AE%B1%E4%B8%AD%E8%BF%90%E8%A1%8C+MCP+Server%EF%BC%8C%E5%87%8F%E5%B0%91+npx+%E5%92%8C+uvx+%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C%E5%B8%A6%E6%9D%A5%E7%9A%84%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E9%A3%8E%E9%99%A9%E3%80%82%E5%8F%AF%E4%BB%A5%E5%88%86%E4%BA%AB%E7%BB%99%E5%B0%8F%E7%99%BD%E6%9C%8B%E5%8F%8B%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%90%8C%E6%97%B6%E7%A7%BB%E5%8A%A8%E7%AB%AF%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%AE%8C%E7%BE%8E%E8%B0%83%E7%94%A8%E4%BA%86+https%3A%2F%2Ft.co%2Fl3IiU0Su6n)
@@ -126,7 +126,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Python](Python.md), [协议](协议.md), [客户](客户.md), [开发](开发.md), [开源](开源.md), [效率](效率.md), [进行](进行.md), [降低](降低.md), [需求](需求.md)
 ___
-##### 2025-04-21 02:55:15 UTC ~ 面条
+##### 2025-04-21 02:55:15 UTC ~ 
 > RT @miantiao_me: 大模型的知识库都有截止时间，面对新版本的框架和库写出来的代码大概率没法用Context7 提供了 1800+ 热门库的 LLMs.txt 和 MCP Server 给大模型读取或者编辑器调用，由 Upstash 开源让 AI 更好的理解…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40miantiao_me%3A+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%83%BD%E6%9C%89%E6%88%AA%E6%AD%A2%E6%97%B6%E9%97%B4%EF%BC%8C%E9%9D%A2%E5%AF%B9%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BA%93%E5%86%99%E5%87%BA%E6%9D%A5%E7%9A%84%E4%BB%A3%E7%A0%81%E5%A4%A7%E6%A6%82%E7%8E%87%E6%B2%A1%E6%B3%95%E7%94%A8Context7+%E6%8F%90%E4%BE%9B%E4%BA%86+1800%2B+%E7%83%AD%E9%97%A8%E5%BA%93%E7%9A%84+LLMs.txt+%E5%92%8C+MCP+Server+%E7%BB%99%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%BB%E5%8F%96%E6%88%96%E8%80%85%E7%BC%96%E8%BE%91%E5%99%A8%E8%B0%83%E7%94%A8%EF%BC%8C%E7%94%B1+Upstash+%E5%BC%80%E6%BA%90%E8%AE%A9+AI+%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%90%86%E8%A7%A3%E2%80%A6)
@@ -398,13 +398,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E9%97%A8+MCP+%E7%BC%96%E7%A8%8B%E6%9E%81%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%9AMCP-Chinese-Started-Guide%E3%80%82%E4%BD%9C%E8%80%85%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%AE%B2%E8%A7%A3%E4%BA%86%E5%A6%82%E4%BD%95%E4%BB%8E%E5%BC%80%E5%8F%91+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%88%B0%E8%B0%83%E8%AF%95+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%86%8D%E5%88%B0%E7%BB%93%E5%90%88++DeepSeek+%2B+Cline+%E6%9E%84%E5%BB%BA%E5%9B%BE%E6%96%87%E7%94%9F%E6%88%90%E5%AE%9E%E4%BE%8B%E3%80%82Git%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [开发](开发.md)
-___
-##### 2025-03-28 09:37:19 UTC ~ NanYi
-> RT @iamnanyi: 突然发现本地部署模型+MCP是个大杀器，买个Mac Studio ，配置升满，6万多块，跑个量化的本地DeepSeek V3 671B，然后你能远程用一个对话框，在服务器上干各种事了。比如客户端开发部门要有个打包平台，给其他各个部门打包测试，以前得…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40iamnanyi%3A+%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E6%9C%AC%E5%9C%B0%E9%83%A8%E7%BD%B2%E6%A8%A1%E5%9E%8B%2BMCP%E6%98%AF%E4%B8%AA%E5%A4%A7%E6%9D%80%E5%99%A8%EF%BC%8C%E4%B9%B0%E4%B8%AAMac+Studio+%EF%BC%8C%E9%85%8D%E7%BD%AE%E5%8D%87%E6%BB%A1%EF%BC%8C6%E4%B8%87%E5%A4%9A%E5%9D%97%EF%BC%8C%E8%B7%91%E4%B8%AA%E9%87%8F%E5%8C%96%E7%9A%84%E6%9C%AC%E5%9C%B0DeepSeek+V3+671B%EF%BC%8C%E7%84%B6%E5%90%8E%E4%BD%A0%E8%83%BD%E8%BF%9C%E7%A8%8B%E7%94%A8%E4%B8%80%E4%B8%AA%E5%AF%B9%E8%AF%9D%E6%A1%86%EF%BC%8C%E5%9C%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%8A%E5%B9%B2%E5%90%84%E7%A7%8D%E4%BA%8B%E4%BA%86%E3%80%82%E6%AF%94%E5%A6%82%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%BC%80%E5%8F%91%E9%83%A8%E9%97%A8%E8%A6%81%E6%9C%89%E4%B8%AA%E6%89%93%E5%8C%85%E5%B9%B3%E5%8F%B0%EF%BC%8C%E7%BB%99%E5%85%B6%E4%BB%96%E5%90%84%E4%B8%AA%E9%83%A8%E9%97%A8%E6%89%93%E5%8C%85%E6%B5%8B%E8%AF%95%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%BE%97%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [Mac](Mac.md), [各个](各个.md), [型](型.md), [客户](客户.md), [平台](平台.md), [开发](开发.md), [模型](模型.md), [量化](量化.md)
 ___
 ##### 2025-03-28 08:04:44 UTC ~ 倪爽
 > RT @nishuang: 我回想了一下，能引发全人类一起刷屏的 AI，基本上都来自 ChatGPT重要原因是用户达到满足的路径非常短，打开、一句话出结果、高潮、分享到社交媒体、持续高潮一天尖叫一天欲仙欲死一天😂MCP 那些只能触及少数人，路径也太长 https://t…

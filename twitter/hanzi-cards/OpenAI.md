@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2026-01-22 16:38:24 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Siri目前缺乏聊天式体验，也不具备像OpenAI的ChatGPT或谷歌的Gemini那样的AI对话能力。#南洋商报 #apple #Siri #AI https://t.co/CloIOJddm3 https://t.co/inaOFC…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Siri%E7%9B%AE%E5%89%8D%E7%BC%BA%E4%B9%8F%E8%81%8A%E5%A4%A9%E5%BC%8F%E4%BD%93%E9%AA%8C%EF%BC%8C%E4%B9%9F%E4%B8%8D%E5%85%B7%E5%A4%87%E5%83%8FOpenAI%E7%9A%84ChatGPT%E6%88%96%E8%B0%B7%E6%AD%8C%E7%9A%84Gemini%E9%82%A3%E6%A0%B7%E7%9A%84AI%E5%AF%B9%E8%AF%9D%E8%83%BD%E5%8A%9B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23apple+%23Siri+%23AI+https%3A%2F%2Ft.co%2FCloIOJddm3+https%3A%2F%2Ft.co%2FinaOFC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemini](Gemini.md), [聊天](聊天.md), [谷歌](谷歌.md)
+___
+##### 2026-01-21 06:54:14 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【3個AI參加日本高考，誰得分最高？】從輸入題目到輸出答案，谷歌和Anthropic的模型最快4分鐘左右即可完成1個科目的答題。OpenAI的模型的答題時間是前兩家公司的2～3倍。三個AI模型均擅長理科科目，在語文和地理科目上的失分較為明…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%903%E5%80%8BAI%E5%8F%83%E5%8A%A0%E6%97%A5%E6%9C%AC%E9%AB%98%E8%80%83%EF%BC%8C%E8%AA%B0%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%EF%BC%9F%E3%80%91%E5%BE%9E%E8%BC%B8%E5%85%A5%E9%A1%8C%E7%9B%AE%E5%88%B0%E8%BC%B8%E5%87%BA%E7%AD%94%E6%A1%88%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%92%8CAnthropic%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%9C%80%E5%BF%AB4%E5%88%86%E9%90%98%E5%B7%A6%E5%8F%B3%E5%8D%B3%E5%8F%AF%E5%AE%8C%E6%88%901%E5%80%8B%E7%A7%91%E7%9B%AE%E7%9A%84%E7%AD%94%E9%A1%8C%E3%80%82OpenAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AD%94%E9%A1%8C%E6%99%82%E9%96%93%E6%98%AF%E5%89%8D%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%842%EF%BD%9E3%E5%80%8D%E3%80%82%E4%B8%89%E5%80%8BAI%E6%A8%A1%E5%9E%8B%E5%9D%87%E6%93%85%E9%95%B7%E7%90%86%E7%A7%91%E7%A7%91%E7%9B%AE%EF%BC%8C%E5%9C%A8%E8%AA%9E%E6%96%87%E5%92%8C%E5%9C%B0%E7%90%86%E7%A7%91%E7%9B%AE%E4%B8%8A%E7%9A%84%E5%A4%B1%E5%88%86%E8%BC%83%E7%82%BA%E6%98%8E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [型](型.md), [日本](日本.md), [模型](模型.md), [谷歌](谷歌.md), [高考](高考.md)
+___
+##### 2026-01-15 21:12:55 UTC ~ FTChinese
+> RT @FTChinese: 【苹果在AI竞赛中按兵不动，欲在谷歌与OpenAI之间充当“造王者”】苹果为使用Gemini模型而达成的数十亿美元交易，折射出对基础设施支出的谨慎态度。https://t.co/NlP1xm5BVp https://t.co/Yh4k5aorVo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%9C%A8AI%E7%AB%9E%E8%B5%9B%E4%B8%AD%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8%EF%BC%8C%E6%AC%B2%E5%9C%A8%E8%B0%B7%E6%AD%8C%E4%B8%8EOpenAI%E4%B9%8B%E9%97%B4%E5%85%85%E5%BD%93%E2%80%9C%E9%80%A0%E7%8E%8B%E8%80%85%E2%80%9D%E3%80%91%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%BF%E7%94%A8Gemini%E6%A8%A1%E5%9E%8B%E8%80%8C%E8%BE%BE%E6%88%90%E7%9A%84%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%A4%E6%98%93%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E5%AF%B9%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%94%AF%E5%87%BA%E7%9A%84%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6%E3%80%82https%3A%2F%2Ft.co%2FNlP1xm5BVp+https%3A%2F%2Ft.co%2FYh4k5aorVo)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemini](Gemini.md), [交易](交易.md), [型](型.md), [基础设施](基础设施.md), [支出](支出.md), [模型](模型.md), [苹果](苹果.md), [设施](设施.md), [谨慎](谨慎.md), [谷歌](谷歌.md), [达成](达成.md)
+___
+##### 2025-12-31 01:19:57 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 日本投资大亨、软银社长孙正义，前段时间曾表示，他“含泪清仓”人工智能（AI）芯片巨头英伟达（Nvidia）的股票，以筹措资金投资其他AI项目。如今传出他已成功向OpenAI注资400亿美元。#南洋商报 #孙正义 #软银 #OpenAI #N…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B5%84%E5%A4%A7%E4%BA%A8%E3%80%81%E8%BD%AF%E9%93%B6%E7%A4%BE%E9%95%BF%E5%AD%99%E6%AD%A3%E4%B9%89%EF%BC%8C%E5%89%8D%E6%AE%B5%E6%97%B6%E9%97%B4%E6%9B%BE%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%BB%96%E2%80%9C%E5%90%AB%E6%B3%AA%E6%B8%85%E4%BB%93%E2%80%9D%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88Nvidia%EF%BC%89%E7%9A%84%E8%82%A1%E7%A5%A8%EF%BC%8C%E4%BB%A5%E7%AD%B9%E6%8E%AA%E8%B5%84%E9%87%91%E6%8A%95%E8%B5%84%E5%85%B6%E4%BB%96AI%E9%A1%B9%E7%9B%AE%E3%80%82%E5%A6%82%E4%BB%8A%E4%BC%A0%E5%87%BA%E4%BB%96%E5%B7%B2%E6%88%90%E5%8A%9F%E5%90%91OpenAI%E6%B3%A8%E8%B5%84400%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%AD%99%E6%AD%A3%E4%B9%89+%23%E8%BD%AF%E9%93%B6+%23OpenAI+%23N%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [如今](如今.md), [巨头](巨头.md), [投资](投资.md), [日本](日本.md), [芯片](芯片.md), [英伟达](英伟达.md), [软银](软银.md), [项目](项目.md)
+___
+##### 2025-12-12 07:42:54 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【迪士尼與OpenAI合作，應對AI戰略180度轉彎】迪士尼此前一直通過訴訟來對抗成為盜版溫床的AI，但現在轉向與AI共存，通過AI獲得回報的新業務模式。迪士尼將向OpenAI投資10億美元，後者的視頻生成AI「Sora」將可以使用迪士尼…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%BF%AA%E5%A3%AB%E5%B0%BC%E8%88%87OpenAI%E5%90%88%E4%BD%9C%EF%BC%8C%E6%87%89%E5%B0%8DAI%E6%88%B0%E7%95%A5180%E5%BA%A6%E8%BD%89%E5%BD%8E%E3%80%91%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%AD%A4%E5%89%8D%E4%B8%80%E7%9B%B4%E9%80%9A%E9%81%8E%E8%A8%B4%E8%A8%9F%E4%BE%86%E5%B0%8D%E6%8A%97%E6%88%90%E7%82%BA%E7%9B%9C%E7%89%88%E6%BA%AB%E5%BA%8A%E7%9A%84AI%EF%BC%8C%E4%BD%86%E7%8F%BE%E5%9C%A8%E8%BD%89%E5%90%91%E8%88%87AI%E5%85%B1%E5%AD%98%EF%BC%8C%E9%80%9A%E9%81%8EAI%E7%8D%B2%E5%BE%97%E5%9B%9E%E5%A0%B1%E7%9A%84%E6%96%B0%E6%A5%AD%E5%8B%99%E6%A8%A1%E5%BC%8F%E3%80%82%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%B0%87%E5%90%91OpenAI%E6%8A%95%E8%B3%8710%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E5%BE%8C%E8%80%85%E7%9A%84%E8%A6%96%E9%A0%BB%E7%94%9F%E6%88%90AI%E3%80%8CSora%E3%80%8D%E5%B0%87%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[一直](一直.md), [模式](模式.md), [迪士尼](迪士尼.md)
+___
 ##### 2025-12-05 09:53:50 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司本周出现一波高管离职潮，而过去12个月里，苹果公司已有四名高管离职，另有数十名苹果公司员工跳槽到竞争对手OpenAI和Meta Platforms。https://t.co/WHthkY0r8X
 
@@ -315,7 +350,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [人工](人工.md), [人工智能](人工智能.md), [出售](出售.md), [反垄断](反垄断.md), [垄断](垄断.md), [恢复](恢复.md), [持续](持续.md), [搜索](搜索.md), [收购](收购.md), [根据](根据.md), [竞争](竞争.md), [美国](美国.md), [诉讼](诉讼.md), [谷歌](谷歌.md), [资产](资产.md)
 ___
-##### 2025-04-17 17:46:09 UTC ~ 小互
+##### 2025-04-17 17:46:09 UTC ~ 
 > RT @imxiaohu: OpenAI首席产品官Kevin Weil：教育 AI 是最具价值的 AI 应用之一“每个孩子有个AI家教”。“这能改变世界，”他说，“研究表明有家教的孩子远超普通教育，现在AI能做到，Open AI会全力支持有人将AI教育应用推广到30亿孩…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+OpenAI%E9%A6%96%E5%B8%AD%E4%BA%A7%E5%93%81%E5%AE%98Kevin+Weil%EF%BC%9A%E6%95%99%E8%82%B2+AI+%E6%98%AF%E6%9C%80%E5%85%B7%E4%BB%B7%E5%80%BC%E7%9A%84+AI+%E5%BA%94%E7%94%A8%E4%B9%8B%E4%B8%80%E2%80%9C%E6%AF%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%E6%9C%89%E4%B8%AAAI%E5%AE%B6%E6%95%99%E2%80%9D%E3%80%82%E2%80%9C%E8%BF%99%E8%83%BD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%EF%BC%8C%E2%80%9D%E4%BB%96%E8%AF%B4%EF%BC%8C%E2%80%9C%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E6%9C%89%E5%AE%B6%E6%95%99%E7%9A%84%E5%AD%A9%E5%AD%90%E8%BF%9C%E8%B6%85%E6%99%AE%E9%80%9A%E6%95%99%E8%82%B2%EF%BC%8C%E7%8E%B0%E5%9C%A8AI%E8%83%BD%E5%81%9A%E5%88%B0%EF%BC%8COpen+AI%E4%BC%9A%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E6%9C%89%E4%BA%BA%E5%B0%86AI%E6%95%99%E8%82%B2%E5%BA%94%E7%94%A8%E6%8E%A8%E5%B9%BF%E5%88%B030%E4%BA%BF%E5%AD%A9%E2%80%A6)
@@ -357,7 +392,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [不仅](不仅.md), [催生](催生.md), [垄断](垄断.md), [型](型.md), [巨头](巨头.md), [开源](开源.md), [成本](成本.md), [技术](技术.md), [推理](推理.md), [普及](普及.md), [模型](模型.md), [激进](激进.md), [策略](策略.md), [趋势](趋势.md), [速度](速度.md), [门槛](门槛.md), [降低](降低.md)
 ___
-##### 2025-04-05 05:40:08 UTC ~ 小互
+##### 2025-04-05 05:40:08 UTC ~ 
 > RT @imxiaohu: 一款名为 Quasar Alpha的神秘模型登陆了OpenRouter上下文长度高达 100 万个 token其的响应速度非常快，平均每秒可处理约 136 个 token有人怀疑是 OpenAI 的开源模型，因为问它的是时候它回答是基于G…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E4%B8%80%E6%AC%BE%E5%90%8D%E4%B8%BA+Quasar+Alpha%E7%9A%84%E7%A5%9E%E7%A7%98%E6%A8%A1%E5%9E%8B%E7%99%BB%E9%99%86%E4%BA%86OpenRouter%E4%B8%8A%E4%B8%8B%E6%96%87%E9%95%BF%E5%BA%A6%E9%AB%98%E8%BE%BE+100+%E4%B8%87%E4%B8%AA+token%E5%85%B6%E7%9A%84%E5%93%8D%E5%BA%94%E9%80%9F%E5%BA%A6%E9%9D%9E%E5%B8%B8%E5%BF%AB%EF%BC%8C%E5%B9%B3%E5%9D%87%E6%AF%8F%E7%A7%92%E5%8F%AF%E5%A4%84%E7%90%86%E7%BA%A6+136+%E4%B8%AA+token%E6%9C%89%E4%BA%BA%E6%80%80%E7%96%91%E6%98%AF+OpenAI+%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9B%A0%E4%B8%BA%E9%97%AE%E5%AE%83%E7%9A%84%E6%98%AF%E6%97%B6%E5%80%99%E5%AE%83%E5%9B%9E%E7%AD%94%E6%98%AF%E5%9F%BA%E4%BA%8EG%E2%80%A6)

@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2026-01-21 06:54:19 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【Anthropic CEO：向中國出口AI半導體等同於向朝鮮出售核武器】美國初創企業Anthropic CEO達里奧·阿莫代伊就向中國出口H200表示：是一個重大的錯誤……https://t.co/rto6VNRn8s
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic+CEO%EF%BC%9A%E5%90%91%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%AD%89%E5%90%8C%E6%96%BC%E5%90%91%E6%9C%9D%E9%AE%AE%E5%87%BA%E5%94%AE%E6%A0%B8%E6%AD%A6%E5%99%A8%E3%80%91%E7%BE%8E%E5%9C%8B%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%ADAnthropic+CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E5%B0%B1%E5%90%91%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3H200%E8%A1%A8%E7%A4%BA%EF%BC%9A%E6%98%AF%E4%B8%80%E5%80%8B%E9%87%8D%E5%A4%A7%E7%9A%84%E9%8C%AF%E8%AA%A4%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2Frto6VNRn8s)
+##### Other Words/Names of Interest in the Above Tweet
+[出售](出售.md), [半導體](半導體.md), [美國](美國.md)
+___
+##### 2026-01-21 06:54:14 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【3個AI參加日本高考，誰得分最高？】從輸入題目到輸出答案，谷歌和Anthropic的模型最快4分鐘左右即可完成1個科目的答題。OpenAI的模型的答題時間是前兩家公司的2～3倍。三個AI模型均擅長理科科目，在語文和地理科目上的失分較為明…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%903%E5%80%8BAI%E5%8F%83%E5%8A%A0%E6%97%A5%E6%9C%AC%E9%AB%98%E8%80%83%EF%BC%8C%E8%AA%B0%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%EF%BC%9F%E3%80%91%E5%BE%9E%E8%BC%B8%E5%85%A5%E9%A1%8C%E7%9B%AE%E5%88%B0%E8%BC%B8%E5%87%BA%E7%AD%94%E6%A1%88%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%92%8CAnthropic%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%9C%80%E5%BF%AB4%E5%88%86%E9%90%98%E5%B7%A6%E5%8F%B3%E5%8D%B3%E5%8F%AF%E5%AE%8C%E6%88%901%E5%80%8B%E7%A7%91%E7%9B%AE%E7%9A%84%E7%AD%94%E9%A1%8C%E3%80%82OpenAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AD%94%E9%A1%8C%E6%99%82%E9%96%93%E6%98%AF%E5%89%8D%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%842%EF%BD%9E3%E5%80%8D%E3%80%82%E4%B8%89%E5%80%8BAI%E6%A8%A1%E5%9E%8B%E5%9D%87%E6%93%85%E9%95%B7%E7%90%86%E7%A7%91%E7%A7%91%E7%9B%AE%EF%BC%8C%E5%9C%A8%E8%AA%9E%E6%96%87%E5%92%8C%E5%9C%B0%E7%90%86%E7%A7%91%E7%9B%AE%E4%B8%8A%E7%9A%84%E5%A4%B1%E5%88%86%E8%BC%83%E7%82%BA%E6%98%8E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [型](型.md), [日本](日本.md), [模型](模型.md), [谷歌](谷歌.md), [高考](高考.md)
+___
+##### 2026-01-21 02:27:44 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国人工智能（AI）开发商Anthropic首席执行官（CEO）阿莫代说，向中国出售先进的AI晶片是一个错误，具有“令人难以置信的国家安全影响”，并形容此举如同向朝鲜出售核武器。 https://t.co/x8Y6CXbWtt
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%BC%80%E5%8F%91%E5%95%86Anthropic%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%EF%BC%88CEO%EF%BC%89%E9%98%BF%E8%8E%AB%E4%BB%A3%E8%AF%B4%EF%BC%8C%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%94%AE%E5%85%88%E8%BF%9B%E7%9A%84AI%E6%99%B6%E7%89%87%E6%98%AF%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%EF%BC%8C%E5%85%B7%E6%9C%89%E2%80%9C%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E7%BD%AE%E4%BF%A1%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%BD%B1%E5%93%8D%E2%80%9D%EF%BC%8C%E5%B9%B6%E5%BD%A2%E5%AE%B9%E6%AD%A4%E4%B8%BE%E5%A6%82%E5%90%8C%E5%90%91%E6%9C%9D%E9%B2%9C%E5%87%BA%E5%94%AE%E6%A0%B8%E6%AD%A6%E5%99%A8%E3%80%82+https%3A%2F%2Ft.co%2Fx8Y6CXbWtt)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [先进](先进.md), [出售](出售.md), [开发](开发.md), [影响](影响.md), [执行](执行.md), [晶片](晶片.md), [此举](此举.md), [美国](美国.md), [难以置信](难以置信.md), [首席执行官](首席执行官.md)
+___
+##### 2026-01-08 14:44:45 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #独家 据知情人士透露，聊天机器人Claude的开发商Anthropic计划以3,500亿美元的投前估值融资100亿美元，该估值较四个月前增长近一倍。https://t.co/sZJ24FYbRu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAClaude%E7%9A%84%E5%BC%80%E5%8F%91%E5%95%86Anthropic%E8%AE%A1%E5%88%92%E4%BB%A53%2C500%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%8A%95%E5%89%8D%E4%BC%B0%E5%80%BC%E8%9E%8D%E8%B5%84100%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%AF%A5%E4%BC%B0%E5%80%BC%E8%BE%83%E5%9B%9B%E4%B8%AA%E6%9C%88%E5%89%8D%E5%A2%9E%E9%95%BF%E8%BF%91%E4%B8%80%E5%80%8D%E3%80%82https%3A%2F%2Ft.co%2FsZJ24FYbRu)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [估值](估值.md), [增长](增长.md), [开发](开发.md), [机器人](机器人.md), [知情](知情.md), [知情人士](知情人士.md), [聊天](聊天.md), [融资](融资.md), [计划](计划.md), [透露](透露.md)
+___
 ##### 2025-10-21 23:37:01 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Anthropic联合创始人克拉克撰文称AI为不可预测的“神秘生物”，迅速引发白宫及科技界人士的批评。现在争论双方的眼中都看到了怪物，只不过对谁的怪物更可怕意见不一。特朗普的AI“沙皇”萨克斯警告说，监管将阻碍美国在AI竞赛中与“另一个怪物”中国…
 
