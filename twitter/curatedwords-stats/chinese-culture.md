@@ -8,6 +8,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [甲骨文](../hanzi-cards/甲骨文.md) | Oracle bones |
 | [马年](../hanzi-cards/马年.md)/[馬年](../hanzi-cards/馬年.md) | Year of the Horse |
+| [丙午](../hanzi-cards/丙午.md) | Fire Horse, 43rd year of the Sexagenary Cycle (1906, 1966, 2026, etc.) |
 | [蛇年](../hanzi-cards/蛇年.md) | Year of the Snake |
 | [龙年](../hanzi-cards/龙年.md)/[龍年](../hanzi-cards/龍年.md) | Year of the Dragon |
 | [兔年](../hanzi-cards/兔年.md) | Year of the Rabbit |
