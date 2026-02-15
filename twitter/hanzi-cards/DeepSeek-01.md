@@ -466,7 +466,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%9C%AC%E5%91%A8%E5%8F%91%E5%B8%83%E6%97%97%E4%B8%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%8D%87%E7%BA%A7%E7%89%88%EF%BC%8C%E7%A7%B0%E8%BF%99%E4%B8%AA%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD%E5%85%A8%E7%90%83%E9%A2%86%E5%85%88%EF%BC%8C%E5%9C%A8%E5%A4%9A%E9%A1%B9%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%BE%97%E5%88%86%E4%BC%98%E4%BA%8EChatGPT%E5%88%9B%E5%A7%8B%E8%80%85%E7%BE%8E%E5%9B%BDOpenAI%E3%80%81%E7%BE%8E%E5%9B%BD%E8%84%B8%E4%B9%A6%E6%AF%8D%E5%85%AC%E5%8F%B8Meta%E3%80%81%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%AD%89%E6%96%B0%E5%8F%91%E5%B8%83%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82+https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [升级](升级.md), [发布](发布.md), [型](型.md), [巨头](巨头.md), [模型](模型.md), [深度求索](深度求索.md), [科技](科技.md), [美国](美国.md), [阿里巴巴](阿里巴巴.md)
+[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [千问](千问.md), [升级](升级.md), [发布](发布.md), [型](型.md), [巨头](巨头.md), [模型](模型.md), [深度求索](深度求索.md), [科技](科技.md), [美国](美国.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-02-01 04:14:34 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 有消息指美国商务部正在调查深度求索（DeepSeek）是否使用受管制晶片，并称已在马来西亚、新加坡和阿联酋等国家，追踪到向中国转销AI晶片的组织性行为。 #深度求索 #人工智能 #DeepSeek #AI  https://t.co/BEqSF07y…
@@ -695,7 +695,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E9%98%BF%E9%87%8C%E4%BA%91%E5%9C%A8%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%8F%91%E5%B8%83%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%97%97%E8%88%B0%E7%89%88%E6%A8%A1%E5%9E%8BQwen2.5-Max%EF%BC%8C%E5%B9%B6%E7%A7%B0%E5%9C%A8%E6%8C%87%E4%BB%A4%E6%A8%A1%E5%9E%8B%E7%89%88%E6%9C%AC%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E4%B8%AD%EF%BC%8C%E5%87%A0%E4%B9%8E%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2DeepSeek-V3%E7%AD%89%E5%85%B6%E4%BB%96%E6%A8%A1%E5%9E%8B%E3%80%82+https%3A%2F%2Ft.co%2FQ1J0uNYbWB)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [发布](发布.md), [型](型.md), [模型](模型.md), [深度求索](深度求索.md)
+[Qwen](Qwen.md), [千问](千问.md), [发布](发布.md), [型](型.md), [模型](模型.md), [深度求索](深度求索.md)
 ___
 ##### 2025-01-29 16:25:41 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国微软公司和OpenAI据报正在调查与中国人工智能公司深度求索（DeepSeek）有关的一个组织，是否以未经授权的方式，取得OpenAI技术输出的数据。 https://t.co/ImU1fkHbkN
@@ -744,7 +744,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%9C%AC%E5%91%A8%E4%B8%89%EF%BC%8C%E9%98%BF%E9%87%8C%E4%BA%91%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%97%97%E8%88%B0%E7%89%88%E6%A8%A1%E5%9E%8B%EF%BC%88Qwen+2.5-Max%EF%BC%89%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E3%80%82%E8%BF%99%E4%B8%80%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E9%A2%87%E4%B8%8D%E5%AF%BB%E5%B8%B8%EF%BC%8C%E6%81%B0%E9%80%A2%E4%B8%AD%E5%9B%BD%E5%86%9C%E5%8E%86%E6%96%B0%E5%B9%B4%EF%BC%8C%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%F0%9F%87%A8%F0%9F%87%B3%E9%83%BD%E5%9C%A8%E5%81%87%E6%9C%9F%E4%B8%AD%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%9B%A2%E8%81%9A%E3%80%82%E9%80%89%E5%9C%A8%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%8F%91%E5%B8%83%E4%B9%9F%E5%8F%8D%E6%98%A0%E5%87%BA%E4%B8%AD%E5%9B%BDAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8+%23DeepSeek+%E5%9C%A8%E8%BF%87%E5%8E%BB%E4%B8%89%E5%91%A8%E7%9A%84%E8%BF%85%E7%8C%9B%E5%B4%9B%E8%B5%B7%E4%B8%8D%E4%BB%85%E7%BB%99%E6%B5%B7%E5%A4%96%E7%AB%9E%E4%BA%89%E5%AF%B9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [不仅](不仅.md), [农历](农历.md), [反映出](反映出.md), [发布](发布.md), [型](型.md), [崛起](崛起.md), [春节](春节.md), [模型](模型.md), [正式](正式.md), [竞争](竞争.md)
+[Qwen](Qwen.md), [不仅](不仅.md), [农历](农历.md), [千问](千问.md), [反映出](反映出.md), [发布](发布.md), [型](型.md), [崛起](崛起.md), [春节](春节.md), [模型](模型.md), [正式](正式.md), [竞争](竞争.md)
 ___
 ##### 2025-01-29 16:12:34 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 业界也指DeepSeek握有大量英伟达H100高阶芯片，形同直接挑战美国出口管制规定。#DeepSeek #OpenAI #Nvidia #芯片 #南洋商报 https://t.co/n24gQagkWF https://t.co/a2Ag3…

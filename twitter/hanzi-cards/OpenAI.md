@@ -54,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8BAI%E5%BA%94%E7%94%A8%E5%8D%83%E9%97%AE%E5%9C%A8%E5%85%AC%E6%B5%8B%E4%B8%8A%E7%BA%BF%E4%B8%80%E5%91%A8%E5%86%85%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%AA%81%E7%A0%B41%2C000%E4%B8%87%E6%AC%A1%E3%80%82%E8%BF%99%E6%AC%BE%E6%97%A8%E5%9C%A8%E4%B8%8EOpenAI%E7%9A%84ChatGPT%E7%AB%9E%E4%BA%89%E7%9A%84%E5%BA%94%E7%94%A8%E5%87%B8%E6%98%BE%E4%BA%86%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%8A%A2%E5%8D%A0%E6%B6%88%E8%B4%B9%E7%BA%A7AI%E5%B8%82%E5%9C%BA%E7%9A%84%E9%9B%84%E5%BF%83%E3%80%82https%3A%2F%2Ft.co%2FPEqEU9sFhR)
 ##### Other Words/Names of Interest in the Above Tweet
-[抢占](抢占.md), [旨在](旨在.md), [突破](突破.md), [竞争](竞争.md), [阿里巴巴](阿里巴巴.md)
+[千问](千问.md), [抢占](抢占.md), [旨在](旨在.md), [突破](突破.md), [竞争](竞争.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-11-20 05:20:11 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 特朗普签了：美国司法部须在30天内公布爱泼斯坦及其同伙有关的非机密文件。另外，萨默斯暂停在哈佛大学的教学工作并已辞去OpenAI董事会职务。 https://t.co/kSnaybCIyW
@@ -593,7 +593,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%9C%AC%E5%91%A8%E5%8F%91%E5%B8%83%E6%97%97%E4%B8%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%8D%87%E7%BA%A7%E7%89%88%EF%BC%8C%E7%A7%B0%E8%BF%99%E4%B8%AA%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%80%A7%E8%83%BD%E5%85%A8%E7%90%83%E9%A2%86%E5%85%88%EF%BC%8C%E5%9C%A8%E5%A4%9A%E9%A1%B9%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%BE%97%E5%88%86%E4%BC%98%E4%BA%8EChatGPT%E5%88%9B%E5%A7%8B%E8%80%85%E7%BE%8E%E5%9B%BDOpenAI%E3%80%81%E7%BE%8E%E5%9B%BD%E8%84%B8%E4%B9%A6%E6%AF%8D%E5%85%AC%E5%8F%B8Meta%E3%80%81%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%AD%89%E6%96%B0%E5%8F%91%E5%B8%83%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82+https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [人工](人工.md), [人工智能](人工智能.md), [升级](升级.md), [发布](发布.md), [型](型.md), [巨头](巨头.md), [模型](模型.md), [深度求索](深度求索.md), [科技](科技.md), [美国](美国.md), [阿里巴巴](阿里巴巴.md)
+[DeepSeek](DeepSeek.md), [人工](人工.md), [人工智能](人工智能.md), [千问](千问.md), [升级](升级.md), [发布](发布.md), [型](型.md), [巨头](巨头.md), [模型](模型.md), [深度求索](深度求索.md), [科技](科技.md), [美国](美国.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-01-31 17:18:05 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 中国人工智能新创公司深度求索（DeepSeek）研发的模型近期受到大量关注，但同时也被OpenAI指控盗用技术。#南洋商报 #DeepSeek #深度求索 #ChatGPT #AIhttps://t.co/0MFODbafDU https…
@@ -684,7 +684,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E5%85%AC%E5%B8%83%E4%BD%8E%E6%88%90%E6%9C%AC%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%8E%EF%BC%8C%E9%99%A4%E5%A4%95%EF%BC%881%E6%9C%8828%E6%97%A5%EF%BC%89%E5%86%8D%E5%8F%91%E5%B8%83%E5%BC%80%E6%BA%90%E6%96%87%E5%AD%97%E7%94%9F%E6%88%90%E5%9B%BE%E5%83%8F%EF%BC%88%E6%96%87%E7%94%9F%E5%9B%BE%EF%BC%89%E5%A4%A7%E6%A8%A1%E5%9E%8BJanus-Pro+7B%EF%BC%8C%E8%AF%A5%E6%A8%A1%E5%9E%8B%E5%9C%A8%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%A4%B4OpenAI%E3%80%82+https%3A%2F%2Ft.co%2F8Pcs9uowV6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [巨头](巨头.md), [开源](开源.md), [成本](成本.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md)
+[发布](发布.md), [型](型.md), [巨头](巨头.md), [开源](开源.md), [成本](成本.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md), [除夕](除夕.md)
 ___
 ##### 2025-01-28 02:57:38 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 中国AI新创公司“深度求索”（DeepSeek）近期发布“DeepSeek-V3”和“DeepSeek-R1”两款模型，由于成本低廉，性能与OpenAI相当，震惊全球。美国总统特朗普27日也做出评论，认为这是好事，意味发展AI的成本将变低，并…

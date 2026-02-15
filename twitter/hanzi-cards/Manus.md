@@ -138,14 +138,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Manus%E5%AE%A3%E5%B8%83%E4%B8%8E%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9F%BA%E4%BA%8E%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E7%B3%BB%E5%88%97%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9C%A8%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%AE%97%E5%8A%9B%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%AE%9E%E7%8E%B0Manus%E7%9A%84%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD%E3%80%82%E7%9B%AE%E5%89%8D%E4%B8%A4%E5%AE%B6%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F%E5%B7%B2%E5%B1%95%E5%BC%80%E7%B4%A7%E5%AF%86%E5%8D%8F%E4%BD%9C%EF%BC%8C%E5%BC%80%E5%8F%91%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9C%AC%EF%BC%81+https%3A%2F%2Ft.co%2Fx8XQYBaItG)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [实现](实现.md), [平台](平台.md), [开发](开发.md), [开源](开源.md), [战略](战略.md), [技术](技术.md), [模型](模型.md), [系列](系列.md), [达成](达成.md)
+[千问](千问.md), [型](型.md), [实现](实现.md), [平台](平台.md), [开发](开发.md), [开源](开源.md), [战略](战略.md), [技术](技术.md), [模型](模型.md), [系列](系列.md), [达成](达成.md)
 ___
 ##### 2025-03-12 07:21:06 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 全球首款通用人工智能智能体产品Manus合伙人张涛星期二（3月11日）宣布，为满足中文用户需求，Manus与阿里通义千问团队达成战略合作，双方将基于通义千问系列开源模型，致力于在中国国产模型和算力平台上实现Manus的全部功能。 https://t…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%A7%E5%93%81Manus%E5%90%88%E4%BC%99%E4%BA%BA%E5%BC%A0%E6%B6%9B%E6%98%9F%E6%9C%9F%E4%BA%8C%EF%BC%883%E6%9C%8811%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E4%B8%BA%E6%BB%A1%E8%B6%B3%E4%B8%AD%E6%96%87%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%EF%BC%8CManus%E4%B8%8E%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%EF%BC%8C%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9F%BA%E4%BA%8E%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E7%B3%BB%E5%88%97%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%AE%97%E5%8A%9B%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%AE%9E%E7%8E%B0Manus%E7%9A%84%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD%E3%80%82+https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [战略](战略.md), [模型](模型.md), [系列](系列.md), [达成](达成.md), [需求](需求.md)
+[人工](人工.md), [人工智能](人工智能.md), [千问](千问.md), [型](型.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [战略](战略.md), [模型](模型.md), [系列](系列.md), [达成](达成.md), [需求](需求.md)
 ___
 ##### 2025-03-12 07:09:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI周二公布了一个智能体构建平台，允许企业创建自己的机器人。最近，一家名为Manus AI的中国初创公司在社交媒体上掀起了一股浪潮，据称该智能体可以自主执行数据分析等任务。 https://t.co/wXwmusKSIK

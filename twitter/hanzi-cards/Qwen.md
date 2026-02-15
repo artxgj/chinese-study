@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%8D%83%E9%97%AE%E5%A5%BD%E5%83%8F%E8%BF%98%E8%A6%81%E5%8F%91%E4%B8%80%E4%B8%AAQwen2.5-Omni-7B+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E7%AB%AF%E5%88%B0%E7%AB%AF%E7%9A%84%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%94%AF%E6%8C%81%E6%96%87%E6%9C%AC%EF%BC%8C%E5%9B%BE%E7%89%87%EF%BC%8C%E9%9F%B3%E9%A2%91%EF%BC%8C%E8%A7%86%E9%A2%91%E4%BD%9C%E4%B8%BA%E8%BE%93%E5%85%A5%EF%BC%8C%E8%BE%93%E5%87%BA%E6%94%AF%E6%8C%81%E6%96%87%E6%9C%AC%E5%92%8C%E8%AF%AD%E9%9F%B3%E3%80%82%E7%9C%8B%E4%BB%A3%E7%A0%81%E6%98%AF%E4%BD%BF%E7%94%A8%E4%BA%86%E5%8F%8C%E8%B7%AF%E5%BE%84%E7%94%9F%E6%88%90%EF%BC%8C%E5%8D%B3%E6%96%87%E6%9C%AC%E5%92%8C%E9%9F%B3%E9%A2%91%E4%BD%95%E4%BB%A5%E5%90%8C%E6%97%B6%E7%94%9F%E6%88%90%EF%BC%8C%E5%86%85%E7%BD%AE%E4%BA%86%E4%B8%A4%E7%A7%8D%E5%A3%B0%E9%9F%B3+Cherry+%EF%BC%88%E5%A5%B3%E5%A3%B0%EF%BC%89%EF%BC%8C+Etha%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [型](型.md), [支持](支持.md), [模型](模型.md)
+[代码](代码.md), [千问](千问.md), [型](型.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-03-22 17:20:51 UTC ~ karminski-牙医
 > RT @karminski3: Qwen3 的开源版本马上就要发布啦，目前Qwen已经给transformer提PR了（为了支持新模型）从代码上开，这次开源的有两个模型（图2，图3），分别是：Qwen3-15B-A2B （这是个MoE，A2B的意思是激活参数是2B）Q…
@@ -159,7 +159,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%86+QwQ-32B%EF%BC%8C%E7%94%A8+32B+%E5%8F%82%E6%95%B0%E8%BE%BE%E5%88%B0%E4%BA%86+DeepSeek+R1+671B+%E7%9A%84%E5%90%8C%E7%AD%89%E6%8C%87%E6%A0%87%E3%80%82%E2%80%9C+%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E7%A0%94%E7%A9%B6%E4%BA%86%E6%89%A9%E5%B1%95+RL+%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84+Qwen2+%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BB%A4%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E6%88%90%E6%9E%9C%E3%80%82+5-32B+%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%91%E7%8E%B0+RL+%E8%AE%AD%E7%BB%83%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98%E6%80%A7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [发布](发布.md), [提高](提高.md)
+[DeepSeek](DeepSeek.md), [千问](千问.md), [发布](发布.md), [提高](提高.md)
 ___
 ##### 2025-02-23 05:47:47 UTC ~ AIGCLINK
 > RT @aigclink: 一个稳定有良好泛化能力的R1风格视觉语言模型：VLM-R1，把DeepSeek的R1方法用到了视觉上模型上，增强了模型稳定性和泛化能力基于Qwen2.5-VL 构建，能同时处理图像和文本输入，特别强化了对图像中特定目标的定位能力擅长指代表达类…
@@ -173,14 +173,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E9%98%BF%E9%87%8C%E4%BA%91%E5%9C%A8%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%8F%91%E5%B8%83%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%97%97%E8%88%B0%E7%89%88%E6%A8%A1%E5%9E%8BQwen2.5-Max%EF%BC%8C%E5%B9%B6%E7%A7%B0%E5%9C%A8%E6%8C%87%E4%BB%A4%E6%A8%A1%E5%9E%8B%E7%89%88%E6%9C%AC%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95%E4%B8%AD%EF%BC%8C%E5%87%A0%E4%B9%8E%E5%85%A8%E9%9D%A2%E8%B6%85%E8%B6%8A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2DeepSeek-V3%E7%AD%89%E5%85%B6%E4%BB%96%E6%A8%A1%E5%9E%8B%E3%80%82+https%3A%2F%2Ft.co%2FQ1J0uNYbWB)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [发布](发布.md), [型](型.md), [模型](模型.md), [深度求索](深度求索.md)
+[DeepSeek](DeepSeek.md), [千问](千问.md), [发布](发布.md), [型](型.md), [模型](模型.md), [深度求索](深度求索.md)
 ___
 ##### 2025-01-29 16:13:10 UTC ~ DW 中文- 德国之声
 > RT @dw_chinese: 本周三，阿里云通义千问旗舰版模型（Qwen 2.5-Max）正式发布。这一发布时间颇不寻常，恰逢中国农历新年，大多数中国人🇨🇳都在假期中与家人团聚。选在春节期间发布也反映出中国AI初创公司 #DeepSeek 在过去三周的迅猛崛起不仅给海外竞争对…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%9C%AC%E5%91%A8%E4%B8%89%EF%BC%8C%E9%98%BF%E9%87%8C%E4%BA%91%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%97%97%E8%88%B0%E7%89%88%E6%A8%A1%E5%9E%8B%EF%BC%88Qwen+2.5-Max%EF%BC%89%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E3%80%82%E8%BF%99%E4%B8%80%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E9%A2%87%E4%B8%8D%E5%AF%BB%E5%B8%B8%EF%BC%8C%E6%81%B0%E9%80%A2%E4%B8%AD%E5%9B%BD%E5%86%9C%E5%8E%86%E6%96%B0%E5%B9%B4%EF%BC%8C%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%F0%9F%87%A8%F0%9F%87%B3%E9%83%BD%E5%9C%A8%E5%81%87%E6%9C%9F%E4%B8%AD%E4%B8%8E%E5%AE%B6%E4%BA%BA%E5%9B%A2%E8%81%9A%E3%80%82%E9%80%89%E5%9C%A8%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%8F%91%E5%B8%83%E4%B9%9F%E5%8F%8D%E6%98%A0%E5%87%BA%E4%B8%AD%E5%9B%BDAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8+%23DeepSeek+%E5%9C%A8%E8%BF%87%E5%8E%BB%E4%B8%89%E5%91%A8%E7%9A%84%E8%BF%85%E7%8C%9B%E5%B4%9B%E8%B5%B7%E4%B8%8D%E4%BB%85%E7%BB%99%E6%B5%B7%E5%A4%96%E7%AB%9E%E4%BA%89%E5%AF%B9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [不仅](不仅.md), [农历](农历.md), [反映出](反映出.md), [发布](发布.md), [型](型.md), [崛起](崛起.md), [春节](春节.md), [模型](模型.md), [正式](正式.md), [竞争](竞争.md)
+[DeepSeek](DeepSeek.md), [不仅](不仅.md), [农历](农历.md), [千问](千问.md), [反映出](反映出.md), [发布](发布.md), [型](型.md), [崛起](崛起.md), [春节](春节.md), [模型](模型.md), [正式](正式.md), [竞争](竞争.md)
 ___
 ##### 2021-05-15 18:03:02 UTC ~ BBC News 中文
 > RT @bbcchinese: 【最新消息】据中央社报道，台湾中央流行疫情指挥中心指挥官陈时中称，在过去一天内台湾新增180例本地新冠病例，创下单日新高。据报道，其中43例集中在台北市的万华区。 https://t.co/U7Qwenn9gu

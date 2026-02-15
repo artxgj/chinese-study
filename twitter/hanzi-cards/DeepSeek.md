@@ -368,7 +368,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%88%91%E7%8E%B0%E5%9C%A8%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BF%83%E6%84%BF%E2%80%94%E2%80%94%E4%BA%94%E4%B8%80%E6%9C%9F%E9%97%B4%E4%B8%8D%E8%A6%81%E5%8F%91%E4%BB%BB%E4%BD%95%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%AF%B9%E5%B0%B1%E6%98%AF%E8%AF%B4%E4%BD%A0%E5%91%A2+DeepSeek%EF%BC%8C%E5%93%AA%E6%9C%89%E4%BA%BA%E9%99%A4%E5%A4%95%E5%8F%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84+https%3A%2F%2Ft.co%2FCfWLnKzaRT)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [模型](模型.md)
+[型](型.md), [模型](模型.md), [除夕](除夕.md)
 ___
 ##### 2025-04-28 23:54:03 UTC ~ karminski-牙医
 > RT @karminski3: 大家都在等 DeepSeek-R2, 不过, 有没有想过把 DeepSeek-V3-0324 变成推理模型？来看这个新模型  DeepSeek-R1T-Chimera，它基于DeepSeek-R1构建，并使用DeepSeek-V3-0324…
@@ -1013,7 +1013,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%86+QwQ-32B%EF%BC%8C%E7%94%A8+32B+%E5%8F%82%E6%95%B0%E8%BE%BE%E5%88%B0%E4%BA%86+DeepSeek+R1+671B+%E7%9A%84%E5%90%8C%E7%AD%89%E6%8C%87%E6%A0%87%E3%80%82%E2%80%9C+%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E7%A0%94%E7%A9%B6%E4%BA%86%E6%89%A9%E5%B1%95+RL+%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84+Qwen2+%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BB%A4%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E6%88%90%E6%9E%9C%E3%80%82+5-32B+%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%91%E7%8E%B0+RL+%E8%AE%AD%E7%BB%83%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98%E6%80%A7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [发布](发布.md), [提高](提高.md)
+[Qwen](Qwen.md), [千问](千问.md), [发布](发布.md), [提高](提高.md)
 ___
 ##### 2025-03-06 00:36:53 UTC ~ Orange AI
 > RT @oran_ge: 昨晚多维表格+DeepSeek 的语音笔记一图流帮助新人真正上手，有时候就差一次手把手的教 https://t.co/7bJhxGbnNu
@@ -1476,7 +1476,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%91%A8%E4%BA%94%E6%97%A9%E7%9B%98%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A813%25%EF%BC%8C%E6%9C%89%E6%9C%9B%E5%88%9B%E4%B8%8B%E8%BF%91%E4%B8%89%E5%B9%B4%E6%9D%A5%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%E3%80%82%E6%AD%A4%E5%89%8D%E8%BF%99%E5%AE%B6%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E5%85%AC%E5%B8%83%E4%BA%86%E4%B8%80%E5%B9%B4%E5%A4%9A%E6%9D%A5%E6%9C%80%E9%AB%98%E7%9A%84%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%BF%E3%80%82%E6%9C%89%E5%88%86%E6%9E%90%E5%B8%88%E8%A1%A8%E7%A4%BA%EF%BC%8C%E9%9A%8F%E7%9D%80%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AE%A2%E6%88%B7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%9C%B0%E9%87%87%E7%94%A8DeepSeek%E5%92%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%EF%BC%8C%E4%BA%91%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E9%9C%80%E6%B1%82%E5%B0%86%E4%BC%9A%E5%A2%9E%E5%8A%A0%E3%80%82https%3A%2F%2Ft.co%2FegEFJM%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [增长](增长.md), [客户](客户.md), [巨头](巨头.md), [收入](收入.md), [方案](方案.md), [有望](有望.md), [涨幅](涨幅.md), [电商](电商.md), [越来越](越来越.md), [阿里巴巴](阿里巴巴.md), [随着](随着.md), [需求](需求.md)
+[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [千问](千问.md), [增长](增长.md), [客户](客户.md), [巨头](巨头.md), [收入](收入.md), [方案](方案.md), [有望](有望.md), [涨幅](涨幅.md), [电商](电商.md), [越来越](越来越.md), [阿里巴巴](阿里巴巴.md), [随着](随着.md), [需求](需求.md)
 ___
 ##### 2025-02-21 08:21:02 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 分析师称，随着AI投资逐渐从半导体和基础设施转向软件和个人设备，联想成为DeepSeek技术突破的一个主要受益者。从软件公司到电信运营商，许多行业的中国公司都在迅速部署DeepSeek的模型。https://t.co/sHz5L8VyhF

@@ -17,6 +17,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [农历](../hanzi-cards/农历.md)/[農曆](../hanzi-cards/農曆.md) | traditional Chinese calendar |
 | [新春](../hanzi-cards/新春.md) | Chinese New Year; the beginning of Spring; the 10 or 20 days following the Lunar New Year's Day |
 | [拜年](../hanzi-cards/拜年.md) | to pay a New Year call to wish somebody a Happy New Year |
+| [除夕](../hanzi-cards/除夕.md) | (Chinese) New Year's Eve |
+| [年味](../hanzi-cards/年味.md) | Spring Festival atmosphere; festive ambience of Chinese New Year |
 | [红包](../hanzi-cards/红包.md)/[紅包](../hanzi-cards/紅包.md) | red envelope |
 | [春运](../hanzi-cards/春运.md)/[春運](../hanzi-cards/春運.md) | (passenger) transport during the Spring Festival period. |
 | [牛郎织女](../hanzi-cards/牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |
@@ -26,7 +28,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [唐朝](../hanzi-cards/唐朝.md)/[唐代](../hanzi-cards/唐代.md) | Tang Dynasty |
 | [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasties |
 | [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
-| [汉](../hanzi-cards/汉.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
+| [汉朝](../hanzi-cards/汉朝.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
 | [汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
 | [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
 | [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |
@@ -69,6 +71,9 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 ## Idioms
 |  |  |
 | ----- | :---: |
+| [龙马精神](../hanzi-cards/龙马精神.md)/[龍馬精神](../hanzi-cards/龍馬精神.md) | spirit of a dragon horse—vigorous spirit of the aged |
+| [马到成功](../hanzi-cards/马到成功.md)/[馬到成功](../hanzi-cards/馬到成功.md) | to win instant success  |
+| [万马奔腾](../hanzi-cards/万马奔腾.md)/[萬馬奔騰](../hanzi-cards/萬馬奔騰.md) | ten thousand horses galloping—going full steam ahead |
 | [源源不断](../hanzi-cards/源源不断.md) | a steady flow (idiom); an unending stream |
 | [有史以来](../hanzi-cards/有史以来.md) | since the beginning (or dawn) of history; throughout history |
 | [脱胎换骨](../hanzi-cards/脱胎换骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
