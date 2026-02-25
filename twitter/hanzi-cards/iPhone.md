@@ -671,7 +671,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fuguizhuo%3A+%E7%94%A8%E4%BA%86%E9%B8%BF%E8%92%99+Next+%E4%B8%A4%E5%91%A8%E5%90%8E%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E5%86%85%E5%8D%8E%E4%B8%BA%E9%83%BD%E8%B7%9F%E6%88%91%E6%97%A0%E7%BC%98%E4%BA%86%E3%80%82%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%80%81%E5%B7%AE%E7%9A%84%E5%A4%AA%E8%BF%9C%E4%BA%86%EF%BC%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E6%98%AFiPhone5+%E6%97%B6%E6%9C%9F+iOS+%E5%92%8C%E5%AE%89%E5%8D%93%E7%94%9F%E6%80%81%E7%9A%84%E5%B7%AE%E8%B7%9D%E3%80%82%E6%88%91%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E5%9C%A8%E5%8E%BB%E5%93%AA%E5%84%BF%E4%B8%8A%E9%9D%A2%E8%AE%A2%E9%85%92%E5%BA%97%EF%BC%8C%E5%9C%B0%E5%9B%BE%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE%E6%B2%A1%E6%9C%89%E5%8E%BF%E7%BA%A7%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9C%B0%E5%9B%BE+sdk%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iOS](iOS.md), [华为](华为.md), [安卓](安卓.md), [差距](差距.md), [生态](生态.md)
+[iOS](iOS.md), [华为](华为.md), [安卓](安卓.md), [差距](差距.md), [生态](生态.md), [鸿蒙](鸿蒙.md)
 ___
 ##### 2025-05-02 04:30:59 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: iPhone销售业绩超出华尔街预期，但苹果公司对关税影响的含糊态度并未让投资者满意。对于iPhone销售回升是否是关税实施前抢购潮的结果，投资者仍有疑虑。https://t.co/YG6ql2zol5

@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fuguizhuo%3A+%E7%94%A8%E4%BA%86%E9%B8%BF%E8%92%99+Next+%E4%B8%A4%E5%91%A8%E5%90%8E%EF%BC%8C%E6%88%91%E8%A7%89%E5%BE%97%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E5%86%85%E5%8D%8E%E4%B8%BA%E9%83%BD%E8%B7%9F%E6%88%91%E6%97%A0%E7%BC%98%E4%BA%86%E3%80%82%E8%BD%AF%E4%BB%B6%E7%94%9F%E6%80%81%E5%B7%AE%E7%9A%84%E5%A4%AA%E8%BF%9C%E4%BA%86%EF%BC%8C%E5%B7%AE%E4%B8%8D%E5%A4%9A%E6%98%AFiPhone5+%E6%97%B6%E6%9C%9F+iOS+%E5%92%8C%E5%AE%89%E5%8D%93%E7%94%9F%E6%80%81%E7%9A%84%E5%B7%AE%E8%B7%9D%E3%80%82%E6%88%91%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90%EF%BC%9A%E5%9C%A8%E5%8E%BB%E5%93%AA%E5%84%BF%E4%B8%8A%E9%9D%A2%E8%AE%A2%E9%85%92%E5%BA%97%EF%BC%8C%E5%9C%B0%E5%9B%BE%E4%B8%8A%E7%9A%84%E4%BD%8D%E7%BD%AE%E6%B2%A1%E6%9C%89%E5%8E%BF%E7%BA%A7%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9C%B0%E5%9B%BE+sdk%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [华为](华为.md), [安卓](安卓.md), [差距](差距.md), [生态](生态.md)
+[iPhone](iPhone.md), [华为](华为.md), [安卓](安卓.md), [差距](差距.md), [生态](生态.md), [鸿蒙](鸿蒙.md)
 ___
 ##### 2025-04-14 00:57:59 UTC ~ karminski-牙医
 > RT @karminski3: 想在 iPhone 上运行大模型吗？来看看这个——LLMFarm  这个 app 可以运行在 苹果全家桶上，无论是 iOS 还是 MacOS。并且支持RAG。由于它其实是 llama.cpp 的魔改，所以几乎支持所有设备能装得下的模型。地…
@@ -152,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%8E%E4%B8%BA%E6%98%9F%E6%9C%9F%E4%BA%8C%EF%BC%8810%E6%9C%8822%E6%97%A5%EF%BC%89%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E8%A2%AB%E7%A7%B0%E4%B8%BA%E2%80%9C%E7%BA%AF%E8%A1%80%E9%B8%BF%E8%92%99%E2%80%9D%E7%9A%84%E5%8E%9F%E7%94%9F%E9%B8%BF%E8%92%99%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%82%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E7%A7%BB%E5%8A%A8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%EF%BC%8C%E4%B9%9F%E6%98%AF%E7%BB%A7%E8%8B%B9%E6%9E%9CiOS%E5%92%8C%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%A7%BB%E5%8A%A8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%82+https%3A%2F%2Ft.co%2F72ReCgatGN)
 ##### Other Words/Names of Interest in the Above Tweet
-[华为](华为.md), [发布](发布.md), [安卓](安卓.md), [操作](操作.md), [正式](正式.md), [系统](系统.md), [苹果](苹果.md)
+[华为](华为.md), [发布](发布.md), [安卓](安卓.md), [操作](操作.md), [正式](正式.md), [系统](系统.md), [苹果](苹果.md), [鸿蒙](鸿蒙.md)
 ___
 ##### 2024-10-22 19:52:56 UTC ~ 中國新聞社
 > RT @CNS1952: 中國首個國產移動操作系統——華為原生鴻蒙操作系統，在22日晚舉行的原生鴻蒙之夜暨華為全場景新品發布會上正式發布，這也是繼蘋果iOS和安卓系統後，全球第三大移動操作系統。 https://t.co/ZVs4s4G79V

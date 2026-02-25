@@ -51,6 +51,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [晋江](../hanzi-cards/晋江.md) | Jinjiang, county-level city in Quanzhou |
 | [闽](../hanzi-cards/闽.md)/[閩](../hanzi-cards/閩.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](../hanzi-cards/闽南.md)/[閩南](../hanzi-cards/閩南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
+| [厦金](../hanzi-cards/厦金.md)/[廈金](../hanzi-cards/廈金.md) | Xiamen-Kinmen |
+| [港珠澳](../hanzi-cards/港珠澳.md) | Hong Kong-Zhuhai-Macau Bridge |
 | [杭州](../hanzi-cards/杭州.md) | Hangzhou |
 | [苏州](../hanzi-cards/苏州.md)/[蘇州](../hanzi-cards/蘇州.md) | Suzhou |
 | [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |

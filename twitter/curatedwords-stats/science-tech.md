@@ -184,6 +184,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [代码](../hanzi-cards/代码.md)/[代碼](../hanzi-cards/代碼.md) | code |
 | [程序](../hanzi-cards/程序.md) | computer program; sequence; order; procedures |
 | [数据结构](../hanzi-cards/数据结构.md) | data structure |
+| [鸿蒙](../hanzi-cards/鸿蒙.md) | HarmonyOS |
 ## Physics
 |  |  |
 | ----- | :---: |

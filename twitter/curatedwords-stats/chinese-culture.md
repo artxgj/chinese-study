@@ -25,23 +25,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [炎黃子孫](../hanzi-cards/炎黃子孫.md) | descendants of Yan Di and Huang Di -- the Chinese people |
 | [西游记](../hanzi-cards/西游记.md)/[西遊記](../hanzi-cards/西遊記.md) | Journey to the West (classic novel) |
 | [百家姓](../hanzi-cards/百家姓.md) | The Book of Family Names |
-| [唐朝](../hanzi-cards/唐朝.md)/[唐代](../hanzi-cards/唐代.md) | Tang Dynasty |
-| [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasties |
-| [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
-| [汉朝](../hanzi-cards/汉朝.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
-| [汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
-| [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
-| [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |
-| [宋朝](../hanzi-cards/宋朝.md)/[宋代](../hanzi-cards/宋代.md) | Song Dynasty |
-| [商朝](../hanzi-cards/商朝.md) | Shang Dynasty |
-| [夏朝](../hanzi-cards/夏朝.md) | Xia Dynasty |
-| [明清](../hanzi-cards/明清.md) | Ming and Qing dynasties |
-| [明代](../hanzi-cards/明代.md) | Ming Dynasty |
-| [清代](../hanzi-cards/清代.md) | Qing Dynasty |
 | [大雁塔](../hanzi-cards/大雁塔.md) | Giant Wild Goose Pagoda |
 | [故宫](../hanzi-cards/故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
 | [琵琶](../hanzi-cards/琵琶.md) | pipa (a plucked string instrument with a fretted fingeboard) |
 | [二胡](../hanzi-cards/二胡.md) | erhu (Chinese 2-string fiddle) |
+| [古筝](../hanzi-cards/古筝.md) | zither-like 21-stringed or 25-stringed plucked musical instrument |
 | [悟空](../hanzi-cards/悟空.md) | Wu Kong, the Monkey King (Sun Wukong), from the novel Journey to the West. |
 | [两岸](../hanzi-cards/两岸.md)/[兩岸](../hanzi-cards/兩岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
 | [华裔](../hanzi-cards/华裔.md)/[華裔](../hanzi-cards/華裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |
@@ -55,6 +43,23 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [录取通知书](../hanzi-cards/录取通知书.md)/[錄取通知書](../hanzi-cards/錄取通知書.md) | admission notice (issued by a university |
 | [华夏](../hanzi-cards/华夏.md)/[華夏](../hanzi-cards/華夏.md) | old name for China |
 | [抗日战争](../hanzi-cards/抗日战争.md)/[抗日戰爭](../hanzi-cards/抗日戰爭.md) | War of Resistance against Japan (1937-1945) |
+## Dynasties
+|  |  |
+| ----- | :---: |
+| [夏朝](../hanzi-cards/夏朝.md) | Xia Dynasty |
+| [商朝](../hanzi-cards/商朝.md) | Shang Dynasty |
+| [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
+| [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |
+| [汉朝](../hanzi-cards/汉朝.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
+| [汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
+| [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
+| [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasties |
+| [唐朝](../hanzi-cards/唐朝.md)/[唐代](../hanzi-cards/唐代.md) | Tang Dynasty |
+| [宋朝](../hanzi-cards/宋朝.md)/[宋代](../hanzi-cards/宋代.md) | Song Dynasty |
+| [南宋](../hanzi-cards/南宋.md) | Southern Song |
+| [明清](../hanzi-cards/明清.md) | Ming and Qing dynasties |
+| [明代](../hanzi-cards/明代.md) | Ming Dynasty |
+| [清代](../hanzi-cards/清代.md) | Qing Dynasty |
 ## Festivals
 |  |  |
 | ----- | :---: |
