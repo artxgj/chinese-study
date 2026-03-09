@@ -52,6 +52,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |
 | [汉朝](../hanzi-cards/汉朝.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
 | [汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
+| [南北朝](../hanzi-cards/南北朝.md) | Northern and Southern Dynasty |
 | [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
 | [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasties |
 | [唐朝](../hanzi-cards/唐朝.md)/[唐代](../hanzi-cards/唐代.md) | Tang Dynasty |

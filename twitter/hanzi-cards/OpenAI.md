@@ -7,6 +7,132 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2026-02-28 02:01:03 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【軟銀集團將向OpenAI追加出資300億美元】軟銀集團計劃在4～10月分3次進行出資，完成後的累計出資額將達到646億美元……https://t.co/13CXVEip7y
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%BB%9F%E9%8A%80%E9%9B%86%E5%9C%98%E5%B0%87%E5%90%91OpenAI%E8%BF%BD%E5%8A%A0%E5%87%BA%E8%B3%87300%E5%84%84%E7%BE%8E%E5%85%83%E3%80%91%E8%BB%9F%E9%8A%80%E9%9B%86%E5%9C%98%E8%A8%88%E5%8A%83%E5%9C%A84%EF%BD%9E10%E6%9C%88%E5%88%863%E6%AC%A1%E9%80%B2%E8%A1%8C%E5%87%BA%E8%B3%87%EF%BC%8C%E5%AE%8C%E6%88%90%E5%BE%8C%E7%9A%84%E7%B4%AF%E8%A8%88%E5%87%BA%E8%B3%87%E9%A1%8D%E5%B0%87%E9%81%94%E5%88%B0646%E5%84%84%E7%BE%8E%E5%85%83%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F13CXVEip7y)
+##### Other Words/Names of Interest in the Above Tweet
+[計劃](計劃.md)
+___
+##### 2026-02-28 02:00:51 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI表示，该公司已获得总计1,100亿美元的新融资承诺。此轮融资包括来自软银的300亿美元投资、来自英伟达的300亿美元和来自亚马逊的500亿美元承诺。这笔交易对该公司的投前估值为7,300亿美元。https://t.co/NFndlmd…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%8E%B7%E5%BE%97%E6%80%BB%E8%AE%A11%2C100%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%96%B0%E8%9E%8D%E8%B5%84%E6%89%BF%E8%AF%BA%E3%80%82%E6%AD%A4%E8%BD%AE%E8%9E%8D%E8%B5%84%E5%8C%85%E6%8B%AC%E6%9D%A5%E8%87%AA%E8%BD%AF%E9%93%B6%E7%9A%84300%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E3%80%81%E6%9D%A5%E8%87%AA%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E6%9D%A5%E8%87%AA%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%9A%84500%E4%BA%BF%E7%BE%8E%E5%85%83%E6%89%BF%E8%AF%BA%E3%80%82%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%E5%AF%B9%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%95%E5%89%8D%E4%BC%B0%E5%80%BC%E4%B8%BA7%2C300%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FNFndlmd%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[亚马逊](亚马逊.md), [交易](交易.md), [估值](估值.md), [包括](包括.md), [投资](投资.md), [来自](来自.md), [英伟达](英伟达.md), [获得](获得.md), [融资](融资.md), [软银](软银.md)
+___
+##### 2026-02-27 06:14:04 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI周四向加拿大官员做出了一系列承诺，旨在加强安全协议，实施更灵活的标准以便将相关账号移交给执法机构。在此前的致命校园枪击案中，据称嫌疑人曾与OpenAI聊天机器人有过互动。https://t.co/PLubUV6Ykc
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%91%A8%E5%9B%9B%E5%90%91%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%98%E5%91%98%E5%81%9A%E5%87%BA%E4%BA%86%E4%B8%80%E7%B3%BB%E5%88%97%E6%89%BF%E8%AF%BA%EF%BC%8C%E6%97%A8%E5%9C%A8%E5%8A%A0%E5%BC%BA%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%AE%9E%E6%96%BD%E6%9B%B4%E7%81%B5%E6%B4%BB%E7%9A%84%E6%A0%87%E5%87%86%E4%BB%A5%E4%BE%BF%E5%B0%86%E7%9B%B8%E5%85%B3%E8%B4%A6%E5%8F%B7%E7%A7%BB%E4%BA%A4%E7%BB%99%E6%89%A7%E6%B3%95%E6%9C%BA%E6%9E%84%E3%80%82%E5%9C%A8%E6%AD%A4%E5%89%8D%E7%9A%84%E8%87%B4%E5%91%BD%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%AD%EF%BC%8C%E6%8D%AE%E7%A7%B0%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9B%BE%E4%B8%8EOpenAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9C%89%E8%BF%87%E4%BA%92%E5%8A%A8%E3%80%82https%3A%2F%2Ft.co%2FPLubUV6Ykc)
+##### Other Words/Names of Interest in the Above Tweet
+[加拿大](加拿大.md), [协议](协议.md), [实施](实施.md), [旨在](旨在.md), [机器人](机器人.md), [机构](机构.md), [枪击](枪击.md), [灵活](灵活.md), [相关](相关.md), [系列](系列.md), [聊天](聊天.md), [账号](账号.md)
+___
+##### 2026-02-23 14:36:38 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 韩国KBS、MBC和SBS三大电视台2月23日向首尔中央地方法院提起诉讼，指控ChatGPT的开发商OpenAI在训练过程中未经许可使用它们的新闻内容。 https://t.co/DL6YxHHQFf
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%9F%A9%E5%9B%BDKBS%E3%80%81MBC%E5%92%8CSBS%E4%B8%89%E5%A4%A7%E7%94%B5%E8%A7%86%E5%8F%B02%E6%9C%8823%E6%97%A5%E5%90%91%E9%A6%96%E5%B0%94%E4%B8%AD%E5%A4%AE%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC%EF%BC%8C%E6%8C%87%E6%8E%A7ChatGPT%E7%9A%84%E5%BC%80%E5%8F%91%E5%95%86OpenAI%E5%9C%A8%E8%AE%AD%E7%BB%83%E8%BF%87%E7%A8%8B%E4%B8%AD%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E5%AE%83%E4%BB%AC%E7%9A%84%E6%96%B0%E9%97%BB%E5%86%85%E5%AE%B9%E3%80%82+https%3A%2F%2Ft.co%2FDL6YxHHQFf)
+##### Other Words/Names of Interest in the Above Tweet
+[开发](开发.md), [指控](指控.md), [诉讼](诉讼.md), [起诉](起诉.md), [韩国](韩国.md)
+___
+##### 2026-02-18 16:04:05 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI决定聘用热门个人AI助手项目OpenClaw的创建者，此举证明，在AI领域，对于大胆奇思以及提出这些想法的人才，竞争依然激烈。https://t.co/mkRI6S0d41
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%86%B3%E5%AE%9A%E8%81%98%E7%94%A8%E7%83%AD%E9%97%A8%E4%B8%AA%E4%BA%BAAI%E5%8A%A9%E6%89%8B%E9%A1%B9%E7%9B%AEOpenClaw%E7%9A%84%E5%88%9B%E5%BB%BA%E8%80%85%EF%BC%8C%E6%AD%A4%E4%B8%BE%E8%AF%81%E6%98%8E%EF%BC%8C%E5%9C%A8AI%E9%A2%86%E5%9F%9F%EF%BC%8C%E5%AF%B9%E4%BA%8E%E5%A4%A7%E8%83%86%E5%A5%87%E6%80%9D%E4%BB%A5%E5%8F%8A%E6%8F%90%E5%87%BA%E8%BF%99%E4%BA%9B%E6%83%B3%E6%B3%95%E7%9A%84%E4%BA%BA%E6%89%8D%EF%BC%8C%E7%AB%9E%E4%BA%89%E4%BE%9D%E7%84%B6%E6%BF%80%E7%83%88%E3%80%82https%3A%2F%2Ft.co%2FmkRI6S0d41)
+##### Other Words/Names of Interest in the Above Tweet
+[依然](依然.md), [提出](提出.md), [此举](此举.md), [激烈](激烈.md), [竞争](竞争.md), [项目](项目.md), [领域](领域.md)
+___
+##### 2026-02-13 05:52:08 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 软银对OpenAI的渴求正变得代价高昂。这家投资巨头的对策是：增加借款和出售资产。向这家AI公司注入的大量资金是以其非凡的风险偏好而闻名的孙正义最大的一笔押注。https://t.co/ibQw6aBC21
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%BD%AF%E9%93%B6%E5%AF%B9OpenAI%E7%9A%84%E6%B8%B4%E6%B1%82%E6%AD%A3%E5%8F%98%E5%BE%97%E4%BB%A3%E4%BB%B7%E9%AB%98%E6%98%82%E3%80%82%E8%BF%99%E5%AE%B6%E6%8A%95%E8%B5%84%E5%B7%A8%E5%A4%B4%E7%9A%84%E5%AF%B9%E7%AD%96%E6%98%AF%EF%BC%9A%E5%A2%9E%E5%8A%A0%E5%80%9F%E6%AC%BE%E5%92%8C%E5%87%BA%E5%94%AE%E8%B5%84%E4%BA%A7%E3%80%82%E5%90%91%E8%BF%99%E5%AE%B6AI%E5%85%AC%E5%8F%B8%E6%B3%A8%E5%85%A5%E7%9A%84%E5%A4%A7%E9%87%8F%E8%B5%84%E9%87%91%E6%98%AF%E4%BB%A5%E5%85%B6%E9%9D%9E%E5%87%A1%E7%9A%84%E9%A3%8E%E9%99%A9%E5%81%8F%E5%A5%BD%E8%80%8C%E9%97%BB%E5%90%8D%E7%9A%84%E5%AD%99%E6%AD%A3%E4%B9%89%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E7%AC%94%E6%8A%BC%E6%B3%A8%E3%80%82https%3A%2F%2Ft.co%2FibQw6aBC21)
+##### Other Words/Names of Interest in the Above Tweet
+[代价](代价.md), [出售](出售.md), [巨头](巨头.md), [投资](投资.md), [押注](押注.md), [资产](资产.md), [软银](软银.md), [风险](风险.md)
+___
+##### 2026-02-13 05:52:03 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 众议院中国特设委员会声明中表示：“中国公司将继续蒸馏并利用美国人工智能模型为自身谋利，就像他们当初抄袭OpenAI打造DeepSeek一样。”。#南洋商报 #DeepSeek #OpenAI #复制 #蒸馏https://t.co/RoW…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AE%BE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A3%B0%E6%98%8E%E4%B8%AD%E8%A1%A8%E7%A4%BA%EF%BC%9A%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%92%B8%E9%A6%8F%E5%B9%B6%E5%88%A9%E7%94%A8%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E4%B8%BA%E8%87%AA%E8%BA%AB%E8%B0%8B%E5%88%A9%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%BB%96%E4%BB%AC%E5%BD%93%E5%88%9D%E6%8A%84%E8%A2%ADOpenAI%E6%89%93%E9%80%A0DeepSeek%E4%B8%80%E6%A0%B7%E3%80%82%E2%80%9D%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23OpenAI+%23%E5%A4%8D%E5%88%B6+%23%E8%92%B8%E9%A6%8Fhttps%3A%2F%2Ft.co%2FRoW%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [人工](人工.md), [人工智能](人工智能.md), [众议院](众议院.md), [型](型.md), [委员会](委员会.md), [打造](打造.md), [模型](模型.md), [美国](美国.md), [蒸馏](蒸馏.md)
+___
+##### 2026-02-13 02:53:57 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【孫正義對Open AI的豪賭迎來關鍵考驗】軟銀集團2025年4～12月凈利潤增至同期的5倍，其中來自OpenAI的投資收益貢獻巨大。OpenAI正向軟銀集團等投資方尋求鉅額追加注資。孫正義對OpenAI情有獨鍾，但AI開發競爭正日趨激烈…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%AD%AB%E6%AD%A3%E7%BE%A9%E5%B0%8DOpen+AI%E7%9A%84%E8%B1%AA%E8%B3%AD%E8%BF%8E%E4%BE%86%E9%97%9C%E9%8D%B5%E8%80%83%E9%A9%97%E3%80%91%E8%BB%9F%E9%8A%80%E9%9B%86%E5%9C%982025%E5%B9%B44%EF%BD%9E12%E6%9C%88%E5%87%88%E5%88%A9%E6%BD%A4%E5%A2%9E%E8%87%B3%E5%90%8C%E6%9C%9F%E7%9A%845%E5%80%8D%EF%BC%8C%E5%85%B6%E4%B8%AD%E4%BE%86%E8%87%AAOpenAI%E7%9A%84%E6%8A%95%E8%B3%87%E6%94%B6%E7%9B%8A%E8%B2%A2%E7%8D%BB%E5%B7%A8%E5%A4%A7%E3%80%82OpenAI%E6%AD%A3%E5%90%91%E8%BB%9F%E9%8A%80%E9%9B%86%E5%9C%98%E7%AD%89%E6%8A%95%E8%B3%87%E6%96%B9%E5%B0%8B%E6%B1%82%E9%89%85%E9%A1%8D%E8%BF%BD%E5%8A%A0%E6%B3%A8%E8%B3%87%E3%80%82%E5%AD%AB%E6%AD%A3%E7%BE%A9%E5%B0%8DOpenAI%E6%83%85%E6%9C%89%E7%8D%A8%E9%8D%BE%EF%BC%8C%E4%BD%86AI%E9%96%8B%E7%99%BC%E7%AB%B6%E7%88%AD%E6%AD%A3%E6%97%A5%E8%B6%A8%E6%BF%80%E7%83%88%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[利潤](利潤.md), [收益](收益.md), [激烈](激烈.md), [開發](開發.md)
+___
+##### 2026-02-13 02:03:09 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 路透社看到的一份备忘录显示，美国人工智能公司OpenAI已向美国立法者发出警告，称中国AI初创公司深度求索（DeepSeek）通过“提炼”OpenAI和美国AI实验室的信息来训练自身模型。 https://t.co/Pdibc9vtst
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%9C%8B%E5%88%B0%E7%9A%84%E4%B8%80%E4%BB%BD%E5%A4%87%E5%BF%98%E5%BD%95%E6%98%BE%E7%A4%BA%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8OpenAI%E5%B7%B2%E5%90%91%E7%BE%8E%E5%9B%BD%E7%AB%8B%E6%B3%95%E8%80%85%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%EF%BC%8C%E7%A7%B0%E4%B8%AD%E5%9B%BDAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E9%80%9A%E8%BF%87%E2%80%9C%E6%8F%90%E7%82%BC%E2%80%9DOpenAI%E5%92%8C%E7%BE%8E%E5%9B%BDAI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9A%84%E4%BF%A1%E6%81%AF%E6%9D%A5%E8%AE%AD%E7%BB%83%E8%87%AA%E8%BA%AB%E6%A8%A1%E5%9E%8B%E3%80%82+https%3A%2F%2Ft.co%2FPdibc9vtst)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [人工](人工.md), [人工智能](人工智能.md), [型](型.md), [显示](显示.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md)
+___
+##### 2026-02-12 09:41:15 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【軟銀集團4～12月凈利潤增至5倍，同期新高】同期財報計入了向OpenAI出資帶來的2.7965萬億日元投資收益。願景基金業務出資的滴滴出行的股價也有所上漲……https://t.co/e7CIGNAsxY
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%BB%9F%E9%8A%80%E9%9B%86%E5%9C%984%EF%BD%9E12%E6%9C%88%E5%87%88%E5%88%A9%E6%BD%A4%E5%A2%9E%E8%87%B35%E5%80%8D%EF%BC%8C%E5%90%8C%E6%9C%9F%E6%96%B0%E9%AB%98%E3%80%91%E5%90%8C%E6%9C%9F%E8%B2%A1%E5%A0%B1%E8%A8%88%E5%85%A5%E4%BA%86%E5%90%91OpenAI%E5%87%BA%E8%B3%87%E5%B8%B6%E4%BE%86%E7%9A%842.7965%E8%90%AC%E5%84%84%E6%97%A5%E5%85%83%E6%8A%95%E8%B3%87%E6%94%B6%E7%9B%8A%E3%80%82%E9%A1%98%E6%99%AF%E5%9F%BA%E9%87%91%E6%A5%AD%E5%8B%99%E5%87%BA%E8%B3%87%E7%9A%84%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C%E7%9A%84%E8%82%A1%E5%83%B9%E4%B9%9F%E6%9C%89%E6%89%80%E4%B8%8A%E6%BC%B2%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2Fe7CIGNAsxY)
+##### Other Words/Names of Interest in the Above Tweet
+[利潤](利潤.md), [基金](基金.md), [收益](收益.md)
+___
+##### 2026-02-06 08:00:11 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI周四发布新的人工智能平台Frontier，该平台可以帮助公司构建、部署和监督AI智能体。发布Frontier的一个目的是帮助OpenAI吸引更多企业客户，该公司正在与Anthropic、谷歌和其他对手争夺企业客户。https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%91%A8%E5%9B%9B%E5%8F%91%E5%B8%83%E6%96%B0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B9%B3%E5%8F%B0Frontier%EF%BC%8C%E8%AF%A5%E5%B9%B3%E5%8F%B0%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E5%85%AC%E5%8F%B8%E6%9E%84%E5%BB%BA%E3%80%81%E9%83%A8%E7%BD%B2%E5%92%8C%E7%9B%91%E7%9D%A3AI%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%82%E5%8F%91%E5%B8%83Frontier%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9B%AE%E7%9A%84%E6%98%AF%E5%B8%AE%E5%8A%A9OpenAI%E5%90%B8%E5%BC%95%E6%9B%B4%E5%A4%9A%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E4%B8%8EAnthropic%E3%80%81%E8%B0%B7%E6%AD%8C%E5%92%8C%E5%85%B6%E4%BB%96%E5%AF%B9%E6%89%8B%E4%BA%89%E5%A4%BA%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [吸引](吸引.md), [客户](客户.md), [平台](平台.md), [监督](监督.md), [谷歌](谷歌.md)
+___
+##### 2026-02-05 04:45:26 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 谷歌正加速重塑自身业务，以适应人工智能时代，力图在用户可能转向OpenAI等竞争对手聊天机器人的情况下，保持其使用搜索页面的习惯。#南洋商报 #Alphabet #google #AI #人工智能https://t.co/5y21WQdM…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%8A%A0%E9%80%9F%E9%87%8D%E5%A1%91%E8%87%AA%E8%BA%AB%E4%B8%9A%E5%8A%A1%EF%BC%8C%E4%BB%A5%E9%80%82%E5%BA%94%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%8A%9B%E5%9B%BE%E5%9C%A8%E7%94%A8%E6%88%B7%E5%8F%AF%E8%83%BD%E8%BD%AC%E5%90%91OpenAI%E7%AD%89%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E4%BF%9D%E6%8C%81%E5%85%B6%E4%BD%BF%E7%94%A8%E6%90%9C%E7%B4%A2%E9%A1%B5%E9%9D%A2%E7%9A%84%E4%B9%A0%E6%83%AF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Alphabet+%23google+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDhttps%3A%2F%2Ft.co%2F5y21WQdM%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [情况](情况.md), [搜索](搜索.md), [机器人](机器人.md), [竞争](竞争.md), [聊天](聊天.md), [谷歌](谷歌.md)
+___
+##### 2026-02-04 16:10:37 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 随着微软与OpenAI的紧密合作关系减弱，微软的Copilot聊天机器人已成为该公司AI战略的核心。但将Copilot打造成ChatGPT替代品的努力一直很艰难。https://t.co/00jNeeZJOS
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%9A%8F%E7%9D%80%E5%BE%AE%E8%BD%AF%E4%B8%8EOpenAI%E7%9A%84%E7%B4%A7%E5%AF%86%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%E5%87%8F%E5%BC%B1%EF%BC%8C%E5%BE%AE%E8%BD%AF%E7%9A%84Copilot%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E6%88%90%E4%B8%BA%E8%AF%A5%E5%85%AC%E5%8F%B8AI%E6%88%98%E7%95%A5%E7%9A%84%E6%A0%B8%E5%BF%83%E3%80%82%E4%BD%86%E5%B0%86Copilot%E6%89%93%E9%80%A0%E6%88%90ChatGPT%E6%9B%BF%E4%BB%A3%E5%93%81%E7%9A%84%E5%8A%AA%E5%8A%9B%E4%B8%80%E7%9B%B4%E5%BE%88%E8%89%B0%E9%9A%BE%E3%80%82https%3A%2F%2Ft.co%2F00jNeeZJOS)
+##### Other Words/Names of Interest in the Above Tweet
+[一直](一直.md), [微软](微软.md), [战略](战略.md), [打造](打造.md), [替代](替代.md), [机器人](机器人.md), [核心](核心.md), [聊天](聊天.md), [随着](随着.md)
+___
+##### 2026-02-04 16:02:30 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 据悉亚马逊商谈向OpenAI投资高达500亿美元，软银也在商谈投资不超过300亿美元。#南洋商报 #OpenAI #NVIDIAhttps://t.co/riIQEIyHWW https://t.co/B70awnij22
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8D%AE%E6%82%89%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%95%86%E8%B0%88%E5%90%91OpenAI%E6%8A%95%E8%B5%84%E9%AB%98%E8%BE%BE500%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BD%AF%E9%93%B6%E4%B9%9F%E5%9C%A8%E5%95%86%E8%B0%88%E6%8A%95%E8%B5%84%E4%B8%8D%E8%B6%85%E8%BF%87300%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23OpenAI+%23NVIDIAhttps%3A%2F%2Ft.co%2FriIQEIyHWW+https%3A%2F%2Ft.co%2FB70awnij22)
+##### Other Words/Names of Interest in the Above Tweet
+[亚马逊](亚马逊.md), [投资](投资.md), [超过](超过.md), [软银](软银.md)
+___
+##### 2026-02-02 04:29:05 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #独家 据知情人士透露，英伟达向OpenAI投资最高1,000亿美元以帮助其训练和运行最新AI模型的计划已经停滞，此前这家芯片巨头的一些内部人士对该交易表示怀疑。https://t.co/BDM2dBZoVE
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%90%91OpenAI%E6%8A%95%E8%B5%84%E6%9C%80%E9%AB%981%2C000%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BB%A5%E5%B8%AE%E5%8A%A9%E5%85%B6%E8%AE%AD%E7%BB%83%E5%92%8C%E8%BF%90%E8%A1%8C%E6%9C%80%E6%96%B0AI%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%A1%E5%88%92%E5%B7%B2%E7%BB%8F%E5%81%9C%E6%BB%9E%EF%BC%8C%E6%AD%A4%E5%89%8D%E8%BF%99%E5%AE%B6%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E7%9A%84%E4%B8%80%E4%BA%9B%E5%86%85%E9%83%A8%E4%BA%BA%E5%A3%AB%E5%AF%B9%E8%AF%A5%E4%BA%A4%E6%98%93%E8%A1%A8%E7%A4%BA%E6%80%80%E7%96%91%E3%80%82https%3A%2F%2Ft.co%2FBDM2dBZoVE)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [停滞](停滞.md), [型](型.md), [巨头](巨头.md), [投资](投资.md), [模型](模型.md), [知情](知情.md), [知情人士](知情人士.md), [芯片](芯片.md), [英伟达](英伟达.md), [计划](计划.md), [透露](透露.md)
+___
+##### 2026-01-31 06:27:03 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 英伟达发言人表示期待继续合作，OpenAI也强调双方团队正积极落实伙伴关系细节。#南洋商报 #nvidia #openai #JensenHuanghttps://t.co/PLswAEJVe7 https://t.co/jB8o8E0z…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E8%A8%80%E4%BA%BA%E8%A1%A8%E7%A4%BA%E6%9C%9F%E5%BE%85%E7%BB%A7%E7%BB%AD%E5%90%88%E4%BD%9C%EF%BC%8COpenAI%E4%B9%9F%E5%BC%BA%E8%B0%83%E5%8F%8C%E6%96%B9%E5%9B%A2%E9%98%9F%E6%AD%A3%E7%A7%AF%E6%9E%81%E8%90%BD%E5%AE%9E%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E7%BB%86%E8%8A%82%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23nvidia+%23openai+%23JensenHuanghttps%3A%2F%2Ft.co%2FPLswAEJVe7+https%3A%2F%2Ft.co%2FjB8o8E0z%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[积极](积极.md), [英伟达](英伟达.md)
+___
+##### 2026-01-29 17:04:19 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 马斯克诉OpenAI案预计将于4月开庭审理。该案的文件最近被解封，详尽揭示了马斯克、OpenAI领导层和微软之间错综复杂的关系网。本文介绍了需要了解的一些信息。https://t.co/e1RuT95XDo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%89OpenAI%E6%A1%88%E9%A2%84%E8%AE%A1%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%BC%80%E5%BA%AD%E5%AE%A1%E7%90%86%E3%80%82%E8%AF%A5%E6%A1%88%E7%9A%84%E6%96%87%E4%BB%B6%E6%9C%80%E8%BF%91%E8%A2%AB%E8%A7%A3%E5%B0%81%EF%BC%8C%E8%AF%A6%E5%B0%BD%E6%8F%AD%E7%A4%BA%E4%BA%86%E9%A9%AC%E6%96%AF%E5%85%8B%E3%80%81OpenAI%E9%A2%86%E5%AF%BC%E5%B1%82%E5%92%8C%E5%BE%AE%E8%BD%AF%E4%B9%8B%E9%97%B4%E9%94%99%E7%BB%BC%E5%A4%8D%E6%9D%82%E7%9A%84%E5%85%B3%E7%B3%BB%E7%BD%91%E3%80%82%E6%9C%AC%E6%96%87%E4%BB%8B%E7%BB%8D%E4%BA%86%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BF%A1%E6%81%AF%E3%80%82https%3A%2F%2Ft.co%2Fe1RuT95XDo)
+##### Other Words/Names of Interest in the Above Tweet
+[审理](审理.md), [微软](微软.md), [揭示](揭示.md), [文件](文件.md), [预计](预计.md), [领导](领导.md)
+___
+##### 2026-01-29 06:01:52 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 微软财报亮眼，但股价却受AI高额投入影响承压。可以看出，投资人对未来AI和OpenAI的营收贡献仍保持谨慎态度。#南洋商报 #OpenAI #人工智能 #微软 #microsofthttps://t.co/DNPfCtTA3k https…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%E8%B4%A2%E6%8A%A5%E4%BA%AE%E7%9C%BC%EF%BC%8C%E4%BD%86%E8%82%A1%E4%BB%B7%E5%8D%B4%E5%8F%97AI%E9%AB%98%E9%A2%9D%E6%8A%95%E5%85%A5%E5%BD%B1%E5%93%8D%E6%89%BF%E5%8E%8B%E3%80%82%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%87%BA%EF%BC%8C%E6%8A%95%E8%B5%84%E4%BA%BA%E5%AF%B9%E6%9C%AA%E6%9D%A5AI%E5%92%8COpenAI%E7%9A%84%E8%90%A5%E6%94%B6%E8%B4%A1%E7%8C%AE%E4%BB%8D%E4%BF%9D%E6%8C%81%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23OpenAI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23%E5%BE%AE%E8%BD%AF+%23microsofthttps%3A%2F%2Ft.co%2FDNPfCtTA3k+https%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [影响](影响.md), [微软](微软.md), [投资](投资.md), [营收](营收.md), [谨慎](谨慎.md)
+___
 ##### 2026-01-22 16:38:24 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: Siri目前缺乏聊天式体验，也不具备像OpenAI的ChatGPT或谷歌的Gemini那样的AI对话能力。#南洋商报 #apple #Siri #AI https://t.co/CloIOJddm3 https://t.co/inaOFC…
 

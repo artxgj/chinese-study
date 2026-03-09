@@ -26,7 +26,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Gemini](Gemini.md), [低估](低估.md), [提高](提高.md), [效率](效率.md)
 ___
-##### 2025-03-24 05:57:08 UTC ~ dontbesilent
+##### 2025-03-24 05:57:08 UTC ~ 
 > RT @dontbesilent12: 这件事情有多麻烦：1、先让 claude 给我的推文做个类别划分2、开了 @mytwillot 会员，用 AI 给推文做分类3、导出 markdown 形式的分类后的推文4、用 claude 写个 python，做数据清洗，删掉…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dontbesilent12%3A+%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%83%85%E6%9C%89%E5%A4%9A%E9%BA%BB%E7%83%A6%EF%BC%9A1%E3%80%81%E5%85%88%E8%AE%A9+claude+%E7%BB%99%E6%88%91%E7%9A%84%E6%8E%A8%E6%96%87%E5%81%9A%E4%B8%AA%E7%B1%BB%E5%88%AB%E5%88%92%E5%88%862%E3%80%81%E5%BC%80%E4%BA%86+%40mytwillot+%E4%BC%9A%E5%91%98%EF%BC%8C%E7%94%A8+AI+%E7%BB%99%E6%8E%A8%E6%96%87%E5%81%9A%E5%88%86%E7%B1%BB3%E3%80%81%E5%AF%BC%E5%87%BA+markdown+%E5%BD%A2%E5%BC%8F%E7%9A%84%E5%88%86%E7%B1%BB%E5%90%8E%E7%9A%84%E6%8E%A8%E6%96%874%E3%80%81%E7%94%A8+claude+%E5%86%99%E4%B8%AA+python%EF%BC%8C%E5%81%9A%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%EF%BC%8C%E5%88%A0%E6%8E%89%E2%80%A6)

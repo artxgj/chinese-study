@@ -7,6 +7,55 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-03-06 00:21:00 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 知情人士表示，草案将要求企业在出口几乎所有AI加速器时都须取得美国许可，涵盖英伟达、超微（AMD）等公司产品。此举将把目前仅适用于约40个国家的出口限制扩展至全球。#南洋商报 #人工智能 #特朗普 #芯片 #英伟达https://t.co…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%8D%89%E6%A1%88%E5%B0%86%E8%A6%81%E6%B1%82%E4%BC%81%E4%B8%9A%E5%9C%A8%E5%87%BA%E5%8F%A3%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89AI%E5%8A%A0%E9%80%9F%E5%99%A8%E6%97%B6%E9%83%BD%E9%A1%BB%E5%8F%96%E5%BE%97%E7%BE%8E%E5%9B%BD%E8%AE%B8%E5%8F%AF%EF%BC%8C%E6%B6%B5%E7%9B%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E7%AD%89%E5%85%AC%E5%8F%B8%E4%BA%A7%E5%93%81%E3%80%82%E6%AD%A4%E4%B8%BE%E5%B0%86%E6%8A%8A%E7%9B%AE%E5%89%8D%E4%BB%85%E9%80%82%E7%94%A8%E4%BA%8E%E7%BA%A640%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E6%89%A9%E5%B1%95%E8%87%B3%E5%85%A8%E7%90%83%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23%E7%89%B9%E6%9C%97%E6%99%AE+%23%E8%8A%AF%E7%89%87+%23%E8%8B%B1%E4%BC%9F%E8%BE%BEhttps%3A%2F%2Ft.co%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [加速器](加速器.md), [此举](此举.md), [涵盖](涵盖.md), [特朗普](特朗普.md), [用于](用于.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [超微](超微.md), [限制](限制.md)
+___
+##### 2026-02-25 07:12:22 UTC ~ FTChinese
+> RT @FTChinese: 【AMD在数据中心上试验网红跟风效应】这家芯片制造商或许寄望于Meta的背书能吸引其他超大规模云厂商跟进。https://t.co/Ohl5LzfVJn
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90AMD%E5%9C%A8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E4%B8%8A%E8%AF%95%E9%AA%8C%E7%BD%91%E7%BA%A2%E8%B7%9F%E9%A3%8E%E6%95%88%E5%BA%94%E3%80%91%E8%BF%99%E5%AE%B6%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E6%88%96%E8%AE%B8%E5%AF%84%E6%9C%9B%E4%BA%8EMeta%E7%9A%84%E8%83%8C%E4%B9%A6%E8%83%BD%E5%90%B8%E5%BC%95%E5%85%B6%E4%BB%96%E8%B6%85%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%91%E5%8E%82%E5%95%86%E8%B7%9F%E8%BF%9B%E3%80%82https%3A%2F%2Ft.co%2FOhl5LzfVJn)
+##### Other Words/Names of Interest in the Above Tweet
+[厂商](厂商.md), [吸引](吸引.md), [寄望](寄望.md), [数据](数据.md), [芯片](芯片.md), [规模](规模.md)
+___
+##### 2026-02-25 01:34:02 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Meta已同意从AMD购买6吉瓦的AI计算能力，这笔交易价值超过1,000亿美元，可能使Meta持有AMD最多10%的股份。https://t.co/3VGGmjTOmM
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Meta%E5%B7%B2%E5%90%8C%E6%84%8F%E4%BB%8EAMD%E8%B4%AD%E4%B9%B06%E5%90%89%E7%93%A6%E7%9A%84AI%E8%AE%A1%E7%AE%97%E8%83%BD%E5%8A%9B%EF%BC%8C%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%E4%BB%B7%E5%80%BC%E8%B6%85%E8%BF%871%2C000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BD%BFMeta%E6%8C%81%E6%9C%89AMD%E6%9C%80%E5%A4%9A10%25%E7%9A%84%E8%82%A1%E4%BB%BD%E3%80%82https%3A%2F%2Ft.co%2F3VGGmjTOmM)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [股份](股份.md), [购买](购买.md), [超过](超过.md)
+___
+##### 2026-02-25 01:31:11 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 这笔交易总规模超过1000亿美元，被视为AMD在追赶英伟达道路上的一次重大突破。#南洋商报 #meta #AMDhttps://t.co/kp6e3Wi4vH https://t.co/vdWEE3Xvhb
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%E6%80%BB%E8%A7%84%E6%A8%A1%E8%B6%85%E8%BF%871000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%A2%AB%E8%A7%86%E4%B8%BAAMD%E5%9C%A8%E8%BF%BD%E8%B5%B6%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%81%93%E8%B7%AF%E4%B8%8A%E7%9A%84%E4%B8%80%E6%AC%A1%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23meta+%23AMDhttps%3A%2F%2Ft.co%2Fkp6e3Wi4vH+https%3A%2F%2Ft.co%2FvdWEE3Xvhb)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [突破](突破.md), [英伟达](英伟达.md), [规模](规模.md), [超过](超过.md), [追赶](追赶.md)
+___
+##### 2026-02-25 01:30:19 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: AMD股价大涨，主要受其与Meta达成多年合作协议的提振。#南洋商报 #美股 #nysehttps://t.co/IBVtJIXD6o https://t.co/CshTUH0ovN
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+AMD%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%EF%BC%8C%E4%B8%BB%E8%A6%81%E5%8F%97%E5%85%B6%E4%B8%8EMeta%E8%BE%BE%E6%88%90%E5%A4%9A%E5%B9%B4%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%8F%90%E6%8C%AF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E7%BE%8E%E8%82%A1+%23nysehttps%3A%2F%2Ft.co%2FIBVtJIXD6o+https%3A%2F%2Ft.co%2FCshTUH0ovN)
+##### Other Words/Names of Interest in the Above Tweet
+[协议](协议.md), [提振](提振.md), [达成](达成.md)
+___
+##### 2026-02-07 04:09:17 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 英特尔目前积压大量未交货订单，部分产品等待出货时间可能长达6个月。#南洋商报 #Intel #AMD #CPU #Chinahttps://t.co/wUTwpFnvbi https://t.co/rOwoUkcill
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B1%E7%89%B9%E5%B0%94%E7%9B%AE%E5%89%8D%E7%A7%AF%E5%8E%8B%E5%A4%A7%E9%87%8F%E6%9C%AA%E4%BA%A4%E8%B4%A7%E8%AE%A2%E5%8D%95%EF%BC%8C%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E7%AD%89%E5%BE%85%E5%87%BA%E8%B4%A7%E6%97%B6%E9%97%B4%E5%8F%AF%E8%83%BD%E9%95%BF%E8%BE%BE6%E4%B8%AA%E6%9C%88%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Intel+%23AMD+%23CPU+%23Chinahttps%3A%2F%2Ft.co%2FwUTwpFnvbi+https%3A%2F%2Ft.co%2FrOwoUkcill)
+##### Other Words/Names of Interest in the Above Tweet
+[交货](交货.md), [英特尔](英特尔.md), [订单](订单.md)
+___
+##### 2026-02-05 06:49:46 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: AMD周二发布声明称，今年第一季营收预计约为98亿美元（约385亿令吉），上下浮动3亿美元（约11.8亿令吉）。#南洋商报 #AMD #超微 #苏姿丰 #LisaSuhttps://t.co/kdFxU3MPk3 https://t.co…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+AMD%E5%91%A8%E4%BA%8C%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%E7%A7%B0%EF%BC%8C%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%AD%A3%E8%90%A5%E6%94%B6%E9%A2%84%E8%AE%A1%E7%BA%A6%E4%B8%BA98%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A6385%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%EF%BC%8C%E4%B8%8A%E4%B8%8B%E6%B5%AE%E5%8A%A83%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A611.8%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23AMD+%23%E8%B6%85%E5%BE%AE+%23%E8%8B%8F%E5%A7%BF%E4%B8%B0+%23LisaSuhttps%3A%2F%2Ft.co%2FkdFxU3MPk3+https%3A%2F%2Ft.co%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [苏姿丰](苏姿丰.md), [营收](营收.md), [超微](超微.md), [预计](预计.md)
+___
 ##### 2026-01-14 06:39:41 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【美國附條件解禁英偉達等的AI半導體對華出口】對象為英偉達的H200以及具有同等或更低性能的AI半導體，還有AMD的MI325X。似乎設想主要面向在中國開展業務的西方企業，對總部設在中國大陸和澳門的中國企業的出口仍為「原則上禁止」。還要求…
 

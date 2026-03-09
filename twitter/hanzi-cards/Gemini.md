@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2026-01-30 06:50:34 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 谷歌表示，全新的侧边面板设计，让Gemini全程伴随浏览过程。#南洋商报 #google #Gemini #Chromehttps://t.co/7EXmpFCwOc https://t.co/g9HVJeDvbJ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%B0%B7%E6%AD%8C%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%85%A8%E6%96%B0%E7%9A%84%E4%BE%A7%E8%BE%B9%E9%9D%A2%E6%9D%BF%E8%AE%BE%E8%AE%A1%EF%BC%8C%E8%AE%A9Gemini%E5%85%A8%E7%A8%8B%E4%BC%B4%E9%9A%8F%E6%B5%8F%E8%A7%88%E8%BF%87%E7%A8%8B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23google+%23Gemini+%23Chromehttps%3A%2F%2Ft.co%2F7EXmpFCwOc+https%3A%2F%2Ft.co%2Fg9HVJeDvbJ)
+##### Other Words/Names of Interest in the Above Tweet
+[伴随](伴随.md), [设计](设计.md), [谷歌](谷歌.md), [面板](面板.md)
+___
 ##### 2026-01-22 16:38:24 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: Siri目前缺乏聊天式体验，也不具备像OpenAI的ChatGPT或谷歌的Gemini那样的AI对话能力。#南洋商报 #apple #Siri #AI https://t.co/CloIOJddm3 https://t.co/inaOFC…
 
@@ -133,7 +140,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Claude](Claude.md), [型](型.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
 ___
-##### 2025-04-01 04:42:44 UTC ~ Jiayuan
+##### 2025-04-01 04:42:44 UTC ~ 
 > RT @tisoga: 创建了一个用来分析自己健康 &amp; 运动数据的 app，支持连接到 Whoop, Apple Health, Garmin 导入相关数据。并且还连接了 Gemini Pro 2.5 作为健康教练来分析相关的数据。全程使用 @devv_ai vibe…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tisoga%3A+%E5%88%9B%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%A8%E6%9D%A5%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%81%A5%E5%BA%B7+%26amp%3B+%E8%BF%90%E5%8A%A8%E6%95%B0%E6%8D%AE%E7%9A%84+app%EF%BC%8C%E6%94%AF%E6%8C%81%E8%BF%9E%E6%8E%A5%E5%88%B0+Whoop%2C+Apple+Health%2C+Garmin+%E5%AF%BC%E5%85%A5%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E3%80%82%E5%B9%B6%E4%B8%94%E8%BF%98%E8%BF%9E%E6%8E%A5%E4%BA%86+Gemini+Pro+2.5+%E4%BD%9C%E4%B8%BA%E5%81%A5%E5%BA%B7%E6%95%99%E7%BB%83%E6%9D%A5%E5%88%86%E6%9E%90%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E5%85%A8%E7%A8%8B%E4%BD%BF%E7%94%A8+%40devv_ai+vibe%E2%80%A6)

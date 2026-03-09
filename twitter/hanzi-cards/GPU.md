@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-02-27 07:30:48 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 外媒去年12月报道，Google正在推广张量处理单元（TPU），让TPU成为英伟达领先市场的图形处理器（GPU）以外可行替代选项。#南洋商报 #Meta #Google #AI #TPU #芯片https://t.co/YLkNDGbBe…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%A4%96%E5%AA%92%E5%8E%BB%E5%B9%B412%E6%9C%88%E6%8A%A5%E9%81%93%EF%BC%8CGoogle%E6%AD%A3%E5%9C%A8%E6%8E%A8%E5%B9%BF%E5%BC%A0%E9%87%8F%E5%A4%84%E7%90%86%E5%8D%95%E5%85%83%EF%BC%88TPU%EF%BC%89%EF%BC%8C%E8%AE%A9TPU%E6%88%90%E4%B8%BA%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A2%86%E5%85%88%E5%B8%82%E5%9C%BA%E7%9A%84%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E4%BB%A5%E5%A4%96%E5%8F%AF%E8%A1%8C%E6%9B%BF%E4%BB%A3%E9%80%89%E9%A1%B9%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Meta+%23Google+%23AI+%23TPU+%23%E8%8A%AF%E7%89%87https%3A%2F%2Ft.co%2FYLkNDGbBe%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[处理](处理.md), [替代](替代.md), [芯片](芯片.md), [英伟达](英伟达.md)
+___
+##### 2026-02-08 18:04:10 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中共反腐专题片上月披露湖北原省委书记蒋超良落马细节。中共中央军委机关报《解放军报》评论指，党员干部什么时候都应清廉自守、干净干事，不喝“迷魂汤”，避免遭到别有用心的人“围猎”。 https://t.co/354GPUvSUq
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%85%B1%E5%8F%8D%E8%85%90%E4%B8%93%E9%A2%98%E7%89%87%E4%B8%8A%E6%9C%88%E6%8A%AB%E9%9C%B2%E6%B9%96%E5%8C%97%E5%8E%9F%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%92%8B%E8%B6%85%E8%89%AF%E8%90%BD%E9%A9%AC%E7%BB%86%E8%8A%82%E3%80%82%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E5%86%9B%E5%A7%94%E6%9C%BA%E5%85%B3%E6%8A%A5%E3%80%8A%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A5%E3%80%8B%E8%AF%84%E8%AE%BA%E6%8C%87%EF%BC%8C%E5%85%9A%E5%91%98%E5%B9%B2%E9%83%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E9%83%BD%E5%BA%94%E6%B8%85%E5%BB%89%E8%87%AA%E5%AE%88%E3%80%81%E5%B9%B2%E5%87%80%E5%B9%B2%E4%BA%8B%EF%BC%8C%E4%B8%8D%E5%96%9D%E2%80%9C%E8%BF%B7%E9%AD%82%E6%B1%A4%E2%80%9D%EF%BC%8C%E9%81%BF%E5%85%8D%E9%81%AD%E5%88%B0%E5%88%AB%E6%9C%89%E7%94%A8%E5%BF%83%E7%9A%84%E4%BA%BA%E2%80%9C%E5%9B%B4%E7%8C%8E%E2%80%9D%E3%80%82+https%3A%2F%2Ft.co%2F354GPUvSUq)
+##### Other Words/Names of Interest in the Above Tweet
+[披露](披露.md), [湖北](湖北.md)
+___
 ##### 2026-01-09 05:14:18 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 被誉为“上海GPU四小龙”之一的天数智芯，以及“中国AI六小虎”之一的智谱，于8日在香港交易所上市，成为自去年12月以来，中国和香港上市的第四、第五家AI概念股。#南洋商报 #中国 #股市 https://t.co/R15C2flldY…
 

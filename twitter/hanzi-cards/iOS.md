@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2026-03-02 06:07:52 UTC ~ 高军
+> RT @GoJun315: 苹果最封闭的地方，被人撬开了。vphone-cli，基于苹果原生 Virtualization 框架，在 Mac 上直接引导启动一个完整的虚拟 iPhone。注意，不是模拟器，是真的 iOS。支持 SSH 直接进系统内部，配合 VNC 能…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GoJun315%3A+%E8%8B%B9%E6%9E%9C%E6%9C%80%E5%B0%81%E9%97%AD%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E8%A2%AB%E4%BA%BA%E6%92%AC%E5%BC%80%E4%BA%86%E3%80%82vphone-cli%EF%BC%8C%E5%9F%BA%E4%BA%8E%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F+Virtualization+%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%9C%A8+Mac+%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%BC%95%E5%AF%BC%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E7%9A%84%E8%99%9A%E6%8B%9F+iPhone%E3%80%82%E6%B3%A8%E6%84%8F%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%A8%A1%E6%8B%9F%E5%99%A8%EF%BC%8C%E6%98%AF%E7%9C%9F%E7%9A%84+iOS%E3%80%82%E6%94%AF%E6%8C%81+SSH+%E7%9B%B4%E6%8E%A5%E8%BF%9B%E7%B3%BB%E7%BB%9F%E5%86%85%E9%83%A8%EF%BC%8C%E9%85%8D%E5%90%88+VNC+%E8%83%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [iPhone](iPhone.md), [启动](启动.md), [支持](支持.md), [模拟](模拟.md), [直接](直接.md), [系统](系统.md), [苹果](苹果.md), [配合](配合.md)
+___
+##### 2026-03-02 04:08:49 UTC ~ GitHubDaily
+> RT @GitHub_Daily: 想在 macOS 上运行一个具备完整内核功能的 iOS 系统，除了官方那个仅用于应用调试的模拟器，几乎没有现成的解决方案。最近在 GitHub 发现 vphone-cli 项目，利用苹果原生的 Virtualization 框架，在 Ma…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%83%B3%E5%9C%A8+macOS+%E4%B8%8A%E8%BF%90%E8%A1%8C%E4%B8%80%E4%B8%AA%E5%85%B7%E5%A4%87%E5%AE%8C%E6%95%B4%E5%86%85%E6%A0%B8%E5%8A%9F%E8%83%BD%E7%9A%84+iOS+%E7%B3%BB%E7%BB%9F%EF%BC%8C%E9%99%A4%E4%BA%86%E5%AE%98%E6%96%B9%E9%82%A3%E4%B8%AA%E4%BB%85%E7%94%A8%E4%BA%8E%E5%BA%94%E7%94%A8%E8%B0%83%E8%AF%95%E7%9A%84%E6%A8%A1%E6%8B%9F%E5%99%A8%EF%BC%8C%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%9C%89%E7%8E%B0%E6%88%90%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%82%E6%9C%80%E8%BF%91%E5%9C%A8+GitHub+%E5%8F%91%E7%8E%B0+vphone-cli+%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%88%A9%E7%94%A8%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E7%9A%84+Virtualization+%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%9C%A8+Ma%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [方案](方案.md), [模拟](模拟.md), [用于](用于.md), [系统](系统.md), [苹果](苹果.md), [除了](除了.md), [项目](项目.md)
+___
+##### 2026-03-02 00:55:51 UTC ~ 迈克 Mike Chong
+> RT @mike_chong_zh: 我就给大家个内幕的消息，Block的裁员里面重灾区就是iOS开发，iOS基本上从大概120人的团队裁到了10到20个人。原因就是在AI时代这种原生开发没有任何优势。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40mike_chong_zh%3A+%E6%88%91%E5%B0%B1%E7%BB%99%E5%A4%A7%E5%AE%B6%E4%B8%AA%E5%86%85%E5%B9%95%E7%9A%84%E6%B6%88%E6%81%AF%EF%BC%8CBlock%E7%9A%84%E8%A3%81%E5%91%98%E9%87%8C%E9%9D%A2%E9%87%8D%E7%81%BE%E5%8C%BA%E5%B0%B1%E6%98%AFiOS%E5%BC%80%E5%8F%91%EF%BC%8CiOS%E5%9F%BA%E6%9C%AC%E4%B8%8A%E4%BB%8E%E5%A4%A7%E6%A6%82120%E4%BA%BA%E7%9A%84%E5%9B%A2%E9%98%9F%E8%A3%81%E5%88%B0%E4%BA%8610%E5%88%B020%E4%B8%AA%E4%BA%BA%E3%80%82%E5%8E%9F%E5%9B%A0%E5%B0%B1%E6%98%AF%E5%9C%A8AI%E6%97%B6%E4%BB%A3%E8%BF%99%E7%A7%8D%E5%8E%9F%E7%94%9F%E5%BC%80%E5%8F%91%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E4%BC%98%E5%8A%BF%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[优势](优势.md), [开发](开发.md), [裁员](裁员.md)
+___
 ##### 2025-06-26 09:45:07 UTC ~ karminski-牙医
 > RT @karminski3: 看到个特别有用的工具——LocalSend这个工具可以让你在本地网络上（同一个局域网）与任何设备分享文件和消息。目前支持 Win, MacOS, Linux, Android, iOS.地址：https://t.co/SZy3OGkcab…
 

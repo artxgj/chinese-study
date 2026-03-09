@@ -8,6 +8,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-07-30 03:28:00 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 印尼经济学者呼吁政府当局，关注电商平台“TikTok商店”（TikTok Shop）。学者指 #TikTok 商店贩售的中国商品，比印尼中小企业的产品更低廉，且社交平台有大量数据，能精准定位消费者，影响力遽增。学者担心，这可能威胁印尼中小企业…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8D%B0%E5%B0%BC%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%85%E5%91%BC%E5%90%81%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%EF%BC%8C%E5%85%B3%E6%B3%A8%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E2%80%9CTikTok%E5%95%86%E5%BA%97%E2%80%9D%EF%BC%88TikTok+Shop%EF%BC%89%E3%80%82%E5%AD%A6%E8%80%85%E6%8C%87+%23TikTok+%E5%95%86%E5%BA%97%E8%B4%A9%E5%94%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%EF%BC%8C%E6%AF%94%E5%8D%B0%E5%B0%BC%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E4%BA%A7%E5%93%81%E6%9B%B4%E4%BD%8E%E5%BB%89%EF%BC%8C%E4%B8%94%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%EF%BC%8C%E8%83%BD%E7%B2%BE%E5%87%86%E5%AE%9A%E4%BD%8D%E6%B6%88%E8%B4%B9%E8%80%85%EF%BC%8C%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%81%BD%E5%A2%9E%E3%80%82%E5%AD%A6%E8%80%85%E6%8B%85%E5%BF%83%EF%BC%8C%E8%BF%99%E5%8F%AF%E8%83%BD%E5%A8%81%E8%83%81%E5%8D%B0%E5%B0%BC%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[低廉](低廉.md), [关注](关注.md), [呼吁](呼吁.md), [商品](商品.md), [威胁](威胁.md), [平台](平台.md), [影响](影响.md), [担心](担心.md), [数据](数据.md), [消费者](消费者.md), [电商](电商.md)
+___
+##### 2023-07-26 05:01:46 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #独家 知情人士表示，TikTok将于8月初在美国推出新的电商业务，寻求复制Shein和Temu这两位对手取得的成功。一位曾在阿里巴巴工作过的科技业分析师说，这对TikTok而言是一场硬仗，因为不仅竞争激烈，而且如果电商业务真的做好了，面临的挑…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E8%A1%A8%E7%A4%BA%EF%BC%8CTikTok%E5%B0%86%E4%BA%8E8%E6%9C%88%E5%88%9D%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8E%A8%E5%87%BA%E6%96%B0%E7%9A%84%E7%94%B5%E5%95%86%E4%B8%9A%E5%8A%A1%EF%BC%8C%E5%AF%BB%E6%B1%82%E5%A4%8D%E5%88%B6Shein%E5%92%8CTemu%E8%BF%99%E4%B8%A4%E4%BD%8D%E5%AF%B9%E6%89%8B%E5%8F%96%E5%BE%97%E7%9A%84%E6%88%90%E5%8A%9F%E3%80%82%E4%B8%80%E4%BD%8D%E6%9B%BE%E5%9C%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B7%A5%E4%BD%9C%E8%BF%87%E7%9A%84%E7%A7%91%E6%8A%80%E4%B8%9A%E5%88%86%E6%9E%90%E5%B8%88%E8%AF%B4%EF%BC%8C%E8%BF%99%E5%AF%B9TikTok%E8%80%8C%E8%A8%80%E6%98%AF%E4%B8%80%E5%9C%BA%E7%A1%AC%E4%BB%97%EF%BC%8C%E5%9B%A0%E4%B8%BA%E4%B8%8D%E4%BB%85%E7%AB%9E%E4%BA%89%E6%BF%80%E7%83%88%EF%BC%8C%E8%80%8C%E4%B8%94%E5%A6%82%E6%9E%9C%E7%94%B5%E5%95%86%E4%B8%9A%E5%8A%A1%E7%9C%9F%E7%9A%84%E5%81%9A%E5%A5%BD%E4%BA%86%EF%BC%8C%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [分析](分析.md), [分析师](分析师.md), [推出](推出.md), [激烈](激烈.md), [电商](电商.md), [知情](知情.md), [知情人士](知情人士.md), [科技](科技.md), [竞争](竞争.md), [美国](美国.md), [阿里巴巴](阿里巴巴.md), [面临](面临.md)
+___
+##### 2023-07-26 03:00:20 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国短视频平台抖音的海外版TikTok允许用户创建纯文本帖子，把握去年马斯克收购推特以来以来的动荡时机。https://t.co/0Jw4N7Q2R6
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E6%8A%96%E9%9F%B3%E7%9A%84%E6%B5%B7%E5%A4%96%E7%89%88TikTok%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E5%88%9B%E5%BB%BA%E7%BA%AF%E6%96%87%E6%9C%AC%E5%B8%96%E5%AD%90%EF%BC%8C%E6%8A%8A%E6%8F%A1%E5%8E%BB%E5%B9%B4%E9%A9%AC%E6%96%AF%E5%85%8B%E6%94%B6%E8%B4%AD%E6%8E%A8%E7%89%B9%E4%BB%A5%E6%9D%A5%E4%BB%A5%E6%9D%A5%E7%9A%84%E5%8A%A8%E8%8D%A1%E6%97%B6%E6%9C%BA%E3%80%82https%3A%2F%2Ft.co%2F0Jw4N7Q2R6)
+##### Other Words/Names of Interest in the Above Tweet
+[允许](允许.md), [动荡](动荡.md), [平台](平台.md), [推特](推特.md), [收购](收购.md)
+___
+##### 2023-07-25 02:18:56 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 向来只能发短视频的 #TikTok 周一宣布，即将提供纯文字发帖，准备与推特一较高下。 https://t.co/AAHvj7T7M0 https://t.co/6iMZuqYvbs
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%90%91%E6%9D%A5%E5%8F%AA%E8%83%BD%E5%8F%91%E7%9F%AD%E8%A7%86%E9%A2%91%E7%9A%84+%23TikTok+%E5%91%A8%E4%B8%80%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%8D%B3%E5%B0%86%E6%8F%90%E4%BE%9B%E7%BA%AF%E6%96%87%E5%AD%97%E5%8F%91%E5%B8%96%EF%BC%8C%E5%87%86%E5%A4%87%E4%B8%8E%E6%8E%A8%E7%89%B9%E4%B8%80%E8%BE%83%E9%AB%98%E4%B8%8B%E3%80%82+https%3A%2F%2Ft.co%2FAAHvj7T7M0+https%3A%2F%2Ft.co%2F6iMZuqYvbs)
+##### Other Words/Names of Interest in the Above Tweet
+[推特](推特.md), [提供](提供.md)
+___
+##### 2023-07-24 23:57:41 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【链接——10个数字看ChatGPT问世这半年】ChatGPT发布后的2个月内，在全球的月均用户数就达到1亿人，过去TikTok和Instagram分别用了9个月和28个月才获得1亿用户。ChatGPT可能将全球的GDP推高7万亿美元………
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%9410%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8BChatGPT%E9%97%AE%E4%B8%96%E8%BF%99%E5%8D%8A%E5%B9%B4%E3%80%91ChatGPT%E5%8F%91%E5%B8%83%E5%90%8E%E7%9A%842%E4%B8%AA%E6%9C%88%E5%86%85%EF%BC%8C%E5%9C%A8%E5%85%A8%E7%90%83%E7%9A%84%E6%9C%88%E5%9D%87%E7%94%A8%E6%88%B7%E6%95%B0%E5%B0%B1%E8%BE%BE%E5%88%B01%E4%BA%BF%E4%BA%BA%EF%BC%8C%E8%BF%87%E5%8E%BBTikTok%E5%92%8CInstagram%E5%88%86%E5%88%AB%E7%94%A8%E4%BA%869%E4%B8%AA%E6%9C%88%E5%92%8C28%E4%B8%AA%E6%9C%88%E6%89%8D%E8%8E%B7%E5%BE%971%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82ChatGPT%E5%8F%AF%E8%83%BD%E5%B0%86%E5%85%A8%E7%90%83%E7%9A%84GDP%E6%8E%A8%E9%AB%987%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%A6%E2%80%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [推高](推高.md), [获得](获得.md)
+___
 ##### 2023-06-23 06:42:20 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 由中资拥有的视频分享公司TikTok的首席运营官、驻美国的最高级别高管V Pappas将在任职近五年后离职，此举为该公司在最重要市场面临关键时刻之际调整领导层拉开序幕。https://t.co/eQCAz2XnBT
 

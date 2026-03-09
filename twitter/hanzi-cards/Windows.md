@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2026-01-27 15:38:21 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 看来，今年将是AI让“说话”变得与“点击和滑动”一样强大的关键之年。这场变革对科技行业的影响可能堪比Mac电脑、Windows系统或iPhone的诞生。https://t.co/ExYlKLuNAo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%9C%8B%E6%9D%A5%EF%BC%8C%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AFAI%E8%AE%A9%E2%80%9C%E8%AF%B4%E8%AF%9D%E2%80%9D%E5%8F%98%E5%BE%97%E4%B8%8E%E2%80%9C%E7%82%B9%E5%87%BB%E5%92%8C%E6%BB%91%E5%8A%A8%E2%80%9D%E4%B8%80%E6%A0%B7%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%85%B3%E9%94%AE%E4%B9%8B%E5%B9%B4%E3%80%82%E8%BF%99%E5%9C%BA%E5%8F%98%E9%9D%A9%E5%AF%B9%E7%A7%91%E6%8A%80%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8F%AF%E8%83%BD%E5%A0%AA%E6%AF%94Mac%E7%94%B5%E8%84%91%E3%80%81Windows%E7%B3%BB%E7%BB%9F%E6%88%96iPhone%E7%9A%84%E8%AF%9E%E7%94%9F%E3%80%82https%3A%2F%2Ft.co%2FExYlKLuNAo)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [iPhone](iPhone.md), [关键](关键.md), [影响](影响.md), [科技](科技.md), [系统](系统.md), [行业](行业.md)
+___
 ##### 2026-01-06 15:08:48 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 经常需要截图分享给朋友，或者录制操作演示，Windows 上的 ShareX 好用，但切换到 Linux 或 macOS 系统就没法用了。偶然看到 SnapX 这个开源项目，基于 ShareX 重构，实现了真正的跨平台支持，Linux、W…
 

@@ -7,6 +7,69 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2026-03-04 16:37:43 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 什么情况！昨天马斯克刚夸赞完阿里的 Qwen，然后今天上午多位技术负责人、骨干，相继宣布离职。字节跳动：都是同行的衬托。 https://t.co/bPsduWoTzP
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%EF%BC%81%E6%98%A8%E5%A4%A9%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%9A%E5%A4%B8%E8%B5%9E%E5%AE%8C%E9%98%BF%E9%87%8C%E7%9A%84+Qwen%EF%BC%8C%E7%84%B6%E5%90%8E%E4%BB%8A%E5%A4%A9%E4%B8%8A%E5%8D%88%E5%A4%9A%E4%BD%8D%E6%8A%80%E6%9C%AF%E8%B4%9F%E8%B4%A3%E4%BA%BA%E3%80%81%E9%AA%A8%E5%B9%B2%EF%BC%8C%E7%9B%B8%E7%BB%A7%E5%AE%A3%E5%B8%83%E7%A6%BB%E8%81%8C%E3%80%82%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%EF%BC%9A%E9%83%BD%E6%98%AF%E5%90%8C%E8%A1%8C%E7%9A%84%E8%A1%AC%E6%89%98%E3%80%82+https%3A%2F%2Ft.co%2FbPsduWoTzP)
+##### Other Words/Names of Interest in the Above Tweet
+[字节跳动](字节跳动.md), [情况](情况.md), [技术](技术.md), [离职](离职.md)
+___
+##### 2026-03-04 04:51:04 UTC ~ Bruce🐼
+> RT @paulwalker99318: 晚点LatePost的独家报道：---同一天，Qwen 的后训练负责人郁博文也正式离职，他的工作将由今年初加入阿里通义实验室的前 DeepMind 高级资深研究员周浩接任。周浩向阿里云 CTO、通义实验室负责人周靖人汇报。我们还…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40paulwalker99318%3A+%E6%99%9A%E7%82%B9LatePost%E7%9A%84%E7%8B%AC%E5%AE%B6%E6%8A%A5%E9%81%93%EF%BC%9A---%E5%90%8C%E4%B8%80%E5%A4%A9%EF%BC%8CQwen+%E7%9A%84%E5%90%8E%E8%AE%AD%E7%BB%83%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%83%81%E5%8D%9A%E6%96%87%E4%B9%9F%E6%AD%A3%E5%BC%8F%E7%A6%BB%E8%81%8C%EF%BC%8C%E4%BB%96%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%B0%86%E7%94%B1%E4%BB%8A%E5%B9%B4%E5%88%9D%E5%8A%A0%E5%85%A5%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9A%84%E5%89%8D+DeepMind+%E9%AB%98%E7%BA%A7%E8%B5%84%E6%B7%B1%E7%A0%94%E7%A9%B6%E5%91%98%E5%91%A8%E6%B5%A9%E6%8E%A5%E4%BB%BB%E3%80%82%E5%91%A8%E6%B5%A9%E5%90%91%E9%98%BF%E9%87%8C%E4%BA%91+CTO%E3%80%81%E9%80%9A%E4%B9%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%91%A8%E9%9D%96%E4%BA%BA%E6%B1%87%E6%8A%A5%E3%80%82%E6%88%91%E4%BB%AC%E8%BF%98%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[正式](正式.md), [离职](离职.md)
+___
+##### 2026-03-03 23:20:00 UTC ~ 知县｜zhixian
+> RT @zhixianio: 刚刚测试了一下在 32G 内存的 M4 Mac Mini 上跑了最新的 Qwen 3.5 35B MoE Text 版本，感觉智商还是在线的，速度也可以接受（差不多 20+ tok/s），感觉可以作为日常执行用的大脑了。32G 的内存刚刚好够用，有…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zhixianio%3A+%E5%88%9A%E5%88%9A%E6%B5%8B%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%E5%9C%A8+32G+%E5%86%85%E5%AD%98%E7%9A%84+M4+Mac+Mini+%E4%B8%8A%E8%B7%91%E4%BA%86%E6%9C%80%E6%96%B0%E7%9A%84+Qwen+3.5+35B+MoE+Text+%E7%89%88%E6%9C%AC%EF%BC%8C%E6%84%9F%E8%A7%89%E6%99%BA%E5%95%86%E8%BF%98%E6%98%AF%E5%9C%A8%E7%BA%BF%E7%9A%84%EF%BC%8C%E9%80%9F%E5%BA%A6%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%EF%BC%88%E5%B7%AE%E4%B8%8D%E5%A4%9A+20%2B+tok%2Fs%EF%BC%89%EF%BC%8C%E6%84%9F%E8%A7%89%E5%8F%AF%E4%BB%A5%E4%BD%9C%E4%B8%BA%E6%97%A5%E5%B8%B8%E6%89%A7%E8%A1%8C%E7%94%A8%E7%9A%84%E5%A4%A7%E8%84%91%E4%BA%86%E3%80%8232G+%E7%9A%84%E5%86%85%E5%AD%98%E5%88%9A%E5%88%9A%E5%A5%BD%E5%A4%9F%E7%94%A8%EF%BC%8C%E6%9C%89%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [执行](执行.md), [速度](速度.md)
+___
+##### 2026-03-03 21:52:42 UTC ~ Panda
+> RT @Jiaxi_Cui: 普通人要到很久之后才会知道Qwen引领了一个多么伟大的时代如果没有这两年Qwen的无私贡献，你们熟悉的国内新能源电车根本搭载不了现在这样好用的大模型，以及迅速做出自家的VLA模型机器人公司同理你们以为这些模型都是他们…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jiaxi_Cui%3A+%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81%E5%88%B0%E5%BE%88%E4%B9%85%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93Qwen%E5%BC%95%E9%A2%86%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E4%B9%88%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%97%B6%E4%BB%A3%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E8%BF%99%E4%B8%A4%E5%B9%B4Qwen%E7%9A%84%E6%97%A0%E7%A7%81%E8%B4%A1%E7%8C%AE%EF%BC%8C%E4%BD%A0%E4%BB%AC%E7%86%9F%E6%82%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E8%BD%A6%E6%A0%B9%E6%9C%AC%E6%90%AD%E8%BD%BD%E4%B8%8D%E4%BA%86%E7%8E%B0%E5%9C%A8%E8%BF%99%E6%A0%B7%E5%A5%BD%E7%94%A8%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%BF%85%E9%80%9F%E5%81%9A%E5%87%BA%E8%87%AA%E5%AE%B6%E7%9A%84VLA%E6%A8%A1%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%90%8C%E7%90%86%E4%BD%A0%E4%BB%AC%E4%BB%A5%E4%B8%BA%E8%BF%99%E4%BA%9B%E6%A8%A1%E5%9E%8B%E9%83%BD%E6%98%AF%E4%BB%96%E4%BB%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [机器人](机器人.md), [模型](模型.md), [熟悉](熟悉.md), [能源](能源.md), [迅速](迅速.md)
+___
+##### 2026-03-03 08:47:29 UTC ~ 毒猫猫🤔
+> RT @NekoStranding: 草，M4 芯片的人工智能引擎驱动刚刚被破解了，这玩意真能本地跑，甚至训练大模型...把 Qwen 3.5 小模型装进去岂不是就原地起飞了？Apple 这波恐怕真的要赢
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40NekoStranding%3A+%E8%8D%89%EF%BC%8CM4+%E8%8A%AF%E7%89%87%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E5%88%9A%E5%88%9A%E8%A2%AB%E7%A0%B4%E8%A7%A3%E4%BA%86%EF%BC%8C%E8%BF%99%E7%8E%A9%E6%84%8F%E7%9C%9F%E8%83%BD%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E7%94%9A%E8%87%B3%E8%AE%AD%E7%BB%83%E5%A4%A7%E6%A8%A1%E5%9E%8B...%E6%8A%8A+Qwen+3.5+%E5%B0%8F%E6%A8%A1%E5%9E%8B%E8%A3%85%E8%BF%9B%E5%8E%BB%E5%B2%82%E4%B8%8D%E6%98%AF%E5%B0%B1%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%EF%BC%9FApple+%E8%BF%99%E6%B3%A2%E6%81%90%E6%80%95%E7%9C%9F%E7%9A%84%E8%A6%81%E8%B5%A2)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [引擎](引擎.md), [模型](模型.md), [芯片](芯片.md)
+___
+##### 2026-03-03 03:44:16 UTC ~ 夏雨婷
+> RT @cherylnatsu: 今天阿里千问宣布开源 4 款 Qwen3.5 小尺寸模型系列，9B：紧凑尺寸，越级性能特点：结构紧凑，但性能媲美 gpt-oss-120B，让人惊艳。———跟苹果合作的这段时间从大模型工程师转型成了嵌入式工程师，积累了大量小内存系统开发经验
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40cherylnatsu%3A+%E4%BB%8A%E5%A4%A9%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%AE%A3%E5%B8%83%E5%BC%80%E6%BA%90+4+%E6%AC%BE+Qwen3.5+%E5%B0%8F%E5%B0%BA%E5%AF%B8%E6%A8%A1%E5%9E%8B%E7%B3%BB%E5%88%97%EF%BC%8C9B%EF%BC%9A%E7%B4%A7%E5%87%91%E5%B0%BA%E5%AF%B8%EF%BC%8C%E8%B6%8A%E7%BA%A7%E6%80%A7%E8%83%BD%E7%89%B9%E7%82%B9%EF%BC%9A%E7%BB%93%E6%9E%84%E7%B4%A7%E5%87%91%EF%BC%8C%E4%BD%86%E6%80%A7%E8%83%BD%E5%AA%B2%E7%BE%8E+gpt-oss-120B%EF%BC%8C%E8%AE%A9%E4%BA%BA%E6%83%8A%E8%89%B3%E3%80%82%E2%80%94%E2%80%94%E2%80%94%E8%B7%9F%E8%8B%B9%E6%9E%9C%E5%90%88%E4%BD%9C%E7%9A%84%E8%BF%99%E6%AE%B5%E6%97%B6%E9%97%B4%E4%BB%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BD%AC%E5%9E%8B%E6%88%90%E4%BA%86%E5%B5%8C%E5%85%A5%E5%BC%8F%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E7%A7%AF%E7%B4%AF%E4%BA%86%E5%A4%A7%E9%87%8F%E5%B0%8F%E5%86%85%E5%AD%98%E7%B3%BB%E7%BB%9F%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C)
+##### Other Words/Names of Interest in the Above Tweet
+[千问](千问.md), [型](型.md), [开发](开发.md), [开源](开源.md), [模型](模型.md), [系列](系列.md), [系统](系统.md), [苹果](苹果.md), [转型](转型.md)
+___
+##### 2026-03-03 02:33:46 UTC ~ Bill The Investor
+> RT @billtheinvestor: Qwen 3.5 在 iPhone 17 Pro 上本地跑，性能碾压4倍体量的模型。移动端AI的临界点来了。但问题是：推理开关打开后，电池能撑多久？ https://t.co/jFAeUCja7u
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40billtheinvestor%3A+Qwen+3.5+%E5%9C%A8+iPhone+17+Pro+%E4%B8%8A%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E6%80%A7%E8%83%BD%E7%A2%BE%E5%8E%8B4%E5%80%8D%E4%BD%93%E9%87%8F%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E7%A7%BB%E5%8A%A8%E7%AB%AFAI%E7%9A%84%E4%B8%B4%E7%95%8C%E7%82%B9%E6%9D%A5%E4%BA%86%E3%80%82%E4%BD%86%E9%97%AE%E9%A2%98%E6%98%AF%EF%BC%9A%E6%8E%A8%E7%90%86%E5%BC%80%E5%85%B3%E6%89%93%E5%BC%80%E5%90%8E%EF%BC%8C%E7%94%B5%E6%B1%A0%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85%EF%BC%9F+https%3A%2F%2Ft.co%2FjFAeUCja7u)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [型](型.md), [推理](推理.md), [模型](模型.md), [电池](电池.md)
+___
+##### 2026-02-16 10:20:20 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 去年，阿里巴巴在同样除夕深夜抛出千问2.5-Max。#南洋商报 #阿里巴巴 #千问 #Alibaba #Qwen https://t.co/92V6kgo0UE https://t.co/SvUrB11hIG
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8E%BB%E5%B9%B4%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9C%A8%E5%90%8C%E6%A0%B7%E9%99%A4%E5%A4%95%E6%B7%B1%E5%A4%9C%E6%8A%9B%E5%87%BA%E5%8D%83%E9%97%AE2.5-Max%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+%23%E5%8D%83%E9%97%AE+%23Alibaba+%23Qwen+https%3A%2F%2Ft.co%2F92V6kgo0UE+https%3A%2F%2Ft.co%2FSvUrB11hIG)
+##### Other Words/Names of Interest in the Above Tweet
+[千问](千问.md), [阿里巴巴](阿里巴巴.md), [除夕](除夕.md)
+___
+##### 2026-01-26 01:27:34 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【DeepSeek衝擊一年，中國大語言模型超1500】DeepSeek在2025年1月給市場帶來衝擊。自那一年之後，中國的AI不斷增加。在美國企業的全球大語言模型排名中，Qwen（千問）、Kimi、MiniMax等中國AI上榜。美國的高科…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [型](型.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md)
+___
 ##### 2026-01-19 01:51:05 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【阿里巴巴AI「千問」接入網購業務】只需對Qwen説「點兩杯拿鐵」，Qwen便會通過淘寶閃購選擇用戶所在地附近的咖啡店完成下單……https://t.co/JaeoEM7P6g
 
