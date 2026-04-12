@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2026-04-02 09:12:33 UTC ~ 中國新聞社
+> RT @CNS1952: 商務部回應Meta收購Manus：相關行為需遵守中國法律法規 履行法定程序 https://t.co/6TYEQlQi60
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E5%95%86%E5%8B%99%E9%83%A8%E5%9B%9E%E6%87%89Meta%E6%94%B6%E8%B3%BCManus%EF%BC%9A%E7%9B%B8%E9%97%9C%E8%A1%8C%E7%82%BA%E9%9C%80%E9%81%B5%E5%AE%88%E4%B8%AD%E5%9C%8B%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A6%8F+%E5%B1%A5%E8%A1%8C%E6%B3%95%E5%AE%9A%E7%A8%8B%E5%BA%8F+https%3A%2F%2Ft.co%2F6TYEQlQi60)
+##### Other Words/Names of Interest in the Above Tweet
+[程序](程序.md)
+___
+##### 2026-03-25 14:27:12 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 据报中国已限制人工智能初创公司Manus的两名联合创始人出境，监管机构正审查Meta以20亿美元（26亿新元）收购该公司是否违反投资规定。 https://t.co/0JXpInaBhs
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%8D%AE%E6%8A%A5%E4%B8%AD%E5%9B%BD%E5%B7%B2%E9%99%90%E5%88%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Manus%E7%9A%84%E4%B8%A4%E5%90%8D%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%87%BA%E5%A2%83%EF%BC%8C%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E6%AD%A3%E5%AE%A1%E6%9F%A5Meta%E4%BB%A520%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8826%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%E6%94%B6%E8%B4%AD%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%98%AF%E5%90%A6%E8%BF%9D%E5%8F%8D%E6%8A%95%E8%B5%84%E8%A7%84%E5%AE%9A%E3%80%82+https%3A%2F%2Ft.co%2F0JXpInaBhs)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [审查](审查.md), [投资](投资.md), [收购](收购.md), [机构](机构.md), [监管](监管.md), [限制](限制.md)
+___
 ##### 2026-01-25 02:31:15 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国官方正深入审查美国科技巨头Meta收购人工智能起步公司Manus的交易，若认定存在违规行为，这宗收购案可能面临变动甚至被推翻的风险。 https://t.co/9EkWGVjBac
 

@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2026-04-06 15:33:18 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI和Anthropic正争分夺秒，力争在今年年底前完成可能创下纪录的IPO。一份在今年早些时候融资轮完成前对两家公司财务状况的深入调查，揭示了它们的阿喀琉斯之踵：训练新AI模型所需的成本飙升。https://t.co/McHaVQohXW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%92%8CAnthropic%E6%AD%A3%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%EF%BC%8C%E5%8A%9B%E4%BA%89%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%B9%B4%E5%BA%95%E5%89%8D%E5%AE%8C%E6%88%90%E5%8F%AF%E8%83%BD%E5%88%9B%E4%B8%8B%E7%BA%AA%E5%BD%95%E7%9A%84IPO%E3%80%82%E4%B8%80%E4%BB%BD%E5%9C%A8%E4%BB%8A%E5%B9%B4%E6%97%A9%E4%BA%9B%E6%97%B6%E5%80%99%E8%9E%8D%E8%B5%84%E8%BD%AE%E5%AE%8C%E6%88%90%E5%89%8D%E5%AF%B9%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%8A%A1%E7%8A%B6%E5%86%B5%E7%9A%84%E6%B7%B1%E5%85%A5%E8%B0%83%E6%9F%A5%EF%BC%8C%E6%8F%AD%E7%A4%BA%E4%BA%86%E5%AE%83%E4%BB%AC%E7%9A%84%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF%E4%B9%8B%E8%B8%B5%EF%BC%9A%E8%AE%AD%E7%BB%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B%E6%89%80%E9%9C%80%E7%9A%84%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%87%E3%80%82https%3A%2F%2Ft.co%2FMcHaVQohXW)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [力争](力争.md), [型](型.md), [成本](成本.md), [揭示](揭示.md), [模型](模型.md), [状况](状况.md), [纪录](纪录.md), [融资](融资.md), [调查](调查.md), [飙升](飙升.md)
+___
+##### 2026-03-27 04:13:14 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Anthropic此次上市可能筹集超过600亿美元（约2404亿令吉）的资金。#南洋商报 #Anthropic #IPO #OpenAIhttps://t.co/Vwz4m2cWWz https://t.co/aGxmYbIQpp
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Anthropic%E6%AD%A4%E6%AC%A1%E4%B8%8A%E5%B8%82%E5%8F%AF%E8%83%BD%E7%AD%B9%E9%9B%86%E8%B6%85%E8%BF%87600%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A62404%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%E7%9A%84%E8%B5%84%E9%87%91%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23IPO+%23OpenAIhttps%3A%2F%2Ft.co%2FVwz4m2cWWz+https%3A%2F%2Ft.co%2FaGxmYbIQpp)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [筹集](筹集.md), [超过](超过.md)
+___
+##### 2026-03-22 01:37:06 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 软银长期深耕科技投资，总执行长孙正义不仅是ChatGPT开发商OpenAI的重要金主，也与美国总统特朗普关系密切。#南洋商报 #softbank #MasayoshiSon #AI #usahttps://t.co/Fo3qlA3knv…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BD%AF%E9%93%B6%E9%95%BF%E6%9C%9F%E6%B7%B1%E8%80%95%E7%A7%91%E6%8A%80%E6%8A%95%E8%B5%84%EF%BC%8C%E6%80%BB%E6%89%A7%E8%A1%8C%E9%95%BF%E5%AD%99%E6%AD%A3%E4%B9%89%E4%B8%8D%E4%BB%85%E6%98%AFChatGPT%E5%BC%80%E5%8F%91%E5%95%86OpenAI%E7%9A%84%E9%87%8D%E8%A6%81%E9%87%91%E4%B8%BB%EF%BC%8C%E4%B9%9F%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%B3%BB%E5%AF%86%E5%88%87%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23softbank+%23MasayoshiSon+%23AI+%23usahttps%3A%2F%2Ft.co%2FFo3qlA3knv%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [开发](开发.md), [执行](执行.md), [投资](投资.md), [深耕](深耕.md), [特朗普](特朗普.md), [科技](科技.md), [美国](美国.md), [软银](软银.md)
+___
+##### 2026-03-19 00:41:43 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【中國AI「Kimi」：開源模型正在逼近最尖端】美國主要是以OpenAI為代表的閉源模型，中國則一直採用開源模型。開源和廉價的設計將推動中國AI在新興國家普及。月之暗面的「Kimi K2.5」因高性能而備受矚目，該公司的CEO指出，開源模…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8BAI%E3%80%8CKimi%E3%80%8D%EF%BC%9A%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%9C%A8%E9%80%BC%E8%BF%91%E6%9C%80%E5%B0%96%E7%AB%AF%E3%80%91%E7%BE%8E%E5%9C%8B%E4%B8%BB%E8%A6%81%E6%98%AF%E4%BB%A5OpenAI%E7%82%BA%E4%BB%A3%E8%A1%A8%E7%9A%84%E9%96%89%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%89%87%E4%B8%80%E7%9B%B4%E6%8E%A1%E7%94%A8%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E3%80%82%E9%96%8B%E6%BA%90%E5%92%8C%E5%BB%89%E5%83%B9%E7%9A%84%E8%A8%AD%E8%A8%88%E5%B0%87%E6%8E%A8%E5%8B%95%E4%B8%AD%E5%9C%8BAI%E5%9C%A8%E6%96%B0%E8%88%88%E5%9C%8B%E5%AE%B6%E6%99%AE%E5%8F%8A%E3%80%82%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%9A%84%E3%80%8CKimi+K2.5%E3%80%8D%E5%9B%A0%E9%AB%98%E6%80%A7%E8%83%BD%E8%80%8C%E5%82%99%E5%8F%97%E7%9F%9A%E7%9B%AE%EF%BC%8C%E8%A9%B2%E5%85%AC%E5%8F%B8%E7%9A%84CEO%E6%8C%87%E5%87%BA%EF%BC%8C%E9%96%8B%E6%BA%90%E6%A8%A1%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[一直](一直.md), [型](型.md), [尖端](尖端.md), [指出](指出.md), [推動](推動.md), [普及](普及.md), [模型](模型.md), [美國](美國.md), [開源](開源.md)
+___
 ##### 2026-02-28 02:01:03 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【軟銀集團將向OpenAI追加出資300億美元】軟銀集團計劃在4～10月分3次進行出資，完成後的累計出資額將達到646億美元……https://t.co/13CXVEip7y
 
@@ -447,13 +475,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+iPhone%E7%9A%84%E4%B8%BB%E8%A6%81%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%94%E7%BA%B3%E6%A3%AE%C2%B7%E8%89%BE%E7%BB%B4%E5%8F%8A%E5%85%B6%E8%AE%BE%E8%AE%A1%E5%85%AC%E5%8F%B8%E5%B0%86%E6%8E%A5%E7%AE%A1OpenAI%E7%9A%84%E5%88%9B%E6%84%8F%E5%92%8C%E8%AE%BE%E8%AE%A1%E4%B8%BB%E5%AF%BC%E6%9D%83%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B0%86%E5%9C%A8OpenAI%E5%BC%80%E5%8F%91%E6%B6%88%E8%B4%B9%E7%BA%A7%E8%AE%BE%E5%A4%87%E5%92%8C%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE%EF%BC%8C%E8%BF%99%E4%BA%9B%E9%A1%B9%E7%9B%AE%E5%B0%86%E5%A1%91%E9%80%A0AI%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%A4%96%E8%A7%82%E5%92%8C%E4%BD%93%E9%AA%8C%E3%80%82+https%3A%2F%2Ft.co%2Fto0W99xMSA)
 ##### Other Words/Names of Interest in the Above Tweet
 [iPhone](iPhone.md), [主导](主导.md), [开发](开发.md), [设计](设计.md), [项目](项目.md)
-___
-##### 2025-05-10 21:46:37 UTC ~ Yachen Liu
-> RT @Blankwonder: 买了 MacWhisper，因为现在 AI 用得越来越多，反而打字速度变成了瓶颈。 测试了一下各种本地模型，还得是用 OpenAI 的 API 才能够取得比较不错的效果。
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Blankwonder%3A+%E4%B9%B0%E4%BA%86+MacWhisper%EF%BC%8C%E5%9B%A0%E4%B8%BA%E7%8E%B0%E5%9C%A8+AI+%E7%94%A8%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%8C%E5%8F%8D%E8%80%8C%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%E5%8F%98%E6%88%90%E4%BA%86%E7%93%B6%E9%A2%88%E3%80%82+%E6%B5%8B%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%E5%90%84%E7%A7%8D%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%BF%98%E5%BE%97%E6%98%AF%E7%94%A8+OpenAI+%E7%9A%84+API+%E6%89%8D%E8%83%BD%E5%A4%9F%E5%8F%96%E5%BE%97%E6%AF%94%E8%BE%83%E4%B8%8D%E9%94%99%E7%9A%84%E6%95%88%E6%9E%9C%E3%80%82)
-##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [型](型.md), [模型](模型.md), [瓶颈](瓶颈.md), [越来越](越来越.md), [速度](速度.md)
 ___
 ##### 2025-04-30 19:10:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Meta推出了一款独立AI应用程序Meta AI，目前该AI助手在Instagram、WhatsApp和Facebook等多个社交媒体平台上提供。这将与OpenAI的ChatGPT等其他AI聊天机器人形成直接竞争。  https://t.co/P…

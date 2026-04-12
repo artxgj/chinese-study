@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2026-04-06 15:33:18 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI和Anthropic正争分夺秒，力争在今年年底前完成可能创下纪录的IPO。一份在今年早些时候融资轮完成前对两家公司财务状况的深入调查，揭示了它们的阿喀琉斯之踵：训练新AI模型所需的成本飙升。https://t.co/McHaVQohXW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%92%8CAnthropic%E6%AD%A3%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%EF%BC%8C%E5%8A%9B%E4%BA%89%E5%9C%A8%E4%BB%8A%E5%B9%B4%E5%B9%B4%E5%BA%95%E5%89%8D%E5%AE%8C%E6%88%90%E5%8F%AF%E8%83%BD%E5%88%9B%E4%B8%8B%E7%BA%AA%E5%BD%95%E7%9A%84IPO%E3%80%82%E4%B8%80%E4%BB%BD%E5%9C%A8%E4%BB%8A%E5%B9%B4%E6%97%A9%E4%BA%9B%E6%97%B6%E5%80%99%E8%9E%8D%E8%B5%84%E8%BD%AE%E5%AE%8C%E6%88%90%E5%89%8D%E5%AF%B9%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%8A%A1%E7%8A%B6%E5%86%B5%E7%9A%84%E6%B7%B1%E5%85%A5%E8%B0%83%E6%9F%A5%EF%BC%8C%E6%8F%AD%E7%A4%BA%E4%BA%86%E5%AE%83%E4%BB%AC%E7%9A%84%E9%98%BF%E5%96%80%E7%90%89%E6%96%AF%E4%B9%8B%E8%B8%B5%EF%BC%9A%E8%AE%AD%E7%BB%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B%E6%89%80%E9%9C%80%E7%9A%84%E6%88%90%E6%9C%AC%E9%A3%99%E5%8D%87%E3%80%82https%3A%2F%2Ft.co%2FMcHaVQohXW)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [力争](力争.md), [型](型.md), [成本](成本.md), [揭示](揭示.md), [模型](模型.md), [状况](状况.md), [纪录](纪录.md), [融资](融资.md), [调查](调查.md), [飙升](飙升.md)
+___
+##### 2026-03-27 04:13:14 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Anthropic此次上市可能筹集超过600亿美元（约2404亿令吉）的资金。#南洋商报 #Anthropic #IPO #OpenAIhttps://t.co/Vwz4m2cWWz https://t.co/aGxmYbIQpp
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Anthropic%E6%AD%A4%E6%AC%A1%E4%B8%8A%E5%B8%82%E5%8F%AF%E8%83%BD%E7%AD%B9%E9%9B%86%E8%B6%85%E8%BF%87600%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A62404%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%E7%9A%84%E8%B5%84%E9%87%91%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23IPO+%23OpenAIhttps%3A%2F%2Ft.co%2FVwz4m2cWWz+https%3A%2F%2Ft.co%2FaGxmYbIQpp)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [筹集](筹集.md), [超过](超过.md)
+___
+##### 2026-03-27 01:56:00 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 周四，一名美国联邦法官叫停了特朗普政府将Anthropic列为供应链风险企业的认定。该法官在裁决中认定，美国政府将Anthropic列为安全威胁、并禁止政府部门使用其模型的做法，侵犯了言论自由。https://t.co/HJmYrhf1XZ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%91%A8%E5%9B%9B%EF%BC%8C%E4%B8%80%E5%90%8D%E7%BE%8E%E5%9B%BD%E8%81%94%E9%82%A6%E6%B3%95%E5%AE%98%E5%8F%AB%E5%81%9C%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%B0%86Anthropic%E5%88%97%E4%B8%BA%E4%BE%9B%E5%BA%94%E9%93%BE%E9%A3%8E%E9%99%A9%E4%BC%81%E4%B8%9A%E7%9A%84%E8%AE%A4%E5%AE%9A%E3%80%82%E8%AF%A5%E6%B3%95%E5%AE%98%E5%9C%A8%E8%A3%81%E5%86%B3%E4%B8%AD%E8%AE%A4%E5%AE%9A%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86Anthropic%E5%88%97%E4%B8%BA%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81%E3%80%81%E5%B9%B6%E7%A6%81%E6%AD%A2%E6%94%BF%E5%BA%9C%E9%83%A8%E9%97%A8%E4%BD%BF%E7%94%A8%E5%85%B6%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%81%9A%E6%B3%95%EF%BC%8C%E4%BE%B5%E7%8A%AF%E4%BA%86%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%E3%80%82https%3A%2F%2Ft.co%2FHJmYrhf1XZ)
+##### Other Words/Names of Interest in the Above Tweet
+[供应链](供应链.md), [侵犯](侵犯.md), [型](型.md), [威胁](威胁.md), [模型](模型.md), [特朗普](特朗普.md), [禁止](禁止.md), [美国](美国.md), [裁决](裁决.md), [风险](风险.md)
+___
 ##### 2026-03-03 05:13:39 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【Anthropic超ChatGPT躍居美國免費APP首位】Anthropic的AI「Claude」在軟體開發自動化功能方面領先，同時還展現出拒絕AI被過度用於軍事並重視安全性的姿態。自年初到現在，免費用戶增長60％以上，每天的新註冊用戶…
 

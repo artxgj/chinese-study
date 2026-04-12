@@ -7,6 +7,11 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2026-03-29 10:06:33 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 在Apple Store中，悄然出现了一款名为“Gemimi-繁体中文版AI助手”的应用程式，与正版“Gemini”只差一个字，外观与命名极为相似，一不留神就容易误下载，甚至可能误付费用。https://t.co/w7g6oOQptx ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%9C%A8Apple+Store%E4%B8%AD%EF%BC%8C%E6%82%84%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BA%86%E4%B8%80%E6%AC%BE%E5%90%8D%E4%B8%BA%E2%80%9CGemimi-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88AI%E5%8A%A9%E6%89%8B%E2%80%9D%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%EF%BC%8C%E4%B8%8E%E6%AD%A3%E7%89%88%E2%80%9CGemini%E2%80%9D%E5%8F%AA%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%AD%97%EF%BC%8C%E5%A4%96%E8%A7%82%E4%B8%8E%E5%91%BD%E5%90%8D%E6%9E%81%E4%B8%BA%E7%9B%B8%E4%BC%BC%EF%BC%8C%E4%B8%80%E4%B8%8D%E7%95%99%E7%A5%9E%E5%B0%B1%E5%AE%B9%E6%98%93%E8%AF%AF%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%9A%E8%87%B3%E5%8F%AF%E8%83%BD%E8%AF%AF%E4%BB%98%E8%B4%B9%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2Fw7g6oOQptx+ht%E2%80%A6)
+___
 ##### 2026-01-30 06:50:34 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 谷歌表示，全新的侧边面板设计，让Gemini全程伴随浏览过程。#南洋商报 #google #Gemini #Chromehttps://t.co/7EXmpFCwOc https://t.co/g9HVJeDvbJ
 

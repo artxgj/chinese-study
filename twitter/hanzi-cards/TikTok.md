@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2026-03-14 06:53:16 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 短视频平台TikTok以1540亿美元的品牌价值排名第6，成为2026年排名最高的中国品牌。#南洋商报 #品牌 #apple #Microsoft #googlehttps://t.co/t0rlzED6UF https://t.co/h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E4%BB%A51540%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%93%81%E7%89%8C%E4%BB%B7%E5%80%BC%E6%8E%92%E5%90%8D%E7%AC%AC6%EF%BC%8C%E6%88%90%E4%B8%BA2026%E5%B9%B4%E6%8E%92%E5%90%8D%E6%9C%80%E9%AB%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%93%81%E7%89%8C+%23apple+%23Microsoft+%23googlehttps%3A%2F%2Ft.co%2Ft0rlzED6UF+https%3A%2F%2Ft.co%2Fh%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[品牌](品牌.md), [平台](平台.md)
+___
+##### 2026-03-13 06:11:18 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: TikTok的中国母公司字节跳动正利用高端英伟达芯片在中国之外构建算力，以助推其成为AI领域全球领导者的雄心。字节跳动将与东南亚公司Aolani Cloud合作，计划在马来西亚部署约500套英伟达Blackwell计算系统，共计包含约3.6万…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%AD%A3%E5%88%A9%E7%94%A8%E9%AB%98%E7%AB%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B9%8B%E5%A4%96%E6%9E%84%E5%BB%BA%E7%AE%97%E5%8A%9B%EF%BC%8C%E4%BB%A5%E5%8A%A9%E6%8E%A8%E5%85%B6%E6%88%90%E4%B8%BAAI%E9%A2%86%E5%9F%9F%E5%85%A8%E7%90%83%E9%A2%86%E5%AF%BC%E8%80%85%E7%9A%84%E9%9B%84%E5%BF%83%E3%80%82%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B0%86%E4%B8%8E%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%85%AC%E5%8F%B8Aolani+Cloud%E5%90%88%E4%BD%9C%EF%BC%8C%E8%AE%A1%E5%88%92%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%83%A8%E7%BD%B2%E7%BA%A6500%E5%A5%97%E8%8B%B1%E4%BC%9F%E8%BE%BEBlackwell%E8%AE%A1%E7%AE%97%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%85%B1%E8%AE%A1%E5%8C%85%E5%90%AB%E7%BA%A63.6%E4%B8%87%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[东南亚](东南亚.md), [字节跳动](字节跳动.md), [系统](系统.md), [芯片](芯片.md), [英伟达](英伟达.md), [计划](计划.md), [领域](领域.md), [领导](领导.md), [马来西亚](马来西亚.md)
+___
 ##### 2026-02-25 07:16:23 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 这股风潮萌芽于一年前，当时美国祭出TikTok禁令，导致大批美国网友涌入中国社交媒体“小红书”（RedNote）。#南洋商报 #中国式生活 #Chineselifestyle #China #usahttps://t.co/jyyGM8d…
 
@@ -2093,20 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%9A%8F%E7%9D%80%E5%8C%97%E5%8D%8A%E7%90%83%E8%BF%9B%E5%85%A5%E5%A4%8F%E5%A4%A9%EF%BC%8C%E9%A2%84%E5%91%8A%E6%9A%91%E5%81%87%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3%E7%9A%84%E5%88%B0%E6%9D%A5%E3%80%82%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93TikTok%E7%94%A8%E6%88%B7%E7%BA%B7%E7%BA%B7%E4%BD%BF%E7%94%A8%E6%A0%87%E7%AD%BE%EF%BC%8C%E6%A0%87%E8%AE%B0%E5%87%BA%E4%BB%96%E4%BB%AC%E6%9C%80%E5%90%91%E5%BE%80%E7%9A%84%E5%9F%8E%E5%B8%82%E3%80%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%A8%E4%B8%80%E9%A1%B9%E7%83%AD%E9%97%A8%E6%97%85%E6%B8%B8%E5%9F%8E%E5%B8%82%E8%B0%83%E6%9F%A5%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%94%EF%BC%8C%E5%89%8D%E4%B8%89%E5%90%8D%E5%88%86%E5%88%AB%E6%98%AF%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E3%80%81%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E5%92%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E3%80%82+https%3A%2F%2Ft.co%2F32QCTVfNpY)
 ##### Other Words/Names of Interest in the Above Tweet
 [新加坡](新加坡.md), [暑假](暑假.md), [法国](法国.md), [社交媒体](社交媒体.md), [西班牙](西班牙.md), [调查](调查.md), [随着](随着.md), [韩国](韩国.md)
-___
-##### 2023-08-04 20:28:12 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 短视频应用平台TikTok告诉路透社，它正在与印度尼西亚监管机构进行初步谈判，以获得印尼的支付许可证，此举将进一步推进它在这一主要市场的电子商务活动。 https://t.co/2qITcaT8hg
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E5%B9%B3%E5%8F%B0TikTok%E5%91%8A%E8%AF%89%E8%B7%AF%E9%80%8F%E7%A4%BE%EF%BC%8C%E5%AE%83%E6%AD%A3%E5%9C%A8%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AD%A5%E8%B0%88%E5%88%A4%EF%BC%8C%E4%BB%A5%E8%8E%B7%E5%BE%97%E5%8D%B0%E5%B0%BC%E7%9A%84%E6%94%AF%E4%BB%98%E8%AE%B8%E5%8F%AF%E8%AF%81%EF%BC%8C%E6%AD%A4%E4%B8%BE%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E5%AE%83%E5%9C%A8%E8%BF%99%E4%B8%80%E4%B8%BB%E8%A6%81%E5%B8%82%E5%9C%BA%E7%9A%84%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E6%B4%BB%E5%8A%A8%E3%80%82+https%3A%2F%2Ft.co%2F2qITcaT8hg)
-##### Other Words/Names of Interest in the Above Tweet
-[初步](初步.md), [印度](印度.md), [平台](平台.md), [支付](支付.md), [机构](机构.md), [此举](此举.md), [监管](监管.md), [获得](获得.md), [谈判](谈判.md), [进行](进行.md)
-___
-##### 2023-08-01 05:36:42 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 美国共和党总统候选人德桑蒂斯周一概述一项广泛的经济政策，呼吁对中国采取更严厉的立场，包括结束正常的贸易关系。他表示，如果当选，他将考虑在全美范围内禁止TikTok。 https://t.co/KEHZ2hSq8k
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%BE%B7%E6%A1%91%E8%92%82%E6%96%AF%E5%91%A8%E4%B8%80%E6%A6%82%E8%BF%B0%E4%B8%80%E9%A1%B9%E5%B9%BF%E6%B3%9B%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%EF%BC%8C%E5%91%BC%E5%90%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E9%87%87%E5%8F%96%E6%9B%B4%E4%B8%A5%E5%8E%89%E7%9A%84%E7%AB%8B%E5%9C%BA%EF%BC%8C%E5%8C%85%E6%8B%AC%E7%BB%93%E6%9D%9F%E6%AD%A3%E5%B8%B8%E7%9A%84%E8%B4%B8%E6%98%93%E5%85%B3%E7%B3%BB%E3%80%82%E4%BB%96%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%BD%93%E9%80%89%EF%BC%8C%E4%BB%96%E5%B0%86%E8%80%83%E8%99%91%E5%9C%A8%E5%85%A8%E7%BE%8E%E8%8C%83%E5%9B%B4%E5%86%85%E7%A6%81%E6%AD%A2TikTok%E3%80%82+https%3A%2F%2Ft.co%2FKEHZ2hSq8k)
-##### Other Words/Names of Interest in the Above Tweet
-[候选人](候选人.md), [包括](包括.md), [呼吁](呼吁.md), [广泛](广泛.md), [政策](政策.md), [禁止](禁止.md), [美国](美国.md), [考虑](考虑.md), [贸易](贸易.md), [采取](采取.md)
 ____
 
 [Next Page](TikTok-01.md)

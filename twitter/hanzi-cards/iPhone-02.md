@@ -8,6 +8,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2021-09-15 05:37:05 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #视频 iPhone 13 Mini和iPhone 13在续航时间和拍照功能上有较大提升；iPhone 13 Pro和Pro Max在摄像头、电池升级的同时，显示屏更亮，刷新率更高；最新一代智能手表Series 7屏幕变大，还号称特别耐用。《华尔…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+iPhone+13+Mini%E5%92%8CiPhone+13%E5%9C%A8%E7%BB%AD%E8%88%AA%E6%97%B6%E9%97%B4%E5%92%8C%E6%8B%8D%E7%85%A7%E5%8A%9F%E8%83%BD%E4%B8%8A%E6%9C%89%E8%BE%83%E5%A4%A7%E6%8F%90%E5%8D%87%EF%BC%9BiPhone+13+Pro%E5%92%8CPro+Max%E5%9C%A8%E6%91%84%E5%83%8F%E5%A4%B4%E3%80%81%E7%94%B5%E6%B1%A0%E5%8D%87%E7%BA%A7%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%B1%8F%E6%9B%B4%E4%BA%AE%EF%BC%8C%E5%88%B7%E6%96%B0%E7%8E%87%E6%9B%B4%E9%AB%98%EF%BC%9B%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8Series+7%E5%B1%8F%E5%B9%95%E5%8F%98%E5%A4%A7%EF%BC%8C%E8%BF%98%E5%8F%B7%E7%A7%B0%E7%89%B9%E5%88%AB%E8%80%90%E7%94%A8%E3%80%82%E3%80%8A%E5%8D%8E%E5%B0%94%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[升级](升级.md), [屏](屏.md), [屏幕](屏幕.md), [摄像头](摄像头.md), [显示](显示.md), [电池](电池.md)
+___
+##### 2021-09-15 05:35:38 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 经历了几周的媒体风暴之后，库克走上虚拟舞台，试图让人们重新关注苹果公司成功的关键驱动因素：iPhone。然而，一些投资者担心，该公司的股价被高估了，与去年备受期待的新款iPhone相比，这次iPhone 13变化不那么显著，可能不会带来同样水平的…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BB%8F%E5%8E%86%E4%BA%86%E5%87%A0%E5%91%A8%E7%9A%84%E5%AA%92%E4%BD%93%E9%A3%8E%E6%9A%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%BA%93%E5%85%8B%E8%B5%B0%E4%B8%8A%E8%99%9A%E6%8B%9F%E8%88%9E%E5%8F%B0%EF%BC%8C%E8%AF%95%E5%9B%BE%E8%AE%A9%E4%BA%BA%E4%BB%AC%E9%87%8D%E6%96%B0%E5%85%B3%E6%B3%A8%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%88%90%E5%8A%9F%E7%9A%84%E5%85%B3%E9%94%AE%E9%A9%B1%E5%8A%A8%E5%9B%A0%E7%B4%A0%EF%BC%9AiPhone%E3%80%82%E7%84%B6%E8%80%8C%EF%BC%8C%E4%B8%80%E4%BA%9B%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%85%E5%BF%83%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E8%82%A1%E4%BB%B7%E8%A2%AB%E9%AB%98%E4%BC%B0%E4%BA%86%EF%BC%8C%E4%B8%8E%E5%8E%BB%E5%B9%B4%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84%E6%96%B0%E6%AC%BEiPhone%E7%9B%B8%E6%AF%94%EF%BC%8C%E8%BF%99%E6%AC%A1iPhone+13%E5%8F%98%E5%8C%96%E4%B8%8D%E9%82%A3%E4%B9%88%E6%98%BE%E8%91%97%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%B8%8D%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%90%8C%E6%A0%B7%E6%B0%B4%E5%B9%B3%E7%9A%84%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[关注](关注.md), [关键](关键.md), [因素](因素.md), [备受](备受.md), [投资](投资.md), [投资者](投资者.md), [担心](担心.md), [水平](水平.md), [苹果](苹果.md), [试图](试图.md), [风暴](风暴.md)
+___
+##### 2021-09-15 05:23:07 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【iPhone13正常进化, 瞄准10亿人换机需求】iPhone13提高了摄像头和电池性能等，沿袭近年来的“正常进化”。目前手机市场已经成熟，放弃其他厂商产品改用iPhone的用户很少。阻碍最新iPhone销售增加的最大因素其实是老款iP…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone13%E6%AD%A3%E5%B8%B8%E8%BF%9B%E5%8C%96%2C+%E7%9E%84%E5%87%8610%E4%BA%BF%E4%BA%BA%E6%8D%A2%E6%9C%BA%E9%9C%80%E6%B1%82%E3%80%91iPhone13%E6%8F%90%E9%AB%98%E4%BA%86%E6%91%84%E5%83%8F%E5%A4%B4%E5%92%8C%E7%94%B5%E6%B1%A0%E6%80%A7%E8%83%BD%E7%AD%89%EF%BC%8C%E6%B2%BF%E8%A2%AD%E8%BF%91%E5%B9%B4%E6%9D%A5%E7%9A%84%E2%80%9C%E6%AD%A3%E5%B8%B8%E8%BF%9B%E5%8C%96%E2%80%9D%E3%80%82%E7%9B%AE%E5%89%8D%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%B7%B2%E7%BB%8F%E6%88%90%E7%86%9F%EF%BC%8C%E6%94%BE%E5%BC%83%E5%85%B6%E4%BB%96%E5%8E%82%E5%95%86%E4%BA%A7%E5%93%81%E6%94%B9%E7%94%A8iPhone%E7%9A%84%E7%94%A8%E6%88%B7%E5%BE%88%E5%B0%91%E3%80%82%E9%98%BB%E7%A2%8D%E6%9C%80%E6%96%B0iPhone%E9%94%80%E5%94%AE%E5%A2%9E%E5%8A%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%9B%A0%E7%B4%A0%E5%85%B6%E5%AE%9E%E6%98%AF%E8%80%81%E6%AC%BEiP%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[厂商](厂商.md), [因素](因素.md), [成熟](成熟.md), [提高](提高.md), [摄像头](摄像头.md), [电池](电池.md), [瞄准](瞄准.md), [销售](销售.md), [阻碍](阻碍.md), [需求](需求.md)
+___
+##### 2021-09-14 06:03:55 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 根据公民实验室，以色列网络安全监控公司NSO Group自2月以来一直在利用这个安全漏洞通过iMessage悄悄入侵iPhone，用户不需点击链接或打开文件就会让手机被感染。该组织的一名研究人员说：“人们应该立即更新他们的苹果设备。”https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%A0%B9%E6%8D%AE%E5%85%AC%E6%B0%91%E5%AE%9E%E9%AA%8C%E5%AE%A4%EF%BC%8C%E4%BB%A5%E8%89%B2%E5%88%97%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%9B%91%E6%8E%A7%E5%85%AC%E5%8F%B8NSO+Group%E8%87%AA2%E6%9C%88%E4%BB%A5%E6%9D%A5%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%88%A9%E7%94%A8%E8%BF%99%E4%B8%AA%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E9%80%9A%E8%BF%87iMessage%E6%82%84%E6%82%84%E5%85%A5%E4%BE%B5iPhone%EF%BC%8C%E7%94%A8%E6%88%B7%E4%B8%8D%E9%9C%80%E7%82%B9%E5%87%BB%E9%93%BE%E6%8E%A5%E6%88%96%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E5%B0%B1%E4%BC%9A%E8%AE%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E6%84%9F%E6%9F%93%E3%80%82%E8%AF%A5%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%80%E5%90%8D%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E8%AF%B4%EF%BC%9A%E2%80%9C%E4%BA%BA%E4%BB%AC%E5%BA%94%E8%AF%A5%E7%AB%8B%E5%8D%B3%E6%9B%B4%E6%96%B0%E4%BB%96%E4%BB%AC%E7%9A%84%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E3%80%82%E2%80%9Dhttps%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[一直](一直.md), [以色列](以色列.md), [入侵](入侵.md), [感染](感染.md), [文件](文件.md), [根据](根据.md), [漏洞](漏洞.md), [苹果](苹果.md)
+___
+##### 2021-09-14 05:44:43 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 曾多次准确预测苹果新产品、有“最强苹果分析家”之称的天峰国际分析家郭明錤公布预测。#iPhone13https://t.co/27rDJNymz2 https://t.co/w1O8RqZDOo
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%87%86%E7%A1%AE%E9%A2%84%E6%B5%8B%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BA%A7%E5%93%81%E3%80%81%E6%9C%89%E2%80%9C%E6%9C%80%E5%BC%BA%E8%8B%B9%E6%9E%9C%E5%88%86%E6%9E%90%E5%AE%B6%E2%80%9D%E4%B9%8B%E7%A7%B0%E7%9A%84%E5%A4%A9%E5%B3%B0%E5%9B%BD%E9%99%85%E5%88%86%E6%9E%90%E5%AE%B6%E9%83%AD%E6%98%8E%E9%8C%A4%E5%85%AC%E5%B8%83%E9%A2%84%E6%B5%8B%E3%80%82%23iPhone13https%3A%2F%2Ft.co%2F27rDJNymz2+https%3A%2F%2Ft.co%2Fw1O8RqZDOo)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [苹果](苹果.md), [预测](预测.md)
+___
 ##### 2021-09-08 06:48:54 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司表示，已安排在9月14日举行一场活动，预计这家科技巨头将在活动上发布其新款iPhone。分析师预计今年更多将是对产品的改进，重点可能是增加手机摄像头的功能和延长电池寿命。https://t.co/vVTALfYYo9
 

@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-08-04 20:28:12 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 短视频应用平台TikTok告诉路透社，它正在与印度尼西亚监管机构进行初步谈判，以获得印尼的支付许可证，此举将进一步推进它在这一主要市场的电子商务活动。 https://t.co/2qITcaT8hg
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E5%B9%B3%E5%8F%B0TikTok%E5%91%8A%E8%AF%89%E8%B7%AF%E9%80%8F%E7%A4%BE%EF%BC%8C%E5%AE%83%E6%AD%A3%E5%9C%A8%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AD%A5%E8%B0%88%E5%88%A4%EF%BC%8C%E4%BB%A5%E8%8E%B7%E5%BE%97%E5%8D%B0%E5%B0%BC%E7%9A%84%E6%94%AF%E4%BB%98%E8%AE%B8%E5%8F%AF%E8%AF%81%EF%BC%8C%E6%AD%A4%E4%B8%BE%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E5%AE%83%E5%9C%A8%E8%BF%99%E4%B8%80%E4%B8%BB%E8%A6%81%E5%B8%82%E5%9C%BA%E7%9A%84%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E6%B4%BB%E5%8A%A8%E3%80%82+https%3A%2F%2Ft.co%2F2qITcaT8hg)
+##### Other Words/Names of Interest in the Above Tweet
+[初步](初步.md), [印度](印度.md), [平台](平台.md), [支付](支付.md), [机构](机构.md), [此举](此举.md), [监管](监管.md), [获得](获得.md), [谈判](谈判.md), [进行](进行.md)
+___
+##### 2023-08-01 05:36:42 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 美国共和党总统候选人德桑蒂斯周一概述一项广泛的经济政策，呼吁对中国采取更严厉的立场，包括结束正常的贸易关系。他表示，如果当选，他将考虑在全美范围内禁止TikTok。 https://t.co/KEHZ2hSq8k
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E5%BE%B7%E6%A1%91%E8%92%82%E6%96%AF%E5%91%A8%E4%B8%80%E6%A6%82%E8%BF%B0%E4%B8%80%E9%A1%B9%E5%B9%BF%E6%B3%9B%E7%9A%84%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%EF%BC%8C%E5%91%BC%E5%90%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E9%87%87%E5%8F%96%E6%9B%B4%E4%B8%A5%E5%8E%89%E7%9A%84%E7%AB%8B%E5%9C%BA%EF%BC%8C%E5%8C%85%E6%8B%AC%E7%BB%93%E6%9D%9F%E6%AD%A3%E5%B8%B8%E7%9A%84%E8%B4%B8%E6%98%93%E5%85%B3%E7%B3%BB%E3%80%82%E4%BB%96%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%BD%93%E9%80%89%EF%BC%8C%E4%BB%96%E5%B0%86%E8%80%83%E8%99%91%E5%9C%A8%E5%85%A8%E7%BE%8E%E8%8C%83%E5%9B%B4%E5%86%85%E7%A6%81%E6%AD%A2TikTok%E3%80%82+https%3A%2F%2Ft.co%2FKEHZ2hSq8k)
+##### Other Words/Names of Interest in the Above Tweet
+[候选人](候选人.md), [包括](包括.md), [呼吁](呼吁.md), [广泛](广泛.md), [政策](政策.md), [禁止](禁止.md), [美国](美国.md), [考虑](考虑.md), [贸易](贸易.md), [采取](采取.md)
+___
 ##### 2023-07-30 03:28:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 印尼经济学者呼吁政府当局，关注电商平台“TikTok商店”（TikTok Shop）。学者指 #TikTok 商店贩售的中国商品，比印尼中小企业的产品更低廉，且社交平台有大量数据，能精准定位消费者，影响力遽增。学者担心，这可能威胁印尼中小企业…
 

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-03-18 04:50:48 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 消息称，晶片设计巨头超微半导体（AMD）首席执行官苏姿丰3月18日访问三星晶片工厂，并将与三星管理层讨论将合作范围从存储器扩展至晶圆代工领域。 https://t.co/EH0kYniiAY
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B6%88%E6%81%AF%E7%A7%B0%EF%BC%8C%E6%99%B6%E7%89%87%E8%AE%BE%E8%AE%A1%E5%B7%A8%E5%A4%B4%E8%B6%85%E5%BE%AE%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B03%E6%9C%8818%E6%97%A5%E8%AE%BF%E9%97%AE%E4%B8%89%E6%98%9F%E6%99%B6%E7%89%87%E5%B7%A5%E5%8E%82%EF%BC%8C%E5%B9%B6%E5%B0%86%E4%B8%8E%E4%B8%89%E6%98%9F%E7%AE%A1%E7%90%86%E5%B1%82%E8%AE%A8%E8%AE%BA%E5%B0%86%E5%90%88%E4%BD%9C%E8%8C%83%E5%9B%B4%E4%BB%8E%E5%AD%98%E5%82%A8%E5%99%A8%E6%89%A9%E5%B1%95%E8%87%B3%E6%99%B6%E5%9C%86%E4%BB%A3%E5%B7%A5%E9%A2%86%E5%9F%9F%E3%80%82+https%3A%2F%2Ft.co%2FEH0kYniiAY)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [半导体](半导体.md), [存储](存储.md), [巨头](巨头.md), [执行](执行.md), [晶圆](晶圆.md), [晶片](晶片.md), [苏姿丰](苏姿丰.md), [设计](设计.md), [超微](超微.md), [领域](领域.md), [首席执行官](首席执行官.md)
+___
 ##### 2026-03-06 00:21:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 知情人士表示，草案将要求企业在出口几乎所有AI加速器时都须取得美国许可，涵盖英伟达、超微（AMD）等公司产品。此举将把目前仅适用于约40个国家的出口限制扩展至全球。#南洋商报 #人工智能 #特朗普 #芯片 #英伟达https://t.co…
 

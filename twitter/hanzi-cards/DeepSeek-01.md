@@ -8,6 +8,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-10 06:23:52 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: DeepSeek-V3的应用程式介面服务的优惠价格体验期已结束，从星期天起调整为新的价格。 https://t.co/29IHHj2oQQ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+DeepSeek-V3%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%E4%BB%8B%E9%9D%A2%E6%9C%8D%E5%8A%A1%E7%9A%84%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC%E4%BD%93%E9%AA%8C%E6%9C%9F%E5%B7%B2%E7%BB%93%E6%9D%9F%EF%BC%8C%E4%BB%8E%E6%98%9F%E6%9C%9F%E5%A4%A9%E8%B5%B7%E8%B0%83%E6%95%B4%E4%B8%BA%E6%96%B0%E7%9A%84%E4%BB%B7%E6%A0%BC%E3%80%82+https%3A%2F%2Ft.co%2F29IHHj2oQQ)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [优惠](优惠.md)
+___
+##### 2025-02-10 04:53:31 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 中国人工智能初创公司DeepSeek崛起，正促使投资者重新评估中国领先互联网公司及其利用人工智能(AI)的潜力。https://t.co/kunf7u7tQG https://t.co/F0ZnruAShn
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8DeepSeek%E5%B4%9B%E8%B5%B7%EF%BC%8C%E6%AD%A3%E4%BF%83%E4%BD%BF%E6%8A%95%E8%B5%84%E8%80%85%E9%87%8D%E6%96%B0%E8%AF%84%E4%BC%B0%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%85%88%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%E5%8F%8A%E5%85%B6%E5%88%A9%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28AI%29%E7%9A%84%E6%BD%9C%E5%8A%9B%E3%80%82https%3A%2F%2Ft.co%2Fkunf7u7tQG+https%3A%2F%2Ft.co%2FF0ZnruAShn)
+##### Other Words/Names of Interest in the Above Tweet
+[互联网](互联网.md), [人工](人工.md), [人工智能](人工智能.md), [促使](促使.md), [崛起](崛起.md), [投资](投资.md), [投资者](投资者.md), [潜力](潜力.md), [评估](评估.md)
+___
+##### 2025-02-10 03:59:43 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AI安全专家和《华尔街日报》的测试显示，与美国领先的AI对手相比，在中国AI应用程序DeepSeek上面谈论一些潜在的危险话题要更加容易。这引起人们对其安全性的担忧。https://t.co/VEIkCBYTCk
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AI%E5%AE%89%E5%85%A8%E4%B8%93%E5%AE%B6%E5%92%8C%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E7%9A%84%E6%B5%8B%E8%AF%95%E6%98%BE%E7%A4%BA%EF%BC%8C%E4%B8%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%85%88%E7%9A%84AI%E5%AF%B9%E6%89%8B%E7%9B%B8%E6%AF%94%EF%BC%8C%E5%9C%A8%E4%B8%AD%E5%9B%BDAI%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8FDeepSeek%E4%B8%8A%E9%9D%A2%E8%B0%88%E8%AE%BA%E4%B8%80%E4%BA%9B%E6%BD%9C%E5%9C%A8%E7%9A%84%E5%8D%B1%E9%99%A9%E8%AF%9D%E9%A2%98%E8%A6%81%E6%9B%B4%E5%8A%A0%E5%AE%B9%E6%98%93%E3%80%82%E8%BF%99%E5%BC%95%E8%B5%B7%E4%BA%BA%E4%BB%AC%E5%AF%B9%E5%85%B6%E5%AE%89%E5%85%A8%E6%80%A7%E7%9A%84%E6%8B%85%E5%BF%A7%E3%80%82https%3A%2F%2Ft.co%2FVEIkCBYTCk)
+##### Other Words/Names of Interest in the Above Tweet
+[引起](引起.md), [担忧](担忧.md), [显示](显示.md), [潜在](潜在.md), [程序](程序.md), [美国](美国.md)
+___
+##### 2025-02-09 18:13:27 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 简而言之，DeepSeek将优化提升至极致境界。#南洋商报 #DeepSeek #nvidia #chips #AIhttps://t.co/4AGF3GSd3I https://t.co/qthkRzAsRB
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%AE%80%E8%80%8C%E8%A8%80%E4%B9%8B%EF%BC%8CDeepSeek%E5%B0%86%E4%BC%98%E5%8C%96%E6%8F%90%E5%8D%87%E8%87%B3%E6%9E%81%E8%87%B4%E5%A2%83%E7%95%8C%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23nvidia+%23chips+%23AIhttps%3A%2F%2Ft.co%2F4AGF3GSd3I+https%3A%2F%2Ft.co%2FqthkRzAsRB)
+##### Other Words/Names of Interest in the Above Tweet
+[优化](优化.md)
+___
+##### 2025-02-09 18:09:14 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 因应中国人工智能新创公司DeepSeek竞争，美国AI巨头OpenAI宣布在慕尼黑设立德国首座办公室，加速欧洲布局，执行长奥特曼指出，德国是OpenAI在欧洲最大市场，另呼吁欧洲应积极应用AI，以免落后全球竞争。https://t.co/u…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%9B%A0%E5%BA%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%96%B0%E5%88%9B%E5%85%AC%E5%8F%B8DeepSeek%E7%AB%9E%E4%BA%89%EF%BC%8C%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4OpenAI%E5%AE%A3%E5%B8%83%E5%9C%A8%E6%85%95%E5%B0%BC%E9%BB%91%E8%AE%BE%E7%AB%8B%E5%BE%B7%E5%9B%BD%E9%A6%96%E5%BA%A7%E5%8A%9E%E5%85%AC%E5%AE%A4%EF%BC%8C%E5%8A%A0%E9%80%9F%E6%AC%A7%E6%B4%B2%E5%B8%83%E5%B1%80%EF%BC%8C%E6%89%A7%E8%A1%8C%E9%95%BF%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%8C%87%E5%87%BA%EF%BC%8C%E5%BE%B7%E5%9B%BD%E6%98%AFOpenAI%E5%9C%A8%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E5%B8%82%E5%9C%BA%EF%BC%8C%E5%8F%A6%E5%91%BC%E5%90%81%E6%AC%A7%E6%B4%B2%E5%BA%94%E7%A7%AF%E6%9E%81%E5%BA%94%E7%94%A8AI%EF%BC%8C%E4%BB%A5%E5%85%8D%E8%90%BD%E5%90%8E%E5%85%A8%E7%90%83%E7%AB%9E%E4%BA%89%E3%80%82https%3A%2F%2Ft.co%2Fu%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [呼吁](呼吁.md), [奥特曼](奥特曼.md), [巨头](巨头.md), [布局](布局.md), [德国](德国.md), [执行](执行.md), [指出](指出.md), [积极](积极.md), [竞争](竞争.md), [美国](美国.md), [设立](设立.md)
+___
 ##### 2025-02-09 17:57:08 UTC ~ 中國新聞社
 > RT @CNS1952: 近期，人工智能開源大模型DeepSeek(深度求索)因其較低的訓練成本和優越的性能，迅速贏得全球市場，令美國科技行業大受震撼。聯合國國際電信聯盟醫療元宇宙任務組主席羅賓·羅韋(Robin… https://t.co/yYDSlAXo67
 

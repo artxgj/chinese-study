@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/LLM) for definition
 ### Tweets containing LLM
 
 ___
+##### 2026-03-11 07:39:56 UTC ~ New China 中文
+> RT @XinhuaChinese: 未来可期！湖南邵阳15岁少年硬核手搓电动车出圈。网友：有梦想一定能实现！ https://t.co/q5LLMYh54i
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XinhuaChinese%3A+%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%EF%BC%81%E6%B9%96%E5%8D%97%E9%82%B5%E9%98%B315%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A1%AC%E6%A0%B8%E6%89%8B%E6%90%93%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%87%BA%E5%9C%88%E3%80%82%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%9C%89%E6%A2%A6%E6%83%B3%E4%B8%80%E5%AE%9A%E8%83%BD%E5%AE%9E%E7%8E%B0%EF%BC%81+https%3A%2F%2Ft.co%2Fq5LLMYh54i)
+##### Other Words/Names of Interest in the Above Tweet
+[圈](圈.md), [实现](实现.md), [梦想](梦想.md), [湖南](湖南.md)
+___
 ##### 2025-10-20 10:17:22 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 想从文档中提取结构化数据，大部分 LLM 框架要写一大堆复杂的代码才能实现，增加不少开发难度。最近发现了 ContextGem 这个开源 LLM 框架，只需几行代码就能从文档中提取想要的信息。通过阅读整份文档理解上下文，还能帮我们发现…
 
@@ -91,7 +98,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [工具](工具.md), [开源](开源.md), [微软](微软.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [通电](通电.md), [速度](速度.md)
 ___
-##### 2025-04-21 02:55:15 UTC ~ 
+##### 2025-04-21 02:55:15 UTC ~ 面条
 > RT @miantiao_me: 大模型的知识库都有截止时间，面对新版本的框架和库写出来的代码大概率没法用Context7 提供了 1800+ 热门库的 LLMs.txt 和 MCP Server 给大模型读取或者编辑器调用，由 Upstash 开源让 AI 更好的理解…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40miantiao_me%3A+%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93%E9%83%BD%E6%9C%89%E6%88%AA%E6%AD%A2%E6%97%B6%E9%97%B4%EF%BC%8C%E9%9D%A2%E5%AF%B9%E6%96%B0%E7%89%88%E6%9C%AC%E7%9A%84%E6%A1%86%E6%9E%B6%E5%92%8C%E5%BA%93%E5%86%99%E5%87%BA%E6%9D%A5%E7%9A%84%E4%BB%A3%E7%A0%81%E5%A4%A7%E6%A6%82%E7%8E%87%E6%B2%A1%E6%B3%95%E7%94%A8Context7+%E6%8F%90%E4%BE%9B%E4%BA%86+1800%2B+%E7%83%AD%E9%97%A8%E5%BA%93%E7%9A%84+LLMs.txt+%E5%92%8C+MCP+Server+%E7%BB%99%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%AF%BB%E5%8F%96%E6%88%96%E8%80%85%E7%BC%96%E8%BE%91%E5%99%A8%E8%B0%83%E7%94%A8%EF%BC%8C%E7%94%B1+Upstash+%E5%BC%80%E6%BA%90%E8%AE%A9+AI+%E6%9B%B4%E5%A5%BD%E7%9A%84%E7%90%86%E8%A7%A3%E2%80%A6)

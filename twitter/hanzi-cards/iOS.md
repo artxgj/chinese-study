@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2026-04-01 15:29:43 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苹果计划在即将推出的iOS 27中引入“Extensions”功能，让用户可在Siri中接入不同第三方AI服务。#南洋商报 #苹果 #APPLE #iOS #Siri https://t.co/ovePy8btT6 https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84iOS+27%E4%B8%AD%E5%BC%95%E5%85%A5%E2%80%9CExtensions%E2%80%9D%E5%8A%9F%E8%83%BD%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E5%8F%AF%E5%9C%A8Siri%E4%B8%AD%E6%8E%A5%E5%85%A5%E4%B8%8D%E5%90%8C%E7%AC%AC%E4%B8%89%E6%96%B9AI%E6%9C%8D%E5%8A%A1%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23APPLE+%23iOS+%23Siri+https%3A%2F%2Ft.co%2FovePy8btT6+https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[推出](推出.md), [苹果](苹果.md), [计划](计划.md)
+___
+##### 2026-04-01 15:27:37 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苹果公司发布了最新的iOS 26.4软件，该更新说明写道：“提升了快速输入时的键盘精准度。”在人们显然受到打字问题困扰多年之后，苹果公司承认了存在问题。但iOS 26.4真的解决问题了吗？本文介绍了iOS 26.4将如何改善你的打字体验，以及帮你…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8F%91%E5%B8%83%E4%BA%86%E6%9C%80%E6%96%B0%E7%9A%84iOS+26.4%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%AF%A5%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E%E5%86%99%E9%81%93%EF%BC%9A%E2%80%9C%E6%8F%90%E5%8D%87%E4%BA%86%E5%BF%AB%E9%80%9F%E8%BE%93%E5%85%A5%E6%97%B6%E7%9A%84%E9%94%AE%E7%9B%98%E7%B2%BE%E5%87%86%E5%BA%A6%E3%80%82%E2%80%9D%E5%9C%A8%E4%BA%BA%E4%BB%AC%E6%98%BE%E7%84%B6%E5%8F%97%E5%88%B0%E6%89%93%E5%AD%97%E9%97%AE%E9%A2%98%E5%9B%B0%E6%89%B0%E5%A4%9A%E5%B9%B4%E4%B9%8B%E5%90%8E%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%89%BF%E8%AE%A4%E4%BA%86%E5%AD%98%E5%9C%A8%E9%97%AE%E9%A2%98%E3%80%82%E4%BD%86iOS+26.4%E7%9C%9F%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E4%BA%86%E5%90%97%EF%BC%9F%E6%9C%AC%E6%96%87%E4%BB%8B%E7%BB%8D%E4%BA%86iOS+26.4%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%96%84%E4%BD%A0%E7%9A%84%E6%89%93%E5%AD%97%E4%BD%93%E9%AA%8C%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%B8%AE%E4%BD%A0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [困扰](困扰.md), [苹果](苹果.md)
+___
+##### 2026-03-19 06:32:04 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 根据公司公布的调整，中国App Store佣金率已从30%降至25%，并于3月15日正式生效，适用于iOS与iPadOS平台的应用及应用内购买。#南洋商报 #apple #AppStore #China #应用商店https://t.co…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%A0%B9%E6%8D%AE%E5%85%AC%E5%8F%B8%E5%85%AC%E5%B8%83%E7%9A%84%E8%B0%83%E6%95%B4%EF%BC%8C%E4%B8%AD%E5%9B%BDApp+Store%E4%BD%A3%E9%87%91%E7%8E%87%E5%B7%B2%E4%BB%8E30%25%E9%99%8D%E8%87%B325%25%EF%BC%8C%E5%B9%B6%E4%BA%8E3%E6%9C%8815%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8EiOS%E4%B8%8EiPadOS%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23apple+%23AppStore+%23China+%23%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97https%3A%2F%2Ft.co%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[平台](平台.md), [根据](根据.md), [正式](正式.md), [用于](用于.md), [购买](购买.md)
+___
 ##### 2026-03-02 06:07:52 UTC ~ 高军
 > RT @GoJun315: 苹果最封闭的地方，被人撬开了。vphone-cli，基于苹果原生 Virtualization 框架，在 Mac 上直接引导启动一个完整的虚拟 iPhone。注意，不是模拟器，是真的 iOS。支持 SSH 直接进系统内部，配合 VNC 能…
 

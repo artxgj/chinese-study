@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-03-20 03:26:54 UTC ~ ⧫ Alan Chen ⧫(alanchentsla.eth）
+> RT @alanchen: 历史上最大的 AI 走私案，作案工具竟然是一把吹风机。 🔌💀SMCI 的联合创始人不仅被抓到向中国走私了 25 亿美元的 Nvidia GPU。 他还在监控录像里被拍到：拿着一把吹风机融化序列号贴纸的胶水，好组装“假服务器”来糊弄美国的合规审计员…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40alanchen%3A+%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84+AI+%E8%B5%B0%E7%A7%81%E6%A1%88%EF%BC%8C%E4%BD%9C%E6%A1%88%E5%B7%A5%E5%85%B7%E7%AB%9F%E7%84%B6%E6%98%AF%E4%B8%80%E6%8A%8A%E5%90%B9%E9%A3%8E%E6%9C%BA%E3%80%82+%F0%9F%94%8C%F0%9F%92%80SMCI+%E7%9A%84%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8D%E4%BB%85%E8%A2%AB%E6%8A%93%E5%88%B0%E5%90%91%E4%B8%AD%E5%9B%BD%E8%B5%B0%E7%A7%81%E4%BA%86+25+%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84+Nvidia+GPU%E3%80%82+%E4%BB%96%E8%BF%98%E5%9C%A8%E7%9B%91%E6%8E%A7%E5%BD%95%E5%83%8F%E9%87%8C%E8%A2%AB%E6%8B%8D%E5%88%B0%EF%BC%9A%E6%8B%BF%E7%9D%80%E4%B8%80%E6%8A%8A%E5%90%B9%E9%A3%8E%E6%9C%BA%E8%9E%8D%E5%8C%96%E5%BA%8F%E5%88%97%E5%8F%B7%E8%B4%B4%E7%BA%B8%E7%9A%84%E8%83%B6%E6%B0%B4%EF%BC%8C%E5%A5%BD%E7%BB%84%E8%A3%85%E2%80%9C%E5%81%87%E6%9C%8D%E5%8A%A1%E5%99%A8%E2%80%9D%E6%9D%A5%E7%B3%8A%E5%BC%84%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%90%88%E8%A7%84%E5%AE%A1%E8%AE%A1%E5%91%98%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [审计](审计.md), [工具](工具.md), [组装](组装.md), [美国](美国.md), [走私](走私.md)
+___
 ##### 2026-02-27 07:30:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 外媒去年12月报道，Google正在推广张量处理单元（TPU），让TPU成为英伟达领先市场的图形处理器（GPU）以外可行替代选项。#南洋商报 #Meta #Google #AI #TPU #芯片https://t.co/YLkNDGbBe…
 
