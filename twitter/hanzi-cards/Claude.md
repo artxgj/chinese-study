@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2026-04-20 06:38:48 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【我佩服Anthropic的一点是，不管外面的风如何吹，他们都雷打不动地做着认为是对的和重要的事。#孙德俊】#南洋商报 #人工智能 #Anthropic #Claude https://t.co/NLe7TRJMIL https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%88%91%E4%BD%A9%E6%9C%8DAnthropic%E7%9A%84%E4%B8%80%E7%82%B9%E6%98%AF%EF%BC%8C%E4%B8%8D%E7%AE%A1%E5%A4%96%E9%9D%A2%E7%9A%84%E9%A3%8E%E5%A6%82%E4%BD%95%E5%90%B9%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E9%9B%B7%E6%89%93%E4%B8%8D%E5%8A%A8%E5%9C%B0%E5%81%9A%E7%9D%80%E8%AE%A4%E4%B8%BA%E6%98%AF%E5%AF%B9%E7%9A%84%E5%92%8C%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%82%23%E5%AD%99%E5%BE%B7%E4%BF%8A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23Anthropic+%23Claude+https%3A%2F%2Ft.co%2FNLe7TRJMIL+https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md)
+___
+##### 2026-04-12 17:35:54 UTC ~ 高级分析师
+> RT @techeconomyana: 创智记说的隐晦，Deepseek V4很难复制V3盛况。我之前就说了，模型迭代周期就是最重要的指标，Deepseek从原先稳定2个月一更到5个月一更，实质上就是出局了。面对每月一更的Claude和GPT，Deepseek已经没有竞争力…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40techeconomyana%3A+%E5%88%9B%E6%99%BA%E8%AE%B0%E8%AF%B4%E7%9A%84%E9%9A%90%E6%99%A6%EF%BC%8CDeepseek+V4%E5%BE%88%E9%9A%BE%E5%A4%8D%E5%88%B6V3%E7%9B%9B%E5%86%B5%E3%80%82%E6%88%91%E4%B9%8B%E5%89%8D%E5%B0%B1%E8%AF%B4%E4%BA%86%EF%BC%8C%E6%A8%A1%E5%9E%8B%E8%BF%AD%E4%BB%A3%E5%91%A8%E6%9C%9F%E5%B0%B1%E6%98%AF%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%8C%87%E6%A0%87%EF%BC%8CDeepseek%E4%BB%8E%E5%8E%9F%E5%85%88%E7%A8%B3%E5%AE%9A2%E4%B8%AA%E6%9C%88%E4%B8%80%E6%9B%B4%E5%88%B05%E4%B8%AA%E6%9C%88%E4%B8%80%E6%9B%B4%EF%BC%8C%E5%AE%9E%E8%B4%A8%E4%B8%8A%E5%B0%B1%E6%98%AF%E5%87%BA%E5%B1%80%E4%BA%86%E3%80%82%E9%9D%A2%E5%AF%B9%E6%AF%8F%E6%9C%88%E4%B8%80%E6%9B%B4%E7%9A%84Claude%E5%92%8CGPT%EF%BC%8CDeepseek%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E7%AB%9E%E4%BA%89%E5%8A%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[型](型.md), [模型](模型.md), [稳定](稳定.md), [竞争](竞争.md)
+___
 ##### 2026-03-03 05:13:39 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【Anthropic超ChatGPT躍居美國免費APP首位】Anthropic的AI「Claude」在軟體開發自動化功能方面領先，同時還展現出拒絕AI被過度用於軍事並重視安全性的姿態。自年初到現在，免費用戶增長60％以上，每天的新註冊用戶…
 

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-05-11 06:02:28 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 芯片制造商利润激增正促使投资者蜂拥买入CPU、GPU和内存芯片公司的股票。https://t.co/SP3B6g6TNu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E5%88%A9%E6%B6%A6%E6%BF%80%E5%A2%9E%E6%AD%A3%E4%BF%83%E4%BD%BF%E6%8A%95%E8%B5%84%E8%80%85%E8%9C%82%E6%8B%A5%E4%B9%B0%E5%85%A5CPU%E3%80%81GPU%E5%92%8C%E5%86%85%E5%AD%98%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E7%9A%84%E8%82%A1%E7%A5%A8%E3%80%82https%3A%2F%2Ft.co%2FSP3B6g6TNu)
+##### Other Words/Names of Interest in the Above Tweet
+[买入](买入.md), [促使](促使.md), [利润](利润.md), [投资](投资.md), [投资者](投资者.md), [芯片](芯片.md)
+___
 ##### 2026-03-20 03:26:54 UTC ~ ⧫ Alan Chen ⧫(alanchentsla.eth）
 > RT @alanchen: 历史上最大的 AI 走私案，作案工具竟然是一把吹风机。 🔌💀SMCI 的联合创始人不仅被抓到向中国走私了 25 亿美元的 Nvidia GPU。 他还在监控录像里被拍到：拿着一把吹风机融化序列号贴纸的胶水，好组装“假服务器”来糊弄美国的合规审计员…
 

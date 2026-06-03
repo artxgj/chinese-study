@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2026-04-27 14:13:31 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #更新 中国已下令撤销Meta Platforms以25亿美元收购Manus的交易。在中美两国陷入日益激烈的技术竞赛之际，对Manus出售交易的调查反映出中国政府为保护本国AI专有技术所作的更广泛努力。https://t.co/sJmMF0BnyK
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E6%9B%B4%E6%96%B0+%E4%B8%AD%E5%9B%BD%E5%B7%B2%E4%B8%8B%E4%BB%A4%E6%92%A4%E9%94%80Meta+Platforms%E4%BB%A525%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADManus%E7%9A%84%E4%BA%A4%E6%98%93%E3%80%82%E5%9C%A8%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E9%99%B7%E5%85%A5%E6%97%A5%E7%9B%8A%E6%BF%80%E7%83%88%E7%9A%84%E6%8A%80%E6%9C%AF%E7%AB%9E%E8%B5%9B%E4%B9%8B%E9%99%85%EF%BC%8C%E5%AF%B9Manus%E5%87%BA%E5%94%AE%E4%BA%A4%E6%98%93%E7%9A%84%E8%B0%83%E6%9F%A5%E5%8F%8D%E6%98%A0%E5%87%BA%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BF%9D%E6%8A%A4%E6%9C%AC%E5%9B%BDAI%E4%B8%93%E6%9C%89%E6%8A%80%E6%9C%AF%E6%89%80%E4%BD%9C%E7%9A%84%E6%9B%B4%E5%B9%BF%E6%B3%9B%E5%8A%AA%E5%8A%9B%E3%80%82https%3A%2F%2Ft.co%2FsJmMF0BnyK)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [出售](出售.md), [反映出](反映出.md), [广泛](广泛.md), [技术](技术.md), [收购](收购.md), [激烈](激烈.md), [调查](调查.md), [陷入](陷入.md)
+___
 ##### 2026-04-02 09:12:33 UTC ~ 中國新聞社
 > RT @CNS1952: 商務部回應Meta收購Manus：相關行為需遵守中國法律法規 履行法定程序 https://t.co/6TYEQlQi60
 

@@ -7,6 +7,83 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2026-06-02 01:14:46 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【美國AI企業Anthropic宣佈申請IPO】市場預計，Anthropic上市時將力爭實現超過1萬億美元市值……https://t.co/BGTzNQWNny
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8BAI%E4%BC%81%E6%A5%ADAnthropic%E5%AE%A3%E4%BD%88%E7%94%B3%E8%AB%8BIPO%E3%80%91%E5%B8%82%E5%A0%B4%E9%A0%90%E8%A8%88%EF%BC%8CAnthropic%E4%B8%8A%E5%B8%82%E6%99%82%E5%B0%87%E5%8A%9B%E7%88%AD%E5%AF%A6%E7%8F%BE%E8%B6%85%E9%81%8E1%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FBGTzNQWNny)
+##### Other Words/Names of Interest in the Above Tweet
+[市值](市值.md), [美國](美國.md), [預計](預計.md)
+___
+##### 2026-05-29 05:42:34 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 人工智能公司Anthropic在新一轮融资中募资650亿美元（829亿新元），估值达到9650亿美元，首次超过竞争对手OpenAI。 https://t.co/yiYPzoblhL
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E5%9C%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%B8%AD%E5%8B%9F%E8%B5%84650%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88829%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E4%BC%B0%E5%80%BC%E8%BE%BE%E5%88%B09650%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8BOpenAI%E3%80%82+https%3A%2F%2Ft.co%2FyiYPzoblhL)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [估值](估值.md), [竞争](竞争.md), [融资](融资.md), [超过](超过.md)
+___
+##### 2026-05-29 05:41:52 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 存储芯片厂商美光、三星电子及SK海力士也参与了本轮融资，具体金额未披露。#南洋商报 #Anthropic #OpenAIhttps://t.co/VgZavEsBxQ https://t.co/Ka33WdhEvW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86%E7%BE%8E%E5%85%89%E3%80%81%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%8F%8ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%8F%82%E4%B8%8E%E4%BA%86%E6%9C%AC%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%85%B7%E4%BD%93%E9%87%91%E9%A2%9D%E6%9C%AA%E6%8A%AB%E9%9C%B2%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23OpenAIhttps%3A%2F%2Ft.co%2FVgZavEsBxQ+https%3A%2F%2Ft.co%2FKa33WdhEvW)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [三星](三星.md), [厂商](厂商.md), [存储](存储.md), [披露](披露.md), [美光](美光.md), [芯片](芯片.md), [融资](融资.md), [金额](金额.md)
+___
+##### 2026-05-22 07:12:21 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Anthropic第二季度收入料将增长逾一倍，达到109亿美元，这种爆炸性的增长速度将帮助该公司首次实现营业利润。https://t.co/gy5GUdR6dK
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Anthropic%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E6%94%B6%E5%85%A5%E6%96%99%E5%B0%86%E5%A2%9E%E9%95%BF%E9%80%BE%E4%B8%80%E5%80%8D%EF%BC%8C%E8%BE%BE%E5%88%B0109%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BF%99%E7%A7%8D%E7%88%86%E7%82%B8%E6%80%A7%E7%9A%84%E5%A2%9E%E9%95%BF%E9%80%9F%E5%BA%A6%E5%B0%86%E5%B8%AE%E5%8A%A9%E8%AF%A5%E5%85%AC%E5%8F%B8%E9%A6%96%E6%AC%A1%E5%AE%9E%E7%8E%B0%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E3%80%82https%3A%2F%2Ft.co%2Fgy5GUdR6dK)
+##### Other Words/Names of Interest in the Above Tweet
+[利润](利润.md), [增长](增长.md), [季度](季度.md), [实现](实现.md), [收入](收入.md), [爆炸](爆炸.md), [营业利润](营业利润.md), [速度](速度.md), [逾](逾.md)
+___
+##### 2026-05-15 02:19:23 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Cerebras上市首日股价飙升逾一倍。这为备受期待的AI企业IPO大年拉开了序幕。市场对Cerebras股票的追捧，折射出投资者对AI领域的狂热。OpenAI和Anthropic正考虑在今年下半年进行IPO。SpaceX计划于6月挂牌上市。ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Cerebras%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E9%80%BE%E4%B8%80%E5%80%8D%E3%80%82%E8%BF%99%E4%B8%BA%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84AI%E4%BC%81%E4%B8%9AIPO%E5%A4%A7%E5%B9%B4%E6%8B%89%E5%BC%80%E4%BA%86%E5%BA%8F%E5%B9%95%E3%80%82%E5%B8%82%E5%9C%BA%E5%AF%B9Cerebras%E8%82%A1%E7%A5%A8%E7%9A%84%E8%BF%BD%E6%8D%A7%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9AI%E9%A2%86%E5%9F%9F%E7%9A%84%E7%8B%82%E7%83%AD%E3%80%82OpenAI%E5%92%8CAnthropic%E6%AD%A3%E8%80%83%E8%99%91%E5%9C%A8%E4%BB%8A%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%9B%E8%A1%8CIPO%E3%80%82SpaceX%E8%AE%A1%E5%88%92%E4%BA%8E6%E6%9C%88%E6%8C%82%E7%89%8C%E4%B8%8A%E5%B8%82%E3%80%82ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [备受](备受.md), [投资](投资.md), [投资者](投资者.md), [考虑](考虑.md), [计划](计划.md), [进行](进行.md), [追捧](追捧.md), [逾](逾.md), [领域](领域.md), [飙升](飙升.md)
+___
+##### 2026-05-08 04:25:52 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【馬斯克與Anthropic聯手對OpenAI形成包圍圈】由馬斯克領導的SpaceX將把數據中心「Colossus 1」整體出租給Anthropic。馬斯克和Anthropic的CEO達里奧·阿莫代伊都與OpenAI的CEO薩姆·奧爾特曼…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87Anthropic%E8%81%AF%E6%89%8B%E5%B0%8DOpenAI%E5%BD%A2%E6%88%90%E5%8C%85%E5%9C%8D%E5%9C%88%E3%80%91%E7%94%B1%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A0%98%E5%B0%8E%E7%9A%84SpaceX%E5%B0%87%E6%8A%8A%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E3%80%8CColossus+1%E3%80%8D%E6%95%B4%E9%AB%94%E5%87%BA%E7%A7%9F%E7%B5%A6Anthropic%E3%80%82%E9%A6%AC%E6%96%AF%E5%85%8B%E5%92%8CAnthropic%E7%9A%84CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E9%83%BD%E8%88%87OpenAI%E7%9A%84CEO%E8%96%A9%E5%A7%86%C2%B7%E5%A5%A7%E7%88%BE%E7%89%B9%E6%9B%BC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [圈](圈.md), [數據](數據.md)
+___
+##### 2026-05-06 02:27:36 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Anthropic发布面向金融服务企业的新AI智能体。这家AI公司正筹备最早于今年进行备受期待的IPO，发布新产品正是其扩大企业客户群计划的一环。https://t.co/ByxFmYebW1
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Anthropic%E5%8F%91%E5%B8%83%E9%9D%A2%E5%90%91%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1%E4%BC%81%E4%B8%9A%E7%9A%84%E6%96%B0AI%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%82%E8%BF%99%E5%AE%B6AI%E5%85%AC%E5%8F%B8%E6%AD%A3%E7%AD%B9%E5%A4%87%E6%9C%80%E6%97%A9%E4%BA%8E%E4%BB%8A%E5%B9%B4%E8%BF%9B%E8%A1%8C%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84IPO%EF%BC%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81%E6%AD%A3%E6%98%AF%E5%85%B6%E6%89%A9%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E7%BE%A4%E8%AE%A1%E5%88%92%E7%9A%84%E4%B8%80%E7%8E%AF%E3%80%82https%3A%2F%2Ft.co%2FByxFmYebW1)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [备受](备受.md), [客户](客户.md), [扩大](扩大.md), [计划](计划.md), [进行](进行.md), [金融](金融.md)
+___
+##### 2026-05-05 17:37:10 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【新AI讓漏洞檢出量激增，美放棄對缺陷全面分析】隨著美國Anthropic的Mythos等先進AI問世，軟體漏洞檢出數量激增，分析與修復難以及時跟進。美國國家標準與技術研究院表示，今後將僅對緊急性較高的漏洞進行分析。若連輕微漏洞也全部修復…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%96%B0AI%E8%AE%93%E6%BC%8F%E6%B4%9E%E6%AA%A2%E5%87%BA%E9%87%8F%E6%BF%80%E5%A2%9E%EF%BC%8C%E7%BE%8E%E6%94%BE%E6%A3%84%E5%B0%8D%E7%BC%BA%E9%99%B7%E5%85%A8%E9%9D%A2%E5%88%86%E6%9E%90%E3%80%91%E9%9A%A8%E8%91%97%E7%BE%8E%E5%9C%8BAnthropic%E7%9A%84Mythos%E7%AD%89%E5%85%88%E9%80%B2AI%E5%95%8F%E4%B8%96%EF%BC%8C%E8%BB%9F%E9%AB%94%E6%BC%8F%E6%B4%9E%E6%AA%A2%E5%87%BA%E6%95%B8%E9%87%8F%E6%BF%80%E5%A2%9E%EF%BC%8C%E5%88%86%E6%9E%90%E8%88%87%E4%BF%AE%E5%BE%A9%E9%9B%A3%E4%BB%A5%E5%8F%8A%E6%99%82%E8%B7%9F%E9%80%B2%E3%80%82%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%AE%B6%E6%A8%99%E6%BA%96%E8%88%87%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%BB%8A%E5%BE%8C%E5%B0%87%E5%83%85%E5%B0%8D%E7%B7%8A%E6%80%A5%E6%80%A7%E8%BC%83%E9%AB%98%E7%9A%84%E6%BC%8F%E6%B4%9E%E9%80%B2%E8%A1%8C%E5%88%86%E6%9E%90%E3%80%82%E8%8B%A5%E9%80%A3%E8%BC%95%E5%BE%AE%E6%BC%8F%E6%B4%9E%E4%B9%9F%E5%85%A8%E9%83%A8%E4%BF%AE%E5%BE%A9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [漏洞](漏洞.md), [缺陷](缺陷.md), [美國](美國.md)
+___
+##### 2026-04-21 06:49:31 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 亚马逊周一表示，将向Anthropic追加投资50亿美元，并称如果双方的合作达到某些商业里程碑，其总投资额可能高达250亿美元。https://t.co/cMgpfN51S3
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%91%A8%E4%B8%80%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B0%86%E5%90%91Anthropic%E8%BF%BD%E5%8A%A0%E6%8A%95%E8%B5%8450%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%B9%B6%E7%A7%B0%E5%A6%82%E6%9E%9C%E5%8F%8C%E6%96%B9%E7%9A%84%E5%90%88%E4%BD%9C%E8%BE%BE%E5%88%B0%E6%9F%90%E4%BA%9B%E5%95%86%E4%B8%9A%E9%87%8C%E7%A8%8B%E7%A2%91%EF%BC%8C%E5%85%B6%E6%80%BB%E6%8A%95%E8%B5%84%E9%A2%9D%E5%8F%AF%E8%83%BD%E9%AB%98%E8%BE%BE250%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FcMgpfN51S3)
+##### Other Words/Names of Interest in the Above Tweet
+[亚马逊](亚马逊.md), [投资](投资.md)
+___
+##### 2026-04-20 06:38:48 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【我佩服Anthropic的一点是，不管外面的风如何吹，他们都雷打不动地做着认为是对的和重要的事。#孙德俊】#南洋商报 #人工智能 #Anthropic #Claude https://t.co/NLe7TRJMIL https://t.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%88%91%E4%BD%A9%E6%9C%8DAnthropic%E7%9A%84%E4%B8%80%E7%82%B9%E6%98%AF%EF%BC%8C%E4%B8%8D%E7%AE%A1%E5%A4%96%E9%9D%A2%E7%9A%84%E9%A3%8E%E5%A6%82%E4%BD%95%E5%90%B9%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E9%9B%B7%E6%89%93%E4%B8%8D%E5%8A%A8%E5%9C%B0%E5%81%9A%E7%9D%80%E8%AE%A4%E4%B8%BA%E6%98%AF%E5%AF%B9%E7%9A%84%E5%92%8C%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%82%23%E5%AD%99%E5%BE%B7%E4%BF%8A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23Anthropic+%23Claude+https%3A%2F%2Ft.co%2FNLe7TRJMIL+https%3A%2F%2Ft.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [人工](人工.md), [人工智能](人工智能.md)
+___
+##### 2026-04-17 07:24:47 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【安全專家紛紛離職，誰為AI競賽踩煞車】「世界正陷入危機」。Anthropic的安全研究員Mrinank Sharma在給同事留下一封信後辭職。OpenAI的Zoë Hitzig也因Chat GPT引入廣告而辭職。「無論有多麼崇高的理念，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%AE%89%E5%85%A8%E5%B0%88%E5%AE%B6%E7%B4%9B%E7%B4%9B%E9%9B%A2%E8%81%B7%EF%BC%8C%E8%AA%B0%E7%82%BAAI%E7%AB%B6%E8%B3%BD%E8%B8%A9%E7%85%9E%E8%BB%8A%E3%80%91%E3%80%8C%E4%B8%96%E7%95%8C%E6%AD%A3%E9%99%B7%E5%85%A5%E5%8D%B1%E6%A9%9F%E3%80%8D%E3%80%82Anthropic%E7%9A%84%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%93%A1Mrinank+Sharma%E5%9C%A8%E7%B5%A6%E5%90%8C%E4%BA%8B%E7%95%99%E4%B8%8B%E4%B8%80%E5%B0%81%E4%BF%A1%E5%BE%8C%E8%BE%AD%E8%81%B7%E3%80%82OpenAI%E7%9A%84Zo%C3%AB+Hitzig%E4%B9%9F%E5%9B%A0Chat+GPT%E5%BC%95%E5%85%A5%E5%BB%A3%E5%91%8A%E8%80%8C%E8%BE%AD%E8%81%B7%E3%80%82%E3%80%8C%E7%84%A1%E8%AB%96%E6%9C%89%E5%A4%9A%E9%BA%BC%E5%B4%87%E9%AB%98%E7%9A%84%E7%90%86%E5%BF%B5%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [陷入](陷入.md)
+___
 ##### 2026-04-06 15:33:18 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI和Anthropic正争分夺秒，力争在今年年底前完成可能创下纪录的IPO。一份在今年早些时候融资轮完成前对两家公司财务状况的深入调查，揭示了它们的阿喀琉斯之踵：训练新AI模型所需的成本飙升。https://t.co/McHaVQohXW
 

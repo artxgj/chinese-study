@@ -210,13 +210,6 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [型](型.md), [工具](工具.md), [执行](执行.md), [按照](按照.md), [提供](提供.md), [搜索](搜索.md), [模型](模型.md)
 ___
-##### 2025-04-15 08:18:09 UTC ~ SimbaLee
-> RT @lipeng0820: 💡ffmpeg 最棒的GUI 外壳 —— ff·Works上一篇推文提到了用Warp里的AI操作视频编解码工具ffmpeg，有朋友问有没有MCP方案，真有想法👍估计应该有大神在开发中了，耐心等等！在此之前，如果还是习惯带用户界面的转码工具…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lipeng0820%3A+%F0%9F%92%A1ffmpeg+%E6%9C%80%E6%A3%92%E7%9A%84GUI+%E5%A4%96%E5%A3%B3+%E2%80%94%E2%80%94+ff%C2%B7Works%E4%B8%8A%E4%B8%80%E7%AF%87%E6%8E%A8%E6%96%87%E6%8F%90%E5%88%B0%E4%BA%86%E7%94%A8Warp%E9%87%8C%E7%9A%84AI%E6%93%8D%E4%BD%9C%E8%A7%86%E9%A2%91%E7%BC%96%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7ffmpeg%EF%BC%8C%E6%9C%89%E6%9C%8B%E5%8F%8B%E9%97%AE%E6%9C%89%E6%B2%A1%E6%9C%89MCP%E6%96%B9%E6%A1%88%EF%BC%8C%E7%9C%9F%E6%9C%89%E6%83%B3%E6%B3%95%F0%9F%91%8D%E4%BC%B0%E8%AE%A1%E5%BA%94%E8%AF%A5%E6%9C%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BA%86%EF%BC%8C%E8%80%90%E5%BF%83%E7%AD%89%E7%AD%89%EF%BC%81%E5%9C%A8%E6%AD%A4%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%BF%98%E6%98%AF%E4%B9%A0%E6%83%AF%E5%B8%A6%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E7%9A%84%E8%BD%AC%E7%A0%81%E5%B7%A5%E5%85%B7%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[工具](工具.md), [开发](开发.md), [操作](操作.md), [方案](方案.md)
-___
 ##### 2025-04-14 05:24:05 UTC ~ AIGCLINK
 > RT @aigclink: MCP生态牛B，基于MCP让穿戴设备通过语音指令执行实际操作！比如，你可以说 "嘿，Omi，创建一个GitHub issue"，它就会自动帮你完成在GitHub上创建 issue操作，解放双手相当于它把你的生活和开发工作流连接起来，你只需要…
 

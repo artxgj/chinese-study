@@ -7,6 +7,76 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2026-06-02 05:51:40 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 佛罗里达成为首个对OpenAI及其CEO阿尔特曼提起诉讼的州。此前，针对ChatGPT在一宗大规模校园枪击案中所扮演的角色，该州已启动刑事调查。https://t.co/gsCc4C9r51
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E6%88%90%E4%B8%BA%E9%A6%96%E4%B8%AA%E5%AF%B9OpenAI%E5%8F%8A%E5%85%B6CEO%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC%E7%9A%84%E5%B7%9E%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8C%E9%92%88%E5%AF%B9ChatGPT%E5%9C%A8%E4%B8%80%E5%AE%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%AD%E6%89%80%E6%89%AE%E6%BC%94%E7%9A%84%E8%A7%92%E8%89%B2%EF%BC%8C%E8%AF%A5%E5%B7%9E%E5%B7%B2%E5%90%AF%E5%8A%A8%E5%88%91%E4%BA%8B%E8%B0%83%E6%9F%A5%E3%80%82https%3A%2F%2Ft.co%2FgsCc4C9r51)
+##### Other Words/Names of Interest in the Above Tweet
+[佛罗里达](佛罗里达.md), [启动](启动.md), [枪击](枪击.md), [规模](规模.md), [角色](角色.md), [诉讼](诉讼.md), [调查](调查.md), [起诉](起诉.md), [达成](达成.md), [针对](针对.md)
+___
+##### 2026-05-29 05:42:34 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 人工智能公司Anthropic在新一轮融资中募资650亿美元（829亿新元），估值达到9650亿美元，首次超过竞争对手OpenAI。 https://t.co/yiYPzoblhL
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E5%9C%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%B8%AD%E5%8B%9F%E8%B5%84650%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88829%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E4%BC%B0%E5%80%BC%E8%BE%BE%E5%88%B09650%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8BOpenAI%E3%80%82+https%3A%2F%2Ft.co%2FyiYPzoblhL)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md), [估值](估值.md), [竞争](竞争.md), [融资](融资.md), [超过](超过.md)
+___
+##### 2026-05-29 05:41:52 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 存储芯片厂商美光、三星电子及SK海力士也参与了本轮融资，具体金额未披露。#南洋商报 #Anthropic #OpenAIhttps://t.co/VgZavEsBxQ https://t.co/Ka33WdhEvW
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86%E7%BE%8E%E5%85%89%E3%80%81%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%8F%8ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%8F%82%E4%B8%8E%E4%BA%86%E6%9C%AC%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%85%B7%E4%BD%93%E9%87%91%E9%A2%9D%E6%9C%AA%E6%8A%AB%E9%9C%B2%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23OpenAIhttps%3A%2F%2Ft.co%2FVgZavEsBxQ+https%3A%2F%2Ft.co%2FKa33WdhEvW)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [三星](三星.md), [厂商](厂商.md), [存储](存储.md), [披露](披露.md), [美光](美光.md), [芯片](芯片.md), [融资](融资.md), [金额](金额.md)
+___
+##### 2026-05-15 02:19:23 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Cerebras上市首日股价飙升逾一倍。这为备受期待的AI企业IPO大年拉开了序幕。市场对Cerebras股票的追捧，折射出投资者对AI领域的狂热。OpenAI和Anthropic正考虑在今年下半年进行IPO。SpaceX计划于6月挂牌上市。ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Cerebras%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E9%80%BE%E4%B8%80%E5%80%8D%E3%80%82%E8%BF%99%E4%B8%BA%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84AI%E4%BC%81%E4%B8%9AIPO%E5%A4%A7%E5%B9%B4%E6%8B%89%E5%BC%80%E4%BA%86%E5%BA%8F%E5%B9%95%E3%80%82%E5%B8%82%E5%9C%BA%E5%AF%B9Cerebras%E8%82%A1%E7%A5%A8%E7%9A%84%E8%BF%BD%E6%8D%A7%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9AI%E9%A2%86%E5%9F%9F%E7%9A%84%E7%8B%82%E7%83%AD%E3%80%82OpenAI%E5%92%8CAnthropic%E6%AD%A3%E8%80%83%E8%99%91%E5%9C%A8%E4%BB%8A%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%9B%E8%A1%8CIPO%E3%80%82SpaceX%E8%AE%A1%E5%88%92%E4%BA%8E6%E6%9C%88%E6%8C%82%E7%89%8C%E4%B8%8A%E5%B8%82%E3%80%82ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [备受](备受.md), [投资](投资.md), [投资者](投资者.md), [考虑](考虑.md), [计划](计划.md), [进行](进行.md), [追捧](追捧.md), [逾](逾.md), [领域](领域.md), [飙升](飙升.md)
+___
+##### 2026-05-12 08:11:36 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 历史上，从未有任何科技浪潮能在企业上市前，就允许如此大规模员工提前套现并获得巨额财富。#南洋商报 #OpenAI https://t.co/AtzKPhBUNn https://t.co/fwEUcRuswZ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8E%86%E5%8F%B2%E4%B8%8A%EF%BC%8C%E4%BB%8E%E6%9C%AA%E6%9C%89%E4%BB%BB%E4%BD%95%E7%A7%91%E6%8A%80%E6%B5%AA%E6%BD%AE%E8%83%BD%E5%9C%A8%E4%BC%81%E4%B8%9A%E4%B8%8A%E5%B8%82%E5%89%8D%EF%BC%8C%E5%B0%B1%E5%85%81%E8%AE%B8%E5%A6%82%E6%AD%A4%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%91%98%E5%B7%A5%E6%8F%90%E5%89%8D%E5%A5%97%E7%8E%B0%E5%B9%B6%E8%8E%B7%E5%BE%97%E5%B7%A8%E9%A2%9D%E8%B4%A2%E5%AF%8C%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23OpenAI+https%3A%2F%2Ft.co%2FAtzKPhBUNn+https%3A%2F%2Ft.co%2FfwEUcRuswZ)
+##### Other Words/Names of Interest in the Above Tweet
+[允许](允许.md), [科技](科技.md), [获得](获得.md), [规模](规模.md)
+___
+##### 2026-05-11 16:43:57 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI总裁格雷格·布罗克曼的日记如今已成为该公司与马斯克之争中的一个“证人”，也是这场科技界亿万富翁之间较量中最富人情味的部分。https://t.co/f0hpqrOmCz
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E6%80%BB%E8%A3%81%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E5%B8%83%E7%BD%97%E5%85%8B%E6%9B%BC%E7%9A%84%E6%97%A5%E8%AE%B0%E5%A6%82%E4%BB%8A%E5%B7%B2%E6%88%90%E4%B8%BA%E8%AF%A5%E5%85%AC%E5%8F%B8%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B9%8B%E4%BA%89%E4%B8%AD%E7%9A%84%E4%B8%80%E4%B8%AA%E2%80%9C%E8%AF%81%E4%BA%BA%E2%80%9D%EF%BC%8C%E4%B9%9F%E6%98%AF%E8%BF%99%E5%9C%BA%E7%A7%91%E6%8A%80%E7%95%8C%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E4%B9%8B%E9%97%B4%E8%BE%83%E9%87%8F%E4%B8%AD%E6%9C%80%E5%AF%8C%E4%BA%BA%E6%83%85%E5%91%B3%E7%9A%84%E9%83%A8%E5%88%86%E3%80%82https%3A%2F%2Ft.co%2Ff0hpqrOmCz)
+##### Other Words/Names of Interest in the Above Tweet
+[如今](如今.md), [科技](科技.md)
+___
+##### 2026-05-08 04:25:52 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【馬斯克與Anthropic聯手對OpenAI形成包圍圈】由馬斯克領導的SpaceX將把數據中心「Colossus 1」整體出租給Anthropic。馬斯克和Anthropic的CEO達里奧·阿莫代伊都與OpenAI的CEO薩姆·奧爾特曼…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87Anthropic%E8%81%AF%E6%89%8B%E5%B0%8DOpenAI%E5%BD%A2%E6%88%90%E5%8C%85%E5%9C%8D%E5%9C%88%E3%80%91%E7%94%B1%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A0%98%E5%B0%8E%E7%9A%84SpaceX%E5%B0%87%E6%8A%8A%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E3%80%8CColossus+1%E3%80%8D%E6%95%B4%E9%AB%94%E5%87%BA%E7%A7%9F%E7%B5%A6Anthropic%E3%80%82%E9%A6%AC%E6%96%AF%E5%85%8B%E5%92%8CAnthropic%E7%9A%84CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E9%83%BD%E8%88%87OpenAI%E7%9A%84CEO%E8%96%A9%E5%A7%86%C2%B7%E5%A5%A7%E7%88%BE%E7%89%B9%E6%9B%BC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [圈](圈.md), [數據](數據.md)
+___
+##### 2026-05-05 07:02:36 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 过去，加密币更多被视为高波动的投机市场，但现在部分基础设施正转型为“现实资产交易层”。#南洋商报 #OpenAIhttps://t.co/EOFTjSjn56 https://t.co/Gn8NGD7CNP
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%87%E5%8E%BB%EF%BC%8C%E5%8A%A0%E5%AF%86%E5%B8%81%E6%9B%B4%E5%A4%9A%E8%A2%AB%E8%A7%86%E4%B8%BA%E9%AB%98%E6%B3%A2%E5%8A%A8%E7%9A%84%E6%8A%95%E6%9C%BA%E5%B8%82%E5%9C%BA%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E9%83%A8%E5%88%86%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%AD%A3%E8%BD%AC%E5%9E%8B%E4%B8%BA%E2%80%9C%E7%8E%B0%E5%AE%9E%E8%B5%84%E4%BA%A7%E4%BA%A4%E6%98%93%E5%B1%82%E2%80%9D%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23OpenAIhttps%3A%2F%2Ft.co%2FEOFTjSjn56+https%3A%2F%2Ft.co%2FGn8NGD7CNP)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [加密](加密.md), [型](型.md), [基础设施](基础设施.md), [波动](波动.md), [设施](设施.md), [资产](资产.md), [转型](转型.md)
+___
+##### 2026-05-01 10:11:31 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 马斯克在法庭作证时表示，阿尔特曼在OpenAI的使命上并不诚实。他指控阿尔特曼和OpenAI总裁引诱他捐赠数千万美元，帮助该AI实验室以非营利组织身份成立，结果却将其转变为营利性公司。他希望法院罢免二人的领导职务，并寻求逾1,800亿美元的损害赔…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E6%B3%95%E5%BA%AD%E4%BD%9C%E8%AF%81%E6%97%B6%E8%A1%A8%E7%A4%BA%EF%BC%8C%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E5%9C%A8OpenAI%E7%9A%84%E4%BD%BF%E5%91%BD%E4%B8%8A%E5%B9%B6%E4%B8%8D%E8%AF%9A%E5%AE%9E%E3%80%82%E4%BB%96%E6%8C%87%E6%8E%A7%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E5%92%8COpenAI%E6%80%BB%E8%A3%81%E5%BC%95%E8%AF%B1%E4%BB%96%E6%8D%90%E8%B5%A0%E6%95%B0%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%8C%E5%B8%AE%E5%8A%A9%E8%AF%A5AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BB%A5%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87%E8%BA%AB%E4%BB%BD%E6%88%90%E7%AB%8B%EF%BC%8C%E7%BB%93%E6%9E%9C%E5%8D%B4%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8F%98%E4%B8%BA%E8%90%A5%E5%88%A9%E6%80%A7%E5%85%AC%E5%8F%B8%E3%80%82%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%B3%95%E9%99%A2%E7%BD%A2%E5%85%8D%E4%BA%8C%E4%BA%BA%E7%9A%84%E9%A2%86%E5%AF%BC%E8%81%8C%E5%8A%A1%EF%BC%8C%E5%B9%B6%E5%AF%BB%E6%B1%82%E9%80%BE1%2C800%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%8D%9F%E5%AE%B3%E8%B5%94%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[指控](指控.md), [捐赠](捐赠.md), [损](损.md), [法庭](法庭.md), [转变](转变.md), [逾](逾.md), [领导](领导.md)
+___
+##### 2026-04-17 07:24:47 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【安全專家紛紛離職，誰為AI競賽踩煞車】「世界正陷入危機」。Anthropic的安全研究員Mrinank Sharma在給同事留下一封信後辭職。OpenAI的Zoë Hitzig也因Chat GPT引入廣告而辭職。「無論有多麼崇高的理念，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%AE%89%E5%85%A8%E5%B0%88%E5%AE%B6%E7%B4%9B%E7%B4%9B%E9%9B%A2%E8%81%B7%EF%BC%8C%E8%AA%B0%E7%82%BAAI%E7%AB%B6%E8%B3%BD%E8%B8%A9%E7%85%9E%E8%BB%8A%E3%80%91%E3%80%8C%E4%B8%96%E7%95%8C%E6%AD%A3%E9%99%B7%E5%85%A5%E5%8D%B1%E6%A9%9F%E3%80%8D%E3%80%82Anthropic%E7%9A%84%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%93%A1Mrinank+Sharma%E5%9C%A8%E7%B5%A6%E5%90%8C%E4%BA%8B%E7%95%99%E4%B8%8B%E4%B8%80%E5%B0%81%E4%BF%A1%E5%BE%8C%E8%BE%AD%E8%81%B7%E3%80%82OpenAI%E7%9A%84Zo%C3%AB+Hitzig%E4%B9%9F%E5%9B%A0Chat+GPT%E5%BC%95%E5%85%A5%E5%BB%A3%E5%91%8A%E8%80%8C%E8%BE%AD%E8%81%B7%E3%80%82%E3%80%8C%E7%84%A1%E8%AB%96%E6%9C%89%E5%A4%9A%E9%BA%BC%E5%B4%87%E9%AB%98%E7%9A%84%E7%90%86%E5%BF%B5%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [陷入](陷入.md)
+___
 ##### 2026-04-06 15:33:18 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI和Anthropic正争分夺秒，力争在今年年底前完成可能创下纪录的IPO。一份在今年早些时候融资轮完成前对两家公司财务状况的深入调查，揭示了它们的阿喀琉斯之踵：训练新AI模型所需的成本飙升。https://t.co/McHaVQohXW
 
@@ -475,6 +545,13 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+iPhone%E7%9A%84%E4%B8%BB%E8%A6%81%E8%AE%BE%E8%AE%A1%E5%B8%88%E4%B9%94%E7%BA%B3%E6%A3%AE%C2%B7%E8%89%BE%E7%BB%B4%E5%8F%8A%E5%85%B6%E8%AE%BE%E8%AE%A1%E5%85%AC%E5%8F%B8%E5%B0%86%E6%8E%A5%E7%AE%A1OpenAI%E7%9A%84%E5%88%9B%E6%84%8F%E5%92%8C%E8%AE%BE%E8%AE%A1%E4%B8%BB%E5%AF%BC%E6%9D%83%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B0%86%E5%9C%A8OpenAI%E5%BC%80%E5%8F%91%E6%B6%88%E8%B4%B9%E7%BA%A7%E8%AE%BE%E5%A4%87%E5%92%8C%E5%85%B6%E4%BB%96%E9%A1%B9%E7%9B%AE%EF%BC%8C%E8%BF%99%E4%BA%9B%E9%A1%B9%E7%9B%AE%E5%B0%86%E5%A1%91%E9%80%A0AI%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%A4%96%E8%A7%82%E5%92%8C%E4%BD%93%E9%AA%8C%E3%80%82+https%3A%2F%2Ft.co%2Fto0W99xMSA)
 ##### Other Words/Names of Interest in the Above Tweet
 [iPhone](iPhone.md), [主导](主导.md), [开发](开发.md), [设计](设计.md), [项目](项目.md)
+___
+##### 2025-05-10 21:46:37 UTC ~ Yachen Liu
+> RT @Blankwonder: 买了 MacWhisper，因为现在 AI 用得越来越多，反而打字速度变成了瓶颈。 测试了一下各种本地模型，还得是用 OpenAI 的 API 才能够取得比较不错的效果。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Blankwonder%3A+%E4%B9%B0%E4%BA%86+MacWhisper%EF%BC%8C%E5%9B%A0%E4%B8%BA%E7%8E%B0%E5%9C%A8+AI+%E7%94%A8%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%EF%BC%8C%E5%8F%8D%E8%80%8C%E6%89%93%E5%AD%97%E9%80%9F%E5%BA%A6%E5%8F%98%E6%88%90%E4%BA%86%E7%93%B6%E9%A2%88%E3%80%82+%E6%B5%8B%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%E5%90%84%E7%A7%8D%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%BF%98%E5%BE%97%E6%98%AF%E7%94%A8+OpenAI+%E7%9A%84+API+%E6%89%8D%E8%83%BD%E5%A4%9F%E5%8F%96%E5%BE%97%E6%AF%94%E8%BE%83%E4%B8%8D%E9%94%99%E7%9A%84%E6%95%88%E6%9E%9C%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [型](型.md), [模型](模型.md), [瓶颈](瓶颈.md), [越来越](越来越.md), [速度](速度.md)
 ___
 ##### 2025-04-30 19:10:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Meta推出了一款独立AI应用程序Meta AI，目前该AI助手在Instagram、WhatsApp和Facebook等多个社交媒体平台上提供。这将与OpenAI的ChatGPT等其他AI聊天机器人形成直接竞争。  https://t.co/P…

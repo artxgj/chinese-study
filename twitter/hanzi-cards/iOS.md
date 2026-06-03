@@ -147,14 +147,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Windows](Windows.md), [共享](共享.md), [安卓](安卓.md), [提供](提供.md), [暴雪](暴雪.md), [模式](模式.md), [线路](线路.md), [账户](账户.md), [连接](连接.md), [隐私](隐私.md)
 ___
-##### 2025-03-26 06:27:09 UTC ~ 砍砍.ᐟ
-> RT @Lakr233: 今天和深度求索的同学聊了一下，觉得很有道理。大致是：『 我们现在看不清 AGI 的样子，所以重心在研究模型上。现在招 iOS 是希望能提高团队的上限，除了做软件，还希望有惊喜。我们不需要大量的用户来支撑研究，所以不需要增加人力来减少时间成本。当…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Lakr233%3A+%E4%BB%8A%E5%A4%A9%E5%92%8C%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E7%9A%84%E5%90%8C%E5%AD%A6%E8%81%8A%E4%BA%86%E4%B8%80%E4%B8%8B%EF%BC%8C%E8%A7%89%E5%BE%97%E5%BE%88%E6%9C%89%E9%81%93%E7%90%86%E3%80%82%E5%A4%A7%E8%87%B4%E6%98%AF%EF%BC%9A%E3%80%8E+%E6%88%91%E4%BB%AC%E7%8E%B0%E5%9C%A8%E7%9C%8B%E4%B8%8D%E6%B8%85+AGI+%E7%9A%84%E6%A0%B7%E5%AD%90%EF%BC%8C%E6%89%80%E4%BB%A5%E9%87%8D%E5%BF%83%E5%9C%A8%E7%A0%94%E7%A9%B6%E6%A8%A1%E5%9E%8B%E4%B8%8A%E3%80%82%E7%8E%B0%E5%9C%A8%E6%8B%9B+iOS+%E6%98%AF%E5%B8%8C%E6%9C%9B%E8%83%BD%E6%8F%90%E9%AB%98%E5%9B%A2%E9%98%9F%E7%9A%84%E4%B8%8A%E9%99%90%EF%BC%8C%E9%99%A4%E4%BA%86%E5%81%9A%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BF%98%E5%B8%8C%E6%9C%9B%E6%9C%89%E6%83%8A%E5%96%9C%E3%80%82%E6%88%91%E4%BB%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A4%A7%E9%87%8F%E7%9A%84%E7%94%A8%E6%88%B7%E6%9D%A5%E6%94%AF%E6%92%91%E7%A0%94%E7%A9%B6%EF%BC%8C%E6%89%80%E4%BB%A5%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A2%9E%E5%8A%A0%E4%BA%BA%E5%8A%9B%E6%9D%A5%E5%87%8F%E5%B0%91%E6%97%B6%E9%97%B4%E6%88%90%E6%9C%AC%E3%80%82%E5%BD%93%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [成本](成本.md), [招](招.md), [提高](提高.md), [模型](模型.md), [深度求索](深度求索.md), [除了](除了.md)
-___
-##### 2025-03-21 03:09:18 UTC ~ 
+##### 2025-03-21 03:09:18 UTC ~ molight
 > RT @molightme: 🙏 求教一下，零基础选手想要上手 iOS 开发，目前推荐什么学习路径？想借助 AI 走捷径，但应该还是懂点基础比较好？Grok 回答比较笼统，我主要想得到关于app设计感方面的建议，目标是希望做出类似 Grow / Offscreen /…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40molightme%3A+%F0%9F%99%8F+%E6%B1%82%E6%95%99%E4%B8%80%E4%B8%8B%EF%BC%8C%E9%9B%B6%E5%9F%BA%E7%A1%80%E9%80%89%E6%89%8B%E6%83%B3%E8%A6%81%E4%B8%8A%E6%89%8B+iOS+%E5%BC%80%E5%8F%91%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%8E%A8%E8%8D%90%E4%BB%80%E4%B9%88%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84%EF%BC%9F%E6%83%B3%E5%80%9F%E5%8A%A9+AI+%E8%B5%B0%E6%8D%B7%E5%BE%84%EF%BC%8C%E4%BD%86%E5%BA%94%E8%AF%A5%E8%BF%98%E6%98%AF%E6%87%82%E7%82%B9%E5%9F%BA%E7%A1%80%E6%AF%94%E8%BE%83%E5%A5%BD%EF%BC%9FGrok+%E5%9B%9E%E7%AD%94%E6%AF%94%E8%BE%83%E7%AC%BC%E7%BB%9F%EF%BC%8C%E6%88%91%E4%B8%BB%E8%A6%81%E6%83%B3%E5%BE%97%E5%88%B0%E5%85%B3%E4%BA%8Eapp%E8%AE%BE%E8%AE%A1%E6%84%9F%E6%96%B9%E9%9D%A2%E7%9A%84%E5%BB%BA%E8%AE%AE%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E5%B8%8C%E6%9C%9B%E5%81%9A%E5%87%BA%E7%B1%BB%E4%BC%BC+Grow+%2F+Offscreen+%2F%E2%80%A6)

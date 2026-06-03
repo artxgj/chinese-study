@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2026-05-22 07:01:14 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Meta、TikTok、Snap和YouTube就青少年伤害案达成和解协议，避免了全美各学区提起的逾1,200起合并诉讼中的首次庭审。https://t.co/DHDOAJVZec
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Meta%E3%80%81TikTok%E3%80%81Snap%E5%92%8CYouTube%E5%B0%B1%E9%9D%92%E5%B0%91%E5%B9%B4%E4%BC%A4%E5%AE%B3%E6%A1%88%E8%BE%BE%E6%88%90%E5%92%8C%E8%A7%A3%E5%8D%8F%E8%AE%AE%EF%BC%8C%E9%81%BF%E5%85%8D%E4%BA%86%E5%85%A8%E7%BE%8E%E5%90%84%E5%AD%A6%E5%8C%BA%E6%8F%90%E8%B5%B7%E7%9A%84%E9%80%BE1%2C200%E8%B5%B7%E5%90%88%E5%B9%B6%E8%AF%89%E8%AE%BC%E4%B8%AD%E7%9A%84%E9%A6%96%E6%AC%A1%E5%BA%AD%E5%AE%A1%E3%80%82https%3A%2F%2Ft.co%2FDHDOAJVZec)
+##### Other Words/Names of Interest in the Above Tweet
+[协议](协议.md), [和解](和解.md), [诉讼](诉讼.md), [达成](达成.md), [逾](逾.md)
+___
 ##### 2026-03-14 06:53:16 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 短视频平台TikTok以1540亿美元的品牌价值排名第6，成为2026年排名最高的中国品牌。#南洋商报 #品牌 #apple #Microsoft #googlehttps://t.co/t0rlzED6UF https://t.co/h…
 
@@ -2100,13 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E5%B8%82%E5%86%B3%E5%AE%9A%E5%8A%A0%E5%85%A5%E8%AE%B8%E5%A4%9A%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E8%A1%8C%E5%88%97%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%85%AC%E5%8A%A1%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%E3%80%82%E6%9C%89%E6%B0%91%E8%B0%83%E4%B9%9F%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%BF%91%E5%8D%8A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%94%AF%E6%8C%81%E5%9C%A8%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E4%B8%8A%E7%A6%81%E7%94%A8TikTok%E3%80%82%E7%A9%B6%E7%AB%9F%E7%BE%8E%E5%9B%BD%E5%90%84%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%A6%81%E7%94%A8%EF%BC%9Fhttps%3A%2F%2Ft.co%2FWrZ3ngRPg7)
 ##### Other Words/Names of Interest in the Above Tweet
 [支持](支持.md), [显示](显示.md), [禁止](禁止.md), [程度](程度.md), [美国](美国.md)
-___
-##### 2023-08-11 05:36:29 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 随着北半球进入夏天，预告暑假旅游旺季的到来。社交媒体TikTok用户纷纷使用标签，标记出他们最向往的城市。新加坡在一项热门旅游城市调查中排名第五，前三名分别是韩国首尔、法国巴黎和西班牙巴塞罗那。 https://t.co/32QCTVfNpY
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%9A%8F%E7%9D%80%E5%8C%97%E5%8D%8A%E7%90%83%E8%BF%9B%E5%85%A5%E5%A4%8F%E5%A4%A9%EF%BC%8C%E9%A2%84%E5%91%8A%E6%9A%91%E5%81%87%E6%97%85%E6%B8%B8%E6%97%BA%E5%AD%A3%E7%9A%84%E5%88%B0%E6%9D%A5%E3%80%82%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93TikTok%E7%94%A8%E6%88%B7%E7%BA%B7%E7%BA%B7%E4%BD%BF%E7%94%A8%E6%A0%87%E7%AD%BE%EF%BC%8C%E6%A0%87%E8%AE%B0%E5%87%BA%E4%BB%96%E4%BB%AC%E6%9C%80%E5%90%91%E5%BE%80%E7%9A%84%E5%9F%8E%E5%B8%82%E3%80%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%A8%E4%B8%80%E9%A1%B9%E7%83%AD%E9%97%A8%E6%97%85%E6%B8%B8%E5%9F%8E%E5%B8%82%E8%B0%83%E6%9F%A5%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%94%EF%BC%8C%E5%89%8D%E4%B8%89%E5%90%8D%E5%88%86%E5%88%AB%E6%98%AF%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E3%80%81%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E5%92%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E3%80%82+https%3A%2F%2Ft.co%2F32QCTVfNpY)
-##### Other Words/Names of Interest in the Above Tweet
-[新加坡](新加坡.md), [暑假](暑假.md), [法国](法国.md), [社交媒体](社交媒体.md), [西班牙](西班牙.md), [调查](调查.md), [随着](随着.md), [韩国](韩国.md)
 ____
 
 [Next Page](TikTok-01.md)

@@ -8,6 +8,76 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2021-10-13 06:36:05 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 知情人士透露，由于芯片持续短缺，苹果公司可能会将今年的iPhone 13生产目标削减多达1000万部。https://t.co/jEFEcPAHqs
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%8A%AF%E7%89%87%E6%8C%81%E7%BB%AD%E7%9F%AD%E7%BC%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%B0%86%E4%BB%8A%E5%B9%B4%E7%9A%84iPhone+13%E7%94%9F%E4%BA%A7%E7%9B%AE%E6%A0%87%E5%89%8A%E5%87%8F%E5%A4%9A%E8%BE%BE1000%E4%B8%87%E9%83%A8%E3%80%82https%3A%2F%2Ft.co%2FjEFEcPAHqs)
+##### Other Words/Names of Interest in the Above Tweet
+[削减](削减.md), [持续](持续.md), [生产](生产.md), [知情](知情.md), [知情人士](知情人士.md), [短缺](短缺.md), [芯片](芯片.md), [苹果](苹果.md), [透露](透露.md)
+___
+##### 2021-10-08 08:09:57 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【三星7～9月营业利润增长28％】三星半导体存储器的收益明显改善，面向美国苹果最新款iPhone的有机EL面板销售强劲……https://t.co/V03z3XV0GM https://t.co/P61f2JK1dp
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%89%E6%98%9F7%EF%BD%9E9%E6%9C%88%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF28%EF%BC%85%E3%80%91%E4%B8%89%E6%98%9F%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E6%94%B6%E7%9B%8A%E6%98%8E%E6%98%BE%E6%94%B9%E5%96%84%EF%BC%8C%E9%9D%A2%E5%90%91%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E7%9A%84%E6%9C%89%E6%9C%BAEL%E9%9D%A2%E6%9D%BF%E9%94%80%E5%94%AE%E5%BC%BA%E5%8A%B2%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FV03z3XV0GM+https%3A%2F%2Ft.co%2FP61f2JK1dp)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [利润](利润.md), [半导体](半导体.md), [增长](增长.md), [存储](存储.md), [强劲](强劲.md), [收益](收益.md), [明显](明显.md), [美国](美国.md), [苹果](苹果.md), [营业利润](营业利润.md), [销售](销售.md), [面板](面板.md)
+___
+##### 2021-09-24 06:02:11 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【链接——iPhone在日本10年涨至3倍，1部花6成月薪】苹果公司新发布的iPhone13在日本市场售价比之前的“12”系列最贵的机型高出约2.9万日元，顶配机型价格在最近10年里上涨至3倍。一方面，购买一部iPhone的花销在日本人月…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94iPhone%E5%9C%A8%E6%97%A5%E6%9C%AC10%E5%B9%B4%E6%B6%A8%E8%87%B33%E5%80%8D%EF%BC%8C1%E9%83%A8%E8%8A%B16%E6%88%90%E6%9C%88%E8%96%AA%E3%80%91%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8F%91%E5%B8%83%E7%9A%84iPhone13%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%94%AE%E4%BB%B7%E6%AF%94%E4%B9%8B%E5%89%8D%E7%9A%84%E2%80%9C12%E2%80%9D%E7%B3%BB%E5%88%97%E6%9C%80%E8%B4%B5%E7%9A%84%E6%9C%BA%E5%9E%8B%E9%AB%98%E5%87%BA%E7%BA%A62.9%E4%B8%87%E6%97%A5%E5%85%83%EF%BC%8C%E9%A1%B6%E9%85%8D%E6%9C%BA%E5%9E%8B%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%9C%80%E8%BF%9110%E5%B9%B4%E9%87%8C%E4%B8%8A%E6%B6%A8%E8%87%B33%E5%80%8D%E3%80%82%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E8%B4%AD%E4%B9%B0%E4%B8%80%E9%83%A8iPhone%E7%9A%84%E8%8A%B1%E9%94%80%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%9C%88%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [价格](价格.md), [发布](发布.md), [售价](售价.md), [型](型.md), [日本](日本.md), [系列](系列.md), [苹果](苹果.md), [购买](购买.md)
+___
+##### 2021-09-21 07:22:36 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #股闻天下 上个月末，分析师郭明錤预测新一代iPhone将包含连接卫星网络的能力。这推动几家卫星运营商股价大涨。然而，苹果公司在上周的iPhone 13系列发布会上并没有提到这一功能，这些公司的股价随之回落。https://t.co/xes1t…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%8A%E4%B8%AA%E6%9C%88%E6%9C%AB%EF%BC%8C%E5%88%86%E6%9E%90%E5%B8%88%E9%83%AD%E6%98%8E%E9%8C%A4%E9%A2%84%E6%B5%8B%E6%96%B0%E4%B8%80%E4%BB%A3iPhone%E5%B0%86%E5%8C%85%E5%90%AB%E8%BF%9E%E6%8E%A5%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E7%9A%84%E8%83%BD%E5%8A%9B%E3%80%82%E8%BF%99%E6%8E%A8%E5%8A%A8%E5%87%A0%E5%AE%B6%E5%8D%AB%E6%98%9F%E8%BF%90%E8%90%A5%E5%95%86%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%E3%80%82%E7%84%B6%E8%80%8C%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%8A%E5%91%A8%E7%9A%84iPhone+13%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%8A%E5%B9%B6%E6%B2%A1%E6%9C%89%E6%8F%90%E5%88%B0%E8%BF%99%E4%B8%80%E5%8A%9F%E8%83%BD%EF%BC%8C%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8F%B8%E7%9A%84%E8%82%A1%E4%BB%B7%E9%9A%8F%E4%B9%8B%E5%9B%9E%E8%90%BD%E3%80%82https%3A%2F%2Ft.co%2Fxes1t%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [分析师](分析师.md), [卫星](卫星.md), [发布](发布.md), [推动](推动.md), [系列](系列.md), [苹果](苹果.md), [运营商](运营商.md), [连接](连接.md), [预测](预测.md)
+___
+##### 2021-09-18 21:06:33 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #视频 观看苹果流媒体服务Apple TV+的自制剧，你可能会留意到不断有iPhone、iPad和其他苹果产品出镜。从《足球教练》到《早间新闻》，《华尔街日报》记者观看了74集、40多个小时的热播剧，并在专家的指导下从视觉、声音和剧情联系三个维度…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E8%A7%82%E7%9C%8B%E8%8B%B9%E6%9E%9C%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1Apple+TV%2B%E7%9A%84%E8%87%AA%E5%88%B6%E5%89%A7%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%BC%9A%E7%95%99%E6%84%8F%E5%88%B0%E4%B8%8D%E6%96%AD%E6%9C%89iPhone%E3%80%81iPad%E5%92%8C%E5%85%B6%E4%BB%96%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%87%BA%E9%95%9C%E3%80%82%E4%BB%8E%E3%80%8A%E8%B6%B3%E7%90%83%E6%95%99%E7%BB%83%E3%80%8B%E5%88%B0%E3%80%8A%E6%97%A9%E9%97%B4%E6%96%B0%E9%97%BB%E3%80%8B%EF%BC%8C%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E8%AE%B0%E8%80%85%E8%A7%82%E7%9C%8B%E4%BA%8674%E9%9B%86%E3%80%8140%E5%A4%9A%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%83%AD%E6%92%AD%E5%89%A7%EF%BC%8C%E5%B9%B6%E5%9C%A8%E4%B8%93%E5%AE%B6%E7%9A%84%E6%8C%87%E5%AF%BC%E4%B8%8B%E4%BB%8E%E8%A7%86%E8%A7%89%E3%80%81%E5%A3%B0%E9%9F%B3%E5%92%8C%E5%89%A7%E6%83%85%E8%81%94%E7%B3%BB%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[流媒体](流媒体.md), [苹果](苹果.md), [足球](足球.md)
+___
+##### 2021-09-17 03:56:58 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【iPhone在日本10年涨至3倍，1部花6成月薪】苹果公司新发布的iPhone13在日本市场售价比之前的“12”系列最贵的机型高出约2.9万日元，顶配机型价格在最近10年里上涨至3倍。一方面，购买一部iPhone的花销在日本人月薪中所占…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E5%9C%A8%E6%97%A5%E6%9C%AC10%E5%B9%B4%E6%B6%A8%E8%87%B33%E5%80%8D%EF%BC%8C1%E9%83%A8%E8%8A%B16%E6%88%90%E6%9C%88%E8%96%AA%E3%80%91%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8F%91%E5%B8%83%E7%9A%84iPhone13%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA%E5%94%AE%E4%BB%B7%E6%AF%94%E4%B9%8B%E5%89%8D%E7%9A%84%E2%80%9C12%E2%80%9D%E7%B3%BB%E5%88%97%E6%9C%80%E8%B4%B5%E7%9A%84%E6%9C%BA%E5%9E%8B%E9%AB%98%E5%87%BA%E7%BA%A62.9%E4%B8%87%E6%97%A5%E5%85%83%EF%BC%8C%E9%A1%B6%E9%85%8D%E6%9C%BA%E5%9E%8B%E4%BB%B7%E6%A0%BC%E5%9C%A8%E6%9C%80%E8%BF%9110%E5%B9%B4%E9%87%8C%E4%B8%8A%E6%B6%A8%E8%87%B33%E5%80%8D%E3%80%82%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E8%B4%AD%E4%B9%B0%E4%B8%80%E9%83%A8iPhone%E7%9A%84%E8%8A%B1%E9%94%80%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%9C%88%E8%96%AA%E4%B8%AD%E6%89%80%E5%8D%A0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [价格](价格.md), [发布](发布.md), [售价](售价.md), [型](型.md), [日本](日本.md), [系列](系列.md), [苹果](苹果.md), [购买](购买.md)
+___
+##### 2021-09-16 15:09:24 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【链接——iPhone13正常进化, 瞄准10亿人换机需求】iPhone13提高了摄像头和电池性能等，沿袭近年来的“正常进化”。目前手机市场已经成熟，放弃其他厂商产品改用iPhone的用户很少。阻碍最新iPhone销售增加的最大因素其实是…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94iPhone13%E6%AD%A3%E5%B8%B8%E8%BF%9B%E5%8C%96%2C+%E7%9E%84%E5%87%8610%E4%BA%BF%E4%BA%BA%E6%8D%A2%E6%9C%BA%E9%9C%80%E6%B1%82%E3%80%91iPhone13%E6%8F%90%E9%AB%98%E4%BA%86%E6%91%84%E5%83%8F%E5%A4%B4%E5%92%8C%E7%94%B5%E6%B1%A0%E6%80%A7%E8%83%BD%E7%AD%89%EF%BC%8C%E6%B2%BF%E8%A2%AD%E8%BF%91%E5%B9%B4%E6%9D%A5%E7%9A%84%E2%80%9C%E6%AD%A3%E5%B8%B8%E8%BF%9B%E5%8C%96%E2%80%9D%E3%80%82%E7%9B%AE%E5%89%8D%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E5%B7%B2%E7%BB%8F%E6%88%90%E7%86%9F%EF%BC%8C%E6%94%BE%E5%BC%83%E5%85%B6%E4%BB%96%E5%8E%82%E5%95%86%E4%BA%A7%E5%93%81%E6%94%B9%E7%94%A8iPhone%E7%9A%84%E7%94%A8%E6%88%B7%E5%BE%88%E5%B0%91%E3%80%82%E9%98%BB%E7%A2%8D%E6%9C%80%E6%96%B0iPhone%E9%94%80%E5%94%AE%E5%A2%9E%E5%8A%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%9B%A0%E7%B4%A0%E5%85%B6%E5%AE%9E%E6%98%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[厂商](厂商.md), [因素](因素.md), [成熟](成熟.md), [提高](提高.md), [摄像头](摄像头.md), [电池](电池.md), [瞄准](瞄准.md), [销售](销售.md), [阻碍](阻碍.md), [需求](需求.md)
+___
+##### 2021-09-16 04:15:55 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【日企是苹果摄像头升级的幕后英雄】iPhone13系列的卖点之一是摄像头性能的提高，苹果力争构建结合软件和硬件的“影像平台”、争取AR等新市场。苹果从索尼采购图像传感器，iPhone上采用的光学式手抖补偿技术也是日企的长项……https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E4%BC%81%E6%98%AF%E8%8B%B9%E6%9E%9C%E6%91%84%E5%83%8F%E5%A4%B4%E5%8D%87%E7%BA%A7%E7%9A%84%E5%B9%95%E5%90%8E%E8%8B%B1%E9%9B%84%E3%80%91iPhone13%E7%B3%BB%E5%88%97%E7%9A%84%E5%8D%96%E7%82%B9%E4%B9%8B%E4%B8%80%E6%98%AF%E6%91%84%E5%83%8F%E5%A4%B4%E6%80%A7%E8%83%BD%E7%9A%84%E6%8F%90%E9%AB%98%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%8A%9B%E4%BA%89%E6%9E%84%E5%BB%BA%E7%BB%93%E5%90%88%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%A1%AC%E4%BB%B6%E7%9A%84%E2%80%9C%E5%BD%B1%E5%83%8F%E5%B9%B3%E5%8F%B0%E2%80%9D%E3%80%81%E4%BA%89%E5%8F%96AR%E7%AD%89%E6%96%B0%E5%B8%82%E5%9C%BA%E3%80%82%E8%8B%B9%E6%9E%9C%E4%BB%8E%E7%B4%A2%E5%B0%BC%E9%87%87%E8%B4%AD%E5%9B%BE%E5%83%8F%E4%BC%A0%E6%84%9F%E5%99%A8%EF%BC%8CiPhone%E4%B8%8A%E9%87%87%E7%94%A8%E7%9A%84%E5%85%89%E5%AD%A6%E5%BC%8F%E6%89%8B%E6%8A%96%E8%A1%A5%E5%81%BF%E6%8A%80%E6%9C%AF%E4%B9%9F%E6%98%AF%E6%97%A5%E4%BC%81%E7%9A%84%E9%95%BF%E9%A1%B9%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[传感器](传感器.md), [力争](力争.md), [升级](升级.md), [平台](平台.md), [影像](影像.md), [技术](技术.md), [提高](提高.md), [摄像头](摄像头.md), [系列](系列.md), [索尼](索尼.md), [苹果](苹果.md), [补偿](补偿.md)
+___
+##### 2021-09-15 15:42:01 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: #股闻天下 苹果公司并非只供应高端产品：iPhone 13机型发布后，该公司仍在其网站上出售10款以前的机型，还将价格平均下调了11%。对于一家曾以残酷缩减产品线而闻名的公司来说，这是个明显转变。但今天的苹果是世界上最有价值的公司，这意味着它需要…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B9%B6%E9%9D%9E%E5%8F%AA%E4%BE%9B%E5%BA%94%E9%AB%98%E7%AB%AF%E4%BA%A7%E5%93%81%EF%BC%9AiPhone+13%E6%9C%BA%E5%9E%8B%E5%8F%91%E5%B8%83%E5%90%8E%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E4%BB%8D%E5%9C%A8%E5%85%B6%E7%BD%91%E7%AB%99%E4%B8%8A%E5%87%BA%E5%94%AE10%E6%AC%BE%E4%BB%A5%E5%89%8D%E7%9A%84%E6%9C%BA%E5%9E%8B%EF%BC%8C%E8%BF%98%E5%B0%86%E4%BB%B7%E6%A0%BC%E5%B9%B3%E5%9D%87%E4%B8%8B%E8%B0%83%E4%BA%8611%25%E3%80%82%E5%AF%B9%E4%BA%8E%E4%B8%80%E5%AE%B6%E6%9B%BE%E4%BB%A5%E6%AE%8B%E9%85%B7%E7%BC%A9%E5%87%8F%E4%BA%A7%E5%93%81%E7%BA%BF%E8%80%8C%E9%97%BB%E5%90%8D%E7%9A%84%E5%85%AC%E5%8F%B8%E6%9D%A5%E8%AF%B4%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%AA%E6%98%8E%E6%98%BE%E8%BD%AC%E5%8F%98%E3%80%82%E4%BD%86%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%9C%89%E4%BB%B7%E5%80%BC%E7%9A%84%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%BF%99%E6%84%8F%E5%91%B3%E7%9D%80%E5%AE%83%E9%9C%80%E8%A6%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [出售](出售.md), [发布](发布.md), [型](型.md), [意味](意味.md), [意味着](意味着.md), [明显](明显.md), [残酷](残酷.md), [苹果](苹果.md), [转变](转变.md)
+___
+##### 2021-09-15 05:41:20 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苹果iPhone 13系列4款新机规格升级不涨价，售价介于3399令吉至7599令吉之间，10月8日正式在马来西亚发售！https://t.co/SK5D8F47fK https://t.co/FAM0QoDxHG
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9CiPhone+13%E7%B3%BB%E5%88%974%E6%AC%BE%E6%96%B0%E6%9C%BA%E8%A7%84%E6%A0%BC%E5%8D%87%E7%BA%A7%E4%B8%8D%E6%B6%A8%E4%BB%B7%EF%BC%8C%E5%94%AE%E4%BB%B7%E4%BB%8B%E4%BA%8E3399%E4%BB%A4%E5%90%89%E8%87%B37599%E4%BB%A4%E5%90%89%E4%B9%8B%E9%97%B4%EF%BC%8C10%E6%9C%888%E6%97%A5%E6%AD%A3%E5%BC%8F%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%8F%91%E5%94%AE%EF%BC%81https%3A%2F%2Ft.co%2FSK5D8F47fK+https%3A%2F%2Ft.co%2FFAM0QoDxHG)
+##### Other Words/Names of Interest in the Above Tweet
+[升级](升级.md), [售价](售价.md), [正式](正式.md), [涨价](涨价.md), [系列](系列.md), [苹果](苹果.md), [马来西亚](马来西亚.md)
+___
 ##### 2021-09-15 05:37:05 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #视频 iPhone 13 Mini和iPhone 13在续航时间和拍照功能上有较大提升；iPhone 13 Pro和Pro Max在摄像头、电池升级的同时，显示屏更亮，刷新率更高；最新一代智能手表Series 7屏幕变大，还号称特别耐用。《华尔…
 
