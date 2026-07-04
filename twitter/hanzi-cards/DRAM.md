@@ -24,21 +24,21 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%88%8A%E4%B8%80%E4%BB%A3DRAM%E5%83%B9%E6%A0%BC%E6%9A%B4%E6%BC%B2%EF%BC%8CAI%E7%94%A3%E8%83%BD%E9%81%B7%E5%BE%99%E8%87%B4%E4%BE%9B%E6%87%89%E8%B6%A8%E7%B7%8A%E3%80%91%E7%9B%AE%E5%89%8D%E7%94%9F%E7%94%A3%E4%B8%8A%E4%B8%80%E4%BB%A3DDR3%E7%9A%84%E5%8F%AA%E6%9C%89%E5%8D%97%E4%BA%9E%E7%A7%91%E6%8A%80%E5%92%8C%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%AD%90%E7%AD%89%E3%80%82%E5%8D%97%E4%BA%9E%E7%A7%91%E6%8A%80%E5%92%8C%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%AD%90%E9%96%8B%E5%A7%8B%E5%B0%88%E6%B3%A8%E6%96%BCDDR4%EF%BC%8C%E6%88%90%E7%82%BADDR3%E5%83%B9%E6%A0%BC%E9%A3%86%E5%8D%87%E7%9A%84%E5%A5%91%E6%A9%9F%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FvWsJ8v8Hyx)
 ##### Other Words/Names of Interest in the Above Tweet
-[科技](科技.md)
+[南亞科技](南亞科技.md), [科技](科技.md), [華邦電子](華邦電子.md)
 ___
 ##### 2026-06-29 18:04:41 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 路透社獨家報導，中國記憶體廠商長鑫存儲（CXMT） 已與騰訊控股 簽署一份價值超過200億人民幣（約30億美元） 的長期 DRAM 晶片供應協議。這是長鑫存儲即將在上海科創板 IPO 前的重要里程碑。協議涵蓋數年期（最長3-5年）伺服器用 DRA…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%8D%A8%E5%AE%B6%E5%A0%B1%E5%B0%8E%EF%BC%8C%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E5%BB%A0%E5%95%86%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89+%E5%B7%B2%E8%88%87%E9%A8%B0%E8%A8%8A%E6%8E%A7%E8%82%A1+%E7%B0%BD%E7%BD%B2%E4%B8%80%E4%BB%BD%E5%83%B9%E5%80%BC%E8%B6%85%E9%81%8E200%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%88%E7%B4%8430%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%89+%E7%9A%84%E9%95%B7%E6%9C%9F+DRAM+%E6%99%B6%E7%89%87%E4%BE%9B%E6%87%89%E5%8D%94%E8%AD%B0%E3%80%82%E9%80%99%E6%98%AF%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%8D%B3%E5%B0%87%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%89%B5%E6%9D%BF+IPO+%E5%89%8D%E7%9A%84%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8B%E7%A2%91%E3%80%82%E5%8D%94%E8%AD%B0%E6%B6%B5%E8%93%8B%E6%95%B8%E5%B9%B4%E6%9C%9F%EF%BC%88%E6%9C%80%E9%95%B73-5%E5%B9%B4%EF%BC%89%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%94%A8+DRA%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[CXMT](CXMT.md), [上海](上海.md), [晶片](晶片.md), [騰訊](騰訊.md)
+[CXMT](CXMT.md), [上海](上海.md), [晶片](晶片.md), [長鑫](長鑫.md), [騰訊](騰訊.md)
 ___
 ##### 2026-06-29 06:50:12 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 全球記憶體嚴重缺貨之際，台積電積極建立本土DRAM供應鏈，華邦電子正式入列，雙方展開晶圓對晶圓堆疊（WoW）技術的深度合作。根據消息人士指出，華邦將供應DRAM記憶體晶圓，與台積電的邏輯製程晶圓透過Hybrid…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E5%85%A8%E7%90%83%E8%A8%98%E6%86%B6%E9%AB%94%E5%9A%B4%E9%87%8D%E7%BC%BA%E8%B2%A8%E4%B9%8B%E9%9A%9B%EF%BC%8C%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%A9%8D%E6%A5%B5%E5%BB%BA%E7%AB%8B%E6%9C%AC%E5%9C%9FDRAM%E4%BE%9B%E6%87%89%E9%8F%88%EF%BC%8C%E8%8F%AF%E9%82%A6%E9%9B%BB%E5%AD%90%E6%AD%A3%E5%BC%8F%E5%85%A5%E5%88%97%EF%BC%8C%E9%9B%99%E6%96%B9%E5%B1%95%E9%96%8B%E6%99%B6%E5%9C%93%E5%B0%8D%E6%99%B6%E5%9C%93%E5%A0%86%E7%96%8A%EF%BC%88WoW%EF%BC%89%E6%8A%80%E8%A1%93%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E3%80%82%E6%A0%B9%E6%93%9A%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E6%8C%87%E5%87%BA%EF%BC%8C%E8%8F%AF%E9%82%A6%E5%B0%87%E4%BE%9B%E6%87%89DRAM%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E5%9C%93%EF%BC%8C%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9A%84%E9%82%8F%E8%BC%AF%E8%A3%BD%E7%A8%8B%E6%99%B6%E5%9C%93%E9%80%8F%E9%81%8EHybrid%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[供應鏈](供應鏈.md), [台積電](台積電.md), [指出](指出.md), [晶圓](晶圓.md), [正式](正式.md), [積極](積極.md)
+[供應鏈](供應鏈.md), [台積電](台積電.md), [指出](指出.md), [晶圓](晶圓.md), [正式](正式.md), [積極](積極.md), [華邦電子](華邦電子.md)
 ___
 ##### 2026-06-28 06:30:42 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: iPhone 18 Pro 主機板最新洩漏顯示，A20 Pro 已採用全新 WMCM封裝，正式取代 A19 Pro 所使用的 PoP技術。這是蘋果晶片封裝技術的重要轉變。DRAM 位置從晶片頂部移至側邊，可大幅改善熱傳導路徑，提升整體散熱效率，有助於…
@@ -115,7 +115,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E6%8C%87%E6%A8%99%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC1%E5%80%8B%E6%9C%88%E6%BC%B2%E8%87%B32%E5%80%8D%E3%80%91%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E5%87%BA%E7%8F%BE%E6%9A%B4%E6%BC%B2%E7%9A%84%E6%98%AFDDR4%E7%94%A3%E5%93%81%E3%80%82%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%A8%98%E6%86%B6%E9%AB%94%E8%A3%BD%E9%80%A0%E5%95%86%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89%E7%9A%84DDR4%E7%94%A3%E5%93%81%E5%81%9C%E7%94%A3%E9%A0%90%E6%9C%9F%E5%8A%A0%E5%BC%B7%EF%BC%8C%E6%A0%B9%E6%93%9A%E4%B8%AD%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%8A%A0%E5%BC%B7AI%E5%92%8C%E9%9B%B2%E7%AB%AF%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%9F%E7%94%A3%E7%9A%84%E6%96%B9%E9%87%9D%EF%BC%8C%E5%B0%87%E8%BD%89%E5%90%91%E9%AB%98%E7%AB%AF%E7%94%A3%E5%93%81%E3%80%82%E6%8E%A8%E9%AB%98%E4%BA%86%E8%A1%8C%E6%83%85%E2%80%A6%E2%80%A6https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[CXMT](CXMT.md), [交易](交易.md), [半導體](半導體.md), [推高](推高.md), [行情](行情.md)
+[CXMT](CXMT.md), [交易](交易.md), [半導體](半導體.md), [推高](推高.md), [行情](行情.md), [長鑫](長鑫.md)
 ___
 ##### 2025-07-07 01:21:46 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM現貨價格1個月漲至2倍】作為指標的8GB DDR4型DRAM的價格最近1個月漲至逾2倍。三星等巨頭正在逐步撤出利潤率下降的DDR4，轉向DDR5等。有觀點認為中國的大型廠商也將分階段結束DDR4的生産……　https://t.c…
@@ -150,7 +150,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%8A%A0%E9%80%9F%E8%B7%8C%E5%83%B9%2C%E4%B8%AD%E5%9C%8B%E6%93%B4%E5%A4%A7%E4%BD%BF%E7%94%A8%E5%9C%8B%E7%94%A3%E5%93%81%E6%98%AF%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80%E3%80%911%E6%9C%88DRAM%E6%8C%87%E6%A8%99%E7%94%A3%E5%93%81%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E8%BC%83%E4%B8%8A%E6%9C%88%E4%B8%8B%E8%B7%8C6%EF%BC%85%EF%BC%8C%E9%80%A3%E7%BA%8C5%E5%80%8B%E6%9C%88%E4%B8%8B%E8%B7%8C%EF%BC%8C%E8%B7%8C%E5%B9%85%E4%B9%9F%E9%81%94%E5%88%B01%E5%B9%B4%E9%9B%B610%E5%80%8B%E6%9C%88%E4%BB%A5%E4%BE%86%E6%9C%80%E5%A4%A7%E3%80%82+%E5%9C%A8%E4%B8%AD%E5%9C%8B%EF%BC%8C%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E6%8A%80%E8%A1%93%E7%AD%89%E7%9A%84%E5%9C%8B%E7%94%A3%E7%94%A3%E5%93%81%E4%BA%AB%E5%8F%97%E8%A3%9C%E8%B2%BC%E6%94%BF%E7%AD%96%EF%BC%8C%E5%9B%A0%E6%AD%A4%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%A8%AD%E5%82%99%E8%A3%BD%E9%80%A0%E5%95%86%E7%AD%89%E8%B2%B7%E5%AE%B6%E6%B8%9B%E5%B0%91%E4%BA%86%E5%BE%9E%E5%A4%96%E5%9C%8B%E4%BC%81%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [交易](交易.md), [因此](因此.md), [政策](政策.md), [跌幅](跌幅.md)
+[下跌](下跌.md), [交易](交易.md), [因此](因此.md), [政策](政策.md), [跌幅](跌幅.md), [長鑫](長鑫.md)
 ___
 ##### 2024-11-27 03:13:56 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大宗價格10月跌3%，中國PC需求弱】10月記憶體廠商和需求方之間的談判以連續2個月降價達成妥協。以中國為中心，個人電腦等實際需求的放緩被意識到。另一方面，用於人工智慧（AI）伺服器的尖端産品的洽購持續強勁……https://t…

@@ -24,11 +24,12 @@
 | [比亚迪](../hanzi-cards/比亚迪.md)/[比亞迪](../hanzi-cards/比亞迪.md) | BYD | BYDDF | 324 |
 | [字节跳动](../hanzi-cards/字节跳动.md)/[字節跳動](../hanzi-cards/字節跳動.md) | ByteDance | (private) | 145 |
 | [佳能](../hanzi-cards/佳能.md) | Canon | CAJ | 46 |
+| [宁德时代](../hanzi-cards/宁德时代.md)/[寧德時代](../hanzi-cards/寧德時代.md) | CATL | 300750.SZ | 90 |
 | [香奈儿](../hanzi-cards/香奈儿.md) | Chanel | (private) | 2 |
 | [雪佛龙](../hanzi-cards/雪佛龙.md)/[雪佛龍](../hanzi-cards/雪佛龍.md) | Chevron | CVX | 17 |
 | [花旗集团](../hanzi-cards/花旗集团.md) | Citigroup | C | 38 |
 | [可口可乐](../hanzi-cards/可口可乐.md) | Coca-Cola | K | 21 |
-| [长鑫](../hanzi-cards/长鑫.md)/[長鑫](../hanzi-cards/長鑫.md) | CXMT |  "pre-IPO" | 10 |
+| [长鑫](../hanzi-cards/长鑫.md)/[長鑫](../hanzi-cards/長鑫.md) | CXMT |  "pre-IPO" | 15 |
 | [第一三共](../hanzi-cards/第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 6 |
 | [达能](../hanzi-cards/达能.md) | Danone | DANOY | 6 |
 | [深度求索](../hanzi-cards/深度求索.md)/[DeepSeek](../hanzi-cards/DeepSeek.md) | DeepSeek | (private) | 612 |
@@ -81,6 +82,7 @@
 | [莫德纳](../hanzi-cards/莫德纳.md) | Moderna | MRNA | 57 |
 | [无印良品](../hanzi-cards/无印良品.md)/[無印良品](../hanzi-cards/無印良品.md) | MUJI | RYKKY | 18 |
 | [村田](../hanzi-cards/村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 35 |
+| [南亞科技](../hanzi-cards/南亞科技.md) | Nanya Technology | 2408.TW | 1 |
 | [雀巢](../hanzi-cards/雀巢.md) | Nestlé S.A. | NSRGF | 18 |
 | [奈飞](../hanzi-cards/奈飞.md) | Netflix | NFLX | 11 |
 | [日本电产](../hanzi-cards/日本电产.md) | Nidec | NJDCY | 14 |
@@ -139,6 +141,7 @@
 | [沃尔玛](../hanzi-cards/沃尔玛.md) | Walmart | WMT | 54 |
 | [旺旺](../hanzi-cards/旺旺.md) | Want Want | 0151.HK | 2 |
 | [富国银行](../hanzi-cards/富国银行.md) | Wells Fargo | WFC | 14 |
+| [華邦電子](../hanzi-cards/華邦電子.md) | Winbond | 2344.TW | 2 |
 | [小米](../hanzi-cards/小米.md) | Xiaomi | XIACY | 207 |
 | [雅马哈](../hanzi-cards/雅马哈.md)/[雅馬哈](../hanzi-cards/雅馬哈.md) | Yamaha | YAMHY | 19 |
 | [安川电机](../hanzi-cards/安川电机.md) | Yaskawa Electric | YASKY | 17 |
