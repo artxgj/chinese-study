@@ -871,6 +871,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 垣,,yuán,low wall
 垮,,kuǎ,"be defeated, fail, collapse"
 垸,,yuàn,"a dyke, embankment"
+垻,坝,bà,an embankment; a slope over which boat pass
 埂,,gěng,ditches for irrigation; hole
 埃,,āi,"fine dust, dirt"
 埋,,mái,"bury, secrete, conceal"
@@ -1337,6 +1338,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 幔,,màn,"curtain, screen, tent"
 幕,,mù,"curtain, screen, tent"
 幗,帼,guó,women's headgear; mourning cap
+幞,,fú,turban
 幟,帜,zhì,"flag, pennant; sign; fasten"
 幡,,fān,"pennant, banner, streamer, flag"
 幢,,chuáng,carriage curtain; sun screen
@@ -1650,6 +1652,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 戚,,qī,relative; be related to; sad
 戛,,jiá,lance; tap or strike lightly
 戟,,jǐ,halberd with crescent blade
+戧,戗,qiāng,support
 截,,jié,"cut off, stop, obstruct, intersect"
 戮,,lù,"kill, massacre; oppress"
 戰,𢧐,zhàn,"war, fighting, battle"
@@ -2310,6 +2313,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 檻,槛,kǎn,"threshold, door-sill"
 櫃,柜,guì,"cupboard, wardrobe, counter"
 櫆,,kuí,"Polaris, the north star"
+櫓,橹,lǔ,"oar, scull; row"
 櫚,榈,lǘ,palm
 櫛,栉,zhì,"comb out; weed out, eliminate"
 櫟,栎,lì,chestnut-leaved oak; oak
@@ -2671,6 +2675,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 漱,,shù,"gargle, rinse; wash, scour"
 漲,涨,zhǎng,rise in price
 漳,,zhāng,name of a river in Henan
+漵,溆,xù,river in Húnán
 漸,渐,jiàn,gradually; hexagram ䷴
 漾,,yàng,"overflow; swirl, ripple; to be tossed by waves"
 漿,浆,jiāng,any thick fluid; starch; broth
@@ -3023,6 +3028,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 瑾,,jǐn,brilliance of gems; fine jade
 璀,,cuǐ,lustre of gems; glitter; shine
 璃,,lí,glass
+璋,,zhāng,jade plaything; jade ornament
 璐,,lù,beautiful variety of jade
 璜,,huáng,a semicircular jade ornament used as a pendant
 璞,,pú,"unpolished gem, uncarved gem"
@@ -3372,6 +3378,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 秦,,qín,feudal state of Qin; the Qin dynasty (from which the name 'China' comes)
 秧,,yāng,"rice seedlings, young rice plants"
 秩,,zhì,order; orderly; salary; decade
+秭,,zǐ,one billion; also used for higher powers of ten; a county in Hubei province
 称,,chēng,"call; name, brand; address; say"
 秸,,jiē,"stalks of millet, corn"
 移,,yí,"change place, shift; move about"
@@ -3918,6 +3925,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 舜,,shùn,"legendary ruler, last of the Five Emperors"
 舞,,wǔ,"dance, posture, prance; brandish"
 舟,,zhōu,"boat, ship; Kangxi radical 137"
+舢,,shān,sampan
 航,,háng,"sail; navigate; ship, boat"
 舫,,fǎng,"fancy boat, yacht"
 般,,bān,"sort, manner, kind, category"
@@ -4067,6 +4075,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 葷,荤,hūn,meat diet; strong smelling
 蒂,,dì,peduncle or stem of plants
 蒗,,làng,(寧蒗) Ninglong Yi Autonomous County in Yunnan
+蒙,,méng,cover; ignorant; suffer; Mongolia; hexagram ䷃
 蒙,𰰡,méng,cover; ignorant; suffer; Mongolia; hexagram ䷃
 蒜,,suàn,garlic
 蒨,,qiàn,"lush vegetation, luxuriant growth"
@@ -4244,6 +4253,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 螽,,zhōng,katydid
 蟀,,shuài,cricket
 蟄,蛰,zhé,to hibernate
+蟆,,má,"frog, toad"
 蟈,蝈,guō,small green frog; cicada
 蟋,,xī,cricket
 蟎,螨,mǎn,mite
@@ -5224,8 +5234,8 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 音,,yīn,"sound, tone, pitch, pronunciation; Kangxi radical 180"
 韵,,yùn,rhyme; vowel
 韶,,sháo,music of the emperor Shun; beautiful
-韻,韵,yùn,rhyme; vowel
 韻,𱂐,yùn,rhyme; vowel
+韻,韵,yùn,rhyme; vowel
 響,响,xiǎng,"make sound, make noise; sound"
 頁,页,yè,"page, sheet, leaf; Kangxi radical 181"
 頂,顶,dǐng,"top, peak; carry on head; very"
@@ -5330,24 +5340,19 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 駟,驷,sì,team of four horses
 駡,骂,mà,"accuse, blame, curse, scold"
 駭,骇,hài,"terrify, frighten, scare; shock"
-駰,骃,yīn,grey horse
 駱,骆,luò,a white horse with black mane; a camel
 駿,骏,jùn,"excellent horse, noble steed"
 騁,骋,chěng,"gallop; hasten, hurry"
-騅,骓,zhuī,piebald horse
 騎,骑,qí,ride horseback; mount; cavalry
 騏,骐,qí,piebald horse; excellent horse
 騖,骛,wù,"gallop; rush about; pursue, run"
 騙,骗,piàn,"swindle, cheat out of, defraud"
 騨,,tuó,dappled
 騫,骞,qiān,"raise, hold high; fly, soar"
-騮,骝,liú,famous horse
 騰,腾,téng,fly; gallop; run; prance; rise
 騷,骚,sāo,"harass, bother, annoy, disturb, agitate; sad, grieved"
 騾,骡,luó,mule
 驁,骜,ào,"wild horse, mustang; wild"
-驃,骠,biāo,"charger, steed; swift, valiant"
-驄,骢,cōng,horse with a bluish white color
 驅,驱,qū,"spur a horse on; expel, drive away"
 驊,骅,huá,an excellent horse
 驍,骁,xiāo,"excellent horse; brave, valiant"
@@ -5357,7 +5362,6 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 驛,驿,yì,relay station
 驟,骤,zhòu,procedure; gallop; sudden(ly)
 驢,驴,lǘ,"donkey, ass"
-驤,骧,xiāng,gallop about with head uplifted
 驥,骥,jì,thoroughbred horse; refined
 驪,骊,lí,a pure black horse; a pair of horses
 骨,,gǔ,"bone; skeleton; frame, framework; Kangxi radical 188"
@@ -5535,6 +5539,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 鼾,,hān,snore loudly
 齊,齐,qí,"even, uniform, of equal length; Kangxi radical 210"
 齋,斋,zhāi,"vegetarian diet; study; to fast, abstain"
+齏,齑,jī,"break or smash into pieces, pulverize; hash"
 齒,齿,chǐ,"teeth; gears, cogs; age; Kangxi radical 211"
 齡,龄,líng,age; years
 齦,龈,kěn,gums

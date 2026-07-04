@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Linux) for definition
 ### Tweets containing Linux
 
 ___
+##### 2026-06-30 18:10:59 UTC ~ 蓝点网
+> RT @landiantech: 红帽 ARM 团队高级软件工程师也解决不了 ARM 兼容性问题，在使用 11 个月的 AArch64 Linux 系统后，这名工程师从 80 核的 Ampere Altra CPU 换成 6 核 12 线程的 AMD 处理器。尤什凯维奇遇到…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E7%BA%A2%E5%B8%BD+ARM+%E5%9B%A2%E9%98%9F%E9%AB%98%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%9F%E8%A7%A3%E5%86%B3%E4%B8%8D%E4%BA%86+ARM+%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9C%A8%E4%BD%BF%E7%94%A8+11+%E4%B8%AA%E6%9C%88%E7%9A%84+AArch64+Linux+%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E8%BF%99%E5%90%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%BB%8E+80+%E6%A0%B8%E7%9A%84+Ampere+Altra+CPU+%E6%8D%A2%E6%88%90+6+%E6%A0%B8+12+%E7%BA%BF%E7%A8%8B%E7%9A%84+AMD+%E5%A4%84%E7%90%86%E5%99%A8%E3%80%82%E5%B0%A4%E4%BB%80%E5%87%AF%E7%BB%B4%E5%A5%87%E9%81%87%E5%88%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [处理](处理.md), [系统](系统.md)
+___
+##### 2026-06-29 06:51:08 UTC ~ lifcc
+> RT @mylifcc: 苹果官方开源神器来了！container v1.0.0 正式发布！在 Mac（Apple Silicon + macOS 26）上，用轻量级虚拟机原生运行 Linux 容器！ Swift 编写、Apple 虚拟化框架深度优化、OCI 完全兼容。再…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40mylifcc%3A+%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%E6%9D%A5%E4%BA%86%EF%BC%81container+v1.0.0+%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%81%E5%9C%A8+Mac%EF%BC%88Apple+Silicon+%2B+macOS+26%EF%BC%89%E4%B8%8A%EF%BC%8C%E7%94%A8%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%8E%9F%E7%94%9F%E8%BF%90%E8%A1%8C+Linux+%E5%AE%B9%E5%99%A8%EF%BC%81+Swift+%E7%BC%96%E5%86%99%E3%80%81Apple+%E8%99%9A%E6%8B%9F%E5%8C%96%E6%A1%86%E6%9E%B6%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%8C%96%E3%80%81OCI+%E5%AE%8C%E5%85%A8%E5%85%BC%E5%AE%B9%E3%80%82%E5%86%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [mac](mac.md), [优化](优化.md), [发布](发布.md), [开源](开源.md), [正式](正式.md), [苹果](苹果.md)
+___
+##### 2026-06-14 01:47:21 UTC ~ 小弟调调
+> RT @jaywcjlove: Apple Container 发布了 v1.0它是用轻量 VM 跑 OCI Linux 容器与Docker区别：Docker Desktop用共享VM + Linux内核模拟；Apple版隔离更好、启动更快、更Mac原生，但生态新、功能…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40jaywcjlove%3A+Apple+Container+%E5%8F%91%E5%B8%83%E4%BA%86+v1.0%E5%AE%83%E6%98%AF%E7%94%A8%E8%BD%BB%E9%87%8F+VM+%E8%B7%91+OCI+Linux+%E5%AE%B9%E5%99%A8%E4%B8%8EDocker%E5%8C%BA%E5%88%AB%EF%BC%9ADocker+Desktop%E7%94%A8%E5%85%B1%E4%BA%ABVM+%2B+Linux%E5%86%85%E6%A0%B8%E6%A8%A1%E6%8B%9F%EF%BC%9BApple%E7%89%88%E9%9A%94%E7%A6%BB%E6%9B%B4%E5%A5%BD%E3%80%81%E5%90%AF%E5%8A%A8%E6%9B%B4%E5%BF%AB%E3%80%81%E6%9B%B4Mac%E5%8E%9F%E7%94%9F%EF%BC%8C%E4%BD%86%E7%94%9F%E6%80%81%E6%96%B0%E3%80%81%E5%8A%9F%E8%83%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [共享](共享.md), [发布](发布.md), [启动](启动.md), [模拟](模拟.md), [生态](生态.md), [隔离](隔离.md)
+___
+##### 2026-06-13 00:31:12 UTC ~ 黄小木
+> RT @ai_xiaomu: 苹果官方出的github库：apple/container用Swift开发 ,专门给Apple芯片优化。干一件事: 在Mac上用轻量虚拟机跑Linux容器 ,不再依赖Docker Desktop那一套笨重的东西。本地起开发环境更快、更省…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ai_xiaomu%3A+%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E5%87%BA%E7%9A%84github%E5%BA%93%EF%BC%9Aapple%2Fcontainer%E7%94%A8Swift%E5%BC%80%E5%8F%91+%2C%E4%B8%93%E9%97%A8%E7%BB%99Apple%E8%8A%AF%E7%89%87%E4%BC%98%E5%8C%96%E3%80%82%E5%B9%B2%E4%B8%80%E4%BB%B6%E4%BA%8B%3A+%E5%9C%A8Mac%E4%B8%8A%E7%94%A8%E8%BD%BB%E9%87%8F%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%B7%91Linux%E5%AE%B9%E5%99%A8+%2C%E4%B8%8D%E5%86%8D%E4%BE%9D%E8%B5%96Docker+Desktop%E9%82%A3%E4%B8%80%E5%A5%97%E7%AC%A8%E9%87%8D%E7%9A%84%E4%B8%9C%E8%A5%BF%E3%80%82%E6%9C%AC%E5%9C%B0%E8%B5%B7%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%9B%B4%E5%BF%AB%E3%80%81%E6%9B%B4%E7%9C%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [优化](优化.md), [依赖](依赖.md), [开发](开发.md), [芯片](芯片.md), [苹果](苹果.md)
+___
+##### 2026-06-05 16:33:47 UTC ~ Jingchao
+> RT @alswl: 你知道 Linux 内核有一个 1997 年就引入的特性，让 Apple Silicon Mac 能高效运行 x86 容器吗？它叫 binfmt_misc，Linux 2.1.43 引入，距今快 30 年了。原理极其简单： Linux 内核在执行一…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40alswl%3A+%E4%BD%A0%E7%9F%A5%E9%81%93+Linux+%E5%86%85%E6%A0%B8%E6%9C%89%E4%B8%80%E4%B8%AA+1997+%E5%B9%B4%E5%B0%B1%E5%BC%95%E5%85%A5%E7%9A%84%E7%89%B9%E6%80%A7%EF%BC%8C%E8%AE%A9+Apple+Silicon+Mac+%E8%83%BD%E9%AB%98%E6%95%88%E8%BF%90%E8%A1%8C+x86+%E5%AE%B9%E5%99%A8%E5%90%97%EF%BC%9F%E5%AE%83%E5%8F%AB+binfmt_misc%EF%BC%8CLinux+2.1.43+%E5%BC%95%E5%85%A5%EF%BC%8C%E8%B7%9D%E4%BB%8A%E5%BF%AB+30+%E5%B9%B4%E4%BA%86%E3%80%82%E5%8E%9F%E7%90%86%E6%9E%81%E5%85%B6%E7%AE%80%E5%8D%95%EF%BC%9A+Linux+%E5%86%85%E6%A0%B8%E5%9C%A8%E6%89%A7%E8%A1%8C%E4%B8%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [执行](执行.md)
+___
 ##### 2026-01-06 15:08:48 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 经常需要截图分享给朋友，或者录制操作演示，Windows 上的 ShareX 好用，但切换到 Linux 或 macOS 系统就没法用了。偶然看到 SnapX 这个开源项目，基于 ShareX 重构，实现了真正的跨平台支持，Linux、W…
 
@@ -49,7 +84,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [代码](代码.md)
 ___
-##### 2025-06-21 06:05:48 UTC ~ Cyandev
+##### 2025-06-21 06:05:48 UTC ~ 
 > RT @unixzii: 找到了在 Mac 下读取 ext4 的奇技淫巧：自己用 Virtualization 框架写个虚拟机，得益于它支持操作 host 的 block device，可以让 guest Linux 直接读写外置硬盘然后用 dufs 暴露出去。 https:/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%E6%89%BE%E5%88%B0%E4%BA%86%E5%9C%A8+Mac+%E4%B8%8B%E8%AF%BB%E5%8F%96+ext4+%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7%EF%BC%9A%E8%87%AA%E5%B7%B1%E7%94%A8+Virtualization+%E6%A1%86%E6%9E%B6%E5%86%99%E4%B8%AA%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%8C%E5%BE%97%E7%9B%8A%E4%BA%8E%E5%AE%83%E6%94%AF%E6%8C%81%E6%93%8D%E4%BD%9C+host+%E7%9A%84+block+device%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AE%A9+guest+Linux+%E7%9B%B4%E6%8E%A5%E8%AF%BB%E5%86%99%E5%A4%96%E7%BD%AE%E7%A1%AC%E7%9B%98%E7%84%B6%E5%90%8E%E7%94%A8+dufs+%E6%9A%B4%E9%9C%B2%E5%87%BA%E5%8E%BB%E3%80%82+https%3A%2F%E2%80%A6)

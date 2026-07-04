@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2026-06-14 02:02:22 UTC ~ Geek
+> RT @geekbb: 监控 AI agent 进程（Claude Code、Codex、MCP 服务器等）的内存、CPU 和磁盘占用，检测泄漏/僵尸进程，并用你自己的 AI CLI 给出清理建议。https://t.co/tARu9S8p4I https://t.co/w…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E7%9B%91%E6%8E%A7+AI+agent+%E8%BF%9B%E7%A8%8B%EF%BC%88Claude+Code%E3%80%81Codex%E3%80%81MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AD%89%EF%BC%89%E7%9A%84%E5%86%85%E5%AD%98%E3%80%81CPU+%E5%92%8C%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8%EF%BC%8C%E6%A3%80%E6%B5%8B%E6%B3%84%E6%BC%8F%2F%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E7%94%A8%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84+AI+CLI+%E7%BB%99%E5%87%BA%E6%B8%85%E7%90%86%E5%BB%BA%E8%AE%AE%E3%80%82https%3A%2F%2Ft.co%2FtARu9S8p4I+https%3A%2F%2Ft.co%2Fw%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [检测](检测.md), [泄漏](泄漏.md), [进程](进程.md)
+___
 ##### 2025-10-08 03:05:34 UTC ~ GitHubDaily
 > RT @GitHub_Daily: Apple MCP 这个开源 MCP 服务器颇为实用，让 AI 助手直接帮我们操作 Mac 上各种原生应用。已支持信息、邮件、日历、提醒事项、通讯录、地图等应用的自动化操作。甚至还能执行复杂的链式任务，比如说：“获取当天会议笔记，找到…
 

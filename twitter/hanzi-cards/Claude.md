@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2026-06-29 06:29:27 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【Anthropic或于本週恢復提供AI模型「Fable」】預計Anthropic繼尖端AI「Claude Mythos」之後，近期將恢復提供同等性能的「Fable」。中國企業也出現了先進模型，有聲音擔憂美國企業能否保持競爭優勢……ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic%E6%88%96%E4%BA%8E%E6%9C%AC%E9%80%B1%E6%81%A2%E5%BE%A9%E6%8F%90%E4%BE%9BAI%E6%A8%A1%E5%9E%8B%E3%80%8CFable%E3%80%8D%E3%80%91%E9%A0%90%E8%A8%88Anthropic%E7%B9%BC%E5%B0%96%E7%AB%AFAI%E3%80%8CClaude+Mythos%E3%80%8D%E4%B9%8B%E5%BE%8C%EF%BC%8C%E8%BF%91%E6%9C%9F%E5%B0%87%E6%81%A2%E5%BE%A9%E6%8F%90%E4%BE%9B%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E7%9A%84%E3%80%8CFable%E3%80%8D%E3%80%82%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%B9%9F%E5%87%BA%E7%8F%BE%E4%BA%86%E5%85%88%E9%80%B2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%9C%89%E8%81%B2%E9%9F%B3%E6%93%94%E6%86%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E8%83%BD%E5%90%A6%E4%BF%9D%E6%8C%81%E7%AB%B6%E7%88%AD%E5%84%AA%E5%8B%A2%E2%80%A6%E2%80%A6ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [型](型.md), [尖端](尖端.md), [提供](提供.md), [擔憂](擔憂.md), [模型](模型.md), [美國](美國.md), [預計](預計.md)
+___
+##### 2026-06-14 02:02:22 UTC ~ Geek
+> RT @geekbb: 监控 AI agent 进程（Claude Code、Codex、MCP 服务器等）的内存、CPU 和磁盘占用，检测泄漏/僵尸进程，并用你自己的 AI CLI 给出清理建议。https://t.co/tARu9S8p4I https://t.co/w…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E7%9B%91%E6%8E%A7+AI+agent+%E8%BF%9B%E7%A8%8B%EF%BC%88Claude+Code%E3%80%81Codex%E3%80%81MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AD%89%EF%BC%89%E7%9A%84%E5%86%85%E5%AD%98%E3%80%81CPU+%E5%92%8C%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8%EF%BC%8C%E6%A3%80%E6%B5%8B%E6%B3%84%E6%BC%8F%2F%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E7%94%A8%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84+AI+CLI+%E7%BB%99%E5%87%BA%E6%B8%85%E7%90%86%E5%BB%BA%E8%AE%AE%E3%80%82https%3A%2F%2Ft.co%2FtARu9S8p4I+https%3A%2F%2Ft.co%2Fw%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[MCP](MCP.md), [检测](检测.md), [泄漏](泄漏.md), [进程](进程.md)
+___
+##### 2026-06-04 00:29:06 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Anthropic正将其面向AI产品第三方销售商的“Claude合作伙伴网络”计划正式化，以“推动公司收入的持久性”。这家公司周一表示，已机密提交IPO申请。https://t.co/pT9sCavAHc
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Anthropic%E6%AD%A3%E5%B0%86%E5%85%B6%E9%9D%A2%E5%90%91AI%E4%BA%A7%E5%93%81%E7%AC%AC%E4%B8%89%E6%96%B9%E9%94%80%E5%94%AE%E5%95%86%E7%9A%84%E2%80%9CClaude%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E7%BD%91%E7%BB%9C%E2%80%9D%E8%AE%A1%E5%88%92%E6%AD%A3%E5%BC%8F%E5%8C%96%EF%BC%8C%E4%BB%A5%E2%80%9C%E6%8E%A8%E5%8A%A8%E5%85%AC%E5%8F%B8%E6%94%B6%E5%85%A5%E7%9A%84%E6%8C%81%E4%B9%85%E6%80%A7%E2%80%9D%E3%80%82%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%91%A8%E4%B8%80%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B7%B2%E6%9C%BA%E5%AF%86%E6%8F%90%E4%BA%A4IPO%E7%94%B3%E8%AF%B7%E3%80%82https%3A%2F%2Ft.co%2FpT9sCavAHc)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [推动](推动.md), [收入](收入.md), [正式](正式.md), [申请](申请.md), [计划](计划.md), [销售](销售.md)
+___
 ##### 2026-04-20 06:38:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 【我佩服Anthropic的一点是，不管外面的风如何吹，他们都雷打不动地做着认为是对的和重要的事。#孙德俊】#南洋商报 #人工智能 #Anthropic #Claude https://t.co/NLe7TRJMIL https://t.…
 

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-06-30 18:10:59 UTC ~ 蓝点网
+> RT @landiantech: 红帽 ARM 团队高级软件工程师也解决不了 ARM 兼容性问题，在使用 11 个月的 AArch64 Linux 系统后，这名工程师从 80 核的 Ampere Altra CPU 换成 6 核 12 线程的 AMD 处理器。尤什凯维奇遇到…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E7%BA%A2%E5%B8%BD+ARM+%E5%9B%A2%E9%98%9F%E9%AB%98%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%B9%9F%E8%A7%A3%E5%86%B3%E4%B8%8D%E4%BA%86+ARM+%E5%85%BC%E5%AE%B9%E6%80%A7%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9C%A8%E4%BD%BF%E7%94%A8+11+%E4%B8%AA%E6%9C%88%E7%9A%84+AArch64+Linux+%E7%B3%BB%E7%BB%9F%E5%90%8E%EF%BC%8C%E8%BF%99%E5%90%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E4%BB%8E+80+%E6%A0%B8%E7%9A%84+Ampere+Altra+CPU+%E6%8D%A2%E6%88%90+6+%E6%A0%B8+12+%E7%BA%BF%E7%A8%8B%E7%9A%84+AMD+%E5%A4%84%E7%90%86%E5%99%A8%E3%80%82%E5%B0%A4%E4%BB%80%E5%87%AF%E7%BB%B4%E5%A5%87%E9%81%87%E5%88%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Linux](Linux.md), [处理](处理.md), [系统](系统.md)
+___
 ##### 2026-06-02 06:35:38 UTC ~ 何頻
 > RT @MJTVHoPin: 黃仁勳正式殺進Windows筆電市場！輝達向英特爾、AMD發起正面挑戰全球AI晶片霸主 Jensen Huang（黃仁勳）6月1日在台北國際電腦展（Computex）宣布，輝達（NVIDIA）將正式進軍Windows筆記型電腦核心處理器市場，推…
 

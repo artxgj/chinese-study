@@ -8,6 +8,76 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2026-06-30 17:54:27 UTC ~ 蓝点网
+> RT @landiantech: 在更多内部机密数据被泄露后，苹果对印度塔塔集团数据泄露事件表示担忧，但没有给出其他任何回应。早前在印度帮助苹果组装的 #iPhone 的塔塔电子遭到黑客攻击，由于塔塔电子并未支付赎金，所以这几天黑客已经开始陆续泄露来自苹果的内部数据，包括…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E5%9C%A8%E6%9B%B4%E5%A4%9A%E5%86%85%E9%83%A8%E6%9C%BA%E5%AF%86%E6%95%B0%E6%8D%AE%E8%A2%AB%E6%B3%84%E9%9C%B2%E5%90%8E%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%A1%94%E5%A1%94%E9%9B%86%E5%9B%A2%E6%95%B0%E6%8D%AE%E6%B3%84%E9%9C%B2%E4%BA%8B%E4%BB%B6%E8%A1%A8%E7%A4%BA%E6%8B%85%E5%BF%A7%EF%BC%8C%E4%BD%86%E6%B2%A1%E6%9C%89%E7%BB%99%E5%87%BA%E5%85%B6%E4%BB%96%E4%BB%BB%E4%BD%95%E5%9B%9E%E5%BA%94%E3%80%82%E6%97%A9%E5%89%8D%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%B8%AE%E5%8A%A9%E8%8B%B9%E6%9E%9C%E7%BB%84%E8%A3%85%E7%9A%84+%23iPhone+%E7%9A%84%E5%A1%94%E5%A1%94%E7%94%B5%E5%AD%90%E9%81%AD%E5%88%B0%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB%EF%BC%8C%E7%94%B1%E4%BA%8E%E5%A1%94%E5%A1%94%E7%94%B5%E5%AD%90%E5%B9%B6%E6%9C%AA%E6%94%AF%E4%BB%98%E8%B5%8E%E9%87%91%EF%BC%8C%E6%89%80%E4%BB%A5%E8%BF%99%E5%87%A0%E5%A4%A9%E9%BB%91%E5%AE%A2%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E9%99%86%E7%BB%AD%E6%B3%84%E9%9C%B2%E6%9D%A5%E8%87%AA%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [印度](印度.md), [担忧](担忧.md), [支付](支付.md), [数据](数据.md), [来自](来自.md), [组装](组装.md), [苹果](苹果.md), [陆续](陆续.md)
+___
+##### 2026-06-30 17:40:28 UTC ~ 奶昔🥤
+> RT @realNyarime: 网传塔塔电子把苹果印度工厂把工程资料全漏了，其中包括秋季即将上市的iPhone 18 Pro主板原理图、芯片手册等等资料喜欢折腾PCB的佬可以手搓Apple开发板，属于是库克卸任前给新CEO特努斯整了个大的 https://t.co/JHc0…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40realNyarime%3A+%E7%BD%91%E4%BC%A0%E5%A1%94%E5%A1%94%E7%94%B5%E5%AD%90%E6%8A%8A%E8%8B%B9%E6%9E%9C%E5%8D%B0%E5%BA%A6%E5%B7%A5%E5%8E%82%E6%8A%8A%E5%B7%A5%E7%A8%8B%E8%B5%84%E6%96%99%E5%85%A8%E6%BC%8F%E4%BA%86%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%AC%E7%A7%8B%E5%AD%A3%E5%8D%B3%E5%B0%86%E4%B8%8A%E5%B8%82%E7%9A%84iPhone+18+Pro%E4%B8%BB%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE%E3%80%81%E8%8A%AF%E7%89%87%E6%89%8B%E5%86%8C%E7%AD%89%E7%AD%89%E8%B5%84%E6%96%99%E5%96%9C%E6%AC%A2%E6%8A%98%E8%85%BEPCB%E7%9A%84%E4%BD%AC%E5%8F%AF%E4%BB%A5%E6%89%8B%E6%90%93Apple%E5%BC%80%E5%8F%91%E6%9D%BF%EF%BC%8C%E5%B1%9E%E4%BA%8E%E6%98%AF%E5%BA%93%E5%85%8B%E5%8D%B8%E4%BB%BB%E5%89%8D%E7%BB%99%E6%96%B0CEO%E7%89%B9%E5%8A%AA%E6%96%AF%E6%95%B4%E4%BA%86%E4%B8%AA%E5%A4%A7%E7%9A%84+https%3A%2F%2Ft.co%2FJHc0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [印度](印度.md), [卸任](卸任.md), [开发](开发.md), [芯片](芯片.md), [苹果](苹果.md)
+___
+##### 2026-06-28 06:30:42 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: iPhone 18 Pro 主機板最新洩漏顯示，A20 Pro 已採用全新 WMCM封裝，正式取代 A19 Pro 所使用的 PoP技術。這是蘋果晶片封裝技術的重要轉變。DRAM 位置從晶片頂部移至側邊，可大幅改善熱傳導路徑，提升整體散熱效率，有助於…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+iPhone+18+Pro+%E4%B8%BB%E6%A9%9F%E6%9D%BF%E6%9C%80%E6%96%B0%E6%B4%A9%E6%BC%8F%E9%A1%AF%E7%A4%BA%EF%BC%8CA20+Pro+%E5%B7%B2%E6%8E%A1%E7%94%A8%E5%85%A8%E6%96%B0+WMCM%E5%B0%81%E8%A3%9D%EF%BC%8C%E6%AD%A3%E5%BC%8F%E5%8F%96%E4%BB%A3+A19+Pro+%E6%89%80%E4%BD%BF%E7%94%A8%E7%9A%84+PoP%E6%8A%80%E8%A1%93%E3%80%82%E9%80%99%E6%98%AF%E8%98%8B%E6%9E%9C%E6%99%B6%E7%89%87%E5%B0%81%E8%A3%9D%E6%8A%80%E8%A1%93%E7%9A%84%E9%87%8D%E8%A6%81%E8%BD%89%E8%AE%8A%E3%80%82DRAM+%E4%BD%8D%E7%BD%AE%E5%BE%9E%E6%99%B6%E7%89%87%E9%A0%82%E9%83%A8%E7%A7%BB%E8%87%B3%E5%81%B4%E9%82%8A%EF%BC%8C%E5%8F%AF%E5%A4%A7%E5%B9%85%E6%94%B9%E5%96%84%E7%86%B1%E5%82%B3%E5%B0%8E%E8%B7%AF%E5%BE%91%EF%BC%8C%E6%8F%90%E5%8D%87%E6%95%B4%E9%AB%94%E6%95%A3%E7%86%B1%E6%95%88%E7%8E%87%EF%BC%8C%E6%9C%89%E5%8A%A9%E6%96%BC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [取代](取代.md), [大幅](大幅.md), [效率](效率.md), [晶片](晶片.md), [正式](正式.md), [蘋果](蘋果.md)
+___
+##### 2026-06-27 08:23:56 UTC ~ 拖拉机
+> RT @tuolaji2024: 华强北，今天 iPhone 和大部分苹果产品大量不发货了，整个市场都在涨价和抬价，未来存储成本占 iPhone  bom 成本的 40-50% 以上，买存储送手机的时代来了，下半年存储涨价的预期拉到了 50-70% 以上，国产安卓厂商的末日开始…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tuolaji2024%3A+%E5%8D%8E%E5%BC%BA%E5%8C%97%EF%BC%8C%E4%BB%8A%E5%A4%A9+iPhone+%E5%92%8C%E5%A4%A7%E9%83%A8%E5%88%86%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%A4%A7%E9%87%8F%E4%B8%8D%E5%8F%91%E8%B4%A7%E4%BA%86%EF%BC%8C%E6%95%B4%E4%B8%AA%E5%B8%82%E5%9C%BA%E9%83%BD%E5%9C%A8%E6%B6%A8%E4%BB%B7%E5%92%8C%E6%8A%AC%E4%BB%B7%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%AD%98%E5%82%A8%E6%88%90%E6%9C%AC%E5%8D%A0+iPhone++bom+%E6%88%90%E6%9C%AC%E7%9A%84+40-50%25+%E4%BB%A5%E4%B8%8A%EF%BC%8C%E4%B9%B0%E5%AD%98%E5%82%A8%E9%80%81%E6%89%8B%E6%9C%BA%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86%EF%BC%8C%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E7%9A%84%E9%A2%84%E6%9C%9F%E6%8B%89%E5%88%B0%E4%BA%86+50-70%25+%E4%BB%A5%E4%B8%8A%EF%BC%8C%E5%9B%BD%E4%BA%A7%E5%AE%89%E5%8D%93%E5%8E%82%E5%95%86%E7%9A%84%E6%9C%AB%E6%97%A5%E5%BC%80%E5%A7%8B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[厂商](厂商.md), [存储](存储.md), [安卓](安卓.md), [成本](成本.md), [涨价](涨价.md), [苹果](苹果.md), [预期](预期.md)
+___
+##### 2026-06-26 01:54:36 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 周四清晨，苹果公司上调了Mac和iPad的售价。iPhone售价保持不变，不过该公司在一份声明中暗示后续或进一步提价。苹果股价周四下跌6.1%。https://t.co/Ueh79ZqZny
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%91%A8%E5%9B%9B%E6%B8%85%E6%99%A8%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%8A%E8%B0%83%E4%BA%86Mac%E5%92%8CiPad%E7%9A%84%E5%94%AE%E4%BB%B7%E3%80%82iPhone%E5%94%AE%E4%BB%B7%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98%EF%BC%8C%E4%B8%8D%E8%BF%87%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%80%E4%BB%BD%E5%A3%B0%E6%98%8E%E4%B8%AD%E6%9A%97%E7%A4%BA%E5%90%8E%E7%BB%AD%E6%88%96%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8F%90%E4%BB%B7%E3%80%82%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E5%91%A8%E5%9B%9B%E4%B8%8B%E8%B7%8C6.1%25%E3%80%82https%3A%2F%2Ft.co%2FUeh79ZqZny)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [下跌](下跌.md), [售价](售价.md), [苹果](苹果.md)
+___
+##### 2026-06-22 15:36:10 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苹果公司之所以能如此自信地提高产品价格，原因之一是：在争夺全球最富裕的智能手机买家方面，iPhone已经击溃了竞争对手。本文图解分析了苹果公司在财力最雄厚的全球买家群体中近乎垄断的地位。https://t.co/V3MGsaqk8R
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B9%8B%E6%89%80%E4%BB%A5%E8%83%BD%E5%A6%82%E6%AD%A4%E8%87%AA%E4%BF%A1%E5%9C%B0%E6%8F%90%E9%AB%98%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%EF%BC%8C%E5%8E%9F%E5%9B%A0%E4%B9%8B%E4%B8%80%E6%98%AF%EF%BC%9A%E5%9C%A8%E4%BA%89%E5%A4%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E8%A3%95%E7%9A%84%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E4%B9%B0%E5%AE%B6%E6%96%B9%E9%9D%A2%EF%BC%8CiPhone%E5%B7%B2%E7%BB%8F%E5%87%BB%E6%BA%83%E4%BA%86%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E3%80%82%E6%9C%AC%E6%96%87%E5%9B%BE%E8%A7%A3%E5%88%86%E6%9E%90%E4%BA%86%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9C%A8%E8%B4%A2%E5%8A%9B%E6%9C%80%E9%9B%84%E5%8E%9A%E7%9A%84%E5%85%A8%E7%90%83%E4%B9%B0%E5%AE%B6%E7%BE%A4%E4%BD%93%E4%B8%AD%E8%BF%91%E4%B9%8E%E5%9E%84%E6%96%AD%E7%9A%84%E5%9C%B0%E4%BD%8D%E3%80%82https%3A%2F%2Ft.co%2FV3MGsaqk8R)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [分析](分析.md), [垄断](垄断.md), [富裕](富裕.md), [提高](提高.md), [竞争](竞争.md), [群体](群体.md), [自信](自信.md), [苹果](苹果.md)
+___
+##### 2026-06-16 11:37:25 UTC ~ Geek
+> RT @geekbb: 在 macOS 上下载 iOS App 的 IPA 历史版本，并可隔空投送至 iPhone/iPad 安装使用。https://t.co/XWvezj1uJR https://t.co/XFim0RRK0O
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E5%9C%A8+macOS+%E4%B8%8A%E4%B8%8B%E8%BD%BD+iOS+App+%E7%9A%84+IPA+%E5%8E%86%E5%8F%B2%E7%89%88%E6%9C%AC%EF%BC%8C%E5%B9%B6%E5%8F%AF%E9%9A%94%E7%A9%BA%E6%8A%95%E9%80%81%E8%87%B3+iPhone%2FiPad+%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2FXWvezj1uJR+https%3A%2F%2Ft.co%2FXFim0RRK0O)
+##### Other Words/Names of Interest in the Above Tweet
+[iOS](iOS.md), [mac](mac.md)
+___
+##### 2026-06-13 18:00:19 UTC ~ 朱峰
+> RT @zhufengme: 这操作我熟，去年我也是买了个一加的备用机，结果没俩月iPhone就成备用机了。。。后来嫌一加存储买小了，又换了个oppo。现在oppo是主力，iPhone只拿来刷推和用海外服务，网银啥的…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zhufengme%3A+%E8%BF%99%E6%93%8D%E4%BD%9C%E6%88%91%E7%86%9F%EF%BC%8C%E5%8E%BB%E5%B9%B4%E6%88%91%E4%B9%9F%E6%98%AF%E4%B9%B0%E4%BA%86%E4%B8%AA%E4%B8%80%E5%8A%A0%E7%9A%84%E5%A4%87%E7%94%A8%E6%9C%BA%EF%BC%8C%E7%BB%93%E6%9E%9C%E6%B2%A1%E4%BF%A9%E6%9C%88iPhone%E5%B0%B1%E6%88%90%E5%A4%87%E7%94%A8%E6%9C%BA%E4%BA%86%E3%80%82%E3%80%82%E3%80%82%E5%90%8E%E6%9D%A5%E5%AB%8C%E4%B8%80%E5%8A%A0%E5%AD%98%E5%82%A8%E4%B9%B0%E5%B0%8F%E4%BA%86%EF%BC%8C%E5%8F%88%E6%8D%A2%E4%BA%86%E4%B8%AAoppo%E3%80%82%E7%8E%B0%E5%9C%A8oppo%E6%98%AF%E4%B8%BB%E5%8A%9B%EF%BC%8CiPhone%E5%8F%AA%E6%8B%BF%E6%9D%A5%E5%88%B7%E6%8E%A8%E5%92%8C%E7%94%A8%E6%B5%B7%E5%A4%96%E6%9C%8D%E5%8A%A1%EF%BC%8C%E7%BD%91%E9%93%B6%E5%95%A5%E7%9A%84%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[存储](存储.md), [操作](操作.md)
+___
+##### 2026-06-13 17:29:10 UTC ~ 小鹏Digital
+> RT @RocM301: iOS 27 首个开发者测试版里，iPhone 17 Pro 和 iPhone Air 的新一代 AI 语音听写默认没开。也就是说，刚升级到 beta 版时，用户不会立刻用上这个基于大模型的听写功能。想体验的话，需要手动把它打开。导航到“通用”-&gt;…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40RocM301%3A+iOS+27+%E9%A6%96%E4%B8%AA%E5%BC%80%E5%8F%91%E8%80%85%E6%B5%8B%E8%AF%95%E7%89%88%E9%87%8C%EF%BC%8CiPhone+17+Pro+%E5%92%8C+iPhone+Air+%E7%9A%84%E6%96%B0%E4%B8%80%E4%BB%A3+AI+%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99%E9%BB%98%E8%AE%A4%E6%B2%A1%E5%BC%80%E3%80%82%E4%B9%9F%E5%B0%B1%E6%98%AF%E8%AF%B4%EF%BC%8C%E5%88%9A%E5%8D%87%E7%BA%A7%E5%88%B0+beta+%E7%89%88%E6%97%B6%EF%BC%8C%E7%94%A8%E6%88%B7%E4%B8%8D%E4%BC%9A%E7%AB%8B%E5%88%BB%E7%94%A8%E4%B8%8A%E8%BF%99%E4%B8%AA%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%90%AC%E5%86%99%E5%8A%9F%E8%83%BD%E3%80%82%E6%83%B3%E4%BD%93%E9%AA%8C%E7%9A%84%E8%AF%9D%EF%BC%8C%E9%9C%80%E8%A6%81%E6%89%8B%E5%8A%A8%E6%8A%8A%E5%AE%83%E6%89%93%E5%BC%80%E3%80%82%E5%AF%BC%E8%88%AA%E5%88%B0%E2%80%9C%E9%80%9A%E7%94%A8%E2%80%9D-%26gt%3B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iOS](iOS.md), [升级](升级.md), [型](型.md), [开发](开发.md), [模型](模型.md)
+___
+##### 2026-06-09 03:05:05 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 苹果公司周一展示了新版Siri聊天机器人。这项技术是与谷歌合作开发的，这家iPhone制造商希望借此助力其在人工智能领域重振旗鼓。https://t.co/uR9eqW24Nn
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%91%A8%E4%B8%80%E5%B1%95%E7%A4%BA%E4%BA%86%E6%96%B0%E7%89%88Siri%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%82%E8%BF%99%E9%A1%B9%E6%8A%80%E6%9C%AF%E6%98%AF%E4%B8%8E%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E7%9A%84%EF%BC%8C%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%B8%8C%E6%9C%9B%E5%80%9F%E6%AD%A4%E5%8A%A9%E5%8A%9B%E5%85%B6%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E9%87%8D%E6%8C%AF%E6%97%97%E9%BC%93%E3%80%82https%3A%2F%2Ft.co%2FuR9eqW24Nn)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [开发](开发.md), [技术](技术.md), [机器人](机器人.md), [聊天](聊天.md), [苹果](苹果.md), [谷歌](谷歌.md), [领域](领域.md)
+___
 ##### 2026-06-02 15:38:16 UTC ~ TechNews 科技新報
 > RT @technews_tw: 蘋果計劃 2026 年下半年發布 iPhone 18 Pro 首次引入可變光圈主鏡頭！郭明錤透露新鏡頭模組採購成本較現有型號高約 50%。 #蘋果 #iPhone18Pro #可變光圈 https://t.co/O8V61cP5x5
 
@@ -2033,76 +2103,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A%E5%A6%82%E5%90%8CiPhone%E5%95%8F%E4%B8%96%E3%80%91%E4%BC%8A%E8%97%A4%E5%BF%A0%E7%B8%BD%E7%A0%94%E4%B8%BB%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1+%E6%B7%B1%E5%B0%BE%E4%B8%89%E5%9B%9B%E9%83%8E%EF%BC%9A%E5%B0%B1%E5%83%8F%E8%B3%88%E4%BC%AF%E6%96%AF%E7%99%BC%E4%BD%88%E7%AC%AC%E4%B8%80%E4%BB%A3iPhone%E6%99%82%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%88%91%E6%84%9F%E5%88%B0%E5%8D%81%E5%88%86%E9%9C%87%E9%A9%9A%E3%80%82%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E4%BA%86%E3%80%8CApple+Car%E3%80%8D%E6%A7%8B%E6%83%B3%EF%BC%8C%E8%80%8C%E5%B0%8F%E7%B1%B3%E4%BB%A3%E6%9B%BF%E8%98%8B%E6%9E%9C%E6%89%93%E9%80%A0%E4%BA%86%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CEV%E7%9B%B8%E7%B5%90%E5%90%88%E7%9A%84%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E3%80%82%E7%AB%99%E5%9C%A8%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E8%A7%92%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [小米](小米.md), [打造](打造.md), [日本](日本.md), [蘋果](蘋果.md)
-___
-##### 2024-03-29 11:55:44 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 在消费业务复苏(相对于苹果的iPhone)及云部门的崛起(相对于现有强者阿里巴巴)加持下，华为的季度获利持续强劲增长。https://t.co/p4xuZKXuOO https://t.co/RaXDlvqtXi
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%9C%A8%E6%B6%88%E8%B4%B9%E4%B8%9A%E5%8A%A1%E5%A4%8D%E8%8B%8F%28%E7%9B%B8%E5%AF%B9%E4%BA%8E%E8%8B%B9%E6%9E%9C%E7%9A%84iPhone%29%E5%8F%8A%E4%BA%91%E9%83%A8%E9%97%A8%E7%9A%84%E5%B4%9B%E8%B5%B7%28%E7%9B%B8%E5%AF%B9%E4%BA%8E%E7%8E%B0%E6%9C%89%E5%BC%BA%E8%80%85%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%29%E5%8A%A0%E6%8C%81%E4%B8%8B%EF%BC%8C%E5%8D%8E%E4%B8%BA%E7%9A%84%E5%AD%A3%E5%BA%A6%E8%8E%B7%E5%88%A9%E6%8C%81%E7%BB%AD%E5%BC%BA%E5%8A%B2%E5%A2%9E%E9%95%BF%E3%80%82https%3A%2F%2Ft.co%2Fp4xuZKXuOO+https%3A%2F%2Ft.co%2FRaXDlvqtXi)
-##### Other Words/Names of Interest in the Above Tweet
-[华为](华为.md), [增长](增长.md), [复苏](复苏.md), [季度](季度.md), [崛起](崛起.md), [强劲](强劲.md), [持续](持续.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
-___
-##### 2024-03-28 05:56:30 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 在美国司法部对苹果公司发起大规模反垄断诉讼后的几天里，又有几起新的消费者诉讼指控这家iPhone制造商垄断智能手机市场。https://t.co/nQyggIY8BU https://t.co/nQyggIY8BU
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%AF%B9%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8F%91%E8%B5%B7%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%E5%90%8E%E7%9A%84%E5%87%A0%E5%A4%A9%E9%87%8C%EF%BC%8C%E5%8F%88%E6%9C%89%E5%87%A0%E8%B5%B7%E6%96%B0%E7%9A%84%E6%B6%88%E8%B4%B9%E8%80%85%E8%AF%89%E8%AE%BC%E6%8C%87%E6%8E%A7%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%9E%84%E6%96%AD%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%E3%80%82https%3A%2F%2Ft.co%2FnQyggIY8BU+https%3A%2F%2Ft.co%2FnQyggIY8BU)
-##### Other Words/Names of Interest in the Above Tweet
-[反垄断](反垄断.md), [垄断](垄断.md), [指控](指控.md), [消费者](消费者.md), [美国](美国.md), [苹果](苹果.md), [规模](规模.md), [诉讼](诉讼.md)
-___
-##### 2024-03-27 06:55:47 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 尽管苹果表态要加大在华业务的投入，但数据显示，2月份苹果iPhone在华出货量仍同比下滑33%。https://t.co/MMsctptZjp
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%B0%BD%E7%AE%A1%E8%8B%B9%E6%9E%9C%E8%A1%A8%E6%80%81%E8%A6%81%E5%8A%A0%E5%A4%A7%E5%9C%A8%E5%8D%8E%E4%B8%9A%E5%8A%A1%E7%9A%84%E6%8A%95%E5%85%A5%EF%BC%8C%E4%BD%86%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%EF%BC%8C2%E6%9C%88%E4%BB%BD%E8%8B%B9%E6%9E%9CiPhone%E5%9C%A8%E5%8D%8E%E5%87%BA%E8%B4%A7%E9%87%8F%E4%BB%8D%E5%90%8C%E6%AF%94%E4%B8%8B%E6%BB%9133%25%E3%80%82https%3A%2F%2Ft.co%2FMMsctptZjp)
-##### Other Words/Names of Interest in the Above Tweet
-[下滑](下滑.md), [数据](数据.md), [显示](显示.md), [苹果](苹果.md)
-___
-##### 2024-03-26 06:35:02 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 中国科技公司百度据报与美国苹果公司达成合作，百度将为苹果公司在中国销售的新款iPhone 16和其他产品提供人工智能服务。https://t.co/dn57mQ0AYm
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E7%99%BE%E5%BA%A6%E6%8D%AE%E6%8A%A5%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%EF%BC%8C%E7%99%BE%E5%BA%A6%E5%B0%86%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E7%9A%84%E6%96%B0%E6%AC%BEiPhone+16%E5%92%8C%E5%85%B6%E4%BB%96%E4%BA%A7%E5%93%81%E6%8F%90%E4%BE%9B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E3%80%82https%3A%2F%2Ft.co%2Fdn57mQ0AYm)
-##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [提供](提供.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [达成](达成.md), [销售](销售.md)
-___
-##### 2024-03-25 05:58:30 UTC ~ 总裁简报 CEO Briefing
-> RT @CEOBriefing: 苹果iPhone14和15价值链上各国(地区)的公司所占的权重。以15为例，美国占33%，韩国占30%，日本占10%，中国台湾9.1%，中国大陆2.5%。其实就是在核心技术领域影响力的真实写照：CPU、基带、射频是美国的，存储是韩国的，CIS和…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CEOBriefing%3A+%E8%8B%B9%E6%9E%9CiPhone14%E5%92%8C15%E4%BB%B7%E5%80%BC%E9%93%BE%E4%B8%8A%E5%90%84%E5%9B%BD%28%E5%9C%B0%E5%8C%BA%29%E7%9A%84%E5%85%AC%E5%8F%B8%E6%89%80%E5%8D%A0%E7%9A%84%E6%9D%83%E9%87%8D%E3%80%82%E4%BB%A515%E4%B8%BA%E4%BE%8B%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%8D%A033%25%EF%BC%8C%E9%9F%A9%E5%9B%BD%E5%8D%A030%25%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%8D%A010%25%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE9.1%25%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%862.5%25%E3%80%82%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E5%9C%A8%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E9%A2%86%E5%9F%9F%E5%BD%B1%E5%93%8D%E5%8A%9B%E7%9A%84%E7%9C%9F%E5%AE%9E%E5%86%99%E7%85%A7%EF%BC%9ACPU%E3%80%81%E5%9F%BA%E5%B8%A6%E3%80%81%E5%B0%84%E9%A2%91%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%9A%84%EF%BC%8C%E5%AD%98%E5%82%A8%E6%98%AF%E9%9F%A9%E5%9B%BD%E7%9A%84%EF%BC%8CCIS%E5%92%8C%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[台湾](台湾.md), [存储](存储.md), [影响](影响.md), [技术](技术.md), [日本](日本.md), [核心](核心.md), [美国](美国.md), [苹果](苹果.md), [韩国](韩国.md), [领域](领域.md)
-___
-##### 2024-03-23 04:06:55 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: #独家 苹果公司已与百度举行初步会谈，内容是关于在中国市场的苹果设备中使用百度的生成式人工智能技术，这是这家iPhone制造商努力扩大AI能力的最新例证。https://t.co/mFwKKZ6UN0 https://t.co/mFwKKZ6UN0
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%B8%8E%E7%99%BE%E5%BA%A6%E4%B8%BE%E8%A1%8C%E5%88%9D%E6%AD%A5%E4%BC%9A%E8%B0%88%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%E5%85%B3%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%EF%BC%8C%E8%BF%99%E6%98%AF%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%8A%AA%E5%8A%9B%E6%89%A9%E5%A4%A7AI%E8%83%BD%E5%8A%9B%E7%9A%84%E6%9C%80%E6%96%B0%E4%BE%8B%E8%AF%81%E3%80%82https%3A%2F%2Ft.co%2FmFwKKZ6UN0+https%3A%2F%2Ft.co%2FmFwKKZ6UN0)
-##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [初步](初步.md), [扩大](扩大.md), [技术](技术.md), [苹果](苹果.md)
-___
-##### 2024-03-22 16:47:28 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 华尔街日报报道，苹果公司已与百度进行初步洽谈，考虑让苹果在中国市场的装置，使用百度的生成式AI技术，是这家iPhone制造商努力扩大AI能力的最新例证。 https://t.co/aXGsff9igX https://t.co/DlaFnlv…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%B8%8E%E7%99%BE%E5%BA%A6%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AD%A5%E6%B4%BD%E8%B0%88%EF%BC%8C%E8%80%83%E8%99%91%E8%AE%A9%E8%8B%B9%E6%9E%9C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E8%A3%85%E7%BD%AE%EF%BC%8C%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%98%AF%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%8A%AA%E5%8A%9B%E6%89%A9%E5%A4%A7AI%E8%83%BD%E5%8A%9B%E7%9A%84%E6%9C%80%E6%96%B0%E4%BE%8B%E8%AF%81%E3%80%82+https%3A%2F%2Ft.co%2FaXGsff9igX+https%3A%2F%2Ft.co%2FDlaFnlv%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[初步](初步.md), [扩大](扩大.md), [技术](技术.md), [考虑](考虑.md), [苹果](苹果.md), [进行](进行.md)
-___
-##### 2024-03-22 07:37:43 UTC ~ DW 中文- 德国之声
-> RT @dw_chinese: 【苹果内外夹攻 #库克 赴上海救得了中国销量吗？】苹果执行长库克21日现身上海新开的门市，引发数百名中国🇨🇳民众到现场朝圣。不过 #iPhone 近年来在中国市场被国产 #华为 大幅超车，加上美国政府祭出的反垄断调查，库克又该如何因应？完整…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%86%85%E5%A4%96%E5%A4%B9%E6%94%BB+%23%E5%BA%93%E5%85%8B+%E8%B5%B4%E4%B8%8A%E6%B5%B7%E6%95%91%E5%BE%97%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%94%80%E9%87%8F%E5%90%97%EF%BC%9F%E3%80%91%E8%8B%B9%E6%9E%9C%E6%89%A7%E8%A1%8C%E9%95%BF%E5%BA%93%E5%85%8B21%E6%97%A5%E7%8E%B0%E8%BA%AB%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%BC%80%E7%9A%84%E9%97%A8%E5%B8%82%EF%BC%8C%E5%BC%95%E5%8F%91%E6%95%B0%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%F0%9F%87%A8%F0%9F%87%B3%E6%B0%91%E4%BC%97%E5%88%B0%E7%8E%B0%E5%9C%BA%E6%9C%9D%E5%9C%A3%E3%80%82%E4%B8%8D%E8%BF%87+%23iPhone+%E8%BF%91%E5%B9%B4%E6%9D%A5%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E8%A2%AB%E5%9B%BD%E4%BA%A7+%23%E5%8D%8E%E4%B8%BA+%E5%A4%A7%E5%B9%85%E8%B6%85%E8%BD%A6%EF%BC%8C%E5%8A%A0%E4%B8%8A%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%A5%AD%E5%87%BA%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E8%B0%83%E6%9F%A5%EF%BC%8C%E5%BA%93%E5%85%8B%E5%8F%88%E8%AF%A5%E5%A6%82%E4%BD%95%E5%9B%A0%E5%BA%94%EF%BC%9F%E5%AE%8C%E6%95%B4%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[上海](上海.md), [华为](华为.md), [反垄断](反垄断.md), [垄断](垄断.md), [大幅](大幅.md), [引发](引发.md), [执行](执行.md), [美国](美国.md), [苹果](苹果.md), [调查](调查.md), [赴](赴.md), [销量](销量.md)
-___
-##### 2024-03-22 06:54:14 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 美国政府在一项具有里程碑意义的反垄断诉讼中指控苹果公司垄断智能手机市场，该诉讼有可能颠覆这家科技巨头的商业模式和数以百万计消费者使用iPhone的方式。https://t.co/u6SCnv6Pf9 https://t.co/u6SCnv6Pf9
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%9C%A8%E4%B8%80%E9%A1%B9%E5%85%B7%E6%9C%89%E9%87%8C%E7%A8%8B%E7%A2%91%E6%84%8F%E4%B9%89%E7%9A%84%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%E4%B8%AD%E6%8C%87%E6%8E%A7%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9E%84%E6%96%AD%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA%EF%BC%8C%E8%AF%A5%E8%AF%89%E8%AE%BC%E6%9C%89%E5%8F%AF%E8%83%BD%E9%A2%A0%E8%A6%86%E8%BF%99%E5%AE%B6%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%92%8C%E6%95%B0%E4%BB%A5%E7%99%BE%E4%B8%87%E8%AE%A1%E6%B6%88%E8%B4%B9%E8%80%85%E4%BD%BF%E7%94%A8iPhone%E7%9A%84%E6%96%B9%E5%BC%8F%E3%80%82https%3A%2F%2Ft.co%2Fu6SCnv6Pf9+https%3A%2F%2Ft.co%2Fu6SCnv6Pf9)
-##### Other Words/Names of Interest in the Above Tweet
-[中指](中指.md), [反垄断](反垄断.md), [垄断](垄断.md), [巨头](巨头.md), [指控](指控.md), [模式](模式.md), [消费者](消费者.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [诉讼](诉讼.md), [颠覆](颠覆.md)
-___
-##### 2024-03-21 06:20:48 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 美国司法部准备最快星期四（3月21日）对美国科技巨头苹果公司提起反垄断诉讼，指控这家全球市值第二大的科技公司阻止竞争对手获取其iPhone的硬件和软件功能，违反了反垄断法。https://t.co/ePRRXqDDKD
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%87%86%E5%A4%87%E6%9C%80%E5%BF%AB%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%883%E6%9C%8821%E6%97%A5%EF%BC%89%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8F%90%E8%B5%B7%E5%8F%8D%E5%9E%84%E6%96%AD%E8%AF%89%E8%AE%BC%EF%BC%8C%E6%8C%87%E6%8E%A7%E8%BF%99%E5%AE%B6%E5%85%A8%E7%90%83%E5%B8%82%E5%80%BC%E7%AC%AC%E4%BA%8C%E5%A4%A7%E7%9A%84%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E9%98%BB%E6%AD%A2%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E8%8E%B7%E5%8F%96%E5%85%B6iPhone%E7%9A%84%E7%A1%AC%E4%BB%B6%E5%92%8C%E8%BD%AF%E4%BB%B6%E5%8A%9F%E8%83%BD%EF%BC%8C%E8%BF%9D%E5%8F%8D%E4%BA%86%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%E3%80%82https%3A%2F%2Ft.co%2FePRRXqDDKD)
-##### Other Words/Names of Interest in the Above Tweet
-[反垄断](反垄断.md), [垄断](垄断.md), [巨头](巨头.md), [市值](市值.md), [指控](指控.md), [科技](科技.md), [竞争](竞争.md), [美国](美国.md), [苹果](苹果.md), [诉讼](诉讼.md), [阻止](阻止.md)
 ____
 
 [Next Page](iPhone-01.md)

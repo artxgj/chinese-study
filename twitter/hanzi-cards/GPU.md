@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-06-16 11:46:59 UTC ~ Geek Lite
+> RT @QingQ77: 一个 macOS 终端工具，在 Apple Silicon 上本地跑语音转文字 + 中英翻译。麦克风或会议音频进去，实时字幕和翻译出来，全程不联网。https://t.co/eFZRZ6EDQ7Apple GPU 本地跑，不需要联网。流式 AS…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QingQ77%3A+%E4%B8%80%E4%B8%AA+macOS+%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%9C%A8+Apple+Silicon+%E4%B8%8A%E6%9C%AC%E5%9C%B0%E8%B7%91%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97+%2B+%E4%B8%AD%E8%8B%B1%E7%BF%BB%E8%AF%91%E3%80%82%E9%BA%A6%E5%85%8B%E9%A3%8E%E6%88%96%E4%BC%9A%E8%AE%AE%E9%9F%B3%E9%A2%91%E8%BF%9B%E5%8E%BB%EF%BC%8C%E5%AE%9E%E6%97%B6%E5%AD%97%E5%B9%95%E5%92%8C%E7%BF%BB%E8%AF%91%E5%87%BA%E6%9D%A5%EF%BC%8C%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%81%94%E7%BD%91%E3%80%82https%3A%2F%2Ft.co%2FeFZRZ6EDQ7Apple+GPU+%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E8%81%94%E7%BD%91%E3%80%82%E6%B5%81%E5%BC%8F+AS%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [工具](工具.md), [麦](麦.md)
+___
+##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
+> RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40H3gletK%3A+%E6%88%91%E7%9A%84mac+mini%E4%B8%8D%E7%9F%A5%E9%81%93%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%A8%E5%A4%A9%E5%BC%80%E5%A7%8BGPU%E8%B4%9F%E8%BD%BD%E4%B8%80%E7%9B%B4%E5%A4%84%E5%9C%A850%25%EF%BC%8C%E9%87%8D%E5%90%AF%E5%AE%8C%E4%B9%8B%E5%90%8E%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%90%AF%E5%8A%A8%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%A4%9A%E3%80%82%E4%B9%8B%E5%89%8D%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BD%9C%EF%BC%8C%E9%9D%99%E6%80%81%E8%B4%9F%E8%BD%BD%E4%B9%9F%E5%BA%94%E8%AF%A5%E5%8F%AA%E6%9C%892%25%E5%B7%A6%E5%8F%B3%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [一直](一直.md), [启动](启动.md)
+___
 ##### 2026-05-11 06:02:28 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 芯片制造商利润激增正促使投资者蜂拥买入CPU、GPU和内存芯片公司的股票。https://t.co/SP3B6g6TNu
 
@@ -40,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%A2%AB%E8%AA%89%E4%B8%BA%E2%80%9C%E4%B8%8A%E6%B5%B7GPU%E5%9B%9B%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8B%E4%B8%80%E7%9A%84%E5%A4%A9%E6%95%B0%E6%99%BA%E8%8A%AF%EF%BC%8C%E4%BB%A5%E5%8F%8A%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E5%85%AD%E5%B0%8F%E8%99%8E%E2%80%9D%E4%B9%8B%E4%B8%80%E7%9A%84%E6%99%BA%E8%B0%B1%EF%BC%8C%E4%BA%8E8%E6%97%A5%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%88%90%E4%B8%BA%E8%87%AA%E5%8E%BB%E5%B9%B412%E6%9C%88%E4%BB%A5%E6%9D%A5%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%9A%84%E7%AC%AC%E5%9B%9B%E3%80%81%E7%AC%AC%E4%BA%94%E5%AE%B6AI%E6%A6%82%E5%BF%B5%E8%82%A1%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%B8%AD%E5%9B%BD+%23%E8%82%A1%E5%B8%82+https%3A%2F%2Ft.co%2FR15C2flldY%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上海](上海.md), [交易](交易.md), [香港](香港.md)
+[上海](上海.md), [交易](交易.md), [智谱](智谱.md), [香港](香港.md)
 ___
 ##### 2026-01-06 18:56:22 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 去年June Paik曾拒绝Meta的收购提议，如今其创立的韩国公司FuriosaAI的AI芯片已进入量产阶段。英伟达GPU在训练AI模型的初期阶段占据主导地位。但像Furiosa这样的公司押注，在下一个“推理”阶段A，他们的专用芯片可以具备…
@@ -376,7 +390,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%B9%E5%87%86%E4%B8%89%E6%98%9F%E7%9A%84HBM3%E8%8A%AF%E7%89%87%E4%B9%8B%E9%99%85%EF%BC%8C%E6%AD%A3%E5%80%BC%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%83%AD%E6%BD%AE%E5%AF%B9%E5%A4%8D%E6%9D%82GPU%E7%9A%84%E9%9C%80%E6%B1%82%E9%A3%99%E5%8D%87%E3%80%82%23Nividia+%23Samsung+%23Chip+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5++https%3A%2F%2Ft.co%2FjogTFsq33e+https%3A%2F%2Ft.co%2FmW34EYUsJK)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [批准](批准.md), [热潮](热潮.md), [芯片](芯片.md), [英伟达](英伟达.md), [需求](需求.md), [飙升](飙升.md)
+[HBM](HBM.md), [三星](三星.md), [批准](批准.md), [热潮](热潮.md), [芯片](芯片.md), [英伟达](英伟达.md), [需求](需求.md), [飙升](飙升.md)
 ___
 ##### 2024-03-12 04:14:59 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国新房严重短缺不仅加剧了通胀，也使首购族无从下手。https://t.co/hb8FqzeGPU https://t.co/8uyxmXNGjx

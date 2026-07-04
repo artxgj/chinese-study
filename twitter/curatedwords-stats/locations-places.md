@@ -97,6 +97,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [土耳其](../hanzi-cards/土耳其.md) | Türkiye |
 | [希腊](../hanzi-cards/希腊.md) | Greece |
 | [加沙](../hanzi-cards/加沙.md) | Gaza |
+| [霍爾木茲](../hanzi-cards/霍爾木茲.md) | Hormuz |
+| [荷姆茲](../hanzi-cards/荷姆茲.md) | Hormuz |
 | [巴勒斯坦](../hanzi-cards/巴勒斯坦.md) | Palestine |
 | [以色列](../hanzi-cards/以色列.md) | Israel |
 | [布基纳法索](../hanzi-cards/布基纳法索.md) | Burkina Faso |
