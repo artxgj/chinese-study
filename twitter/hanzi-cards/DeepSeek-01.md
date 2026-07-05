@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-12 09:06:03 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国搜索引擎巨头百度计划在今年下半年发布下一代人工智能（AI）模型，因为AI企业深度求索（DeepSeek）等新玩家正在颠覆该领域。 https://t.co/J4MOJcVQME
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E5%B7%A8%E5%A4%B4%E7%99%BE%E5%BA%A6%E8%AE%A1%E5%88%92%E5%9C%A8%E4%BB%8A%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%8F%91%E5%B8%83%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9B%A0%E4%B8%BAAI%E4%BC%81%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%AD%89%E6%96%B0%E7%8E%A9%E5%AE%B6%E6%AD%A3%E5%9C%A8%E9%A2%A0%E8%A6%86%E8%AF%A5%E9%A2%86%E5%9F%9F%E3%80%82+https%3A%2F%2Ft.co%2FJ4MOJcVQME)
+##### Other Words/Names of Interest in the Above Tweet
+[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [巨头](巨头.md), [引擎](引擎.md), [搜索](搜索.md), [模型](模型.md), [深度求索](深度求索.md), [玩家](玩家.md), [计划](计划.md), [领域](领域.md), [颠覆](颠覆.md)
+___
 ##### 2025-02-12 08:11:02 UTC ~ FTChinese
 > RT @FTChinese: 【从春节回乡小见闻看中美AI大博弈】黄凡：DeepSeek引发美国科技巨头及政界最高层关注，对资本市场的影响更为直接，修复了中国科技公司估值。回乡小见闻与中美 AI 大博弈给我们什么启示？https://t.co/zyyAZMsUVz
 

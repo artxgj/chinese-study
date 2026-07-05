@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2021-11-23 02:31:29 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【台湾IT遇上iPhone减产冲击】由于电源类和无线类的通用半导体短缺，年内的iPhone生产计划被指存在最多下调1000万部的可能性。一方面，向苹果供应大量零部件、还负责组装的台湾19家主要企业的10月营收13个月来首次转为下滑……h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E6%B9%BEIT%E9%81%87%E4%B8%8AiPhone%E5%87%8F%E4%BA%A7%E5%86%B2%E5%87%BB%E3%80%91%E7%94%B1%E4%BA%8E%E7%94%B5%E6%BA%90%E7%B1%BB%E5%92%8C%E6%97%A0%E7%BA%BF%E7%B1%BB%E7%9A%84%E9%80%9A%E7%94%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%9F%AD%E7%BC%BA%EF%BC%8C%E5%B9%B4%E5%86%85%E7%9A%84iPhone%E7%94%9F%E4%BA%A7%E8%AE%A1%E5%88%92%E8%A2%AB%E6%8C%87%E5%AD%98%E5%9C%A8%E6%9C%80%E5%A4%9A%E4%B8%8B%E8%B0%831000%E4%B8%87%E9%83%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%82%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E5%90%91%E8%8B%B9%E6%9E%9C%E4%BE%9B%E5%BA%94%E5%A4%A7%E9%87%8F%E9%9B%B6%E9%83%A8%E4%BB%B6%E3%80%81%E8%BF%98%E8%B4%9F%E8%B4%A3%E7%BB%84%E8%A3%85%E7%9A%84%E5%8F%B0%E6%B9%BE19%E5%AE%B6%E4%B8%BB%E8%A6%81%E4%BC%81%E4%B8%9A%E7%9A%8410%E6%9C%88%E8%90%A5%E6%94%B613%E4%B8%AA%E6%9C%88%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%AC%E4%B8%BA%E4%B8%8B%E6%BB%91%E2%80%A6%E2%80%A6h%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[下滑](下滑.md), [冲击](冲击.md), [半导体](半导体.md), [台湾](台湾.md), [生产](生产.md), [短缺](短缺.md), [组装](组装.md), [苹果](苹果.md), [营收](营收.md), [计划](计划.md), [零部件](零部件.md)
+___
 ##### 2021-11-18 06:47:56 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司周三表示，已经创建了一个自助维修计划，这将允许客户使用原装零件和工具来维修自己的设备。该计划将首先用于其最新的iPhone 12和iPhone 13系列产品，然后将用于采用苹果公司M1芯片的Mac电脑。https://t.co/6Fn9V…
 

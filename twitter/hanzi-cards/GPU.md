@@ -56,6 +56,13 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [上海](上海.md), [交易](交易.md), [智谱](智谱.md), [香港](香港.md)
 ___
+##### 2026-01-07 05:34:53 UTC ~ 快讯
+> RT @dmjk001: ❗【天风电新】AIDC液冷：Rubin平台变化更新-0107———————————标准版R100单GPU功耗预计由当前1200-1400W提升至1800W，#100%液冷设计，仍延用45度温水冷却方案，预计冷却液流量、流速将大幅提高，#对应CDU、…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dmjk001%3A+%E2%9D%97%E3%80%90%E5%A4%A9%E9%A3%8E%E7%94%B5%E6%96%B0%E3%80%91AIDC%E6%B6%B2%E5%86%B7%EF%BC%9ARubin%E5%B9%B3%E5%8F%B0%E5%8F%98%E5%8C%96%E6%9B%B4%E6%96%B0-0107%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E6%A0%87%E5%87%86%E7%89%88R100%E5%8D%95GPU%E5%8A%9F%E8%80%97%E9%A2%84%E8%AE%A1%E7%94%B1%E5%BD%93%E5%89%8D1200-1400W%E6%8F%90%E5%8D%87%E8%87%B31800W%EF%BC%8C%23100%25%E6%B6%B2%E5%86%B7%E8%AE%BE%E8%AE%A1%EF%BC%8C%E4%BB%8D%E5%BB%B6%E7%94%A845%E5%BA%A6%E6%B8%A9%E6%B0%B4%E5%86%B7%E5%8D%B4%E6%96%B9%E6%A1%88%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%86%B7%E5%8D%B4%E6%B6%B2%E6%B5%81%E9%87%8F%E3%80%81%E6%B5%81%E9%80%9F%E5%B0%86%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%EF%BC%8C%23%E5%AF%B9%E5%BA%94CDU%E3%80%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[大幅](大幅.md), [平台](平台.md), [提高](提高.md), [方案](方案.md), [设计](设计.md), [预计](预计.md)
+___
 ##### 2026-01-06 18:56:22 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 去年June Paik曾拒绝Meta的收购提议，如今其创立的韩国公司FuriosaAI的AI芯片已进入量产阶段。英伟达GPU在训练AI模型的初期阶段占据主导地位。但像Furiosa这样的公司押注，在下一个“推理”阶段A，他们的专用芯片可以具备…
 
@@ -180,7 +187,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8B%E9%9D%9E%E4%BB%A3%E5%B7%A5%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%BB%A0%E5%95%86%E5%85%A8%E7%90%83%E9%8A%B7%E5%94%AE%E4%BB%BD%E9%A1%8D%E9%99%8D%E8%87%B33.9%25%E3%80%91%E5%9B%A0%E7%BE%8E%E5%9C%8B%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%EF%BC%8C%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%84%A1%E6%B3%95%E9%80%B2%E5%8F%A3%E6%9C%80%E5%B0%96%E7%AB%AF%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E3%80%82%E5%8D%B3%E4%BE%BF%E6%98%AFDeepSeek%EF%BC%8C%E4%B9%9F%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9C%8B%E8%8B%B1%E5%81%89%E9%81%94GPU%E3%80%82%E6%95%B8%E6%93%9A%E9%A1%AF%E7%A4%BA%EF%BC%8C2024%E5%B9%B4%E4%B8%AD%E5%9C%8B%E5%BB%A0%E5%95%86%EF%BC%88%E4%B8%8D%E5%8C%85%E6%8B%AC%E4%B8%AD%E8%8A%AF%E5%9C%8B%E9%9A%9B%E7%AD%89%E4%BB%A3%E5%B7%A5%E4%BC%81%E6%A5%AD%EF%BC%89%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%85%A8%E7%90%83%E9%8A%B7%E5%94%AE%E4%BB%BD%E9%A1%8D%E4%B8%8B%E6%BB%91%E3%80%82%E4%B8%AD%E5%9C%8B%E9%9B%A2%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [下滑](下滑.md), [包括](包括.md), [半導體](半導體.md), [尖端](尖端.md), [數據](數據.md), [管制](管制.md), [美國](美國.md), [英偉達](英偉達.md)
+[DeepSeek](DeepSeek.md), [下滑](下滑.md), [中芯國際](中芯國際.md), [包括](包括.md), [半導體](半導體.md), [尖端](尖端.md), [數據](數據.md), [管制](管制.md), [美國](美國.md), [英偉達](英偉達.md)
 ___
 ##### 2025-04-18 06:55:43 UTC ~ AIGCLINK
 > RT @aigclink: 这个视频生成模型增强器火了，FramePack，使用6GB笔记本GPU就能以30fps的速度用13B模型生成数千帧视频FramePack是一个逐步生成视频的下一帧预测神经网络结构，它能将输入内容压缩到固定长度，这样生成视频的工作负载就不会随视频长…

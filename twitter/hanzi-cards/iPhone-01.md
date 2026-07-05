@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2024-04-02 06:13:21 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【日本專家：小米汽車如同iPhone問世】伊藤忠總研主任研究員 深尾三四郎：就像賈伯斯發佈第一代iPhone時一樣，我感到十分震驚。蘋果放棄了「Apple Car」構想，而小米代替蘋果打造了智慧手機和EV相結合的生態系統。站在競爭對手的角…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A%E5%A6%82%E5%90%8CiPhone%E5%95%8F%E4%B8%96%E3%80%91%E4%BC%8A%E8%97%A4%E5%BF%A0%E7%B8%BD%E7%A0%94%E4%B8%BB%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1+%E6%B7%B1%E5%B0%BE%E4%B8%89%E5%9B%9B%E9%83%8E%EF%BC%9A%E5%B0%B1%E5%83%8F%E8%B3%88%E4%BC%AF%E6%96%AF%E7%99%BC%E4%BD%88%E7%AC%AC%E4%B8%80%E4%BB%A3iPhone%E6%99%82%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%88%91%E6%84%9F%E5%88%B0%E5%8D%81%E5%88%86%E9%9C%87%E9%A9%9A%E3%80%82%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E4%BA%86%E3%80%8CApple+Car%E3%80%8D%E6%A7%8B%E6%83%B3%EF%BC%8C%E8%80%8C%E5%B0%8F%E7%B1%B3%E4%BB%A3%E6%9B%BF%E8%98%8B%E6%9E%9C%E6%89%93%E9%80%A0%E4%BA%86%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CEV%E7%9B%B8%E7%B5%90%E5%90%88%E7%9A%84%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E3%80%82%E7%AB%99%E5%9C%A8%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E8%A7%92%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[小米](小米.md), [打造](打造.md), [日本](日本.md), [蘋果](蘋果.md)
+___
 ##### 2024-03-29 11:55:44 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 在消费业务复苏(相对于苹果的iPhone)及云部门的崛起(相对于现有强者阿里巴巴)加持下，华为的季度获利持续强劲增长。https://t.co/p4xuZKXuOO https://t.co/RaXDlvqtXi
 
@@ -2100,13 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%BC%95%E9%A2%86%E5%BF%AB%E5%85%85%E7%AB%9E%E4%BA%89%2C%E6%AF%94iPhone%E5%BF%AB5%E5%80%8D%E3%80%91%E5%B0%8F%E7%B1%B3%E6%97%97%E8%88%B0%E6%9C%BA%E5%9E%8B%E2%80%9C11T+Pro%E2%80%9D%E4%BB%8517%E5%88%86%E9%92%9F%E5%8D%B3%E5%8F%AF%E5%85%85%E6%BB%A1%E7%94%B5%EF%BC%8C%E8%80%8C%E8%8B%B9%E6%9E%9CiPhone13%E9%AB%98%E7%AB%AF%E6%9C%BA%E5%9E%8B%E5%AE%9E%E9%99%85%E5%85%85%E7%94%B5%E6%97%B6%E9%97%B4%E7%BA%A6%E4%B8%BA90%EF%BD%9E100%E5%88%86%E9%92%9F%E3%80%82%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%9A%84%E6%91%84%E5%83%8F%E5%A4%B4%E5%92%8C%E6%98%BE%E7%A4%BA%E5%B1%8F%E7%AD%89%E5%8A%9F%E8%83%BD%E6%AD%A3%E8%B5%B0%E5%90%91%E6%88%90%E7%86%9F%EF%BC%8C%E8%80%8C%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%AD%A3%E5%9C%A8%E5%B1%9E%E4%BA%8E%E6%96%B0%E7%AB%9E%E4%BA%89%E6%A0%B8%E5%BF%83%E7%9A%84%E5%85%85%E7%94%B5%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [充电](充电.md), [型](型.md), [小米](小米.md), [屏](屏.md), [成熟](成熟.md), [摄像头](摄像头.md), [显示](显示.md), [核心](核心.md), [竞争](竞争.md), [苹果](苹果.md)
-___
-##### 2021-11-23 02:31:29 UTC ~ 日經中文網
-> RT @rijingzhongwen: 【台湾IT遇上iPhone减产冲击】由于电源类和无线类的通用半导体短缺，年内的iPhone生产计划被指存在最多下调1000万部的可能性。一方面，向苹果供应大量零部件、还负责组装的台湾19家主要企业的10月营收13个月来首次转为下滑……h…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E6%B9%BEIT%E9%81%87%E4%B8%8AiPhone%E5%87%8F%E4%BA%A7%E5%86%B2%E5%87%BB%E3%80%91%E7%94%B1%E4%BA%8E%E7%94%B5%E6%BA%90%E7%B1%BB%E5%92%8C%E6%97%A0%E7%BA%BF%E7%B1%BB%E7%9A%84%E9%80%9A%E7%94%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%9F%AD%E7%BC%BA%EF%BC%8C%E5%B9%B4%E5%86%85%E7%9A%84iPhone%E7%94%9F%E4%BA%A7%E8%AE%A1%E5%88%92%E8%A2%AB%E6%8C%87%E5%AD%98%E5%9C%A8%E6%9C%80%E5%A4%9A%E4%B8%8B%E8%B0%831000%E4%B8%87%E9%83%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%82%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E5%90%91%E8%8B%B9%E6%9E%9C%E4%BE%9B%E5%BA%94%E5%A4%A7%E9%87%8F%E9%9B%B6%E9%83%A8%E4%BB%B6%E3%80%81%E8%BF%98%E8%B4%9F%E8%B4%A3%E7%BB%84%E8%A3%85%E7%9A%84%E5%8F%B0%E6%B9%BE19%E5%AE%B6%E4%B8%BB%E8%A6%81%E4%BC%81%E4%B8%9A%E7%9A%8410%E6%9C%88%E8%90%A5%E6%94%B613%E4%B8%AA%E6%9C%88%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%AC%E4%B8%BA%E4%B8%8B%E6%BB%91%E2%80%A6%E2%80%A6h%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[下滑](下滑.md), [冲击](冲击.md), [半导体](半导体.md), [台湾](台湾.md), [生产](生产.md), [短缺](短缺.md), [组装](组装.md), [苹果](苹果.md), [营收](营收.md), [计划](计划.md), [零部件](零部件.md)
 ____
 
 [Previous Page](iPhone.md) | [Next Page](iPhone-02.md)

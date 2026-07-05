@@ -1495,6 +1495,13 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [品牌](品牌.md), [指出](指出.md), [推出](推出.md), [有望](有望.md)
 ___
+##### 2024-11-26 02:10:16 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【拆解iPhone16Pro：零部件成本上升】蘋果的「16 Pro」的零部件成本為568美元，比「15 Pro」增加了6%，零部件成本佔美國銷售價格的比重(成本率)為57%，但價格沒有變化。另一方面，谷歌Pixel的零部件成本為406美元…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%8B%86%E8%A7%A3iPhone16Pro%EF%BC%9A%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E4%B8%8A%E5%8D%87%E3%80%91%E8%98%8B%E6%9E%9C%E7%9A%84%E3%80%8C16+Pro%E3%80%8D%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%82%BA568%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AF%94%E3%80%8C15+Pro%E3%80%8D%E5%A2%9E%E5%8A%A0%E4%BA%866%25%EF%BC%8C%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E4%BD%94%E7%BE%8E%E5%9C%8B%E9%8A%B7%E5%94%AE%E5%83%B9%E6%A0%BC%E7%9A%84%E6%AF%94%E9%87%8D%28%E6%88%90%E6%9C%AC%E7%8E%87%29%E7%82%BA57%25%EF%BC%8C%E4%BD%86%E5%83%B9%E6%A0%BC%E6%B2%92%E6%9C%89%E8%AE%8A%E5%8C%96%E3%80%82%E5%8F%A6%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E8%B0%B7%E6%AD%8CPixel%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%82%BA406%E7%BE%8E%E5%85%83%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[成本](成本.md), [拆解](拆解.md), [美國](美國.md), [蘋果](蘋果.md), [谷歌](谷歌.md), [零部件](零部件.md)
+___
 ##### 2024-11-21 10:16:34 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司已提议向印尼投资1亿美元，这是该公司最初计划投资额的10倍。该投资承诺是获得在印尼销售新款iPhone 16手机的许可所必需的。https://t.co/0ilNRuheZ7 https://t.co/0ilNRuheZ7
 
@@ -2091,13 +2098,6 @@ ___
 [下滑](下滑.md), [季度](季度.md), [拖累](拖累.md), [精密](精密.md), [营收](营收.md), [销售](销售.md), [预期](预期.md), [鸿海](鸿海.md)
 ___
 ##### 2024-04-02 06:21:37 UTC ~ 日經中文網
-> RT @rijingzhongwen: 【日本專家：小米汽車如同iPhone問世】伊藤忠總研主任研究員 深尾三四郎：就像賈伯斯發佈第一代iPhone時一樣，我感到十分震驚。蘋果放棄了「Apple Car」構想，而小米代替蘋果打造了智慧手機和EV相結合的生態系統。站在競爭對手的角…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A%E5%A6%82%E5%90%8CiPhone%E5%95%8F%E4%B8%96%E3%80%91%E4%BC%8A%E8%97%A4%E5%BF%A0%E7%B8%BD%E7%A0%94%E4%B8%BB%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1+%E6%B7%B1%E5%B0%BE%E4%B8%89%E5%9B%9B%E9%83%8E%EF%BC%9A%E5%B0%B1%E5%83%8F%E8%B3%88%E4%BC%AF%E6%96%AF%E7%99%BC%E4%BD%88%E7%AC%AC%E4%B8%80%E4%BB%A3iPhone%E6%99%82%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%88%91%E6%84%9F%E5%88%B0%E5%8D%81%E5%88%86%E9%9C%87%E9%A9%9A%E3%80%82%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E4%BA%86%E3%80%8CApple+Car%E3%80%8D%E6%A7%8B%E6%83%B3%EF%BC%8C%E8%80%8C%E5%B0%8F%E7%B1%B3%E4%BB%A3%E6%9B%BF%E8%98%8B%E6%9E%9C%E6%89%93%E9%80%A0%E4%BA%86%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CEV%E7%9B%B8%E7%B5%90%E5%90%88%E7%9A%84%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E3%80%82%E7%AB%99%E5%9C%A8%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E8%A7%92%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[小米](小米.md), [打造](打造.md), [日本](日本.md), [蘋果](蘋果.md)
-___
-##### 2024-04-02 06:13:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【日本專家：小米汽車如同iPhone問世】伊藤忠總研主任研究員 深尾三四郎：就像賈伯斯發佈第一代iPhone時一樣，我感到十分震驚。蘋果放棄了「Apple Car」構想，而小米代替蘋果打造了智慧手機和EV相結合的生態系統。站在競爭對手的角…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A%E5%A6%82%E5%90%8CiPhone%E5%95%8F%E4%B8%96%E3%80%91%E4%BC%8A%E8%97%A4%E5%BF%A0%E7%B8%BD%E7%A0%94%E4%B8%BB%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1+%E6%B7%B1%E5%B0%BE%E4%B8%89%E5%9B%9B%E9%83%8E%EF%BC%9A%E5%B0%B1%E5%83%8F%E8%B3%88%E4%BC%AF%E6%96%AF%E7%99%BC%E4%BD%88%E7%AC%AC%E4%B8%80%E4%BB%A3iPhone%E6%99%82%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%88%91%E6%84%9F%E5%88%B0%E5%8D%81%E5%88%86%E9%9C%87%E9%A9%9A%E3%80%82%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E4%BA%86%E3%80%8CApple+Car%E3%80%8D%E6%A7%8B%E6%83%B3%EF%BC%8C%E8%80%8C%E5%B0%8F%E7%B1%B3%E4%BB%A3%E6%9B%BF%E8%98%8B%E6%9E%9C%E6%89%93%E9%80%A0%E4%BA%86%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CEV%E7%9B%B8%E7%B5%90%E5%90%88%E7%9A%84%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E3%80%82%E7%AB%99%E5%9C%A8%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E8%A7%92%E2%80%A6)

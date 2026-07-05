@@ -18,7 +18,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [张忠谋](../hanzi-cards/张忠谋.md) | Morris Chang |
 | [任正非](../hanzi-cards/任正非.md) | Ren Zhengfei |
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
-| [孙中山](../hanzi-cards/孙中山.md) | Sun Yat Sen |
+| [孙中山](../hanzi-cards/孙中山.md)/[孫中山](../hanzi-cards/孫中山.md) | Sun Yat Sen |
 | [习近平](../hanzi-cards/习近平.md)/[習近平](../hanzi-cards/習近平.md) | Xi Jinping |
 | [马英九](../hanzi-cards/马英九.md)/[馬英九](../hanzi-cards/馬英九.md) | Ma Ying-jeou |
 | [江泽民](../hanzi-cards/江泽民.md) | Jiang Zemin |
@@ -49,4 +49,3 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [杰弗里·萨克斯](../hanzi-cards/杰弗里·萨克斯.md) | Jeffrey Sachs |
 | [川普](../hanzi-cards/川普.md)/[特朗普](../hanzi-cards/特朗普.md) | Donald Trump |
 | [尼克松](../hanzi-cards/尼克松.md) | Nixon (Richard Milhaus) |
-| [泰勒丝](../hanzi-cards/泰勒丝.md) | Taylor Swift |
