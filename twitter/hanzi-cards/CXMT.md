@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%8D%A8%E5%AE%B6%E5%A0%B1%E5%B0%8E%EF%BC%8C%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E5%BB%A0%E5%95%86%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89+%E5%B7%B2%E8%88%87%E9%A8%B0%E8%A8%8A%E6%8E%A7%E8%82%A1+%E7%B0%BD%E7%BD%B2%E4%B8%80%E4%BB%BD%E5%83%B9%E5%80%BC%E8%B6%85%E9%81%8E200%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%88%E7%B4%8430%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%89+%E7%9A%84%E9%95%B7%E6%9C%9F+DRAM+%E6%99%B6%E7%89%87%E4%BE%9B%E6%87%89%E5%8D%94%E8%AD%B0%E3%80%82%E9%80%99%E6%98%AF%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%8D%B3%E5%B0%87%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%89%B5%E6%9D%BF+IPO+%E5%89%8D%E7%9A%84%E9%87%8D%E8%A6%81%E9%87%8C%E7%A8%8B%E7%A2%91%E3%80%82%E5%8D%94%E8%AD%B0%E6%B6%B5%E8%93%8B%E6%95%B8%E5%B9%B4%E6%9C%9F%EF%BC%88%E6%9C%80%E9%95%B73-5%E5%B9%B4%EF%BC%89%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%94%A8+DRA%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [上海](上海.md), [晶片](晶片.md), [長鑫](長鑫.md), [騰訊](騰訊.md)
+[DRAM](DRAM.md), [上海](上海.md), [伺服器](伺服器.md), [晶片](晶片.md), [記憶體](記憶體.md), [長鑫](長鑫.md), [騰訊](騰訊.md)
 ___
 ##### 2026-06-27 07:26:24 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 中国时刻再次到来！金融时报爆料，苹果公司正在游说美国政府，希望获准可以从中国的长鑫存储 CXMT，购买内存芯片。该公司因涉及军工，曾被美国五角大楼列入黑名单，但苹果现在正面临，前所未有的内存成本上升压力，甚至已转嫁到消费者身上，此消息来自六位知情人士…
@@ -26,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E6%8C%87%E6%A8%99%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC1%E5%80%8B%E6%9C%88%E6%BC%B2%E8%87%B32%E5%80%8D%E3%80%91%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E5%87%BA%E7%8F%BE%E6%9A%B4%E6%BC%B2%E7%9A%84%E6%98%AFDDR4%E7%94%A3%E5%93%81%E3%80%82%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%A8%98%E6%86%B6%E9%AB%94%E8%A3%BD%E9%80%A0%E5%95%86%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89%E7%9A%84DDR4%E7%94%A3%E5%93%81%E5%81%9C%E7%94%A3%E9%A0%90%E6%9C%9F%E5%8A%A0%E5%BC%B7%EF%BC%8C%E6%A0%B9%E6%93%9A%E4%B8%AD%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%8A%A0%E5%BC%B7AI%E5%92%8C%E9%9B%B2%E7%AB%AF%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%9F%E7%94%A3%E7%9A%84%E6%96%B9%E9%87%9D%EF%BC%8C%E5%B0%87%E8%BD%89%E5%90%91%E9%AB%98%E7%AB%AF%E7%94%A3%E5%93%81%E3%80%82%E6%8E%A8%E9%AB%98%E4%BA%86%E8%A1%8C%E6%83%85%E2%80%A6%E2%80%A6https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [交易](交易.md), [半導體](半導體.md), [推高](推高.md), [行情](行情.md), [長鑫](長鑫.md)
+[DRAM](DRAM.md), [交易](交易.md), [半導體](半導體.md), [推高](推高.md), [行情](行情.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
 ___
 ##### 2022-05-31 04:42:36 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【摘】坂本幸雄：在DRAM领域处于中国顶尖水平的长鑫存储技术（CXMT）与三星相比落后4代左右。而在NAND闪存领域，据称中国顶尖的长江存储科技（YMTC）将启动（存储元件为）128层的量产，虽已启动192层的试生产，但制造的数量过少，达…

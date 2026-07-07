@@ -12,35 +12,35 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E7%9B%91%E6%8E%A7+AI+agent+%E8%BF%9B%E7%A8%8B%EF%BC%88Claude+Code%E3%80%81Codex%E3%80%81MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AD%89%EF%BC%89%E7%9A%84%E5%86%85%E5%AD%98%E3%80%81CPU+%E5%92%8C%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8%EF%BC%8C%E6%A3%80%E6%B5%8B%E6%B3%84%E6%BC%8F%2F%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E7%94%A8%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84+AI+CLI+%E7%BB%99%E5%87%BA%E6%B8%85%E7%90%86%E5%BB%BA%E8%AE%AE%E3%80%82https%3A%2F%2Ft.co%2FtARu9S8p4I+https%3A%2F%2Ft.co%2Fw%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [检测](检测.md), [泄漏](泄漏.md), [进程](进程.md)
+[Claude](Claude.md), [服务器](服务器.md), [检测](检测.md), [泄漏](泄漏.md), [进程](进程.md)
 ___
 ##### 2025-10-08 03:05:34 UTC ~ GitHubDaily
 > RT @GitHub_Daily: Apple MCP 这个开源 MCP 服务器颇为实用，让 AI 助手直接帮我们操作 Mac 上各种原生应用。已支持信息、邮件、日历、提醒事项、通讯录、地图等应用的自动化操作。甚至还能执行复杂的链式任务，比如说：“获取当天会议笔记，找到…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Apple+MCP+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%87%E4%B8%BA%E5%AE%9E%E7%94%A8%EF%BC%8C%E8%AE%A9+AI+%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B8%AE%E6%88%91%E4%BB%AC%E6%93%8D%E4%BD%9C+Mac+%E4%B8%8A%E5%90%84%E7%A7%8D%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E3%80%82%E5%B7%B2%E6%94%AF%E6%8C%81%E4%BF%A1%E6%81%AF%E3%80%81%E9%82%AE%E4%BB%B6%E3%80%81%E6%97%A5%E5%8E%86%E3%80%81%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%E3%80%81%E9%80%9A%E8%AE%AF%E5%BD%95%E3%80%81%E5%9C%B0%E5%9B%BE%E7%AD%89%E5%BA%94%E7%94%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%93%8D%E4%BD%9C%E3%80%82%E7%94%9A%E8%87%B3%E8%BF%98%E8%83%BD%E6%89%A7%E8%A1%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E9%93%BE%E5%BC%8F%E4%BB%BB%E5%8A%A1%EF%BC%8C%E6%AF%94%E5%A6%82%E8%AF%B4%EF%BC%9A%E2%80%9C%E8%8E%B7%E5%8F%96%E5%BD%93%E5%A4%A9%E4%BC%9A%E8%AE%AE%E7%AC%94%E8%AE%B0%EF%BC%8C%E6%89%BE%E5%88%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [直接](直接.md), [自动化](自动化.md)
+[Apple](Apple.md), [Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [服务器](服务器.md), [直接](直接.md), [自动化](自动化.md)
 ___
 ##### 2025-07-20 00:40:56 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 给苹果开发者推荐一个实用的 MCP 服务器：Apple Doc MCP，在 AI 编程助手上直接获取 Apple 最新开发文档，大大提升我们的开发效率。支持智能搜索和通配符匹配，能够实时获取 SwiftUI、UIKit、Foundatio…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AApple+Doc+MCP%EF%BC%8C%E5%9C%A8+AI+%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%8F%96+Apple+%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%EF%BC%8C%E5%A4%A7%E5%A4%A7%E6%8F%90%E5%8D%87%E6%88%91%E4%BB%AC%E7%9A%84%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E3%80%82%E6%94%AF%E6%8C%81%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%92%8C%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%AE%9E%E6%97%B6%E8%8E%B7%E5%8F%96+SwiftUI%E3%80%81UIKit%E3%80%81Foundatio%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [直接](直接.md), [苹果](苹果.md)
+[Apple](Apple.md), [开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [服务器](服务器.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-07-01 03:33:44 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 发现了一个能让 AI 拥有持久记忆的 MCP 服务器：MCP Knowledge Graph。通过知识图谱结构存储实体、关系和观察信息，让 AI 能够跨聊天记住我们的信息，巧妙地给 AI 助手添加 “大脑记忆”。GitHub：http…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AA%E8%83%BD%E8%AE%A9+AI+%E6%8B%A5%E6%9C%89%E6%8C%81%E4%B9%85%E8%AE%B0%E5%BF%86%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AMCP+Knowledge+Graph%E3%80%82%E9%80%9A%E8%BF%87%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E7%BB%93%E6%9E%84%E5%AD%98%E5%82%A8%E5%AE%9E%E4%BD%93%E3%80%81%E5%85%B3%E7%B3%BB%E5%92%8C%E8%A7%82%E5%AF%9F%E4%BF%A1%E6%81%AF%EF%BC%8C%E8%AE%A9+AI+%E8%83%BD%E5%A4%9F%E8%B7%A8%E8%81%8A%E5%A4%A9%E8%AE%B0%E4%BD%8F%E6%88%91%E4%BB%AC%E7%9A%84%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%B7%A7%E5%A6%99%E5%9C%B0%E7%BB%99+AI+%E5%8A%A9%E6%89%8B%E6%B7%BB%E5%8A%A0+%E2%80%9C%E5%A4%A7%E8%84%91%E8%AE%B0%E5%BF%86%E2%80%9D%E3%80%82GitHub%EF%BC%9Ahttp%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[存储](存储.md), [聊天](聊天.md), [观察](观察.md)
+[存储](存储.md), [服务器](服务器.md), [聊天](聊天.md), [观察](观察.md)
 ___
 ##### 2025-06-11 00:23:35 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 又发现一个强大的 MCP 服务器：Vibetest Use，一键启动多个 Agent 对网站全面自动化测试。底层使用的是 Browser-Use 自动化智能体，最多可支持 10 个 Agent 同时测试网站，自动发现 UI Bug、失效的…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%8F%88%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%BC%BA%E5%A4%A7%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AVibetest+Use%EF%BC%8C%E4%B8%80%E9%94%AE%E5%90%AF%E5%8A%A8%E5%A4%9A%E4%B8%AA+Agent+%E5%AF%B9%E7%BD%91%E7%AB%99%E5%85%A8%E9%9D%A2%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E3%80%82%E5%BA%95%E5%B1%82%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AF+Browser-Use+%E8%87%AA%E5%8A%A8%E5%8C%96%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E6%9C%80%E5%A4%9A%E5%8F%AF%E6%94%AF%E6%8C%81+10+%E4%B8%AA+Agent+%E5%90%8C%E6%97%B6%E6%B5%8B%E8%AF%95%E7%BD%91%E7%AB%99%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8F%91%E7%8E%B0+UI+Bug%E3%80%81%E5%A4%B1%E6%95%88%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[启动](启动.md), [支持](支持.md), [自动化](自动化.md)
+[启动](启动.md), [支持](支持.md), [服务器](服务器.md), [自动化](自动化.md)
 ___
 ##### 2025-05-26 06:56:12 UTC ~ karminski-牙医
 > RT @karminski3: 看到个 go 写的操作文件系统的 MCP Server——mcp-filesystem-server通过这个MCP就可以操作本地文件系统了，由于这个是go编写的，go能交叉编译的架构特别多，所以理论上大部分系统都能运行这个MCP Server…
@@ -61,7 +61,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+4.+%E5%8F%AA%E9%9C%80%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B3%E5%8F%AF%E6%9E%84%E5%BB%BA%E3%80%81%E9%83%A8%E7%BD%B2%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96%E8%BF%9C%E7%A8%8BMCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E8%BF%99%E4%B8%AAMCP%E6%A8%A1%E6%9D%BF%E8%AE%A9%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E9%A2%84%E9%85%8D%E7%BD%AE%E7%9A%84Stripe%E3%80%81OAuth%E7%99%BB%E5%BD%95%E5%92%8CCloudflare%E9%83%A8%E7%BD%B2%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96MCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E4%B8%8ECursor%E3%80%81Claude%E7%AD%89%E5%85%BC%E5%AE%B9%EF%BC%8C%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%95%88%E3%80%82https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [盈利](盈利.md)
+[Claude](Claude.md), [服务器](服务器.md), [盈利](盈利.md)
 ___
 ##### 2025-05-11 07:30:01 UTC ~ AI Will
 > RT @FinanceYF5: 5个巨大的AI代理、MCP和LLM更新：1. 苹果刚刚发布了FastVLM代码和模型。一款极速的视觉语言模型，直接在iPhone上运行，使用MLX，大幅减少高分辨率图像的编码时间。非常适合实时的设备端应用。 https://t.co/…
@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Excel+MCP+Server+%E8%BF%99%E6%AC%BE+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%87%E4%B8%BA%E5%AE%9E%E7%94%A8%EF%BC%8C%E9%80%9A%E8%BF%87+AI+%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C+Excel+%E6%96%87%E4%BB%B6%EF%BC%8C%E6%88%96%E8%AE%B8%E4%B8%8D%E7%94%A8%E5%86%8D%E8%A3%85%E5%BE%AE%E8%BD%AF+Excel+%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6%E4%BA%86%E3%80%82%E7%9B%AE%E5%89%8D%E5%B7%B2%E7%BB%8F%E5%AE%9E%E7%8E%B0%E5%88%9B%E5%BB%BA%E3%80%81%E8%AF%BB%E5%8F%96%E5%92%8C%E4%BF%AE%E6%94%B9+Excel+%E8%A1%A8%E6%A0%BC%E6%95%B0%E6%8D%AE%EF%BC%8C%E7%94%9A%E8%87%B3%E8%BF%98%E8%83%BD%E5%BA%94%E7%94%A8%E6%A0%BC%E5%BC%8F%E3%80%81%E5%88%9B%E5%BB%BA%E5%9B%BE%E8%A1%A8%E5%92%8C%E9%80%8F%E8%A7%86%E8%A1%A8%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[实现](实现.md), [微软](微软.md), [操作](操作.md), [数据](数据.md), [文件](文件.md), [直接](直接.md)
+[实现](实现.md), [微软](微软.md), [操作](操作.md), [数据](数据.md), [文件](文件.md), [服务器](服务器.md), [直接](直接.md)
 ___
 ##### 2025-04-25 10:35:35 UTC ~ AI Will
 > RT @FinanceYF5: 2025年可以构建的23个MCP创业点子（AI智能体/AI/MCP点子）👇MCP改变了游戏规则。  以前：智能体什么都不记得。  现在：它们能记住、推理并协作。收藏这个？不！你或许永远不会去看。  去构建一个，这是最好的理解方式！…
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+GitHub+%E4%B8%8A%E8%BF%99%E6%AC%BE+Browserbase+MCP+Server+%E6%B5%8F%E8%A7%88%E5%99%A8%E7%88%AC%E8%99%AB+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9C%89%E7%82%B9%E5%BC%BA%E5%A4%A7%EF%BC%81%E9%80%9A%E8%BF%87%E5%AE%83%E8%83%BD%E5%A4%9F%E8%AE%A9+Claude+%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E7%88%AC%E5%8F%96%E9%A1%B5%E9%9D%A2%E4%B8%8A%E5%86%85%E5%AE%B9%E5%A4%96%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BD%91%E9%A1%B5%E5%AF%BC%E8%88%AA%E3%80%81%E6%88%AA%E5%9B%BE%E3%80%81%E7%82%B9%E5%87%BB%E5%92%8C%E5%86%85%E5%AE%B9%E5%A1%AB%E5%86%99%E7%AD%89%E6%93%8D%E4%BD%9C%E3%80%82GitHub%EF%BC%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [控制](控制.md), [操作](操作.md), [直接](直接.md), [除了](除了.md)
+[Claude](Claude.md), [控制](控制.md), [操作](操作.md), [服务器](服务器.md), [直接](直接.md), [除了](除了.md)
 ___
 ##### 2025-04-21 09:26:11 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 扣子空间最近爆火，又一码难求了MCP 使用门槛降下来以后，用户的需求确实旺盛开个帖子简单介绍一下扣子空间，以及我尝试的时候具有代表性的三个例子很多朋友喜欢的黑橙色网页生成提示词也在里面后面放几个仅有的邀请码 https://t.co/NI…
@@ -131,7 +131,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%8E%B0%E5%9C%A8%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E6%83%B3%E5%9F%BA%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9C%80%E6%B1%82%E8%BF%9B%E8%A1%8C%E5%BC%80%E5%8F%91+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E4%BD%86%E5%A4%8D%E6%9D%82%E7%9A%84%E5%8D%8F%E8%AE%AE%E7%BB%86%E8%8A%82%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%A1%E7%90%86%EF%BC%8C%E5%A4%A7%E5%A4%A7%E9%99%8D%E4%BD%8E%E4%BA%86%E6%88%91%E4%BB%AC%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E3%80%82%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E9%AB%98%E6%95%88%E6%9E%84%E5%BB%BA+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%9A%84%E5%BC%80%E6%BA%90+Python+%E6%A1%86%E6%9E%B6%EF%BC%9AFastMCP%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Python](Python.md), [协议](协议.md), [客户](客户.md), [开发](开发.md), [开源](开源.md), [效率](效率.md), [进行](进行.md), [降低](降低.md), [需求](需求.md)
+[Python](Python.md), [协议](协议.md), [客户](客户.md), [开发](开发.md), [开源](开源.md), [效率](效率.md), [服务器](服务器.md), [进行](进行.md), [降低](降低.md), [需求](需求.md)
 ___
 ##### 2025-04-21 02:55:15 UTC ~ 面条
 > RT @miantiao_me: 大模型的知识库都有截止时间，面对新版本的框架和库写出来的代码大概率没法用Context7 提供了 1800+ 热门库的 LLMs.txt 和 MCP Server 给大模型读取或者编辑器调用，由 Upstash 开源让 AI 更好的理解…
@@ -201,14 +201,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+FastAPI-MCP%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8A%8A%E4%BB%BB%E6%84%8FFastAPI%E5%BA%94%E7%94%A8%E5%8F%98%E6%88%90+MCP%E6%9C%8D%E5%8A%A1%E5%99%A8FastAPI-MCP%E6%98%AF%E4%B8%80%E4%B8%AA%E8%BF%91%E4%B9%8E%E9%9B%B6%E9%85%8D%E7%BD%AE%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E7%94%A8%E4%BA%8E%E8%87%AA%E5%8A%A8%E6%8A%8AFastAPI%E6%8E%A5%E5%8F%A3%E8%BD%AC%E6%8D%A2%E4%B8%BAMCP%E5%B7%A5%E5%85%B7%E6%AF%94%E5%A6%82%EF%BC%8C%E4%BD%A0%E8%AE%A9Claude%E6%89%A7%E8%A1%8C%EF%BC%9A%22%E5%B8%AE%E6%88%91%E7%BB%99%E7%94%A8%E6%88%B7ID%E4%B8%BA12345%E7%9A%84%E7%94%A8%E6%88%B7%E5%8F%91%E9%80%81%E4%B8%80%E5%B0%81%E6%8F%90%E9%86%92%E9%82%AE%E4%BB%B6%22%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [工具](工具.md), [执行](执行.md), [接口](接口.md), [提醒](提醒.md), [用于](用于.md), [转换](转换.md)
+[Claude](Claude.md), [工具](工具.md), [执行](执行.md), [接口](接口.md), [提醒](提醒.md), [服务器](服务器.md), [用于](用于.md), [转换](转换.md)
 ___
 ##### 2025-04-16 12:47:22 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 一款专为 MCP 服务器设计的安全扫描开源工具：MCP-Scan。它能自动检测 MCP 服务器中常见的安全漏洞，如提示词注入、工具中毒和跨域提权攻击等，确保 AI 工具的安全使用。GitHub：https://t.co/Jid7aJw…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%AE%89%E5%85%A8%E6%89%AB%E6%8F%8F%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9AMCP-Scan%E3%80%82%E5%AE%83%E8%83%BD%E8%87%AA%E5%8A%A8%E6%A3%80%E6%B5%8B+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%EF%BC%8C%E5%A6%82%E6%8F%90%E7%A4%BA%E8%AF%8D%E6%B3%A8%E5%85%A5%E3%80%81%E5%B7%A5%E5%85%B7%E4%B8%AD%E6%AF%92%E5%92%8C%E8%B7%A8%E5%9F%9F%E6%8F%90%E6%9D%83%E6%94%BB%E5%87%BB%E7%AD%89%EF%BC%8C%E7%A1%AE%E4%BF%9D+AI+%E5%B7%A5%E5%85%B7%E7%9A%84%E5%AE%89%E5%85%A8%E4%BD%BF%E7%94%A8%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FJid7aJw%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[工具](工具.md), [开源](开源.md), [检测](检测.md), [漏洞](漏洞.md), [确保](确保.md), [设计](设计.md)
+[工具](工具.md), [开源](开源.md), [服务器](服务器.md), [检测](检测.md), [漏洞](漏洞.md), [确保](确保.md), [设计](设计.md)
 ___
 ##### 2025-04-16 04:32:52 UTC ~ 汉松
 > RT @Yonah_x: MCP 确实很有想象力，我用 prompt + MCP 就基本复刻了 Grok DeepSearch 的功能。prompt 就是告诉了模型有搜索和浏览两个工具，然后按照先搜索，再浏览，迭代循环的流程执行。MCP 给 AI 提供了工具和反馈，剩下的就是…
@@ -299,7 +299,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%88%E6%97%A9%E5%89%8D%EF%BC%8C%E6%88%91%E4%BB%AC%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%88%A9%E7%94%A8+AI+%E5%BF%AB%E9%80%9F%E6%8A%93%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E8%BF%9B%E8%A1%8C%E6%8F%90%E9%97%AE%E5%92%8C%E7%90%86%E8%A7%A3%EF%BC%8C%E4%BD%86%E9%A2%87%E4%B8%BA%E7%B9%81%E7%90%90%E4%B8%94%E6%8A%80%E6%9C%AF%E5%B0%8F%E7%99%BD%E9%9A%BE%E4%BB%A5%E4%B8%8A%E6%89%8B%E3%80%82%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BA%86%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7+sitemcp+%E5%90%8E%EF%BC%8C%E8%BF%99%E4%B8%80%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%B0%86%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E3%80%82%E5%AE%83%E8%83%BD%E4%B8%80%E9%94%AE%E6%8A%93%E5%8F%96%E6%95%B4%E4%B8%AA%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%B9%B6%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8C%96%E4%B8%BA+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%86%8D%E6%90%AD%E9%85%8D+Claude%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [进行](进行.md)
+[Claude](Claude.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [服务器](服务器.md), [进行](进行.md)
 ___
 ##### 2025-04-10 03:43:53 UTC ~ Orange AI
 > RT @oran_ge: Google 宣布推出 Agent2Agent 协议 (A2A)，这是一种开放协议，让 Agents 可以相互协作，而不受底层框架或供应商的限制。A2A 属于对 Anthropic 的模型上下文协议 (MCP) 的一种补充 https://t.…
@@ -327,7 +327,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E6%8A%8A%E4%BB%BB%E6%84%8F%E7%BD%91%E7%AB%99%E5%8F%98%E6%88%90MCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE%EF%BC%9Asitemcpsitemcp%E4%BC%9A%E6%8A%93%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%B9%B6%E7%BC%93%E5%AD%98%EF%BC%8C%E6%94%AF%E6%8C%81%E4%BD%BF%E7%94%A8micromatch%E6%8C%87%E5%AE%9A%E6%8A%93%E5%8F%96%E7%9A%84%E9%A1%B5%E9%9D%A2%E8%B7%AF%E5%BE%84%E4%BB%A5%E5%8F%8ACSS%E9%80%89%E6%8B%A9%E5%99%A8%E6%9D%A5%E7%B2%BE%E7%BB%86%E5%8C%96%E9%80%89%E6%8B%A9%E9%A1%B5%E9%9D%A2%E5%86%85%E5%AE%B9%EF%BC%8C%E5%B9%B6%E6%8A%8A%E6%8A%93%E5%8F%96%E7%9A%84%E5%86%85%E5%AE%B9%E7%94%A8%E4%BD%9CMCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E6%BA%90%E5%AE%83%E7%AD%89%E4%BA%8E%E6%98%AF%E6%8A%8A%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8F%AF%E4%BA%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[支持](支持.md), [数据](数据.md), [项目](项目.md)
+[支持](支持.md), [数据](数据.md), [服务器](服务器.md), [项目](项目.md)
 ___
 ##### 2025-04-07 17:25:17 UTC ~ Geek
 > RT @geekbb: DeepChat 更新后越来越好用了，它集成的搜索功能可有意思，直接开独立窗口进行浏览搜索，100%成功是吧……集成的 MCP 功能启用也十分方便，整体表现相当优秀，近期会持续使用它。🧩https://t.co/YjdUD0lrXl https://…
@@ -383,14 +383,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E4%BB%BD%E7%B2%BE%E9%80%89%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%97%E8%A1%A8%EF%BC%9AAwesome+MCP+Servers%E3%80%82%E6%B1%87%E9%9B%86%E4%BA%86%E5%90%84%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%8C%85%E5%90%AB%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8E%A7%E5%88%B6%E3%80%81%E4%BA%91%E5%B9%B3%E5%8F%B0%E3%80%81%E9%80%9A%E8%AE%AF%E8%81%8A%E5%A4%A9%E3%80%81%E6%95%B0%E6%8D%AE%E5%BA%93%E3%80%81%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%E3%80%81%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C%E7%AD%89%E7%AD%89%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FUxBzgveUuB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[工具](工具.md), [平台](平台.md), [开发](开发.md), [控制](控制.md), [操作](操作.md), [数据](数据.md), [文件](文件.md), [聊天](聊天.md)
+[工具](工具.md), [平台](平台.md), [开发](开发.md), [控制](控制.md), [操作](操作.md), [数据](数据.md), [文件](文件.md), [服务器](服务器.md), [聊天](聊天.md)
 ___
 ##### 2025-03-29 10:09:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 给大家分享一门 MCP 编程极速入门教程：MCP-Chinese-Started-Guide。作者一步步讲解了如何从开发 MCP 服务器，到调试 MCP 服务器，再到结合  DeepSeek + Cline 构建图文生成实例。Git…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%88%86%E4%BA%AB%E4%B8%80%E9%97%A8+MCP+%E7%BC%96%E7%A8%8B%E6%9E%81%E9%80%9F%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%EF%BC%9AMCP-Chinese-Started-Guide%E3%80%82%E4%BD%9C%E8%80%85%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%AE%B2%E8%A7%A3%E4%BA%86%E5%A6%82%E4%BD%95%E4%BB%8E%E5%BC%80%E5%8F%91+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%88%B0%E8%B0%83%E8%AF%95+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%86%8D%E5%88%B0%E7%BB%93%E5%90%88++DeepSeek+%2B+Cline+%E6%9E%84%E5%BB%BA%E5%9B%BE%E6%96%87%E7%94%9F%E6%88%90%E5%AE%9E%E4%BE%8B%E3%80%82Git%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [开发](开发.md)
+[DeepSeek](DeepSeek.md), [开发](开发.md), [服务器](服务器.md)
 ___
 ##### 2025-03-28 08:04:44 UTC ~ 倪爽
 > RT @nishuang: 我回想了一下，能引发全人类一起刷屏的 AI，基本上都来自 ChatGPT重要原因是用户达到满足的路径非常短，打开、一句话出结果、高潮、分享到社交媒体、持续高潮一天尖叫一天欲仙欲死一天😂MCP 那些只能触及少数人，路径也太长 https://t…
@@ -425,7 +425,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E8%AE%A9+Claude+%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%85%B7%E5%A4%87%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E5%92%8C%E7%BC%96%E8%BE%91%E6%96%87%E4%BB%B6%E8%83%BD%E5%8A%9B%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9ADesktop+Commander+MCP%E3%80%82%E9%80%9A%E8%BF%87%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE%28MCP%29%E8%AE%A9+Claude+%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E3%80%81%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91%E5%92%8C%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [模型](模型.md), [进程](进程.md)
+[Claude](Claude.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [服务器](服务器.md), [模型](模型.md), [进程](进程.md)
 ___
 ##### 2025-03-23 04:13:13 UTC ~ Lex Tang
 > RT @lexrus: 以后学 Swift 新特性可以用 MCP 这样玩：prompt: `search_with_bing 查找 Swift 语言 6.0 版新特性。crawl_webpages 访问 https://t.co/WzGzKK9iDT ，模仿作者的文风，整理出…

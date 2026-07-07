@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40alanchen%3A+%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84+AI+%E8%B5%B0%E7%A7%81%E6%A1%88%EF%BC%8C%E4%BD%9C%E6%A1%88%E5%B7%A5%E5%85%B7%E7%AB%9F%E7%84%B6%E6%98%AF%E4%B8%80%E6%8A%8A%E5%90%B9%E9%A3%8E%E6%9C%BA%E3%80%82+%F0%9F%94%8C%F0%9F%92%80SMCI+%E7%9A%84%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8D%E4%BB%85%E8%A2%AB%E6%8A%93%E5%88%B0%E5%90%91%E4%B8%AD%E5%9B%BD%E8%B5%B0%E7%A7%81%E4%BA%86+25+%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84+Nvidia+GPU%E3%80%82+%E4%BB%96%E8%BF%98%E5%9C%A8%E7%9B%91%E6%8E%A7%E5%BD%95%E5%83%8F%E9%87%8C%E8%A2%AB%E6%8B%8D%E5%88%B0%EF%BC%9A%E6%8B%BF%E7%9D%80%E4%B8%80%E6%8A%8A%E5%90%B9%E9%A3%8E%E6%9C%BA%E8%9E%8D%E5%8C%96%E5%BA%8F%E5%88%97%E5%8F%B7%E8%B4%B4%E7%BA%B8%E7%9A%84%E8%83%B6%E6%B0%B4%EF%BC%8C%E5%A5%BD%E7%BB%84%E8%A3%85%E2%80%9C%E5%81%87%E6%9C%8D%E5%8A%A1%E5%99%A8%E2%80%9D%E6%9D%A5%E7%B3%8A%E5%BC%84%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%90%88%E8%A7%84%E5%AE%A1%E8%AE%A1%E5%91%98%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[不仅](不仅.md), [审计](审计.md), [工具](工具.md), [组装](组装.md), [美国](美国.md), [走私](走私.md)
+[不仅](不仅.md), [审计](审计.md), [工具](工具.md), [服务器](服务器.md), [组装](组装.md), [美国](美国.md), [走私](走私.md)
 ___
 ##### 2026-02-27 07:30:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 外媒去年12月报道，Google正在推广张量处理单元（TPU），让TPU成为英伟达领先市场的图形处理器（GPU）以外可行替代选项。#南洋商报 #Meta #Google #AI #TPU #芯片https://t.co/YLkNDGbBe…
@@ -96,7 +96,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BD%93%E9%9C%80%E8%A6%81%E7%AE%A1%E7%90%86%E5%A4%9A%E5%8F%B0+GPU+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E9%80%9A%E8%BF%87+SSH+%E8%BF%9E%E6%8E%A5%E5%88%B0%E6%AF%8F%E5%8F%B0%E6%9C%BA%E5%99%A8%E4%B8%8A%E6%9F%A5%E7%9C%8B%E6%98%BE%E5%8D%A1%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%81%EF%BC%8C%E6%9D%A5%E5%9B%9E%E5%88%87%E6%8D%A2%E7%A1%AE%E5%AE%9E%E6%8C%BA%E9%BA%BB%E7%83%A6%E3%80%82GPU+Hot+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E6%AD%A3%E5%A5%BD%E8%A7%A3%E5%86%B3%E8%BF%99%E4%B8%AA%E7%97%9B%E7%82%B9%EF%BC%8C%E8%AE%A9%E6%88%91%E4%BB%AC%E8%83%BD%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E5%8F%AF%E8%A7%86%E5%8C%96%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89+GPU+%E8%B5%84%E6%BA%90%E3%80%82%E4%B8%8D%E4%BB%85%E8%83%BD%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E5%8D%95%E5%8F%B0%E6%9C%BA%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89+GPU%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[不仅](不仅.md), [工具](工具.md), [开源](开源.md), [状态](状态.md), [资源](资源.md), [连接](连接.md)
+[不仅](不仅.md), [工具](工具.md), [开源](开源.md), [服务器](服务器.md), [状态](状态.md), [资源](资源.md), [连接](连接.md)
 ___
 ##### 2025-10-12 01:55:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 想要学习 GPU 编程，而网上的教程大多数以理论为主，缺少系统性的练习题目，无法动手实践。可以看一下，LeetGPU Challenges 这份精心设计的 GPU 编程挑战题集，就像是 GPU 版本的 LeetCode。每道题目都包含…
@@ -173,7 +173,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E7%81%A3%E5%87%BA%E5%8F%A3%E9%87%8D%E5%BF%83%E8%AE%8A%E5%8C%96%EF%BC%8C%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E9%A1%8D%E6%8E%A5%E8%BF%91%E5%A4%A7%E9%99%B8%E3%80%91%E7%94%B1%E6%96%BC%E5%8F%B0%E7%81%A3%E7%9A%84%E5%87%BA%E5%8F%A3%E7%9B%AE%E7%9A%84%E5%9C%B0%E8%BD%89%E5%90%91%E7%BE%8E%E5%9C%8B%EF%BC%8C%E4%BB%A5%E5%89%8D%E5%B0%8D%E7%BE%8E%E5%87%BA%E5%8F%A3%E8%88%87%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E5%87%BA%E5%8F%A3%E5%AD%98%E5%9C%A83%E8%87%B34%E5%80%8D%E7%9A%84%E5%B7%AE%E8%B7%9D%EF%BC%8C%E5%A6%82%E4%BB%8A%E4%BA%8C%E8%80%85%E7%9A%84%E5%B7%AE%E8%B7%9D%E5%B7%B2%E7%B8%AE%E5%B0%8F%E8%87%B3%E5%83%850.1%E5%80%8B%E7%99%BE%E5%88%86%E9%BB%9E%E3%80%82%E9%85%8D%E5%82%99GPU%E7%9A%84%E4%BC%BA%E6%9C%8D%E5%99%A8%E3%80%81%E9%A1%AF%E7%A4%BA%E5%8D%A1%E4%BB%A5%E5%8F%8A%E6%A9%9F%E6%A2%B0%E9%A1%9E%E7%94%A3%E5%93%81%E7%AD%89%E7%9A%84%E5%87%BA%E5%8F%A3%E5%9D%87%E5%A2%9E%E9%95%B7%E2%80%A6%E2%80%A6++https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[如今](如今.md), [差距](差距.md), [美國](美國.md)
+[伺服器](伺服器.md), [如今](如今.md), [差距](差距.md), [美國](美國.md)
 ___
 ##### 2025-06-19 08:02:52 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 摩尔线程创办人兼执行长张建中曾任辉达在GPU行业深耕近20年。#南洋商报 #摩尔线程 #中国 #GPUhttps://t.co/e7v2KxwGMD https://t.co/ZO5Ho9bTLc
@@ -236,7 +236,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8GTC%E6%8A%80%E6%9C%AF%E5%A4%A7%E4%BC%9A%E7%9A%84%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E4%B8%AD%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%85%A8%E7%90%83%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8A%A0%E9%80%9F%E8%AE%A1%E7%AE%97%E7%9A%84%E4%B8%B4%E7%95%8C%E7%82%B9%EF%BC%8C%E5%B9%B6%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E4%B8%80%E4%BB%A3GPU+Blackwell+Ultra%E5%8F%8AAI%E6%9C%8D%E5%8A%A1%E5%99%A8GB300%E3%80%82%E4%BB%96%E5%86%8D%E6%AC%A1%E9%87%8D%E7%94%B3%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8D%E8%A8%80%EF%BC%9A%E2%80%9C%E4%B9%B0%E8%B6%8A%E5%A4%9A%EF%BC%8C%E7%9C%81%E8%B6%8A%E5%A4%9A%E2%80%9D%EF%BC%8C%E5%B9%B6%E5%BD%A2%E5%AE%B9%E4%BB%8A%E5%B9%B4%E7%9A%84GTC%E5%A4%A7%E4%BC%9A%E6%98%AF%E2%80%9CAI%E7%9A%84%E8%B6%85%E7%BA%A7%E7%A2%97%E2%80%9D%E3%80%82+https%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [处于](处于.md), [技术](技术.md), [黄仁勋](黄仁勋.md)
+[发布](发布.md), [处于](处于.md), [技术](技术.md), [服务器](服务器.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2025-03-19 08:25:02 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【英偉達新AI半導體處理性能提升至1.5倍】英偉達還發佈了一款名為「Dynamo」的AI處理優化軟體。該軟體可在運作高性能AI模型時，控制大量GPU高效分擔AI處理任務。據稱，使用此軟體運作DeepSeek的R1模型時，每個GPU可處理的…
@@ -257,7 +257,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ProgramerJohann%3A+%E8%85%BE%E8%AE%AF%E7%8E%84%E6%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%A9DeepSeek-R1%E5%AE%9E%E7%8E%B0%E5%AE%B6%E7%94%A8%E9%83%A8%E7%BD%B2%EF%BC%81%E5%8F%AA%E9%9C%804%E4%B8%87%E5%85%83%E7%A1%AC%E4%BB%B6%EF%BC%8C%E5%8A%9F%E8%80%97%E5%99%AA%E9%9F%B3%E4%B8%8E%E6%99%AE%E9%80%9A%E5%8F%B0%E5%BC%8F%E6%9C%BA%E7%9B%B8%E5%BD%93%EF%BC%8C%E6%AF%8F%E7%A7%92%E5%8F%AF%E7%94%9F%E6%88%90%E7%BA%A610%E4%B8%AA%E6%B1%89%E5%AD%97%E3%80%82%E5%85%B3%E9%94%AE%E5%9C%A8%E4%BA%8E%E4%BC%98%E5%8C%96%E5%86%85%E5%AD%98%E5%B8%A6%E5%AE%BD%E3%80%81CPU%E9%85%8D%E7%BD%AE%E5%92%8C%E7%B3%BB%E7%BB%9F%E5%8F%82%E6%95%B0%E3%80%82%E6%AF%94%E8%B5%B7%E4%BC%A0%E7%BB%9FGPU%E6%96%B9%E6%A1%88%EF%BC%888%E5%BC%A0H20%EF%BC%8C150%E4%B8%87%2B%EF%BC%89%EF%BC%8C%E6%88%90%E6%9C%AC%E9%99%8D%E4%BD%8E97%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [优化](优化.md), [传统](传统.md), [关键](关键.md), [噪音](噪音.md), [实现](实现.md), [成本](成本.md), [方案](方案.md), [汉字](汉字.md), [系统](系统.md), [腾讯](腾讯.md), [降低](降低.md)
+[DeepSeek](DeepSeek.md), [优化](优化.md), [传统](传统.md), [关键](关键.md), [噪音](噪音.md), [实现](实现.md), [带宽](带宽.md), [成本](成本.md), [方案](方案.md), [汉字](汉字.md), [系统](系统.md), [腾讯](腾讯.md), [降低](降低.md)
 ___
 ##### 2025-03-15 05:18:52 UTC ~ AIGCLINK
 > RT @aigclink: 酷，清华团队刚刚放出了模型推理引擎：赤兔Chitu，DeepSeek推理成本降一半，性能翻番在A800 集群上，用赤兔引擎部署DeepSeek-671B满血版推理服务，比vLLM部署方案，GPU数量不仅减少了50%，输出速度提升了3.15倍支…
@@ -292,14 +292,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40myfxtrader%3A+DeepSeek%E2%80%9C%E5%BC%80%E6%BA%90%E5%91%A8%E2%80%9D%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%8C%E4%BB%8B%E7%BB%8DDeepEP%E2%80%94%E2%80%94%E9%A6%96%E4%B8%AA%E4%B8%BA%E6%B7%B7%E5%90%88%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%9E%8B%EF%BC%88MoE%EF%BC%89%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%BC%80%E6%BA%90EP%E9%80%9A%E4%BF%A1%E5%BA%93%EF%BC%8C%E6%94%AF%E6%8C%81NVLink%E5%92%8CRDMA%E7%A1%AE%E4%BF%9D%E9%AB%98%E5%B8%A6%E5%AE%BD%E9%80%9A%E4%BF%A1%EF%BC%9B%E6%94%AF%E6%8C%81FP8%E9%99%8D%E4%BD%8E%E8%AE%A1%E7%AE%97%E6%88%90%E6%9C%AC%EF%BC%9B%E9%AB%98%E5%90%9E%E5%90%90%E9%87%8F%E5%92%8C%E4%BD%8E%E5%BB%B6%E8%BF%9F%E5%86%85%E6%A0%B8%E5%88%86%E5%88%AB%E4%BC%98%E5%8C%96%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E9%98%B6%E6%AE%B5%EF%BC%9B%E9%87%8D%E5%8F%A0%E6%9C%BA%E5%88%B6%E6%8F%90%E5%8D%87GPU%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [优化](优化.md), [吞吐量](吞吐量.md), [型](型.md), [延迟](延迟.md), [开源](开源.md), [成本](成本.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [混合专家](混合专家.md), [确保](确保.md), [设计](设计.md), [重叠](重叠.md), [阶段](阶段.md), [降低](降低.md)
+[DeepSeek](DeepSeek.md), [优化](优化.md), [吞吐量](吞吐量.md), [型](型.md), [带宽](带宽.md), [延迟](延迟.md), [开源](开源.md), [成本](成本.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [混合专家](混合专家.md), [确保](确保.md), [设计](设计.md), [重叠](重叠.md), [阶段](阶段.md), [降低](降低.md)
 ___
 ##### 2025-02-24 09:37:30 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: Deepseek 开源周第一天：FlashMLA项目让H800的计算性能翻了两倍！！为Hopper架构GPU开发的高效MLA解码内核专门针对可变长度序列进行了优化H800上可以达到 3000 GB/s的内存带宽和580 TFLOPS的计算…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+Deepseek+%E5%BC%80%E6%BA%90%E5%91%A8%E7%AC%AC%E4%B8%80%E5%A4%A9%EF%BC%9AFlashMLA%E9%A1%B9%E7%9B%AE%E8%AE%A9H800%E7%9A%84%E8%AE%A1%E7%AE%97%E6%80%A7%E8%83%BD%E7%BF%BB%E4%BA%86%E4%B8%A4%E5%80%8D%EF%BC%81%EF%BC%81%E4%B8%BAHopper%E6%9E%B6%E6%9E%84GPU%E5%BC%80%E5%8F%91%E7%9A%84%E9%AB%98%E6%95%88MLA%E8%A7%A3%E7%A0%81%E5%86%85%E6%A0%B8%E4%B8%93%E9%97%A8%E9%92%88%E5%AF%B9%E5%8F%AF%E5%8F%98%E9%95%BF%E5%BA%A6%E5%BA%8F%E5%88%97%E8%BF%9B%E8%A1%8C%E4%BA%86%E4%BC%98%E5%8C%96H800%E4%B8%8A%E5%8F%AF%E4%BB%A5%E8%BE%BE%E5%88%B0+3000+GB%2Fs%E7%9A%84%E5%86%85%E5%AD%98%E5%B8%A6%E5%AE%BD%E5%92%8C580+TFLOPS%E7%9A%84%E8%AE%A1%E7%AE%97%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[优化](优化.md), [开发](开发.md), [开源](开源.md), [进行](进行.md), [针对](针对.md), [项目](项目.md)
+[优化](优化.md), [带宽](带宽.md), [开发](开发.md), [开源](开源.md), [进行](进行.md), [针对](针对.md), [项目](项目.md)
 ___
 ##### 2025-02-24 03:52:37 UTC ~ 
 > RT @myfxtrader: DeepSeek“开源周”正式启动，首个开源的代码库为 FlashMLA——针对英伟达Hopper架构GPU优化的高效MLA解码内核，专为处理可变长度序列而设计。支持BF16数据类型、分页KV缓存（块大小64），提供高性能计算与内存吞吐。在H8…

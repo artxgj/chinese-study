@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+Computex+2026+%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%93%8A%EF%BC%81+%23%E9%BB%83%E4%BB%81%E5%8B%B3%E5%90%88%E9%AB%94SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9C%83%E9%95%B7%E5%B4%94%E6%B3%B0%E6%BA%90+SK+%E9%9B%86%E5%9C%98%E6%9C%83%E9%95%B7%E5%B4%94%E6%B3%B0%E6%BA%90%E4%BB%8A%EF%BC%882+%E6%97%A5%EF%BC%89%E5%BF%AB%E9%96%83+SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%94%A4%E4%BD%8D%E4%B8%A6%E6%8E%A5%E5%8F%97%E5%AA%92%E9%AB%94%E8%A8%AA%E5%95%8F%E3%80%82%E5%9C%A8%E8%A2%AB%E5%95%8F%E5%88%B0%E7%94%A2%E8%83%BD%E8%A6%8F%E5%8A%83%E5%92%8C%E8%A8%98%E6%86%B6%E9%AB%94%E5%BE%8C%E5%B8%82%EF%BC%8C%E5%B4%94%E6%B3%B0%E6%BA%90%E8%A1%A8%E7%A4%BA%EF%BC%8CAI+%E6%8C%81%E7%BA%8C%E6%93%B4%E5%BC%B5%E5%B8%B6%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94%E9%9C%80%E6%B1%82%E6%88%90%E9%95%B7%EF%BC%8C%E6%AF%8F%E4%B8%80%E4%BB%A3+AI%E2%80%A6+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[需求](需求.md), [黃仁勳](黃仁勳.md)
+[記憶體](記憶體.md), [需求](需求.md), [黃仁勳](黃仁勳.md)
 ___
 ##### 2026-05-29 05:41:52 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 存储芯片厂商美光、三星电子及SK海力士也参与了本轮融资，具体金额未披露。#南洋商报 #Anthropic #OpenAIhttps://t.co/VgZavEsBxQ https://t.co/Ka33WdhEvW
@@ -89,14 +89,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%AE%B0%E5%BF%86%E4%BD%93%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E9%80%8F%E8%BF%87%E4%BD%8E%E4%BB%B7%E7%AB%9E%E4%BA%89%EF%BC%8C%E5%B7%B2%E5%B4%9B%E8%B5%B7%E6%88%90%E4%B8%BA%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%AD%89%E9%9F%A9%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%85%AC%E5%8F%B8%E7%9A%84%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E3%80%82%23%E4%B8%AD%E7%BE%8E+%23%E8%8A%AF%E7%89%87+%23%E9%9F%A9%E5%9B%BD+%23%E5%8D%8A%E5%AF%BC%E4%BD%93+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+https%3A%2F%2Ft.co%2Fzapua0O93n+https%3A%2F%2Ft.co%2FZT8OYxHQjd)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [半导体](半导体.md), [崛起](崛起.md), [竞争](竞争.md), [芯片](芯片.md), [韩国](韩国.md)
+[三星](三星.md), [半导体](半导体.md), [崛起](崛起.md), [竞争](竞争.md), [芯片](芯片.md), [记忆体](记忆体.md), [韩国](韩国.md)
 ___
 ##### 2024-05-29 07:38:56 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AI用記憶體競爭激化，三星猛追SK海力士】英偉達創始人黃仁勳把HBM（高頻寬記憶體）稱為「技術奇蹟」，認為它是AI革命的重要因素。在這一領域SK海力士處於優勢，佔有全球過半份額。這種狀況讓三星無法接受……https://t.co/oB…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AI%E7%94%A8%E8%A8%98%E6%86%B6%E9%AB%94%E7%AB%B6%E7%88%AD%E6%BF%80%E5%8C%96%EF%BC%8C%E4%B8%89%E6%98%9F%E7%8C%9B%E8%BF%BDSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%BB%83%E4%BB%81%E5%8B%B3%E6%8A%8AHBM%EF%BC%88%E9%AB%98%E9%A0%BB%E5%AF%AC%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%89%E7%A8%B1%E7%82%BA%E3%80%8C%E6%8A%80%E8%A1%93%E5%A5%87%E8%B9%9F%E3%80%8D%EF%BC%8C%E8%AA%8D%E7%82%BA%E5%AE%83%E6%98%AFAI%E9%9D%A9%E5%91%BD%E7%9A%84%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0%E3%80%82%E5%9C%A8%E9%80%99%E4%B8%80%E9%A0%98%E5%9F%9FSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%99%95%E6%96%BC%E5%84%AA%E5%8B%A2%EF%BC%8C%E4%BD%94%E6%9C%89%E5%85%A8%E7%90%83%E9%81%8E%E5%8D%8A%E4%BB%BD%E9%A1%8D%E3%80%82%E9%80%99%E7%A8%AE%E7%8B%80%E6%B3%81%E8%AE%93%E4%B8%89%E6%98%9F%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FoB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[HBM](HBM.md), [三星](三星.md), [因素](因素.md), [奇蹟](奇蹟.md), [英偉達](英偉達.md), [領域](領域.md), [高頻寬記憶體](高頻寬記憶體.md), [黃仁勳](黃仁勳.md)
+[HBM](HBM.md), [三星](三星.md), [因素](因素.md), [奇蹟](奇蹟.md), [英偉達](英偉達.md), [記憶體](記憶體.md), [領域](領域.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md), [黃仁勳](黃仁勳.md)
 ___
 ##### 2024-05-28 06:23:47 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 韩国晶片巨头SK海力士的一名中国籍女员工A某，涉嫌向中国华为公司泄露降低晶片不良率的核心技术资料被捕，目前正在接受审讯。 https://t.co/5TsHCFHeNd
@@ -110,14 +110,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E4%B8%89%E6%98%9F%E6%9B%B4%E6%8D%A2%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9A%E5%8A%A1%E4%B8%BB%E7%AE%A1%EF%BC%8C%E8%BF%BD%E8%B5%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E3%80%91%E8%BF%99%E5%AE%B6%E7%94%B5%E5%AD%90%E9%9B%86%E5%9B%A2%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%AB%98%E5%B8%A6%E5%AE%BD%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E9%A2%86%E5%9F%9F%E8%90%BD%E5%90%8E%E4%BA%8E%E9%9F%A9%E5%9B%BD%E5%90%8C%E8%A1%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%82https%3A%2F%2Ft.co%2FjNhqQW9EUE)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [人工](人工.md), [人工智能](人工智能.md), [半导体](半导体.md), [存储](存储.md), [更换](更换.md), [竞争](竞争.md), [芯片](芯片.md), [追赶](追赶.md), [韩国](韩国.md), [领域](领域.md)
+[三星](三星.md), [人工](人工.md), [人工智能](人工智能.md), [半导体](半导体.md), [存储](存储.md), [带宽](带宽.md), [更换](更换.md), [竞争](竞争.md), [芯片](芯片.md), [追赶](追赶.md), [韩国](韩国.md), [领域](领域.md)
 ___
 ##### 2024-04-12 06:43:52 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【韓企在DRAM展開堆疊競爭，成日企商機】高頻寬內存（HBM）是把多個DRAM晶片堆疊在一起的先進記憶體。隨著AI的普及，需求急劇擴大。全球領先的是SK海力士，三星電子正在追趕。對於支撐精細堆疊技術的日系設備和材料企業來説，這也巨大的商機…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%9F%93%E4%BC%81%E5%9C%A8DRAM%E5%B1%95%E9%96%8B%E5%A0%86%E7%96%8A%E7%AB%B6%E7%88%AD%EF%BC%8C%E6%88%90%E6%97%A5%E4%BC%81%E5%95%86%E6%A9%9F%E3%80%91%E9%AB%98%E9%A0%BB%E5%AF%AC%E5%85%A7%E5%AD%98%EF%BC%88HBM%EF%BC%89%E6%98%AF%E6%8A%8A%E5%A4%9A%E5%80%8BDRAM%E6%99%B6%E7%89%87%E5%A0%86%E7%96%8A%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%85%88%E9%80%B2%E8%A8%98%E6%86%B6%E9%AB%94%E3%80%82%E9%9A%A8%E8%91%97AI%E7%9A%84%E6%99%AE%E5%8F%8A%EF%BC%8C%E9%9C%80%E6%B1%82%E6%80%A5%E5%8A%87%E6%93%B4%E5%A4%A7%E3%80%82%E5%85%A8%E7%90%83%E9%A0%98%E5%85%88%E7%9A%84%E6%98%AFSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%EF%BC%8C%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E6%AD%A3%E5%9C%A8%E8%BF%BD%E8%B6%95%E3%80%82%E5%B0%8D%E6%96%BC%E6%94%AF%E6%92%90%E7%B2%BE%E7%B4%B0%E5%A0%86%E7%96%8A%E6%8A%80%E8%A1%93%E7%9A%84%E6%97%A5%E7%B3%BB%E8%A8%AD%E5%82%99%E5%92%8C%E6%9D%90%E6%96%99%E4%BC%81%E6%A5%AD%E4%BE%86%E8%AA%AC%EF%BC%8C%E9%80%99%E4%B9%9F%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%95%86%E6%A9%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [HBM](HBM.md), [三星](三星.md), [普及](普及.md), [晶片](晶片.md), [需求](需求.md)
+[DRAM](DRAM.md), [HBM](HBM.md), [三星](三星.md), [普及](普及.md), [晶片](晶片.md), [記憶體](記憶體.md), [需求](需求.md), [頻寬](頻寬.md)
 ___
 ##### 2024-02-08 16:01:17 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 韩国芯片大厂SK海力士（SK Hynix）正与台积电组成同盟，推动双方在人工智能（AI）领域的合作。 https://t.co/kexj5u1IKi https://t.co/ON4D7zOkyM
@@ -187,14 +187,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E6%8E%80%E8%B5%B7%E5%87%8F%E4%BA%A7%E6%B5%AA%E6%BD%AE%E3%80%91%E2%80%9C%E8%BF%87%E5%8E%BB%E4%BB%8E%E6%9C%AA%E7%BB%8F%E5%8E%86%E8%BF%87%E5%A6%82%E6%AD%A4%E4%B8%A5%E9%87%8D%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%B8%8D%E6%99%AF%E6%B0%94%E7%8A%B6%E5%86%B5%E2%80%9D%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%A1%8C%E6%83%85%E6%81%B6%E5%8C%96%E8%B6%8B%E4%BA%8E%E9%95%BF%E6%9C%9F%E5%8C%96%EF%BC%8C%E6%97%A5%E6%9C%AC%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E5%86%B3%E5%AE%9A%E6%8E%A8%E8%BF%9FNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B0%E5%B7%A5%E5%8E%82%E7%9A%84%E6%8A%95%E4%BA%A7%E6%97%B6%E9%97%B4%E3%80%82%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8F%90%E9%AB%98%E5%87%8F%E4%BA%A7%E5%B9%85%E5%BA%A6%E3%80%82%E2%80%9C%E5%87%8F%E4%BA%A7%E5%A4%9A%E7%B1%B3%E8%AF%BA%E6%95%88%E5%BA%94%E2%80%9D%E6%AD%A3%E5%9C%A8NAND%E9%A2%86%E5%9F%9F%E6%89%A9%E6%95%A3%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [型](型.md), [存储](存储.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [领域](领域.md)
+[NAND](NAND.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [型](型.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [领域](领域.md)
 ___
 ##### 2023-03-14 00:16:09 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【半导体存储器的疲软行情加剧】2022年10～12月，三星电子半导体业务的营业利润下降97％。SK海力士、铠侠控股等出现营业亏损。存储器价格自2022年7～9月转为下跌走势。面对手机等终端需求的迅速放缓，供应过剩的半导体产品面临强烈的价格…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E7%96%B2%E8%BD%AF%E8%A1%8C%E6%83%85%E5%8A%A0%E5%89%A7%E3%80%912022%E5%B9%B410%EF%BD%9E12%E6%9C%88%EF%BC%8C%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9A%E5%8A%A1%E7%9A%84%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D97%EF%BC%85%E3%80%82SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E7%AD%89%E5%87%BA%E7%8E%B0%E8%90%A5%E4%B8%9A%E4%BA%8F%E6%8D%9F%E3%80%82%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%B7%E6%A0%BC%E8%87%AA2022%E5%B9%B47%EF%BD%9E9%E6%9C%88%E8%BD%AC%E4%B8%BA%E4%B8%8B%E8%B7%8C%E8%B5%B0%E5%8A%BF%E3%80%82%E9%9D%A2%E5%AF%B9%E6%89%8B%E6%9C%BA%E7%AD%89%E7%BB%88%E7%AB%AF%E9%9C%80%E6%B1%82%E7%9A%84%E8%BF%85%E9%80%9F%E6%94%BE%E7%BC%93%EF%BC%8C%E4%BE%9B%E5%BA%94%E8%BF%87%E5%89%A9%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E5%93%81%E9%9D%A2%E4%B8%B4%E5%BC%BA%E7%83%88%E7%9A%84%E4%BB%B7%E6%A0%BC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [下跌](下跌.md), [价格](价格.md), [利润](利润.md), [加剧](加剧.md), [半导体](半导体.md), [存储](存储.md), [损](损.md), [放缓](放缓.md), [营业利润](营业利润.md), [行情](行情.md), [迅速](迅速.md), [过剩](过剩.md), [需求](需求.md), [面临](面临.md)
+[三星](三星.md), [下跌](下跌.md), [价格](价格.md), [利润](利润.md), [加剧](加剧.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [损](损.md), [放缓](放缓.md), [营业利润](营业利润.md), [行情](行情.md), [迅速](迅速.md), [过剩](过剩.md), [需求](需求.md), [面临](面临.md)
 ___
 ##### 2023-01-10 00:17:11 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【日韩等外资在大连扩大设备投资】外资整体的2022年对大连投资额创出有可比数据的过去4年的新高。丰田和松下的合资公司在生产EV电池的大连启动了第3座工厂建设。日本电产也建设了生产马达的新工厂。除了日企外，韩国SK海力士也将扩建从美国英特尔…
@@ -236,7 +236,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%97%A0%E9%99%90%E6%9C%9F%E6%8E%A8%E8%BF%9F%E9%9F%A9%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%89%A9%E5%BB%BA%E8%AE%A1%E5%88%92%E3%80%91SK%E5%8E%9F%E8%AE%A1%E5%88%92%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%B8%AD%E9%83%A8%E5%B7%A5%E5%8E%82%E5%BB%BA%E8%AE%BE%E6%96%B0%E5%8E%82%E6%88%BF%EF%BC%8C%E9%87%8F%E4%BA%A7%E5%B0%96%E7%AB%AF%E5%AD%98%E5%82%A8%E5%99%A8%E4%BA%A7%E5%93%81%EF%BC%8C%E4%BD%86%E6%97%A5%E5%89%8D%E5%86%B3%E5%AE%9A%E6%8E%A8%E8%BF%9F%E3%80%82%E7%94%B1%E4%BA%8E%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E5%92%8C%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%9A%84%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5%E4%BD%8E%E8%BF%B7%EF%BC%8C%E5%AD%98%E5%82%A8%E5%99%A8%E5%B8%82%E5%9C%BA%E8%A1%8C%E6%83%85%E6%81%B6%E5%8C%96%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E7%BE%8E%E5%85%83%E5%8D%87%E5%80%BC%E5%AF%BC%E8%87%B4%E7%94%9F%E4%BA%A7%E8%AE%BE%E5%A4%87%E5%BC%95%E8%BF%9B%E6%88%90%E6%9C%AC%E4%B8%8A%E5%8D%87%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[低迷](低迷.md), [升值](升值.md), [存储](存储.md), [导致](导致.md), [尖端](尖端.md), [建设](建设.md), [情况](情况.md), [成本](成本.md), [推迟](推迟.md), [生产](生产.md), [行情](行情.md), [计划](计划.md), [量产](量产.md), [销售](销售.md), [韩国](韩国.md)
+[低迷](低迷.md), [升值](升值.md), [存储](存储.md), [存储器](存储器.md), [导致](导致.md), [尖端](尖端.md), [建设](建设.md), [情况](情况.md), [成本](成本.md), [推迟](推迟.md), [生产](生产.md), [行情](行情.md), [计划](计划.md), [量产](量产.md), [销售](销售.md), [韩国](韩国.md)
 ___
 ##### 2022-05-26 08:09:09 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【韩国年轻人对论资排辈说不，大企业纷纷加薪】“招聘时公司承诺会发放与三星同等的绩效工资，为什么不兑现？”2021年，包括管理层在内的SK海力士全体员工收到这样一封邮件，促使公司改变了绩效工资的计算方式。今年1月，该公司向所有员工发放了相当…
@@ -257,11 +257,11 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%88%A9%E7%94%A8%E6%97%A7%E8%AE%BE%E5%A4%87%E6%89%A9%E5%A4%A7%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BB%A3%E5%B7%A5%E3%80%91%E2%80%9C%E6%8A%8A%E4%BB%A3%E5%B7%A5%E4%BA%A7%E8%83%BD%E5%A2%9E%E8%87%B32%E5%80%8D%E2%80%9D%EF%BC%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%9A%84%E5%89%AF%E4%BC%9A%E9%95%BF%E5%9C%A85%E6%9C%88%E8%BF%99%E6%A0%B7%E8%AF%B4%E3%80%82%E4%BD%9C%E4%B8%BA%E4%B8%96%E7%95%8C%E7%AC%AC2%E5%A4%A7%E5%AD%98%E5%82%A8%E5%99%A8%E4%BC%81%E4%B8%9A%EF%BC%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%9A%84%E8%90%A5%E4%B8%9A%E6%94%B6%E5%85%A5%E4%B8%AD%E4%BB%A3%E5%B7%A5%E4%B8%9A%E5%8A%A1%E4%BB%85%E5%8D%A02%EF%BC%85%E3%80%82%E5%8D%B3%E4%BE%BF%E5%A6%82%E6%AD%A4%EF%BC%8CSK%E4%BB%8D%E6%83%B3%E5%A4%A7%E5%8A%9B%E5%8F%91%E5%B1%95%E4%BB%A3%E5%B7%A5%E4%B8%9A%E5%8A%A1%EF%BC%8C%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%9C%8B%E5%88%B0%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%95%BF%E6%9C%9F%E4%B8%8D%E8%B6%B3%E7%9A%84%E5%95%86%E6%9C%BA%E2%80%A6%E2%80%A6http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[半导体](半导体.md), [存储](存储.md), [扩大](扩大.md), [收入](收入.md)
+[半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩大](扩大.md), [收入](收入.md)
 ___
 ##### 2021-03-11 03:38:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【受半导体短缺波及，DRAM价格创2年来高价】存储器DRAM由三星和SK海力士等自主制造，受到的影响轻微。但生产上一代产品的台湾部分企业放弃通用产品，转为制造台积电无法应付的定制产品等利润率更高的产品，现货市场的供求出现紧张…… http…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%97%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%9F%AD%E7%BC%BA%E6%B3%A2%E5%8F%8A%EF%BC%8CDRAM%E4%BB%B7%E6%A0%BC%E5%88%9B2%E5%B9%B4%E6%9D%A5%E9%AB%98%E4%BB%B7%E3%80%91%E5%AD%98%E5%82%A8%E5%99%A8DRAM%E7%94%B1%E4%B8%89%E6%98%9F%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%AD%89%E8%87%AA%E4%B8%BB%E5%88%B6%E9%80%A0%EF%BC%8C%E5%8F%97%E5%88%B0%E7%9A%84%E5%BD%B1%E5%93%8D%E8%BD%BB%E5%BE%AE%E3%80%82%E4%BD%86%E7%94%9F%E4%BA%A7%E4%B8%8A%E4%B8%80%E4%BB%A3%E4%BA%A7%E5%93%81%E7%9A%84%E5%8F%B0%E6%B9%BE%E9%83%A8%E5%88%86%E4%BC%81%E4%B8%9A%E6%94%BE%E5%BC%83%E9%80%9A%E7%94%A8%E4%BA%A7%E5%93%81%EF%BC%8C%E8%BD%AC%E4%B8%BA%E5%88%B6%E9%80%A0%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%97%A0%E6%B3%95%E5%BA%94%E4%BB%98%E7%9A%84%E5%AE%9A%E5%88%B6%E4%BA%A7%E5%93%81%E7%AD%89%E5%88%A9%E6%B6%A6%E7%8E%87%E6%9B%B4%E9%AB%98%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E4%BE%9B%E6%B1%82%E5%87%BA%E7%8E%B0%E7%B4%A7%E5%BC%A0%E2%80%A6%E2%80%A6+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [三星](三星.md), [价格](价格.md), [利润](利润.md), [利润率](利润率.md), [半导体](半导体.md), [台湾](台湾.md), [台积电](台积电.md), [存储](存储.md), [影响](影响.md), [现货](现货.md), [生产](生产.md), [短缺](短缺.md)
+[DRAM](DRAM.md), [三星](三星.md), [价格](价格.md), [利润](利润.md), [利润率](利润率.md), [半导体](半导体.md), [台湾](台湾.md), [台积电](台积电.md), [存储](存储.md), [存储器](存储器.md), [影响](影响.md), [现货](现货.md), [生产](生产.md), [短缺](短缺.md)

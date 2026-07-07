@@ -937,7 +937,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E4%B8%93%E5%AE%B6%E6%B2%83%E6%9B%BC%E9%9C%8D%E8%8A%AC%E5%A3%B0%E7%A7%B0%EF%BC%8C%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%8F%AF%E8%83%BD%E6%AF%94%E6%8A%96%E9%9F%B3%EF%BC%88TikTok%EF%BC%89%E5%A8%81%E8%83%81%E6%9B%B4%E5%A4%A7%EF%BC%8C%E5%9B%A0%E4%B8%BA%E6%89%80%E6%9C%89%E6%95%B0%E6%8D%AE%E5%88%86%E4%BA%AB%E5%92%8C%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%83%BD%E4%BD%8D%E4%BA%8E%E4%B8%AD%E5%9B%BD%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%B0%8F%E7%BA%A2%E4%B9%A6+%23rednote+%23tiktok+%23%E6%8A%96%E9%9F%B3+https%3A%2F%2Ft.co%2FQt2TJvmTMl+https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[威胁](威胁.md), [小红书](小红书.md), [数据](数据.md), [美国](美国.md)
+[伺服器](伺服器.md), [威胁](威胁.md), [小红书](小红书.md), [数据](数据.md), [美国](美国.md)
 ___
 ##### 2025-01-18 02:45:14 UTC ~ New China 中文
 > RT @XinhuaChinese: TikTok首席执行官周受资17日通过TikTok发表视频讲话说，将尽全力确保TikTok平台未来继续繁荣。当天早些时候，美国联邦最高法院裁定TikTok“不卖就禁用”的法律不违宪。这意味着最高法院允许该法案按原计划于19日生效。 htt…
@@ -1581,7 +1581,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CEOBriefing%3A+%E5%85%B3%E4%BA%8E%E6%8A%96%E9%9F%B3%E6%B5%B7%E5%A4%96%E7%89%88TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A2%83%E9%81%87%EF%BC%8C%E6%9D%8E%E5%BC%80%E5%A4%8D%E8%BF%99%E6%AE%B5%E8%AF%9D%EF%BC%8C%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9C%8B%EF%BC%9F%E6%9D%8E%E5%BC%80%E5%A4%8D%E7%9A%84%E5%8E%9F%E8%AF%9D%EF%BC%9A%E2%80%9C%E8%B0%B7%E6%AD%8C%E9%80%80%E5%87%BA%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E6%88%91%E5%B7%B2%E7%BB%8F%E7%A6%BB%E5%BC%80%E4%BA%86%E3%80%82%E4%B8%8D%E8%BF%87%E7%8E%AF%E5%A2%83%E5%92%8C%E8%A7%84%E5%88%99%E6%97%B6%E5%BE%88%E6%B8%85%E6%A5%9A%E7%9A%84%EF%BC%9A1%29%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BA%8E%E6%83%B3%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%96%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8%EF%BC%8C%E9%9C%80%E8%A6%81%E5%A6%82%E4%BD%95%E7%AC%A6%E5%90%88%E6%B3%95%E5%BE%8B%E6%B3%95%E8%A7%84%EF%BC%8C%E6%8F%8F%E8%BF%B0%E7%9A%84%E9%9D%9E%E5%B8%B8%E6%B8%85%E6%A5%9A%28%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8%E3%80%81ICP%E8%AF%81%E3%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%9C%A8%E4%B8%AD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[互联网](互联网.md), [美国](美国.md), [谷歌](谷歌.md)
+[互联网](互联网.md), [服务器](服务器.md), [美国](美国.md), [谷歌](谷歌.md)
 ___
 ##### 2024-03-16 06:54:12 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国字节跳动旗下短视频应用TikTok呼吁美国用户致电参议员，要求他们对一项可能使TikTok在美国被封禁的法案投反对票。https://t.co/bsDecT26mH

@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E7%9B%91%E6%8E%A7+AI+agent+%E8%BF%9B%E7%A8%8B%EF%BC%88Claude+Code%E3%80%81Codex%E3%80%81MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AD%89%EF%BC%89%E7%9A%84%E5%86%85%E5%AD%98%E3%80%81CPU+%E5%92%8C%E7%A3%81%E7%9B%98%E5%8D%A0%E7%94%A8%EF%BC%8C%E6%A3%80%E6%B5%8B%E6%B3%84%E6%BC%8F%2F%E5%83%B5%E5%B0%B8%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E7%94%A8%E4%BD%A0%E8%87%AA%E5%B7%B1%E7%9A%84+AI+CLI+%E7%BB%99%E5%87%BA%E6%B8%85%E7%90%86%E5%BB%BA%E8%AE%AE%E3%80%82https%3A%2F%2Ft.co%2FtARu9S8p4I+https%3A%2F%2Ft.co%2Fw%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [检测](检测.md), [泄漏](泄漏.md), [进程](进程.md)
+[MCP](MCP.md), [服务器](服务器.md), [检测](检测.md), [泄漏](泄漏.md), [进程](进程.md)
 ___
 ##### 2026-06-04 00:29:06 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Anthropic正将其面向AI产品第三方销售商的“Claude合作伙伴网络”计划正式化，以“推动公司收入的持久性”。这家公司周一表示，已机密提交IPO申请。https://t.co/pT9sCavAHc
@@ -124,7 +124,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+4.+%E5%8F%AA%E9%9C%80%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B3%E5%8F%AF%E6%9E%84%E5%BB%BA%E3%80%81%E9%83%A8%E7%BD%B2%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96%E8%BF%9C%E7%A8%8BMCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E8%BF%99%E4%B8%AAMCP%E6%A8%A1%E6%9D%BF%E8%AE%A9%E4%BD%A0%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E9%A2%84%E9%85%8D%E7%BD%AE%E7%9A%84Stripe%E3%80%81OAuth%E7%99%BB%E5%BD%95%E5%92%8CCloudflare%E9%83%A8%E7%BD%B2%EF%BC%8C%E5%BF%AB%E9%80%9F%E6%9E%84%E5%BB%BA%E5%B9%B6%E7%9B%88%E5%88%A9%E5%8C%96MCP%E6%9C%8D%E5%8A%A1%E5%99%A8%E3%80%82%E4%B8%8ECursor%E3%80%81Claude%E7%AD%89%E5%85%BC%E5%AE%B9%EF%BC%8C%E7%AB%8B%E5%8D%B3%E7%94%9F%E6%95%88%E3%80%82https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [盈利](盈利.md)
+[MCP](MCP.md), [服务器](服务器.md), [盈利](盈利.md)
 ___
 ##### 2025-04-27 18:39:03 UTC ~ karminski-牙医
 > RT @karminski3: 分享个来自 Anthropic 官方的 Claude Code 最佳实践指南教程，准备尝试用 Claude Code 或者其它 agentic 命令行工具写代码的同学可以看看，写得很棒地址：https://t.co/wtAXxAvTzy ht…
@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+GitHub+%E4%B8%8A%E8%BF%99%E6%AC%BE+Browserbase+MCP+Server+%E6%B5%8F%E8%A7%88%E5%99%A8%E7%88%AC%E8%99%AB+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%9C%89%E7%82%B9%E5%BC%BA%E5%A4%A7%EF%BC%81%E9%80%9A%E8%BF%87%E5%AE%83%E8%83%BD%E5%A4%9F%E8%AE%A9+Claude+%E7%9B%B4%E6%8E%A5%E6%8E%A7%E5%88%B6%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E7%88%AC%E5%8F%96%E9%A1%B5%E9%9D%A2%E4%B8%8A%E5%86%85%E5%AE%B9%E5%A4%96%EF%BC%8C%E8%BF%98%E8%83%BD%E7%BD%91%E9%A1%B5%E5%AF%BC%E8%88%AA%E3%80%81%E6%88%AA%E5%9B%BE%E3%80%81%E7%82%B9%E5%87%BB%E5%92%8C%E5%86%85%E5%AE%B9%E5%A1%AB%E5%86%99%E7%AD%89%E6%93%8D%E4%BD%9C%E3%80%82GitHub%EF%BC%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [控制](控制.md), [操作](操作.md), [直接](直接.md), [除了](除了.md)
+[MCP](MCP.md), [控制](控制.md), [操作](操作.md), [服务器](服务器.md), [直接](直接.md), [除了](除了.md)
 ___
 ##### 2025-04-21 00:24:29 UTC ~ AIGCLINK
 > RT @aigclink: 微软发布了一个文档转换MCP：markitdown-mcp，用于将网页链接(http/https)、本地文件以及数据转换为Markdown格式！主要是调用MarkItDown进行格式转换。可以通过Docker运行或直接安装，也可以与Claude等…
@@ -166,7 +166,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+FastAPI-MCP%EF%BC%9A%E5%8F%AF%E4%BB%A5%E6%8A%8A%E4%BB%BB%E6%84%8FFastAPI%E5%BA%94%E7%94%A8%E5%8F%98%E6%88%90+MCP%E6%9C%8D%E5%8A%A1%E5%99%A8FastAPI-MCP%E6%98%AF%E4%B8%80%E4%B8%AA%E8%BF%91%E4%B9%8E%E9%9B%B6%E9%85%8D%E7%BD%AE%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E7%94%A8%E4%BA%8E%E8%87%AA%E5%8A%A8%E6%8A%8AFastAPI%E6%8E%A5%E5%8F%A3%E8%BD%AC%E6%8D%A2%E4%B8%BAMCP%E5%B7%A5%E5%85%B7%E6%AF%94%E5%A6%82%EF%BC%8C%E4%BD%A0%E8%AE%A9Claude%E6%89%A7%E8%A1%8C%EF%BC%9A%22%E5%B8%AE%E6%88%91%E7%BB%99%E7%94%A8%E6%88%B7ID%E4%B8%BA12345%E7%9A%84%E7%94%A8%E6%88%B7%E5%8F%91%E9%80%81%E4%B8%80%E5%B0%81%E6%8F%90%E9%86%92%E9%82%AE%E4%BB%B6%22%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [工具](工具.md), [执行](执行.md), [接口](接口.md), [提醒](提醒.md), [用于](用于.md), [转换](转换.md)
+[MCP](MCP.md), [工具](工具.md), [执行](执行.md), [接口](接口.md), [提醒](提醒.md), [服务器](服务器.md), [用于](用于.md), [转换](转换.md)
 ___
 ##### 2025-04-13 18:12:47 UTC ~ AIGCLINK
 > RT @aigclink: MCP生态Jupyter MCP Server，让AI助手直接在你的Jupyter笔记本中添加代码/文字比如用Python分析一个数据集，“计算一下这个数据集的平均值和标准差”，你可以用自然语言给ClaudeClaude不仅可以生成结果，还…
@@ -180,7 +180,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%88%E6%97%A9%E5%89%8D%EF%BC%8C%E6%88%91%E4%BB%AC%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%88%A9%E7%94%A8+AI+%E5%BF%AB%E9%80%9F%E6%8A%93%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E8%BF%9B%E8%A1%8C%E6%8F%90%E9%97%AE%E5%92%8C%E7%90%86%E8%A7%A3%EF%BC%8C%E4%BD%86%E9%A2%87%E4%B8%BA%E7%B9%81%E7%90%90%E4%B8%94%E6%8A%80%E6%9C%AF%E5%B0%8F%E7%99%BD%E9%9A%BE%E4%BB%A5%E4%B8%8A%E6%89%8B%E3%80%82%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BA%86%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7+sitemcp+%E5%90%8E%EF%BC%8C%E8%BF%99%E4%B8%80%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%B0%86%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E3%80%82%E5%AE%83%E8%83%BD%E4%B8%80%E9%94%AE%E6%8A%93%E5%8F%96%E6%95%B4%E4%B8%AA%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%B9%B6%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8C%96%E4%B8%BA+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%86%8D%E6%90%AD%E9%85%8D+Claude%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [进行](进行.md)
+[MCP](MCP.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [服务器](服务器.md), [进行](进行.md)
 ___
 ##### 2025-04-09 16:17:09 UTC ~ 向阳乔木
 > RT @vista8: 今天在钉钉做了一场直播，PPT是这两天重新写的。分享三个重点：AI发展速度超乎想象、学什么才能不落伍、如何学才能收获最大。AI发展速度快到上个月在清华大学分享的PPT这个月就得改。最佳编程模型从Claude 3.7变成Gemini 2.5 P…
@@ -257,7 +257,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E8%AE%A9+Claude+%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%85%B7%E5%A4%87%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E5%92%8C%E7%BC%96%E8%BE%91%E6%96%87%E4%BB%B6%E8%83%BD%E5%8A%9B%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9ADesktop+Commander+MCP%E3%80%82%E9%80%9A%E8%BF%87%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8D%8F%E8%AE%AE%28MCP%29%E8%AE%A9+Claude+%E6%89%A7%E8%A1%8C%E7%BB%88%E7%AB%AF%E5%91%BD%E4%BB%A4%E3%80%81%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%EF%BC%8C%E5%B9%B6%E6%8F%90%E4%BE%9B%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91%E5%92%8C%E6%90%9C%E7%B4%A2%E6%9B%BF%E6%8D%A2%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [模型](模型.md), [进程](进程.md)
+[MCP](MCP.md), [上下文](上下文.md), [协议](协议.md), [型](型.md), [执行](执行.md), [提供](提供.md), [搜索](搜索.md), [文件](文件.md), [服务器](服务器.md), [模型](模型.md), [进程](进程.md)
 ___
 ##### 2025-03-23 04:08:20 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 昨天向阳乔木整了一套用Claude生成海报的提示词效果非常好，基于他的发散了几个样式可以期待他明天的教程，人人都能实现海报自由了 https://t.co/17LAva36ca

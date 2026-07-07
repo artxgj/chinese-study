@@ -206,14 +206,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%8E%A8%E5%87%BA%E6%8C%87%E5%AF%BC%E6%96%B9%E9%92%88%EF%BC%8C%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%EF%BC%8C%E5%9B%BD%E4%BC%81%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AEAMD%EF%BC%88%E4%B9%9F%E7%A7%B0%E8%B6%85%E5%A8%81%EF%BC%89%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E7%82%B9%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%EF%BC%8C%E9%87%87%E8%B4%AD%E5%87%86%E5%88%99%E8%BF%98%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E9%87%87%E8%B4%AD%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BD%AC%E8%80%8C%E9%80%89%E6%8B%A9%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%B4%A7%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[AMD](AMD.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
+[AMD](AMD.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [服务器](服务器.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
 ___
 ##### 2024-03-13 06:12:33 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大單價格連續4個月上漲】DRAM的大宗交易價格2月環比上漲5％。2024年美國微軟的Windows 10操作系統將停止提供支持服務，預計會出現個人電腦更新需求。為了實現穩定採購，記憶體的買方接受了廠商的漲價要求……https:…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%96%AE%E5%83%B9%E6%A0%BC%E9%80%A3%E7%BA%8C4%E5%80%8B%E6%9C%88%E4%B8%8A%E6%BC%B2%E3%80%91DRAM%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC2%E6%9C%88%E7%92%B0%E6%AF%94%E4%B8%8A%E6%BC%B25%EF%BC%85%E3%80%822024%E5%B9%B4%E7%BE%8E%E5%9C%8B%E5%BE%AE%E8%BB%9F%E7%9A%84Windows+10%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E5%B0%87%E5%81%9C%E6%AD%A2%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8C%81%E6%9C%8D%E5%8B%99%EF%BC%8C%E9%A0%90%E8%A8%88%E6%9C%83%E5%87%BA%E7%8F%BE%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6%E6%9B%B4%E6%96%B0%E9%9C%80%E6%B1%82%E3%80%82%E7%82%BA%E4%BA%86%E5%AF%A6%E7%8F%BE%E7%A9%A9%E5%AE%9A%E6%8E%A1%E8%B3%BC%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E7%9A%84%E8%B2%B7%E6%96%B9%E6%8E%A5%E5%8F%97%E4%BA%86%E5%BB%A0%E5%95%86%E7%9A%84%E6%BC%B2%E5%83%B9%E8%A6%81%E6%B1%82%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [交易](交易.md), [微軟](微軟.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [美國](美國.md), [需求](需求.md), [預計](預計.md)
+[DRAM](DRAM.md), [交易](交易.md), [微軟](微軟.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [美國](美國.md), [記憶體](記憶體.md), [需求](需求.md), [預計](預計.md)
 ___
 ##### 2024-01-05 17:50:49 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 微软（#Microsoft）今天在官方部落格发文宣布，为了迎接人工智能（AI）世代到来，搭载Windows 11作业系统的新款个人电脑键盘。 https://t.co/UdvvhpmCQ5 https://t.co/6y0f6KB3e0

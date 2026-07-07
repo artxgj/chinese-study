@@ -26,14 +26,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40mingchikuo%3A+2027+%E5%B9%B4%E8%A8%98%E6%86%B6%E9%AB%94%E4%BE%9B%E9%9C%80%E7%BC%BA%E5%8F%A3%E5%B0%87%E6%8C%81%E7%BA%8C%E6%93%B4%E5%A4%A7%EF%BC%8C%E9%80%99%E6%89%8D%E6%98%AF+Apple+%E9%81%8A%E8%AA%AA%E7%99%BD%E5%AE%AE%E3%80%8C%E9%81%BF%E5%85%8D%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E6%9C%AA%E4%BE%86%E8%A2%AB%E5%88%97%E5%85%A5%E5%AF%A6%E9%AB%94%E6%B8%85%E5%96%AE%E3%80%8D%E7%9A%84%E7%9C%9F%E7%9B%B8%E2%96%8C%E5%85%88%E8%AC%9B%E6%88%91%E6%9C%80%E6%96%B0%E7%9A%84%E7%94%A2%E6%A5%AD%E8%AA%BF%E6%9F%A5%EF%BC%9AApple+%E9%9D%A2%E5%B0%8D%E7%9A%84%E5%A3%93%E5%8A%9B%EF%BC%8C%E5%B7%B2%E5%BE%9E%E8%A8%98%E6%86%B6%E9%AB%94%E6%88%90%E6%9C%AC%E5%A4%A7%E5%A2%9E%EF%BC%8C%E5%8D%87%E7%B4%9A%E5%88%B0%E4%BE%9B%E9%9C%80%E7%BC%BA%E5%8F%A3%E6%8C%81%E7%BA%8C%E6%93%B4%E5%A4%A7%E3%80%821.++2026+%E5%B9%B4%E7%94%A8%E6%96%BC%E6%B6%88%E8%B2%BB%E9%9B%BB%E5%AD%90%E7%9A%84%E8%A8%98%E6%86%B6%E9%AB%94%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[成本](成本.md), [缺口](缺口.md), [長鑫](長鑫.md)
+[成本](成本.md), [缺口](缺口.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
 ___
 ##### 2026-06-24 02:15:36 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 在 Mac 上跑本地大模型，系统自带的活动监视器看不到神经网络引擎和内存带宽的数据。于是找到 SiliconScope，一款专为 Apple Silicon 芯片打造的原生系统监控工具。补上了缺失的关键指标，直接把神经网络引擎、媒体引…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%9C%A8+Mac+%E4%B8%8A%E8%B7%91%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%B3%BB%E7%BB%9F%E8%87%AA%E5%B8%A6%E7%9A%84%E6%B4%BB%E5%8A%A8%E7%9B%91%E8%A7%86%E5%99%A8%E7%9C%8B%E4%B8%8D%E5%88%B0%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%BC%95%E6%93%8E%E5%92%8C%E5%86%85%E5%AD%98%E5%B8%A6%E5%AE%BD%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E4%BA%8E%E6%98%AF%E6%89%BE%E5%88%B0+SiliconScope%EF%BC%8C%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+Apple+Silicon+%E8%8A%AF%E7%89%87%E6%89%93%E9%80%A0%E7%9A%84%E5%8E%9F%E7%94%9F%E7%B3%BB%E7%BB%9F%E7%9B%91%E6%8E%A7%E5%B7%A5%E5%85%B7%E3%80%82%E8%A1%A5%E4%B8%8A%E4%BA%86%E7%BC%BA%E5%A4%B1%E7%9A%84%E5%85%B3%E9%94%AE%E6%8C%87%E6%A0%87%EF%BC%8C%E7%9B%B4%E6%8E%A5%E6%8A%8A%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E5%BC%95%E6%93%8E%E3%80%81%E5%AA%92%E4%BD%93%E5%BC%95%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [关键](关键.md), [型](型.md), [工具](工具.md), [引擎](引擎.md), [打造](打造.md), [数据](数据.md), [模型](模型.md), [直接](直接.md), [神经](神经.md), [系统](系统.md), [芯片](芯片.md)
+[Mac](Mac.md), [关键](关键.md), [型](型.md), [工具](工具.md), [带宽](带宽.md), [引擎](引擎.md), [打造](打造.md), [数据](数据.md), [模型](模型.md), [直接](直接.md), [神经](神经.md), [系统](系统.md), [芯片](芯片.md)
 ___
 ##### 2026-06-16 11:46:59 UTC ~ Geek Lite
 > RT @QingQ77: 一个 macOS 终端工具，在 Apple Silicon 上本地跑语音转文字 + 中英翻译。麦克风或会议音频进去，实时字幕和翻译出来，全程不联网。https://t.co/eFZRZ6EDQ7Apple GPU 本地跑，不需要联网。流式 AS…
@@ -278,7 +278,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Apple+MCP+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%87%E4%B8%BA%E5%AE%9E%E7%94%A8%EF%BC%8C%E8%AE%A9+AI+%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B8%AE%E6%88%91%E4%BB%AC%E6%93%8D%E4%BD%9C+Mac+%E4%B8%8A%E5%90%84%E7%A7%8D%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E3%80%82%E5%B7%B2%E6%94%AF%E6%8C%81%E4%BF%A1%E6%81%AF%E3%80%81%E9%82%AE%E4%BB%B6%E3%80%81%E6%97%A5%E5%8E%86%E3%80%81%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%E3%80%81%E9%80%9A%E8%AE%AF%E5%BD%95%E3%80%81%E5%9C%B0%E5%9B%BE%E7%AD%89%E5%BA%94%E7%94%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%93%8D%E4%BD%9C%E3%80%82%E7%94%9A%E8%87%B3%E8%BF%98%E8%83%BD%E6%89%A7%E8%A1%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E9%93%BE%E5%BC%8F%E4%BB%BB%E5%8A%A1%EF%BC%8C%E6%AF%94%E5%A6%82%E8%AF%B4%EF%BC%9A%E2%80%9C%E8%8E%B7%E5%8F%96%E5%BD%93%E5%A4%A9%E4%BC%9A%E8%AE%AE%E7%AC%94%E8%AE%B0%EF%BC%8C%E6%89%BE%E5%88%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [直接](直接.md), [自动化](自动化.md)
+[MCP](MCP.md), [Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [服务器](服务器.md), [直接](直接.md), [自动化](自动化.md)
 ___
 ##### 2025-10-01 08:11:07 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 依照苹果惯例，苹果在停止销售某款产品五年后，可能会将其列入过时产品名单。#南洋商报 #Apple #iphone #iPhone11ProMax #vintageproduct https://t.co/7d9yOrZJLc https:/…
@@ -376,7 +376,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AApple+Doc+MCP%EF%BC%8C%E5%9C%A8+AI+%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%8F%96+Apple+%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%EF%BC%8C%E5%A4%A7%E5%A4%A7%E6%8F%90%E5%8D%87%E6%88%91%E4%BB%AC%E7%9A%84%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E3%80%82%E6%94%AF%E6%8C%81%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%92%8C%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%AE%9E%E6%97%B6%E8%8E%B7%E5%8F%96+SwiftUI%E3%80%81UIKit%E3%80%81Foundatio%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [直接](直接.md), [苹果](苹果.md)
+[MCP](MCP.md), [开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [服务器](服务器.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-06-26 09:23:41 UTC ~ karminski-牙医
 > RT @karminski3: funwithcomputervision 发布了一个开源实时 3D 操纵器，你可以基于手势来操作投在界面上的任何物体，无论是缩放，移动，调节等等都能实现。感觉这个对AI眼镜的操作还是很有帮助的，现在全是闭源实现（比如 Apple Visio…
@@ -656,7 +656,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%AE%A1%E5%88%92%E6%9C%AA4%E5%9B%9B%E5%B9%B4%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E7%BA%A62.21%E5%85%86%E4%BB%A4%E5%90%89%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%AC%E5%9C%A8%E4%BC%91%E6%96%AF%E6%95%A6%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%88%B6%E9%80%A0%E5%8E%82%E3%80%82%23Apple+%23%E8%8B%B9%E6%9E%9C+%23DonaldTrump+%23tariffs+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5https%3A%2F%2Ft.co%2Fv7VX6H6U6v+https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [投资](投资.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md)
+[包括](包括.md), [投资](投资.md), [服务器](服务器.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md)
 ___
 ##### 2025-02-20 05:20:09 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果（Apple）发布廉价版iPhone16e，并直接上架官网。#南洋商报 #苹果 #Apple #iPhone16e #iPhonehttps://t.co/wdVzZrJNiQ https://t.co/Lfbd9ykLFJ

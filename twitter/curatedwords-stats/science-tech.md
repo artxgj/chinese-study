@@ -185,6 +185,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [程序](../hanzi-cards/程序.md) | computer program; sequence; order; procedures |
 | [数据结构](../hanzi-cards/数据结构.md) | data structure |
 | [鸿蒙](../hanzi-cards/鸿蒙.md) | HarmonyOS |
+| [带宽](../hanzi-cards/带宽.md)/[帶寬](../hanzi-cards/帶寬.md) | bandwidth |
+| [頻寬](../hanzi-cards/頻寬.md) | bandwidth (Taiwan) |
+| [存储器](../hanzi-cards/存储器.md)/[存儲器](../hanzi-cards/存儲器.md) | memory |
+| [记忆体](../hanzi-cards/记忆体.md)/[記憶體](../hanzi-cards/記憶體.md) | memory (Taiwan) |
+| [伺服器](../hanzi-cards/伺服器.md) | server (Taiwan) |
+| [服务器](../hanzi-cards/服务器.md)/[服務器](../hanzi-cards/服務器.md) | server |
 ## Physics
 |  |  |
 | ----- | :---: |

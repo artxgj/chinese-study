@@ -20,6 +20,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
 | [孙中山](../hanzi-cards/孙中山.md)/[孫中山](../hanzi-cards/孫中山.md) | Sun Yat Sen |
 | [习近平](../hanzi-cards/习近平.md)/[習近平](../hanzi-cards/習近平.md) | Xi Jinping |
+| [高志凯](../hanzi-cards/高志凯.md) | Gao Zhikai |
 | [马英九](../hanzi-cards/马英九.md)/[馬英九](../hanzi-cards/馬英九.md) | Ma Ying-jeou |
 | [江泽民](../hanzi-cards/江泽民.md) | Jiang Zemin |
 | [李光耀](../hanzi-cards/李光耀.md) | Lee Kuan Yew |

@@ -160,7 +160,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%8B%86%E8%A7%A3%E8%98%8B%E6%9E%9CVision+Pro%EF%BC%9A%E6%97%A5%E6%9C%AC%E9%9B%B6%E9%83%A8%E4%BB%B6%E4%BD%944%E6%88%90%E3%80%91%E3%80%8CVision+Pro%E3%80%8D%E6%8E%A1%E7%94%A8%E4%BA%86%E7%B4%A2%E5%B0%BC%E7%9A%84%E9%A1%AF%E7%A4%BA%E5%99%A8%E5%92%8C%E9%8E%A7%E4%BF%A0%E7%9A%84%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%8C%E6%8C%89%E5%83%B9%E6%A0%BC%E8%A8%88%E7%AE%97%EF%BC%8C42%EF%BC%85%E7%94%B1%E6%97%A5%E6%9C%AC%E4%BC%81%E6%A5%AD%E4%BE%9B%E6%87%89%EF%BC%8C%E9%80%99%E4%B8%80%E4%BD%94%E6%AF%94%E9%81%A0%E8%B6%85%E5%9C%A8%E3%80%8CiPhone+15+Pro+Max%E3%80%8D%E4%B8%AD%E7%9A%8410%EF%BC%85%E3%80%82%E6%8C%89%E5%9C%8B%E5%AE%B6%E6%88%96%E5%9C%B0%E5%8D%80%E4%BE%86%E7%9C%8B%EF%BC%8C%E4%BE%9B%E6%87%897%EF%BC%85%E9%9B%B6%E9%83%A8%E4%BB%B6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[拆解](拆解.md), [日本](日本.md), [索尼](索尼.md), [蘋果](蘋果.md), [零部件](零部件.md)
+[拆解](拆解.md), [日本](日本.md), [索尼](索尼.md), [蘋果](蘋果.md), [記憶體](記憶體.md), [零部件](零部件.md)
 ___
 ##### 2024-02-24 20:34:13 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 一桩与苹果iPhone有关的诈欺案，已让数万人被骗走数千万美元。https://t.co/7QgJqN7XVI https://t.co/DiYLoIgE4s
@@ -230,7 +230,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%8A%93%E4%BD%8F%E7%94%9F%E6%88%90%E5%BC%8FAI%E9%9C%80%E6%B1%82%E7%99%BC%E8%B5%B7%E5%8F%8D%E8%BD%89%E6%94%BB%E5%8B%A2%E3%80%91%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9A%84%E6%A5%AD%E7%B8%BE%E9%A0%90%E6%B8%AC%E9%A1%AF%E7%A4%BA%EF%BC%8C2024%E8%B2%A1%E5%B9%B4%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%B0%87%E5%A2%9E%E9%95%B72%E6%88%90%EF%BC%8C%E5%89%B5%E6%AD%B7%E5%8F%B2%E6%96%B0%E9%AB%98%E3%80%82%E8%A9%B2%E5%85%AC%E5%8F%B8%E7%B4%847%E6%88%90%E5%AE%A2%E6%88%B6%E6%98%AF%E8%98%8B%E6%9E%9C%E5%8F%8A%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%89%E7%BE%8E%E5%9C%8B%E5%A4%A7%E5%9E%8BIT%E4%BC%81%E6%A5%AD%EF%BC%8C%E9%9D%A2%E5%90%91%E7%94%9F%E6%88%90AI%E7%9B%B8%E9%97%9C%E4%BC%BA%E6%9C%8D%E5%99%A8%E3%80%81iPhone%E7%9A%84%E5%B0%96%E7%AB%AF%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%9C%80%E6%B1%82%E5%A0%85%E6%8C%BA%E3%80%82%E4%BB%8A%E5%BE%8C%E7%9A%84%E8%AA%B2%E9%A1%8C%E6%98%AF%E7%A2%BA%E4%BF%9D%E5%88%A9%E6%BD%A4%E7%8E%87%E5%8F%8A%E9%A0%86%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[利潤](利潤.md), [半導體](半導體.md), [台積電](台積電.md), [型](型.md), [尖端](尖端.md), [美國](美國.md), [英偉達](英偉達.md), [蘋果](蘋果.md), [銷售額](銷售額.md), [需求](需求.md)
+[伺服器](伺服器.md), [利潤](利潤.md), [半導體](半導體.md), [台積電](台積電.md), [型](型.md), [尖端](尖端.md), [美國](美國.md), [英偉達](英偉達.md), [蘋果](蘋果.md), [銷售額](銷售額.md), [需求](需求.md)
 ___
 ##### 2024-01-18 13:27:27 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司新的App Store支付政策激起了软件开发者的愤怒，他们认为这家iPhone制造商在回避法院裁决的意图。一位前反垄断官员说，通过这一改变，苹果公司实际上是在表示自己拒绝让步。https://t.co/gqp3hwczcK https:/…

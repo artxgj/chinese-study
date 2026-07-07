@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B6%88%E6%81%AF%E7%A7%B0%EF%BC%8C%E6%99%B6%E7%89%87%E8%AE%BE%E8%AE%A1%E5%B7%A8%E5%A4%B4%E8%B6%85%E5%BE%AE%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B03%E6%9C%8818%E6%97%A5%E8%AE%BF%E9%97%AE%E4%B8%89%E6%98%9F%E6%99%B6%E7%89%87%E5%B7%A5%E5%8E%82%EF%BC%8C%E5%B9%B6%E5%B0%86%E4%B8%8E%E4%B8%89%E6%98%9F%E7%AE%A1%E7%90%86%E5%B1%82%E8%AE%A8%E8%AE%BA%E5%B0%86%E5%90%88%E4%BD%9C%E8%8C%83%E5%9B%B4%E4%BB%8E%E5%AD%98%E5%82%A8%E5%99%A8%E6%89%A9%E5%B1%95%E8%87%B3%E6%99%B6%E5%9C%86%E4%BB%A3%E5%B7%A5%E9%A2%86%E5%9F%9F%E3%80%82+https%3A%2F%2Ft.co%2FEH0kYniiAY)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [半导体](半导体.md), [存储](存储.md), [巨头](巨头.md), [执行](执行.md), [晶圆](晶圆.md), [晶片](晶片.md), [苏姿丰](苏姿丰.md), [设计](设计.md), [超微](超微.md), [领域](领域.md), [首席执行官](首席执行官.md)
+[三星](三星.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [巨头](巨头.md), [执行](执行.md), [晶圆](晶圆.md), [晶片](晶片.md), [苏姿丰](苏姿丰.md), [设计](设计.md), [超微](超微.md), [领域](领域.md), [首席执行官](首席执行官.md)
 ___
 ##### 2026-03-06 00:21:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 知情人士表示，草案将要求企业在出口几乎所有AI加速器时都须取得美国许可，涵盖英伟达、超微（AMD）等公司产品。此举将把目前仅适用于约40个国家的出口限制扩展至全球。#南洋商报 #人工智能 #特朗普 #芯片 #英伟达https://t.co…
@@ -208,7 +208,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%A6%82%E4%BB%8A%EF%BC%8CAMD%E7%9A%84%E5%B8%82%E5%80%BC%E5%B7%B2%E8%B6%85%E8%BF%873%2C300%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%A2%9E%E9%95%BF%E7%99%BE%E5%80%8D%E6%9C%89%E4%BD%99%EF%BC%8C%E8%BF%99%E5%8F%8D%E6%98%A0%E5%87%BAAMD%E5%B7%A7%E5%A6%99%E5%9C%B0%E8%B0%83%E6%95%B4%E4%BA%86%E7%AD%96%E7%95%A5%EF%BC%8C%E4%BB%8E%E4%B8%BB%E8%A6%81%E7%94%9F%E4%BA%A7%E7%94%A8%E4%BA%8E%E6%B8%B8%E6%88%8F%E5%92%8C%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E7%9A%84%E6%98%BE%E5%8D%A1%E5%92%8C%E5%A4%84%E7%90%86%E5%99%A8%E8%BD%AC%E5%90%91%EF%BC%8C%E6%9B%B4%E5%8A%A0%E4%B8%93%E6%B3%A8%E4%BA%8E%E4%B8%BAAI%E9%9D%A9%E5%91%BD%E6%8F%90%E4%BE%9B%E5%8A%A8%E5%8A%9B%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%8A%AF%E7%89%87%E3%80%82https%3A%2F%2Ft.co%2FsVBUyafb6f)
 ##### Other Words/Names of Interest in the Above Tweet
-[反映出](反映出.md), [增长](增长.md), [处理](处理.md), [如今](如今.md), [市值](市值.md), [提供](提供.md), [生产](生产.md), [用于](用于.md), [策略](策略.md), [芯片](芯片.md), [超过](超过.md)
+[反映出](反映出.md), [增长](增长.md), [处理](处理.md), [如今](如今.md), [市值](市值.md), [提供](提供.md), [服务器](服务器.md), [生产](生产.md), [用于](用于.md), [策略](策略.md), [芯片](芯片.md), [超过](超过.md)
 ___
 ##### 2025-10-07 04:29:51 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI和AMD宣布了一项价值数百亿美元的合作，将共同建设运行AMD处理器的AI数据中心，这是对英伟达迄今为止最直接的挑战之一。https://t.co/uw2wN5ELSF
@@ -479,7 +479,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B7%B2%E5%87%BA%E5%8F%B0%E6%96%B0%E7%9A%84%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%9B%BD%E6%9C%89%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%8B%B1%E7%89%B9%E5%B0%94%E5%92%8CAMD%E7%9A%84%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E3%80%82+https%3A%2F%2Ft.co%2Fgt7sfkbw9Y+https%3A%2F%2Ft.co%2Fgt7sfkbw9Y)
 ##### Other Words/Names of Interest in the Above Tweet
-[处理](处理.md), [禁止](禁止.md), [英特尔](英特尔.md), [金融](金融.md)
+[处理](处理.md), [服务器](服务器.md), [禁止](禁止.md), [英特尔](英特尔.md), [金融](金融.md)
 ___
 ##### 2024-03-25 04:26:00 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国商务部长王文涛会见美国超威半导体公司（AMD）董事会主席兼首席执行官苏姿丰时强调，半导体产业的发展需要全球合作，希望中美合力为企业提供清晰的安全边界。https://t.co/LV9BuG7BSU
@@ -493,7 +493,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%8E%A8%E5%87%BA%E6%8C%87%E5%AF%BC%E6%96%B9%E9%92%88%EF%BC%8C%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%EF%BC%8C%E5%9B%BD%E4%BC%81%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AEAMD%EF%BC%88%E4%B9%9F%E7%A7%B0%E8%B6%85%E5%A8%81%EF%BC%89%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E7%82%B9%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%EF%BC%8C%E9%87%87%E8%B4%AD%E5%87%86%E5%88%99%E8%BF%98%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E9%87%87%E8%B4%AD%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BD%AC%E8%80%8C%E9%80%89%E6%8B%A9%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%B4%A7%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Windows](Windows.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
+[Windows](Windows.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [服务器](服务器.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
 ___
 ##### 2024-03-24 09:46:39 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 英国媒体报道，中国已推出采购需求标准，意味着中国禁止政府电脑使用英特尔和超威半导体（AMD）芯片。https://t.co/iENfB1PmrU

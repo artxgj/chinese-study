@@ -96,7 +96,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E+Linux+%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%BD%91%E9%A1%B5%E5%B7%A5%E5%85%B7+NetHang%EF%BC%8C%E4%B8%93%E9%97%A8%E7%94%A8%E4%BA%8E%E6%A8%A1%E6%8B%9F%E7%BD%91%E7%BB%9C%E8%B4%A8%E9%87%8F%EF%BC%8C%E9%80%82%E5%90%88%E5%AF%B9%E5%AE%9E%E6%97%B6%E6%80%A7%E8%A6%81%E6%B1%82%E9%AB%98%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E5%BC%B1%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%B5%8B%E8%AF%95%E3%80%82%F0%9F%9B%9C+https%3A%2F%2Ft.co%2FRui8oK4We5%E5%AE%83%E5%86%85%E7%BD%AE%E4%BA%86%E5%A4%9A%E7%A7%8D%E7%BD%91%E7%BB%9C%E5%9C%BA%E6%99%AF%E6%A8%A1%E5%9E%8B%E6%94%AF%E6%8C%81%E6%A8%A1%E6%8B%9F%E7%BD%91%E7%BB%9C%E4%B8%A2%E5%8C%85%E3%80%81%E5%BB%B6%E8%BF%9F%E3%80%81%E6%8A%96%E5%8A%A8%E3%80%81%E5%B8%A6%E5%AE%BD%E9%99%90%E5%88%B6%E7%AD%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[互联网](互联网.md), [型](型.md), [工具](工具.md), [平台](平台.md), [延迟](延迟.md), [支持](支持.md), [模型](模型.md), [模拟](模拟.md), [用于](用于.md), [进行](进行.md), [限制](限制.md)
+[互联网](互联网.md), [型](型.md), [工具](工具.md), [带宽](带宽.md), [平台](平台.md), [延迟](延迟.md), [支持](支持.md), [模型](模型.md), [模拟](模拟.md), [用于](用于.md), [进行](进行.md), [限制](限制.md)
 ___
 ##### 2025-06-11 05:49:55 UTC ~ Geek
 > RT @geekbb: 来了👇Containerization - 提供轻量级虚拟机中的 Linux 容器运行时环境。。https://t.co/pFjaUVBCOnContainer - 专为 macOS 设计的容器化平台，使用 Swift 编写并针对 Apple 芯片…
