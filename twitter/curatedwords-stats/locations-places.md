@@ -69,15 +69,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马来西亚](../hanzi-cards/马来西亚.md)/[馬來西亞](../hanzi-cards/馬來西亞.md) | Malaysia |
 | [缅甸](../hanzi-cards/缅甸.md) | Myanmar |
 | [柬埔寨](../hanzi-cards/柬埔寨.md) | Cambodia |
+| [越南](../hanzi-cards/越南.md) | Vietnam |
 | [泰国](../hanzi-cards/泰国.md)/[泰國](../hanzi-cards/泰國.md) | Thailand |
+| [老挝](../hanzi-cards/老挝.md)/[老撾](../hanzi-cards/老撾.md) | Laos |
 | [峇厘岛](../hanzi-cards/峇厘岛.md) | Bali |
 | [东南亚](../hanzi-cards/东南亚.md)/[東南亞](../hanzi-cards/東南亞.md) | Southeast Asia |
 | [印度](../hanzi-cards/印度.md) | India |
 | [斯里兰卡](../hanzi-cards/斯里兰卡.md) | Sri Lanka |
+| [朝鮮](../hanzi-cards/朝鮮.md) | North Korea |
 | [北海道](../hanzi-cards/北海道.md) | Hokkaido |
 | [琉球](../hanzi-cards/琉球.md) | Ryukyu |
 | [冲绳](../hanzi-cards/冲绳.md) | Okinawa |
-| [广岛](../hanzi-cards/广岛.md) | Hiroshima |
+| [广岛](../hanzi-cards/广岛.md)/[廣島](../hanzi-cards/廣島.md) | Hiroshima |
+| [长崎](../hanzi-cards/长崎.md)/[長崎](../hanzi-cards/長崎.md) | Nagasaki |
 | [汤加](../hanzi-cards/汤加.md) | Tonga |
 | [哈萨克斯坦](../hanzi-cards/哈萨克斯坦.md) | Kazakhstan |
 | [俄罗斯](../hanzi-cards/俄罗斯.md)/[俄羅斯](../hanzi-cards/俄羅斯.md) | Russia |
