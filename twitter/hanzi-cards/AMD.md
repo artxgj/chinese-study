@@ -381,7 +381,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B%E6%8A%80%E6%9C%AF%E6%8C%81%E7%BB%AD%E5%82%B2%E8%A7%86%E7%BE%A4%E9%9B%84%EF%BC%8C%E5%B0%86%E7%94%B1%E5%A4%A7%E5%AE%A2%E6%88%B7%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%E5%8F%8A%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E7%8E%87%E5%85%88%E9%87%87%E7%94%A8%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%8F%B0%E7%A7%AF%E7%94%B5+%23tsmc+https%3A%2F%2Ft.co%2FXpe12EVpP8+https%3A%2F%2Ft.co%2FK3uXgFWR8w)
 ##### Other Words/Names of Interest in the Above Tweet
-[先进](先进.md), [台积电](台积电.md), [客户](客户.md), [技术](技术.md), [持续](持续.md), [苹果](苹果.md), [超微](超微.md)
+[Apple](Apple.md), [先进](先进.md), [台积电](台积电.md), [客户](客户.md), [技术](技术.md), [持续](持续.md), [苹果](苹果.md), [超微](超微.md)
 ___
 ##### 2024-08-19 20:05:58 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD同意斥资近50亿美元收购ZT Systems，为这家芯片制造商冲击英伟达在AI计算领域的主导地位带来支持。AMD表示，该交易预计将在明年上半年完成，尚需获得监管部门的批准。https://t.co/y4iNdLpOWx https://t.…

@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40RocM301%3A+%E8%8B%B9%E6%9E%9C%E5%9C%A8%E4%B8%BA%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E9%93%BA%E8%B7%AF%EF%BC%8CiOS+27%E5%BC%80%E5%A7%8B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%BB%99%E5%BA%94%E7%94%A8%E8%A1%A5%E6%A8%AA%E5%B1%8F%E6%94%AF%E6%8C%81%E3%80%82Apple+Music%E3%80%81%E6%92%AD%E5%AE%A2%E3%80%81%E5%81%A5%E5%BA%B7%E3%80%81%E5%A4%A9%E6%B0%94%E7%AD%89%E5%8D%81%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E9%83%BD%E5%B7%B2%E9%80%82%E9%85%8D%EF%BC%8C%E4%BF%A1%E6%81%AF%E3%80%81%E5%9C%B0%E5%9B%BE%E7%AD%89%E4%B9%9F%E5%9C%A8%E7%BB%A7%E7%BB%AD%E4%BC%98%E5%8C%96%E3%80%82%E7%81%B5%E5%8A%A8%E5%B2%9B%E7%9A%84%E5%AE%9E%E6%97%B6%E6%B4%BB%E5%8A%A8%E4%B9%9F%E6%94%AF%E6%8C%81%E6%A8%AA%E5%B1%8F%E4%BA%86%EF%BC%8C%E6%98%8E%E6%98%BE%E6%98%AF%E5%9C%A8%E6%8F%90%E5%89%8D%E5%AE%8C%E5%96%84%E5%A4%A7%E5%B1%8F%E6%8A%98%E5%8F%A0%E6%9C%BA%E4%BD%93%E9%AA%8C%E3%80%82+https%3A%2F%2Ft.co%2F7uXU%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[优化](优化.md), [屏](屏.md), [支持](支持.md), [明显](明显.md), [苹果](苹果.md), [规模](规模.md)
+[Apple](Apple.md), [优化](优化.md), [屏](屏.md), [支持](支持.md), [明显](明显.md), [苹果](苹果.md), [规模](规模.md)
 ___
 ##### 2026-06-13 17:29:10 UTC ~ 小鹏Digital
 > RT @RocM301: iOS 27 首个开发者测试版里，iPhone 17 Pro 和 iPhone Air 的新一代 AI 语音听写默认没开。也就是说，刚升级到 beta 版时，用户不会立刻用上这个基于大模型的听写功能。想体验的话，需要手动把它打开。导航到“通用”-&gt;…
@@ -236,7 +236,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%EF%BC%88%23Apple%EF%BC%89%E6%97%A5%E5%89%8D%E5%8F%91%E5%B8%83iOS+17.5%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%EF%BC%8C%E6%9C%AA%E6%96%99%E6%9C%89+%23iPhone+%E4%BD%BF%E7%94%A8%E8%80%85%E5%8F%8D%E6%98%A0%EF%BC%8C%E5%A4%9A%E5%B9%B4%E5%89%8D%E5%88%A0%E9%99%A4%E7%9A%84%E7%85%A7%E7%89%87%E5%87%BA%E7%8E%B0%E5%9C%A8+%23iCloud+%E5%BD%93%E4%B8%AD%E3%80%82+https%3A%2F%2Ft.co%2F8171CbiYWp+https%3A%2F%2Ft.co%2FNehpfKsPKS)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [发布](发布.md), [苹果](苹果.md)
+[Apple](Apple.md), [iPhone](iPhone.md), [发布](发布.md), [苹果](苹果.md)
 ___
 ##### 2024-05-13 03:14:58 UTC ~ FTChinese
 > RT @FTChinese: 【报业集团就广告屏蔽计划向苹果发出警告】英国媒体称，苹果拟在下次iOS更新中推出的“网页橡皮擦”工具威胁新闻业的财务可持续性。https://t.co/cCAXl1E7WC
@@ -334,7 +334,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%AF%B9%E4%BA%8E%E8%8B%B9%E6%9E%9C%EF%BC%88Apple%EF%BC%89%E7%9A%84iOS%E9%9A%90%E7%A7%81%E6%9D%A1%E4%BE%8B%E5%8F%98%E6%9B%B4%EF%BC%8CMeta+Platforms%E7%9A%84%E9%9D%A2%E7%B0%BF%EF%BC%88Facebook%EF%BC%89%E5%88%B0%E5%BA%95%E9%9C%80%E8%A6%81%E4%BB%98%E5%87%BA%E5%A4%9A%E5%B0%91%E4%BB%A3%E4%BB%B7%EF%BC%9F%E7%AD%94%E6%A1%88%E6%98%AF%EF%BC%9A100%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2F32kKEHbXMM)
 ##### Other Words/Names of Interest in the Above Tweet
-[代价](代价.md), [苹果](苹果.md), [隐私](隐私.md)
+[Apple](Apple.md), [代价](代价.md), [苹果](苹果.md), [隐私](隐私.md)
 ___
 ##### 2022-01-04 02:26:24 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【丰田将对外销售自主车载操作系统】丰田正在开发车载操作系统“Arene”，可以说是Windows及iOS等的汽车版。Arene能够统一管理汽车加速和安全控制功能等，最早2025年实现实用化。丰田力争实现“平台”效应，掌握操作系统的行业标准…
@@ -411,7 +411,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%897%E6%97%A5%E5%9C%A8%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9A%84%E5%85%A8%E7%90%83%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%EF%BC%88WWDC%EF%BC%89%E4%B8%8A%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E7%89%88iPhone%E4%BD%9C%E4%B8%9A%E7%B3%BB%E7%BB%9FiOS+15%E7%9A%84%E9%A2%84%E8%A7%88%EF%BC%8CFaceTime%E3%80%81iMessage%E3%80%81%E7%85%A7%E7%89%87%E3%80%81%E6%95%B0%E4%BD%8D%E9%92%B1%E5%8C%85%E3%80%81%E5%9C%B0%E5%9B%BE%E3%80%81%E5%A4%A9%E6%B0%94%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%92%8C%E9%80%9A%E7%9F%A5%E9%83%BD%E6%B7%BB%E5%8A%A0%E4%BA%86%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%82https%3A%2F%2Ft.co%2FTw%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [发布](发布.md), [开发](开发.md), [程序](程序.md), [系统](系统.md), [美国](美国.md), [苹果](苹果.md)
+[Apple](Apple.md), [iPhone](iPhone.md), [发布](发布.md), [开发](开发.md), [程序](程序.md), [系统](系统.md), [美国](美国.md), [苹果](苹果.md)
 ___
 ##### 2021-06-08 05:00:14 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 此次大会宣布了iOS 15的推出，以及对FaceTime等受欢迎软件的更新。另一重磅消息是苹果将作出更多隐私设置调整，这些措施将扰动整个数字广告行业。就在大会召开前，苹果与Epic Games对簿公堂，凸显了该公司与开发者之间日益棘手的关系。ht…

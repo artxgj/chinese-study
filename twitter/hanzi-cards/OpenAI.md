@@ -1174,7 +1174,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%E5%A7%8D%E5%A7%8D%E4%BE%86%E9%81%B2%EF%BC%9F%E3%80%91%E3%80%8CApple+Intelligence%E6%98%AF%E5%8F%AA%E6%9C%89%E8%98%8B%E6%9E%9C%E6%89%8D%E8%83%BD%E6%8F%90%E4%BE%9B%E7%9A%84AI%E3%80%8D%EF%BC%8C%E8%98%8B%E6%9E%9C10%E6%97%A5%E7%99%BC%E4%BD%88%E4%BA%86%E8%87%AA%E4%B8%BB%E7%A0%94%E7%99%BC%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%EF%BC%8C%E8%A8%88%E5%8A%83%E5%9C%A8%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E4%B8%8A%E5%B8%82%E7%9A%84%E4%B8%8B%E4%B8%80%E4%BB%A3OS%E4%B8%8A%E9%83%A8%E5%88%86%E6%90%AD%E8%BC%89%E3%80%82%E9%82%84%E5%AE%A3%E4%BD%88%E8%88%87OpenAI%E7%9A%84%E3%80%8CChatGPT%E3%80%8D%E5%B1%95%E9%96%8B%E5%90%88%E4%BD%9C%E3%80%82%E4%BB%8B%E7%B4%B9%E7%9A%84AI%E7%9B%B8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[提供](提供.md), [蘋果](蘋果.md), [計劃](計劃.md)
+[Apple](Apple.md), [提供](提供.md), [蘋果](蘋果.md), [計劃](計劃.md)
 ___
 ##### 2024-06-11 05:16:11 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果公司与OpenAI的合作已经酝酿数月，但在周一备受期待的开发者大会上仅被简单提及，这家iPhone制造商的自主研发技术成为最大焦点。https://t.co/GIKsBtnfDS https://t.co/M9aW7sQdqr
@@ -1195,7 +1195,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8A%A0%E5%85%A5AI%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%EF%BC%9A%E4%B8%8D%E4%BB%85%E6%8E%A8%E5%87%BA%E4%BA%86AI%E7%B3%BB%E7%BB%9FApple+Intelligence%EF%BC%8C%E8%BF%98%E5%8C%85%E6%8B%AC%E4%B8%8EOpenAI%E8%BE%BE%E6%88%90%E4%BA%86%E4%B8%80%E9%A1%B9%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%E3%80%82%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E2%80%9C%E5%9C%A8%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B1%82%E9%9D%A2%E2%80%9D%E6%95%B4%E5%90%88OpenAI%EF%BC%8C%E4%BB%96%E8%AE%A1%E5%88%92%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E5%85%AC%E5%8F%B8%E7%A6%81%E7%94%A8%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E3%80%82https%3A%2F%2Ft.co%2FG%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[不仅](不仅.md), [包括](包括.md), [协议](协议.md), [推出](推出.md), [操作](操作.md), [整合](整合.md), [系统](系统.md), [苹果](苹果.md), [计划](计划.md), [达成](达成.md)
+[Apple](Apple.md), [不仅](不仅.md), [包括](包括.md), [协议](协议.md), [推出](推出.md), [操作](操作.md), [整合](整合.md), [系统](系统.md), [苹果](苹果.md), [计划](计划.md), [达成](达成.md)
 ___
 ##### 2024-06-09 00:18:21 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果还将与OpenAI建立合作关系，为类似ChatGPT的聊天机器人提供动力。https://t.co/doLzOdgj6P https://t.co/q2ZbO3Dziu

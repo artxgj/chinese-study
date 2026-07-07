@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QingQ77%3A+%E4%B8%80%E4%B8%AA+macOS+%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%9C%A8+Apple+Silicon+%E4%B8%8A%E6%9C%AC%E5%9C%B0%E8%B7%91%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97+%2B+%E4%B8%AD%E8%8B%B1%E7%BF%BB%E8%AF%91%E3%80%82%E9%BA%A6%E5%85%8B%E9%A3%8E%E6%88%96%E4%BC%9A%E8%AE%AE%E9%9F%B3%E9%A2%91%E8%BF%9B%E5%8E%BB%EF%BC%8C%E5%AE%9E%E6%97%B6%E5%AD%97%E5%B9%95%E5%92%8C%E7%BF%BB%E8%AF%91%E5%87%BA%E6%9D%A5%EF%BC%8C%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%81%94%E7%BD%91%E3%80%82https%3A%2F%2Ft.co%2FeFZRZ6EDQ7Apple+GPU+%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E8%81%94%E7%BD%91%E3%80%82%E6%B5%81%E5%BC%8F+AS%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[mac](mac.md), [工具](工具.md), [麦](麦.md)
+[Apple](Apple.md), [mac](mac.md), [工具](工具.md), [麦](麦.md)
 ___
 ##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
 > RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。

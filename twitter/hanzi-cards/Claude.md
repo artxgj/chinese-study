@@ -327,7 +327,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E5%A5%97%E9%80%82%E7%94%A8%E4%BA%8E+MCP%EF%BC%88%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%89%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%EF%BC%9AApple+MCP+tools%E3%80%82%E5%8F%AA%E9%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%87%A0%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%B7%BB%E5%8A%A0%E5%88%B0+Claude+%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E4%B8%AD%EF%BC%8C%E5%8D%B3%E5%8F%AF%E6%8E%88%E4%BA%88%E8%AE%BF%E9%97%AE%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%E7%9A%84%E6%9D%83%E9%99%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2F2K9vr1Q9ed%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [上下文](上下文.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
+[Apple](Apple.md), [MCP](MCP.md), [上下文](上下文.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
 ___
 ##### 2025-02-24 11:26:38 UTC ~ Tw93
 > RT @HiTw93: 假如你想找一些现在 AI 相关的图标设计稿内容，比如 Grok, DeepSeek, ChatGPT, Claude, Gemini，可以去 figma 这个地址瞧瞧。https://t.co/MsUHlCPYy4 https://t.co/RvNid…

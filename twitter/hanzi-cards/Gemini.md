@@ -25,6 +25,8 @@ ___
 > RT @nanyangpress: 在Apple Store中，悄然出现了一款名为“Gemimi-繁体中文版AI助手”的应用程式，与正版“Gemini”只差一个字，外观与命名极为相似，一不留神就容易误下载，甚至可能误付费用。https://t.co/w7g6oOQptx ht…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%9C%A8Apple+Store%E4%B8%AD%EF%BC%8C%E6%82%84%E7%84%B6%E5%87%BA%E7%8E%B0%E4%BA%86%E4%B8%80%E6%AC%BE%E5%90%8D%E4%B8%BA%E2%80%9CGemimi-%E7%B9%81%E4%BD%93%E4%B8%AD%E6%96%87%E7%89%88AI%E5%8A%A9%E6%89%8B%E2%80%9D%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BC%8F%EF%BC%8C%E4%B8%8E%E6%AD%A3%E7%89%88%E2%80%9CGemini%E2%80%9D%E5%8F%AA%E5%B7%AE%E4%B8%80%E4%B8%AA%E5%AD%97%EF%BC%8C%E5%A4%96%E8%A7%82%E4%B8%8E%E5%91%BD%E5%90%8D%E6%9E%81%E4%B8%BA%E7%9B%B8%E4%BC%BC%EF%BC%8C%E4%B8%80%E4%B8%8D%E7%95%99%E7%A5%9E%E5%B0%B1%E5%AE%B9%E6%98%93%E8%AF%AF%E4%B8%8B%E8%BD%BD%EF%BC%8C%E7%94%9A%E8%87%B3%E5%8F%AF%E8%83%BD%E8%AF%AF%E4%BB%98%E8%B4%B9%E7%94%A8%E3%80%82https%3A%2F%2Ft.co%2Fw7g6oOQptx+ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Apple](Apple.md)
 ___
 ##### 2026-01-30 06:50:34 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 谷歌表示，全新的侧边面板设计，让Gemini全程伴随浏览过程。#南洋商报 #google #Gemini #Chromehttps://t.co/7EXmpFCwOc https://t.co/g9HVJeDvbJ
@@ -150,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tisoga%3A+%E5%88%9B%E5%BB%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E7%94%A8%E6%9D%A5%E5%88%86%E6%9E%90%E8%87%AA%E5%B7%B1%E5%81%A5%E5%BA%B7+%26amp%3B+%E8%BF%90%E5%8A%A8%E6%95%B0%E6%8D%AE%E7%9A%84+app%EF%BC%8C%E6%94%AF%E6%8C%81%E8%BF%9E%E6%8E%A5%E5%88%B0+Whoop%2C+Apple+Health%2C+Garmin+%E5%AF%BC%E5%85%A5%E7%9B%B8%E5%85%B3%E6%95%B0%E6%8D%AE%E3%80%82%E5%B9%B6%E4%B8%94%E8%BF%98%E8%BF%9E%E6%8E%A5%E4%BA%86+Gemini+Pro+2.5+%E4%BD%9C%E4%B8%BA%E5%81%A5%E5%BA%B7%E6%95%99%E7%BB%83%E6%9D%A5%E5%88%86%E6%9E%90%E7%9B%B8%E5%85%B3%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E5%85%A8%E7%A8%8B%E4%BD%BF%E7%94%A8+%40devv_ai+vibe%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[分析](分析.md), [支持](支持.md), [数据](数据.md), [相关](相关.md), [连接](连接.md)
+[Apple](Apple.md), [分析](分析.md), [支持](支持.md), [数据](数据.md), [相关](相关.md), [连接](连接.md)
 ___
 ##### 2025-04-01 04:00:12 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 新海诚的这种画风转换城市摄影效果真的很好方法昨天一些朋友也说了，就是只描述画风但是不提人名一个小Tips是可以让Gemini 2.5 Pro描述，别让ChatGPT描述，不然还是有几率不给生成懒得找的我也把我的提示词放下面了 https://…

@@ -85,6 +85,7 @@
 | [南亞科技](../hanzi-cards/南亞科技.md) | Nanya Technology | 2408.TW | 1 |
 | [雀巢](../hanzi-cards/雀巢.md) | Nestlé S.A. | NSRGF | 18 |
 | [奈飞](../hanzi-cards/奈飞.md) | Netflix | NFLX | 11 |
+| [“安世半导体](../hanzi-cards/“安世半导体.md)/[安世半導體”](../hanzi-cards/安世半導體”.md) | Nexperia | (private) | 0 |
 | [日本电产](../hanzi-cards/日本电产.md) | Nidec | NJDCY | 14 |
 | [耐克](../hanzi-cards/耐克.md) | Nike | NKE | 48 |
 | [尼康](../hanzi-cards/尼康.md) | Nikon | NINOY | 17 |
@@ -105,6 +106,7 @@
 | [罗姆](../hanzi-cards/罗姆.md)/[羅姆](../hanzi-cards/羅姆.md) | ROHM | ROHCY/ROHCF | 21 |
 | [罗尔斯·罗伊斯](../hanzi-cards/罗尔斯·罗伊斯.md) | Rolls Royce | RYCEY | 1 |
 | [三星](../hanzi-cards/三星.md) | Samsung | SSNLF | 289 |
+| [闪迪](../hanzi-cards/闪迪.md) | Sandisk | SNDK | 1 |
 | [希捷](../hanzi-cards/希捷.md) | Seagate | STX | 4 |
 | [精工](../hanzi-cards/精工.md) | Seiko | TYO: 8050 | 9 |
 | [红杉资本](../hanzi-cards/红杉资本.md) | Sequoia Capital | Venture Capital firm | 12 |
@@ -146,5 +148,6 @@
 | [雅马哈](../hanzi-cards/雅马哈.md)/[雅馬哈](../hanzi-cards/雅馬哈.md) | Yamaha | YAMHY | 19 |
 | [安川电机](../hanzi-cards/安川电机.md)/[安川電機](../hanzi-cards/安川電機.md) | Yaskawa Electric | YASKY | 22 |
 | [长江存储科技](../hanzi-cards/长江存储科技.md)/[長江存儲科技](../hanzi-cards/長江存儲科技.md) | YMTC | pre-IPO | 10 |
+| [张雪机车](../hanzi-cards/张雪机车.md)/[張雪機車](../hanzi-cards/張雪機車.md) | ZXMOTO | (private) | 13 |
 | [极氪](../hanzi-cards/极氪.md) | Zeekr | ZK | 11 |
 | [智谱](../hanzi-cards/智谱.md)/[智譜](../hanzi-cards/智譜.md) | Zhipu (Z.ai) | 2513.HK | 12 |

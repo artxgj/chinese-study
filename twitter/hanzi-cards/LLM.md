@@ -236,7 +236,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40hjc4869%3A+%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%88%E8%81%8A%E5%88%B0Mac%E8%B7%91LLM%E6%98%AF%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF%EF%BC%8C%E5%9B%A0%E4%B8%BAApple%E6%9C%80%E8%BF%91%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B9%E4%B8%80%E4%BA%9B%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%AE%9E%E9%99%85%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%28%E5%AE%98%E7%BD%91%E5%A3%B0%E7%A7%B0%E6%94%AF%E6%8C%81%26gt%3B600B+LLM%29%EF%BC%8C%E8%BF%98%E6%9C%89%E4%B8%80%E7%BE%A4KOL%E7%9C%9F%E7%9A%84%E5%87%BA%E6%9D%A5%E6%B5%8BDS+671B%E8%B7%91%E5%87%BA%E5%B0%86%E8%BF%9120t%2Fs%E4%BD%86%E6%98%AF%E5%AE%9E%E9%99%85%E6%83%85%E5%86%B5%E5%91%A2%EF%BC%9F%E5%88%9A%E5%BC%80%E5%A7%8B%E7%A1%AE%E5%AE%9E%E5%8F%AF%E4%BB%A5%E6%8E%A5%E8%BF%9120+t%2Fs%EF%BC%8C%E4%BD%86reasoning%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [情况](情况.md), [支持](支持.md), [行为](行为.md)
+[Apple](Apple.md), [Mac](Mac.md), [情况](情况.md), [支持](支持.md), [行为](行为.md)
 ___
 ##### 2025-03-15 05:18:52 UTC ~ AIGCLINK
 > RT @aigclink: 酷，清华团队刚刚放出了模型推理引擎：赤兔Chitu，DeepSeek推理成本降一半，性能翻番在A800 集群上，用赤兔引擎部署DeepSeek-671B满血版推理服务，比vLLM部署方案，GPU数量不仅减少了50%，输出速度提升了3.15倍支…

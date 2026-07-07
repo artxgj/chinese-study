@@ -27,7 +27,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E7%9C%8B%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6%E5%92%8C%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%BAiPhone%E5%92%8CApple+Watch%E6%8E%A8%E5%87%BA%E4%B8%80%E9%A1%B9%E5%90%8D%E4%B8%BA%E2%80%9C%E6%92%9E%E8%BD%A6%E6%A3%80%E6%B5%8B%E2%80%9D%E7%9A%84%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E3%80%82%E5%8F%91%E7%94%9F%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E6%97%B6iPhone%E5%B0%86%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8A%A8%E6%8B%A8%E6%89%93911%E3%80%82https%3A%2F%2Ft.co%2FB4FUm3Bh4G)
 ##### Other Words/Names of Interest in the Above Tweet
-[推出](推出.md), [撞车](撞车.md), [文件](文件.md), [检测](检测.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [计划](计划.md), [透露](透露.md)
+[Apple](Apple.md), [推出](推出.md), [撞车](撞车.md), [文件](文件.md), [检测](检测.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [计划](计划.md), [透露](透露.md)
 ___
 ##### 2021-11-01 19:49:46 UTC ~ FTChinese
 > RT @FTChinese: #付费精选【iPhone隐私政策调整后Facebook等社交媒体损失近百亿美元】苹果隐私新规迫使应用需征求用户许可才能跟踪以进行广告定位，这导致Snap、Facebook、Twitter和YouTube等社交媒体平台受到很大冲击。https://t…
@@ -118,7 +118,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+%E8%A7%82%E7%9C%8B%E8%8B%B9%E6%9E%9C%E6%B5%81%E5%AA%92%E4%BD%93%E6%9C%8D%E5%8A%A1Apple+TV%2B%E7%9A%84%E8%87%AA%E5%88%B6%E5%89%A7%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%BC%9A%E7%95%99%E6%84%8F%E5%88%B0%E4%B8%8D%E6%96%AD%E6%9C%89iPhone%E3%80%81iPad%E5%92%8C%E5%85%B6%E4%BB%96%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%87%BA%E9%95%9C%E3%80%82%E4%BB%8E%E3%80%8A%E8%B6%B3%E7%90%83%E6%95%99%E7%BB%83%E3%80%8B%E5%88%B0%E3%80%8A%E6%97%A9%E9%97%B4%E6%96%B0%E9%97%BB%E3%80%8B%EF%BC%8C%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E8%AE%B0%E8%80%85%E8%A7%82%E7%9C%8B%E4%BA%8674%E9%9B%86%E3%80%8140%E5%A4%9A%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E7%83%AD%E6%92%AD%E5%89%A7%EF%BC%8C%E5%B9%B6%E5%9C%A8%E4%B8%93%E5%AE%B6%E7%9A%84%E6%8C%87%E5%AF%BC%E4%B8%8B%E4%BB%8E%E8%A7%86%E8%A7%89%E3%80%81%E5%A3%B0%E9%9F%B3%E5%92%8C%E5%89%A7%E6%83%85%E8%81%94%E7%B3%BB%E4%B8%89%E4%B8%AA%E7%BB%B4%E5%BA%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[流媒体](流媒体.md), [苹果](苹果.md), [足球](足球.md)
+[Apple](Apple.md), [流媒体](流媒体.md), [苹果](苹果.md), [足球](足球.md)
 ___
 ##### 2021-09-17 03:56:58 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【iPhone在日本10年涨至3倍，1部花6成月薪】苹果公司新发布的iPhone13在日本市场售价比之前的“12”系列最贵的机型高出约2.9万日元，顶配机型价格在最近10年里上涨至3倍。一方面，购买一部iPhone的花销在日本人月薪中所占…
@@ -307,7 +307,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%897%E6%97%A5%E5%9C%A8%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9A%84%E5%85%A8%E7%90%83%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%EF%BC%88WWDC%EF%BC%89%E4%B8%8A%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E7%89%88iPhone%E4%BD%9C%E4%B8%9A%E7%B3%BB%E7%BB%9FiOS+15%E7%9A%84%E9%A2%84%E8%A7%88%EF%BC%8CFaceTime%E3%80%81iMessage%E3%80%81%E7%85%A7%E7%89%87%E3%80%81%E6%95%B0%E4%BD%8D%E9%92%B1%E5%8C%85%E3%80%81%E5%9C%B0%E5%9B%BE%E3%80%81%E5%A4%A9%E6%B0%94%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%92%8C%E9%80%9A%E7%9F%A5%E9%83%BD%E6%B7%BB%E5%8A%A0%E4%BA%86%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%82https%3A%2F%2Ft.co%2FTw%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iOS](iOS.md), [发布](发布.md), [开发](开发.md), [程序](程序.md), [系统](系统.md), [美国](美国.md), [苹果](苹果.md)
+[Apple](Apple.md), [iOS](iOS.md), [发布](发布.md), [开发](开发.md), [程序](程序.md), [系统](系统.md), [美国](美国.md), [苹果](苹果.md)
 ___
 ##### 2021-06-05 05:42:26 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【链接 ——拆解iPhone12：韩国零部件占比提升】拆解后推算iPhone12的成本价为373美元，按价格计算韩企零部件占27.3％，日本占13.2％，中国大陆不到5%。iPhone12全面采用价格较高的OLED屏，韩企的供货增加。日企…

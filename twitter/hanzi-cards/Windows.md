@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%23WWDC25+%E4%BB%8E+Mac+OS+X+%E7%94%A8%E9%9D%99%E6%80%81%E4%BD%8D%E5%9B%BE%E5%AE%9E%E7%8E%B0%E6%B0%B4%E6%99%B6%E6%95%88%E6%9E%9C%E7%9A%84+Aqua%EF%BC%8C%E5%88%B0+Windows+Vista+%E7%94%A8%E5%AE%9E%E6%97%B6%E6%A8%A1%E7%B3%8A+%2B+%E4%BD%8D%E5%9B%BE%E9%AB%98%E5%85%89%E5%92%8C%E5%8F%8D%E5%B0%84%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E7%9A%84+Windows+Aero%EF%BC%8C%E5%86%8D%E5%88%B0%E7%8E%B0%E5%9C%A8+Apple+%E7%94%A8+SDF+%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E8%BE%B9%E7%BC%98%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%8A%98%E5%B0%84%E6%95%88%E6%9E%9C%E7%9A%84+Liqu%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [实现](实现.md), [玻璃](玻璃.md)
+[Apple](Apple.md), [Mac](Mac.md), [实现](实现.md), [玻璃](玻璃.md)
 ___
 ##### 2025-05-29 16:43:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: GitHub 上一款专为 Windows 打造的轻量级快速启动器：Mage，参考了 macOS 的 Raycast。基于 Vite 和 Vue 3 构建，实现了在 Windows 系统上快速启动应用并执行各种操作。GitHub：htt…

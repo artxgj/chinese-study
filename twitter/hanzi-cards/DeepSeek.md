@@ -2085,7 +2085,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E4%B8%BA%E6%8C%BD%E6%95%91%E4%B8%8D%E6%96%AD%E9%81%AD%E5%AF%B9%E6%89%8B%E4%BE%B5%E8%9A%80%E7%9A%84%E6%89%8B%E6%9C%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%8D%A0%E6%9C%89%E7%8E%87%EF%BC%8C%E5%9C%A8%E5%B0%9D%E8%AF%95%E8%BF%87%E5%8C%85%E6%8B%AC%E7%99%BE%E5%BA%A6%E3%80%81DeepSeek%E7%AD%89%E4%BC%81%E4%B8%9A%E7%9A%84AI%E6%A8%A1%E5%9E%8B%E5%90%8E%EF%BC%8C%E6%9C%80%E7%BB%88%E9%80%89%E5%AE%9A%E4%B8%8E%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%90%88%E4%BD%9C%EF%BC%8C%E4%B8%BA%E4%B8%AD%E5%9B%BDiPhone%E7%94%A8%E6%88%B7%E5%BC%80%E5%8F%91AI%E5%8A%9F%E8%83%BD%E3%80%82%23Alibaba+%23Apple+%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4+%23AI+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [包括](包括.md), [型](型.md), [开发](开发.md), [挽救](挽救.md), [模型](模型.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
+[Apple](Apple.md), [iPhone](iPhone.md), [包括](包括.md), [型](型.md), [开发](开发.md), [挽救](挽救.md), [模型](模型.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-02-12 17:08:02 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 中国人工智能开发商DeepSeek的横空出世两周前重创了美国科技股，但在更靠近其本土的地方，该公司却在提振投资者的乐观情绪。 https://t.co/xmQBXzPRuq

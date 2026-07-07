@@ -19,14 +19,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+Apple+MCP+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%A2%87%E4%B8%BA%E5%AE%9E%E7%94%A8%EF%BC%8C%E8%AE%A9+AI+%E5%8A%A9%E6%89%8B%E7%9B%B4%E6%8E%A5%E5%B8%AE%E6%88%91%E4%BB%AC%E6%93%8D%E4%BD%9C+Mac+%E4%B8%8A%E5%90%84%E7%A7%8D%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8%E3%80%82%E5%B7%B2%E6%94%AF%E6%8C%81%E4%BF%A1%E6%81%AF%E3%80%81%E9%82%AE%E4%BB%B6%E3%80%81%E6%97%A5%E5%8E%86%E3%80%81%E6%8F%90%E9%86%92%E4%BA%8B%E9%A1%B9%E3%80%81%E9%80%9A%E8%AE%AF%E5%BD%95%E3%80%81%E5%9C%B0%E5%9B%BE%E7%AD%89%E5%BA%94%E7%94%A8%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%93%8D%E4%BD%9C%E3%80%82%E7%94%9A%E8%87%B3%E8%BF%98%E8%83%BD%E6%89%A7%E8%A1%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E9%93%BE%E5%BC%8F%E4%BB%BB%E5%8A%A1%EF%BC%8C%E6%AF%94%E5%A6%82%E8%AF%B4%EF%BC%9A%E2%80%9C%E8%8E%B7%E5%8F%96%E5%BD%93%E5%A4%A9%E4%BC%9A%E8%AE%AE%E7%AC%94%E8%AE%B0%EF%BC%8C%E6%89%BE%E5%88%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [直接](直接.md), [自动化](自动化.md)
+[Apple](Apple.md), [Mac](Mac.md), [开源](开源.md), [当天](当天.md), [执行](执行.md), [提醒](提醒.md), [操作](操作.md), [支持](支持.md), [直接](直接.md), [自动化](自动化.md)
 ___
 ##### 2025-07-20 00:40:56 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 给苹果开发者推荐一个实用的 MCP 服务器：Apple Doc MCP，在 AI 编程助手上直接获取 Apple 最新开发文档，大大提升我们的开发效率。支持智能搜索和通配符匹配，能够实时获取 SwiftUI、UIKit、Foundatio…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99%E8%8B%B9%E6%9E%9C%E5%BC%80%E5%8F%91%E8%80%85%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E5%AE%9E%E7%94%A8%E7%9A%84+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9AApple+Doc+MCP%EF%BC%8C%E5%9C%A8+AI+%E7%BC%96%E7%A8%8B%E5%8A%A9%E6%89%8B%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%8F%96+Apple+%E6%9C%80%E6%96%B0%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3%EF%BC%8C%E5%A4%A7%E5%A4%A7%E6%8F%90%E5%8D%87%E6%88%91%E4%BB%AC%E7%9A%84%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E3%80%82%E6%94%AF%E6%8C%81%E6%99%BA%E8%83%BD%E6%90%9C%E7%B4%A2%E5%92%8C%E9%80%9A%E9%85%8D%E7%AC%A6%E5%8C%B9%E9%85%8D%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%AE%9E%E6%97%B6%E8%8E%B7%E5%8F%96+SwiftUI%E3%80%81UIKit%E3%80%81Foundatio%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [直接](直接.md), [苹果](苹果.md)
+[Apple](Apple.md), [开发](开发.md), [推荐](推荐.md), [搜索](搜索.md), [支持](支持.md), [效率](效率.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-07-01 03:33:44 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 发现了一个能让 AI 拥有持久记忆的 MCP 服务器：MCP Knowledge Graph。通过知识图谱结构存储实体、关系和观察信息，让 AI 能够跨聊天记住我们的信息，巧妙地给 AI 助手添加 “大脑记忆”。GitHub：http…
@@ -521,7 +521,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E5%A5%97%E9%80%82%E7%94%A8%E4%BA%8E+MCP%EF%BC%88%E6%A8%A1%E5%9E%8B%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%89%E5%8D%8F%E8%AE%AE%E7%9A%84%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%EF%BC%9AApple+MCP+tools%E3%80%82%E5%8F%AA%E9%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E5%87%A0%E8%A1%8C%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%B7%BB%E5%8A%A0%E5%88%B0+Claude+%E6%A1%8C%E9%9D%A2%E9%85%8D%E7%BD%AE%E4%B8%AD%EF%BC%8C%E5%8D%B3%E5%8F%AF%E6%8E%88%E4%BA%88%E8%AE%BF%E9%97%AE%E8%8B%B9%E6%9E%9C%E5%8E%9F%E7%94%9F%E5%B7%A5%E5%85%B7%E7%9A%84%E6%9D%83%E9%99%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2F2K9vr1Q9ed%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [上下文](上下文.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
+[Apple](Apple.md), [Claude](Claude.md), [上下文](上下文.md), [代码](代码.md), [协议](协议.md), [型](型.md), [工具](工具.md), [模型](模型.md), [用于](用于.md), [苹果](苹果.md)
 ___
 ##### 2025-02-22 19:05:52 UTC ~ Geek
 > RT @geekbb: Cline 的 MCP 市场功能上线后彻底简化了部署流程，无需三步走，它可自主完成环境配置与依赖包安装。我喝着茶看它一直跑，见证复杂任务被 Cline 优雅解决，感受到了技术赋能带来的效率提升。 https://t.co/0WXhNPfMZM

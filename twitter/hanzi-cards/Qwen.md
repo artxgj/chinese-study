@@ -40,7 +40,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40NekoStranding%3A+%E8%8D%89%EF%BC%8CM4+%E8%8A%AF%E7%89%87%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E5%88%9A%E5%88%9A%E8%A2%AB%E7%A0%B4%E8%A7%A3%E4%BA%86%EF%BC%8C%E8%BF%99%E7%8E%A9%E6%84%8F%E7%9C%9F%E8%83%BD%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E7%94%9A%E8%87%B3%E8%AE%AD%E7%BB%83%E5%A4%A7%E6%A8%A1%E5%9E%8B...%E6%8A%8A+Qwen+3.5+%E5%B0%8F%E6%A8%A1%E5%9E%8B%E8%A3%85%E8%BF%9B%E5%8E%BB%E5%B2%82%E4%B8%8D%E6%98%AF%E5%B0%B1%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%EF%BC%9FApple+%E8%BF%99%E6%B3%A2%E6%81%90%E6%80%95%E7%9C%9F%E7%9A%84%E8%A6%81%E8%B5%A2)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [引擎](引擎.md), [模型](模型.md), [芯片](芯片.md)
+[Apple](Apple.md), [人工](人工.md), [人工智能](人工智能.md), [型](型.md), [引擎](引擎.md), [模型](模型.md), [芯片](芯片.md)
 ___
 ##### 2026-03-03 03:44:16 UTC ~ 夏雨婷
 > RT @cherylnatsu: 今天阿里千问宣布开源 4 款 Qwen3.5 小尺寸模型系列，9B：紧凑尺寸，越级性能特点：结构紧凑，但性能媲美 gpt-oss-120B，让人惊艳。———跟苹果合作的这段时间从大模型工程师转型成了嵌入式工程师，积累了大量小内存系统开发经验

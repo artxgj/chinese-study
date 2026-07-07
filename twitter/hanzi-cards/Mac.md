@@ -12,14 +12,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40mylifcc%3A+%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E5%BC%80%E6%BA%90%E7%A5%9E%E5%99%A8%E6%9D%A5%E4%BA%86%EF%BC%81container+v1.0.0+%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%EF%BC%81%E5%9C%A8+Mac%EF%BC%88Apple+Silicon+%2B+macOS+26%EF%BC%89%E4%B8%8A%EF%BC%8C%E7%94%A8%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%8E%9F%E7%94%9F%E8%BF%90%E8%A1%8C+Linux+%E5%AE%B9%E5%99%A8%EF%BC%81+Swift+%E7%BC%96%E5%86%99%E3%80%81Apple+%E8%99%9A%E6%8B%9F%E5%8C%96%E6%A1%86%E6%9E%B6%E6%B7%B1%E5%BA%A6%E4%BC%98%E5%8C%96%E3%80%81OCI+%E5%AE%8C%E5%85%A8%E5%85%BC%E5%AE%B9%E3%80%82%E5%86%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Linux](Linux.md), [Mac](Mac.md), [优化](优化.md), [发布](发布.md), [开源](开源.md), [正式](正式.md), [苹果](苹果.md)
+[Apple](Apple.md), [Linux](Linux.md), [Mac](Mac.md), [优化](优化.md), [发布](发布.md), [开源](开源.md), [正式](正式.md), [苹果](苹果.md)
 ___
 ##### 2026-06-16 11:46:59 UTC ~ Geek Lite
 > RT @QingQ77: 一个 macOS 终端工具，在 Apple Silicon 上本地跑语音转文字 + 中英翻译。麦克风或会议音频进去，实时字幕和翻译出来，全程不联网。https://t.co/eFZRZ6EDQ7Apple GPU 本地跑，不需要联网。流式 AS…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QingQ77%3A+%E4%B8%80%E4%B8%AA+macOS+%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%9C%A8+Apple+Silicon+%E4%B8%8A%E6%9C%AC%E5%9C%B0%E8%B7%91%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97+%2B+%E4%B8%AD%E8%8B%B1%E7%BF%BB%E8%AF%91%E3%80%82%E9%BA%A6%E5%85%8B%E9%A3%8E%E6%88%96%E4%BC%9A%E8%AE%AE%E9%9F%B3%E9%A2%91%E8%BF%9B%E5%8E%BB%EF%BC%8C%E5%AE%9E%E6%97%B6%E5%AD%97%E5%B9%95%E5%92%8C%E7%BF%BB%E8%AF%91%E5%87%BA%E6%9D%A5%EF%BC%8C%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%81%94%E7%BD%91%E3%80%82https%3A%2F%2Ft.co%2FeFZRZ6EDQ7Apple+GPU+%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E8%81%94%E7%BD%91%E3%80%82%E6%B5%81%E5%BC%8F+AS%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[GPU](GPU.md), [工具](工具.md), [麦](麦.md)
+[Apple](Apple.md), [GPU](GPU.md), [工具](工具.md), [麦](麦.md)
 ___
 ##### 2026-06-16 11:37:25 UTC ~ Geek
 > RT @geekbb: 在 macOS 上下载 iOS App 的 IPA 历史版本，并可隔空投送至 iPhone/iPad 安装使用。https://t.co/XWvezj1uJR https://t.co/XFim0RRK0O
@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E4%B8%BA%E4%BB%80%E4%B9%88+Apple+%E7%BB%99+macOS+27+%E4%B9%9F%E5%8A%A0%E4%BA%86%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%EF%BC%9F%E8%BF%99%E4%B8%AA%E4%BA%A4%E4%BA%92%E5%9C%A8+macOS+%E4%B8%8A%E9%9D%9E%E5%B8%B8%E9%9A%BE%E7%94%A8%E5%95%8A%E2%80%A6%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8F%AF%E8%83%BD%EF%BC%9A%E8%A7%A6%E6%91%B8%E5%B1%8F%E7%89%88%E6%9C%AC%E7%9A%84+Mac+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FayhHJ3LumQ)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [屏](屏.md), [触摸屏](触摸屏.md)
+[Apple](Apple.md), [Mac](Mac.md), [屏](屏.md), [触摸屏](触摸屏.md)
 ___
 ##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
 > RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
@@ -131,14 +131,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ZeroZ_JQ%3A+Apple%E8%BF%99%E6%AC%A1%E5%BC%80%E6%BA%90%E7%9A%84container%E7%BB%9D%E5%AF%B9%E6%98%AF%E7%8E%8B%E7%82%B8%E4%BA%86%EF%BC%8C%E5%BC%80%E5%8F%91%E7%94%A8container%EF%BC%8C%E6%B5%8B%E8%AF%95%E7%94%A8mac+mini%EF%BC%8C%E7%94%9F%E4%BA%A7%E7%94%A8mac+mini+%E9%9B%86%E7%BE%A4%E3%80%82%E7%9C%9FApple%E5%85%A8%E5%AE%B6%E6%A1%B6%E3%80%82+https%3A%2F%2Ft.co%2FUNJ3psueaV)
 ##### Other Words/Names of Interest in the Above Tweet
-[开发](开发.md), [开源](开源.md), [桶](桶.md), [生产](生产.md)
+[Apple](Apple.md), [开发](开发.md), [开源](开源.md), [桶](桶.md), [生产](生产.md)
 ___
 ##### 2025-06-11 05:49:55 UTC ~ Geek
 > RT @geekbb: 来了👇Containerization - 提供轻量级虚拟机中的 Linux 容器运行时环境。。https://t.co/pFjaUVBCOnContainer - 专为 macOS 设计的容器化平台，使用 Swift 编写并针对 Apple 芯片…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E6%9D%A5%E4%BA%86%F0%9F%91%87Containerization+-+%E6%8F%90%E4%BE%9B%E8%BD%BB%E9%87%8F%E7%BA%A7%E8%99%9A%E6%8B%9F%E6%9C%BA%E4%B8%AD%E7%9A%84+Linux+%E5%AE%B9%E5%99%A8%E8%BF%90%E8%A1%8C%E6%97%B6%E7%8E%AF%E5%A2%83%E3%80%82%E3%80%82https%3A%2F%2Ft.co%2FpFjaUVBCOnContainer+-+%E4%B8%93%E4%B8%BA+macOS+%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%AE%B9%E5%99%A8%E5%8C%96%E5%B9%B3%E5%8F%B0%EF%BC%8C%E4%BD%BF%E7%94%A8+Swift+%E7%BC%96%E5%86%99%E5%B9%B6%E9%92%88%E5%AF%B9+Apple+%E8%8A%AF%E7%89%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Linux](Linux.md), [平台](平台.md), [提供](提供.md), [芯片](芯片.md), [设计](设计.md), [针对](针对.md)
+[Apple](Apple.md), [Linux](Linux.md), [平台](平台.md), [提供](提供.md), [芯片](芯片.md), [设计](设计.md), [针对](针对.md)
 ___
 ##### 2025-06-11 04:41:32 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 苹果开源了一个可在 macOS 系统上高效运行 Linux 容器的工具：container。基于 Swift 原生开发并针对苹果芯片深度优化，完全兼容 OCI 标准容器镜像，可以直接拉取任何标准容器仓库的镜像并运行。GitHub：ht…
@@ -173,7 +173,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40st7evechou%3A+%E7%9C%8B%E5%88%B0%E4%B8%AA%E6%96%B0%E9%A1%B9%E7%9B%AE%E5%9B%BD%E8%A1%8C+Mac+%E5%9C%A8+macOS+15.4+%E5%8F%8A%E5%90%8E%E7%BB%AD%E7%89%88%E6%9C%AC%E6%B0%B8%E4%B9%85%E5%BC%80%E5%90%AF+Apple+%E6%99%BA%E8%83%BD%EF%BC%8C%E6%97%A0%E9%9C%80%E4%BF%9D%E6%8C%81+SIP+%28%E7%B3%BB%E7%BB%9F%E5%AE%8C%E6%95%B4%E6%80%A7%E4%BF%9D%E6%8A%A4%29+%E5%85%B3%E9%97%AD%E3%80%82https%3A%2F%2Ft.co%2FsCFpHtx4KG%E9%99%A4%E4%BA%86+ApplAI+%E6%84%8F%E5%A4%96+Xcode+%E7%9A%84+Predictive%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [系统](系统.md), [除了](除了.md), [项目](项目.md)
+[Apple](Apple.md), [Mac](Mac.md), [系统](系统.md), [除了](除了.md), [项目](项目.md)
 ___
 ##### 2025-05-04 10:39:47 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 祖基菲里透露，业者已开始尝试多种展示方式，包括利用二维码供病患扫码查看药价。#南洋商报 #DzulkeflyAhmad #pharmacyhttps://t.co/G0Nz6HzRUe https://t.co/ZtpTeCJEhm
