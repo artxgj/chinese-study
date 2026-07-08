@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40BreakingAlert_%3A+%E4%B8%AD%E5%9B%BD+AI+%E5%85%AC%E5%8F%B8%E6%99%BA%E8%B0%B1%E6%8E%A8%E5%87%BA%E7%9A%84+GLM+5.2+%E8%A2%AB%E8%AE%A4%E4%B8%BA%E6%AD%A3%E5%9C%A8%E9%80%BC%E8%BF%91%E7%BE%8E%E5%9B%BD%E9%A1%B6%E7%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B0%B4%E5%B9%B3%E3%80%82%E6%96%B0%E4%B8%80%E8%BD%AE%E7%AB%9E%E4%BA%89%E7%84%A6%E7%82%B9%E4%B8%8D%E5%86%8D%E5%8F%AA%E6%98%AF%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E5%92%8C%E7%BB%9D%E5%AF%B9%E6%80%A7%E8%83%BD%EF%BC%8C%E8%80%8C%E6%98%AF%E5%8D%95%E4%BD%8D%E6%88%90%E6%9C%AC%E8%83%BD%E6%8F%90%E4%BE%9B%E5%A4%9A%E5%B0%91%E2%80%9C%E6%99%BA%E8%83%BD%E2%80%9D%E3%80%82%E8%BF%99%E4%B9%9F%E8%AE%A9%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E9%87%8D%E6%96%B0%E6%88%90%E4%B8%BA%E5%BC%BA%E5%8A%B2%E5%8F%98%E9%87%8F%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%86%B2%E5%87%BB+OpenAI%E3%80%81Anthropic+%E7%AD%89%E7%BE%8E%E5%9B%BD%E9%97%AD%E6%BA%90%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [冲击](冲击.md), [型](型.md), [开源](开源.md), [强劲](强劲.md), [成本](成本.md), [推出](推出.md), [提供](提供.md), [智谱](智谱.md), [模型](模型.md), [水平](水平.md), [焦点](焦点.md), [直接](直接.md), [竞争](竞争.md), [美国](美国.md)
+[Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [冲击](冲击.md), [开源](开源.md), [强劲](强劲.md), [成本](成本.md), [推出](推出.md), [提供](提供.md), [智谱](智谱.md), [模型](模型.md), [水平](水平.md), [焦点](焦点.md), [直接](直接.md), [竞争](竞争.md), [美国](美国.md)
 ___
 ##### 2026-06-16 11:42:13 UTC ~ Eason Mao☢
 > RT @KELMAND1: GLM-5.2 / Sonnet 4.6 / Opus 4.7 / DeepSeek v4-pro 四方对比前三篇测了 GLM-5.2、Sonnet 4.6、Opus 4.7,这次把 DeepSeek v4-pro 也加进来。同一个项目,同一个…
@@ -26,14 +26,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40KELMAND1%3A+DeepSeek+v4-pro+vs+GLM-5.2+%E5%85%AC%E5%B9%B3%E5%AF%B9%E6%AF%94%E5%89%8D%E9%9D%A2%E5%87%A0%E7%AF%87%E6%88%91%E5%8F%8D%E5%A4%8D%E5%BC%BA%E8%B0%83%E4%B8%80%E4%B8%AA%E5%B1%80%E9%99%90%3A%E4%B8%8D%E6%98%AF+head-to-head%2C%E4%B8%89%E4%B8%AA%E6%A8%A1%E5%9E%8B%E6%8E%A5%E7%9A%84%E6%98%AF%E4%B8%8D%E5%90%8C%E9%98%B6%E6%AE%B5%E3%80%81%E4%BB%BB%E5%8A%A1%E9%9A%BE%E5%BA%A6%E4%B8%8D%E5%8F%AF%E6%AF%94%E3%80%82%E8%BF%99%E6%AC%A1%E6%88%91%E6%8A%8A%E8%BF%99%E4%B8%AA%E7%AA%9F%E7%AA%BF%E8%A1%A5%E4%B8%8A%E4%BA%86%E3%80%82%E4%B8%BA%E4%BA%86%E5%85%AC%E5%B9%B3%2C%E6%88%91%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA+session+%E9%87%8C%2C%E8%AE%A9+DeepS%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [模型](模型.md), [阶段](阶段.md)
+[DeepSeek](DeepSeek.md), [模型](模型.md), [阶段](阶段.md)
 ___
 ##### 2026-02-23 21:05:18 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 上市以来股价不断飙升的中国人工智能企业智谱，为发布新一代旗舰大模型GLM-5时所犯的三个错误致歉，拖累股价急泻。 https://t.co/K2MXyKJd9g
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%8A%E5%B8%82%E4%BB%A5%E6%9D%A5%E8%82%A1%E4%BB%B7%E4%B8%8D%E6%96%AD%E9%A3%99%E5%8D%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9A%E6%99%BA%E8%B0%B1%EF%BC%8C%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E6%97%97%E8%88%B0%E5%A4%A7%E6%A8%A1%E5%9E%8BGLM-5%E6%97%B6%E6%89%80%E7%8A%AF%E7%9A%84%E4%B8%89%E4%B8%AA%E9%94%99%E8%AF%AF%E8%87%B4%E6%AD%89%EF%BC%8C%E6%8B%96%E7%B4%AF%E8%82%A1%E4%BB%B7%E6%80%A5%E6%B3%BB%E3%80%82+https%3A%2F%2Ft.co%2FK2MXyKJd9g)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [拖累](拖累.md), [智谱](智谱.md), [模型](模型.md), [飙升](飙升.md)
+[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [拖累](拖累.md), [智谱](智谱.md), [模型](模型.md), [飙升](飙升.md)
 ___
 ##### 2026-02-17 03:05:19 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 在迎来春节假期之际，中国科技公司纷纷准备发布新产品，以吸引消费者的注意力。今年，即将发布的产品众多，但最受关注的是字节跳动的Seedance 2.0和智谱的GLM5.0。摩根大通在上周发布的一份报告中表示，投资者应该买入智谱和MiniMax的股票…
@@ -47,7 +47,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E4%BB%8A%E5%A4%A9%E6%99%BA%E8%B0%B1%E6%90%9E%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%A4%A7%E5%8A%A8%E4%BD%9C%E3%80%82%E9%A6%96%E5%85%88%E6%98%AF%E6%97%A9%E6%99%A8%E7%9A%84%E5%90%84%E7%A7%8D%E6%8E%A8%E9%80%81%EF%BC%8C%E6%99%BA%E8%B0%B1%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8+IPO+%E6%B5%81%E7%A8%8B%E3%80%82%E7%84%B6%E5%90%8E%E6%98%AF%E5%BC%80%E6%BA%90%E4%BA%86%E5%85%A8%E5%A5%97+Agent+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%8B%99%E5%87%BB%E4%BA%86+Close+AI+%E7%9A%84+GPT4.1%E3%80%82-+%E5%9F%BA%E7%A1%80%E6%A8%A1%E5%9E%8B+GLM4+32B+0414+%EF%BC%8C%E6%80%A7%E8%83%BD%E5%AF%B9%E6%A0%87+DeepSeek+V3+%EF%BC%8C%E5%86%99%E7%BD%91%E9%A1%B5%E8%83%BD%E5%8A%9B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [启动](启动.md), [型](型.md), [开源](开源.md), [智谱](智谱.md), [模型](模型.md), [正式](正式.md)
+[DeepSeek](DeepSeek.md), [启动](启动.md), [开源](开源.md), [智谱](智谱.md), [模型](模型.md), [正式](正式.md)
 ___
 ##### 2025-04-01 03:47:14 UTC ~ 汉松
 > RT @Yonah_x: 智谱清言的 AutoGLM 效果还不错，在一众的开源 Manus 中是最能打的。我的测试 case 是让它：“到pubmed上面帮我总结一下最新的三篇关于糖尿病的研究”，完成度目前看是 AutoGLM &gt; owl &gt; openmanus。 https:…

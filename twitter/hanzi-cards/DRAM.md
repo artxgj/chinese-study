@@ -17,7 +17,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AEMarketWatch%E6%8A%A5%E9%81%93%EF%BC%8C%E5%B0%BD%E7%AE%A1%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8E%A5%E8%A7%A6%EF%BC%8C%E5%AF%BB%E6%B1%82%E8%8E%B7%E5%87%86%E4%BD%BF%E7%94%A8%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E3%80%82%E4%BD%86%E7%A1%85%E8%B0%B7%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%EF%BC%8C%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E3%80%81SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%92%8C%E4%B8%89%E6%98%9F%E5%88%B6%E9%80%A0%E7%9A%84DRAM%E7%B1%BB%E5%9E%8B%E6%9E%81%E9%9A%BE%E7%94%9F%E4%BA%A7%EF%BC%8C%E8%BF%99%E4%B8%8E%E6%B6%88%E8%B4%B9%E7%BA%A7DRAM%E4%B8%8D%E5%90%8C%E3%80%82https%3A%2F%2Ft.co%2FDa6r6Aw6G2)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [型](型.md), [存储](存储.md), [投资](投资.md), [投资者](投资者.md), [接触](接触.md), [生产](生产.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [长鑫](长鑫.md)
+[SK海力士](SK海力士.md), [三星](三星.md), [存储](存储.md), [投资](投资.md), [投资者](投资者.md), [接触](接触.md), [生产](生产.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [长鑫](长鑫.md)
 ___
 ##### 2026-06-30 03:26:55 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【舊一代DRAM價格暴漲，AI産能遷徙致供應趨緊】目前生産上一代DDR3的只有南亞科技和華邦電子等。南亞科技和華邦電子開始專注於DDR4，成為DDR3價格飆升的契機……https://t.co/vWsJ8v8Hyx
@@ -80,7 +80,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E4%B8%80%E5%80%8B%E6%9C%88%E5%85%A7%E6%80%A5%E6%BC%B2%E8%87%B32%E5%80%8D%E3%80%912026%E5%B9%B41%E6%9C%88%EF%BC%8C%E4%BD%9C%E7%82%BA%E6%8C%87%E6%A8%99%E7%9A%84DDR4%E5%9E%8B8GB%E7%94%A3%E5%93%81%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E7%B4%84%E7%82%BA%E6%AF%8F%E5%80%8B13.0%E7%BE%8E%E5%85%83%EF%BC%8C%E9%81%94%E5%88%B02025%E5%B9%B411%EF%BD%9E12%E6%9C%88%E7%9A%842%E5%80%8D%E3%80%82%E7%9B%B8%E6%AF%941%E5%B9%B4%E5%89%8D%E6%9B%B4%E6%98%AF%E6%9A%B4%E6%BC%B2%E8%87%B37.4%E5%80%8D%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E5%85%A8%E7%90%83%E9%A0%AD%E9%83%A8%E5%BB%A0%E5%95%86%E5%84%AA%E5%85%88%E4%BE%9B%E6%87%89AI%E9%A0%98%E5%9F%9F%EF%BC%8C%E7%B8%AE%E6%B8%9BPC%E7%AD%89%E9%80%9A%E7%94%A8%E5%9E%8BD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [型](型.md), [領域](領域.md)
+[交易](交易.md), [領域](領域.md)
 ___
 ##### 2026-02-16 03:05:04 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 马斯克宣布为解决芯片困境，特斯拉可能不得不自行建造存储芯片工厂，并感叹：“要么忍受瓶颈，要么自己建厂。”#南洋商报 #AI #DRAM #memory #chipshttps://t.co/wby58PCWTf https://t.co/…
@@ -101,7 +101,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%A9%BA%E5%89%8D%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A8%98%E6%86%B6%E9%AB%94%E6%B3%A1%E6%B2%AB%E5%B7%B2%E7%B6%93%E5%88%B0%E4%BE%86%EF%BC%9F%E3%80%91%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A8%98%E6%86%B6%E9%AB%94DRAM%E6%8C%87%E6%A8%99%E7%94%A3%E5%93%812025%E5%B9%B411%EF%BD%9E12%E6%9C%88%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E8%88%879%E6%9C%88%E7%9B%B8%E6%AF%94%E4%B8%8A%E6%BC%B2%E4%BA%864%E6%88%90%EF%BC%8C%E8%88%872024%E5%B9%B412%E6%9C%88%E7%9B%B8%E6%AF%94%E6%BC%B2%E5%B9%85%E8%B6%85%E9%81%8E3%E5%80%8D%E3%80%82%E7%94%B1%E6%96%BCAI%E6%8A%95%E8%B3%87%E7%AB%B6%E7%88%AD%E6%8C%81%E7%BA%8C%E5%8D%87%E6%BA%AB%EF%BC%8C%E5%A4%A7%E5%9E%8B%E4%BC%81%E6%A5%AD%E5%84%AA%E5%85%88%E5%90%91AI%E7%94%A8%E9%80%94%E4%BE%9B%E8%B2%A8%EF%BC%8C%E8%80%8CPC%E7%AD%89%E6%B0%91%E7%94%9F%E9%A0%98%E5%9F%9F%E7%9A%84%E7%94%A3%E5%93%81%E4%BE%9B%E6%87%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [半導體](半導體.md), [型](型.md), [泡沫](泡沫.md), [漲幅](漲幅.md), [記憶體](記憶體.md), [領域](領域.md)
+[交易](交易.md), [半導體](半導體.md), [泡沫](泡沫.md), [漲幅](漲幅.md), [記憶體](記憶體.md), [領域](領域.md)
 ___
 ##### 2025-09-30 03:35:13 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AI需求激增，DRAM價格2年翻倍】美國半導體行業協會公佈的各地區7月的銷售額中，美洲同比增加29.3%，推動了整體增長。中國增長10.4%，但日本減少6.3%。與美國等國家相比，日本市場被認為未能充分跟上伺服器需求增長的浪潮………
@@ -122,7 +122,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E7%8F%BE%E8%B2%A8%E5%83%B9%E6%A0%BC1%E5%80%8B%E6%9C%88%E6%BC%B2%E8%87%B32%E5%80%8D%E3%80%91%E4%BD%9C%E7%82%BA%E6%8C%87%E6%A8%99%E7%9A%848GB+DDR4%E5%9E%8BDRAM%E7%9A%84%E5%83%B9%E6%A0%BC%E6%9C%80%E8%BF%911%E5%80%8B%E6%9C%88%E6%BC%B2%E8%87%B3%E9%80%BE2%E5%80%8D%E3%80%82%E4%B8%89%E6%98%9F%E7%AD%89%E5%B7%A8%E9%A0%AD%E6%AD%A3%E5%9C%A8%E9%80%90%E6%AD%A5%E6%92%A4%E5%87%BA%E5%88%A9%E6%BD%A4%E7%8E%87%E4%B8%8B%E9%99%8D%E7%9A%84DDR4%EF%BC%8C%E8%BD%89%E5%90%91DDR5%E7%AD%89%E3%80%82%E6%9C%89%E8%A7%80%E9%BB%9E%E8%AA%8D%E7%82%BA%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%A4%A7%E5%9E%8B%E5%BB%A0%E5%95%86%E4%B9%9F%E5%B0%87%E5%88%86%E9%9A%8E%E6%AE%B5%E7%B5%90%E6%9D%9FDDR4%E7%9A%84%E7%94%9F%E7%94%A3%E2%80%A6%E2%80%A6%E3%80%80https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [利潤](利潤.md), [型](型.md), [撤出](撤出.md), [現貨](現貨.md), [現貨價格](現貨價格.md), [逐步](逐步.md), [逾](逾.md)
+[三星](三星.md), [利潤](利潤.md), [撤出](撤出.md), [現貨](現貨.md), [現貨價格](現貨價格.md), [逐步](逐步.md), [逾](逾.md)
 ___
 ##### 2025-06-12 03:08:51 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大宗交易價格5月上漲10%】中國實施了優待DRAM本國生産的補貼政策，在中國購買本國産品的趨勢正在加強。受此影響，很多觀點認為，三星電子、SK海力士和美光科技今年將停止或縮減包括指標産品在內的DDR4生産……https://t.…
@@ -164,14 +164,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%AE%97%E5%83%B9%E6%A0%BC1%E5%B9%B45%E5%80%8B%E6%9C%88%E4%BE%86%E5%86%8D%E6%AC%A1%E7%92%B0%E6%AF%94%E4%B8%8B%E8%B7%8C%E3%80%919%E6%9C%88%E4%BB%BD%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E4%B8%AD%EF%BC%8C%E4%BD%9C%E7%82%BA%E6%8C%87%E6%A8%99%E7%9A%84DDR4%E5%9E%8B8GB%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC%E5%92%8C4GB%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC%E5%9D%87%E6%AF%94%E4%B8%8A%E6%9C%88%E4%B8%8B%E8%B7%8C3%25%E3%80%82%E5%84%98%E7%AE%A1%E4%BE%86%E8%87%AA%E7%94%9F%E6%88%90AI%EF%BC%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%89%E7%9A%84%E9%9C%80%E6%B1%82%E4%BE%9D%E7%84%B6%E5%BC%B7%E5%8B%81%EF%BC%8C%E4%BD%86%E6%A5%AD%E5%85%A7%E4%BA%BA%E5%A3%AB%E9%96%8B%E5%A7%8B%E7%99%BC%E5%87%BA%E3%80%8C%E8%B6%A8%E5%8B%A2%E5%B7%B2%E7%B6%93%E6%94%B9%E8%AE%8A%E3%80%8D%E7%9A%84%E8%81%B2%E9%9F%B3%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [交易](交易.md), [人工](人工.md), [依然](依然.md), [型](型.md), [強勁](強勁.md), [需求](需求.md)
+[下跌](下跌.md), [交易](交易.md), [人工](人工.md), [依然](依然.md), [強勁](強勁.md), [需求](需求.md)
 ___
 ##### 2024-06-26 05:00:32 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【生成式AI熱潮助推，5月DRAM漲價8%】5月上漲的主要原因是新一代半導體「HBM」的洽購強勁，對於生成式AI晶片的驅動必不可少。大型記憶體企業向作為買方的設備製造企業表示，「我們強勢要求客戶在採購HBM之際高價購買普通DRAM，最終買…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%86%B1%E6%BD%AE%E5%8A%A9%E6%8E%A8%EF%BC%8C5%E6%9C%88DRAM%E6%BC%B2%E5%83%B98%25%E3%80%915%E6%9C%88%E4%B8%8A%E6%BC%B2%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AF%E6%96%B0%E4%B8%80%E4%BB%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E3%80%8CHBM%E3%80%8D%E7%9A%84%E6%B4%BD%E8%B3%BC%E5%BC%B7%E5%8B%81%EF%BC%8C%E5%B0%8D%E6%96%BC%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%99%B6%E7%89%87%E7%9A%84%E9%A9%85%E5%8B%95%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91%E3%80%82%E5%A4%A7%E5%9E%8B%E8%A8%98%E6%86%B6%E9%AB%94%E4%BC%81%E6%A5%AD%E5%90%91%E4%BD%9C%E7%82%BA%E8%B2%B7%E6%96%B9%E7%9A%84%E8%A8%AD%E5%82%99%E8%A3%BD%E9%80%A0%E4%BC%81%E6%A5%AD%E8%A1%A8%E7%A4%BA%EF%BC%8C%E3%80%8C%E6%88%91%E5%80%91%E5%BC%B7%E5%8B%A2%E8%A6%81%E6%B1%82%E5%AE%A2%E6%88%B6%E5%9C%A8%E6%8E%A1%E8%B3%BCHBM%E4%B9%8B%E9%9A%9B%E9%AB%98%E5%83%B9%E8%B3%BC%E8%B2%B7%E6%99%AE%E9%80%9ADRAM%EF%BC%8C%E6%9C%80%E7%B5%82%E8%B2%B7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[HBM](HBM.md), [半導體](半導體.md), [型](型.md), [強勁](強勁.md), [晶片](晶片.md), [記憶體](記憶體.md), [購買](購買.md)
+[HBM](HBM.md), [半導體](半導體.md), [強勁](強勁.md), [晶片](晶片.md), [記憶體](記憶體.md), [購買](購買.md)
 ___
 ##### 2024-05-08 05:56:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AI記憶體，三星想逆襲】AI記憶體HBM（高頻寬內存）是通過將DRAM的晶片堆疊起來提高性能的半導體。據悉SK掌握5份額，三星電子佔4成、美光科技佔1成。3家企業展開投資競爭，三星提出了在2～3年內成為業界第一的目標……https:/…
@@ -213,7 +213,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%87%BA%E7%8F%BEAI%E7%89%B9%E9%9C%80%EF%BC%8CNAND%E6%81%A2%E5%BE%A9%E7%B7%A9%E6%85%A2%E3%80%912023%E5%B9%B47%EF%BD%9E9%E6%9C%88%EF%BC%8C%E7%94%A8%E6%96%BC%E5%AD%98%E5%84%B2%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6%E5%92%8C%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E6%95%B8%E6%93%9A%E7%9A%84DRAM%E7%9A%84%E9%9C%80%E6%B1%82%E9%87%8F3%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1%E8%B6%85%E9%81%8E%E4%BE%9B%E6%87%89%E9%87%8F%E3%80%82%E7%94%9F%E6%88%90%E5%BC%8FAI%E4%BD%BF%E7%94%A8%E7%9A%84DRAM%E7%9A%84%E4%B8%80%E7%A8%AE%E2%80%94%E2%80%94%E9%AB%98%E9%A0%BB%E5%AF%AC%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%88HBM%EF%BC%89%E7%9A%84%E9%9C%80%E6%B1%82%E7%8C%9B%E5%A2%9E%E3%80%82%E6%95%B8%E6%93%9A%E5%82%B3%E8%BC%B8%E9%80%9F%E5%BA%A6%E8%BC%83%E6%85%A2%E7%9A%84NAND%E5%9E%8B%E8%A8%98%E6%86%B6%E5%8D%A1%E5%89%87%E9%9C%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[HBM](HBM.md), [NAND](NAND.md), [型](型.md), [數據](數據.md), [猛增](猛增.md), [記憶體](記憶體.md), [速度](速度.md), [需求](需求.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md)
+[HBM](HBM.md), [NAND](NAND.md), [數據](數據.md), [猛增](猛增.md), [記憶體](記憶體.md), [速度](速度.md), [需求](需求.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md)
 ___
 ##### 2023-11-21 04:26:16 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM價格連續6個月處於橫盤狀態】隨著記憶體廠商減産，供應減少，另一方面，配備DRAM的電腦等的銷售低迷，需求恢復緩慢……https://t.co/xNngP6cilr
@@ -241,7 +241,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%BB%B7%E6%A0%BC1%E5%B9%B4%E8%B7%8C4%E6%88%90%E3%80%91%E5%85%B7%E6%9C%89%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87DRAM%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%88%AA%E8%87%B34%E6%9C%88%E8%BF%9E%E7%BB%AD12%E4%B8%AA%E6%9C%88%E4%B8%8B%E6%BB%91%E3%80%82NAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B9%E9%9D%A2%EF%BC%8C%E2%80%9CTLC+256GB%E2%80%9D%E4%BA%A7%E5%93%814%EF%BD%9E6%E6%9C%88%E5%90%8C%E6%AF%94%E4%B8%8B%E8%B7%8C44%25%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%B5%B0%E4%BD%8E%E3%80%82%E5%9C%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%EF%BC%8C%E5%BE%88%E5%A4%9A%E8%A7%82%E7%82%B9%E8%AE%A4%E4%B8%BA%E5%BA%93%E5%AD%98%E6%B0%B4%E5%B9%B3%E5%B0%86%E5%9C%A87%EF%BD%9E9%E6%9C%88%E5%87%BA%E7%8E%B0%E6%94%B9%E5%96%84%EF%BC%8C%E4%BD%86%E6%9C%89%E5%A3%B0%E9%9F%B3%E8%AE%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [下滑](下滑.md), [下跌](下跌.md), [价格](价格.md), [半导体](半导体.md), [型](型.md), [存储](存储.md), [库存](库存.md), [截至](截至.md), [持续](持续.md), [水平](水平.md), [芯片](芯片.md), [行业](行业.md), [连续](连续.md)
+[NAND](NAND.md), [下滑](下滑.md), [下跌](下跌.md), [价格](价格.md), [半导体](半导体.md), [存储](存储.md), [库存](库存.md), [截至](截至.md), [持续](持续.md), [水平](水平.md), [芯片](芯片.md), [行业](行业.md), [连续](连续.md)
 ___
 ##### 2023-05-26 04:59:52 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大单交易价格连续12个月下跌】从4月的大单交易价格来看，成为指标的8GB DDR4为每个约1.48美元，比上月下降1%。 电脑和智能手机市场因全球性的通货膨胀而持续萎缩。在此背景下，存储器厂商将加快去库存……https://t.…
@@ -304,7 +304,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E5%B8%82%E5%9C%BA21%E5%B9%B4%E5%A2%9E32%EF%BC%85%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%B4%AD%E4%B9%B0%E5%8D%A0%E6%AF%94%E9%AB%98%E3%80%91%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A82021%E5%B9%B4%E7%9A%84%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E4%B8%BA1670%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%88%B02027%E5%B9%B4%E5%B0%86%E6%89%A9%E5%A4%A7%E5%88%B02600%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E4%BB%8E%E8%B4%AD%E4%B9%B0%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E7%9C%8B%EF%BC%8CDRAM%E6%96%B9%E9%9D%A2%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%8D%A041%EF%BC%85%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%8D%A034%EF%BC%85%E3%80%82%E8%80%8CNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B9%E9%9D%A2%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [半导体](半导体.md), [型](型.md), [存储](存储.md), [存储器](存储器.md), [扩大](扩大.md), [美国](美国.md), [规模](规模.md), [购买](购买.md), [预计](预计.md)
+[NAND](NAND.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩大](扩大.md), [美国](美国.md), [规模](规模.md), [购买](购买.md), [预计](预计.md)
 ___
 ##### 2022-07-08 19:23:13 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 几乎每一个电子设备都要使用的内存芯片在疫情期间价格飞涨。但从现在内存芯片价格下降的幅度来看，需求热潮可能已经结束。根据一家市场研究公司的数据，DRAM平均合同价格在第二季度同比下降了10.6%，这是两年来首次出现同比下降。预计未来几个月的价格…
@@ -381,7 +381,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%80%81%E6%AC%BEDRAM%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%B7%E6%A0%BC%E6%B6%A8%E8%87%B3%E8%BF%912%E5%80%8D%E3%80%91%E2%80%8B%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8DRAM%E5%B8%82%E5%9C%BA%E7%9A%84%E4%B8%BB%E6%B5%81%E6%98%AFDDR4%E5%9E%8B%EF%BC%8C%E4%B8%8A%E4%B8%80%E4%BB%A3%E4%BA%A7%E5%93%81DDR3%E5%9E%8B%E4%BB%85%E5%8D%A05%25%EF%BC%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8E%82%E5%95%86%E9%80%90%E6%AD%A5%E5%87%8F%E4%BA%A7%E3%80%82%E5%8F%A6%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E5%AE%B6%E7%94%B5%E5%92%8C%E6%B1%BD%E8%BD%A6%E5%AF%BC%E8%88%AA%E7%B3%BB%E7%BB%9F%E7%AD%89%E5%AF%B9DDR3%E5%9E%8B%E7%9A%84%E9%9C%80%E6%B1%82%E4%BF%9D%E6%8C%81%E6%97%BA%E7%9B%9B%EF%BC%8C%E5%A4%A7%E5%8D%95%E4%BC%98%E6%83%A0%E4%BB%B7%E6%A0%BC%E6%B6%A8%E8%87%B320%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BD%8E%E7%82%B9%E7%9A%84%E8%BF%912%E5%80%8D%E2%80%A6%E2%80%A6ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [优惠](优惠.md), [半导体](半导体.md), [厂商](厂商.md), [型](型.md), [存储](存储.md), [存储器](存储器.md), [系统](系统.md), [逐步](逐步.md), [需求](需求.md)
+[价格](价格.md), [优惠](优惠.md), [半导体](半导体.md), [厂商](厂商.md), [存储](存储.md), [存储器](存储器.md), [系统](系统.md), [逐步](逐步.md), [需求](需求.md)
 ___
 ##### 2021-03-11 03:38:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【受半导体短缺波及，DRAM价格创2年来高价】存储器DRAM由三星和SK海力士等自主制造，受到的影响轻微。但生产上一代产品的台湾部分企业放弃通用产品，转为制造台积电无法应付的定制产品等利润率更高的产品，现货市场的供求出现紧张…… http…

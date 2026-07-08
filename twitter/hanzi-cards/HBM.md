@@ -96,7 +96,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%86%B1%E6%BD%AE%E5%8A%A9%E6%8E%A8%EF%BC%8C5%E6%9C%88DRAM%E6%BC%B2%E5%83%B98%25%E3%80%915%E6%9C%88%E4%B8%8A%E6%BC%B2%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AF%E6%96%B0%E4%B8%80%E4%BB%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E3%80%8CHBM%E3%80%8D%E7%9A%84%E6%B4%BD%E8%B3%BC%E5%BC%B7%E5%8B%81%EF%BC%8C%E5%B0%8D%E6%96%BC%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%99%B6%E7%89%87%E7%9A%84%E9%A9%85%E5%8B%95%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91%E3%80%82%E5%A4%A7%E5%9E%8B%E8%A8%98%E6%86%B6%E9%AB%94%E4%BC%81%E6%A5%AD%E5%90%91%E4%BD%9C%E7%82%BA%E8%B2%B7%E6%96%B9%E7%9A%84%E8%A8%AD%E5%82%99%E8%A3%BD%E9%80%A0%E4%BC%81%E6%A5%AD%E8%A1%A8%E7%A4%BA%EF%BC%8C%E3%80%8C%E6%88%91%E5%80%91%E5%BC%B7%E5%8B%A2%E8%A6%81%E6%B1%82%E5%AE%A2%E6%88%B6%E5%9C%A8%E6%8E%A1%E8%B3%BCHBM%E4%B9%8B%E9%9A%9B%E9%AB%98%E5%83%B9%E8%B3%BC%E8%B2%B7%E6%99%AE%E9%80%9ADRAM%EF%BC%8C%E6%9C%80%E7%B5%82%E8%B2%B7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [半導體](半導體.md), [型](型.md), [強勁](強勁.md), [晶片](晶片.md), [記憶體](記憶體.md), [購買](購買.md)
+[DRAM](DRAM.md), [半導體](半導體.md), [強勁](強勁.md), [晶片](晶片.md), [記憶體](記憶體.md), [購買](購買.md)
 ___
 ##### 2024-05-29 07:38:56 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AI用記憶體競爭激化，三星猛追SK海力士】英偉達創始人黃仁勳把HBM（高頻寬記憶體）稱為「技術奇蹟」，認為它是AI革命的重要因素。在這一領域SK海力士處於優勢，佔有全球過半份額。這種狀況讓三星無法接受……https://t.co/oB…
@@ -131,7 +131,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%87%BA%E7%8F%BEAI%E7%89%B9%E9%9C%80%EF%BC%8CNAND%E6%81%A2%E5%BE%A9%E7%B7%A9%E6%85%A2%E3%80%912023%E5%B9%B47%EF%BD%9E9%E6%9C%88%EF%BC%8C%E7%94%A8%E6%96%BC%E5%AD%98%E5%84%B2%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6%E5%92%8C%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E6%95%B8%E6%93%9A%E7%9A%84DRAM%E7%9A%84%E9%9C%80%E6%B1%82%E9%87%8F3%E5%B9%B4%E4%BE%86%E9%A6%96%E6%AC%A1%E8%B6%85%E9%81%8E%E4%BE%9B%E6%87%89%E9%87%8F%E3%80%82%E7%94%9F%E6%88%90%E5%BC%8FAI%E4%BD%BF%E7%94%A8%E7%9A%84DRAM%E7%9A%84%E4%B8%80%E7%A8%AE%E2%80%94%E2%80%94%E9%AB%98%E9%A0%BB%E5%AF%AC%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%88HBM%EF%BC%89%E7%9A%84%E9%9C%80%E6%B1%82%E7%8C%9B%E5%A2%9E%E3%80%82%E6%95%B8%E6%93%9A%E5%82%B3%E8%BC%B8%E9%80%9F%E5%BA%A6%E8%BC%83%E6%85%A2%E7%9A%84NAND%E5%9E%8B%E8%A8%98%E6%86%B6%E5%8D%A1%E5%89%87%E9%9C%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [NAND](NAND.md), [型](型.md), [數據](數據.md), [猛增](猛增.md), [記憶體](記憶體.md), [速度](速度.md), [需求](需求.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md)
+[DRAM](DRAM.md), [NAND](NAND.md), [數據](數據.md), [猛增](猛增.md), [記憶體](記憶體.md), [速度](速度.md), [需求](需求.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md)
 ___
 ##### 2023-08-29 02:56:41 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 十年前，SK海力士比竞争对手更积极地押注HBM。现在，随着依赖HBM的AI应用兴起，SK海力士脱颖而出，成为早期的硬件赢家之一。一位学者说：“这既反映出我们对新技术的投入，也有一点运气的成分，我们大举押注的一款产品在AI时代大受瞩目。” htt…

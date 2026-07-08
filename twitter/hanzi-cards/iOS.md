@@ -26,14 +26,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40RocM301%3A+iOS+27+%E9%A6%96%E4%B8%AA%E5%BC%80%E5%8F%91%E8%80%85%E6%B5%8B%E8%AF%95%E7%89%88%E9%87%8C%EF%BC%8CiPhone+17+Pro+%E5%92%8C+iPhone+Air+%E7%9A%84%E6%96%B0%E4%B8%80%E4%BB%A3+AI+%E8%AF%AD%E9%9F%B3%E5%90%AC%E5%86%99%E9%BB%98%E8%AE%A4%E6%B2%A1%E5%BC%80%E3%80%82%E4%B9%9F%E5%B0%B1%E6%98%AF%E8%AF%B4%EF%BC%8C%E5%88%9A%E5%8D%87%E7%BA%A7%E5%88%B0+beta+%E7%89%88%E6%97%B6%EF%BC%8C%E7%94%A8%E6%88%B7%E4%B8%8D%E4%BC%9A%E7%AB%8B%E5%88%BB%E7%94%A8%E4%B8%8A%E8%BF%99%E4%B8%AA%E5%9F%BA%E4%BA%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%90%AC%E5%86%99%E5%8A%9F%E8%83%BD%E3%80%82%E6%83%B3%E4%BD%93%E9%AA%8C%E7%9A%84%E8%AF%9D%EF%BC%8C%E9%9C%80%E8%A6%81%E6%89%8B%E5%8A%A8%E6%8A%8A%E5%AE%83%E6%89%93%E5%BC%80%E3%80%82%E5%AF%BC%E8%88%AA%E5%88%B0%E2%80%9C%E9%80%9A%E7%94%A8%E2%80%9D-%26gt%3B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [升级](升级.md), [型](型.md), [开发](开发.md), [模型](模型.md)
+[iPhone](iPhone.md), [升级](升级.md), [开发](开发.md), [模型](模型.md)
 ___
 ##### 2026-06-11 04:53:07 UTC ~ 蓝点网
 > RT @landiantech: #iOS27 WiFi 新增类型说明，可以帮助用户识别自己使用的是 WiFi 5/6/7 等不同的协议。用户点击已连接 WiFi 后的感叹号即可进入详细页面，这里面会显示无线局域网 6 等字样和对应的协议例如 802.11ax，这可以帮助用…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%23iOS27+WiFi+%E6%96%B0%E5%A2%9E%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E7%94%A8%E6%88%B7%E8%AF%86%E5%88%AB%E8%87%AA%E5%B7%B1%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AF+WiFi+5%2F6%2F7+%E7%AD%89%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8D%8F%E8%AE%AE%E3%80%82%E7%94%A8%E6%88%B7%E7%82%B9%E5%87%BB%E5%B7%B2%E8%BF%9E%E6%8E%A5+WiFi+%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%B9%E5%8F%B7%E5%8D%B3%E5%8F%AF%E8%BF%9B%E5%85%A5%E8%AF%A6%E7%BB%86%E9%A1%B5%E9%9D%A2%EF%BC%8C%E8%BF%99%E9%87%8C%E9%9D%A2%E4%BC%9A%E6%98%BE%E7%A4%BA%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91+6+%E7%AD%89%E5%AD%97%E6%A0%B7%E5%92%8C%E5%AF%B9%E5%BA%94%E7%9A%84%E5%8D%8F%E8%AE%AE%E4%BE%8B%E5%A6%82+802.11ax%EF%BC%8C%E8%BF%99%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E7%94%A8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [型](型.md), [显示](显示.md), [连接](连接.md)
+[协议](协议.md), [显示](显示.md), [连接](连接.md)
 ___
 ##### 2026-04-01 15:29:43 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果计划在即将推出的iOS 27中引入“Extensions”功能，让用户可在Siri中接入不同第三方AI服务。#南洋商报 #苹果 #APPLE #iOS #Siri https://t.co/ovePy8btT6 https://t.c…
@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%83%B3%E5%9C%A8+iPhone+%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E6%9D%A5%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA%E2%80%94%E2%80%94LLMFarm++%E8%BF%99%E4%B8%AA+app+%E5%8F%AF%E4%BB%A5%E8%BF%90%E8%A1%8C%E5%9C%A8+%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%AE%B6%E6%A1%B6%E4%B8%8A%EF%BC%8C%E6%97%A0%E8%AE%BA%E6%98%AF+iOS+%E8%BF%98%E6%98%AF+MacOS%E3%80%82%E5%B9%B6%E4%B8%94%E6%94%AF%E6%8C%81RAG%E3%80%82%E7%94%B1%E4%BA%8E%E5%AE%83%E5%85%B6%E5%AE%9E%E6%98%AF+llama.cpp+%E7%9A%84%E9%AD%94%E6%94%B9%EF%BC%8C%E6%89%80%E4%BB%A5%E5%87%A0%E4%B9%8E%E6%94%AF%E6%8C%81%E6%89%80%E6%9C%89%E8%AE%BE%E5%A4%87%E8%83%BD%E8%A3%85%E5%BE%97%E4%B8%8B%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E5%9C%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [Mac](Mac.md), [RAG](RAG.md), [iPhone](iPhone.md), [型](型.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
+[LLM](LLM.md), [Mac](Mac.md), [RAG](RAG.md), [iPhone](iPhone.md), [支持](支持.md), [桶](桶.md), [模型](模型.md), [苹果](苹果.md)
 ___
 ##### 2025-04-12 07:44:45 UTC ~ Baye
 > RT @waylybaye: OpenCat 2.50 更新啦，内置了多个 MCP 工具，Cloud 提供了高德地图的 MCP，无需任何配置就可以直接使用。降低了 iOS/macOS 的系统版本要求。支持 Grok 3。修复了很多个 bug。 https://t.co/JopQ…
@@ -166,7 +166,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+OpenCat+iOS+%E6%96%B0%E7%89%88%E4%B9%9F%E6%9B%B4%E6%96%B0%E5%95%A6%EF%BC%8C%E9%87%87%E7%94%A8%E4%BA%86%E6%96%B0%E7%9A%84+UI+%E5%92%8C%E4%BA%A4%E4%BA%92%EF%BC%8C%E6%94%AF%E6%8C%81%E6%90%9C%E7%B4%A2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%94%AF%E6%8C%81%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%B9%9F%E8%83%BD%E4%BD%BF%E7%94%A8+MCP+%E5%95%A6%E3%80%82%E8%BF%98%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%9A%84%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E6%9B%B4%E5%8A%A0%E7%B2%BE%E5%87%86%E3%80%82MCP+%E9%85%8D%E7%BD%AE%E4%BC%9A%E5%9C%A8+iOS+%E5%92%8C+macOS+%E4%B9%8B%E9%97%B4%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%EF%BC%8C%E5%8C%BA%E5%88%AB%E6%98%AF+iOS+%E4%BB%A5%E5%8F%8A+A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [mac](mac.md), [型](型.md), [工具](工具.md), [搜索](搜索.md), [支持](支持.md), [模型](模型.md)
+[MCP](MCP.md), [mac](mac.md), [工具](工具.md), [搜索](搜索.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-03-31 06:56:38 UTC ~ 暴雪vpn
 > RT @bxvpn: 暴雪VPN&gt;提供永久免费多线路，全部通道不限流量&gt;一个账户可共享高达5个设备使用&gt;无需注册，不记录隐私&gt;提供安卓，iOS，Windows版本&gt;采用了5级不同的连接模式防止被ISP关闭或禁用您的VPN连接，永远使您可以连接上VPN。欢迎下载使用…
@@ -187,7 +187,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E5%BC%80%E6%BA%90%E7%9A%84%E7%AC%AC%E4%B8%89%E6%96%B9+DeepSeek+iOS+%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%9ADeepSeek+AI+%E5%8A%A9%E6%89%8B%E3%80%82%E9%9B%86%E6%88%90+DeepSeek+%E5%BC%BA%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%EF%BC%8C%E6%94%AF%E6%8C%81%E5%AE%9E%E6%97%B6%E5%AF%B9%E8%AF%9D%E3%80%81%E5%A4%9A%E8%BD%AE%E4%BA%A4%E4%BA%92%E3%80%81%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E7%AE%A1%E7%90%86%E3%80%81%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FY5qLyeWg%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [客户](客户.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
+[DeepSeek](DeepSeek.md), [客户](客户.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-02-16 19:32:37 UTC ~ Menci 💖
 > RT @lcMenci: 困扰我很久的所有 iOS app 的 HTTPS 请求都随机地会卡很久（但其他设备都正常）的问题终于解决了，在软路由上把 type = 65 给 reject 掉就行了抓包观测到的行为是，iOS 在查到了 ip 之后还会一直对着最后一层 CNAME…
@@ -285,14 +285,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%EF%BC%8C%E4%BD%86%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%9A%84iPhone%E6%94%AF%E6%8C%81iOS+17%EF%BC%8C%E8%80%8C%E4%B8%94%E9%99%A4%E4%BA%86%E7%94%B5%E6%B1%A0%E7%BB%AD%E8%88%AA%E8%83%BD%E5%8A%9B%E4%B8%8B%E9%99%8D%E6%B2%A1%E5%85%B6%E4%BB%96%E6%AF%9B%E7%97%85%EF%BC%8C%E9%82%A3%E4%BD%A0%E5%A4%A7%E5%8F%AF%E8%B7%B3%E8%BF%87%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%96%B0%E6%9C%BA%E5%9E%8B%E3%80%82%E4%B9%9F%E6%9C%89%E9%82%A3%E4%B9%88%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E5%8D%87%E7%BA%A7%E3%80%82https%3A%2F%2Ft.co%2FvqshvX6ePv)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [升级](升级.md), [发布](发布.md), [型](型.md), [情况](情况.md), [支持](支持.md), [电池](电池.md), [考虑](考虑.md), [苹果](苹果.md), [除了](除了.md)
+[iPhone](iPhone.md), [升级](升级.md), [发布](发布.md), [情况](情况.md), [支持](支持.md), [电池](电池.md), [考虑](考虑.md), [苹果](苹果.md), [除了](除了.md)
 ___
 ##### 2023-09-04 16:36:24 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司即将举行新品发布会，但如果你现在的iPhone支持iOS 17，而且除了电池续航能力下降没其他毛病，那你大可跳过今年的新机型。也有那么几种情况下，你应该考虑升级。https://t.co/vqshvX6ePv
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%EF%BC%8C%E4%BD%86%E5%A6%82%E6%9E%9C%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%9A%84iPhone%E6%94%AF%E6%8C%81iOS+17%EF%BC%8C%E8%80%8C%E4%B8%94%E9%99%A4%E4%BA%86%E7%94%B5%E6%B1%A0%E7%BB%AD%E8%88%AA%E8%83%BD%E5%8A%9B%E4%B8%8B%E9%99%8D%E6%B2%A1%E5%85%B6%E4%BB%96%E6%AF%9B%E7%97%85%EF%BC%8C%E9%82%A3%E4%BD%A0%E5%A4%A7%E5%8F%AF%E8%B7%B3%E8%BF%87%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%96%B0%E6%9C%BA%E5%9E%8B%E3%80%82%E4%B9%9F%E6%9C%89%E9%82%A3%E4%B9%88%E5%87%A0%E7%A7%8D%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E4%BD%A0%E5%BA%94%E8%AF%A5%E8%80%83%E8%99%91%E5%8D%87%E7%BA%A7%E3%80%82https%3A%2F%2Ft.co%2FvqshvX6ePv)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [升级](升级.md), [发布](发布.md), [型](型.md), [情况](情况.md), [支持](支持.md), [电池](电池.md), [考虑](考虑.md), [苹果](苹果.md), [除了](除了.md)
+[iPhone](iPhone.md), [升级](升级.md), [发布](发布.md), [情况](情况.md), [支持](支持.md), [电池](电池.md), [考虑](考虑.md), [苹果](苹果.md), [除了](除了.md)
 ___
 ##### 2023-08-31 05:53:12 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【全球2023年手机出货量将创10年来最低】2023年全球智能手机出货量预计比2022年减少4.7％，降至11亿5000万部。专家称“换机周期的长期化导致增长率降低”。不过，按OS观察份额，搭载“iOS”的iPhone的份额将达到19.9…

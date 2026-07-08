@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AEMarketWatch%E6%8A%A5%E9%81%93%EF%BC%8C%E5%B0%BD%E7%AE%A1%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8E%A5%E8%A7%A6%EF%BC%8C%E5%AF%BB%E6%B1%82%E8%8E%B7%E5%87%86%E4%BD%BF%E7%94%A8%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E3%80%82%E4%BD%86%E7%A1%85%E8%B0%B7%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%EF%BC%8C%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E3%80%81SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%92%8C%E4%B8%89%E6%98%9F%E5%88%B6%E9%80%A0%E7%9A%84DRAM%E7%B1%BB%E5%9E%8B%E6%9E%81%E9%9A%BE%E7%94%9F%E4%BA%A7%EF%BC%8C%E8%BF%99%E4%B8%8E%E6%B6%88%E8%B4%B9%E7%BA%A7DRAM%E4%B8%8D%E5%90%8C%E3%80%82https%3A%2F%2Ft.co%2FDa6r6Aw6G2)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [三星](三星.md), [型](型.md), [存储](存储.md), [投资](投资.md), [投资者](投资者.md), [接触](接触.md), [生产](生产.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [长鑫](长鑫.md)
+[DRAM](DRAM.md), [三星](三星.md), [存储](存储.md), [投资](投资.md), [投资者](投资者.md), [接触](接触.md), [生产](生产.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [长鑫](长鑫.md)
 ___
 ##### 2026-06-29 21:20:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 在李在明主持的报告会上，韩国公布了在半导体产业和AI基础设施领域投资近2万亿美元的计划，三星电子和SK海力士均承诺进行大规模的新投资。https://t.co/BmB5wSkaB7
@@ -26,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BD%9C%E4%B8%BA%E2%80%9C%E4%B8%89%E5%A4%A7%E8%B6%85%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E2%80%9D%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%8C%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%B0%86%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%A5%BF%E5%8D%97%E9%83%A8%E6%89%93%E9%80%A0%E4%B8%80%E4%B8%AA%E6%96%B0%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E4%B8%AD%E5%BF%83%E3%80%82%E6%AD%A4%E4%B8%BE%E6%84%8F%E5%9C%A8%E9%85%8D%E5%90%88%E9%9F%A9%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E6%88%98%E7%95%A5%EF%BC%8C%E5%B0%86AI%E7%83%AD%E6%BD%AE%E5%BC%95%E5%85%A5%E8%AF%A5%E5%9B%BD%E9%9D%9E%E9%A6%96%E9%83%BD%E5%9C%88%E6%AC%A0%E5%8F%91%E8%BE%BE%E5%9C%B0%E5%8C%BA%E3%80%82https%3A%2F%2Ft.co%2F6ZNh7DSimQ)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [圈](圈.md), [型](型.md), [战略](战略.md), [打造](打造.md), [此举](此举.md), [热潮](热潮.md), [芯片](芯片.md), [配合](配合.md), [韩国](韩国.md), [项目](项目.md)
+[三星](三星.md), [圈](圈.md), [战略](战略.md), [打造](打造.md), [此举](此举.md), [热潮](热潮.md), [芯片](芯片.md), [配合](配合.md), [韩国](韩国.md), [项目](项目.md)
 ___
 ##### 2026-06-02 14:57:23 UTC ~ TechNews 科技新報
 > RT @technews_tw: Computex 2026 現場直擊！ #黃仁勳合體SK海力士會長崔泰源 SK 集團會長崔泰源今（2 日）快閃 SK 海力士攤位並接受媒體訪問。在被問到產能規劃和記憶體後市，崔泰源表示，AI 持續擴張帶動記憶體需求成長，每一代 AI… http…
@@ -187,7 +187,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E6%8E%80%E8%B5%B7%E5%87%8F%E4%BA%A7%E6%B5%AA%E6%BD%AE%E3%80%91%E2%80%9C%E8%BF%87%E5%8E%BB%E4%BB%8E%E6%9C%AA%E7%BB%8F%E5%8E%86%E8%BF%87%E5%A6%82%E6%AD%A4%E4%B8%A5%E9%87%8D%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%B8%8D%E6%99%AF%E6%B0%94%E7%8A%B6%E5%86%B5%E2%80%9D%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%A1%8C%E6%83%85%E6%81%B6%E5%8C%96%E8%B6%8B%E4%BA%8E%E9%95%BF%E6%9C%9F%E5%8C%96%EF%BC%8C%E6%97%A5%E6%9C%AC%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E5%86%B3%E5%AE%9A%E6%8E%A8%E8%BF%9FNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B0%E5%B7%A5%E5%8E%82%E7%9A%84%E6%8A%95%E4%BA%A7%E6%97%B6%E9%97%B4%E3%80%82%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8F%90%E9%AB%98%E5%87%8F%E4%BA%A7%E5%B9%85%E5%BA%A6%E3%80%82%E2%80%9C%E5%87%8F%E4%BA%A7%E5%A4%9A%E7%B1%B3%E8%AF%BA%E6%95%88%E5%BA%94%E2%80%9D%E6%AD%A3%E5%9C%A8NAND%E9%A2%86%E5%9F%9F%E6%89%A9%E6%95%A3%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [型](型.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [领域](领域.md)
+[NAND](NAND.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [领域](领域.md)
 ___
 ##### 2023-03-14 00:16:09 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【半导体存储器的疲软行情加剧】2022年10～12月，三星电子半导体业务的营业利润下降97％。SK海力士、铠侠控股等出现营业亏损。存储器价格自2022年7～9月转为下跌走势。面对手机等终端需求的迅速放缓，供应过剩的半导体产品面临强烈的价格…
@@ -208,7 +208,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%89%E6%98%9F%E8%A6%81%E5%9C%A8%E9%80%86%E9%A3%8E%E4%B8%8B%E5%9D%9A%E6%8C%81%E5%AF%B9%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%9A%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E6%8A%95%E8%B5%84%E3%80%91%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%902022%E5%B9%B410%EF%BD%9E12%E6%9C%88%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E9%99%8D%E8%87%B3%E4%B8%8A%E5%B9%B4%E5%90%8C%E6%9C%9F%E7%9A%84%E4%B8%8D%E5%88%B0%E4%B8%80%E5%8D%8A%E3%80%82%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E7%BE%8E%E5%9B%BD%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E5%92%8C%E9%9F%A9%E5%9B%BDSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%9D%87%E6%8F%90%E5%87%BA%E5%87%8F%E5%B0%912023%E8%B4%A2%E5%B9%B4%E7%9A%84%E8%AE%BE%E5%A4%87%E6%8A%95%E8%B5%84%E3%80%82%E5%9C%A8%E8%BF%99%E4%B8%80%E9%80%86%E9%A3%8E%E4%B8%8B%EF%BC%8C%E4%B8%89%E6%98%9F%E5%8D%B4%E6%8F%90%E5%87%BA%E5%9D%9A%E6%8C%81%E8%BF%9B%E6%94%BB%E5%9E%8B%E6%8A%95%E8%B5%84%E3%80%82%E7%9B%AE%E5%89%8D%E5%A4%84%E4%BA%8E%E5%9B%A0%E4%B8%AD%E7%BE%8E%E5%AF%B9%E7%AB%8B%E8%80%8C%E5%AE%B9%E6%98%93%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [利润](利润.md), [半导体](半导体.md), [型](型.md), [处于](处于.md), [投资](投资.md), [提出](提出.md), [科技](科技.md), [竞争](竞争.md), [美光](美光.md), [美国](美国.md), [营业利润](营业利润.md), [韩国](韩国.md)
+[三星](三星.md), [利润](利润.md), [半导体](半导体.md), [处于](处于.md), [投资](投资.md), [提出](提出.md), [科技](科技.md), [竞争](竞争.md), [美光](美光.md), [美国](美国.md), [营业利润](营业利润.md), [韩国](韩国.md)
 ___
 ##### 2022-12-01 01:19:03 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【韩国SK抽中“下下签”】SK海力士以韩国企业最大规模的金额收购了英特尔在大连的闪存工厂，但美国对华半导体限制升级，SK的增产投资亮起了黄灯。但如果现阶段占4成产能的中国工厂无法更新设备，SK整体的竞争力很可能大幅下降……https://…
@@ -229,7 +229,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%BC%80%E5%8F%91%E5%87%BA%E6%9C%80%E5%B0%96%E7%AB%AFNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E3%80%91SK%E5%BC%80%E5%8F%91%E5%87%BA238%E5%B1%82NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%8D%95%E4%BD%8D%E9%9D%A2%E7%A7%AF%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AE%B9%E9%87%8F%E6%8F%90%E9%AB%9834%EF%BC%85%EF%BC%8C%E4%BC%A0%E8%BE%93%E9%80%9F%E5%BA%A6%E6%8F%90%E9%AB%9850%25%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FBXr49gemPL)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [型](型.md), [尖端](尖端.md), [开发](开发.md), [提高](提高.md), [数据](数据.md), [速度](速度.md)
+[NAND](NAND.md), [尖端](尖端.md), [开发](开发.md), [提高](提高.md), [数据](数据.md), [速度](速度.md)
 ___
 ##### 2022-07-22 05:47:09 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【SK海力士无限期推迟韩国工厂扩建计划】SK原计划在韩国中部工厂建设新厂房，量产尖端存储器产品，但日前决定推迟。由于个人电脑和智能手机的销售情况低迷，存储器市场行情恶化。此外，美元升值导致生产设备引进成本上升……https://t.co/…

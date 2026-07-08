@@ -97,7 +97,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8B%E5%B9%B3%E5%8F%B0TikTok%E6%98%9F%E6%9C%9F%E4%BA%94%EF%BC%881%E6%9C%8816%E6%97%A5%EF%BC%89%E5%90%91%E8%B7%AF%E9%80%8F%E7%A4%BE%E9%80%8F%E9%9C%B2%EF%BC%8C%E5%B0%86%E4%BA%8E%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%91%A8%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%87%BA%E6%96%B0%E5%9E%8B%E5%B9%B4%E9%BE%84%E8%AF%86%E5%88%AB%E6%8A%80%E6%9C%AF%E3%80%82TikTok%E6%AD%A3%E9%9D%A2%E4%B8%B4%E7%9B%91%E7%AE%A1%E5%8E%8B%E5%8A%9B%EF%BC%8C%E9%A1%BB%E6%9B%B4%E6%9C%89%E6%95%88%E5%9C%B0%E8%AF%86%E5%88%AB%E5%B9%B6%E7%A7%BB%E9%99%A413%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E8%B4%A6%E6%88%B7%E3%80%82+https%3A%2F%2Ft.co%2FKLtlMQoSpe)
 ##### Other Words/Names of Interest in the Above Tweet
-[压力](压力.md), [型](型.md), [字节跳动](字节跳动.md), [平台](平台.md), [技术](技术.md), [推出](推出.md), [监管](监管.md), [账户](账户.md), [透露](透露.md), [面临](面临.md)
+[压力](压力.md), [字节跳动](字节跳动.md), [平台](平台.md), [技术](技术.md), [推出](推出.md), [监管](监管.md), [账户](账户.md), [透露](透露.md), [面临](面临.md)
 ___
 ##### 2025-12-10 06:37:32 UTC ~ 中國新聞社
 > RT @CNS1952: 【繼特朗普和馬克龍之後，英國首相斯塔默進駐TikTok】綜合《每日電訊報》、《獨立報》等英國媒體8日報道，英國首相斯塔默正式開通TikTok帳號。由此，史塔默成為繼法國總統馬克龍、美國總統特朗普等政要之後又一位入駐該平台的西方領導人。 https://…
@@ -888,7 +888,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E5%A4%A7%E6%A6%82%E7%8E%87%E4%BC%9A%E4%BA%8E1%E6%9C%8819%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%81%AD%E5%88%B0%E5%B0%81%E7%A6%81%EF%BC%8C%E8%BF%99%E5%AF%B9%E4%BE%9D%E8%B5%96TikTok%E7%BB%B4%E6%8C%81%E7%94%9F%E8%AE%A1%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%9E%8B%E4%BC%81%E4%B8%9A%E5%92%8C%E7%BD%91%E7%BA%A2%EF%BC%8C%E5%86%B2%E5%87%BB%E7%9B%B8%E5%BD%93%E5%A4%A7%E3%80%82+https%3A%2F%2Ft.co%2FDmVxZkPiY3)
 ##### Other Words/Names of Interest in the Above Tweet
-[依赖](依赖.md), [冲击](冲击.md), [型](型.md), [平台](平台.md), [维持](维持.md), [美国](美国.md)
+[依赖](依赖.md), [冲击](冲击.md), [平台](平台.md), [维持](维持.md), [美国](美国.md)
 ___
 ##### 2025-01-18 16:27:34 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国近百万用户涌入中国社交媒体平台小红书，“TikTok难民”风潮近日也传到德国，使小红书登上德国手机应用下载榜首。目前德国尚未计划禁用TikTok，平台仅受欧盟《数字服务法》监管。https://t.co/FqyW5qhWRk https:…
@@ -1147,7 +1147,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E2%80%9C%E4%B8%80%E5%9B%BD%E4%B8%80%E7%AD%96%E2%80%9D%E7%B3%BB%E5%88%97%E4%B9%8B%E4%B8%83%EF%BC%9A%E4%B8%BA%E4%BD%95%E6%8B%BC%E5%A4%9A%E5%A4%9ATEMU%E4%B8%8E%E5%AD%97%E8%8A%82TikTok+Shop%E9%83%BD%E7%9E%84%E5%87%86%E6%AC%A7%E6%B4%B2%EF%BC%9F%E3%80%91%E5%AE%8B%E6%AC%A3%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%98%AF%E5%90%A6%E8%83%BD%E5%A4%9F%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%BB%B6%E7%BB%AD%E8%BF%87%E5%BE%80%E7%9A%84%E7%A5%9E%E8%AF%9D%EF%BC%9F%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA%E5%BA%94%E8%AF%A5%E5%85%B3%E6%B3%A8%E5%93%AA%E4%B8%80%E4%BA%9B%E6%B6%88%E8%B4%B9%E4%BA%BA%E7%BE%A4%EF%BC%8C%E8%BF%99%E4%BA%9B%E4%BA%BA%E7%BE%A4%E7%89%B9%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E6%AC%A7%E6%B4%B2%E7%9A%84%E6%96%B0%E5%9E%8B%E6%B6%88%E8%B4%B9%E8%B6%8B%E5%8A%BF%E5%A6%82%E4%BD%95%EF%BC%9Fhttps%3A%2F%2Ft.co%2FEjaoV%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关注](关注.md), [型](型.md), [平台](平台.md), [延续](延续.md), [电商](电商.md), [瞄准](瞄准.md), [系列](系列.md), [趋势](趋势.md)
+[关注](关注.md), [平台](平台.md), [延续](延续.md), [电商](电商.md), [瞄准](瞄准.md), [系列](系列.md), [趋势](趋势.md)
 ___
 ##### 2025-01-04 08:09:36 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国司法部敦促最高法院驳回候任总统特朗普要求暂缓执行强制中国字节跳动出售TikTok的法律。https://t.co/82gwGnzsL9
@@ -2085,7 +2085,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%B0%E5%B0%BC%E6%94%BF%E5%BA%9C%E6%8B%9F%E7%A6%81%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E4%B8%8A%E7%9A%84%E5%95%86%E5%93%81%E4%BA%A4%E6%98%93%EF%BC%8CTikTok%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%889%E6%9C%8813%E6%97%A5%EF%BC%89%E8%A1%A8%E8%BE%BE%E5%8F%8D%E5%AF%B9%E4%B9%8B%E6%84%8F%E3%80%82%E9%9B%85%E5%8A%A0%E8%BE%BE%E5%BD%93%E5%B1%80%E6%89%B9%E8%AF%84TikTok%E7%AD%89%E5%A4%A7%E5%9E%8B%E7%A4%BE%E7%BE%A4%E5%AA%92%E4%BD%93%E6%8B%A5%E6%9C%89%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%98%AF%E5%9E%84%E6%96%AD%E8%A1%8C%E4%B8%BA%E3%80%82+https%3A%2F%2Ft.co%2FoUv0fxEIvY)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [商品](商品.md), [垄断](垄断.md), [型](型.md), [平台](平台.md), [批评](批评.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [行为](行为.md)
+[交易](交易.md), [商品](商品.md), [垄断](垄断.md), [平台](平台.md), [批评](批评.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [行为](行为.md)
 ___
 ##### 2023-09-11 00:46:14 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 【视频】大麦克（Big Mac）是麦当劳相当受欢迎的餐点之一，每年更能在美国卖出5.5亿个。不过前麦当劳烹饪创新经理迈克哈拉茨发布TikTok影片称，到麦当劳点餐时不该选择大麦克，应该要点……#mcdonaldshttps://t.co/…

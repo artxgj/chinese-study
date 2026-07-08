@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E8%B7%9F%E5%A4%A7%E5%AE%B6%E6%8E%A8%E8%8D%90+GitHub+%E4%B8%8A%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+macOS+%E7%B3%BB%E7%BB%9F%E6%8F%90%E4%BE%9B%E9%AB%98%E6%95%88%E6%88%AA%E5%B1%8F%E5%92%8C+AI+%E5%88%86%E6%9E%90%E5%8A%9F%E8%83%BD%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9APeekaboo%E3%80%82%E4%B8%8D%E4%BB%85%E8%83%BD%E5%BF%AB%E9%80%9F%E6%88%AA%E5%8F%96%E5%B1%8F%E5%B9%95%E3%80%81%E5%BA%94%E7%94%A8%E6%88%96%E7%89%B9%E5%AE%9A%E7%AA%97%E5%8F%A3%EF%BC%8C%E8%BF%98%E8%83%BD%E4%BD%BF%E7%94%A8+GPT-4+Vision%E3%80%81Claude+%E6%88%96%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C+AI+%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [不仅](不仅.md), [分析](分析.md), [型](型.md), [屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
+[Claude](Claude.md), [不仅](不仅.md), [分析](分析.md), [屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
 ___
 ##### 2025-06-20 03:04:36 UTC ~ nicekate
 > RT @nicekate8888: 新视频上线——AI 编程实战：我用 Augment 从零打造了一款 macOS AI RSS 阅读器 (集成 Gemini)1️⃣ 支持总结文章、提取要点、生成 Mermaid 图、AI 对话的智能 RSS 阅读器。2️⃣ 接入 Ge…
@@ -237,7 +237,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+OpenCat+iOS+%E6%96%B0%E7%89%88%E4%B9%9F%E6%9B%B4%E6%96%B0%E5%95%A6%EF%BC%8C%E9%87%87%E7%94%A8%E4%BA%86%E6%96%B0%E7%9A%84+UI+%E5%92%8C%E4%BA%A4%E4%BA%92%EF%BC%8C%E6%94%AF%E6%8C%81%E6%90%9C%E7%B4%A2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%94%AF%E6%8C%81%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%EF%BC%8C%E6%89%8B%E6%9C%BA%E4%B8%8A%E4%B9%9F%E8%83%BD%E4%BD%BF%E7%94%A8+MCP+%E5%95%A6%E3%80%82%E8%BF%98%E6%94%AF%E6%8C%81%E6%9C%80%E6%96%B0%E7%9A%84%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E6%9B%B4%E5%8A%A0%E7%B2%BE%E5%87%86%E3%80%82MCP+%E9%85%8D%E7%BD%AE%E4%BC%9A%E5%9C%A8+iOS+%E5%92%8C+macOS+%E4%B9%8B%E9%97%B4%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5%EF%BC%8C%E5%8C%BA%E5%88%AB%E6%98%AF+iOS+%E4%BB%A5%E5%8F%8A+A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [iOS](iOS.md), [型](型.md), [工具](工具.md), [搜索](搜索.md), [支持](支持.md), [模型](模型.md)
+[MCP](MCP.md), [iOS](iOS.md), [工具](工具.md), [搜索](搜索.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-03-31 02:14:31 UTC ~ Leeyom Wang
 > RT @super_leeyom: Dell的U2725QE到了，国补➕晒单，最终是3774到手，正面观感几乎接近四边等宽了（下巴稍微宽了一点点🤏），整机颜色和 Mac mini 非常搭（都是银色机身），27寸4K 120hz高刷+硬件低蓝光，配合macOS，妙控板帧率也有12…
@@ -277,7 +277,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E5%8E%9F%E7%94%9F+macOS+%E7%9A%84+AI+%E5%9B%BE%E5%83%8F%E8%B6%85%E5%88%86%E8%BE%A8%E7%8E%87%E5%B7%A5%E5%85%B7%EF%BC%9AHiPixel%E3%80%82%E4%BD%BF%E7%94%A8+SwiftUI+%E6%9E%84%E5%BB%BA%EF%BC%8C%E5%88%A9%E7%94%A8+Upscayl+%E7%9A%84+AI+%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E9%AB%98%E6%95%88%E5%9B%BE%E5%83%8F%E6%94%BE%E5%A4%A7%EF%BC%8C%E6%94%AF%E6%8C%81%E6%8B%96%E6%94%BE%E8%87%AA%E5%8A%A8%E5%A4%84%E7%90%86%E3%80%81%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86%E5%92%8C+URL+Scheme+%E9%9B%86%E6%88%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [处理](处理.md), [工具](工具.md), [提供](提供.md), [支持](支持.md), [模型](模型.md)
+[处理](处理.md), [工具](工具.md), [提供](提供.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-03-02 05:01:06 UTC ~ 图拉鼎
 > RT @tualatrix: 昨天折腾了一下 macOS 上的虚拟机方案，最后选择了 VMware Fusion，在价格（免费）和性能之间找到了平衡。以后企业网银再也不用去开 PC 机了。 https://t.co/0LshXjx0q6
@@ -291,7 +291,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%9D%A5%E8%87%AA%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%A4%A7%E5%AD%A6%EF%BC%8C%E5%88%86%E4%BA%AB%E7%9A%84%E4%B8%80%E9%97%A8%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%EF%BC%9Aintro_machine_learning%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%81%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E3%80%81%E8%AF%84%E4%BC%B0%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%AD%89%E5%86%85%E5%AE%B9%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FsSBtpoK4is%E6%9C%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [优化](优化.md), [型](型.md), [来自](来自.md), [模型](模型.md), [涵盖](涵盖.md), [神经](神经.md), [评估](评估.md)
+[人工](人工.md), [优化](优化.md), [来自](来自.md), [模型](模型.md), [涵盖](涵盖.md), [神经](神经.md), [评估](评估.md)
 ___
 ##### 2025-02-22 05:28:47 UTC ~ Geek
 > RT @geekbb: 很喜欢这类生产力工具，我把它称之为命令粘贴板。Commands Manager 适用于 macOS、Windows 和 Linux 的免费状态菜单栏实用程序，可通过快捷键查找和复制终端命令。这小软件居然还有云端同步功能，👉https://t.co…

@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8E%BB%E5%B9%B4June+Paik%E6%9B%BE%E6%8B%92%E7%BB%9DMeta%E7%9A%84%E6%94%B6%E8%B4%AD%E6%8F%90%E8%AE%AE%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%85%B6%E5%88%9B%E7%AB%8B%E7%9A%84%E9%9F%A9%E5%9B%BD%E5%85%AC%E5%8F%B8FuriosaAI%E7%9A%84AI%E8%8A%AF%E7%89%87%E5%B7%B2%E8%BF%9B%E5%85%A5%E9%87%8F%E4%BA%A7%E9%98%B6%E6%AE%B5%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BEGPU%E5%9C%A8%E8%AE%AD%E7%BB%83AI%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%88%9D%E6%9C%9F%E9%98%B6%E6%AE%B5%E5%8D%A0%E6%8D%AE%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D%E3%80%82%E4%BD%86%E5%83%8FFuriosa%E8%BF%99%E6%A0%B7%E7%9A%84%E5%85%AC%E5%8F%B8%E6%8A%BC%E6%B3%A8%EF%BC%8C%E5%9C%A8%E4%B8%8B%E4%B8%80%E4%B8%AA%E2%80%9C%E6%8E%A8%E7%90%86%E2%80%9D%E9%98%B6%E6%AE%B5A%EF%BC%8C%E4%BB%96%E4%BB%AC%E7%9A%84%E4%B8%93%E7%94%A8%E8%8A%AF%E7%89%87%E5%8F%AF%E4%BB%A5%E5%85%B7%E5%A4%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[主导](主导.md), [型](型.md), [如今](如今.md), [押注](押注.md), [推理](推理.md), [收购](收购.md), [模型](模型.md), [芯片](芯片.md), [英伟达](英伟达.md), [量产](量产.md), [阶段](阶段.md), [韩国](韩国.md)
+[主导](主导.md), [如今](如今.md), [押注](押注.md), [推理](推理.md), [收购](收购.md), [模型](模型.md), [芯片](芯片.md), [英伟达](英伟达.md), [量产](量产.md), [阶段](阶段.md), [韩国](韩国.md)
 ___
 ##### 2026-01-02 14:16:32 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 继摩尔线程和沐曦股份在A股掀起热潮之后，香港市场也迎来首家图形处理器（GPU）设计商壁仞科技，其港股挂牌首日同样受到资金追捧。#南洋商报 #港股 #壁仞科技https://t.co/2VwhNTzDSX https://t.co/ise9W…
@@ -110,14 +110,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%9C%A8%E7%94%B5%E8%84%91%E6%9C%AC%E5%9C%B0%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8CGPU+%E8%BF%9B%E7%A8%8B%E7%BB%8F%E5%B8%B8%E4%BC%9A%E5%8D%A1%E6%AD%BB%EF%BC%8C%E7%94%A8%E5%B8%B8%E8%A7%84%E6%96%B9%E6%B3%95+kill+%E4%B8%8D%E6%8E%89%EF%BC%8C%E5%8F%AA%E8%83%BD%E9%87%8D%E5%90%AF%E6%9C%BA%E5%99%A8%EF%BC%8C%E9%A2%87%E4%B8%BA%E9%BA%BB%E7%83%A6%E3%80%82%E6%9C%80%E8%BF%91%E5%8F%91%E7%8E%B0%E4%BA%86+GPU+Kill+%E8%BF%99%E6%AC%BE%E5%BC%80%E6%BA%90%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%93%E9%97%A8%E7%94%A8%E6%9D%A5%E7%AE%A1%E7%90%86%E5%92%8C%E7%9B%91%E6%8E%A7+GPU%EF%BC%8C%E5%B8%AE%E5%8A%A9%E6%88%91%E4%BB%AC%E9%AB%98%E6%95%88%E5%9C%B0%E5%A4%84%E7%90%86+GPU+%E9%97%AE%E9%A2%98%E3%80%82%E6%94%AF%E6%8C%81+NVIDIA%E3%80%81A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [处理](处理.md), [工具](工具.md), [开源](开源.md), [支持](支持.md), [模型](模型.md), [进程](进程.md)
+[处理](处理.md), [工具](工具.md), [开源](开源.md), [支持](支持.md), [模型](模型.md), [进程](进程.md)
 ___
 ##### 2025-10-06 04:20:58 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 想在自己电脑上跑大模型处理长文档，但动辄几十 GB 的模型参数让普通显卡根本吃不消，更别说处理 10 万字的超长上下文了。无独有偶，找到了 oLLM 这个轻量化推理库，专为消费级 GPU 优化，用 8GB 显存就能跑 80B 参数的大模型…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%83%B3%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%94%B5%E8%84%91%E4%B8%8A%E8%B7%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%84%E7%90%86%E9%95%BF%E6%96%87%E6%A1%A3%EF%BC%8C%E4%BD%86%E5%8A%A8%E8%BE%84%E5%87%A0%E5%8D%81+GB+%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E8%AE%A9%E6%99%AE%E9%80%9A%E6%98%BE%E5%8D%A1%E6%A0%B9%E6%9C%AC%E5%90%83%E4%B8%8D%E6%B6%88%EF%BC%8C%E6%9B%B4%E5%88%AB%E8%AF%B4%E5%A4%84%E7%90%86+10+%E4%B8%87%E5%AD%97%E7%9A%84%E8%B6%85%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BA%86%E3%80%82%E6%97%A0%E7%8B%AC%E6%9C%89%E5%81%B6%EF%BC%8C%E6%89%BE%E5%88%B0%E4%BA%86+oLLM+%E8%BF%99%E4%B8%AA%E8%BD%BB%E9%87%8F%E5%8C%96%E6%8E%A8%E7%90%86%E5%BA%93%EF%BC%8C%E4%B8%93%E4%B8%BA%E6%B6%88%E8%B4%B9%E7%BA%A7+GPU+%E4%BC%98%E5%8C%96%EF%BC%8C%E7%94%A8+8GB+%E6%98%BE%E5%AD%98%E5%B0%B1%E8%83%BD%E8%B7%91+80B+%E5%8F%82%E6%95%B0%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [上下文](上下文.md), [优化](优化.md), [型](型.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
+[LLM](LLM.md), [上下文](上下文.md), [优化](优化.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
 ___
 ##### 2025-10-04 04:40:14 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【富士通與英偉達聯合開發AI半導體】雙方計劃在2030年前，將各自的半導體連接在同一塊基板上。利用英偉達的技術，實現GPU、CPU等多顆晶片像一顆晶片一樣的超高速互聯。海外科技企業普遍看好日本企業的節能技術……https://t.co/O…
@@ -152,21 +152,21 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B1%E5%81%89%E9%81%94%E5%B0%87%E5%8F%83%E8%88%87%E9%96%8B%E7%99%BC%E6%97%A5%E6%9C%AC%E8%B6%85%E7%AE%97%E3%80%8C%E5%AF%8C%E5%B2%B3%E3%80%8D%E7%9A%84%E5%BE%8C%E7%BA%8C%E6%A9%9F%E5%9E%8B%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E5%B0%87%E8%88%87%E6%97%A5%E6%9C%AC%E7%90%86%E7%A0%94%E5%B0%87%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BCAI%E7%94%A8%E5%9C%96%E5%BD%A2%E8%99%95%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E3%80%82%E9%80%99%E6%98%AF%E6%B5%B7%E5%A4%96%E4%BC%81%E6%A5%AD%E9%A6%96%E6%AC%A1%E5%8F%83%E8%88%87%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BF%83%E8%B6%85%E7%B4%9A%E9%9B%BB%E8%85%A6%E7%9A%84%E9%96%8B%E7%99%BC%E3%80%82%E5%B0%87%E5%87%9D%E8%81%9A%E6%97%A5%E7%BE%8E%E7%9A%84%E6%9C%80%E5%85%88%E9%80%B2%E6%8A%80%E8%A1%93%EF%BC%8C%E5%8A%9B%E7%88%AD%E5%AF%A6%E7%8F%BE%E6%80%A7%E8%83%BD%E9%81%94%E5%88%B0%E5%85%A8%E7%90%83%E6%9C%80%E9%AB%98%E6%B0%B4%E6%BA%96%E7%9A%84%E8%B6%85%E7%B4%9A%E9%9B%BB%E8%85%A6%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [日本](日本.md), [核心](核心.md), [英偉達](英偉達.md), [開發](開發.md)
+[日本](日本.md), [核心](核心.md), [英偉達](英偉達.md), [開發](開發.md)
 ___
 ##### 2025-07-26 19:18:34 UTC ~ AI有话说
 > RT @Medal_AI: wtffmpeg - 让本地大模型将自然语言转换为FFmpeg命令的神器！告别繁琐的手动查找，只需用简单语言描述需求，即可生成可执行命令。支持GPU加速，本地运行，安全又高效。轻松定制模型，满足个性化需求。立即体验，让视频处理更简单！https:/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Medal_AI%3A+wtffmpeg+-+%E8%AE%A9%E6%9C%AC%E5%9C%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B0%86%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E8%BD%AC%E6%8D%A2%E4%B8%BAFFmpeg%E5%91%BD%E4%BB%A4%E7%9A%84%E7%A5%9E%E5%99%A8%EF%BC%81%E5%91%8A%E5%88%AB%E7%B9%81%E7%90%90%E7%9A%84%E6%89%8B%E5%8A%A8%E6%9F%A5%E6%89%BE%EF%BC%8C%E5%8F%AA%E9%9C%80%E7%94%A8%E7%AE%80%E5%8D%95%E8%AF%AD%E8%A8%80%E6%8F%8F%E8%BF%B0%E9%9C%80%E6%B1%82%EF%BC%8C%E5%8D%B3%E5%8F%AF%E7%94%9F%E6%88%90%E5%8F%AF%E6%89%A7%E8%A1%8C%E5%91%BD%E4%BB%A4%E3%80%82%E6%94%AF%E6%8C%81GPU%E5%8A%A0%E9%80%9F%EF%BC%8C%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%EF%BC%8C%E5%AE%89%E5%85%A8%E5%8F%88%E9%AB%98%E6%95%88%E3%80%82%E8%BD%BB%E6%9D%BE%E5%AE%9A%E5%88%B6%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%BB%A1%E8%B6%B3%E4%B8%AA%E6%80%A7%E5%8C%96%E9%9C%80%E6%B1%82%E3%80%82%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C%EF%BC%8C%E8%AE%A9%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86%E6%9B%B4%E7%AE%80%E5%8D%95%EF%BC%81https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [处理](处理.md), [执行](执行.md), [支持](支持.md), [模型](模型.md), [转换](转换.md), [需求](需求.md)
+[处理](处理.md), [执行](执行.md), [支持](支持.md), [模型](模型.md), [转换](转换.md), [需求](需求.md)
 ___
 ##### 2025-07-26 19:07:35 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 这个大型项目涵盖人工智能数据中心的开发、英伟达驱动的图像处理器（GPU）的使用，最重要的是，创建马来西亚自己的主权大语言模型（LLM）。#南洋商报 #YTL #NVIDIA #AI #人工智能 https://t.co/h2DHxZz0vt…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%99%E4%B8%AA%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E6%B6%B5%E7%9B%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E5%BC%80%E5%8F%91%E3%80%81%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%EF%BC%8C%E5%88%9B%E5%BB%BA%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%BB%E6%9D%83%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88LLM%EF%BC%89%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23YTL+%23NVIDIA+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+https%3A%2F%2Ft.co%2Fh2DHxZz0vt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [人工](人工.md), [人工智能](人工智能.md), [图像处理](图像处理.md), [型](型.md), [处理](处理.md), [开发](开发.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [英伟达](英伟达.md), [语言模型](语言模型.md), [项目](项目.md), [马来西亚](马来西亚.md)
+[LLM](LLM.md), [人工](人工.md), [人工智能](人工智能.md), [图像处理](图像处理.md), [处理](处理.md), [开发](开发.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [英伟达](英伟达.md), [语言模型](语言模型.md), [项目](项目.md), [马来西亚](马来西亚.md)
 ___
 ##### 2025-07-10 02:09:27 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【台灣出口重心變化，對美出口額接近大陸】由於台灣的出口目的地轉向美國，以前對美出口與對中國大陸出口存在3至4倍的差距，如今二者的差距已縮小至僅0.1個百分點。配備GPU的伺服器、顯示卡以及機械類産品等的出口均增長……  https://t…
@@ -194,35 +194,35 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E5%A2%9E%E5%BC%BA%E5%99%A8%E7%81%AB%E4%BA%86%EF%BC%8CFramePack%EF%BC%8C%E4%BD%BF%E7%94%A86GB%E7%AC%94%E8%AE%B0%E6%9C%ACGPU%E5%B0%B1%E8%83%BD%E4%BB%A530fps%E7%9A%84%E9%80%9F%E5%BA%A6%E7%94%A813B%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90%E6%95%B0%E5%8D%83%E5%B8%A7%E8%A7%86%E9%A2%91FramePack%E6%98%AF%E4%B8%80%E4%B8%AA%E9%80%90%E6%AD%A5%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E7%9A%84%E4%B8%8B%E4%B8%80%E5%B8%A7%E9%A2%84%E6%B5%8B%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%EF%BC%8C%E5%AE%83%E8%83%BD%E5%B0%86%E8%BE%93%E5%85%A5%E5%86%85%E5%AE%B9%E5%8E%8B%E7%BC%A9%E5%88%B0%E5%9B%BA%E5%AE%9A%E9%95%BF%E5%BA%A6%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%9A%8F%E8%A7%86%E9%A2%91%E9%95%BF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [模型](模型.md), [神经](神经.md), [逐步](逐步.md), [速度](速度.md), [预测](预测.md)
+[模型](模型.md), [神经](神经.md), [逐步](逐步.md), [速度](速度.md), [预测](预测.md)
 ___
 ##### 2025-04-17 16:55:55 UTC ~ -Zho-
 > RT @ZHO_ZHO_ZHO: 卧槽，敏神上大货了！！！仅需 6GB？像图像扩散一样的视频扩散？FramePack这下视频生成要进入超超超低显存时代了，迈入大众 GPU 了！马上就去实测！【重点】1⃣以全 fps-30 扩散上千帧：仅需 6GB VRAM，模型仅 1…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ZHO_ZHO_ZHO%3A+%E5%8D%A7%E6%A7%BD%EF%BC%8C%E6%95%8F%E7%A5%9E%E4%B8%8A%E5%A4%A7%E8%B4%A7%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81%E4%BB%85%E9%9C%80+6GB%EF%BC%9F%E5%83%8F%E5%9B%BE%E5%83%8F%E6%89%A9%E6%95%A3%E4%B8%80%E6%A0%B7%E7%9A%84%E8%A7%86%E9%A2%91%E6%89%A9%E6%95%A3%EF%BC%9FFramePack%E8%BF%99%E4%B8%8B%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E8%A6%81%E8%BF%9B%E5%85%A5%E8%B6%85%E8%B6%85%E8%B6%85%E4%BD%8E%E6%98%BE%E5%AD%98%E6%97%B6%E4%BB%A3%E4%BA%86%EF%BC%8C%E8%BF%88%E5%85%A5%E5%A4%A7%E4%BC%97+GPU+%E4%BA%86%EF%BC%81%E9%A9%AC%E4%B8%8A%E5%B0%B1%E5%8E%BB%E5%AE%9E%E6%B5%8B%EF%BC%81%E3%80%90%E9%87%8D%E7%82%B9%E3%80%911%E2%83%A3%E4%BB%A5%E5%85%A8+fps-30+%E6%89%A9%E6%95%A3%E4%B8%8A%E5%8D%83%E5%B8%A7%EF%BC%9A%E4%BB%85%E9%9C%80+6GB+VRAM%EF%BC%8C%E6%A8%A1%E5%9E%8B%E4%BB%85+1%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [大众](大众.md), [扩散](扩散.md), [模型](模型.md)
+[大众](大众.md), [扩散](扩散.md), [模型](模型.md)
 ___
 ##### 2025-04-16 05:22:00 UTC ~ meng shao
 > RT @shao__meng: GPU 分割技术详解：如何在单个 GPU 上运行多个 AI 工作负载，来最大化硬件利用率，降低模型推理成本 @clarifai 什么是 GPU 分割？GPU 分割是将一个物理 GPU 划分为多个逻辑单元的过程，允许多个 AI 工作负载在同一…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40shao__meng%3A+GPU+%E5%88%86%E5%89%B2%E6%8A%80%E6%9C%AF%E8%AF%A6%E8%A7%A3%EF%BC%9A%E5%A6%82%E4%BD%95%E5%9C%A8%E5%8D%95%E4%B8%AA+GPU+%E4%B8%8A%E8%BF%90%E8%A1%8C%E5%A4%9A%E4%B8%AA+AI+%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%EF%BC%8C%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8C%96%E7%A1%AC%E4%BB%B6%E5%88%A9%E7%94%A8%E7%8E%87%EF%BC%8C%E9%99%8D%E4%BD%8E%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC+%40clarifai+%E4%BB%80%E4%B9%88%E6%98%AF+GPU+%E5%88%86%E5%89%B2%EF%BC%9FGPU+%E5%88%86%E5%89%B2%E6%98%AF%E5%B0%86%E4%B8%80%E4%B8%AA%E7%89%A9%E7%90%86+GPU+%E5%88%92%E5%88%86%E4%B8%BA%E5%A4%9A%E4%B8%AA%E9%80%BB%E8%BE%91%E5%8D%95%E5%85%83%E7%9A%84%E8%BF%87%E7%A8%8B%EF%BC%8C%E5%85%81%E8%AE%B8%E5%A4%9A%E4%B8%AA+AI+%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%E5%9C%A8%E5%90%8C%E4%B8%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[允许](允许.md), [型](型.md), [成本](成本.md), [技术](技术.md), [推理](推理.md), [模型](模型.md), [逻辑](逻辑.md), [降低](降低.md)
+[允许](允许.md), [成本](成本.md), [技术](技术.md), [推理](推理.md), [模型](模型.md), [逻辑](逻辑.md), [降低](降低.md)
 ___
 ##### 2025-04-07 09:45:39 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: Llama 4 发布，最猛是达到了1000万上下文长度！开个帖子记录一下详细信息：Llama 4 Scout：17B活跃参数的 16 位专家MoE模型，1000 万上下文窗口，仅需单个 NVIDIA H100 GPU 可运行Llama 4…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+Llama+4+%E5%8F%91%E5%B8%83%EF%BC%8C%E6%9C%80%E7%8C%9B%E6%98%AF%E8%BE%BE%E5%88%B0%E4%BA%861000%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E9%95%BF%E5%BA%A6%EF%BC%81%E5%BC%80%E4%B8%AA%E5%B8%96%E5%AD%90%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%EF%BC%9ALlama+4+Scout%EF%BC%9A17B%E6%B4%BB%E8%B7%83%E5%8F%82%E6%95%B0%E7%9A%84+16+%E4%BD%8D%E4%B8%93%E5%AE%B6MoE%E6%A8%A1%E5%9E%8B%EF%BC%8C1000+%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3%EF%BC%8C%E4%BB%85%E9%9C%80%E5%8D%95%E4%B8%AA+NVIDIA+H100+GPU+%E5%8F%AF%E8%BF%90%E8%A1%8CLlama+4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上下文](上下文.md), [发布](发布.md), [型](型.md), [模型](模型.md), [活跃](活跃.md)
+[上下文](上下文.md), [发布](发布.md), [模型](模型.md), [活跃](活跃.md)
 ___
 ##### 2025-04-07 04:20:33 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 给 AI 开发者分享一份值得收藏的学习资源合集：Learning AI。涵盖了从基础理论到实践应用，包括分词技术、模型架构、GPU 加速、向量数据库、视觉技术等核心知识。GitHub：https://t.co/wHuYfcrxMh…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E7%BB%99+AI+%E5%BC%80%E5%8F%91%E8%80%85%E5%88%86%E4%BA%AB%E4%B8%80%E4%BB%BD%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86%EF%BC%9ALearning+AI%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E4%BB%8E%E5%9F%BA%E7%A1%80%E7%90%86%E8%AE%BA%E5%88%B0%E5%AE%9E%E8%B7%B5%E5%BA%94%E7%94%A8%EF%BC%8C%E5%8C%85%E6%8B%AC%E5%88%86%E8%AF%8D%E6%8A%80%E6%9C%AF%E3%80%81%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E3%80%81GPU+%E5%8A%A0%E9%80%9F%E3%80%81%E5%90%91%E9%87%8F%E6%95%B0%E6%8D%AE%E5%BA%93%E3%80%81%E8%A7%86%E8%A7%89%E6%8A%80%E6%9C%AF%E7%AD%89%E6%A0%B8%E5%BF%83%E7%9F%A5%E8%AF%86%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FwHuYfcrxMh%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [型](型.md), [实践](实践.md), [开发](开发.md), [技术](技术.md), [数据](数据.md), [核心](核心.md), [模型](模型.md), [涵盖](涵盖.md), [资源](资源.md)
+[包括](包括.md), [实践](实践.md), [开发](开发.md), [技术](技术.md), [数据](数据.md), [核心](核心.md), [模型](模型.md), [涵盖](涵盖.md), [资源](资源.md)
 ___
 ##### 2025-03-19 08:36:18 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 一个可帮你在家快速搭建 AI 集群的开源项目：exo。该项目支持将现有设备统一到一个功能强大的GPU中，支持 iPhone，iPad，Android，Mac，Nvidia，树莓派等等几乎所有设备。GitHub：https://t.co…
@@ -243,14 +243,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B1%E5%81%89%E9%81%94%E6%96%B0AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%99%95%E7%90%86%E6%80%A7%E8%83%BD%E6%8F%90%E5%8D%87%E8%87%B31.5%E5%80%8D%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E9%82%84%E7%99%BC%E4%BD%88%E4%BA%86%E4%B8%80%E6%AC%BE%E5%90%8D%E7%82%BA%E3%80%8CDynamo%E3%80%8D%E7%9A%84AI%E8%99%95%E7%90%86%E5%84%AA%E5%8C%96%E8%BB%9F%E9%AB%94%E3%80%82%E8%A9%B2%E8%BB%9F%E9%AB%94%E5%8F%AF%E5%9C%A8%E9%81%8B%E4%BD%9C%E9%AB%98%E6%80%A7%E8%83%BDAI%E6%A8%A1%E5%9E%8B%E6%99%82%EF%BC%8C%E6%8E%A7%E5%88%B6%E5%A4%A7%E9%87%8FGPU%E9%AB%98%E6%95%88%E5%88%86%E6%93%94AI%E8%99%95%E7%90%86%E4%BB%BB%E5%8B%99%E3%80%82%E6%93%9A%E7%A8%B1%EF%BC%8C%E4%BD%BF%E7%94%A8%E6%AD%A4%E8%BB%9F%E9%AB%94%E9%81%8B%E4%BD%9CDeepSeek%E7%9A%84R1%E6%A8%A1%E5%9E%8B%E6%99%82%EF%BC%8C%E6%AF%8F%E5%80%8BGPU%E5%8F%AF%E8%99%95%E7%90%86%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [半導體](半導體.md), [型](型.md), [控制](控制.md), [模型](模型.md), [英偉達](英偉達.md)
+[DeepSeek](DeepSeek.md), [半導體](半導體.md), [控制](控制.md), [模型](模型.md), [英偉達](英偉達.md)
 ___
 ##### 2025-03-19 08:16:41 UTC ~ 
 > RT @myfxtrader: 英伟达 $NVDA 在NVIDIA GTC 2025上宣布了创世界纪录的 #DeepSeek-R1推理性能。在满血6710亿参数DeepSeek-R1模型上，搭载8个NVIDIA Blackwell GPU的单个NVIDIA DGX系统可实现每位…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40myfxtrader%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE+%24NVDA+%E5%9C%A8NVIDIA+GTC+2025%E4%B8%8A%E5%AE%A3%E5%B8%83%E4%BA%86%E5%88%9B%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%9A%84+%23DeepSeek-R1%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E3%80%82%E5%9C%A8%E6%BB%A1%E8%A1%806710%E4%BA%BF%E5%8F%82%E6%95%B0DeepSeek-R1%E6%A8%A1%E5%9E%8B%E4%B8%8A%EF%BC%8C%E6%90%AD%E8%BD%BD8%E4%B8%AANVIDIA+Blackwell+GPU%E7%9A%84%E5%8D%95%E4%B8%AANVIDIA+DGX%E7%B3%BB%E7%BB%9F%E5%8F%AF%E5%AE%9E%E7%8E%B0%E6%AF%8F%E4%BD%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [实现](实现.md), [推理](推理.md), [模型](模型.md), [系统](系统.md), [纪录](纪录.md), [英伟达](英伟达.md)
+[DeepSeek](DeepSeek.md), [实现](实现.md), [推理](推理.md), [模型](模型.md), [系统](系统.md), [纪录](纪录.md), [英伟达](英伟达.md)
 ___
 ##### 2025-03-18 15:12:00 UTC ~ johann.GPT
 > RT @ProgramerJohann: 腾讯玄武实验室优化方案让DeepSeek-R1实现家用部署！只需4万元硬件，功耗噪音与普通台式机相当，每秒可生成约10个汉字。关键在于优化内存带宽、CPU配置和系统参数。比起传统GPU方案（8张H20，150万+），成本降低97…
@@ -264,7 +264,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E9%85%B7%EF%BC%8C%E6%B8%85%E5%8D%8E%E5%9B%A2%E9%98%9F%E5%88%9A%E5%88%9A%E6%94%BE%E5%87%BA%E4%BA%86%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E%EF%BC%9A%E8%B5%A4%E5%85%94Chitu%EF%BC%8CDeepSeek%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E9%99%8D%E4%B8%80%E5%8D%8A%EF%BC%8C%E6%80%A7%E8%83%BD%E7%BF%BB%E7%95%AA%E5%9C%A8A800+%E9%9B%86%E7%BE%A4%E4%B8%8A%EF%BC%8C%E7%94%A8%E8%B5%A4%E5%85%94%E5%BC%95%E6%93%8E%E9%83%A8%E7%BD%B2DeepSeek-671B%E6%BB%A1%E8%A1%80%E7%89%88%E6%8E%A8%E7%90%86%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%AF%94vLLM%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88%EF%BC%8CGPU%E6%95%B0%E9%87%8F%E4%B8%8D%E4%BB%85%E5%87%8F%E5%B0%91%E4%BA%8650%25%EF%BC%8C%E8%BE%93%E5%87%BA%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%87%E4%BA%863.15%E5%80%8D%E6%94%AF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [LLM](LLM.md), [不仅](不仅.md), [型](型.md), [引擎](引擎.md), [成本](成本.md), [推理](推理.md), [方案](方案.md), [模型](模型.md), [翻番](翻番.md), [速度](速度.md)
+[DeepSeek](DeepSeek.md), [LLM](LLM.md), [不仅](不仅.md), [引擎](引擎.md), [成本](成本.md), [推理](推理.md), [方案](方案.md), [模型](模型.md), [翻番](翻番.md), [速度](速度.md)
 ___
 ##### 2025-03-03 12:01:22 UTC ~ karminski-牙医
 > RT @karminski3: CUDA 的护城河还能持续多长时间？图片是 Vulkan 和 CUDA 在 4070 显卡上的token生成速度性能对比。可以看到有些项目仅有10%左右的差距了。（当然目前只是推理，训练还不行）顺便，Vulkan 是用于与 GPU 进行交…
@@ -278,7 +278,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40leeoxiang%3A+%E4%BB%A5%E5%89%8D%E7%9F%A5%E9%81%93%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9GPU%E7%9A%84%E6%B6%88%E8%80%97%E5%BE%88%E9%AB%98%EF%BC%8C%E8%BF%99%E6%AC%A1%E8%87%AA%E5%B7%B1%E7%94%A8H20%2896G%E6%98%BE%E5%AD%98%29%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA32B%E7%9A%84%E6%A8%A1%E5%9E%8B%E4%B9%8B%E5%90%8E%E6%9C%89%E4%BA%86%E6%9B%B4%E6%B7%B1%E7%9A%84%E6%84%9F%E5%8F%97%EF%BC%8C%E8%B7%91%E4%B8%80%E4%B8%AA%E5%B9%B6%E5%8F%91%E8%BF%98%E5%8F%AF%E4%BB%A5%EF%BC%8C%E8%B7%91%E4%B8%A4%E4%B8%AA%E5%B9%B6%E5%8F%91token%E9%80%9F%E5%BA%A6%E5%B0%B1%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82%E8%87%AA%E5%B7%B1%E9%83%A8%E7%BD%B2%E5%A4%A7%E6%A8%A1%E5%9E%8B%2870B%2B%29+%E5%8F%AF%E8%83%BD%E5%AF%B9%E7%BB%9D%E5%A4%A7%E6%95%B0%E4%B8%9A%E5%8A%A1%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E9%80%89%E6%8B%A9%E3%80%82)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [模型](模型.md), [速度](速度.md)
+[模型](模型.md), [速度](速度.md)
 ___
 ##### 2025-02-26 01:57:30 UTC ~ Andy Stewart
 > RT @manateelazycat: DeepSeek硬核！昨天DeepSeek的FlashMLA刚在H800上把性能榨干，GitHub Star一天破8.2k。https://t.co/vj2yBAtMVv今天他们又放大招，开源了个DeepEP，GPU性能再被拉…
@@ -292,7 +292,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40myfxtrader%3A+DeepSeek%E2%80%9C%E5%BC%80%E6%BA%90%E5%91%A8%E2%80%9D%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%8C%E4%BB%8B%E7%BB%8DDeepEP%E2%80%94%E2%80%94%E9%A6%96%E4%B8%AA%E4%B8%BA%E6%B7%B7%E5%90%88%E4%B8%93%E5%AE%B6%E6%A8%A1%E5%9E%8B%EF%BC%88MoE%EF%BC%89%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%BC%80%E6%BA%90EP%E9%80%9A%E4%BF%A1%E5%BA%93%EF%BC%8C%E6%94%AF%E6%8C%81NVLink%E5%92%8CRDMA%E7%A1%AE%E4%BF%9D%E9%AB%98%E5%B8%A6%E5%AE%BD%E9%80%9A%E4%BF%A1%EF%BC%9B%E6%94%AF%E6%8C%81FP8%E9%99%8D%E4%BD%8E%E8%AE%A1%E7%AE%97%E6%88%90%E6%9C%AC%EF%BC%9B%E9%AB%98%E5%90%9E%E5%90%90%E9%87%8F%E5%92%8C%E4%BD%8E%E5%BB%B6%E8%BF%9F%E5%86%85%E6%A0%B8%E5%88%86%E5%88%AB%E4%BC%98%E5%8C%96%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E9%98%B6%E6%AE%B5%EF%BC%9B%E9%87%8D%E5%8F%A0%E6%9C%BA%E5%88%B6%E6%8F%90%E5%8D%87GPU%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [优化](优化.md), [吞吐量](吞吐量.md), [型](型.md), [带宽](带宽.md), [延迟](延迟.md), [开源](开源.md), [成本](成本.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [混合专家](混合专家.md), [确保](确保.md), [设计](设计.md), [重叠](重叠.md), [阶段](阶段.md), [降低](降低.md)
+[DeepSeek](DeepSeek.md), [优化](优化.md), [吞吐量](吞吐量.md), [带宽](带宽.md), [延迟](延迟.md), [开源](开源.md), [成本](成本.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [混合专家](混合专家.md), [确保](确保.md), [设计](设计.md), [重叠](重叠.md), [阶段](阶段.md), [降低](降低.md)
 ___
 ##### 2025-02-24 09:37:30 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: Deepseek 开源周第一天：FlashMLA项目让H800的计算性能翻了两倍！！为Hopper架构GPU开发的高效MLA解码内核专门针对可变长度序列进行了优化H800上可以达到 3000 GB/s的内存带宽和580 TFLOPS的计算…
@@ -306,7 +306,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40myfxtrader%3A+DeepSeek%E2%80%9C%E5%BC%80%E6%BA%90%E5%91%A8%E2%80%9D%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A8%EF%BC%8C%E9%A6%96%E4%B8%AA%E5%BC%80%E6%BA%90%E7%9A%84%E4%BB%A3%E7%A0%81%E5%BA%93%E4%B8%BA+FlashMLA%E2%80%94%E2%80%94%E9%92%88%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BEHopper%E6%9E%B6%E6%9E%84GPU%E4%BC%98%E5%8C%96%E7%9A%84%E9%AB%98%E6%95%88MLA%E8%A7%A3%E7%A0%81%E5%86%85%E6%A0%B8%EF%BC%8C%E4%B8%93%E4%B8%BA%E5%A4%84%E7%90%86%E5%8F%AF%E5%8F%98%E9%95%BF%E5%BA%A6%E5%BA%8F%E5%88%97%E8%80%8C%E8%AE%BE%E8%AE%A1%E3%80%82%E6%94%AF%E6%8C%81BF16%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E3%80%81%E5%88%86%E9%A1%B5KV%E7%BC%93%E5%AD%98%EF%BC%88%E5%9D%97%E5%A4%A7%E5%B0%8F64%EF%BC%89%EF%BC%8C%E6%8F%90%E4%BE%9B%E9%AB%98%E6%80%A7%E8%83%BD%E8%AE%A1%E7%AE%97%E4%B8%8E%E5%86%85%E5%AD%98%E5%90%9E%E5%90%90%E3%80%82%E5%9C%A8H8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [代码](代码.md), [优化](优化.md), [启动](启动.md), [型](型.md), [处理](处理.md), [开源](开源.md), [提供](提供.md), [支持](支持.md), [数据](数据.md), [正式](正式.md), [英伟达](英伟达.md), [设计](设计.md), [针对](针对.md)
+[DeepSeek](DeepSeek.md), [代码](代码.md), [优化](优化.md), [启动](启动.md), [处理](处理.md), [开源](开源.md), [提供](提供.md), [支持](支持.md), [数据](数据.md), [正式](正式.md), [英伟达](英伟达.md), [设计](设计.md), [针对](针对.md)
 ___
 ##### 2025-02-22 06:32:49 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 换言之，虽然许多总部设于新加坡的公司向英伟达大量采购AI GPU芯片，并以新加坡为账单地址，但最终将芯片运送至其他国家。https://t.co/cQbijnW7M1 https://t.co/vJLOWvoh5C
@@ -327,7 +327,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%E7%BA%AF%E8%A7%86%E8%A7%89%E7%9A%84+GPU+%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%9AOmniParser+2.0+%E7%89%88%E6%9C%AC%E3%80%82%E5%AE%83%E8%83%BD%E5%A4%9F%E5%B0%86%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%E8%BD%AC%E5%8C%96%E4%B8%BA+LLM+%E5%8F%AF%E8%AF%BB%E6%87%82%E7%9A%84%E7%BB%93%E6%9E%84%E5%8C%96%E5%85%83%E7%B4%A0%EF%BC%8C%E6%8F%90%E9%AB%98%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%86%E5%88%AB%E5%87%86%E7%A1%AE%E5%BA%A6%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FnIBIa3ZqqT%E6%94%AF%E6%8C%81%E4%B8%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [发布](发布.md), [型](型.md), [屏](屏.md), [屏幕](屏幕.md), [微软](微软.md), [提高](提高.md), [支持](支持.md), [模型](模型.md)
+[LLM](LLM.md), [发布](发布.md), [屏](屏.md), [屏幕](屏幕.md), [微软](微软.md), [提高](提高.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-02-15 04:52:51 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 英伟达让 Deepseek R1 编写 GPU 内核结果 R1 写的内核比英伟达熟练工程师的还好 ！他们使用的方法也很简单：1️⃣DeepSeek-R1 生成初始 GPU 内核代码2️⃣验证器（H100）分析生成的内核并提供反馈3️⃣将其…
@@ -341,14 +341,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40maide89699220%3A+%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E8%B5%84%E6%BA%90%E5%88%A9%E7%94%A8%E9%AB%98%E6%95%88%E5%8F%88%E4%B8%80%E4%BE%8B%E8%AF%81%EF%BC%81%E6%B2%B3%E6%B5%B7%E5%A4%A7%E5%AD%A6%E7%9A%84%E2%80%9C%E5%A4%9A%E8%8A%82%E7%82%B9%E3%80%81%E5%A4%9AGPU%E2%80%9D%E5%B9%B6%E8%A1%8C%E8%AE%A1%E7%AE%97%E6%B4%AA%E6%B0%B4%E9%A2%84%E6%8A%A5%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%8A%82%E7%82%B9%E4%BD%BF%E7%94%A8%E7%8E%87%E6%AF%94%E7%BE%8E%E6%96%B9%E9%99%8D%E4%BD%8E89%25%E3%80%82+https%3A%2F%2Ft.co%2FY5CYT09UNL)
 ##### Other Words/Names of Interest in the Above Tweet
-[使用率](使用率.md), [型](型.md), [模型](模型.md), [洪水](洪水.md), [资源](资源.md), [降低](降低.md), [预报](预报.md)
+[使用率](使用率.md), [模型](模型.md), [洪水](洪水.md), [资源](资源.md), [降低](降低.md), [预报](预报.md)
 ___
 ##### 2025-02-11 02:59:08 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DeepSeek所用GPU或比尖端産品便宜1～3成】據悉，DeepSeek使用了2000～3000塊英偉達H800 GPU，開發出了AI模型「V3」。使用的GPU市場價格比美國企業使用的尖端産品便宜1～3成左右。似乎並不是極端便宜………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E6%89%80%E7%94%A8GPU%E6%88%96%E6%AF%94%E5%B0%96%E7%AB%AF%E7%94%A3%E5%93%81%E4%BE%BF%E5%AE%9C1%EF%BD%9E3%E6%88%90%E3%80%91%E6%93%9A%E6%82%89%EF%BC%8CDeepSeek%E4%BD%BF%E7%94%A8%E4%BA%862000%EF%BD%9E3000%E5%A1%8A%E8%8B%B1%E5%81%89%E9%81%94H800+GPU%EF%BC%8C%E9%96%8B%E7%99%BC%E5%87%BA%E4%BA%86AI%E6%A8%A1%E5%9E%8B%E3%80%8CV3%E3%80%8D%E3%80%82%E4%BD%BF%E7%94%A8%E7%9A%84GPU%E5%B8%82%E5%A0%B4%E5%83%B9%E6%A0%BC%E6%AF%94%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%BD%BF%E7%94%A8%E7%9A%84%E5%B0%96%E7%AB%AF%E7%94%A3%E5%93%81%E4%BE%BF%E5%AE%9C1%EF%BD%9E3%E6%88%90%E5%B7%A6%E5%8F%B3%E3%80%82%E4%BC%BC%E4%B9%8E%E4%B8%A6%E4%B8%8D%E6%98%AF%E6%A5%B5%E7%AB%AF%E4%BE%BF%E5%AE%9C%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [尖端](尖端.md), [模型](模型.md), [美國](美國.md), [英偉達](英偉達.md), [開發](開發.md)
+[DeepSeek](DeepSeek.md), [尖端](尖端.md), [模型](模型.md), [美國](美國.md), [英偉達](英偉達.md), [開發](開發.md)
 ___
 ##### 2024-12-30 06:21:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国政府不断升级对中国的芯片出口限制令，英伟达受限于禁令只能提供降规版本，根据美国科技资讯网站Tom''s Hardware报道，半导体产业分析师阿斯霍姆（Claus Aasholm）透露，英伟达降阶版的HGX H20 GPU在中国销售的业绩…
@@ -362,7 +362,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8D%AE%E4%BA%86%E8%A7%A3%EF%BC%8C%E5%B0%8F%E7%B1%B3%E5%9C%A8%E5%8E%BB%E5%B9%B44%E6%9C%88%E5%B0%B1%E6%88%90%E7%AB%8B%E4%BA%86AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9B%A2%E9%98%9F%EF%BC%8C%E5%9B%A2%E9%98%9F%E6%88%90%E7%AB%8B%E6%97%B6%E5%B7%B2%E7%BB%8F%E6%9C%896500%E5%BC%A0GPU%E8%B5%84%E6%BA%90%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%B0%8F%E7%B1%B3+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23AI+%23%E5%A4%A7%E6%A8%A1%E5%9E%8Bhttps%3A%2F%2Ft.co%2FBeAR6W4BXG+https%3A%2F%2Ft.co%2FM7M5kNBM3O)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [小米](小米.md), [模型](模型.md), [资源](资源.md)
+[人工](人工.md), [人工智能](人工智能.md), [小米](小米.md), [模型](模型.md), [资源](资源.md)
 ___
 ##### 2024-12-16 01:05:00 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【PS30年，沒有它或許沒有英偉達今天】家用遊戲機「PlayStation（PS）」誕生至今已30年。除了遊戲之外，PS也讓娛樂領域煥然一新。不僅如此，PS還掀起了在3D圖形性能上的激烈競爭，後來英偉達開發出了為遊戲設計的「GPU」圖像處…

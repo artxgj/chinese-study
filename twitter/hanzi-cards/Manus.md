@@ -40,7 +40,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%96%B0%E4%B8%80%E4%BB%A3%E7%9A%84Llama%E5%A4%A7%E5%9E%8B%E6%A8%A1%E5%9E%8B%E3%80%81Meta%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E4%BD%9C%E4%B8%BAAI%E7%9A%84%E5%85%A5%E5%8F%A3%EF%BC%8C%E5%86%8D%E5%8A%A0%E4%B8%8AManus+AI+%E5%90%84%E7%A7%8D%E5%BA%94%E7%94%A8%E7%AD%89%E2%80%A6%E2%80%A6Meta+%E7%9A%84AI%E5%8F%8D%E5%87%BB%E6%88%98%EF%BC%8C%E5%80%BC%E5%BE%97%E8%AE%A9%E6%88%91%E4%BB%AC%E6%9C%9F%E5%BE%85%E3%80%82%23%E5%AD%99%E5%BE%B7%E4%BF%8A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23ManusAI+%23Metahttps%3A%2F%2Ft.co%2F11kvFLH2DN%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [模型](模型.md)
+[模型](模型.md)
 ___
 ##### 2026-01-08 14:34:23 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国官方证实，将对美国科技巨头Meta收购人工智能公司Manus，与出口管制、技术进出口、对外投资等相关法律法规的一致性，开展评估调查。 https://t.co/ykloBlKoZN
@@ -131,7 +131,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40shao__meng%3A+LangManus%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%A4%BE%E5%8C%BA%E9%A9%B1%E5%8A%A8%E7%9A%84+AI+%E8%87%AA%E5%8A%A8%E5%8C%96%E5%A4%9A%E6%99%BA%E8%83%BD%E4%BD%93%E6%A1%86%E6%9E%B6%EF%BC%8C%E4%B8%93%E6%B3%A8%E4%BA%8E%E5%B0%86%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E4%B8%8E%E4%B8%93%E4%B8%9A%E5%B7%A5%E5%85%B7%28%E5%A6%82%E7%BD%91%E7%BB%9C%E6%90%9C%E7%B4%A2%E3%80%81%E7%88%AC%E8%99%AB%E5%92%8C+Python+%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%29%E7%9B%B8%E7%BB%93%E5%90%88%E9%A1%B9%E7%9B%AE%E6%9C%AC%E8%B4%A8-+%E5%AD%A6%E6%9C%AF%E9%A9%B1%E5%8A%A8%3A+%E7%94%B1%E4%B8%80%E7%BE%A4%E5%89%8D%E5%90%8C%E4%BA%8B%E5%9C%A8%E4%B8%9A%E4%BD%99%E6%97%B6%E9%97%B4%E5%BC%80%E5%8F%91%E7%9A%84%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6%E9%A1%B9%E7%9B%AE-+%E5%BC%80%E6%BA%90%E7%90%86%E5%BF%B5%3A+%E5%9F%BA%E4%BA%8E+MIT+%E8%AE%B8%E5%8F%AF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Python](Python.md), [代码](代码.md), [型](型.md), [工具](工具.md), [开发](开发.md), [开源](开源.md), [执行](执行.md), [搜索](搜索.md), [本质](本质.md), [模型](模型.md), [自动化](自动化.md), [语言模型](语言模型.md), [项目](项目.md)
+[Python](Python.md), [代码](代码.md), [工具](工具.md), [开发](开发.md), [开源](开源.md), [执行](执行.md), [搜索](搜索.md), [本质](本质.md), [模型](模型.md), [自动化](自动化.md), [语言模型](语言模型.md), [项目](项目.md)
 ___
 ##### 2025-03-17 00:02:11 UTC ~ AI Will
 > RT @FinanceYF5: Manus AI昨天彻底颠覆了氛围编程。人们简直不敢相信这个具备代理能力的AI有多么震撼。开启了新的可能性。10个疯狂的例子：1. 提示：“编写一个threejs游戏，你控制一架飞机” https://t.co/d6IuhsudLy
@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+ManusAI+%E5%BC%80%E6%BA%90%E6%9B%BF%E4%BB%A3%E5%A6%82%E5%90%8C%E9%9B%A8%E5%90%8E%E5%A4%A7%E8%91%B1%EF%BC%8C%E5%8F%88%E7%9C%8B%E5%88%B0%E4%B8%80%E4%B8%AA%E2%80%94%E2%80%94AgenticSeek%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E6%94%AF%E6%8C%81%E8%AF%AD%E9%9F%B3%E4%BA%A4%E4%BA%92%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%BC%96%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%86%85%E7%BD%AE%E4%BA%86Agent%E8%B7%AF%E7%94%B1%E5%8F%AF%E4%BB%A5%E8%87%AA%E5%8A%A8%E9%80%89%E6%8B%A9%E5%BA%94%E8%AF%A5%E4%BD%BF%E7%94%A8%E5%93%AA%E4%B8%AAAgent%E6%9D%A5%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E3%80%82%E5%B9%B6%E4%B8%94%E5%8F%AF%E4%BB%A5%E5%B0%86%E5%A4%A7%E5%9E%8B%E4%BB%BB%E5%8A%A1%E6%8B%86%E5%88%86%E9%80%90%E6%AD%A5%E5%AE%8C%E6%88%90%E3%80%82%E5%9C%B0%E5%9D%80%EF%BC%9Ahttps%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [型](型.md), [大葱](大葱.md), [开源](开源.md), [支持](支持.md), [替代](替代.md), [葱](葱.md), [逐步](逐步.md), [项目](项目.md)
+[代码](代码.md), [大葱](大葱.md), [开源](开源.md), [支持](支持.md), [替代](替代.md), [葱](葱.md), [逐步](逐步.md), [项目](项目.md)
 ___
 ##### 2025-03-15 05:23:37 UTC ~ 吕立青_JimmyLv 2𐃏26
 > RT @Jimmy_JingLv: 推荐张小珺采访Manus创始人肖弘的播客“昨天问DeepSeek翻译一下贪嗔痴这三个词，他好会解释，贪就是对顺境的执着，嗔就是对逆境的不满，痴是对世界真相的无知。世界真相这个很高端了，我就不谈。但是贪和嗔，这是大家很多时候遇到的问题，是对…
@@ -159,14 +159,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Manus%E5%AE%A3%E5%B8%83%E4%B8%8E%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9F%BA%E4%BA%8E%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E7%B3%BB%E5%88%97%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9C%A8%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%AE%97%E5%8A%9B%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%AE%9E%E7%8E%B0Manus%E7%9A%84%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD%E3%80%82%E7%9B%AE%E5%89%8D%E4%B8%A4%E5%AE%B6%E6%8A%80%E6%9C%AF%E5%9B%A2%E9%98%9F%E5%B7%B2%E5%B1%95%E5%BC%80%E7%B4%A7%E5%AF%86%E5%8D%8F%E4%BD%9C%EF%BC%8C%E5%BC%80%E5%8F%91%E4%B8%AD%E5%9B%BD%E7%89%88%E6%9C%AC%EF%BC%81+https%3A%2F%2Ft.co%2Fx8XQYBaItG)
 ##### Other Words/Names of Interest in the Above Tweet
-[千问](千问.md), [型](型.md), [实现](实现.md), [平台](平台.md), [开发](开发.md), [开源](开源.md), [战略](战略.md), [技术](技术.md), [模型](模型.md), [系列](系列.md), [达成](达成.md)
+[千问](千问.md), [实现](实现.md), [平台](平台.md), [开发](开发.md), [开源](开源.md), [战略](战略.md), [技术](技术.md), [模型](模型.md), [系列](系列.md), [达成](达成.md)
 ___
 ##### 2025-03-12 07:21:06 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 全球首款通用人工智能智能体产品Manus合伙人张涛星期二（3月11日）宣布，为满足中文用户需求，Manus与阿里通义千问团队达成战略合作，双方将基于通义千问系列开源模型，致力于在中国国产模型和算力平台上实现Manus的全部功能。 https://t…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E9%80%9A%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%A7%E5%93%81Manus%E5%90%88%E4%BC%99%E4%BA%BA%E5%BC%A0%E6%B6%9B%E6%98%9F%E6%9C%9F%E4%BA%8C%EF%BC%883%E6%9C%8811%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E4%B8%BA%E6%BB%A1%E8%B6%B3%E4%B8%AD%E6%96%87%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%EF%BC%8CManus%E4%B8%8E%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E8%BE%BE%E6%88%90%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C%EF%BC%8C%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9F%BA%E4%BA%8E%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E7%B3%BB%E5%88%97%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%87%B4%E5%8A%9B%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E5%92%8C%E7%AE%97%E5%8A%9B%E5%B9%B3%E5%8F%B0%E4%B8%8A%E5%AE%9E%E7%8E%B0Manus%E7%9A%84%E5%85%A8%E9%83%A8%E5%8A%9F%E8%83%BD%E3%80%82+https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [千问](千问.md), [型](型.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [战略](战略.md), [模型](模型.md), [系列](系列.md), [达成](达成.md), [需求](需求.md)
+[人工](人工.md), [人工智能](人工智能.md), [千问](千问.md), [实现](实现.md), [平台](平台.md), [开源](开源.md), [战略](战略.md), [模型](模型.md), [系列](系列.md), [达成](达成.md), [需求](需求.md)
 ___
 ##### 2025-03-12 07:09:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI周二公布了一个智能体构建平台，允许企业创建自己的机器人。最近，一家名为Manus AI的中国初创公司在社交媒体上掀起了一股浪潮，据称该智能体可以自主执行数据分析等任务。 https://t.co/wXwmusKSIK
@@ -180,7 +180,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%98%A8%E5%A4%A9+Manus+%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B9%8B%E4%B8%80+Peak+%E5%AD%A3%E9%80%B8%E8%B6%85%E9%80%8F%E9%9C%B2+Manus+%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%98%AF+Cluade+%E5%92%8C%E4%BB%96%E4%BB%AC%E5%BE%AE%E8%B0%83%E7%9A%84+Qwen+%E6%A8%A1%E5%9E%8B%E3%80%82%E6%9C%80%E8%BF%91%E5%87%BA%E5%9C%88%E7%9A%84%E5%87%A0%E4%B8%AA+AI+%E6%A8%A1%E5%9E%8B%E5%92%8C%E4%BA%A7%E5%93%81%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89+Qwen+%E7%9A%84%E5%BD%B1%E5%AD%90%EF%BC%9A%E6%AF%94%E5%A6%82+Deepseek+R1+%E8%87%AA%E5%B7%B1%E7%94%A8%E6%9D%A5%E5%AE%9E%E9%AA%8C%E6%8E%A8%E7%90%86%E8%92%B8%E9%A6%8F%E7%9A%84%E4%B8%BB%E8%A6%81%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [圈](圈.md), [型](型.md), [推理](推理.md), [模型](模型.md), [蒸馏](蒸馏.md), [透露](透露.md)
+[Qwen](Qwen.md), [圈](圈.md), [推理](推理.md), [模型](模型.md), [蒸馏](蒸馏.md), [透露](透露.md)
 ___
 ##### 2025-03-09 09:35:50 UTC ~ Orange AI
 > RT @oran_ge: 用不上 Manus 的也可以试试 OWLOWL 在 GAIA 基准测试中取得 58.18 平均分，在开源框架中排名第一。核心功能：- 在线搜索：使用维基百科、谷歌搜索等，进行实时信息检索- 多模态处理：支持互联网或本地视频、图片、语音处理-…
@@ -201,7 +201,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E9%80%9F%E6%8A%A5%E4%B8%80%E4%B8%AA%E8%83%BD%E8%B7%9F+Manus+%E5%AF%B9%E6%A0%87%E7%9A%84+AI+Agent+%E5%B7%A5%E5%85%B7+Flowith+%E7%9A%84%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%EF%BC%9A%E8%BF%90%E8%A1%8C+Oracle+Ultra+mode+%EF%BC%88%E5%8D%B3AI+Agent%E6%A8%A1%E5%BC%8F%EF%BC%89%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E4%B8%8D%E7%9F%A5%E9%81%93%E8%BF%90%E8%A1%8C%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A8%A1%E5%9E%8B%E3%80%82%E8%AE%A9%E5%AE%83%E5%AE%8C%E6%88%90%E5%A4%AA%E9%98%B3%E7%B3%BB%E4%B9%9D%E5%A4%A7%E8%A1%8C%E6%98%9F%E7%9A%84H5%E5%8A%A8%E7%94%BB%EF%BC%8C%E8%A1%A8%E7%8E%B0%E4%B8%BA%E4%B8%8D%E8%83%BD%E5%AE%8C%E6%88%90%E6%B5%8B%E8%AF%95%E3%80%82%E5%9C%B0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[动画](动画.md), [型](型.md), [工具](工具.md), [模型](模型.md), [模式](模式.md)
+[动画](动画.md), [工具](工具.md), [模型](模型.md), [模式](模式.md)
 ___
 ##### 2025-03-08 10:06:05 UTC ~ Oasis Feng
 > RT @oasisfeng: 相比全云端容器运行的 Manus，我更偏好 OpenManus 这种本地执行的模式。家里的 Mac mini 每天 95% 时间处于待机状态，挺期待发挥些能动性价值。比如 帮我整理照片、根据我的收藏去刷 Reddit 有意思的新帖、反复打磨之前…

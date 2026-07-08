@@ -867,7 +867,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90Meta%E8%83%BD%E5%90%8C%E6%97%B6%E5%AE%8C%E6%88%90%E4%B8%A4%E5%A4%A7%E8%BD%AC%E5%9E%8B%E5%90%97%EF%BC%9F%E3%80%91%E6%B2%83%E7%89%B9%E6%96%AF%EF%BC%9AMeta%E7%9A%84%E7%AC%AC%E4%B8%80%E9%87%8D%E8%BD%AC%E5%9E%8B%E6%98%AF%E8%BD%AC%E5%90%91%E7%9F%AD%E8%A7%86%E9%A2%91%EF%BC%8C%E4%BB%A5%E6%8A%B5%E5%BE%A1TikTok%E7%9A%84%E5%A8%81%E8%83%81%EF%BC%9B%E7%AC%AC%E4%BA%8C%E9%87%8D%E8%BD%AC%E5%9E%8B%E6%9B%B4%E4%B8%BA%E6%A0%B9%E6%9C%AC%EF%BC%8C%E8%A6%81%E4%BB%8E%E2%80%9C%E5%B8%A6%E5%9B%B4%E5%A2%99%E7%9A%84%E8%8A%B1%E5%9B%AD%E2%80%9D%E8%BD%AC%E5%8F%98%E4%B8%BA%E5%85%83%E5%AE%87%E5%AE%99%E4%B8%AD%E7%9A%84%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E3%80%82https%3A%2F%2Ft.co%2FTc9Y4xi0cS)
 ##### Other Words/Names of Interest in the Above Tweet
-[元宇宙](元宇宙.md), [型](型.md), [威胁](威胁.md), [宇宙](宇宙.md), [平台](平台.md), [转变](转变.md), [转型](转型.md)
+[元宇宙](元宇宙.md), [威胁](威胁.md), [宇宙](宇宙.md), [平台](平台.md), [转变](转变.md), [转型](转型.md)
 ___
 ##### 2022-07-29 10:52:50 UTC ~ BBC News 中文
 > RT @bbcchinese: 拥有脸书、Instagram、WhatsApp等社交媒体的Meta公司今年第二季度广告业务下滑，导致该公司首次出现年比营收减少。分析人士担心，在经过许多年的大幅成长之后，该公司成长已经到了尽头，像TikTok这样的后起之秀抢食社交媒体大饼，其…
@@ -1056,7 +1056,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%9C%A8%E5%85%A8%E7%90%83%E5%A4%A7%E5%9E%8B%E4%BC%81%E4%B8%9A%E7%BA%B7%E7%BA%B7%E6%8A%B5%E5%88%B6%E4%BF%84%E7%BD%97%E6%96%AF%E5%BD%93%E4%B8%8B%EF%BC%8C%E7%BD%91%E9%A3%9E%EF%BC%88Netflix%EF%BC%89%E3%80%81%E6%8A%96%E9%9F%B3TikTok%E7%AD%89%E5%BD%B1%E9%9F%B3%E5%B9%B3%E5%8F%B0%E4%B9%9F%E5%8A%A0%E5%85%A5%E8%A1%8C%E5%88%97%EF%BC%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E6%9A%82%E5%81%9C%E6%97%97%E4%B8%8B%E6%89%80%E6%9C%89%E4%BF%84%E8%AF%AD%E6%9C%8D%E5%8A%A1%E3%80%82+https%3A%2F%2Ft.co%2F6QL8P66HFt+https%3A%2F%2Ft.co%2FX8Dm8gA4s5)
 ##### Other Words/Names of Interest in the Above Tweet
-[俄罗斯](俄罗斯.md), [型](型.md), [平台](平台.md), [抵制](抵制.md), [暂停](暂停.md)
+[俄罗斯](俄罗斯.md), [平台](平台.md), [抵制](抵制.md), [暂停](暂停.md)
 ___
 ##### 2022-02-23 07:48:53 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Meta Platforms加大了对TikTok的反击力度，周二为全球所有Facebook用户推出了短视频产品Reels，并为广告客户推出了许多新功能。https://t.co/VJ4jSbRZRX
@@ -1126,7 +1126,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0TikTok%E4%B8%8A%E7%9A%84%E6%98%8E%E6%98%9F%E6%AD%A3%E5%A4%A7%E8%B5%9A%E7%89%B9%E8%B5%9A%EF%BC%8C%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E6%94%B6%E5%85%A5%E7%94%9A%E8%87%B3%E8%B6%85%E8%BF%87%E4%BA%86%E7%BE%8E%E5%9B%BD%E4%B8%80%E4%BA%9B%E5%A4%A7%E5%85%AC%E5%8F%B8%E7%9A%84CEO%E3%80%82TikTok%E7%BD%91%E7%BA%A2%E6%9F%A5%E8%8E%89%C2%B7%E5%BE%B7%E9%98%BF%E6%A2%85%E9%87%8C%E5%A5%A5%E5%8E%BB%E5%B9%B4%E7%9A%84%E6%94%B6%E5%85%A5%E9%AB%98%E8%BE%BE1%2C750%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%8C%E8%80%8C%E6%A0%B9%E6%8D%AE%E3%80%8A%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E3%80%8B%E7%9A%84%E5%88%86%E6%9E%90%EF%BC%8C%E5%85%B6%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%87%E4%BA%86%E5%8C%85%E6%8B%AC%E5%9F%83%E5%85%8B%E6%A3%AE%E7%BE%8E%E5%AD%9A%E3%80%81%E6%98%9F%E5%B7%B4%E5%85%8B%E3%80%81%E8%BE%BE%E7%BE%8E%E8%88%AA%E7%A9%BA%E4%BB%A5%E5%8F%8A%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%AD%89%E5%A4%A7%E5%9E%8B%E4%B8%8A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[分析](分析.md), [包括](包括.md), [型](型.md), [平台](平台.md), [收入](收入.md), [星巴克](星巴克.md), [根据](根据.md), [美国](美国.md), [超过](超过.md), [麦](麦.md), [麦当劳](麦当劳.md)
+[分析](分析.md), [包括](包括.md), [平台](平台.md), [收入](收入.md), [星巴克](星巴克.md), [根据](根据.md), [美国](美国.md), [超过](超过.md), [麦](麦.md), [麦当劳](麦当劳.md)
 ___
 ##### 2021-12-31 00:13:12 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 其他中国互联网大亨的财富缩水，字节跳动创始人张一鸣的财富却增加了195亿美元。这在一定程度上要归功于他让这家TikTok的母公司保持非上市地位，从而免受市场波动的影响。但在监管整治期间，他也努力保持低调。今年5月，他宣布辞任首席执行官，上个月又退出了…

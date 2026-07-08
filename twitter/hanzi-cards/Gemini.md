@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%85%A8%E9%9D%A2%E5%8D%87%E7%BA%A7Gemini%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%85%B6%E5%B9%B4%E5%BA%A6%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E9%87%8D%E7%82%B9%E5%B1%95%E7%A4%BA%E4%BA%86%E4%B8%AA%E4%BA%BA%E6%99%BA%E8%83%BD%E4%BD%93Spark%E3%80%81%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7Omni%EF%BC%8C%E4%BB%A5%E5%8F%8A%E6%96%B0%E6%AC%BE%E6%99%BA%E8%83%BD%E7%9C%BC%E9%95%9C%E3%80%82%E8%B0%B7%E6%AD%8CCEO%E8%A1%A8%E7%A4%BA%EF%BC%9A%E2%80%9C%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E4%BB%A5%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BB%AC%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%90%91%E5%BC%80%E5%8F%91%E8%80%85%E5%92%8C%E4%BC%81%E4%B8%9A%E6%8F%90%E4%BE%9B%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%82%E6%88%91%E4%BB%AC%E7%8E%B0%E5%9C%A8%E7%9A%84%E9%87%8D%E7%82%B9%E6%98%AF%EF%BC%8C%E5%AE%89%E5%85%A8%E5%8F%AF%E9%9D%A0%E5%9C%B0%E5%B0%86%E6%99%BA%E8%83%BD%E4%BD%93%E8%BF%99%E7%A7%8D%E5%89%8D%E6%B2%BF%E8%83%BD%E5%8A%9B%E5%B8%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[一直](一直.md), [人工](人工.md), [人工智能](人工智能.md), [升级](升级.md), [型](型.md), [工具](工具.md), [开发](开发.md), [提供](提供.md), [模型](模型.md), [谷歌](谷歌.md)
+[一直](一直.md), [人工](人工.md), [人工智能](人工智能.md), [升级](升级.md), [工具](工具.md), [开发](开发.md), [提供](提供.md), [模型](模型.md), [谷歌](谷歌.md)
 ___
 ##### 2026-04-15 07:00:56 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 谷歌表示，Skills基于Chrome既有的隐私与安全机制，并延续Gemini的提示安全设计。#南洋商报 #google #Chrome #Skillshttps://t.co/WWdQpyhSkX https://t.co/BKbNAu…
@@ -54,28 +54,28 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%9C%A8AI%E7%AB%9E%E8%B5%9B%E4%B8%AD%E6%8C%89%E5%85%B5%E4%B8%8D%E5%8A%A8%EF%BC%8C%E6%AC%B2%E5%9C%A8%E8%B0%B7%E6%AD%8C%E4%B8%8EOpenAI%E4%B9%8B%E9%97%B4%E5%85%85%E5%BD%93%E2%80%9C%E9%80%A0%E7%8E%8B%E8%80%85%E2%80%9D%E3%80%91%E8%8B%B9%E6%9E%9C%E4%B8%BA%E4%BD%BF%E7%94%A8Gemini%E6%A8%A1%E5%9E%8B%E8%80%8C%E8%BE%BE%E6%88%90%E7%9A%84%E6%95%B0%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BA%A4%E6%98%93%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E5%AF%B9%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%94%AF%E5%87%BA%E7%9A%84%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6%E3%80%82https%3A%2F%2Ft.co%2FNlP1xm5BVp+https%3A%2F%2Ft.co%2FYh4k5aorVo)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [交易](交易.md), [型](型.md), [基础设施](基础设施.md), [支出](支出.md), [模型](模型.md), [苹果](苹果.md), [设施](设施.md), [谨慎](谨慎.md), [谷歌](谷歌.md), [达成](达成.md)
+[OpenAI](OpenAI.md), [交易](交易.md), [基础设施](基础设施.md), [支出](支出.md), [模型](模型.md), [苹果](苹果.md), [设施](设施.md), [谨慎](谨慎.md), [谷歌](谷歌.md), [达成](达成.md)
 ___
 ##### 2026-01-13 05:39:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 谷歌宣布将与连锁超市沃尔玛（Walmart）、跨境电商Shopify、家居电商Wayfair及多家大型零售商展开合作，未来用户在使用AI助手Gemini时，可直接在聊天界面完成购物，无需跳转至其他网站。#南洋商报 #google #Gemi…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%B0%86%E4%B8%8E%E8%BF%9E%E9%94%81%E8%B6%85%E5%B8%82%E6%B2%83%E5%B0%94%E7%8E%9B%EF%BC%88Walmart%EF%BC%89%E3%80%81%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86Shopify%E3%80%81%E5%AE%B6%E5%B1%85%E7%94%B5%E5%95%86Wayfair%E5%8F%8A%E5%A4%9A%E5%AE%B6%E5%A4%A7%E5%9E%8B%E9%9B%B6%E5%94%AE%E5%95%86%E5%B1%95%E5%BC%80%E5%90%88%E4%BD%9C%EF%BC%8C%E6%9C%AA%E6%9D%A5%E7%94%A8%E6%88%B7%E5%9C%A8%E4%BD%BF%E7%94%A8AI%E5%8A%A9%E6%89%8BGemini%E6%97%B6%EF%BC%8C%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%9C%A8%E8%81%8A%E5%A4%A9%E7%95%8C%E9%9D%A2%E5%AE%8C%E6%88%90%E8%B4%AD%E7%89%A9%EF%BC%8C%E6%97%A0%E9%9C%80%E8%B7%B3%E8%BD%AC%E8%87%B3%E5%85%B6%E4%BB%96%E7%BD%91%E7%AB%99%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23google+%23Gemi%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [沃尔玛](沃尔玛.md), [电商](电商.md), [直接](直接.md), [聊天](聊天.md), [谷歌](谷歌.md), [购物](购物.md), [跨境](跨境.md), [零售商](零售商.md)
+[沃尔玛](沃尔玛.md), [电商](电商.md), [直接](直接.md), [聊天](聊天.md), [谷歌](谷歌.md), [购物](购物.md), [跨境](跨境.md), [零售商](零售商.md)
 ___
 ##### 2026-01-13 02:18:55 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Alphabet的市值在周一盘中交易中突破4万亿美元，此前苹果宣布将引入谷歌Gemini模型赋能iPhone Siri，市场对谷歌AI业务前景的信心倍增。https://t.co/FHOHo2Xr8w
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Alphabet%E7%9A%84%E5%B8%82%E5%80%BC%E5%9C%A8%E5%91%A8%E4%B8%80%E7%9B%98%E4%B8%AD%E4%BA%A4%E6%98%93%E4%B8%AD%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AD%A4%E5%89%8D%E8%8B%B9%E6%9E%9C%E5%AE%A3%E5%B8%83%E5%B0%86%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8CGemini%E6%A8%A1%E5%9E%8B%E8%B5%8B%E8%83%BDiPhone+Siri%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%AF%B9%E8%B0%B7%E6%AD%8CAI%E4%B8%9A%E5%8A%A1%E5%89%8D%E6%99%AF%E7%9A%84%E4%BF%A1%E5%BF%83%E5%80%8D%E5%A2%9E%E3%80%82https%3A%2F%2Ft.co%2FFHOHo2Xr8w)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [交易](交易.md), [型](型.md), [市值](市值.md), [模型](模型.md), [突破](突破.md), [苹果](苹果.md), [谷歌](谷歌.md)
+[iPhone](iPhone.md), [交易](交易.md), [市值](市值.md), [模型](模型.md), [突破](突破.md), [苹果](苹果.md), [谷歌](谷歌.md)
 ___
 ##### 2026-01-12 17:55:57 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: Alphabet旗下的搜索巨头谷歌在星期天（11日）宣布，将与全球最大零售商沃尔玛集团（Walmart）、Shopify、Wayfair等大型零售商合作，增强它的人工智能聊天机器人Gemini的购物功能。这次合作的目的是把谷歌的Gemini打造成为一…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+Alphabet%E6%97%97%E4%B8%8B%E7%9A%84%E6%90%9C%E7%B4%A2%E5%B7%A8%E5%A4%B4%E8%B0%B7%E6%AD%8C%E5%9C%A8%E6%98%9F%E6%9C%9F%E5%A4%A9%EF%BC%8811%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%B0%86%E4%B8%8E%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%9B%B6%E5%94%AE%E5%95%86%E6%B2%83%E5%B0%94%E7%8E%9B%E9%9B%86%E5%9B%A2%EF%BC%88Walmart%EF%BC%89%E3%80%81Shopify%E3%80%81Wayfair%E7%AD%89%E5%A4%A7%E5%9E%8B%E9%9B%B6%E5%94%AE%E5%95%86%E5%90%88%E4%BD%9C%EF%BC%8C%E5%A2%9E%E5%BC%BA%E5%AE%83%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAGemini%E7%9A%84%E8%B4%AD%E7%89%A9%E5%8A%9F%E8%83%BD%E3%80%82%E8%BF%99%E6%AC%A1%E5%90%88%E4%BD%9C%E7%9A%84%E7%9B%AE%E7%9A%84%E6%98%AF%E6%8A%8A%E8%B0%B7%E6%AD%8C%E7%9A%84Gemini%E6%89%93%E9%80%A0%E6%88%90%E4%B8%BA%E4%B8%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [巨头](巨头.md), [打造](打造.md), [搜索](搜索.md), [机器人](机器人.md), [沃尔玛](沃尔玛.md), [聊天](聊天.md), [谷歌](谷歌.md), [购物](购物.md), [零售商](零售商.md)
+[人工](人工.md), [人工智能](人工智能.md), [巨头](巨头.md), [打造](打造.md), [搜索](搜索.md), [机器人](机器人.md), [沃尔玛](沃尔玛.md), [聊天](聊天.md), [谷歌](谷歌.md), [购物](购物.md), [零售商](零售商.md)
 ___
 ##### 2025-11-21 07:10:21 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 谷歌发布了Nano Banana Pro，这是其基于Gemini 3 Pro打造的人工智能图像编辑和生成平台的更新版本。https://t.co/NzSlCjwAEW
@@ -124,7 +124,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+%E8%B0%B7%E6%AD%8C%E6%9C%80%E5%BC%BA%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%85%B6%E5%AE%9E%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84Gemini+2.5+Pro+%E4%B8%8E+Web+Grounding+%E9%9D%9E%E5%B8%B8%E5%BC%BA%E5%A4%A7%EF%BC%8C%E4%B8%94%E4%BB%85%E5%9C%A8+AI+Studio+%E4%B8%AD%E6%8F%90%E4%BE%9B%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E8%AE%BF%E9%97%AE%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%AE%9E%E6%97%B6%E8%8E%B7%E5%8F%96%E6%95%B0%E6%8D%AE%EF%BC%9A-%E8%AE%BF%E9%97%AE+AI+Studio-%E9%80%89%E6%8B%A9+Gemini+2.5+P%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [提供](提供.md), [数据](数据.md), [模型](模型.md), [谷歌](谷歌.md)
+[提供](提供.md), [数据](数据.md), [模型](模型.md), [谷歌](谷歌.md)
 ___
 ##### 2025-04-13 18:02:45 UTC ~ Geek
 > RT @geekbb: AstrBot：一款强大的多平台 LLM 聊天机器人及开发框架，支持 QQ、QQ 频道、Telegram、微信、企微、飞书等主流消息平台，兼容 OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama 等多种技术服务与 API。…
@@ -138,14 +138,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%B0%B7%E6%AD%8C%E6%98%A8%E6%99%9A%E5%8F%88%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E4%BD%93%E5%BC%80%E5%8F%91%E5%A5%97%E4%BB%B6%EF%BC%9AADK%EF%BC%8C%E4%B8%8EGemini%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%94%9F%E6%80%81%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%88%9B%E5%BB%BA%E4%BC%9A%E8%AF%9D%E5%9E%8B%E5%92%8C%E9%9D%9E%E4%BC%9A%E8%AF%9D%E5%9E%8B%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%83%BD%E5%A4%84%E7%90%86%E5%A4%8D%E6%9D%82%E4%BB%BB%E5%8A%A1%E5%92%8C%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E3%80%82%E6%94%AF%E6%8C%81MCP%E4%BD%BF%E7%94%A8%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%BB%A3%E7%90%86%EF%BC%88%E9%A1%BA%E5%BA%8F%E3%80%81%E5%B9%B6%E8%A1%8C%E3%80%81%E5%BE%AA%E7%8E%AF%EF%BC%89%E5%AE%9A%E4%B9%89%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%8C%E5%AE%9E%E7%8E%B0%E5%8F%AF%E9%A2%84%E6%B5%8B%E7%9A%84%E7%AE%A1%E9%81%93%EF%BC%8C%E6%94%AF%E6%8C%81%E5%9F%BA%E4%BA%8ELLM%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%8A%A8%E6%80%81%E8%B7%AF%E7%94%B1%E2%80%A6+ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [MCP](MCP.md), [型](型.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
+[LLM](LLM.md), [MCP](MCP.md), [处理](处理.md), [实现](实现.md), [开发](开发.md), [开源](开源.md), [支持](支持.md), [整合](整合.md), [生态](生态.md), [管道](管道.md), [谷歌](谷歌.md), [预测](预测.md)
 ___
 ##### 2025-04-09 16:17:09 UTC ~ 向阳乔木
 > RT @vista8: 今天在钉钉做了一场直播，PPT是这两天重新写的。分享三个重点：AI发展速度超乎想象、学什么才能不落伍、如何学才能收获最大。AI发展速度快到上个月在清华大学分享的PPT这个月就得改。最佳编程模型从Claude 3.7变成Gemini 2.5 P…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40vista8%3A+%E4%BB%8A%E5%A4%A9%E5%9C%A8%E9%92%89%E9%92%89%E5%81%9A%E4%BA%86%E4%B8%80%E5%9C%BA%E7%9B%B4%E6%92%AD%EF%BC%8CPPT%E6%98%AF%E8%BF%99%E4%B8%A4%E5%A4%A9%E9%87%8D%E6%96%B0%E5%86%99%E7%9A%84%E3%80%82%E5%88%86%E4%BA%AB%E4%B8%89%E4%B8%AA%E9%87%8D%E7%82%B9%EF%BC%9AAI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E8%B6%85%E4%B9%8E%E6%83%B3%E8%B1%A1%E3%80%81%E5%AD%A6%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E4%B8%8D%E8%90%BD%E4%BC%8D%E3%80%81%E5%A6%82%E4%BD%95%E5%AD%A6%E6%89%8D%E8%83%BD%E6%94%B6%E8%8E%B7%E6%9C%80%E5%A4%A7%E3%80%82AI%E5%8F%91%E5%B1%95%E9%80%9F%E5%BA%A6%E5%BF%AB%E5%88%B0%E4%B8%8A%E4%B8%AA%E6%9C%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%88%86%E4%BA%AB%E7%9A%84PPT%E8%BF%99%E4%B8%AA%E6%9C%88%E5%B0%B1%E5%BE%97%E6%94%B9%E3%80%82%E6%9C%80%E4%BD%B3%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9E%8B%E4%BB%8EClaude+3.7%E5%8F%98%E6%88%90Gemini+2.5+P%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [型](型.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
+[Claude](Claude.md), [最佳](最佳.md), [模型](模型.md), [清华大学](清华大学.md), [速度](速度.md)
 ___
 ##### 2025-04-01 04:42:44 UTC ~ Rayy — Open Network for Sharing Economy
 > RT @tisoga: 创建了一个用来分析自己健康 &amp; 运动数据的 app，支持连接到 Whoop, Apple Health, Garmin 导入相关数据。并且还连接了 Gemini Pro 2.5 作为健康教练来分析相关的数据。全程使用 @devv_ai vibe…
@@ -166,14 +166,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40essen_ai%3A+AI%E6%99%BA%E5%95%86%E5%9B%BE%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%87%A0%E4%B8%AA%E6%83%B3%E6%B3%95%EF%BC%9A1%29+Gemini+2.5+Pro+%E5%9C%A8%E9%97%A8%E8%90%A8%E6%B5%8B%E8%AF%95%E4%B8%ADIQ%E8%BE%BE%E5%88%B0130%EF%BC%8C%E8%BF%99%E5%B7%B2%E7%BB%8F%E4%B8%8E%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A4%A9%E6%89%8D%E6%B0%B4%E5%B9%B3%E7%9B%B8%E5%BD%93%E4%BA%86%E3%80%822%29+IQ%E8%8C%83%E5%9B%B4%E5%9C%A8100-130%E5%86%85%E7%9A%84%E6%89%80%E6%9C%89%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%BD%E6%98%AF%E8%BF%87%E5%8E%BB6%E4%B8%AA%E6%9C%88%E5%86%85%E6%8E%A8%E5%87%BA%E7%9A%84%EF%BC%8C%E8%80%8C%E6%AC%A7%E6%B4%B2%E5%94%AF%E4%B8%80%E6%8B%BF%E5%BE%97%E5%87%BA%E6%89%8B%E7%9A%84Mistral%E5%9C%A8IQ%E4%B8%8A%E4%BE%9D%E7%84%B6%E5%B1%9E%E4%BA%8E%E5%BC%B1%E6%99%BA%E4%B8%80%E6%A1%A3%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[依然](依然.md), [型](型.md), [推出](推出.md), [模型](模型.md), [水平](水平.md)
+[依然](依然.md), [推出](推出.md), [模型](模型.md), [水平](水平.md)
 ___
 ##### 2025-03-31 07:37:36 UTC ~ 宝玉
 > RT @dotey: 模型的搭配使用很有必要比如 DeepResearch 擅长搜集资料比如Gemini和Grok上下文可以很长，内容多的就先让它们预处理把长度浓缩比如Claude擅长编程比如GPT-4.5写作很好但长度不能太长比如音视频用 Gemini 处理最好生…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%90%AD%E9%85%8D%E4%BD%BF%E7%94%A8%E5%BE%88%E6%9C%89%E5%BF%85%E8%A6%81%E6%AF%94%E5%A6%82+DeepResearch+%E6%93%85%E9%95%BF%E6%90%9C%E9%9B%86%E8%B5%84%E6%96%99%E6%AF%94%E5%A6%82Gemini%E5%92%8CGrok%E4%B8%8A%E4%B8%8B%E6%96%87%E5%8F%AF%E4%BB%A5%E5%BE%88%E9%95%BF%EF%BC%8C%E5%86%85%E5%AE%B9%E5%A4%9A%E7%9A%84%E5%B0%B1%E5%85%88%E8%AE%A9%E5%AE%83%E4%BB%AC%E9%A2%84%E5%A4%84%E7%90%86%E6%8A%8A%E9%95%BF%E5%BA%A6%E6%B5%93%E7%BC%A9%E6%AF%94%E5%A6%82Claude%E6%93%85%E9%95%BF%E7%BC%96%E7%A8%8B%E6%AF%94%E5%A6%82GPT-4.5%E5%86%99%E4%BD%9C%E5%BE%88%E5%A5%BD%E4%BD%86%E9%95%BF%E5%BA%A6%E4%B8%8D%E8%83%BD%E5%A4%AA%E9%95%BF%E6%AF%94%E5%A6%82%E9%9F%B3%E8%A7%86%E9%A2%91%E7%94%A8+Gemini+%E5%A4%84%E7%90%86%E6%9C%80%E5%A5%BD%E7%94%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [上下文](上下文.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
+[Claude](Claude.md), [上下文](上下文.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md)
 ___
 ##### 2025-03-27 19:28:55 UTC ~ -Zho-
 > RT @ZHO_ZHO_ZHO: 卧槽，谁说不行？！！！4o 同样可以像 Gemini 一样一句话生成连续的故事剧情和分镜！！！啥也别说了（附提示词）刚刚测试发现 4o 可以剧情+图片连续生成，并且图像质量、特征保持、语义跟随以及故事拓展与修改都比 Gemini 强！！…
@@ -194,7 +194,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%80%AA%E4%B8%8D%E5%BE%97Open+AI%E4%BB%8A%E6%99%9A%E6%9C%89%E5%8F%91%E5%B8%83%EF%BC%8C%E5%8E%9F%E6%9D%A5%E5%8F%88%E6%98%AF%E7%8B%99%E5%87%BB%E8%B0%B7%E6%AD%8C%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83+Gemini+2.5+Pro+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%B5%8B%E8%AF%95%E5%88%86%E6%95%B0%E5%BE%88%E7%A6%BB%E8%B0%B1-+100+%E4%B8%87+token+%E7%9A%84%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3-+%E6%94%AF%E6%8C%81%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B-+%E6%96%87%E6%9C%AC%E3%80%81%E9%9F%B3%E9%A2%91%E3%80%81%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E5%A4%9A%E6%A8%A1%E6%80%81-+SWE-Bench+Verified+%E7%BC%96%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上下文](上下文.md), [发布](发布.md), [型](型.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [谷歌](谷歌.md)
+[上下文](上下文.md), [发布](发布.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [谷歌](谷歌.md)
 ___
 ##### 2025-03-26 04:48:51 UTC ~ Robinson · 鲁棒逊
 > RT @python_xxt: Google Gemini 2.0 pro的吞吐效率，带来的体验提升，远远被低估了在我日常使用中，占比约50-60%Gemini 2.5 pro 更强了，占比只会进一步提高CloseAI 危矣 https://t.co/n664BWf…
@@ -208,7 +208,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+Chatwise+%E6%94%AF%E6%8C%81+Gemini+2+%E7%9A%84%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90%E5%92%8C%E4%BF%AE%E6%94%B9%E4%BA%86%E7%AA%81%E7%84%B6%E6%84%9F%E8%A7%89%E9%9A%8F%E7%9D%80%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E7%9A%84%E6%8F%90%E5%8D%87%EF%BC%8C%E5%A4%8D%E6%9D%82%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%BC%96%E8%BE%91%E5%8F%88%E5%8F%98%E5%BE%97%E4%B8%8D%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81%E4%BA%86+https%3A%2F%2Ft.co%2FuAiSShI6tI)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [支持](支持.md), [模型](模型.md), [随着](随着.md)
+[支持](支持.md), [模型](模型.md), [随着](随着.md)
 ___
 ##### 2025-03-19 08:45:20 UTC ~ 
 > RT @imxiaohu: 给你们看个好玩的啊和Gemini 一起作画你随便画就行，然后它可以帮你完善我只是做了简单尝试，想象空间还是很大的可以开发个儿童应用，我觉得很有前景啊，再加上语音功能，那就完美了！very nice... https://t.co/…
@@ -250,7 +250,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rozfex%3A+%E7%94%B5%E5%95%86%E4%BA%A7%E5%93%81%E6%8B%8D%E6%91%84%E5%92%8C%E4%BF%AE%E5%9B%BE%E8%A1%8C%E4%B8%9A%E8%A2%ABGoogle+Gemini+%E5%BD%BB%E5%BA%95%E6%91%A7%E6%AF%81%EF%BC%8C%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8E%9F%E7%94%9F%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%A8%81%E5%8A%9B%EF%BC%81Gemini%E5%B0%B1%E6%98%AF%E5%85%8D%E8%B4%B9%E5%B9%B2%E6%B4%BB%E7%9A%84%E4%BF%AE%E5%9B%BE%E5%B8%88%EF%BC%8C%E4%BB%A5%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86%E8%A1%8C%E4%B8%9A%E6%9D%A5%E4%B8%BE%E4%BE%8B%EF%BC%8C%E4%B8%80%E8%88%AC%E6%88%91%E4%BB%AC%E9%80%89%E5%A5%BD%E5%93%81%E3%80%81%E7%A1%AE%E8%AE%A4%E8%BF%9B%E8%A1%8C%E8%B7%9F%E5%8D%96%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%A4%B4%E7%96%BC%E7%9A%84%E5%B0%B1%E6%98%AF%E8%A6%81%E6%94%B9%E5%9B%BE%E8%AE%A9%E8%B7%9F%E7%AB%9E%E5%93%81%E4%B8%8D%E4%B8%80%E6%A0%B7%E3%80%82%E7%8E%B0%E5%9C%A8%E7%9B%B4%E6%8E%A5%E8%AF%B4%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9C%80%E6%B1%82%EF%BC%8C5%E7%A7%92%E5%B0%B1%E5%AE%8C%E6%88%90%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [模型](模型.md), [电商](电商.md), [直接](直接.md), [确认](确认.md), [行业](行业.md), [跨境](跨境.md), [进行](进行.md), [需求](需求.md)
+[模型](模型.md), [电商](电商.md), [直接](直接.md), [确认](确认.md), [行业](行业.md), [跨境](跨境.md), [进行](进行.md), [需求](需求.md)
 ___
 ##### 2025-03-15 16:49:25 UTC ~ Geek
 > RT @geekbb: Gemini 的 Deep Research 上线了，表现相当亮眼，深度研究技术助力用户快速解析各类主题，在规划、搜索、推理到生成报告全流程中实现无缝衔接，仅需数分钟即可精准锁定关键要点并输出结论性报告，赞~👉https://t.co/HHxVRD25…
@@ -292,7 +292,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+%E8%B0%B7%E6%AD%8C%E8%BF%88%E5%87%BA%E5%85%B3%E9%94%AE%E4%B8%80%E6%AD%A5%EF%BC%9A%E6%B5%8B%E8%AF%95%E7%BA%AFAI%E6%90%9C%E7%B4%A2%EF%BC%8C%E4%B8%8D%E5%86%8D%E6%98%BE%E7%A4%BA%E4%BC%A0%E7%BB%9F%E9%93%BE%E6%8E%A5%E6%88%91%E4%BB%AC%E5%B9%B3%E6%97%B6%E4%B8%8A%E7%BD%91%E6%89%BE%E4%B8%9C%E8%A5%BF%EF%BC%8C%E6%80%BB%E7%88%B1%E8%AF%B4%E2%80%9C%E8%B0%B7%E6%AD%8C%E4%B8%80%E4%B8%8B%E2%80%9D%EF%BC%8C%E4%BD%86%E6%9C%AA%E6%9D%A5%E7%9A%84%E8%B0%B7%E6%AD%8C%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%86%8D%E6%98%AF%E7%BB%99%E4%BD%A0%E6%98%BE%E7%A4%BA%E5%8D%81%E4%B8%AA%E8%93%9D%E8%89%B2%E7%9A%84%E7%BD%91%E9%A1%B5%E9%93%BE%E6%8E%A5%EF%BC%8C%E8%80%8C%E6%98%AF%E7%9B%B4%E6%8E%A5%E5%91%8A%E8%AF%89%E4%BD%A0%E7%AD%94%E6%A1%88%E3%80%82%E6%9C%80%E8%BF%91%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E8%A6%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%89%A9%E5%B1%95%E5%85%B6AI%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%EF%BC%8C%E8%83%8C%E5%90%8E%E7%9A%84%E6%8A%80%E6%9C%AF%E6%AD%A3%E6%98%AF%E5%AE%83%E6%9C%80%E6%96%B0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E2%80%9CGemini%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [传统](传统.md), [关键](关键.md), [型](型.md), [技术](技术.md), [搜索](搜索.md), [显示](显示.md), [模型](模型.md), [直接](直接.md), [谷歌](谷歌.md)
+[人工](人工.md), [人工智能](人工智能.md), [传统](传统.md), [关键](关键.md), [技术](技术.md), [搜索](搜索.md), [显示](显示.md), [模型](模型.md), [直接](直接.md), [谷歌](谷歌.md)
 ___
 ##### 2025-02-24 11:26:38 UTC ~ Tw93
 > RT @HiTw93: 假如你想找一些现在 AI 相关的图标设计稿内容，比如 Grok, DeepSeek, ChatGPT, Claude, Gemini，可以去 figma 这个地址瞧瞧。https://t.co/MsUHlCPYy4 https://t.co/RvNid…
@@ -311,7 +311,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+6%E6%97%A5%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%87%BAGemini+2.0%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%8C%85%E6%8B%ACFlash%E3%80%81Pro%E5%92%8CFlash-Lite%E7%89%88%E6%9C%AC%EF%BC%8C%E6%97%A8%E5%9C%A8%E4%B8%BA%E5%BC%80%E5%8F%91%E8%80%85%E5%92%8C%E7%94%A8%E6%88%B7%E6%8F%90%E4%BE%9B%E6%9B%B4%E9%AB%98%E6%95%88%E7%9A%84AI%E5%B7%A5%E5%85%B7%E3%80%82+https%3A%2F%2Ft.co%2FrcG0pIubuG+https%3A%2F%2Ft.co%2FudT4zU6SGT)
 ##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [型](型.md), [工具](工具.md), [开发](开发.md), [推出](推出.md), [提供](提供.md), [旨在](旨在.md), [模型](模型.md), [系列](系列.md), [谷歌](谷歌.md)
+[包括](包括.md), [工具](工具.md), [开发](开发.md), [推出](推出.md), [提供](提供.md), [旨在](旨在.md), [模型](模型.md), [系列](系列.md), [谷歌](谷歌.md)
 ___
 ##### 2025-02-06 05:32:36 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 此计划的首阶段是于去年12月与大马国家人工智能办公室一同启动，是一个测试政府工作流程中人工智能整合效果的试点计划。#南洋商报 #GobindSingh #Gemini https://t.co/5Z7n1DMWFx https://t.c…
@@ -339,14 +339,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%B0%B7%E6%AD%8C%EF%BC%88Google%EF%BC%896%E6%97%A5%E6%8E%A8%E5%87%BA%E8%87%AA%E5%AE%B6%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%A8%A1%E5%9E%8B%E2%80%9CGemini%E2%80%9D%EF%BC%8C%E8%BF%8E%E6%88%98%E9%97%AE%E4%B8%96%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84ChatGPT%EF%BC%8C%E7%84%B6%E8%80%8C%E5%8F%91%E5%B8%83%E6%89%8D%E8%BF%87%E4%B8%80%E5%A4%A9%EF%BC%8C%E5%A4%96%E7%95%8C%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E8%B4%A8%E7%96%91%E8%B0%B7%E6%AD%8C%E5%B1%95%E7%A4%BA%E7%9A%84%E6%80%A7%E8%83%BD%E6%9C%89%E2%80%9C%E7%B2%89%E9%A5%B0%E9%80%A0%E5%81%87%E2%80%9D%E4%B9%8B%E5%AB%8C%E3%80%82+https%3A%2F%2Ft.co%2FuwDlzy1Yfh+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [推出](推出.md), [模型](模型.md), [谷歌](谷歌.md), [质疑](质疑.md)
+[发布](发布.md), [推出](推出.md), [模型](模型.md), [谷歌](谷歌.md), [质疑](质疑.md)
 ___
 ##### 2023-12-08 13:55:45 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 华尔街市场人士对谷歌母公司Alphabet Inc推出的新人工智能模型Gemini雀跃无比，带动Alphabet股价在隔夜攀高了5.31％。市场投资者希望Gemini能够协助Alphabet缩小它与微软在人工智能市场的差距。https://t.co…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%8E%E5%B0%94%E8%A1%97%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%AF%B9%E8%B0%B7%E6%AD%8C%E6%AF%8D%E5%85%AC%E5%8F%B8Alphabet+Inc%E6%8E%A8%E5%87%BA%E7%9A%84%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8BGemini%E9%9B%80%E8%B7%83%E6%97%A0%E6%AF%94%EF%BC%8C%E5%B8%A6%E5%8A%A8Alphabet%E8%82%A1%E4%BB%B7%E5%9C%A8%E9%9A%94%E5%A4%9C%E6%94%80%E9%AB%98%E4%BA%865.31%EF%BC%85%E3%80%82%E5%B8%82%E5%9C%BA%E6%8A%95%E8%B5%84%E8%80%85%E5%B8%8C%E6%9C%9BGemini%E8%83%BD%E5%A4%9F%E5%8D%8F%E5%8A%A9Alphabet%E7%BC%A9%E5%B0%8F%E5%AE%83%E4%B8%8E%E5%BE%AE%E8%BD%AF%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E5%B7%AE%E8%B7%9D%E3%80%82https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [协助](协助.md), [型](型.md), [差距](差距.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [推出](推出.md), [攀](攀.md), [模型](模型.md), [谷歌](谷歌.md)
+[人工](人工.md), [人工智能](人工智能.md), [协助](协助.md), [差距](差距.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [推出](推出.md), [攀](攀.md), [模型](模型.md), [谷歌](谷歌.md)
 ___
 ##### 2023-12-07 03:30:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 谷歌表示，该公司开发出了一种比市面上所有人工智能系统都更强大的新系统，连ChatGPT创造者OpenAI开发的技术都要甘拜下风。这款被称做Gemini的强大软件是谷歌展示其人工智能实力的最新尝试。https://t.co/EeZFMwZ9Mr h…
@@ -360,14 +360,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%23Google+%E5%B7%B2%E7%BB%8F%E8%AE%A9%E4%B8%80%E5%B0%8F%E7%BE%A4%E5%85%AC%E5%8F%B8%E4%BD%BF%E7%94%A8%E5%AE%83%E7%A0%94%E5%8F%91%E7%9A%84%E5%AF%B9%E8%AF%9D%E5%9E%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E8%BD%AF%E4%BD%93+%23Gemini+%E5%88%9D%E6%9C%9F%E7%89%88%E6%9C%AC%EF%BC%8C%E8%BF%99%E6%98%BE%E7%A4%BAGoogle%E5%B7%B2%E7%BB%8F%E6%8E%A5%E8%BF%91%E8%A6%81%E5%8F%91%E8%A1%A8Gemini%E7%9A%84%E6%97%B6%E5%88%BB%E3%80%82+https%3A%2F%2Ft.co%2Fk8Qun3rfFF+https%3A%2F%2Ft.co%2FD63C3hma%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [型](型.md), [显示](显示.md), [研发](研发.md)
+[人工](人工.md), [人工智能](人工智能.md), [显示](显示.md), [研发](研发.md)
 ___
 ##### 2023-07-21 18:05:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 谷歌联合创始人布林又回来工作了。知情人士说，布林去年底曾在谷歌办公室参加过有关AI的会议，但现在他参与的频率和强度都有所提高。他与研究人员密切合作，打造谷歌AI模型Gemini。自从ChatGPT发布以来，布林的参与度不断提高。谷歌表示，布林…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B0%B7%E6%AD%8C%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E6%9E%97%E5%8F%88%E5%9B%9E%E6%9D%A5%E5%B7%A5%E4%BD%9C%E4%BA%86%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E8%AF%B4%EF%BC%8C%E5%B8%83%E6%9E%97%E5%8E%BB%E5%B9%B4%E5%BA%95%E6%9B%BE%E5%9C%A8%E8%B0%B7%E6%AD%8C%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8F%82%E5%8A%A0%E8%BF%87%E6%9C%89%E5%85%B3AI%E7%9A%84%E4%BC%9A%E8%AE%AE%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E4%BB%96%E5%8F%82%E4%B8%8E%E7%9A%84%E9%A2%91%E7%8E%87%E5%92%8C%E5%BC%BA%E5%BA%A6%E9%83%BD%E6%9C%89%E6%89%80%E6%8F%90%E9%AB%98%E3%80%82%E4%BB%96%E4%B8%8E%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%91%98%E5%AF%86%E5%88%87%E5%90%88%E4%BD%9C%EF%BC%8C%E6%89%93%E9%80%A0%E8%B0%B7%E6%AD%8CAI%E6%A8%A1%E5%9E%8BGemini%E3%80%82%E8%87%AA%E4%BB%8EChatGPT%E5%8F%91%E5%B8%83%E4%BB%A5%E6%9D%A5%EF%BC%8C%E5%B8%83%E6%9E%97%E7%9A%84%E5%8F%82%E4%B8%8E%E5%BA%A6%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98%E3%80%82%E8%B0%B7%E6%AD%8C%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B8%83%E6%9E%97%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [打造](打造.md), [提高](提高.md), [模型](模型.md), [知情](知情.md), [知情人士](知情人士.md), [谷歌](谷歌.md)
+[发布](发布.md), [打造](打造.md), [提高](提高.md), [模型](模型.md), [知情](知情.md), [知情人士](知情人士.md), [谷歌](谷歌.md)
 ___
 ##### 2023-01-05 00:02:40 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 加密货币今年开局平静，尽管投资者正准备迎接未来的更多痛苦。投资者正在警惕地关注另外两家加密货币公司Gemini和加密货币贷款机构Genesis。https://t.co/yqSiQiLIc8
