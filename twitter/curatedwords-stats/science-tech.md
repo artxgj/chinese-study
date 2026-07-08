@@ -191,6 +191,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [记忆体](../hanzi-cards/记忆体.md)/[記憶體](../hanzi-cards/記憶體.md) | memory (Taiwan) |
 | [伺服器](../hanzi-cards/伺服器.md) | server (Taiwan) |
 | [服务器](../hanzi-cards/服务器.md)/[服務器](../hanzi-cards/服務器.md) | server |
+| [韬定律](../hanzi-cards/韬定律.md)/[韜定律](../hanzi-cards/韜定律.md) | Tau (τ) Scaling Law |
 ## Physics
 |  |  |
 | ----- | :---: |
