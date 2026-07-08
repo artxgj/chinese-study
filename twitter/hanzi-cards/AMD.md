@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MJTVHoPin%3A+%E9%BB%83%E4%BB%81%E5%8B%B3%E6%AD%A3%E5%BC%8F%E6%AE%BA%E9%80%B2Windows%E7%AD%86%E9%9B%BB%E5%B8%82%E5%A0%B4%EF%BC%81%E8%BC%9D%E9%81%94%E5%90%91%E8%8B%B1%E7%89%B9%E7%88%BE%E3%80%81AMD%E7%99%BC%E8%B5%B7%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%B0%E5%85%A8%E7%90%83AI%E6%99%B6%E7%89%87%E9%9C%B8%E4%B8%BB+Jensen+Huang%EF%BC%88%E9%BB%83%E4%BB%81%E5%8B%B3%EF%BC%896%E6%9C%881%E6%97%A5%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%9B%BB%E8%85%A6%E5%B1%95%EF%BC%88Computex%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%B0%87%E6%AD%A3%E5%BC%8F%E9%80%B2%E8%BB%8DWindows%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E6%A0%B8%E5%BF%83%E8%99%95%E7%90%86%E5%99%A8%E5%B8%82%E5%A0%B4%EF%BC%8C%E6%8E%A8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Windows](Windows.md), [型](型.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [黃仁勳](黃仁勳.md)
+[Windows](Windows.md), [型](型.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [輝達](輝達.md), [黃仁勳](黃仁勳.md)
 ___
 ##### 2026-05-22 06:39:33 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国科技巨企英伟达在人工智能（AI）计算晶片领域的主要挑战者超威半导体（AMD），承诺在台湾投资超过100亿美元（128亿新元），以加速建置AI基础设施，扩大合作伙伴关系，并提升下一代AI基础设施的先进封装制造产能。 https://t.co/hUv…

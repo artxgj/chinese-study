@@ -230,7 +230,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [型](型.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md)
+[Qwen](Qwen.md), [型](型.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md), [語言模型](語言模型.md)
 ___
 ##### 2026-01-21 16:46:20 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能（AI）初创公司深度求索（DeepSeek）发布推理模型R1一周年之际，新模型“MODEL1”的项目名在开源社区悄然出现。 https://t.co/7hYo7OOYDS
@@ -272,7 +272,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%88%91%E5%9C%A8%E8%AE%A1%E5%88%92%E4%B8%9C%E5%8C%97%E7%A7%8B%E5%AD%A3%E4%B8%80%E5%91%A8%E6%B8%B8%E6%97%B6%E7%94%A8%E4%BA%86DeepSeek%E3%80%82%E6%8C%89%E7%85%A7%E8%A6%81%E6%B1%82%E4%BC%98%E5%8C%96%E8%A1%8C%E7%A8%8B%E5%90%8E%EF%BC%8C%E5%AE%83%E7%BB%99%E5%87%BA%E8%BF%99%E4%B8%AA%E7%BB%93%E8%AF%AD%EF%BC%9A+%E6%82%A8%E5%B0%86%E5%9C%A8%E6%B2%88%E9%98%B3%E8%A7%A6%E6%91%B8%E7%8E%8B%E6%9C%9D%E5%B4%9B%E8%B5%B7%E7%9A%84%E9%BE%99%E7%BA%B9%E7%A0%96%EF%BC%8C%E5%9C%A8%E9%95%BF%E6%98%A5%E8%81%86%E5%90%AC%E6%AE%96%E6%B0%91%E9%93%81%E8%BD%A8%E7%9A%84%E5%93%80%E9%B8%A3%EF%BC%8C%E5%85%AD%E6%97%A5%E9%81%8D%E5%8E%86%E4%B8%9C%E5%8C%97400%E5%B9%B4%E9%A3%8E%E4%BA%91%E3%80%82%E5%90%AC%E8%B5%B7%E6%9D%A5%E6%8C%BA%E4%BB%A4%E4%BA%BA%E6%9C%9F%E5%BE%85%E7%9A%84%EF%BC%8C%E5%AF%B9%E4%B8%8D%EF%BC%9Fhttps%3A%2F%2Ft.co%2FVHGYL0LPVH%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[优化](优化.md), [崛起](崛起.md), [按照](按照.md), [殖民](殖民.md), [计划](计划.md)
+[优化](优化.md), [崛起](崛起.md), [按照](按照.md), [殖民](殖民.md), [沈阳](沈阳.md), [计划](计划.md)
 ___
 ##### 2025-10-25 04:21:40 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 有位开发者，基于 DeepSeek-OCR 模型实现了一个简单实用的 OCR 前端应用：deepSeek_ocr_app，项目已开源。提供简洁直观的操作界面，只需要拖拽上传图片，即可开始处理，最大支持 100MB 文件。支持四种核心…
@@ -1623,7 +1623,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E4%B8%80%E4%B8%AA%E7%A8%B3%E5%AE%9A%E6%9C%89%E8%89%AF%E5%A5%BD%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E7%9A%84R1%E9%A3%8E%E6%A0%BC%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AVLM-R1%EF%BC%8C%E6%8A%8ADeepSeek%E7%9A%84R1%E6%96%B9%E6%B3%95%E7%94%A8%E5%88%B0%E4%BA%86%E8%A7%86%E8%A7%89%E4%B8%8A%E6%A8%A1%E5%9E%8B%E4%B8%8A%EF%BC%8C%E5%A2%9E%E5%BC%BA%E4%BA%86%E6%A8%A1%E5%9E%8B%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E5%9F%BA%E4%BA%8EQwen2.5-VL+%E6%9E%84%E5%BB%BA%EF%BC%8C%E8%83%BD%E5%90%8C%E6%97%B6%E5%A4%84%E7%90%86%E5%9B%BE%E5%83%8F%E5%92%8C%E6%96%87%E6%9C%AC%E8%BE%93%E5%85%A5%EF%BC%8C%E7%89%B9%E5%88%AB%E5%BC%BA%E5%8C%96%E4%BA%86%E5%AF%B9%E5%9B%BE%E5%83%8F%E4%B8%AD%E7%89%B9%E5%AE%9A%E7%9B%AE%E6%A0%87%E7%9A%84%E5%AE%9A%E4%BD%8D%E8%83%BD%E5%8A%9B%E6%93%85%E9%95%BF%E6%8C%87%E4%BB%A3%E8%A1%A8%E8%BE%BE%E7%B1%BB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md), [稳定](稳定.md)
+[Qwen](Qwen.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md), [稳定](稳定.md), [语言模型](语言模型.md)
 ___
 ##### 2025-02-23 02:40:23 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国晶片龙头英伟达创始人黄仁勋首次回应深度求索（DeepSeek）对该公司股票的冲击，称这是源自投资者的误解，并强调未来的人工智能（AI）模型仍将依赖英伟达的算力。 https://t.co/HvkGzJTF2Z

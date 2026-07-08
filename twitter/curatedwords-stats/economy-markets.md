@@ -120,7 +120,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [盈利](../hanzi-cards/盈利.md) | profit |
 | [成本](../hanzi-cards/成本.md) | costs (production, manufacturing) |
 | [收入](../hanzi-cards/收入.md) | income; revenue; receipts; earnings; proceeds |
-| [营收](../hanzi-cards/营收.md) | sales; income; revenue |
+| [营收](../hanzi-cards/营收.md)/[營收](../hanzi-cards/營收.md) | sales; income; revenue |
 | [订单](../hanzi-cards/订单.md) | order for goods; order form |
 | [税](../hanzi-cards/税.md) | tax; duty |
 | [税收](../hanzi-cards/税收.md) | tax revenue |
@@ -134,7 +134,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [预测](../hanzi-cards/预测.md) | forecast |
 | [需求](../hanzi-cards/需求.md) | demand |
 | [短缺](../hanzi-cards/短缺.md) | shortage |
-| [反垄断](../hanzi-cards/反垄断.md) | antitrust |
+| [反垄断](../hanzi-cards/反垄断.md)/[反壟斷](../hanzi-cards/反壟斷.md) | antitrust |
 | [劳动](../hanzi-cards/劳动.md) | labor |
 | [贸易](../hanzi-cards/贸易.md) | trade |
 | [自贸](../hanzi-cards/自贸.md) | free trade |
@@ -145,12 +145,13 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [发展中国家](../hanzi-cards/发展中国家.md) | developing country |
 | [英国脱欧](../hanzi-cards/英国脱欧.md) | Brexit |
 | [养老金](../hanzi-cards/养老金.md) | pension funds |
-| [纳斯达克](../hanzi-cards/纳斯达克.md) | NASDAQ |
+| [纳斯达克](../hanzi-cards/纳斯达克.md)/[納斯達克](../hanzi-cards/納斯達克.md) | NASDAQ |
 | [标准与普尔](../hanzi-cards/标准与普尔.md) | Standard and Poor (S&P) |
 | [标普](../hanzi-cards/标普.md)/[標普](../hanzi-cards/標普.md) | S&P |
 | [道琼斯指数](../hanzi-cards/道琼斯指数.md) | Dow Jones Index |
-| [布伦特原油期](../hanzi-cards/布伦特原油期.md) | Brent Crude Oil Futures |
-| [纽约原油](../hanzi-cards/纽约原油.md) | New York Crude Oil |
+| [韩国综合股价指数](../hanzi-cards/韩国综合股价指数.md) | Korea Composite Stock Price Index (KOSPI) |
+| [布伦特](../hanzi-cards/布伦特.md)/[布倫特](../hanzi-cards/布倫特.md) | Brent (as in Brent Crude) |
+| [纽约原油](../hanzi-cards/纽约原油.md)/[紐約原油](../hanzi-cards/紐約原油.md) | New York Crude Oil |
 | [美国存托凭证](../hanzi-cards/美国存托凭证.md) | American Depositary Receipts (ADR) |
 | [周转资金](../hanzi-cards/周转资金.md) | working capital; working/revolving fund |
 | [主权财富基金](../hanzi-cards/主权财富基金.md) | sovereign wealth fund |
@@ -184,6 +185,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [营业利润](../hanzi-cards/营业利润.md) | operating profit |
 | [本益比](../hanzi-cards/本益比.md) | P/E ratio |
 | [行情](../hanzi-cards/行情.md) | market price; quotation of market price; the current market situation |
+| [复合年增长率](../hanzi-cards/复合年增长率.md) | compound annual growth rate |
 ## Energy
 |  |  |
 | ----- | :---: |

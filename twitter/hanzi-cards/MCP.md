@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+5%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84AI%E4%BB%A3%E7%90%86%E3%80%81MCP%E5%92%8CLLM%E6%9B%B4%E6%96%B0%EF%BC%9A1.+%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86FastVLM%E4%BB%A3%E7%A0%81%E5%92%8C%E6%A8%A1%E5%9E%8B%E3%80%82%E4%B8%80%E6%AC%BE%E6%9E%81%E9%80%9F%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8iPhone%E4%B8%8A%E8%BF%90%E8%A1%8C%EF%BC%8C%E4%BD%BF%E7%94%A8MLX%EF%BC%8C%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E7%9A%84%E7%BC%96%E7%A0%81%E6%97%B6%E9%97%B4%E3%80%82%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%AE%9E%E6%97%B6%E7%9A%84%E8%AE%BE%E5%A4%87%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%82+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [iPhone](iPhone.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
+[LLM](LLM.md), [iPhone](iPhone.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md), [语言模型](语言模型.md)
 ___
 ##### 2025-05-05 15:57:28 UTC ~ GitHubDaily
 > RT @GitHub_Daily: Excel MCP Server 这款 MCP 服务器颇为实用，通过 AI 助手直接操作 Excel 文件，或许不用再装微软 Excel 办公软件了。目前已经实现创建、读取和修改 Excel 表格数据，甚至还能应用格式、创建图表和透视表，…
@@ -437,7 +437,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E4%BB%BD%E7%B2%BE%E5%BF%83%E6%95%B4%E7%90%86%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86%EF%BC%9Aawesome-LLM-resourses%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E3%80%81%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E3%80%81%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E3%80%81o1+%E6%A8%A1%E5%9E%8B%E3%80%81MCP%E3%80%81%E7%9F%A5%E8%AF%86%E5%BA%93+RAG%E3%80%81%E6%99%BA%E8%83%BD%E4%BD%93+Agents%E3%80%81%E4%B9%A6%E7%B1%8D%E3%80%81%E6%95%99%E7%A8%8B%E3%80%81%E8%AE%BA%E6%96%87%E7%AD%89%E8%B5%84%E6%BA%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [RAG](RAG.md), [型](型.md), [处理](处理.md), [大语言模型](大语言模型.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [资源](资源.md)
+[LLM](LLM.md), [RAG](RAG.md), [型](型.md), [处理](处理.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [语言模型](语言模型.md), [资源](资源.md)
 ___
 ##### 2025-03-20 06:56:37 UTC ~ nowa
 > RT @nowazhu: 我们刚刚通过 LongPort 的 OpenAPI 服务 Release 了 Longbridge 的 MCP Server，现在可以方便地使用 Cursor 等 IDE 或者直接使用 LLM 调用 Longbridge 的股票行情、订单、持仓等 AP…

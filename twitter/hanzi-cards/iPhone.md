@@ -951,14 +951,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83+FastVLM%E8%83%BD%E5%9C%A8+iPhone+%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C%E7%9A%84%E6%9E%81%E9%80%9F%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B+%E9%A6%96+token+%E8%BE%93%E5%87%BA%E5%BF%AB+85+%E5%80%8DFastVLM%EF%BC%9A%E5%85%88%E6%8A%8A%E5%9B%BE%E5%83%8F%E7%9C%8B%E6%87%82%EF%BC%88%E5%9B%BE%E5%83%8F+%E2%86%92+token%EF%BC%89%EF%BC%8C%E5%86%8D%E6%A0%B9%E6%8D%AE+token+%E7%94%9F%E6%88%90%E5%9B%9E%E7%AD%94%E6%88%96%E6%8F%8F%E8%BF%B0%EF%BC%88token+%E2%86%92+%E8%AF%AD%E8%A8%80%EF%BC%89%E6%A8%A1%E5%9E%8B%E4%BD%93%E9%9D%9E%E5%B8%B8%E7%A7%AF%E5%B0%8F%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [根据](根据.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
+[发布](发布.md), [型](型.md), [根据](根据.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md), [语言模型](语言模型.md)
 ___
 ##### 2025-05-11 07:30:01 UTC ~ AI Will
 > RT @FinanceYF5: 5个巨大的AI代理、MCP和LLM更新：1. 苹果刚刚发布了FastVLM代码和模型。一款极速的视觉语言模型，直接在iPhone上运行，使用MLX，大幅减少高分辨率图像的编码时间。非常适合实时的设备端应用。 https://t.co/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+5%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84AI%E4%BB%A3%E7%90%86%E3%80%81MCP%E5%92%8CLLM%E6%9B%B4%E6%96%B0%EF%BC%9A1.+%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86FastVLM%E4%BB%A3%E7%A0%81%E5%92%8C%E6%A8%A1%E5%9E%8B%E3%80%82%E4%B8%80%E6%AC%BE%E6%9E%81%E9%80%9F%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8iPhone%E4%B8%8A%E8%BF%90%E8%A1%8C%EF%BC%8C%E4%BD%BF%E7%94%A8MLX%EF%BC%8C%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E7%9A%84%E7%BC%96%E7%A0%81%E6%97%B6%E9%97%B4%E3%80%82%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%AE%9E%E6%97%B6%E7%9A%84%E8%AE%BE%E5%A4%87%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%82+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [MCP](MCP.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
+[LLM](LLM.md), [MCP](MCP.md), [代码](代码.md), [发布](发布.md), [型](型.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md), [语言模型](语言模型.md)
 ___
 ##### 2025-05-05 10:07:58 UTC ~ 独立开花卓富贵
 > RT @fuguizhuo: 用了鸿蒙 Next 两周后，我觉得未来几年内华为都跟我无缘了。软件生态差的太远了，差不多是iPhone5 时期 iOS 和安卓生态的差距。我举个例子：在去哪儿上面订酒店，地图上的位置没有县级的信息。第三方地图 sdk…
@@ -1997,7 +1997,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%87%BA%E7%81%A319%E5%AE%B6IT%E4%BC%81%E6%A5%AD4%E6%9C%88%E7%87%9F%E6%94%B6%E5%A2%9E19%25%EF%BC%8CAI%E7%9B%B8%E9%97%9C%E5%BC%B7%E5%8B%81%E3%80%91%E9%9B%BB%E5%AD%90%E8%A8%AD%E5%82%99%E7%9A%84%E4%BB%A3%E5%B7%A5%E6%9C%8D%E5%8B%99%EF%BC%88EMS%EF%BC%89%E5%A4%A7%E5%BB%A0%E5%9B%A0%E6%B6%89%E7%8D%B5%E7%9A%84%E7%94%A2%E5%93%81%E4%B8%8D%E5%90%8C%E8%80%8C%E5%87%BA%E7%8F%BE%E6%A5%AD%E7%B8%BE%E5%88%86%E5%8C%96%E3%80%82%E7%94%A2%E5%93%81%E7%AF%84%E5%9C%8D%E5%BB%A3%E6%B3%9B%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BC%81%E6%A5%AD%E9%B4%BB%E6%B5%B7%E7%B2%BE%E5%AF%86%E5%B7%A5%E6%A5%AD%E5%A2%9E%E6%94%B619%25%EF%BC%9B%E5%9C%A8AI%E7%94%A8%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%94%9F%E7%94%A2%E6%96%B9%E9%9D%A2%E6%9C%89%E5%84%AA%E5%8B%A2%E7%9A%84%E5%BB%A3%E9%81%94%E9%9B%BB%E8%85%A6%E5%A2%9E%E6%94%B625%25%EF%BC%9B%E4%BB%A5iPhone%E4%BB%A3%E5%B7%A5%E7%82%BA%E4%B8%BB%E6%A5%AD%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[伺服器](伺服器.md), [強勁](強勁.md), [精密](精密.md), [臺灣](臺灣.md)
+[伺服器](伺服器.md), [強勁](強勁.md), [營收](營收.md), [精密](精密.md), [臺灣](臺灣.md)
 ___
 ##### 2024-05-18 19:08:07 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果（#Apple）日前发布iOS 17.5版本更新，未料有 #iPhone 使用者反映，多年前删除的照片出现在 #iCloud 当中。 https://t.co/8171CbiYWp https://t.co/NehpfKsPKS

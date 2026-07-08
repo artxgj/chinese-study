@@ -92,6 +92,7 @@
 | [任天堂](../hanzi-cards/任天堂.md) | Nintendo | NTDOY/NTDOF | 83 |
 | [日产](../hanzi-cards/日产.md) | Nissan | NSANY | 119 |
 | [英伟达](../hanzi-cards/英伟达.md)/[英偉達](../hanzi-cards/英偉達.md) | Nvidia | NVDA | 971 |
+| [輝達](../hanzi-cards/輝達.md) | Nvidia (Taiwan name) | NVDA | 6 |
 | [荷兰恩智浦半导体](../hanzi-cards/荷兰恩智浦半导体.md) | NXP Semiconductors | NXPI | 1 |
 | [甲骨文](../hanzi-cards/甲骨文.md) | Oracle | ORCL | 59 |
 | [华侨银行](../hanzi-cards/华侨银行.md) | OCBC Bank | OVCHY | 17 |

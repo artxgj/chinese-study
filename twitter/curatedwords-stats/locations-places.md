@@ -52,14 +52,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [闽](../hanzi-cards/闽.md)/[閩](../hanzi-cards/閩.md) | bân (Min in Mandarin), short name for Fujian Province |
 | [闽南](../hanzi-cards/闽南.md)/[閩南](../hanzi-cards/閩南.md) | bân-lâm (Minnan in Mandarin);Southern Fujian |
 | [厦金](../hanzi-cards/厦金.md)/[廈金](../hanzi-cards/廈金.md) | Xiamen-Kinmen |
+| [深圳](../hanzi-cards/深圳.md) | Shenzhen |
 | [港珠澳](../hanzi-cards/港珠澳.md) | Hong Kong-Zhuhai-Macau Bridge |
 | [杭州](../hanzi-cards/杭州.md) | Hangzhou |
 | [苏州](../hanzi-cards/苏州.md)/[蘇州](../hanzi-cards/蘇州.md) | Suzhou |
 | [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |
 | [南京](../hanzi-cards/南京.md) | Nanjing |
+| [沈阳](../hanzi-cards/沈阳.md)/[瀋陽](../hanzi-cards/瀋陽.md) | Shenyang |
 | [大连](../hanzi-cards/大连.md)/[大連](../hanzi-cards/大連.md) | Dalian |
 | [哈尔滨](../hanzi-cards/哈尔滨.md)/[哈爾濱](../hanzi-cards/哈爾濱.md) | Harbin |
-| [深圳](../hanzi-cards/深圳.md) | Shenzhen |
 | [敦煌](../hanzi-cards/敦煌.md) | Dunhuang |
 | [玉門關](../hanzi-cards/玉門關.md) | Yumen Pass |
 | [西安](../hanzi-cards/西安.md) | Xi'an |

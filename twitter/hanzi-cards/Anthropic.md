@@ -360,7 +360,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E5%8F%91%E5%B8%83%E6%96%B0%E7%A0%94%E7%A9%B6%EF%BC%9A%E8%BF%BD%E8%B8%AA%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%80%9D%E7%BB%B4%E8%BF%87%E7%A8%8BAnthropic%E5%BC%80%E5%8F%91%E4%BA%86%E4%B8%80%E7%A7%8D%E2%80%9C%E6%98%BE%E5%BE%AE%E9%95%9C%E2%80%9D%E6%9D%A5%E6%A3%80%E6%9F%A5+AI+%E6%A8%A1%E5%9E%8B%E5%86%85%E9%83%A8%E5%8F%91%E7%94%9F%E7%9A%84%E4%BA%8B%E6%83%85%EF%BC%8C%E5%B9%B6%E5%88%A9%E7%94%A8%E5%AE%83%E6%9D%A5%E7%90%86%E8%A7%A3+Claude%EF%BC%88%E5%85%B6%E5%86%85%E9%83%A8%E6%9C%BA%E5%88%B6%E5%BE%80%E5%BE%80%E5%A4%8D%E6%9D%82%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%83%8A%E8%AE%B6%EF%BC%89%E3%80%82%E4%BB%A5%E4%B8%8B%E5%8E%9F%E6%96%87+https%3A%2F%2Ft.co%2Fv8HkYF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [发布](发布.md), [型](型.md), [大型语言模型](大型语言模型.md), [开发](开发.md), [惊讶](惊讶.md), [检查](检查.md), [模型](模型.md)
+[Claude](Claude.md), [发布](发布.md), [型](型.md), [开发](开发.md), [惊讶](惊讶.md), [检查](检查.md), [模型](模型.md), [语言模型](语言模型.md)
 ___
 ##### 2025-03-16 23:35:24 UTC ~ AIGCLINK
 > RT @aigclink: Anthropic将推出一个叫Harmony的新功能，这个功能支持将本地文件目录集成到Claude的上下文中这意味着Claude能直接读取、索引、分析目录中的文件内容，与你的本地文件无缝交互以前，你得手动把代码给Claude，现在，直接让它看…

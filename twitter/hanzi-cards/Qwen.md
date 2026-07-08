@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md)
+[DeepSeek](DeepSeek.md), [型](型.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md), [語言模型](語言模型.md)
 ___
 ##### 2026-01-19 01:51:05 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【阿里巴巴AI「千問」接入網購業務】只需對Qwen説「點兩杯拿鐵」，Qwen便會通過淘寶閃購選擇用戶所在地附近的咖啡店完成下單……https://t.co/JaeoEM7P6g
@@ -173,7 +173,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E9%98%BF%E9%87%8C%E5%88%9A%E5%88%9A%E6%94%BE%E5%87%BA%E4%BA%86%E6%9C%80%E6%96%B0%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AQwen2.5-VL-32B-Instruct%EF%BC%8C%E8%A7%86%E8%A7%89%E6%80%A7%E8%83%BD%E8%B6%85%E8%BF%87%E4%BA%86Mistral-Small-3.1-24B%E5%92%8CGemma-3-27B-IT%E7%9B%B8%E6%AF%94%E4%B9%8B%E5%89%8DQwen2.5-VL%E7%B3%BB%E5%88%97%EF%BC%8C%E8%AF%A532B%E7%89%B9%E7%82%B9%EF%BC%9A%E5%9B%9E%E5%A4%8D%E6%9B%B4%E7%AC%A6%E5%90%88%E4%BA%BA%E7%B1%BB%E4%B8%BB%E8%A7%82%E5%81%8F%E5%A5%BD%EF%BC%8C%E5%9B%9E%E7%AD%94%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemma](Gemma.md), [型](型.md), [模型](模型.md), [系列](系列.md), [超过](超过.md)
+[Gemma](Gemma.md), [型](型.md), [模型](模型.md), [系列](系列.md), [语言模型](语言模型.md), [超过](超过.md)
 ___
 ##### 2025-03-23 04:20:54 UTC ~ karminski-牙医
 > RT @karminski3: 千问好像还要发一个Qwen2.5-Omni-7B 模型，这是一个端到端的多模态模型，支持文本，图片，音频，视频作为输入，输出支持文本和语音。看代码是使用了双路径生成，即文本和音频何以同时生成，内置了两种声音 Cherry （女声）， Etha…
@@ -229,7 +229,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E4%B8%80%E4%B8%AA%E7%A8%B3%E5%AE%9A%E6%9C%89%E8%89%AF%E5%A5%BD%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E7%9A%84R1%E9%A3%8E%E6%A0%BC%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AVLM-R1%EF%BC%8C%E6%8A%8ADeepSeek%E7%9A%84R1%E6%96%B9%E6%B3%95%E7%94%A8%E5%88%B0%E4%BA%86%E8%A7%86%E8%A7%89%E4%B8%8A%E6%A8%A1%E5%9E%8B%E4%B8%8A%EF%BC%8C%E5%A2%9E%E5%BC%BA%E4%BA%86%E6%A8%A1%E5%9E%8B%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E5%9F%BA%E4%BA%8EQwen2.5-VL+%E6%9E%84%E5%BB%BA%EF%BC%8C%E8%83%BD%E5%90%8C%E6%97%B6%E5%A4%84%E7%90%86%E5%9B%BE%E5%83%8F%E5%92%8C%E6%96%87%E6%9C%AC%E8%BE%93%E5%85%A5%EF%BC%8C%E7%89%B9%E5%88%AB%E5%BC%BA%E5%8C%96%E4%BA%86%E5%AF%B9%E5%9B%BE%E5%83%8F%E4%B8%AD%E7%89%B9%E5%AE%9A%E7%9B%AE%E6%A0%87%E7%9A%84%E5%AE%9A%E4%BD%8D%E8%83%BD%E5%8A%9B%E6%93%85%E9%95%BF%E6%8C%87%E4%BB%A3%E8%A1%A8%E8%BE%BE%E7%B1%BB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md), [稳定](稳定.md)
+[DeepSeek](DeepSeek.md), [型](型.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md), [稳定](稳定.md), [语言模型](语言模型.md)
 ___
 ##### 2025-01-29 16:25:54 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国阿里云在大年初一发布通义千问旗舰版模型Qwen2.5-Max，并称在指令模型版本性能测试中，几乎全面超越深度求索DeepSeek-V3等其他模型。 https://t.co/Q1J0uNYbWB

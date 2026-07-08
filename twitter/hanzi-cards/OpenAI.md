@@ -789,7 +789,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E6%AD%A3%E5%9C%A8%E9%99%8D%E4%BD%8E%E5%AF%B9%E5%85%B6%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A2%84%E6%9C%9F%EF%BC%8C%E5%B9%B6%E5%B0%86%E9%87%8D%E7%82%B9%E6%94%BE%E5%9C%A8%E4%B8%80%E7%A7%8D%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%96%B9%E6%B3%95%E4%B8%8A%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%9C%AA%E6%9D%A5%E6%9B%B4%E6%96%B0ChatGPT%E8%83%8C%E5%90%8E%E7%9A%84%E6%8A%80%E6%9C%AF%E3%80%82OpenAI%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B0%86%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%91%A8%E5%86%85%E5%85%88%E5%8F%91%E5%B8%83GPT-4.5%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%87%A0%E4%B8%AA%E6%9C%88%E5%86%85%E5%8F%91%E5%B8%83GPT-5%E3%80%82https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [大语言模型](大语言模型.md), [执行](执行.md), [技术](技术.md), [模型](模型.md), [用于](用于.md), [降低](降低.md), [预期](预期.md), [首席执行官](首席执行官.md)
+[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [型](型.md), [执行](执行.md), [技术](技术.md), [模型](模型.md), [用于](用于.md), [语言模型](语言模型.md), [降低](降低.md), [预期](预期.md), [首席执行官](首席执行官.md)
 ___
 ##### 2025-02-13 05:15:42 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【日本AI研究第一人這樣評價Deepseek】東京大學教授 松尾豐：DeepSeek的技術很出色，性能與美國OpenAI接近。DeepSeek的出現對日本的初創企業來説也是一種鼓舞。（關於安全風險）根據使用方式的不同，風險也不同，這點不管…
@@ -985,7 +985,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E5%8F%91%E5%B8%83%E4%B8%80%E6%AC%BE%E4%BB%B7%E6%A0%BC%E4%BD%8E%E5%BB%89%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8BDeepSeek-R1%EF%BC%8C%E5%85%B6%E6%80%A7%E8%83%BD%E6%AF%94%E6%8B%9F%E7%BE%8E%E5%9B%BDOpenAI%E5%BC%80%E5%8F%91%E7%9A%84%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8Bo1%EF%BC%8C%E4%BD%86%E8%AE%AD%E7%BB%83%E6%88%90%E6%9C%AC%E6%9B%B4%E4%BD%8E%E3%80%82+https%3A%2F%2Ft.co%2FQLIjvqKnl7)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [价格](价格.md), [低廉](低廉.md), [发布](发布.md), [型](型.md), [大语言模型](大语言模型.md), [开发](开发.md), [成本](成本.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md)
+[DeepSeek](DeepSeek.md), [价格](价格.md), [低廉](低廉.md), [发布](发布.md), [型](型.md), [开发](开发.md), [成本](成本.md), [模型](模型.md), [深度求索](深度求索.md), [美国](美国.md), [语言模型](语言模型.md)
 ___
 ##### 2025-01-24 05:25:29 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国总统特朗普21日宣布，将由OpenAI、甲骨文和软银三大科技公司共同投资成立新的AI公司“星际之门”（Stargate），总投资额达到5000亿美元。此举引起全球关注，尤其是被排除在外的全球首富马斯克随后在社交媒体上与OpenAI执行长奥…
@@ -1622,7 +1622,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Meta+%E5%AE%A3%E5%B8%83%E5%BC%80%E6%BA%90%E4%B8%8B%E4%B8%80%E4%BB%A3%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B+%E2%80%9CLlama+2%E2%80%9D%EF%BC%8C%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E5%95%86%E4%B8%9A%E5%92%8C%E7%A0%94%E7%A9%B6%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%B8%8E+OpenAI+%E7%9A%84+GPT-4+%E5%B1%95%E5%BC%80%E6%AD%A3%E9%9D%A2%E7%AB%9E%E4%BA%89%E3%80%82https%3A%2F%2Ft.co%2F38FcOdIhd6+https%3A%2F%2Ft.co%2FM6BcM3acpg)
 ##### Other Words/Names of Interest in the Above Tweet
-[型](型.md), [大型语言模型](大型语言模型.md), [开源](开源.md), [提供](提供.md), [模型](模型.md), [竞争](竞争.md)
+[型](型.md), [开源](开源.md), [提供](提供.md), [模型](模型.md), [竞争](竞争.md), [语言模型](语言模型.md)
 ___
 ##### 2023-07-15 05:15:09 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国联邦贸易委员会（FTC）近日针对微软资助的OpenAI公司旗下人工智慧（AI）聊天机器人ChatGPT释出有关个人的误导性假资讯展开调查。 https://t.co/pZtjuKo671 https://t.co/1TRbwwZYQ6
@@ -1636,7 +1636,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%9B%BD%E5%96%9C%E5%89%A7%E6%BC%94%E5%91%98%E5%B8%AD%E4%BD%9B%E6%9B%BC%EF%BC%88Sarah+Silverman%EF%BC%89%E4%B8%8E%E4%B8%A4%E5%90%8D%E4%BD%9C%E5%AE%B6%EF%BC%8C%E5%90%91%E8%84%B8%E4%B9%A6%E6%AF%8D%E5%85%AC%E5%8F%B8Meta%E4%B8%8EAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAChatGPT%E5%BC%80%E5%8F%91%E5%95%86OpenAI%E6%8F%90%E5%87%BA%E4%BE%B5%E6%9D%83%E8%AF%89%E8%AE%BC%EF%BC%8C%E6%8C%87%E7%A7%B0%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E6%9C%AA%E7%BB%8F%E5%90%8C%E6%84%8F%E4%BE%BF%E5%88%A9%E7%94%A8%E5%85%B6%E7%9D%80%E4%BD%9C%E6%9D%A5%E8%AE%AD%E7%BB%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%88AI%EF%BC%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E3%80%82+https%3A%2F%2Ft.co%2F1bz%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [型](型.md), [开发](开发.md), [提出](提出.md), [机器人](机器人.md), [模型](模型.md), [聊天](聊天.md), [诉讼](诉讼.md)
+[人工](人工.md), [型](型.md), [开发](开发.md), [提出](提出.md), [机器人](机器人.md), [模型](模型.md), [聊天](聊天.md), [诉讼](诉讼.md), [语言模型](语言模型.md)
 ___
 ##### 2023-07-06 08:54:31 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: AI聊天工具ChatGPT的开发商OpenAI警告，超级人工智能或在10年内出现，并导致人类毁灭！https://t.co/aQG2HVIZpW https://t.co/4Otv8WXjq8
@@ -1685,7 +1685,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%91%A8%E4%B8%80%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%BF%99%E5%AE%B6%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E6%96%B0%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E6%AC%BE%E7%94%9F%E6%88%90%E5%BC%8F%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%A7%B0%E8%BF%99%E6%AC%BE%E6%A8%A1%E5%9E%8B%E5%B0%86%E6%AF%94%E8%82%A9ChatGPT%E6%8A%80%E6%9C%AF%E3%80%82%E6%B7%B1%E5%9C%B3%E4%B8%8A%E5%B8%82%E7%9A%84%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E8%82%A1%E7%A5%A8%E8%A7%A6%E5%8F%8A10%25%E6%B6%A8%E5%81%9C%E6%9D%BF%EF%BC%8C%E5%B9%B4%E5%86%85%E6%B6%A8%E5%B9%85%E8%BE%BE95%25%EF%BC%8C%E6%AD%A4%E5%89%8D%E7%94%B1OpenAI%E5%BC%80%E5%8F%91%E7%9A%84ChatGPT%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%95%E5%8F%91%E7%83%AD%E6%BD%AE%EF%BC%8C%E4%B8%AD%E5%9B%BDAI%E7%9B%B8%E5%85%B3%E8%82%A1%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [机器人](机器人.md), [模型](模型.md), [涨幅](涨幅.md), [深圳](深圳.md), [热潮](热潮.md), [相关](相关.md), [聊天](聊天.md), [股份](股份.md)
+[发布](发布.md), [型](型.md), [开发](开发.md), [引发](引发.md), [技术](技术.md), [机器人](机器人.md), [模型](模型.md), [涨幅](涨幅.md), [深圳](深圳.md), [热潮](热潮.md), [相关](相关.md), [聊天](聊天.md), [股份](股份.md), [语言模型](语言模型.md)
 ___
 ##### 2023-05-08 04:36:21 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #更新 OpenAI在去年11月下旬发布的ChatGPT引发了一场新的全球人工智能竞赛。这款聊天机器人是新一波所谓生成式AI浪潮的一部分。它已经震动了大型科技公司，并势将颠覆众多行业和未来工作。政府对ChatGPT这样的工具作何反应？AI会抢人类…

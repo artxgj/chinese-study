@@ -76,6 +76,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [肉粽](../hanzi-cards/肉粽.md) | glutinous rice dumpling filled with meat, eaten during Dragon Boat Festival |
 | [腊八节](../hanzi-cards/腊八节.md)/[臘八節](../hanzi-cards/臘八節.md) | Laba Rice Porridge Festival, on the 8th day of the 12th Lunar month |
 | [七夕节](../hanzi-cards/七夕节.md)/[七夕節](../hanzi-cards/七夕節.md) | Qixi Festival, Chinese-equivalent of Valentine's Day |
+## History
+|  |  |
+| ----- | :---: |
+| [七七事变](../hanzi-cards/七七事变.md) | July 7 Incident/Lugou Bridge Incident/Marco Polo Bridge Incident |
+| [九一八事变](../hanzi-cards/九一八事变.md)/[九一八事變](../hanzi-cards/九一八事變.md) | September 18 Incident |
 ## Idioms
 |  |  |
 | ----- | :---: |
