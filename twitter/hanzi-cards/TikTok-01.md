@@ -223,7 +223,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%B6%8A%E5%8D%97%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E5%E6%9C%88%E5%BC%80%E5%A7%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8TikTok%E5%B1%95%E5%BC%80%E2%80%9C%E5%85%A8%E9%9D%A2%E8%B0%83%E6%9F%A5%E2%80%9D%EF%BC%8C%E4%BB%A5%E7%A1%AE%E4%BF%9D%E5%B9%B3%E5%8F%B0%E9%81%B5%E5%AE%88%E5%86%85%E5%AE%B9%E7%AE%A1%E7%90%86%E3%80%81%E7%A8%8E%E5%8A%A1%E5%92%8C%E5%95%86%E4%B8%9A%E6%94%BF%E7%AD%96%E6%96%B9%E9%9D%A2%E7%9A%84%E8%A7%84%E5%AE%9A%E3%80%82https%3A%2F%2Ft.co%2FpHlBaxH5PA)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [政策](政策.md), [确保](确保.md), [税](税.md), [调查](调查.md)
+[平台](平台.md), [政策](政策.md), [确保](确保.md), [税](税.md), [调查](调查.md), [越南](越南.md)
 ___
 ##### 2023-04-05 06:57:35 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 从权力政治的气势来看，#TikTok 命运堪虞，但从网络的气场来看，#周受资 却赢得同情与支持。他成为维护1亿5000万美国人言论自由的孤胆英雄，是力抗强权的网络先锋。#亚洲周刊专区 https://t.co/k1k1vXaOkB htt…

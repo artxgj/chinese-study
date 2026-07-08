@@ -107,7 +107,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [以色列](../hanzi-cards/以色列.md) | Israel |
 | [布基纳法索](../hanzi-cards/布基纳法索.md) | Burkina Faso |
 | [撒哈拉](../hanzi-cards/撒哈拉.md) | Sahara |
-| [秘鲁](../hanzi-cards/秘鲁.md) | Peru |
+| [秘鲁](../hanzi-cards/秘鲁.md)/[秘魯](../hanzi-cards/秘魯.md) | Peru |
+| [委内瑞拉](../hanzi-cards/委内瑞拉.md)/[委內瑞拉](../hanzi-cards/委內瑞拉.md) | Venezuela |
 | [加拉帕戈斯群岛](../hanzi-cards/加拉帕戈斯群岛.md) | Galapagos Islands |
 | [古巴](../hanzi-cards/古巴.md) | Cuba |
 | [加利福尼亚](../hanzi-cards/加利福尼亚.md)/[加利福尼亞](../hanzi-cards/加利福尼亞.md) | California |

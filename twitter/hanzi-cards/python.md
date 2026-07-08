@@ -38,7 +38,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40hemashushu%3A+%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E7%BA%AF+C+%E5%86%99%E7%9A%84+FNN+%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB%EF%BC%88MNIST%EF%BC%89%E7%A8%8B%E5%BA%8F%EF%BC%8C%E6%97%A0%E4%BB%BB%E4%BD%95%E4%BE%9D%E8%B5%96%E5%BA%93%EF%BC%8CCPU+%E8%AE%A1%E7%AE%97%E7%B2%BE%E5%BA%A6%E8%BE%BE+99%25%E3%80%82%E4%BB%A3%E7%A0%81%E5%86%99%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E6%98%93%E6%87%82%E3%80%82%E6%83%B3%E4%BA%86%E8%A7%A3%E5%85%B6%E5%8E%9F%E7%90%86%E7%9A%84%E8%AF%9D%E5%8F%AF%E4%BB%A5%E7%9C%8B%E3%80%8A%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8+%E5%9F%BA%E4%BA%8Epython%E7%9A%84%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E7%8E%B0%E3%80%8Bby+%E6%96%8E%E8%97%A4%E5%BA%B7%E6%AF%85+%E7%9A%84%E5%89%8D4%E7%AB%A0%EF%BC%8C%E5%AE%83%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%AE%B2%E8%A7%A3%E7%9A%84%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [依赖](依赖.md), [实现](实现.md), [毅](毅.md), [程序](程序.md), [精度](精度.md)
+[代码](代码.md), [依赖](依赖.md), [实现](实现.md), [程序](程序.md), [精度](精度.md)
 ___
 ##### 2025-03-12 07:21:02 UTC ~ karminski-牙医
 > RT @karminski3: 看到个开源 AI 工作流平台 Manifold 这个使用 Vue+go+python开发。官方提供了docker镜像部署。可以使用OpenAI兼容接口，以及本地的llama.cpp和mlx等。另外它还支持 PGVector作为向量数据库进行一…

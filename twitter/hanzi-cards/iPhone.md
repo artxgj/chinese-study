@@ -2081,7 +2081,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E5%9C%A8%E6%9D%B1%E5%8D%97%E4%BA%9E%E6%93%B4%E5%A4%A7%E4%BE%9B%E6%87%89%E9%8F%88%EF%BC%8C%E5%88%86%E6%95%A3%E9%A2%A8%E9%9A%AA%E3%80%91%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8CEO%E5%BA%AB%E5%85%8B4%E6%9C%8817%E6%97%A5%E8%A8%AA%E5%95%8F%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9E%EF%BC%8C%E9%8C%B6%E7%A4%BA%E8%80%83%E6%85%AE%E5%9C%A8%E7%95%B6%E5%9C%B0%E9%80%B2%E8%A1%8C%E7%94%9F%E7%94%A2%E3%80%82%E6%AD%A4%E5%89%8D%E5%BA%AB%E5%85%8B%E9%82%84%E8%A8%AA%E5%95%8F%E4%BA%86%E8%B6%8A%E5%8D%97%EF%BC%8C%E9%8C%B6%E7%A4%BA%E6%93%B4%E5%A4%A7%E5%B0%8D%E7%94%9F%E7%94%A2%E5%9F%BA%E5%9C%B0%E7%9A%84%E6%8A%95%E8%B3%87%E3%80%82%E8%98%8B%E6%9E%9C%E4%B9%9F%E4%B8%8D%E6%96%B7%E6%93%B4%E5%A4%A7%E5%B0%8D%E5%8D%B0%E5%BA%A6%E7%9A%84%E6%8A%95%E8%B3%87%E3%80%82iPhone%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9E%E6%89%80%E4%BD%94%E7%9A%84%E4%BB%BD%E9%A1%8D%E7%82%BA12%EF%BC%85%EF%BC%8C%E5%8F%AA%E6%8E%92%E5%9C%A8%E7%AC%AC%E4%BA%94%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[供應鏈](供應鏈.md), [印度](印度.md), [東南亞](東南亞.md), [蘋果](蘋果.md)
+[供應鏈](供應鏈.md), [印度](印度.md), [東南亞](東南亞.md), [蘋果](蘋果.md), [越南](越南.md)
 ___
 ##### 2024-04-15 03:59:12 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 根据市场追踪机构IDC，苹果iPhone出货量今年第一季度减少近10%，智能手机行业整体反弹时iPhone销售却在下降。https://t.co/Q3YNt0U3Tp https://t.co/MVFepy4IWx

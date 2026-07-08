@@ -565,7 +565,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E5%8D%87%E7%B4%9AR1%EF%BC%8C%E7%A8%B1%E6%80%A7%E8%83%BD%E3%80%8C%E6%8E%A5%E8%BF%91OpenAI%E3%80%8D%E3%80%91%E6%AD%A4%E6%AC%A1%E5%8D%87%E7%B4%9A%E7%9A%84R1%E5%9C%A8%E8%A7%A3%E7%AD%94%E5%9C%8B%E9%9A%9B%E5%A5%A7%E6%95%B8%E7%BE%8E%E5%9C%8B%E9%A0%90%E9%81%B8%E8%B3%BD%E7%9A%842025%E5%B9%B4%E5%95%8F%E9%A1%8C%E6%99%82%EF%BC%8C%E6%AD%A3%E7%A2%BA%E7%8E%87%E9%81%94%E5%88%B087.5%25%EF%BC%8C%E6%AF%94%E4%BB%A5%E5%89%8D%E7%9A%8470%25%E6%9C%89%E6%89%80%E6%8F%90%E9%AB%98%E3%80%82%E5%9C%A8%E5%90%8C%E4%B8%80%E6%B8%AC%E8%A9%A6%E4%B8%AD%EF%BC%8COpenAI%E6%96%BC4%E6%9C%88%E9%96%8B%E5%A7%8B%E6%8F%90%E4%BE%9B%E7%9A%84%E6%9C%80%E6%96%B0%E7%9A%84%E9%82%8F%E8%BC%AF%E6%80%9D%E8%80%83%E6%A8%A1%E5%9E%8B%E3%80%8Co3%E3%80%8D%E7%9A%84%E6%AD%A3%E7%A2%BA%E7%8E%87%E7%82%BA%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [型](型.md), [提供](提供.md), [提高](提高.md), [模型](模型.md), [美國](美國.md)
+[DeepSeek](DeepSeek.md), [型](型.md), [提供](提供.md), [提高](提高.md), [模型](模型.md), [美國](美國.md), [邏輯](邏輯.md)
 ___
 ##### 2025-05-29 23:50:39 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 在AI模型性能排行榜LiveCodeBench上，DeepSeek的最新产品在代码生成能力方面仅次于OpenAI的o4mini和o3推理模型。DeepSeek此次最新发布紧随阿里巴巴和百度的AI模型更新之后，这加剧了中国AI行业的竞争。htt…

@@ -7,7 +7,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [陶瓷](../hanzi-cards/陶瓷.md) | ceramics; porcelein |
-| [逻辑](../hanzi-cards/逻辑.md) | logic |
+| [逻辑](../hanzi-cards/逻辑.md)/[邏輯](../hanzi-cards/邏輯.md) | logic |
 | [三维](../hanzi-cards/三维.md) | three-dimensional |
 | [零部件](../hanzi-cards/零部件.md) | parts and components |
 | [机床](../hanzi-cards/机床.md) | machine tools |
@@ -395,7 +395,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [赚钱](../hanzi-cards/赚钱.md) | make money |
 | [打印机](../hanzi-cards/打印机.md) | printer |
 | [盼](../hanzi-cards/盼.md) | to hope for; to long for; to expect |
-| [毅](../hanzi-cards/毅.md) | firm; resolute; staunch |
 | [肖](../hanzi-cards/肖.md) | similar; resembling; to resemble;  to be like; [regional] to be born in the year of (one of the twelve animals) |
 | [迎新送旧](../hanzi-cards/迎新送旧.md) | welcome in the new and send off the old |
 | [兜风](../hanzi-cards/兜风.md) | catch the wind; go for a drive, ride or sail; go for a spin |

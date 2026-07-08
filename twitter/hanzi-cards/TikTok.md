@@ -1483,7 +1483,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+TikTok%E5%9C%A8%E8%B6%8A%E5%8D%97%E5%8A%BF%E5%A4%B4%E6%AD%A3%E6%97%BA%EF%BC%8C%E6%97%97%E4%B8%8B%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%8E%BB%E5%B9%B4%E5%8D%96%E5%AE%B6%E6%95%B0%E3%80%81%E5%B9%B3%E5%9D%87%E8%90%A5%E4%B8%9A%E9%A2%9D%E5%8F%8C%E5%8F%8C%E5%A2%9E%E5%8A%A02%E5%80%8D%EF%BC%8C%E5%89%8D%E6%99%AF%E5%A4%A7%E5%A5%BD%E3%80%82https%3A%2F%2Ft.co%2FgAm1NL1LdK+https%3A%2F%2Ft.co%2FCWCwMZlOKk)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [电商](电商.md)
+[平台](平台.md), [电商](电商.md), [越南](越南.md)
 ___
 ##### 2024-04-02 06:16:41 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国要求中国互联网巨头字节跳动在六个月内剥离旗下短视频平台TikTok、否则它将在美国面临禁令的法案，要在国会通关成为正式法律估计要等上一段时间，至少会拖到今年11月5日美国总统选举过后。https://t.co/6ePUX18OKg
