@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40yetone%3A+%E9%85%8D%E7%BD%AE+Windows+11+%E6%88%90%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E7%9A%84%E6%97%B6%E5%80%99%E6%80%BB%E4%BC%9A%E6%88%96%E5%A4%9A%E6%88%96%E5%B0%91%E9%81%87%E5%88%B0%E8%BF%99%E4%BA%9B%E5%9D%91%EF%BC%8C%E5%A6%82%E6%9E%9C%E4%BD%A0%E9%81%87%E5%88%B0%E8%BF%87+PowerToys+%E6%98%A0%E5%B0%84%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE%E8%8E%AB%E5%90%8D%E5%85%B6%E5%A6%99%E5%B0%B1%E4%BC%9A%E5%A4%B1%E6%95%88%EF%BC%8C%E8%AF%B7%E7%9C%8B%E4%B8%80%E4%B8%8B%E8%BF%99%E6%9D%A1%E8%8D%92%E8%B0%AC%E7%9A%84%E6%8E%A8%E6%96%87)
 ##### Other Words/Names of Interest in the Above Tweet
-[坑](坑.md), [生产](生产.md)
+[生产](生产.md)
 ___
 ##### 2025-06-11 18:09:27 UTC ~ 
 > RT @unixzii: #WWDC25 从 Mac OS X 用静态位图实现水晶效果的 Aqua，到 Windows Vista 用实时模糊 + 位图高光和反射实现玻璃效果的 Windows Aero，再到现在 Apple 用 SDF 实时计算边缘实现玻璃折射效果的 Liqu…
@@ -185,7 +185,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%8A%E5%91%A8%E4%BA%94%E7%9A%84%E8%93%9D%E5%B1%8F%E5%87%B8%E6%98%BE%E5%87%BAWindows%E7%B3%BB%E7%BB%9F%E5%9B%BA%E6%9C%89%E7%9A%84%E4%B8%80%E4%B8%AA%E7%89%B9%E7%82%B9%E3%80%82%E8%AF%A5%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%BC%80%E6%94%BE%E5%BC%8F%E8%AE%BE%E8%AE%A1%E4%BD%BF%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%8F%AF%E4%BB%A5%E8%87%AA%E7%94%B1%E8%AE%BE%E8%AE%A1%E5%8A%9F%E8%83%BD%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BF%99%E4%BA%9B%E8%BD%AF%E4%BB%B6%E5%8F%AF%E4%BB%A5%E4%B8%8E%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E8%A1%8C%E6%B7%B1%E5%B1%82%E6%AC%A1%E7%9A%84%E4%BA%A4%E4%BA%92%E3%80%82%E4%BD%86%E4%B8%80%E6%97%A6%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%EF%BC%8C%E7%BB%93%E6%9E%9C%E5%8F%AF%E8%83%BD%E6%98%AF%E7%81%BE%E9%9A%BE%E6%80%A7%E7%9A%84%E3%80%82https%3A%2F%2Ft.co%2FyxuezrtXpd+https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[屏](屏.md), [开发](开发.md), [操作](操作.md), [灾难](灾难.md), [系统](系统.md), [设计](设计.md), [进行](进行.md)
+[开发](开发.md), [操作](操作.md), [灾难](灾难.md), [系统](系统.md), [设计](设计.md), [进行](进行.md)
 ___
 ##### 2024-07-20 06:17:58 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 微软Windows操作系统故障导致全球大范围宕机后，香港国际机场运作星期六（7月20日）已全面恢复。https://t.co/D63S6GHo9P
@@ -255,7 +255,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%BE%AE%E8%BD%AF%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B0%86%E6%94%BE%E6%85%A2%E4%B8%BA%E5%BC%80%E5%8F%91Windows%E3%80%81Office%E5%92%8CTeams%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84%E8%BD%AF%E4%BB%B6%E4%B8%9A%E5%8A%A1%E9%83%A8%E9%97%A8%E6%8B%9B%E8%81%98%E4%BA%BA%E5%91%98%E7%9A%84%E9%80%9F%E5%BA%A6%E3%80%82%E8%BF%99%E4%BD%BF%E5%BE%AE%E8%BD%AF%E6%88%90%E4%B8%BA%E6%9C%80%E6%96%B0%E4%B8%80%E5%AE%B6%E5%9C%A8%E6%8B%9B%E5%8B%9F%E5%91%98%E5%B7%A5%E6%96%B9%E9%9D%A2%E5%8F%98%E5%BE%97%E6%9B%B4%E5%8A%A0%E8%B0%A8%E6%85%8E%E7%9A%84%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E3%80%82https%3A%2F%2Ft.co%2F6IqeWHPpXY)
 ##### Other Words/Names of Interest in the Above Tweet
-[巨头](巨头.md), [开发](开发.md), [微软](微软.md), [招](招.md), [招募](招募.md), [招聘](招聘.md), [科技](科技.md), [程序](程序.md), [谨慎](谨慎.md), [速度](速度.md)
+[巨头](巨头.md), [开发](开发.md), [微软](微软.md), [招募](招募.md), [招聘](招聘.md), [科技](科技.md), [程序](程序.md), [谨慎](谨慎.md), [速度](速度.md)
 ___
 ##### 2022-01-04 02:26:24 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【丰田将对外销售自主车载操作系统】丰田正在开发车载操作系统“Arene”，可以说是Windows及iOS等的汽车版。Arene能够统一管理汽车加速和安全控制功能等，最早2025年实现实用化。丰田力争实现“平台”效应，掌握操作系统的行业标准…

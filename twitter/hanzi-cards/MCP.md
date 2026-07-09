@@ -47,7 +47,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%9C%8B%E5%88%B0%E4%B8%AA+go+%E5%86%99%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9A%84+MCP+Server%E2%80%94%E2%80%94mcp-filesystem-server%E9%80%9A%E8%BF%87%E8%BF%99%E4%B8%AAMCP%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%93%8D%E4%BD%9C%E6%9C%AC%E5%9C%B0%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E4%BA%86%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%BF%99%E4%B8%AA%E6%98%AFgo%E7%BC%96%E5%86%99%E7%9A%84%EF%BC%8Cgo%E8%83%BD%E4%BA%A4%E5%8F%89%E7%BC%96%E8%AF%91%E7%9A%84%E6%9E%B6%E6%9E%84%E7%89%B9%E5%88%AB%E5%A4%9A%EF%BC%8C%E6%89%80%E4%BB%A5%E7%90%86%E8%AE%BA%E4%B8%8A%E5%A4%A7%E9%83%A8%E5%88%86%E7%B3%BB%E7%BB%9F%E9%83%BD%E8%83%BD%E8%BF%90%E8%A1%8C%E8%BF%99%E4%B8%AAMCP+Server%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[叉](叉.md), [操作](操作.md), [文件](文件.md), [系统](系统.md)
+[操作](操作.md), [文件](文件.md), [系统](系统.md)
 ___
 ##### 2025-05-20 10:23:35 UTC ~ karminski-牙医
 > RT @karminski3: 从微软的发布会看， windows 也前面拥抱 MCP了，windows 的画图，文件系统，照片，WSL（linux 子系统）都能开启MCP选项。 https://t.co/GaTnH7DJKn
@@ -397,7 +397,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nishuang%3A+%E6%88%91%E5%9B%9E%E6%83%B3%E4%BA%86%E4%B8%80%E4%B8%8B%EF%BC%8C%E8%83%BD%E5%BC%95%E5%8F%91%E5%85%A8%E4%BA%BA%E7%B1%BB%E4%B8%80%E8%B5%B7%E5%88%B7%E5%B1%8F%E7%9A%84+AI%EF%BC%8C%E5%9F%BA%E6%9C%AC%E4%B8%8A%E9%83%BD%E6%9D%A5%E8%87%AA+ChatGPT%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%94%A8%E6%88%B7%E8%BE%BE%E5%88%B0%E6%BB%A1%E8%B6%B3%E7%9A%84%E8%B7%AF%E5%BE%84%E9%9D%9E%E5%B8%B8%E7%9F%AD%EF%BC%8C%E6%89%93%E5%BC%80%E3%80%81%E4%B8%80%E5%8F%A5%E8%AF%9D%E5%87%BA%E7%BB%93%E6%9E%9C%E3%80%81%E9%AB%98%E6%BD%AE%E3%80%81%E5%88%86%E4%BA%AB%E5%88%B0%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E3%80%81%E6%8C%81%E7%BB%AD%E9%AB%98%E6%BD%AE%E4%B8%80%E5%A4%A9%E5%B0%96%E5%8F%AB%E4%B8%80%E5%A4%A9%E6%AC%B2%E4%BB%99%E6%AC%B2%E6%AD%BB%E4%B8%80%E5%A4%A9%F0%9F%98%82MCP+%E9%82%A3%E4%BA%9B%E5%8F%AA%E8%83%BD%E8%A7%A6%E5%8F%8A%E5%B0%91%E6%95%B0%E4%BA%BA%EF%BC%8C%E8%B7%AF%E5%BE%84%E4%B9%9F%E5%A4%AA%E9%95%BF+https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[屏](屏.md), [引发](引发.md), [持续](持续.md), [来自](来自.md), [社交媒体](社交媒体.md)
+[引发](引发.md), [持续](持续.md), [来自](来自.md), [社交媒体](社交媒体.md)
 ___
 ##### 2025-03-28 07:35:39 UTC ~ 
 > RT @YinsenHe: 在地图上两个地点中间找位置的需求，过去十年没有找到最佳的解决方案。在今天 Cherry Studio+DeepSeek V3 0324 + 高德 MCP server 完美解决，堪称神迹！虽然很多人说 MCP 还是极客玩物，但我觉得未来一两年，MCP…

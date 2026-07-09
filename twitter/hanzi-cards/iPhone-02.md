@@ -34,7 +34,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%23%E4%BB%98%E8%B4%B9%E7%B2%BE%E9%80%89%E3%80%90iPhone%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4%E5%90%8EFacebook%E7%AD%89%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%8D%9F%E5%A4%B1%E8%BF%91%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%91%E8%8B%B9%E6%9E%9C%E9%9A%90%E7%A7%81%E6%96%B0%E8%A7%84%E8%BF%AB%E4%BD%BF%E5%BA%94%E7%94%A8%E9%9C%80%E5%BE%81%E6%B1%82%E7%94%A8%E6%88%B7%E8%AE%B8%E5%8F%AF%E6%89%8D%E8%83%BD%E8%B7%9F%E8%B8%AA%E4%BB%A5%E8%BF%9B%E8%A1%8C%E5%B9%BF%E5%91%8A%E5%AE%9A%E4%BD%8D%EF%BC%8C%E8%BF%99%E5%AF%BC%E8%87%B4Snap%E3%80%81Facebook%E3%80%81Twitter%E5%92%8CYouTube%E7%AD%89%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E5%8F%97%E5%88%B0%E5%BE%88%E5%A4%A7%E5%86%B2%E5%87%BB%E3%80%82https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[冲击](冲击.md), [导致](导致.md), [平台](平台.md), [损](损.md), [损失](损失.md), [政策](政策.md), [社交媒体](社交媒体.md), [苹果](苹果.md), [进行](进行.md), [隐私](隐私.md)
+[冲击](冲击.md), [导致](导致.md), [平台](平台.md), [损失](损失.md), [政策](政策.md), [社交媒体](社交媒体.md), [苹果](苹果.md), [进行](进行.md), [隐私](隐私.md)
 ___
 ##### 2021-10-29 05:50:53 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司周四公布了创纪录的年终业绩，该公司财年利润接近1,000亿美元。一些投资者认为，苹果公司2022财年会比较艰难，理由前几年iPhone热销使业绩超出正常水平之后也是如此。但另一些人则认为，5G带来的动力将源源不断。https://t.co…
@@ -69,7 +69,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%9C%8B%E6%87%82%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88%E4%B8%8A%EF%BC%89iPhone%E8%8A%AF%E7%89%87%E7%BB%95%E5%9C%B0%E7%90%83%E5%8D%8A%E5%9C%88%E3%80%91%E8%8B%B1%E5%9B%BDARM%E5%BC%80%E5%8F%91%E5%90%8D%E4%B8%BAIP%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%94%B5%E8%B7%AF%E7%9A%84%E5%9F%BA%E7%A1%80%E8%AE%BE%E8%AE%A1%E6%95%B0%E6%8D%AE%E3%80%82%E8%8B%B9%E6%9E%9C%E4%BB%A5%E8%B4%AD%E4%B9%B0%E7%9A%84IP%E7%AD%89%E4%B8%BA%E5%9F%BA%E7%A1%80%EF%BC%8C%E4%B8%80%E8%BE%B9%E5%BC%BA%E5%8C%96%E5%92%8C%E5%AE%9A%E5%88%B6%E5%8A%9F%E8%83%BD%E7%AD%89%EF%BC%8C%E4%B8%80%E8%BE%B9%E5%BC%80%E5%8F%91%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%8C%E8%AF%B7%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%BB%A3%E4%B8%BA%E7%94%9F%E4%BA%A7%E8%8A%AF%E7%89%87%E3%80%82+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9C%89400%EF%BD%9E600%E4%B8%AA%E5%88%B6%E9%80%A0%E5%B7%A5%E5%BA%8F%EF%BC%8C%E5%9C%A8%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87%E9%A2%86%E5%9F%9F%EF%BC%8C%E6%97%A5%E6%9C%AC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[半导体](半导体.md), [台积电](台积电.md), [圈](圈.md), [开发](开发.md), [数据](数据.md), [日本](日本.md), [生产](生产.md), [芯片](芯片.md), [苹果](苹果.md), [设计](设计.md), [购买](购买.md), [领域](领域.md)
+[半导体](半导体.md), [台积电](台积电.md), [开发](开发.md), [数据](数据.md), [日本](日本.md), [生产](生产.md), [芯片](芯片.md), [苹果](苹果.md), [设计](设计.md), [购买](购买.md), [领域](领域.md)
 ___
 ##### 2021-10-17 06:16:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 韩国女团BLACKPINK过去曾为三星担任手机代言人，但随着合约到期成员们也各自换上惯用的手机，日前成员Jisoo于最新贴文中，以iPhone 13 Pro镜前自拍，并于贴文写下“哇终于换了”等内容，却被韩网指责“韩国人不用国货就是不爱国”等…
@@ -160,7 +160,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%A7%86%E9%A2%91+iPhone+13+Mini%E5%92%8CiPhone+13%E5%9C%A8%E7%BB%AD%E8%88%AA%E6%97%B6%E9%97%B4%E5%92%8C%E6%8B%8D%E7%85%A7%E5%8A%9F%E8%83%BD%E4%B8%8A%E6%9C%89%E8%BE%83%E5%A4%A7%E6%8F%90%E5%8D%87%EF%BC%9BiPhone+13+Pro%E5%92%8CPro+Max%E5%9C%A8%E6%91%84%E5%83%8F%E5%A4%B4%E3%80%81%E7%94%B5%E6%B1%A0%E5%8D%87%E7%BA%A7%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%B1%8F%E6%9B%B4%E4%BA%AE%EF%BC%8C%E5%88%B7%E6%96%B0%E7%8E%87%E6%9B%B4%E9%AB%98%EF%BC%9B%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8Series+7%E5%B1%8F%E5%B9%95%E5%8F%98%E5%A4%A7%EF%BC%8C%E8%BF%98%E5%8F%B7%E7%A7%B0%E7%89%B9%E5%88%AB%E8%80%90%E7%94%A8%E3%80%82%E3%80%8A%E5%8D%8E%E5%B0%94%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[升级](升级.md), [屏](屏.md), [屏幕](屏幕.md), [摄像头](摄像头.md), [显示](显示.md), [电池](电池.md)
+[升级](升级.md), [屏幕](屏幕.md), [摄像头](摄像头.md), [显示](显示.md), [电池](电池.md)
 ___
 ##### 2021-09-15 05:35:38 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 经历了几周的媒体风暴之后，库克走上虚拟舞台，试图让人们重新关注苹果公司成功的关键驱动因素：iPhone。然而，一些投资者担心，该公司的股价被高估了，与去年备受期待的新款iPhone相比，这次iPhone 13变化不那么显著，可能不会带来同样水平的…
@@ -265,7 +265,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%9C%A8%E5%91%A8%E4%B8%89%E5%85%AC%E5%B8%83%E7%9A%84%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%A7%B0%EF%BC%8C%E5%85%81%E8%AE%B8%E7%94%A8%E6%88%B7%E5%9C%A8%E4%B8%8D%E4%BD%BF%E7%94%A8%E8%8B%B9%E6%9E%9CApp+Store%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E7%9B%B4%E6%8E%A5%E5%B0%86%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E4%B8%8B%E8%BD%BD%E5%88%B0iPhone%E4%B8%8A%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BD%BF%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E5%8F%97%E5%88%B0%E5%8B%92%E7%B4%A2%E8%BD%AF%E4%BB%B6%E6%94%BB%E5%87%BB%EF%BC%8C%E4%BB%8E%E8%80%8C%E6%8D%9F%E5%AE%B3%E7%94%A8%E6%88%B7%E7%9A%84%E5%88%A9%E7%9B%8A%E3%80%82%E4%B8%8E%E6%AD%A4%E5%90%8C%E6%97%B6%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%AC%A7%E6%B4%B2%E7%9B%91%E7%AE%A1%E9%83%BD%E5%9C%A8%E9%80%9A%E8%BF%87%E7%AB%8B%E6%B3%95%E4%B8%BA%E7%BB%95%E8%BF%87App+Store%E4%B8%8B%E8%BD%BD%E8%BD%AF%E4%BB%B6%E6%89%93%E5%BC%80%E5%A4%A7%E9%97%A8%E3%80%82http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[允许](允许.md), [情况](情况.md), [损](损.md), [数据](数据.md), [监管](监管.md), [直接](直接.md), [程序](程序.md), [美国](美国.md), [苹果](苹果.md)
+[允许](允许.md), [情况](情况.md), [数据](数据.md), [监管](监管.md), [直接](直接.md), [程序](程序.md), [美国](美国.md), [苹果](苹果.md)
 ___
 ##### 2021-06-23 06:50:24 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【链接——拆解iPhone12、大疆无人机、华为……】通过拆解查看各种设备的内部情况，可以看到技术人员在控制成本的同时实现高功能、以及零部件配置等各方面的苦心，也可以看到各国在电子零部件领域的优劣……https://t.co/x6A1XN…
@@ -314,7 +314,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5+%E2%80%94%E2%80%94%E6%8B%86%E8%A7%A3iPhone12%EF%BC%9A%E9%9F%A9%E5%9B%BD%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8D%A0%E6%AF%94%E6%8F%90%E5%8D%87%E3%80%91%E6%8B%86%E8%A7%A3%E5%90%8E%E6%8E%A8%E7%AE%97iPhone12%E7%9A%84%E6%88%90%E6%9C%AC%E4%BB%B7%E4%B8%BA373%E7%BE%8E%E5%85%83%EF%BC%8C%E6%8C%89%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E9%9F%A9%E4%BC%81%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8D%A027.3%EF%BC%85%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%8D%A013.2%EF%BC%85%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%B8%8D%E5%88%B05%25%E3%80%82iPhone12%E5%85%A8%E9%9D%A2%E9%87%87%E7%94%A8%E4%BB%B7%E6%A0%BC%E8%BE%83%E9%AB%98%E7%9A%84OLED%E5%B1%8F%EF%BC%8C%E9%9F%A9%E4%BC%81%E7%9A%84%E4%BE%9B%E8%B4%A7%E5%A2%9E%E5%8A%A0%E3%80%82%E6%97%A5%E4%BC%81%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [供货](供货.md), [屏](屏.md), [成本](成本.md), [拆解](拆解.md), [推算](推算.md), [日本](日本.md), [零部件](零部件.md), [韩国](韩国.md)
+[价格](价格.md), [供货](供货.md), [成本](成本.md), [拆解](拆解.md), [推算](推算.md), [日本](日本.md), [零部件](零部件.md), [韩国](韩国.md)
 ___
 ##### 2021-06-04 04:42:26 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【中国大陆企业排在苹果供货商的首位】日本经济新闻分析苹果披露的2020年供货商名单显示，中国大陆（包括香港）企业在200家中占51家，首次超过台湾。但拆解“iPhone12”的结果显示，在金额方面中国大陆仅占4.7％……https://t…
@@ -328,7 +328,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E6%94%AF%E6%92%91%E7%9D%80%E5%A4%8F%E6%99%AE%E4%B8%9A%E7%BB%A9%E3%80%91%E2%80%8B%E5%A4%8F%E6%99%AE%E9%A2%84%E8%AE%A1%E5%90%88%E5%B9%B6%E5%87%80%E5%88%A9%E6%B6%A6%E5%B0%86%E6%AF%94%E4%B8%8A%E8%B4%A2%E5%B9%B4%E5%A2%9E%E5%8A%A043%EF%BC%85%EF%BC%8C%E4%B8%9A%E7%BB%A9%E8%B6%8B%E4%BA%8E%E5%A5%BD%E8%BD%AC%E3%80%822021%E5%B9%B4%E5%A4%8F%E6%99%AE%E5%90%91%E8%8B%B9%E6%9E%9CiPhone%E4%BE%9B%E5%BA%94%E7%9A%84%E6%B6%B2%E6%99%B6%E6%98%BE%E7%A4%BA%E5%B1%8F%E9%A2%84%E8%AE%A1%E6%AF%942020%E5%B9%B4%E5%A2%9E%E5%8A%A011%EF%BC%85%EF%BC%8C%E4%B8%8E%E8%8B%B9%E6%9E%9C%E5%8A%A0%E6%B7%B1%E5%90%88%E4%BD%9C%E5%85%B3%E7%B3%BB%E8%B5%B7%E5%88%B0%E4%BA%86%E6%8B%89%E5%8A%A8%E4%BD%9C%E7%94%A8%EF%BC%8C%E4%BD%86%E6%88%96%E8%AE%B8%E4%B8%8D%E8%83%BD%E9%95%BF%E4%B9%85%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FPF7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[业绩](业绩.md), [净利润](净利润.md), [利润](利润.md), [夏普](夏普.md), [屏](屏.md), [显示](显示.md), [液晶](液晶.md), [苹果](苹果.md), [预计](预计.md)
+[业绩](业绩.md), [净利润](净利润.md), [利润](利润.md), [夏普](夏普.md), [显示](显示.md), [液晶](液晶.md), [苹果](苹果.md), [预计](预计.md)
 ___
 ##### 2021-05-02 07:26:19 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: iPhone 12系列的昂贵机型受到了欢迎，本季度Mac电脑和iPad的收入也因企业员工居家办公和学生在家上网课的强劲需求而上升，当季利润为236亿美元，收入增长54%至896亿美元，远远超出华尔街的预期。苹果本财年的利润和收入也有望创下纪录。该…
@@ -384,7 +384,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%B0%86%E5%87%8F%E4%BA%A7iPhone12+mini%E3%80%91iPhone12+mini%E6%9C%BA%E5%9E%8B%E5%9C%A8%E8%8B%B9%E6%9E%9C2020%E5%B9%B4%E7%A7%8B%E5%AD%A3%E4%B8%8A%E5%B8%82%E7%9A%844%E6%AC%BEiPhone%E4%B8%AD%E5%B1%8F%E5%B9%95%E6%9C%80%E5%B0%8F%E3%80%81%E7%94%B5%E6%B1%A0%E5%AE%B9%E9%87%8F%E4%B9%9F%E6%9C%80%E5%B0%8F%EF%BC%8C%E5%85%B6%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E4%BD%8E%E4%BA%8E%E9%A2%84%E6%9C%9F%E3%80%82iPhone12+Pro+%E4%BB%A5%E5%8F%8AiPhone12+Pro+Max%E7%AD%89%E5%85%B6%E4%BB%96%E6%9C%BA%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[屏](屏.md), [屏幕](屏幕.md), [电池](电池.md), [苹果](苹果.md), [需求](需求.md), [预期](预期.md)
+[屏幕](屏幕.md), [电池](电池.md), [苹果](苹果.md), [需求](需求.md), [预期](预期.md)
 ___
 ##### 2021-03-15 05:52:42 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【摘】2021年上半年的iPhone整体生产计划现调整为7500万部左右，比2020年12月时的预估减少约2成，而其中影响最大的为iPhone12 mini。一部分零部件厂商已被苹果要求暂停生产该机型专用的零部件……https://t.c…
@@ -433,7 +433,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5+%E2%80%94%E2%80%94%E6%8B%86%E8%A7%A3iPhone12%EF%BC%9A%E9%9F%A9%E5%9B%BD%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8D%A0%E6%AF%94%E6%8F%90%E5%8D%87%E3%80%91%E6%8B%86%E8%A7%A3%E5%90%8E%E6%8E%A8%E7%AE%97iPhone12%E7%9A%84%E6%88%90%E6%9C%AC%E4%BB%B7%E4%B8%BA373%E7%BE%8E%E5%85%83%EF%BC%8C%E6%8C%89%E4%BB%B7%E6%A0%BC%E8%AE%A1%E7%AE%97%E9%9F%A9%E4%BC%81%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%8D%A027.3%EF%BC%85%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%8D%A013.2%EF%BC%85%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%B8%8D%E5%88%B05%25%E3%80%82iPhone12%E5%85%A8%E9%9D%A2%E9%87%87%E7%94%A8%E4%BB%B7%E6%A0%BC%E8%BE%83%E9%AB%98%E7%9A%84OLED%E5%B1%8F%EF%BC%8C%E9%9F%A9%E4%BC%81%E7%9A%84%E4%BE%9B%E8%B4%A7%E5%A2%9E%E5%8A%A0%E3%80%82%E6%97%A5%E4%BC%81%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [供货](供货.md), [屏](屏.md), [成本](成本.md), [拆解](拆解.md), [推算](推算.md), [日本](日本.md), [零部件](零部件.md), [韩国](韩国.md)
+[价格](价格.md), [供货](供货.md), [成本](成本.md), [拆解](拆解.md), [推算](推算.md), [日本](日本.md), [零部件](零部件.md), [韩国](韩国.md)
 ___
 ##### 2021-02-19 06:10:19 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【摘】台湾企业垄断苹果智能手机iPhone的生产，而且在半导体代工领域占全球的6成以上，服务器生产接近9成，个人电脑生产占8成以上，iPad达到9成……https://t.co/xLLG3172iL

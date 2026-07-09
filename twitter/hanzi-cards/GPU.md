@@ -285,7 +285,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+DeepSeek%E7%A1%AC%E6%A0%B8%EF%BC%81%E6%98%A8%E5%A4%A9DeepSeek%E7%9A%84FlashMLA%E5%88%9A%E5%9C%A8H800%E4%B8%8A%E6%8A%8A%E6%80%A7%E8%83%BD%E6%A6%A8%E5%B9%B2%EF%BC%8CGitHub+Star%E4%B8%80%E5%A4%A9%E7%A0%B48.2k%E3%80%82https%3A%2F%2Ft.co%2Fvj2yBAtMVv%E4%BB%8A%E5%A4%A9%E4%BB%96%E4%BB%AC%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%EF%BC%8C%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%AADeepEP%EF%BC%8CGPU%E6%80%A7%E8%83%BD%E5%86%8D%E8%A2%AB%E6%8B%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [开源](开源.md), [招](招.md)
+[DeepSeek](DeepSeek.md), [开源](开源.md)
 ___
 ##### 2025-02-25 06:55:41 UTC ~ 
 > RT @myfxtrader: DeepSeek“开源周”第二天，介绍DeepEP——首个为混合专家模型（MoE）模型训练和推理设计的开源EP通信库，支持NVLink和RDMA确保高带宽通信；支持FP8降低计算成本；高吞吐量和低延迟内核分别优化训练和推理阶段；重叠机制提升GPU…
@@ -327,7 +327,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%E7%BA%AF%E8%A7%86%E8%A7%89%E7%9A%84+GPU+%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%9AOmniParser+2.0+%E7%89%88%E6%9C%AC%E3%80%82%E5%AE%83%E8%83%BD%E5%A4%9F%E5%B0%86%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%E8%BD%AC%E5%8C%96%E4%B8%BA+LLM+%E5%8F%AF%E8%AF%BB%E6%87%82%E7%9A%84%E7%BB%93%E6%9E%84%E5%8C%96%E5%85%83%E7%B4%A0%EF%BC%8C%E6%8F%90%E9%AB%98%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%86%E5%88%AB%E5%87%86%E7%A1%AE%E5%BA%A6%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FnIBIa3ZqqT%E6%94%AF%E6%8C%81%E4%B8%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [发布](发布.md), [屏](屏.md), [屏幕](屏幕.md), [微软](微软.md), [提高](提高.md), [支持](支持.md), [模型](模型.md)
+[LLM](LLM.md), [发布](发布.md), [屏幕](屏幕.md), [微软](微软.md), [提高](提高.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-02-15 04:52:51 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 英伟达让 Deepseek R1 编写 GPU 内核结果 R1 写的内核比英伟达熟练工程师的还好 ！他们使用的方法也很简单：1️⃣DeepSeek-R1 生成初始 GPU 内核代码2️⃣验证器（H100）分析生成的内核并提供反馈3️⃣将其…

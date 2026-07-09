@@ -89,7 +89,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E8%B7%9F%E5%A4%A7%E5%AE%B6%E6%8E%A8%E8%8D%90+GitHub+%E4%B8%8A%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+macOS+%E7%B3%BB%E7%BB%9F%E6%8F%90%E4%BE%9B%E9%AB%98%E6%95%88%E6%88%AA%E5%B1%8F%E5%92%8C+AI+%E5%88%86%E6%9E%90%E5%8A%9F%E8%83%BD%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9APeekaboo%E3%80%82%E4%B8%8D%E4%BB%85%E8%83%BD%E5%BF%AB%E9%80%9F%E6%88%AA%E5%8F%96%E5%B1%8F%E5%B9%95%E3%80%81%E5%BA%94%E7%94%A8%E6%88%96%E7%89%B9%E5%AE%9A%E7%AA%97%E5%8F%A3%EF%BC%8C%E8%BF%98%E8%83%BD%E4%BD%BF%E7%94%A8+GPT-4+Vision%E3%80%81Claude+%E6%88%96%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C+AI+%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[mac](mac.md), [不仅](不仅.md), [分析](分析.md), [屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
+[mac](mac.md), [不仅](不仅.md), [分析](分析.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
 ___
 ##### 2025-07-12 04:39:57 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 如果我们平时都是直接让 ChatGPT、Claude 这些 AI 助手帮忙调试代码或解决 Bug，而不是使用 Cursor 等付费 AI 编程助手。那么 gptree 这个开源项目可以看一下，它能一键将整个项目的文件内容和目录结构打包成单…

@@ -103,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%B5%8B%E8%AF%95%E7%AB%8B%E5%88%BB%E5%87%BA%E9%97%AE%E9%A2%98%E4%BA%86%E5%95%8A%EF%BC%8CGrok+4+%E6%80%9D%E8%80%83%E6%97%B6%E9%97%B4%E7%89%B9%E5%88%AB%E9%95%BF%2C+%E5%87%A0%E4%B9%8E%E6%8E%A5%E8%BF%91%E4%B9%8B%E5%89%8D%E7%96%AF%E7%8B%82%E6%80%9D%E8%80%83%E6%9D%A5%E5%88%B7%E5%88%86%E7%9A%84+Qwen-qwq+%E4%BA%86%EF%BC%8C%E4%B8%80%E4%B8%AA20%E5%B0%8F%E7%90%83%E7%9A%84%E7%BC%96%E7%A8%8B%E9%97%AE%E9%A2%986%E5%88%86%E9%92%9F.......++%E4%BD%86%E4%BA%BA%E5%AE%B6+Qwen3+%E5%B7%B2%E7%BB%8F%E6%8A%8A%E8%BF%99%E4%B8%AA%E6%83%85%E5%86%B5%E4%BC%98%E5%8C%96%E4%BA%86%2C+%E4%BD%A0+Grok+4+%E6%80%8E%E4%B9%88%E8%B5%B0%E5%89%8D%E4%BB%BB%E8%B5%B0%E8%BF%87%E7%9A%84%E8%B7%AF%E8%BF%98%E6%8E%89%E5%9D%91%E4%BA%86%E5%91%A2%EF%BC%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[优化](优化.md), [坑](坑.md), [情况](情况.md), [疯狂](疯狂.md)
+[优化](优化.md), [情况](情况.md), [疯狂](疯狂.md)
 ___
 ##### 2025-05-30 04:30:28 UTC ~ karminski-牙医
 > RT @karminski3: 给大家解析一下 DeepSeek-R1-0528 的官方放出的评测数据。目前 DeepSeek-R1-0528 毫无疑问是开源模型第一了, Qwen3-235B-A22B 在热座上仅座了一个月[苦涩].… https://t.co/ciYZxhH…
@@ -208,7 +208,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%98%A8%E5%A4%A9+Manus+%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B9%8B%E4%B8%80+Peak+%E5%AD%A3%E9%80%B8%E8%B6%85%E9%80%8F%E9%9C%B2+Manus+%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%98%AF+Cluade+%E5%92%8C%E4%BB%96%E4%BB%AC%E5%BE%AE%E8%B0%83%E7%9A%84+Qwen+%E6%A8%A1%E5%9E%8B%E3%80%82%E6%9C%80%E8%BF%91%E5%87%BA%E5%9C%88%E7%9A%84%E5%87%A0%E4%B8%AA+AI+%E6%A8%A1%E5%9E%8B%E5%92%8C%E4%BA%A7%E5%93%81%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89+Qwen+%E7%9A%84%E5%BD%B1%E5%AD%90%EF%BC%9A%E6%AF%94%E5%A6%82+Deepseek+R1+%E8%87%AA%E5%B7%B1%E7%94%A8%E6%9D%A5%E5%AE%9E%E9%AA%8C%E6%8E%A8%E7%90%86%E8%92%B8%E9%A6%8F%E7%9A%84%E4%B8%BB%E8%A6%81%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Manus](Manus.md), [圈](圈.md), [推理](推理.md), [模型](模型.md), [蒸馏](蒸馏.md), [透露](透露.md)
+[Manus](Manus.md), [推理](推理.md), [模型](模型.md), [蒸馏](蒸馏.md), [透露](透露.md)
 ___
 ##### 2025-03-06 06:37:07 UTC ~ karminski-牙医
 > RT @karminski3: Qwen-QwQ-32B 发布了哈！官方测试数据跟 DeepSeek-R1 不相上下。那么究竟性能如何？我已经正在测试了！稍后放出 BF16，8bit量化，4bit量化的测试结果，敬请期待！目前来看，如果4bit量化效果好，那么妥妥是单机…

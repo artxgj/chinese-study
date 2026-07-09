@@ -222,7 +222,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40hylarucoder%3A+%E8%B0%B7%E6%AD%8C+Gemini+%E6%B7%B1%E5%BA%A6%E6%90%9C%E7%B4%A2%E5%A6%99%E6%8B%9B%E5%AF%B9%E4%BD%A0%E6%84%9F%E5%85%B4%E8%B6%A3%E7%9A%84%E9%A2%86%E5%9F%9F%E8%B0%83%E7%A0%94%2C+%E6%8A%8A%E3%80%8C%E5%BC%95%E7%94%A8%E7%BB%93%E6%9E%9C%E7%9A%84%E6%A0%87%E9%A2%98%E3%80%8D%E6%8B%BF%E8%BF%87%E6%9D%A5%E5%88%86%E6%9E%90%2C+%E8%BF%99%E4%BA%9B%E6%A0%87%E9%A2%98%E9%83%BD%E6%98%AF%E3%80%8C%E7%BB%8F%E8%BF%87+Google+%E8%AE%A4%E8%AF%81%E7%9A%84%E5%A5%BD%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98%E3%80%8D%E6%A0%87%E9%A2%98%E6%80%8E%E4%B9%88%E5%8F%82%E8%80%83%E6%80%8E%E4%B9%88%E5%86%99%2C+%E5%AD%A6%E4%BC%9A%E4%BA%86%E5%90%97%3F%F0%9F%A7%90+https%3A%2F%2Ft.co%2FIrC887GCRM)
 ##### Other Words/Names of Interest in the Above Tweet
-[兴趣](兴趣.md), [分析](分析.md), [参考](参考.md), [招](招.md), [搜索](搜索.md), [谷歌](谷歌.md), [领域](领域.md)
+[兴趣](兴趣.md), [分析](分析.md), [参考](参考.md), [搜索](搜索.md), [谷歌](谷歌.md), [领域](领域.md)
 ___
 ##### 2025-03-19 08:01:17 UTC ~ 
 > RT @imxiaohu: Google最近有点疯啊疯狂发货Gemini 也推出了Canvas 功能现在你可以：⌨️ 你可以直接在 Canvas 里写 React 或 HTML 代码，并实时预览运行效果。📝 用它来起草、修改、优化文章或报告。🎨 构建交互…
@@ -278,7 +278,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40jesselaunz%3A+Gemini%E5%8F%91%E5%B8%83%E4%BA%86%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E6%83%B3%E8%A6%81%E7%9A%84%E6%9B%B4%E6%96%B0%F0%9F%A5%B0Deep+Research%E7%94%B12.0+Flash+Thinking%E9%A9%B1%E5%8A%A8%E4%BA%86%E3%80%82%E5%8F%AF%E4%BB%A5%E6%98%BE%E7%A4%BA%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%EF%BC%88%E6%88%91%E7%AE%80%E5%8D%95%E5%BD%95%E5%B1%8F%E4%BA%86%E6%AF%8F%E5%A4%A9%E7%9A%84%E5%A4%96%E6%B1%87%E5%88%86%E6%9E%90prompt%EF%BC%89%E3%80%82%E7%9C%8B%E6%9D%A5Google%E6%98%AF%E8%BF%9E%E7%8E%AF%E6%89%93%E5%87%BBOpenAI%E3%80%82%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%E6%9C%AC%E6%9D%A5%E5%9C%A8Advance%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [分析](分析.md), [发布](发布.md), [外汇](外汇.md), [屏](屏.md), [打击](打击.md), [显示](显示.md)
+[OpenAI](OpenAI.md), [分析](分析.md), [发布](发布.md), [外汇](外汇.md), [打击](打击.md), [显示](显示.md)
 ___
 ##### 2025-03-13 05:27:17 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 谷歌 AI Studio 现在可以直接输入 youtube 视频链接我实在想不到还有啥使用 Gemini 应用付费的理由拿 links 的新视频试了一下总结的很好，不只是基于字幕，还能理解画面内容 https://t.co/QkYEl7hGoV
@@ -346,7 +346,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%8E%E5%B0%94%E8%A1%97%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E5%AF%B9%E8%B0%B7%E6%AD%8C%E6%AF%8D%E5%85%AC%E5%8F%B8Alphabet+Inc%E6%8E%A8%E5%87%BA%E7%9A%84%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8BGemini%E9%9B%80%E8%B7%83%E6%97%A0%E6%AF%94%EF%BC%8C%E5%B8%A6%E5%8A%A8Alphabet%E8%82%A1%E4%BB%B7%E5%9C%A8%E9%9A%94%E5%A4%9C%E6%94%80%E9%AB%98%E4%BA%865.31%EF%BC%85%E3%80%82%E5%B8%82%E5%9C%BA%E6%8A%95%E8%B5%84%E8%80%85%E5%B8%8C%E6%9C%9BGemini%E8%83%BD%E5%A4%9F%E5%8D%8F%E5%8A%A9Alphabet%E7%BC%A9%E5%B0%8F%E5%AE%83%E4%B8%8E%E5%BE%AE%E8%BD%AF%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E5%B7%AE%E8%B7%9D%E3%80%82https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [协助](协助.md), [差距](差距.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [推出](推出.md), [攀](攀.md), [模型](模型.md), [谷歌](谷歌.md)
+[人工](人工.md), [人工智能](人工智能.md), [协助](协助.md), [差距](差距.md), [微软](微软.md), [投资](投资.md), [投资者](投资者.md), [推出](推出.md), [模型](模型.md), [谷歌](谷歌.md)
 ___
 ##### 2023-12-07 03:30:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 谷歌表示，该公司开发出了一种比市面上所有人工智能系统都更强大的新系统，连ChatGPT创造者OpenAI开发的技术都要甘拜下风。这款被称做Gemini的强大软件是谷歌展示其人工智能实力的最新尝试。https://t.co/EeZFMwZ9Mr h…

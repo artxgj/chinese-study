@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XinhuaChinese%3A+%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F%EF%BC%81%E6%B9%96%E5%8D%97%E9%82%B5%E9%98%B315%E5%B2%81%E5%B0%91%E5%B9%B4%E7%A1%AC%E6%A0%B8%E6%89%8B%E6%90%93%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%87%BA%E5%9C%88%E3%80%82%E7%BD%91%E5%8F%8B%EF%BC%9A%E6%9C%89%E6%A2%A6%E6%83%B3%E4%B8%80%E5%AE%9A%E8%83%BD%E5%AE%9E%E7%8E%B0%EF%BC%81+https%3A%2F%2Ft.co%2Fq5LLMYh54i)
 ##### Other Words/Names of Interest in the Above Tweet
-[圈](圈.md), [实现](实现.md), [梦想](梦想.md), [湖南](湖南.md)
+[实现](实现.md), [梦想](梦想.md), [湖南](湖南.md)
 ___
 ##### 2025-10-20 10:17:22 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 想从文档中提取结构化数据，大部分 LLM 框架要写一大堆复杂的代码才能实现，增加不少开发难度。最近发现了 ContextGem 这个开源 LLM 框架，只需几行代码就能从文档中提取想要的信息。通过阅读整份文档理解上下文，还能帮我们发现…
@@ -306,7 +306,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E%E7%BA%AF%E8%A7%86%E8%A7%89%E7%9A%84+GPU+%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%9AOmniParser+2.0+%E7%89%88%E6%9C%AC%E3%80%82%E5%AE%83%E8%83%BD%E5%A4%9F%E5%B0%86%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%E8%BD%AC%E5%8C%96%E4%B8%BA+LLM+%E5%8F%AF%E8%AF%BB%E6%87%82%E7%9A%84%E7%BB%93%E6%9E%84%E5%8C%96%E5%85%83%E7%B4%A0%EF%BC%8C%E6%8F%90%E9%AB%98%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%86%E5%88%AB%E5%87%86%E7%A1%AE%E5%BA%A6%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FnIBIa3ZqqT%E6%94%AF%E6%8C%81%E4%B8%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[GPU](GPU.md), [发布](发布.md), [屏](屏.md), [屏幕](屏幕.md), [微软](微软.md), [提高](提高.md), [支持](支持.md), [模型](模型.md)
+[GPU](GPU.md), [发布](发布.md), [屏幕](屏幕.md), [微软](微软.md), [提高](提高.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-02-17 02:12:23 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 一份收集整理了无人机与大语言模型相关的资料集合：UAVs Meet LLMs。包含了关于无人机配置、任务分配、编队控制算法的详细信息，以及大型语言模型、视觉语言模型和分类等内容。GitHub：https://t.co/ATdbs3ez…

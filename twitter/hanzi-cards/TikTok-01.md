@@ -209,14 +209,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%92%88%E5%AF%B9%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%94%BF%E5%BA%9C%E5%A4%84%E4%BA%8E%E5%AE%89%E5%85%A8%E8%80%83%E9%87%8F%EF%BC%8C%E5%86%B3%E5%AE%9A%E6%89%80%E6%9C%89%E8%81%94%E9%82%A6%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E7%A6%81%E7%94%A8TikTok%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E6%BE%B3%E6%96%B9%E6%AD%A4%E4%B8%BE%E6%97%A0%E7%9B%8A%E4%BA%8E%E7%BB%B4%E6%8A%A4%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%EF%BC%8C%E5%B0%86%E6%8D%9F%E5%AE%B3%E6%BE%B3%E5%B7%9E%E4%BC%81%E4%B8%9A%E5%92%8C%E6%B0%91%E4%BC%97%E7%9A%84%E8%87%AA%E8%BA%AB%E5%88%A9%E7%9B%8A%E3%80%82https%3A%2F%2Ft.co%2F6miJSUJBkc+https%3A%2F%2Ft.co%2FnxPrPfyKvn)
 ##### Other Words/Names of Interest in the Above Tweet
-[处于](处于.md), [损](损.md), [此举](此举.md), [澳大利亚](澳大利亚.md), [针对](针对.md)
+[处于](处于.md), [此举](此举.md), [澳大利亚](澳大利亚.md), [针对](针对.md)
 ___
 ##### 2023-04-07 09:41:05 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 中国商务部周五表示，澳大利亚禁止视频共享应用TikTok在政府设备上使用的举措是“歧视性的”，称这将有损国际社会对澳营商环境的信心。 https://t.co/gwJfD0UpPF
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E5%91%A8%E4%BA%94%E8%A1%A8%E7%A4%BA%EF%BC%8C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%A6%81%E6%AD%A2%E8%A7%86%E9%A2%91%E5%85%B1%E4%BA%AB%E5%BA%94%E7%94%A8TikTok%E5%9C%A8%E6%94%BF%E5%BA%9C%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%BE%E6%8E%AA%E6%98%AF%E2%80%9C%E6%AD%A7%E8%A7%86%E6%80%A7%E7%9A%84%E2%80%9D%EF%BC%8C%E7%A7%B0%E8%BF%99%E5%B0%86%E6%9C%89%E6%8D%9F%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%AF%B9%E6%BE%B3%E8%90%A5%E5%95%86%E7%8E%AF%E5%A2%83%E7%9A%84%E4%BF%A1%E5%BF%83%E3%80%82+https%3A%2F%2Ft.co%2FgwJfD0UpPF)
 ##### Other Words/Names of Interest in the Above Tweet
-[举措](举措.md), [共享](共享.md), [损](损.md), [歧视](歧视.md), [澳大利亚](澳大利亚.md), [禁止](禁止.md)
+[举措](举措.md), [共享](共享.md), [歧视](歧视.md), [澳大利亚](澳大利亚.md), [禁止](禁止.md)
 ___
 ##### 2023-04-06 08:56:04 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 越南政府将从5月开始对中国短视频应用TikTok展开“全面调查”，以确保平台遵守内容管理、税务和商业政策方面的规定。https://t.co/pHlBaxH5PA
@@ -608,7 +608,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%A4%E5%90%8D%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E5%9C%A8%E9%83%A8%E5%88%86%E7%BE%8E%E5%9B%BD%E5%AE%98%E5%91%98%E7%9A%84%E5%8F%8D%E5%AF%B9%E5%A3%B0%E6%B5%AA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7%E4%B9%8B%E9%99%85%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E6%8A%96%E9%9F%B3%E6%B5%B7%E5%A4%96%E5%BA%94%E7%94%A8%E7%89%88TikTok%E5%B7%B2%E5%86%BB%E7%BB%93%E4%BA%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%BD%9C%E5%9C%A8%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E7%9A%84%E9%A1%BE%E9%97%AE%E6%8B%9B%E8%81%98%E7%A8%8B%E5%BA%8F%E3%80%82+https%3A%2F%2Ft.co%2F3uYMl5vlXn)
 ##### Other Words/Names of Interest in the Above Tweet
-[冻结](冻结.md), [协议](协议.md), [平台](平台.md), [招](招.md), [招聘](招聘.md), [潜在](潜在.md), [相关](相关.md), [程序](程序.md), [美国](美国.md), [越来越](越来越.md), [透露](透露.md)
+[冻结](冻结.md), [协议](协议.md), [平台](平台.md), [招聘](招聘.md), [潜在](潜在.md), [相关](相关.md), [程序](程序.md), [美国](美国.md), [越来越](越来越.md), [透露](透露.md)
 ___
 ##### 2023-01-05 15:03:49 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 最近几周，美国联邦政府和至少18个州对在政府所有设备上使用TikTok设限，然而，南达科他州的第二大城市却反其道而行。早些时候，拉皮德城议会以8比1的投票结果否决了一项禁止在市属设备和网络上使用TikTok的提案。这项禁令原本还将禁止市政机构使…
@@ -671,14 +671,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+TikTok%E5%B7%B2%E5%8A%A0%E5%BF%AB%E5%B0%86%E4%BA%BA%E5%91%98%E8%B0%83%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8A%AA%E5%8A%9B%EF%BC%8C%E8%AF%95%E5%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB%EF%BC%8C%E4%BD%86%E8%BF%99%E4%B8%AA%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E4%BB%8D%E7%84%B6%E4%BE%9D%E9%9D%A0%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%89%8D%E6%9D%A5%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E5%85%B3%E9%94%AE%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%B9%B6%E7%BB%A7%E7%BB%AD%E5%9C%A8%E5%BD%93%E5%9C%B0%E6%8B%9B%E4%BA%BA%E3%80%82https%3A%2F%2Ft.co%2Fxo5Z9SIZju)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [处理](处理.md), [招](招.md), [试图](试图.md), [距离](距离.md)
+[关键](关键.md), [处理](处理.md), [试图](试图.md), [距离](距离.md)
 ___
 ##### 2022-12-17 07:36:44 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: TikTok正努力与总部设在北京的中国母公司字节跳动保持距离，但这个短视频应用仍然依靠当地人才来处理一些关键功能，并继续在当地招人。https://t.co/2dW3B4goGF
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AD%A3%E5%8A%AA%E5%8A%9B%E4%B8%8E%E6%80%BB%E9%83%A8%E8%AE%BE%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%BF%9D%E6%8C%81%E8%B7%9D%E7%A6%BB%EF%BC%8C%E4%BD%86%E8%BF%99%E4%B8%AA%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E4%BB%8D%E7%84%B6%E4%BE%9D%E9%9D%A0%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%89%8D%E6%9D%A5%E5%A4%84%E7%90%86%E4%B8%80%E4%BA%9B%E5%85%B3%E9%94%AE%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%B9%B6%E7%BB%A7%E7%BB%AD%E5%9C%A8%E5%BD%93%E5%9C%B0%E6%8B%9B%E4%BA%BA%E3%80%82https%3A%2F%2Ft.co%2F2dW3B4goGF)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [北京](北京.md), [处理](处理.md), [字节跳动](字节跳动.md), [招](招.md), [距离](距离.md)
+[关键](关键.md), [北京](北京.md), [处理](处理.md), [字节跳动](字节跳动.md), [距离](距离.md)
 ___
 ##### 2022-12-16 11:19:40 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 美国参议院通过了在政府发放的智能手机和其他设备上禁用TikTok的法案，但该法案在众议院面临着不明朗的未来，即便人们越来越担心这个中国公司拥有的视频应用的安全风险。https://t.co/jJ1wweDkgT
@@ -755,7 +755,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%87%8F%E6%94%AF%E8%BF%B9%E8%B1%A1%E5%9C%A8%E7%A1%85%E8%B0%B7%E6%98%BE%E7%8E%B0%E4%B9%8B%E9%99%85%EF%BC%8CTikTok%E6%AD%A3%E5%9C%A8%E7%BB%A7%E7%BB%AD%E6%8E%A8%E8%BF%9B%E4%B8%80%E5%9C%BA%E4%B8%BA%E6%9C%9F%E4%B8%89%E5%B9%B4%E7%9A%84%E6%8B%9B%E8%81%98%E8%A1%8C%E5%8A%A8%EF%BC%8C%E4%BB%96%E4%BB%AC%E6%97%A9%E5%89%8D%E6%89%BF%E8%AF%BA%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%AD%89%E5%85%A8%E7%90%83%E5%90%84%E5%9C%B0%E5%A2%9E%E5%8A%A0%E7%BA%A63%2C000%E5%90%8D%E5%B7%A5%E7%A8%8B%E5%B8%88%E3%80%82https%3A%2F%2Ft.co%2F3BNsAmXFe0)
 ##### Other Words/Names of Interest in the Above Tweet
-[招](招.md), [招聘](招聘.md), [硅](硅.md), [硅谷](硅谷.md), [美国](美国.md)
+[招聘](招聘.md), [硅](硅.md), [硅谷](硅谷.md), [美国](美国.md)
 ___
 ##### 2022-11-12 06:22:20 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 社交媒体公司TikTok大幅下调广告收入预期表明，这款快速增长的短视频应用也不能幸免于其他社交媒体公司报告的广告行业颓势。该公司CEO说，该公司已将今年的广告收入目标从至少120亿美元下调至100亿美元。https://t.co/lkiaUEKK…
@@ -790,14 +790,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%8D%AE%E4%B8%80%E4%BB%BD%E4%B8%8E%E5%91%98%E5%B7%A5%E5%88%86%E4%BA%AB%E7%9A%84%E8%B4%A2%E5%8A%A1%E6%8A%A5%E5%91%8A%EF%BC%8C%E9%9A%8F%E7%9D%80%E6%96%A5%E5%B7%A8%E8%B5%84%E7%BB%B4%E6%8C%81%E5%BC%BA%E5%8A%B2%E5%A2%9E%E9%95%BF%E5%8A%BF%E5%A4%B4%EF%BC%8CTikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%8E%BB%E5%B9%B4%E7%9A%84%E8%BF%90%E8%90%A5%E4%BA%8F%E6%8D%9F%E5%A2%9E%E8%87%B370%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A6100%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%E4%BB%A5%E4%B8%8A%EF%BC%8C%E6%98%AF%E6%AD%A4%E5%89%8D%E4%B8%80%E5%B9%B4%E7%9A%84%E9%80%BE%E4%B8%89%E5%80%8D%E3%80%82https%3A%2F%2Ft.co%2Fkb70YHCmKB)
 ##### Other Words/Names of Interest in the Above Tweet
-[增长](增长.md), [字节跳动](字节跳动.md), [强劲](强劲.md), [损](损.md), [维持](维持.md), [逾](逾.md), [随着](随着.md)
+[增长](增长.md), [字节跳动](字节跳动.md), [强劲](强劲.md), [维持](维持.md), [逾](逾.md), [随着](随着.md)
 ___
 ##### 2022-10-07 07:11:02 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: TikTok母公司字节跳动的一份与员工分享的财务报告显示，该公司去年的运营亏损增加逾两倍，超过70亿美元，原因是该公司斥重金以保持高速增长。该报告显示，这家公司的收入迅速增长，积累了大量现金和其他投资，但净业绩受到可转换证券上数百亿美元未变现的…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84%E4%B8%80%E4%BB%BD%E4%B8%8E%E5%91%98%E5%B7%A5%E5%88%86%E4%BA%AB%E7%9A%84%E8%B4%A2%E5%8A%A1%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%8E%BB%E5%B9%B4%E7%9A%84%E8%BF%90%E8%90%A5%E4%BA%8F%E6%8D%9F%E5%A2%9E%E5%8A%A0%E9%80%BE%E4%B8%A4%E5%80%8D%EF%BC%8C%E8%B6%85%E8%BF%8770%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%96%A5%E9%87%8D%E9%87%91%E4%BB%A5%E4%BF%9D%E6%8C%81%E9%AB%98%E9%80%9F%E5%A2%9E%E9%95%BF%E3%80%82%E8%AF%A5%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%84%E6%94%B6%E5%85%A5%E8%BF%85%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8C%E7%A7%AF%E7%B4%AF%E4%BA%86%E5%A4%A7%E9%87%8F%E7%8E%B0%E9%87%91%E5%92%8C%E5%85%B6%E4%BB%96%E6%8A%95%E8%B5%84%EF%BC%8C%E4%BD%86%E5%87%80%E4%B8%9A%E7%BB%A9%E5%8F%97%E5%88%B0%E5%8F%AF%E8%BD%AC%E6%8D%A2%E8%AF%81%E5%88%B8%E4%B8%8A%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E6%9C%AA%E5%8F%98%E7%8E%B0%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[业绩](业绩.md), [增长](增长.md), [字节跳动](字节跳动.md), [投资](投资.md), [损](损.md), [收入](收入.md), [显示](显示.md), [超过](超过.md), [转换](转换.md), [迅速](迅速.md), [逾](逾.md)
+[业绩](业绩.md), [增长](增长.md), [字节跳动](字节跳动.md), [投资](投资.md), [收入](收入.md), [显示](显示.md), [超过](超过.md), [转换](转换.md), [迅速](迅速.md), [逾](逾.md)
 ___
 ##### 2022-10-04 19:47:03 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 知情人士表示，与TikTok所有者字节跳动达成的旨在在美中业务之间筑起隔离墙的协议即将敲定，但他们警告称，障碍仍然存在，包括运营方面的挑战和中共政府可能的反对。https://t.co/EzEInvEFBu

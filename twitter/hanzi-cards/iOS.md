@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40RocM301%3A+%E8%8B%B9%E6%9E%9C%E5%9C%A8%E4%B8%BA%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E9%93%BA%E8%B7%AF%EF%BC%8CiOS+27%E5%BC%80%E5%A7%8B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%BB%99%E5%BA%94%E7%94%A8%E8%A1%A5%E6%A8%AA%E5%B1%8F%E6%94%AF%E6%8C%81%E3%80%82Apple+Music%E3%80%81%E6%92%AD%E5%AE%A2%E3%80%81%E5%81%A5%E5%BA%B7%E3%80%81%E5%A4%A9%E6%B0%94%E7%AD%89%E5%8D%81%E5%A4%9A%E6%AC%BE%E5%BA%94%E7%94%A8%E9%83%BD%E5%B7%B2%E9%80%82%E9%85%8D%EF%BC%8C%E4%BF%A1%E6%81%AF%E3%80%81%E5%9C%B0%E5%9B%BE%E7%AD%89%E4%B9%9F%E5%9C%A8%E7%BB%A7%E7%BB%AD%E4%BC%98%E5%8C%96%E3%80%82%E7%81%B5%E5%8A%A8%E5%B2%9B%E7%9A%84%E5%AE%9E%E6%97%B6%E6%B4%BB%E5%8A%A8%E4%B9%9F%E6%94%AF%E6%8C%81%E6%A8%AA%E5%B1%8F%E4%BA%86%EF%BC%8C%E6%98%8E%E6%98%BE%E6%98%AF%E5%9C%A8%E6%8F%90%E5%89%8D%E5%AE%8C%E5%96%84%E5%A4%A7%E5%B1%8F%E6%8A%98%E5%8F%A0%E6%9C%BA%E4%BD%93%E9%AA%8C%E3%80%82+https%3A%2F%2Ft.co%2F7uXU%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [优化](优化.md), [屏](屏.md), [支持](支持.md), [明显](明显.md), [苹果](苹果.md), [规模](规模.md)
+[Apple](Apple.md), [优化](优化.md), [支持](支持.md), [明显](明显.md), [苹果](苹果.md), [规模](规模.md)
 ___
 ##### 2026-06-13 17:29:10 UTC ~ 小鹏Digital
 > RT @RocM301: iOS 27 首个开发者测试版里，iPhone 17 Pro 和 iPhone Air 的新一代 AI 语音听写默认没开。也就是说，刚升级到 beta 版时，用户不会立刻用上这个基于大模型的听写功能。想体验的话，需要手动把它打开。导航到“通用”-&gt;…
@@ -243,7 +243,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E6%8A%A5%E4%B8%9A%E9%9B%86%E5%9B%A2%E5%B0%B1%E5%B9%BF%E5%91%8A%E5%B1%8F%E8%94%BD%E8%AE%A1%E5%88%92%E5%90%91%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%E3%80%91%E8%8B%B1%E5%9B%BD%E5%AA%92%E4%BD%93%E7%A7%B0%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%8B%9F%E5%9C%A8%E4%B8%8B%E6%AC%A1iOS%E6%9B%B4%E6%96%B0%E4%B8%AD%E6%8E%A8%E5%87%BA%E7%9A%84%E2%80%9C%E7%BD%91%E9%A1%B5%E6%A9%A1%E7%9A%AE%E6%93%A6%E2%80%9D%E5%B7%A5%E5%85%B7%E5%A8%81%E8%83%81%E6%96%B0%E9%97%BB%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E5%8F%AF%E6%8C%81%E7%BB%AD%E6%80%A7%E3%80%82https%3A%2F%2Ft.co%2FcCAXl1E7WC)
 ##### Other Words/Names of Interest in the Above Tweet
-[威胁](威胁.md), [屏](屏.md), [工具](工具.md), [持续](持续.md), [推出](推出.md), [苹果](苹果.md), [计划](计划.md)
+[威胁](威胁.md), [工具](工具.md), [持续](持续.md), [推出](推出.md), [苹果](苹果.md), [计划](计划.md)
 ___
 ##### 2024-03-14 05:56:34 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: iPhone的“设置”菜单中蕴藏着许多宝藏，一种启动应用程序和某些iOS功能的新方式就藏在你的手机背面，只需要轻点几下。https://t.co/nnP7T342tk https://t.co/nnP7T342tk
@@ -327,7 +327,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%BA%93%E5%85%8B%E5%91%A8%E4%B8%80%E6%8B%89%E5%BC%80%E5%85%B6%E5%B9%B4%E5%BA%A6%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E7%9A%84%E5%B8%B7%E5%B9%95%E3%80%82%E5%A4%A7%E4%BC%9A%E4%BB%A5%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%89%88iPhone%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FiOS+16%E6%8F%AD%E5%B9%95%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%B0%86%E6%9B%B4%E6%96%B0%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84iMessage%EF%BC%8C%E5%A2%9E%E6%B7%BB%E2%80%9C%E6%92%A4%E9%94%80%E5%8F%91%E9%80%81%E2%80%9D%E5%8A%9F%E8%83%BD%E3%80%82%E5%85%A8%E6%96%B0%E8%AE%BE%E8%AE%A1%E7%9A%8413.6%E8%8B%B1%E5%AF%B8%E5%B1%8F%E5%B9%95%E7%9A%84MacBook+Air%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E8%BD%AE%E5%BB%93%E6%9B%B4%E6%98%8E%E6%98%BE%EF%BC%8CAi%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [iPhone](iPhone.md), [发布](发布.md), [受欢迎](受欢迎.md), [屏](屏.md), [屏幕](屏幕.md), [开发](开发.md), [执行](执行.md), [操作](操作.md), [明显](明显.md), [系统](系统.md), [苹果](苹果.md), [设计](设计.md), [首席执行官](首席执行官.md)
+[Mac](Mac.md), [iPhone](iPhone.md), [发布](发布.md), [受欢迎](受欢迎.md), [屏幕](屏幕.md), [开发](开发.md), [执行](执行.md), [操作](操作.md), [明显](明显.md), [系统](系统.md), [苹果](苹果.md), [设计](设计.md), [首席执行官](首席执行官.md)
 ___
 ##### 2022-02-04 08:11:53 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 对于苹果（Apple）的iOS隐私条例变更，Meta Platforms的面簿（Facebook）到底需要付出多少代价？答案是：100亿美元。https://t.co/32kKEHbXMM

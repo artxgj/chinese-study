@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E4%B8%BA%E4%BB%80%E4%B9%88+Apple+%E7%BB%99+macOS+27+%E4%B9%9F%E5%8A%A0%E4%BA%86%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%EF%BC%9F%E8%BF%99%E4%B8%AA%E4%BA%A4%E4%BA%92%E5%9C%A8+macOS+%E4%B8%8A%E9%9D%9E%E5%B8%B8%E9%9A%BE%E7%94%A8%E5%95%8A%E2%80%A6%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8F%AF%E8%83%BD%EF%BC%9A%E8%A7%A6%E6%91%B8%E5%B1%8F%E7%89%88%E6%9C%AC%E7%9A%84+Mac+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FayhHJ3LumQ)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [Mac](Mac.md), [屏](屏.md), [触摸屏](触摸屏.md)
+[Apple](Apple.md), [Mac](Mac.md), [触摸屏](触摸屏.md)
 ___
 ##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
 > RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E8%B7%9F%E5%A4%A7%E5%AE%B6%E6%8E%A8%E8%8D%90+GitHub+%E4%B8%8A%E4%B8%80%E6%AC%BE%E4%B8%93%E4%B8%BA+macOS+%E7%B3%BB%E7%BB%9F%E6%8F%90%E4%BE%9B%E9%AB%98%E6%95%88%E6%88%AA%E5%B1%8F%E5%92%8C+AI+%E5%88%86%E6%9E%90%E5%8A%9F%E8%83%BD%E7%9A%84%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9APeekaboo%E3%80%82%E4%B8%8D%E4%BB%85%E8%83%BD%E5%BF%AB%E9%80%9F%E6%88%AA%E5%8F%96%E5%B1%8F%E5%B9%95%E3%80%81%E5%BA%94%E7%94%A8%E6%88%96%E7%89%B9%E5%AE%9A%E7%AA%97%E5%8F%A3%EF%BC%8C%E8%BF%98%E8%83%BD%E4%BD%BF%E7%94%A8+GPT-4+Vision%E3%80%81Claude+%E6%88%96%E6%9C%AC%E5%9C%B0%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C+AI+%E5%9B%BE%E5%83%8F%E5%88%86%E6%9E%90%E3%80%82G%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [不仅](不仅.md), [分析](分析.md), [屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
+[Claude](Claude.md), [不仅](不仅.md), [分析](分析.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [推荐](推荐.md), [提供](提供.md), [模型](模型.md), [系统](系统.md), [进行](进行.md)
 ___
 ##### 2025-06-20 03:04:36 UTC ~ nicekate
 > RT @nicekate8888: 新视频上线——AI 编程实战：我用 Augment 从零打造了一款 macOS AI RSS 阅读器 (集成 Gemini)1️⃣ 支持总结文章、提取要点、生成 Mermaid 图、AI 对话的智能 RSS 阅读器。2️⃣ 接入 Ge…
@@ -192,7 +192,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%88%86%E4%BA%AB%E4%B8%80%E6%AC%BE%E5%B0%8F%E5%B7%A7%E4%B8%94%E5%AE%9E%E7%94%A8%E7%9A%84+macOS+%E7%AA%97%E5%8F%A3%E7%AE%A1%E7%90%86%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%EF%BC%9ADockit%E3%80%82%E5%AE%83%E8%83%BD%E5%A4%9F%E4%B8%80%E9%94%AE%E5%B0%86%E4%BB%BB%E6%84%8F%E7%AA%97%E5%8F%A3%E5%81%9C%E9%9D%A0%E5%9C%A8%E5%B1%8F%E5%B9%95%E5%B7%A6%E4%BE%A7%E6%88%96%E5%8F%B3%E4%BE%A7%EF%BC%8C%E5%B9%B6%E4%B8%94%E5%8F%AF%E8%87%AA%E7%94%B1%E5%B1%95%E5%BC%80%E5%92%8C%E6%94%B6%E8%B5%B7%EF%BC%8C%E8%A7%A3%E5%86%B3%E5%B1%8F%E5%B9%95%E5%A4%9A%E7%AA%97%E5%8F%A3%E6%9D%82%E4%B9%B1%E6%83%85%E5%86%B5%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2F75qGVONPZl%E6%AD%A4%E5%A4%96%EF%BC%8C%E8%BF%98%E6%94%AF%E6%8C%81%E8%87%AA%E5%AE%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[屏](屏.md), [屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [情况](情况.md), [支持](支持.md)
+[屏幕](屏幕.md), [工具](工具.md), [开源](开源.md), [情况](情况.md), [支持](支持.md)
 ___
 ##### 2025-04-13 17:46:24 UTC ~ Geek
 > RT @geekbb: 🚀 Mac Classic Player (MCP) 轻量级的 macOS 媒体播放器，受经典 Media Player Classic 启发。专为高效控制和可访问性设计，让你的视频和音频播放更流畅自在。🖥 支持 .mov、.mp4、.webm 和音…

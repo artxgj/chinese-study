@@ -278,7 +278,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0+%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E+%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E4%B8%8A%E6%B6%A8%EF%BC%8C%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E5%90%AF%E5%8A%A8%EF%BC%9B%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%AE%9E%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%8A%AF%E7%89%87%E9%87%87%E5%8F%96%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%EF%BC%9BAMD%E8%AD%A6%E5%91%8A%E7%A7%B0%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E5%B0%86%E5%AF%BC%E8%87%B4%E5%85%B6%E6%8D%9F%E5%A4%B18%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%9B%E9%98%BF%E6%96%AF%E9%BA%A6%E4%BB%A5%E5%AE%9E%E4%BE%8B%E6%8F%AD%E7%A4%BA%E5%85%B3%E7%A8%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E6%88%90%E6%9C%AC%EF%BC%9B%E5%8A%A0%E5%B7%9E%E5%B0%B1%E5%85%B3%E7%A8%8E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%EF%BC%9B%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E4%B8%BA%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%A1%AC%E7%9D%80%E9%99%86%E2%80%9D%E5%81%9A%E5%87%86%E5%A4%87%E3%80%82h%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损](损.md), [损失](损失.md), [揭示](揭示.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
+[上涨](上涨.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
 ___
 ##### 2025-04-12 19:52:55 UTC ~ ruanyf
 > RT @ruanyf: 看到一篇分析，本次关税事件，美国受伤最重的科技公司是Intel。中国是它的最大市场，去年占销售29%，比美国本土还大（占25%），它的芯片全部美国制造。Intel已经很困难了，去年亏了188亿美元，现在完全没了翻身希望。最大收益者将是AMD。…
@@ -619,7 +619,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88NVIDIA%EF%BC%89%E5%92%8CAMD%E6%97%A5%E5%89%8D%E6%8E%A5%E8%8E%B7%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E8%BE%BE%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E8%AE%B8%E5%8F%AF%E8%A6%81%E6%B1%82%EF%BC%8C%E5%B0%86%E6%9A%82%E5%81%9C%E6%97%97%E4%B8%8BAI%E8%8A%AF%E7%89%87%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%B4%A7%EF%BC%8C%E4%BB%A5%E9%81%BF%E5%85%8D%E6%B2%A6%E4%B8%BA%E2%80%9C%E5%86%9B%E4%BA%8B%E7%94%A8%E9%80%94%E2%80%9D%E3%80%82%E6%AD%A4%E6%B6%88%E6%81%AF%E8%AE%A9%E4%B8%A4%E5%A4%A7%E6%99%B6%E7%89%87%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%EF%BC%8C%E7%94%9A%E8%87%B3%E9%80%A0%E6%88%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%AB%98%E8%BE%BE4%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%B8%9A%E5%8A%A1%E6%8D%9F%E5%A4%B1%E3%80%82https%3A%2F%2Ft.co%2FBtIGwCTK%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [损](损.md), [损失](损失.md), [晶片](晶片.md), [暂停](暂停.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md)
+[下跌](下跌.md), [损失](损失.md), [晶片](晶片.md), [暂停](暂停.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md)
 ___
 ##### 2022-04-05 16:40:33 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD计划以19亿美元的价格收购芯片和软件初创公司Pensando Systems Inc.，在完成其史上规模最大的交易不久后再度推进并购策略。AMD周一披露的这项拟议中的收购将扩大其产品组合。这家半导体公司正在重新定位其产品，以抓住芯片需求不…

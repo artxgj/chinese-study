@@ -130,8 +130,6 @@ ___
 > RT @manateelazycat: 我们常年招Linux人才， 这个周末先招一个岗位吧：Vue/Golang全栈工程师1.  坐标武汉， 不招远程， 大佬们不好意思2. 下班用Linux， 上班才用Linux的折腾不够哈3. Vue/React很熟练， 不要写…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+%E6%88%91%E4%BB%AC%E5%B8%B8%E5%B9%B4%E6%8B%9BLinux%E4%BA%BA%E6%89%8D%EF%BC%8C+%E8%BF%99%E4%B8%AA%E5%91%A8%E6%9C%AB%E5%85%88%E6%8B%9B%E4%B8%80%E4%B8%AA%E5%B2%97%E4%BD%8D%E5%90%A7%EF%BC%9AVue%2FGolang%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%881.++%E5%9D%90%E6%A0%87%E6%AD%A6%E6%B1%89%EF%BC%8C+%E4%B8%8D%E6%8B%9B%E8%BF%9C%E7%A8%8B%EF%BC%8C+%E5%A4%A7%E4%BD%AC%E4%BB%AC%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D2.+%E4%B8%8B%E7%8F%AD%E7%94%A8Linux%EF%BC%8C+%E4%B8%8A%E7%8F%AD%E6%89%8D%E7%94%A8Linux%E7%9A%84%E6%8A%98%E8%85%BE%E4%B8%8D%E5%A4%9F%E5%93%883.+Vue%2FReact%E5%BE%88%E7%86%9F%E7%BB%83%EF%BC%8C+%E4%B8%8D%E8%A6%81%E5%86%99%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[招](招.md)
 ___
 ##### 2025-02-24 00:44:46 UTC ~ Tw93
 > RT @HiTw93: 假如你使用 Grok 缺少一个桌面客户端，可以试试我刚刚用 Pake 打包的版本，支持 Mac / Windows / Linux，包体积很小，使用体验和性能不错，推荐使用 Raycast 配置一个快捷键唤起使用，很是方便，可以去 Pake 常用应用第…

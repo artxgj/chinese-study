@@ -26,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+DeepSeek%E5%9C%A8%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%B8%AD%E5%8B%9F%E9%9B%86%E9%80%BE74%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%8E%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%AD%A3%E8%AE%A1%E5%88%92%E5%B0%86%E5%91%98%E5%B7%A5%E8%A7%84%E6%A8%A1%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D%EF%BC%8C%E4%BB%A5%E5%AF%BB%E6%B1%82%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%90%8C%E8%A1%8COpenAI%E5%92%8CAnthropic%E4%B8%80%E8%BE%83%E9%AB%98%E4%B8%8B%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%8B%9B%E8%81%9827%E7%B1%BB%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%EF%BC%8C%E6%89%80%E6%9C%89%E5%B2%97%E4%BD%8D%E5%9D%87%E6%8E%A5%E5%8F%97%E5%AE%9E%E4%B9%A0%E3%80%82https%3A%2F%2Ft.co%2FJ1qpXr4KvI)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [DeepSeek](DeepSeek.md), [扩大](扩大.md), [技术](技术.md), [招](招.md), [招聘](招聘.md), [美国](美国.md), [融资](融资.md), [规模](规模.md), [计划](计划.md), [逾](逾.md)
+[Anthropic](Anthropic.md), [DeepSeek](DeepSeek.md), [扩大](扩大.md), [技术](技术.md), [招聘](招聘.md), [美国](美国.md), [融资](融资.md), [规模](规模.md), [计划](计划.md), [逾](逾.md)
 ___
 ##### 2026-06-18 08:18:17 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI和Anthropic这两家AI竞争对手都正准备在今年秋季进行IPO，而高盛和摩根士丹利都参与其中。为了确保息不会泄露，两家投行的参与人员必须选边站，组建不同的内部团队。https://t.co/rMB3rsnl82
@@ -103,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87Anthropic%E8%81%AF%E6%89%8B%E5%B0%8DOpenAI%E5%BD%A2%E6%88%90%E5%8C%85%E5%9C%8D%E5%9C%88%E3%80%91%E7%94%B1%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A0%98%E5%B0%8E%E7%9A%84SpaceX%E5%B0%87%E6%8A%8A%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E3%80%8CColossus+1%E3%80%8D%E6%95%B4%E9%AB%94%E5%87%BA%E7%A7%9F%E7%B5%A6Anthropic%E3%80%82%E9%A6%AC%E6%96%AF%E5%85%8B%E5%92%8CAnthropic%E7%9A%84CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E9%83%BD%E8%88%87OpenAI%E7%9A%84CEO%E8%96%A9%E5%A7%86%C2%B7%E5%A5%A7%E7%88%BE%E7%89%B9%E6%9B%BC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [圈](圈.md), [數據](數據.md)
+[Anthropic](Anthropic.md), [數據](數據.md)
 ___
 ##### 2026-05-05 07:02:36 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 过去，加密币更多被视为高波动的投机市场，但现在部分基础设施正转型为“现实资产交易层”。#南洋商报 #OpenAIhttps://t.co/EOFTjSjn56 https://t.co/Gn8NGD7CNP
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E6%B3%95%E5%BA%AD%E4%BD%9C%E8%AF%81%E6%97%B6%E8%A1%A8%E7%A4%BA%EF%BC%8C%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E5%9C%A8OpenAI%E7%9A%84%E4%BD%BF%E5%91%BD%E4%B8%8A%E5%B9%B6%E4%B8%8D%E8%AF%9A%E5%AE%9E%E3%80%82%E4%BB%96%E6%8C%87%E6%8E%A7%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E5%92%8COpenAI%E6%80%BB%E8%A3%81%E5%BC%95%E8%AF%B1%E4%BB%96%E6%8D%90%E8%B5%A0%E6%95%B0%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%8C%E5%B8%AE%E5%8A%A9%E8%AF%A5AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BB%A5%E9%9D%9E%E8%90%A5%E5%88%A9%E7%BB%84%E7%BB%87%E8%BA%AB%E4%BB%BD%E6%88%90%E7%AB%8B%EF%BC%8C%E7%BB%93%E6%9E%9C%E5%8D%B4%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8F%98%E4%B8%BA%E8%90%A5%E5%88%A9%E6%80%A7%E5%85%AC%E5%8F%B8%E3%80%82%E4%BB%96%E5%B8%8C%E6%9C%9B%E6%B3%95%E9%99%A2%E7%BD%A2%E5%85%8D%E4%BA%8C%E4%BA%BA%E7%9A%84%E9%A2%86%E5%AF%BC%E8%81%8C%E5%8A%A1%EF%BC%8C%E5%B9%B6%E5%AF%BB%E6%B1%82%E9%80%BE1%2C800%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%8D%9F%E5%AE%B3%E8%B5%94%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[指控](指控.md), [捐赠](捐赠.md), [损](损.md), [法庭](法庭.md), [转变](转变.md), [逾](逾.md), [领导](领导.md)
+[指控](指控.md), [捐赠](捐赠.md), [法庭](法庭.md), [转变](转变.md), [逾](逾.md), [领导](领导.md)
 ___
 ##### 2026-04-17 07:24:47 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【安全專家紛紛離職，誰為AI競賽踩煞車】「世界正陷入危機」。Anthropic的安全研究員Mrinank Sharma在給同事留下一封信後辭職。OpenAI的Zoë Hitzig也因Chat GPT引入廣告而辭職。「無論有多麼崇高的理念，…
@@ -719,7 +719,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40jesselaunz%3A+Gemini%E5%8F%91%E5%B8%83%E4%BA%86%E6%88%91%E6%9C%80%E8%BF%91%E6%9C%80%E6%83%B3%E8%A6%81%E7%9A%84%E6%9B%B4%E6%96%B0%F0%9F%A5%B0Deep+Research%E7%94%B12.0+Flash+Thinking%E9%A9%B1%E5%8A%A8%E4%BA%86%E3%80%82%E5%8F%AF%E4%BB%A5%E6%98%BE%E7%A4%BA%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%EF%BC%88%E6%88%91%E7%AE%80%E5%8D%95%E5%BD%95%E5%B1%8F%E4%BA%86%E6%AF%8F%E5%A4%A9%E7%9A%84%E5%A4%96%E6%B1%87%E5%88%86%E6%9E%90prompt%EF%BC%89%E3%80%82%E7%9C%8B%E6%9D%A5Google%E6%98%AF%E8%BF%9E%E7%8E%AF%E6%89%93%E5%87%BBOpenAI%E3%80%82%E8%BF%99%E9%A1%B9%E5%8A%9F%E8%83%BD%E6%9C%AC%E6%9D%A5%E5%9C%A8Advance%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemini](Gemini.md), [分析](分析.md), [发布](发布.md), [外汇](外汇.md), [屏](屏.md), [打击](打击.md), [显示](显示.md)
+[Gemini](Gemini.md), [分析](分析.md), [发布](发布.md), [外汇](外汇.md), [打击](打击.md), [显示](显示.md)
 ___
 ##### 2025-03-13 07:51:33 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 阿里巴巴发布了一款据称可以解读人类情绪的人工智能模型，意在挑战OpenAI的最新产品。 https://t.co/DAhax6kG3j https://t.co/3Exvp61HtB
@@ -922,7 +922,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BDAI%E6%96%B0%E5%88%9B%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E6%9C%AC%E5%91%A8%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-R1%EF%BC%8C%E5%86%B2%E5%87%BB%E7%9B%AE%E5%89%8D%E4%B8%96%E7%95%8C%E9%A2%86%E5%A4%B4%E7%BE%8AOpenAI%E6%97%97%E8%88%B0%E4%BA%A7%E5%93%81GPT-4%EF%BC%8C%E9%9C%87%E6%92%BC%E5%85%A8%E7%90%83AI%E5%9C%88%EF%BC%8C%E7%BE%8E%E5%9B%BD%E7%9F%BD%E8%B0%B7%E5%A6%82%E4%B8%B4%E5%A4%A7%E6%95%8C%EF%BC%8C%E8%82%A1%E4%BB%B7%E6%91%86%E8%8D%A1%E3%80%82https%3A%2F%2Ft.co%2FlvjWL6Zs13+https%3A%2F%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [冲击](冲击.md), [发布](发布.md), [圈](圈.md), [模型](模型.md), [深度求索](深度求索.md), [矽](矽.md), [美国](美国.md)
+[DeepSeek](DeepSeek.md), [冲击](冲击.md), [发布](发布.md), [模型](模型.md), [深度求索](深度求索.md), [矽](矽.md), [美国](美国.md)
 ___
 ##### 2025-01-29 16:25:41 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国微软公司和OpenAI据报正在调查与中国人工智能公司深度求索（DeepSeek）有关的一个组织，是否以未经授权的方式，取得OpenAI技术输出的数据。 https://t.co/ImU1fkHbkN
@@ -1048,7 +1048,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BA%94%E5%AE%B6%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89OpenAI%E4%BE%B5%E6%9D%83%EF%BC%8C%E5%88%A9%E7%94%A8%E5%A4%A7%E9%87%8F%E6%96%B0%E9%97%BB%E6%96%87%E7%AB%A0%E6%9D%A5%E8%AE%AD%E7%BB%83%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BAChatGPT%E3%80%82%E8%BF%99%E8%B5%B7%E8%AF%89%E8%AE%BC%E5%8F%AF%E8%83%BD%E8%AE%A9OpenAI%E6%8D%9F%E5%A4%B1%E6%95%B0%E4%BB%A5%E5%8D%81%E4%BA%BF%E8%AE%A1%E7%BE%8E%E5%85%83%E3%80%82+https%3A%2F%2Ft.co%2FTrsRR6sbPP)
 ##### Other Words/Names of Interest in the Above Tweet
-[加拿大](加拿大.md), [损](损.md), [损失](损失.md), [机器人](机器人.md), [机构](机构.md), [聊天](聊天.md), [诉讼](诉讼.md), [起诉](起诉.md)
+[加拿大](加拿大.md), [损失](损失.md), [机器人](机器人.md), [机构](机构.md), [聊天](聊天.md), [诉讼](诉讼.md), [起诉](起诉.md)
 ___
 ##### 2024-11-28 19:15:47 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 马斯克去年夏天创办了xAI，试图追赶聊天机器人ChatGPT的开发商OpenAI。马斯克从整个行业搜罗人才。他推动承包商在几个月内建成一个巨大的新数据中心，对于如此规模的项目来说，这样的建设速度几乎闻所未闻。https://t.co/2LsIGN…
@@ -1069,7 +1069,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E6%88%90%E4%B8%BA%E8%90%A5%E5%88%A9%E6%80%A7%E6%9C%BA%E6%9E%84%E6%97%B6%EF%BC%8C%E7%A1%AE%E5%AE%9A%E8%82%A1%E6%9D%83%E5%A6%82%E4%BD%95%E5%88%86%E9%85%8D%E6%98%AF%E5%AE%83%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%9C%80%E5%A4%A7%E6%8C%91%E6%88%98%E4%B9%8B%E4%B8%80%E3%80%82%E4%BB%A4%E8%BD%AC%E5%9E%8B%E9%9A%BE%E5%BA%A6%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A2%9E%E5%A4%A7%E7%9A%84%E6%98%AF%EF%BC%8C%E5%BE%AE%E8%BD%AF%E6%8C%81%E8%82%A1%E6%AF%94%E4%BE%8B%E8%B6%8A%E5%A4%A7%EF%BC%8C%E5%B0%B1%E8%B6%8A%E6%9C%89%E5%8F%AF%E8%83%BD%E6%8B%9B%E8%87%B4%E5%8F%8D%E5%9E%84%E6%96%AD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E7%9A%84%E5%AE%A1%E6%9F%A5%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%B7%B2%E7%BB%8F%E5%9C%A8%E9%87%87%E5%8F%96%E5%A4%9A%E9%A1%B9%E8%A1%8C%E5%8A%A8%EF%BC%8C%E8%AF%95%E5%9B%BE%E9%81%8F%E5%88%B6%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B%E3%80%82https%3A%2F%2Ft.co%2FE5wv%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[分配](分配.md), [反垄断](反垄断.md), [垄断](垄断.md), [审查](审查.md), [影响](影响.md), [微软](微软.md), [招](招.md), [挑战](挑战.md), [机构](机构.md), [监管](监管.md), [科技](科技.md), [试图](试图.md), [转型](转型.md), [遏制](遏制.md), [采取](采取.md), [面临](面临.md)
+[分配](分配.md), [反垄断](反垄断.md), [垄断](垄断.md), [审查](审查.md), [影响](影响.md), [微软](微软.md), [挑战](挑战.md), [机构](机构.md), [监管](监管.md), [科技](科技.md), [试图](试图.md), [转型](转型.md), [遏制](遏制.md), [采取](采取.md), [面临](面临.md)
 ___
 ##### 2024-10-03 06:12:22 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 分析认为，这标志着谷歌与快速发展的OpenAI之间竞争出现一个新前沿。#南洋商报 #谷歌 #Google #openai #AI https://t.co/EpDI1Ri36A https://t.co/hE4LHy9Nzz
@@ -1321,7 +1321,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%B7%A8%E5%A4%B4OpenAI%E6%8E%A8%E5%87%BA%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8BSora%E5%90%8E%EF%BC%8C%E5%BC%95%E5%8F%91%E4%B8%80%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%9C%88%E4%BA%BA%E5%A3%AB%E5%AF%B9%E4%B8%AD%E7%BE%8EAI%E5%B7%AE%E8%B7%9D%E6%8B%89%E5%A4%A7%E7%9A%84%E6%8B%85%E5%BF%A7%E3%80%82%E4%B8%8D%E8%BF%87%EF%BC%8C360%E9%9B%86%E5%9B%A2%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%91%A8%E9%B8%BF%E7%A5%8E%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%9C%A8AI%E4%B8%8A%E7%9A%84%E5%B7%AE%E8%B7%9D%E4%B8%BB%E8%A6%81%E4%BD%93%E7%8E%B0%E5%9C%A8%E6%96%B9%E5%90%91%E4%B8%8A%EF%BC%8C%E4%B8%80%E6%97%A6%E6%96%B9%E5%90%91%E6%AD%A3%E7%A1%AE%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E4%B8%80%E4%B8%A4%E5%B9%B4%E5%B0%B1%E8%83%BD%E8%B5%B6%E4%B8%8A%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [圈](圈.md), [巨头](巨头.md), [差距](差距.md), [引发](引发.md), [担忧](担忧.md), [推出](推出.md), [模型](模型.md), [科技](科技.md), [美国](美国.md)
+[人工](人工.md), [人工智能](人工智能.md), [巨头](巨头.md), [差距](差距.md), [引发](引发.md), [担忧](担忧.md), [推出](推出.md), [模型](模型.md), [科技](科技.md), [美国](美国.md)
 ___
 ##### 2024-02-25 07:08:15 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国新创公司OpenAI近期发布文字转为影片的AI模型Sora成为全球当红议题；中国全国政协委员、360创始人周鸿祎表示，中国和美国在AI上的差距若方向正确，马上就会迎头赶上，现在的落后，大概一到两年就能解决。https://t.co/uS0…

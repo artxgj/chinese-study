@@ -26,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+DeepSeek%E5%9C%A8%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%B8%AD%E5%8B%9F%E9%9B%86%E9%80%BE74%E4%BA%BF%E7%BE%8E%E5%85%83%E5%90%8E%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%AD%A3%E8%AE%A1%E5%88%92%E5%B0%86%E5%91%98%E5%B7%A5%E8%A7%84%E6%A8%A1%E6%89%A9%E5%A4%A7%E4%B8%80%E5%80%8D%EF%BC%8C%E4%BB%A5%E5%AF%BB%E6%B1%82%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%90%8C%E8%A1%8COpenAI%E5%92%8CAnthropic%E4%B8%80%E8%BE%83%E9%AB%98%E4%B8%8B%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E6%AD%A3%E5%9C%A8%E6%8B%9B%E8%81%9827%E7%B1%BB%E6%8A%80%E6%9C%AF%E5%B2%97%E4%BD%8D%EF%BC%8C%E6%89%80%E6%9C%89%E5%B2%97%E4%BD%8D%E5%9D%87%E6%8E%A5%E5%8F%97%E5%AE%9E%E4%B9%A0%E3%80%82https%3A%2F%2Ft.co%2FJ1qpXr4KvI)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [OpenAI](OpenAI.md), [扩大](扩大.md), [技术](技术.md), [招](招.md), [招聘](招聘.md), [美国](美国.md), [融资](融资.md), [规模](规模.md), [计划](计划.md), [逾](逾.md)
+[DeepSeek](DeepSeek.md), [OpenAI](OpenAI.md), [扩大](扩大.md), [技术](技术.md), [招聘](招聘.md), [美国](美国.md), [融资](融资.md), [规模](规模.md), [计划](计划.md), [逾](逾.md)
 ___
 ##### 2026-06-18 08:18:17 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI和Anthropic这两家AI竞争对手都正准备在今年秋季进行IPO，而高盛和摩根士丹利都参与其中。为了确保息不会泄露，两家投行的参与人员必须选边站，组建不同的内部团队。https://t.co/rMB3rsnl82
@@ -96,7 +96,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87Anthropic%E8%81%AF%E6%89%8B%E5%B0%8DOpenAI%E5%BD%A2%E6%88%90%E5%8C%85%E5%9C%8D%E5%9C%88%E3%80%91%E7%94%B1%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A0%98%E5%B0%8E%E7%9A%84SpaceX%E5%B0%87%E6%8A%8A%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E3%80%8CColossus+1%E3%80%8D%E6%95%B4%E9%AB%94%E5%87%BA%E7%A7%9F%E7%B5%A6Anthropic%E3%80%82%E9%A6%AC%E6%96%AF%E5%85%8B%E5%92%8CAnthropic%E7%9A%84CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E9%83%BD%E8%88%87OpenAI%E7%9A%84CEO%E8%96%A9%E5%A7%86%C2%B7%E5%A5%A7%E7%88%BE%E7%89%B9%E6%9B%BC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [圈](圈.md), [數據](數據.md)
+[OpenAI](OpenAI.md), [數據](數據.md)
 ___
 ##### 2026-05-06 02:27:36 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Anthropic发布面向金融服务企业的新AI智能体。这家AI公司正筹备最早于今年进行备受期待的IPO，发布新产品正是其扩大企业客户群计划的一环。https://t.co/ByxFmYebW1
