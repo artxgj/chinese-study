@@ -316,7 +316,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [繁衍](../hanzi-cards/繁衍.md) | to multiply; to reproduce; to increase gradually in number or quantity |
 | [御寒](../hanzi-cards/御寒.md) | keep out the cold; to keep warm |
 | [诡异](../hanzi-cards/诡异.md) | strange; abnormal |
-| [圈](../hanzi-cards/圈.md) | circle; ring; domain; group; enclose; encircle; mark with a circle; raise or make money (colloquial) |
 | [线路](../hanzi-cards/线路.md) | circuit; line; communication line; route; road; railway track; bus route |
 | [延缓](../hanzi-cards/延缓.md) | delay; postpone; defer; put off |
 | [萎缩](../hanzi-cards/萎缩.md) | wither; shrivel; shrink; sag; atrophy |
@@ -516,7 +515,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [实施](../hanzi-cards/实施.md) | put into effect; implement; carry out |
 | [葬](../hanzi-cards/葬.md) | to bury (the dead); to inter |
 | [骨骼](../hanzi-cards/骨骼.md) | skeleton; bone structure; bones |
-| [坑](../hanzi-cards/坑.md) | hole; pit; hollow; tunnel |
 | [誓言](../hanzi-cards/誓言.md) | to pledge; to promise; oath; vow |
 | [捐赠](../hanzi-cards/捐赠.md) | donate; contribute (as a gift); present |
 | [净水](../hanzi-cards/净水.md) | clean (or purified) water; purify (or treat) water |
@@ -553,7 +551,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [揭露](../hanzi-cards/揭露.md) | expose; unmask; ferret out; to disclose |
 | [情妇](../hanzi-cards/情妇.md) | mistres; paramour (of married man) |
 | [贼](../hanzi-cards/贼.md) | thief; traitor |
-| [墓](../hanzi-cards/墓.md) | grave; tomb; mausoleum |
 | [一带一路](../hanzi-cards/一带一路.md) | Belt and Road Initiative |
 | [珠穆朗玛峰](../hanzi-cards/珠穆朗玛峰.md) | Mount Everest |
 | [付款](../hanzi-cards/付款.md) | to pay a sum of money; payment |
@@ -655,7 +652,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [同框](../hanzi-cards/同框.md) | to appear together in a photo or video clip |
 | [地標](../hanzi-cards/地標.md) | landmark |
 | [迷人](../hanzi-cards/迷人.md) | enchanting; fascinating; bewitching; charming |
-| [嫩](../hanzi-cards/嫩.md) | tender; delicate; (of food) tender, lightly-cooked |
 | [地磁暴](../hanzi-cards/地磁暴.md) | geomagnetic storm |
 | [舰艇](../hanzi-cards/舰艇.md)/[艦艇](../hanzi-cards/艦艇.md) | naval ships and boats; naval vessels; warship |
 | [海警](../hanzi-cards/海警.md) | coast guard; maritime police |

@@ -64,6 +64,7 @@
 | [京瓷](../hanzi-cards/京瓷.md) | Kyocera | KYOCY | 20 |
 | [联想](../hanzi-cards/联想.md) | Lenovo | LNVGY/LNVGF | 53 |
 | [领英](../hanzi-cards/领英.md) | LinkedIn | owned by MSFT | 9 |
+| [罗技](../hanzi-cards/罗技.md) | Logitech | LOGI | 1 |
 | [浪琴](../hanzi-cards/浪琴.md) | Longines | subsidiary of The Swatch Group | 2 |
 | [欧莱雅](../hanzi-cards/欧莱雅.md) | L'Oreal | EPA:OR | 8 |
 | [瑞幸咖啡](../hanzi-cards/瑞幸咖啡.md) | Luckin Coffee | delisted | 23 |
@@ -100,7 +101,7 @@
 | [辉瑞](../hanzi-cards/辉瑞.md) | Pfizer | PFE | 190 |
 | [宝洁](../hanzi-cards/宝洁.md) | Procter & Gamble | PG | 12 |
 | [彪马](../hanzi-cards/彪马.md) | Puma | PUMSY | 3 |
-| [千问](../hanzi-cards/千问.md) | Qwen | Alibaba's series of LLMs | 23 |
+| [千问](../hanzi-cards/千问.md)/[千問](../hanzi-cards/千問.md) | Qwen | Alibaba's series of LLMs | 28 |
 | [瑞萨电子](../hanzi-cards/瑞萨电子.md) | Renesas Electronics | RNECY | 11 |
 | [小红书](../hanzi-cards/小红书.md)/[小紅書](../hanzi-cards/小紅書.md) | RedNote | private | 55 |
 | [力拓](../hanzi-cards/力拓.md) | Rio Tinto Group | RIO | 7 |

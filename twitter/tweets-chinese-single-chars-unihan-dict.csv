@@ -31,7 +31,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 主,,zhǔ,"master, chief owner; host; lord"
 乃,,nǎi,"then; really, indeed; as it turned out, after all; namely"
 久,,jiǔ,"long time (ago); time passage, grow late"
-么,,me,interrogative particle; small
+么,,me/yāo,interrogative particle; small
 义,,yì,"right conduct, righteousness"
 之,,zhī,"marks preceding phrase as modifier of following phrase; it, him her, them; go to"
 乍,,zhà,"first time, for the first time"
@@ -95,7 +95,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 他,,tā,"other, another; he, she, it"
 仗,,zhàng,"rely upon; protector; fight; war, weaponry"
 付,,fù,"give, deliver, pay, hand over; entrust"
-仙,,xiān,"Taoist super-being, transcendent, immortal"
+仙,,xiān,"Taoist super-being, transcendent, immortal; cent"
 仝,,tóng,"together, same; surname"
 仞,,rèn,ancient unit of measure (8 feet); 'fathom'
 仟,,qiān,one thousand; leader of one thousand men
@@ -206,7 +206,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 個,个,gè,"numerary adjunct, piece; single"
 倍,,bèi,"times, fold, multiple times"
 倏,,shū,"hastily, suddenly, abruptly"
-們,们,men,adjunct pronoun indicate plural
+們,们,mén,adjunct pronoun indicate plural
 倒,,dào,fall over; lie down; take turns
 倔,,jué,"stubborn, obstinate, intransigent; firm"
 倖,,xìng,"lucky, fortunate; dote on, spoil"
@@ -462,7 +462,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 匕,,bǐ,"spoon, ladle; knife, dirk"
 化,,huà,"change, convert, reform; -ize"
 北,,běi,north; northern; northward
-匙,,shi,spoon; surname
+匙,,chí,spoon; surname
 匠,,jiàng,"craftsman, artisan; workman"
 匡,,kuāng,"correct, restore, revise"
 匣,,xiá,"small box, case, coffer"
@@ -588,7 +588,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 否,,fǒu,"not, no, negative; final particle; hexagram ䷋"
 吧,,ba,emphatic final particle
 含,,hán,hold in mouth; cherish; contain
-听,,tīng,"hear; understand; obey, comply"
+听,,tīng,"hear; understand; obey, comply; one pound"
 吭,,kēng,throat
 吮,,shǔn,"suck with mouth, sip, lick"
 吱,,zhī,"chirping, squeaking, hissing"
@@ -606,7 +606,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 呆,,dāi,"dull; dull-minded, simple, stupid"
 呈,,chéng,"submit, show; appear; petition"
 告,,gào,"tell, announce, inform; accuse"
-呎,,chǐ,foot
+呎,,chǐ,"foot, twelve inches"
 呢,,ne,interrogative or emphatic final; (Cant.) this
 呦,,yōu,the bleating of the deer
 周,,zhōu,Zhou dynasty; circumference
@@ -647,7 +647,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 品,,pǐn,"article, product, commodity"
 哄,,hōng,"coax; beguile, cheat, deceive"
 哆,,duō,"tremble, shiver, shudder, quiver"
-哇,,wa,vomit; cry of an infant
+哇,,wā,vomit; cry of an infant
 哈,,hā,sound of laughter
 哉,,zāi,final exclamatory particle
 响,,xiǎng,"make sound, make noise; sound"
@@ -685,7 +685,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 啃,,kěn,"gnaw, chew, bite"
 啄,,zhuó,to peck; (Cant.) to slander
 商,,shāng,"commerce, business, trade"
-啊,,a,exclamatory particle
+啊,,ā,exclamatory particle
 問,问,wèn,"ask (about), inquire after"
 啓,启,qǐ,"open; begin, commence; explain"
 啕,,táo,wail
@@ -695,7 +695,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 啡,,fēi,morphine; coffee
 啤,,pí,beer
 啥,,shá,what?
-啦,,la,final particle of assertion
+啦,,lā,final particle of assertion
 啪,,pā,syllable
 啫,,zhě,(Cant.) interjection of warning; phonetic; penis
 啰,,luō,phonetic
@@ -761,7 +761,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 嘔,呕,ǒu,"to vomit; annoy, enrage"
 嘖,啧,zé,interjection of approval or admiration
 嘗,尝,cháng,"taste; experience, experiment"
-嘛,,ma,final exclamatory particle
+嘛,,ma/má,final exclamatory particle
 嘞,,lei,(Cant.) final particle used for polite refusal
 嘟,,dū,sound of horn tooting
 嘢,,yě,(Cant.) thing
@@ -1089,7 +1089,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 嫣,,yān,"charming, fascinating; gay"
 嫦,,cháng,name of a moon goddess
 嫩,,nèn,"soft, tender, delicate; young"
-嫲,,ma,(Cant.) paternal grandmother
+嫲,,mā,(Cant.) paternal grandmother
 嫻,娴,xián,"elegant, refined; skillful"
 嬈,娆,ráo,"graceful, charming, fascinating"
 嬉,,xī,"enjoy; play, amuse oneself"
@@ -1180,7 +1180,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 对,,duì,"correct, right; facing, opposed"
 寺,,sì,"court, office; temple, monastery"
 寿,,shòu,"old age, long life; lifespan"
-封,,fēng,"letter, envelope; feudal"
+封,,fēng,"letter, envelope; feudal; one pound"
 射,,shè,"shoot, eject, issue forth, emit"
 將,将,jiāng,"will, going to, future; general"
 專,专,zhuān,"monopolize, take sole possession"
@@ -1405,7 +1405,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 弓,,gōng,"bow; curved, arched; Kangxi radical 57"
 弔,,diào,"condole, mourn, pity; hang"
 引,,yǐn,"to pull, draw out, attract; to stretch"
-弗,,fú,"not, negative"
+弗,,fú,"not, negative; dollar"
 弘,,hóng,"enlarge, expand; liberal, great"
 弛,,chí,"loosen, relax, unstring a bow"
 弜,,jiàng,
@@ -1470,7 +1470,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 徹,彻,chè,"penetrate, pervade; penetrating"
 徽,,huī,"a badge, insignia"
 心,,xīn,"heart; mind, intelligence; soul; 5th lunar mansion, determinative star α Scorpii (Antares)"
-忄,,xin,heart; radical number 61
+忄,,xīn,heart; radical number 61
 必,,bì,"surely, most certainly; must"
 忌,,jì,"jealous, envious; fear"
 忍,,rěn,"endure, bear, suffer; forbear"
@@ -1669,7 +1669,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 扇,,shàn,fan; door panel
 扉,,fēi,door panel
 手,,shǒu,hand
-扌,,shou,hand; radical number 64
+扌,,shǒu,hand; radical number 64
 才,,cái,"talent, ability; just, only"
 扎,,zhā,pull up; pierce; struggle free
 扑,,pū,"pound, beat, strike; attack"
@@ -2415,7 +2415,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 氰,,qíng,cyanogen; ethane dinitrile
 氳,氲,yūn,life giving influences of nature; spirit of harmony; prosperity
 水,,shuǐ,"water, liquid, lotion, juice"
-氵,,shui,water; radical number 85
+氵,,shuǐ,water; radical number 85
 永,,yǒng,"long, perpetual, eternal, forever"
 氹,,dàng,ditch; pool
 氾,,fán/fàn,"overflow, flood, inundate"
@@ -2524,7 +2524,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 浦,,pǔ,"bank of river, shore; surname"
 浩,,hào,"great, numerous, vast, abundant"
 浪,,làng,"wave; wasteful, reckless"
-浬,,lǐ,nautical mile
+浬,,lǐ,"nautical mile; knot, nautical mile per hour"
 浮,,fú,"to float, drift, waft; to exceed; superfluous"
 浴,,yù,"bathe, wash; bath"
 海,,hǎi,"sea, ocean; maritime"
@@ -3465,7 +3465,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 符,,fú,"i.d. tag, tally, symbol, charm"
 笨,,bèn,"foolish, stupid, dull; awkward"
 第,,dì,"sequence, number; grade, degree"
-笹,,tì,small bamboo
+笹,,shì,small bamboo
 筆,笔,bǐ,writing brush; write; stroke
 等,,děng,"rank, grade; to wait; equal, “and so forth”"
 筋,,jīn,muscles; tendons
@@ -3779,7 +3779,7 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 聊,,liáo,"somewhat, slightly, at least"
 职,,zhí,"duty, profession; office, post"
 联,,lián,"connect, join; associate, ally"
-聖,圣,shèng,"holy, sacred; sage"
+聖,圣,shèng,"holy, sacred; sage, saint"
 聘,,pìn,"engage, employ; betroth"
 聚,,jù,"assemble, meet together, collect"
 聞,闻,wén,hear; smell; make known; news
@@ -5043,8 +5043,8 @@ traditional 繁體字,simplified 简体字,pinyin 拼音,definition
 鐘,钟,zhōng,clock; bell
 鐠,镨,pǔ,"praseodymium (element 59, Pr)"
 鐧,锏,jiān,kind of rapier
-鐫,镌,juān,"engraving tool; carve, engrave"
 鐫,𰾹,juān,"engraving tool; carve, engrave"
+鐫,镌,juān,"engraving tool; carve, engrave"
 鐮,镰,lián,sickle
 鐲,镯,zhuó,"bracelet, armband; small bell"
 鐳,镭,léi,"radium (element 88, Ra)"
