@@ -132,7 +132,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [钛合金](../hanzi-cards/钛合金.md) | titanium alloy |
-| [钢铁](../hanzi-cards/钢铁.md) | steel |
+| [钢铁](../hanzi-cards/钢铁.md)/[鋼鐵](../hanzi-cards/鋼鐵.md) | steel |
 ## Polymers
 |  |  |
 | ----- | :---: |
