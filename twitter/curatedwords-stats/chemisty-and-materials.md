@@ -11,7 +11,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [原子](../hanzi-cards/原子.md) | atom |
 | [离子](../hanzi-cards/离子.md) | ion |
 | [分子](../hanzi-cards/分子.md) | molecule; numerator (mathematics); member; element; part |
-## Compound
+## Compounds
 |  |  |
 | ----- | :---: |
 | [二氧化碳](../hanzi-cards/二氧化碳.md) | carbon dioxide |
@@ -47,7 +47,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [氰](../hanzi-cards/氰.md) | cyanogen; ethane dinitrile |
 | [碱](../hanzi-cards/碱.md) | alkaline, alkali, lye, salt |
 | [氧化镓](../hanzi-cards/氧化镓.md) | gallium oxide |
-## Element
+## Elements
 |  |  |
 | ----- | :---: |
 | [氢](../hanzi-cards/氢.md)/[氫](../hanzi-cards/氫.md) | hydrogen (element 1, H) |
@@ -119,7 +119,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铀](../hanzi-cards/铀.md)/[鈾](../hanzi-cards/鈾.md) | uranium (element 92, U) |
 | [钚](../hanzi-cards/钚.md) | plutonium (element 94, Pu) |
 | [鍩](../hanzi-cards/鍩.md) | nobelium (element 102, No) |
-## Isotope
+## Isotopes
 |  |  |
 | ----- | :---: |
 | [氚](../hanzi-cards/氚.md) | tritium or hydrogen-3 (symbol T or 3H) |
@@ -133,10 +133,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [钛合金](../hanzi-cards/钛合金.md) | titanium alloy |
 | [钢铁](../hanzi-cards/钢铁.md) | steel |
-## Physics
-|  |  |
-| ----- | :---: |
-## Polymer
+## Polymers
 |  |  |
 | ----- | :---: |
 | [树脂](../hanzi-cards/树脂.md) | resin |
