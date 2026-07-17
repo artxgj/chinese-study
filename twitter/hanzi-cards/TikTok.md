@@ -475,7 +475,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%AD%90%E7%9B%9F%E8%AA%8D%E5%AE%9A%E3%80%8CTikTok%E9%81%95%E8%A6%8F%E3%80%8D%EF%BC%8C%E5%BB%A3%E5%91%8A%E8%B3%87%E8%A8%8A%E6%8A%AB%E9%9C%B2%E4%B8%8D%E5%85%85%E5%88%86%E3%80%91%E3%80%8A%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99%E6%B3%95%E3%80%8B%E8%A6%81%E6%B1%82%E5%85%AC%E9%96%8B%E6%9C%89%E9%97%9C%E5%BB%A3%E5%91%8A%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90%E7%9A%84%E8%B3%87%E8%A8%8A%E3%80%82%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%8D%E7%82%BATikTok%E7%9A%84%E6%8E%AA%E6%96%BD%E4%B8%8D%E5%A4%A0%E5%85%85%E5%88%86%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F2LCSzpmpRK)
 ##### Other Words/Names of Interest in the Above Tweet
-[披露](披露.md), [措施](措施.md)
+[披露](披露.md), [措施](措施.md), [金](金.md)
 ___
 ##### 2025-05-16 05:22:12 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 如果欧盟委员会最终认定TikTok违反了《数字服务法》中关于向用户提供广告信息的规定，可能会对其处以最高相当于其全球年营业额6%的罚款。https://t.co/5QOUGvQuXq
@@ -622,7 +622,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%B7%9D%E6%99%AE%EF%BC%9A%E8%8B%A5%E4%B8%AD%E5%9C%8B%E6%89%B9%E6%BA%96%E5%87%BA%E5%94%AETikTok%E5%8F%AF%E9%99%8D%E9%97%9C%E7%A8%85%E3%80%91%E5%B0%B1%E4%B8%AD%E5%9C%8B%E7%9F%AD%E8%A6%96%E9%A0%BB%E5%88%86%E4%BA%AB%E6%87%89%E7%94%A8TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E7%9A%84%E7%9B%A3%E7%AE%A1%E9%87%8D%E6%96%B0%E5%95%9F%E5%8B%95%E6%9C%9F%E9%99%90%EF%BC%8C%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%B7%9D%E6%99%AE%E5%9C%A83%E6%9C%8826%E6%97%A5%E7%9A%84%E8%A8%98%E8%80%85%E6%9C%83%E4%B8%8A%E8%AA%AC%EF%BC%9A%E5%A6%82%E6%9E%9C%EF%BC%88%E6%94%B6%E8%B3%BC%E6%96%B9%EF%BC%89%E5%B0%9A%E6%9C%AA%E7%A2%BA%E5%AE%9A%EF%BC%8C%E6%88%91%E5%80%91%E5%B0%B1%E6%9C%83%E5%BB%B6%E9%95%B7%E6%9C%9F%E9%99%90%E3%80%82%E6%88%91%E5%80%91%E6%9C%89%E6%AC%8A%E9%80%B2%E8%A1%8C%E4%BA%A4%E6%98%93%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%B8%8C%E6%9C%9B%EF%BC%8C%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%BB%B6%E9%95%B7%E2%80%A6%E2%80%A6https%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [出售](出售.md), [川普](川普.md), [確定](確定.md), [美國](美國.md), [關稅](關稅.md)
+[交易](交易.md), [出售](出售.md), [啟動](啟動.md), [川普](川普.md), [確定](確定.md), [美國](美國.md), [關稅](關稅.md)
 ___
 ##### 2025-03-24 02:51:22 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【白宮在挑選TikTok美國業務買家,有力候選是……】美國對TikTok的限制將於4月5日恢復執行，TikTok需要選擇撤出美國市場或出售其業務。負責談判的白宮有信心儘快選定買家，但中國政府是否會輕易同意仍不明朗。據報道，甲骨文正在考慮對…
@@ -1392,7 +1392,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%A0%B9%E6%8D%AE%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E5%92%8C20%E5%A4%9A%E5%B2%81%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E8%AF%B4%E6%B3%95%EF%BC%8CTikTok%E6%AD%A3%E5%9C%A8%E4%BD%BF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%AE%9E%E9%99%85%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%E4%B8%8E%E4%BB%96%E4%BB%AC%E6%89%80%E8%AE%A4%E4%B8%BA%E7%9A%84%E8%87%AA%E8%BA%AB%E7%BB%8F%E6%B5%8E%E7%8A%B6%E5%86%B5%E8%84%B1%E8%8A%82%E3%80%82%E8%BF%99%E7%A7%8D%E8%84%B1%E8%8A%82%E5%82%AC%E7%94%9F%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%AF%E8%AF%AD%EF%BC%8C%E7%90%86%E8%B4%A2%E9%A1%BE%E9%97%AE%E7%94%A8%E8%AF%A5%E6%9C%AF%E8%AF%AD%E6%9D%A5%E5%BD%A2%E5%AE%B9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E8%87%AA%E5%B7%B1%E8%B4%A2%E5%8A%A1%E7%8A%B6%E5%86%B5%E7%9A%84%E6%89%AD%E6%9B%B2%E7%9C%8B%E6%B3%95%EF%BC%9A+%E2%80%9C%E9%87%91%E9%92%B1%E7%95%B8%E5%BD%A2%E7%97%87%E2%80%9D%E3%80%82https%3A%2F%2Ft.co%2FoPMQjlB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[催生](催生.md), [根据](根据.md), [状况](状况.md)
+[催生](催生.md), [根据](根据.md), [状况](状况.md), [金](金.md)
 ___
 ##### 2024-05-04 05:12:55 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: TikTok向广告业高管们保证，将在法庭上对美国即将实施的针对其应用程序的封杀令进行抗争。这一表态旨在缓解广告业的焦虑。 https://t.co/qG9QOWxa1e https://t.co/qG9QOWxa1e
@@ -1798,7 +1798,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E5%92%8CSHEIN%E5%9C%A8%E7%BE%8E%E5%9C%8B%E9%81%8A%E8%AA%AC%E7%B6%93%E8%B2%BB%E6%BF%80%E5%A2%9E%E3%80%91%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E7%9A%84%E6%B4%BB%E5%8B%95%E7%B6%93%E8%B2%BB%E6%AF%94%E5%8E%BB%E5%B9%B4%E5%A2%9E%E5%8A%A0%E4%BA%8677%25%EF%BC%8C%E9%81%94%E5%88%B0874%E8%90%AC%E7%BE%8E%E5%85%83%E3%80%82SHEIN%E4%B9%9F%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%B7%EF%BC%8C2023%E5%B9%B4%E7%82%BA212%E8%90%AC%E7%BE%8E%E5%85%83%EF%BC%8C%E5%A2%9E%E8%87%B3%E5%89%8D%E4%B8%80%E5%B9%B4%E7%9A%847.6%E5%80%8D%E3%80%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%B8%AD%E9%87%91%E9%A1%8D%E6%9C%80%E5%A4%9A%E7%9A%84%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%B4%84%E7%82%BA1980%E8%90%AC%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AF%94%E5%8E%BB%E5%B9%B4%E6%B8%9B%E5%B0%917%25%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[亞馬遜](亞馬遜.md), [大幅](大幅.md), [字節跳動](字節跳動.md), [美國](美國.md)
+[亞馬遜](亞馬遜.md), [大幅](大幅.md), [字節跳動](字節跳動.md), [美國](美國.md), [金](金.md)
 ___
 ##### 2024-02-02 05:54:17 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 艺人和唱片公司都很重视TikTok，想让自己的歌曲在TikTok上火起来。但音乐行业的高管表示，TikTok本身对他们的收入贡献不大。环球音乐表示，TikTok只占其收入的1%。音乐公司一般与TikTok达成短期授权协议，但现在希望达成利润更丰厚…
@@ -1931,7 +1931,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E3%80%90%E6%9C%AC%E6%8B%89%E7%99%BB%E4%BF%A1%E4%BB%B6%E8%A7%86%E9%A2%91%E5%BC%95%E4%BA%89%E8%AE%AE+TikTok%E7%A7%B0%E5%B0%86%E7%A6%81%E6%AD%A2%E3%80%91TikTok%E5%91%A8%E5%9B%9B%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%B0%86%E7%A6%81%E6%AD%A2%E6%9C%89%E5%85%B3%E6%9C%AC%E6%8B%89%E7%99%BB2002%E5%B9%B4%E4%B8%80%E5%B0%81%E4%BF%A1%E7%9A%84%E8%A7%86%E9%A2%91%E5%9C%A8%E8%AF%A5%E5%B9%B3%E5%8F%B0%E4%B8%8A%E4%BC%A0%E6%92%AD%E3%80%82%E4%BF%A1%E4%B8%AD%E6%89%B9%E8%AF%84%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E6%94%AF%E6%8C%81%EF%BC%8C%E6%8C%87%E8%B4%A3%E7%BE%8E%E5%9B%BD%E4%B8%BA%22%E5%8E%8B%E5%88%B6%22%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%8F%90%E4%BE%9B%E4%BA%86%E8%B5%84%E9%87%91%EF%BC%8C%E4%BF%A1%E4%B8%AD%E4%B9%9F%E5%8C%85%E5%90%AB%E5%8F%8D%E7%8A%B9%E4%B8%BB%E4%B9%89%E5%86%85%E5%AE%B9%E3%80%82https%3A%2F%2Ft.co%2Fi%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[争议](争议.md), [以色列](以色列.md), [巴勒斯坦](巴勒斯坦.md), [平台](平台.md), [批评](批评.md), [指责](指责.md), [提供](提供.md), [支持](支持.md), [禁止](禁止.md), [美国](美国.md)
+[争议](争议.md), [以色列](以色列.md), [巴勒斯坦](巴勒斯坦.md), [平台](平台.md), [批评](批评.md), [指责](指责.md), [提供](提供.md), [支持](支持.md), [禁止](禁止.md), [美国](美国.md), [金](金.md)
 ___
 ##### 2023-11-17 17:24:15 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 短视频应用TikTok宣布禁止宣传恐怖组织卡伊达已故创始首脑奥萨马一封信的视频内容。这封信是奥萨马在美国九一一恐怖袭击发生后写的。https://t.co/gCvgV9YNfn
@@ -2001,7 +2001,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BA%E6%9C%80%E6%96%B0iPhone+15%E7%B3%BB%E5%88%97%E9%80%A0%E6%88%90%E6%8A%A2%E8%B4%AD%E6%BD%AE%EF%BC%8C%E9%99%86%E7%BB%AD%E5%B7%B2%E7%BB%8F%E6%9C%89%E4%B8%8D%E5%B0%91%E7%94%A8%E6%88%B7%E6%8B%BF%E5%88%B0%E6%89%8B%E6%9C%BA%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%90%8E%E5%8D%B4%E5%8F%91%E7%8E%B0%E6%9C%89%E8%BF%87%E7%83%AD%E6%83%85%E5%86%B5%EF%BC%8C%E4%BB%8A%EF%BC%884%E6%97%A5%EF%BC%89%E5%8F%88%E6%9C%89%E7%A7%91%E6%8A%80%E7%88%B1%E5%A5%BD%E8%80%85%E5%9C%A8TikTok%E6%8A%B1%E6%80%A8%EF%BC%8CiPhone+15+Pro+Max%E6%8A%8A%E9%9F%B3%E9%87%8F%E5%BC%80%E9%AB%98%E5%90%8E%EF%BC%8C%E6%89%AC%E5%A3%B0%E5%99%A8%E4%BC%9A%E5%8F%91%E5%87%BA%E4%BB%A4%E4%BA%BA%E5%8E%8C%E6%81%B6%E7%9A%84%E2%80%9C%E5%98%8E%E5%98%8E%E9%87%91%E5%B1%9E%E5%A3%B0%E2%80%9D%EF%BC%8C%E9%80%8F%E9%9C%B2%E5%9B%A0%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%8E%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [情况](情况.md), [抢购](抢购.md), [抱怨](抱怨.md), [推出](推出.md), [科技](科技.md), [系列](系列.md), [苹果](苹果.md), [透露](透露.md), [金属](金属.md), [陆续](陆续.md)
+[iPhone](iPhone.md), [情况](情况.md), [抢购](抢购.md), [抱怨](抱怨.md), [推出](推出.md), [科技](科技.md), [系列](系列.md), [苹果](苹果.md), [透露](透露.md), [金](金.md), [金属](金属.md), [陆续](陆续.md)
 ___
 ##### 2023-10-03 09:26:57 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: TikTok母公司字节跳动在2023年第一财季实现了近60亿美元（约82亿新元）的运营利润，几乎是上年同期的两倍，同时这家中国社交媒体巨头削减了开支。 https://t.co/L8xlEKF1HQ
@@ -2057,7 +2057,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BB%8A%E5%B9%B4%E6%97%A9%E4%BA%9B%E6%97%B6%E5%80%99%EF%BC%8C%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E3%80%81%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%92%8C%E5%90%84%E5%B7%9E%E7%AB%8B%E6%B3%95%E6%9C%BA%E6%9E%84%E9%83%BD%E5%A8%81%E8%83%81%E8%A6%81%E7%A6%81%E7%94%A8TikTok%EF%BC%8CTikTok%E5%BD%93%E6%97%B6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%AD%E5%87%A0%E4%B9%8E%E6%B2%A1%E6%9C%89%E6%9C%8B%E5%8F%8B%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%8CTikTok%E6%9C%89%E4%BA%86%E6%9B%B4%E5%A4%9A%E6%9C%8B%E5%8F%8B%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E5%85%B1%E5%90%8C%E7%82%B9%EF%BC%9A%E5%BE%97%E5%88%B0%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E9%87%91%E8%9E%8D%E5%AE%B6%E6%9D%B0%E5%A4%AB%C2%B7%E4%BA%9A%E6%96%AF%E7%9A%84%E6%94%AF%E6%8C%81%E3%80%82%E4%BC%97%E8%AE%AE%E5%91%98%E5%8D%A2%E7%BA%B3%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%B8%BA%E4%BA%86%E8%AE%A9TikTok%E7%BB%A7%E7%BB%AD%E7%95%99%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[威胁](威胁.md), [支持](支持.md), [机构](机构.md), [美国](美国.md), [金融](金融.md)
+[威胁](威胁.md), [支持](支持.md), [机构](机构.md), [美国](美国.md), [金](金.md), [金融](金融.md)
 ___
 ##### 2023-09-20 01:10:23 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【TikTok扩大海外“卖场”，对抗亚马逊】 “大量发货让我每天忙得不可开交”，美国个体商户克里斯汀·昆卡对TikTok的推广力感到惊讶。TikTok在东南亚已发展成威胁最大电商平台等的存在，如今又在美国开展电商业务，加强了与美国亚马逊对…

@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4AI%E3%80%8C%E5%8D%83%E5%95%8F%E3%80%8D%E6%8E%A5%E5%85%A5%E7%B6%B2%E8%B3%BC%E6%A5%AD%E5%8B%99%E3%80%91%E5%8F%AA%E9%9C%80%E5%B0%8DQwen%E8%AA%AC%E3%80%8C%E9%BB%9E%E5%85%A9%E6%9D%AF%E6%8B%BF%E9%90%B5%E3%80%8D%EF%BC%8CQwen%E4%BE%BF%E6%9C%83%E9%80%9A%E9%81%8E%E6%B7%98%E5%AF%B6%E9%96%83%E8%B3%BC%E9%81%B8%E6%93%87%E7%94%A8%E6%88%B6%E6%89%80%E5%9C%A8%E5%9C%B0%E9%99%84%E8%BF%91%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%AE%8C%E6%88%90%E4%B8%8B%E5%96%AE%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FJaeoEM7P6g)
 ##### Other Words/Names of Interest in the Above Tweet
-[千問](千問.md), [咖啡](咖啡.md), [阿里巴巴](阿里巴巴.md)
+[千問](千問.md), [咖啡](咖啡.md), [接入](接入.md), [鐵](鐵.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-10-29 03:25:15 UTC ~ 中國新聞社
 > RT @CNS1952: 上海95後小夥手搓AI眼鏡體驗失明的一天，設備基於開源Qwen-Omni開發，硬件成本僅百元，可實時識別盲道、紅綠燈、障礙物等。來源：中國青年報 #AI #科技中國 https://t.co/CYy0BBYZeq
@@ -89,7 +89,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B8%AF%E8%82%A1%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%90%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E6%8A%95%E8%B5%84%E9%80%BE530%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B9%B6%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E6%A8%A1%E5%9E%8BQwen3-Max%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E5%87%AF%E8%A5%BF%C2%B7%E4%BC%8D%E5%BE%B7%E6%97%97%E4%B8%8B%E5%9F%BA%E9%87%91%E6%AD%A3%E9%87%8D%E6%96%B0%E5%BB%BA%E4%BB%93%E8%BF%99%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%82+https%3A%2F%2Ft.co%2FBiTyMo9F82)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [基金](基金.md), [投资](投资.md), [模型](模型.md), [科技](科技.md), [逾](逾.md), [阿里巴巴](阿里巴巴.md), [领域](领域.md)
+[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [基金](基金.md), [投资](投资.md), [模型](模型.md), [科技](科技.md), [逾](逾.md), [金](金.md), [阿里巴巴](阿里巴巴.md), [领域](领域.md)
 ___
 ##### 2025-07-26 19:17:31 UTC ~ karminski-牙医
 > RT @karminski3: Qwen 刚刚又发布了Qwen3-MT！——一个翻译大模型这个模型也是基于Qwen3 后训练的，主打多语言翻译，支持92种语言。并且提供了术语干预、领域提示和翻译记忆等高级翻译功能。从公开的数据来看应该是MoE模型，那可能就是用 Qwen3-…
@@ -194,7 +194,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Fin-R1%EF%BC%9A%E5%9F%BA%E4%BA%8EQwen2.5-7B+%E5%B9%B6%E9%80%9A%E8%BF%87%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E9%87%91%E8%9E%8D%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B+%E5%9C%A8%E5%A4%9A%E9%A1%B9%E9%87%91%E8%9E%8D%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%ADSOTA+%E6%B0%B4%E5%B9%B3Fin-R1%EF%BC%88%E5%BC%BA%E5%8C%96%E5%90%8E%EF%BC%89%EF%BC%8C%E4%BB%A5%E4%BB%85+7B+%E5%8F%82%E6%95%B0%EF%BC%8C%E8%B6%85%E8%B6%8A%E5%A4%A7%E5%A4%9A%E6%95%B0%E5%90%8C%E8%A7%84%E6%A8%A1%E4%B9%83%E8%87%B3%E6%95%B0%E5%8D%81%E5%80%8D%E8%A7%84%E6%A8%A1%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%83%A8%E5%88%86%E5%85%B3%E9%94%AE%E4%BB%BB%E5%8A%A1%E7%94%9A%E8%87%B3%E6%8B%BF%E4%B8%8B%E7%AC%AC%E4%B8%80%E3%80%82%E5%9C%A8FinQA%EF%BC%88%E9%87%91%E8%9E%8D%E8%A1%A8%E6%A0%BC%E6%8E%A8%E7%90%86%EF%BC%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [推理](推理.md), [模型](模型.md), [水平](水平.md), [规模](规模.md), [金融](金融.md)
+[关键](关键.md), [推理](推理.md), [模型](模型.md), [水平](水平.md), [规模](规模.md), [金](金.md), [金融](金融.md)
 ___
 ##### 2025-03-17 05:25:08 UTC ~ karminski-牙医
 > RT @karminski3: 上周 HuggingFace 上最受关注的模型前10：sesame/csm-1b : 语音合成模型, 1B参数google/gemma-3-27b-it : 多模态模型, 27B参数Qwen/QwQ-32B : 具有推理能力的文本生成模型…

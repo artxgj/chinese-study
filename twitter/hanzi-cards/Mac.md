@@ -124,7 +124,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nicekate8888%3A+%E6%96%B0%E8%A7%86%E9%A2%91%E4%B8%8A%E7%BA%BF%E2%80%94%E2%80%94AI+%E7%BC%96%E7%A8%8B%E5%AE%9E%E6%88%98%EF%BC%9A%E6%88%91%E7%94%A8+Augment+%E4%BB%8E%E9%9B%B6%E6%89%93%E9%80%A0%E4%BA%86%E4%B8%80%E6%AC%BE+macOS+AI+RSS+%E9%98%85%E8%AF%BB%E5%99%A8+%28%E9%9B%86%E6%88%90+Gemini%291%EF%B8%8F%E2%83%A3+%E6%94%AF%E6%8C%81%E6%80%BB%E7%BB%93%E6%96%87%E7%AB%A0%E3%80%81%E6%8F%90%E5%8F%96%E8%A6%81%E7%82%B9%E3%80%81%E7%94%9F%E6%88%90+Mermaid+%E5%9B%BE%E3%80%81AI+%E5%AF%B9%E8%AF%9D%E7%9A%84%E6%99%BA%E8%83%BD+RSS+%E9%98%85%E8%AF%BB%E5%99%A8%E3%80%822%EF%B8%8F%E2%83%A3+%E6%8E%A5%E5%85%A5+Ge%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemini](Gemini.md), [总结](总结.md), [打造](打造.md), [支持](支持.md)
+[Gemini](Gemini.md), [总结](总结.md), [打造](打造.md), [接入](接入.md), [支持](支持.md)
 ___
 ##### 2025-06-11 09:21:53 UTC ~ 关木
 > RT @ZeroZ_JQ: Apple这次开源的container绝对是王炸了，开发用container，测试用mac mini，生产用mac mini 集群。真Apple全家桶。 https://t.co/UNJ3psueaV
@@ -244,7 +244,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40super_leeyom%3A+Dell%E7%9A%84U2725QE%E5%88%B0%E4%BA%86%EF%BC%8C%E5%9B%BD%E8%A1%A5%E2%9E%95%E6%99%92%E5%8D%95%EF%BC%8C%E6%9C%80%E7%BB%88%E6%98%AF3774%E5%88%B0%E6%89%8B%EF%BC%8C%E6%AD%A3%E9%9D%A2%E8%A7%82%E6%84%9F%E5%87%A0%E4%B9%8E%E6%8E%A5%E8%BF%91%E5%9B%9B%E8%BE%B9%E7%AD%89%E5%AE%BD%E4%BA%86%EF%BC%88%E4%B8%8B%E5%B7%B4%E7%A8%8D%E5%BE%AE%E5%AE%BD%E4%BA%86%E4%B8%80%E7%82%B9%E7%82%B9%F0%9F%A4%8F%EF%BC%89%EF%BC%8C%E6%95%B4%E6%9C%BA%E9%A2%9C%E8%89%B2%E5%92%8C+Mac+mini+%E9%9D%9E%E5%B8%B8%E6%90%AD%EF%BC%88%E9%83%BD%E6%98%AF%E9%93%B6%E8%89%B2%E6%9C%BA%E8%BA%AB%EF%BC%89%EF%BC%8C27%E5%AF%B84K+120hz%E9%AB%98%E5%88%B7%2B%E7%A1%AC%E4%BB%B6%E4%BD%8E%E8%93%9D%E5%85%89%EF%BC%8C%E9%85%8D%E5%90%88macOS%EF%BC%8C%E5%A6%99%E6%8E%A7%E6%9D%BF%E5%B8%A7%E7%8E%87%E4%B9%9F%E6%9C%8912%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [配合](配合.md)
+[Mac](Mac.md), [配合](配合.md), [银](银.md)
 ___
 ##### 2025-03-26 06:44:23 UTC ~ 尤雨溪
 > RT @yuxiyou: 我有一只全皮的 Tumi 双肩包，用了可能快 10 年了，质量是真的好，但是贼重。加上 macbook pro，长时间背着真的难受，以至于我出行大部分时间都把它架在行李箱上。这次 M4 macbook air 发布，第一时间入手，顺便换了一个尼龙材…
@@ -284,7 +284,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E6%98%A8%E5%A4%A9%E6%8A%98%E8%85%BE%E4%BA%86%E4%B8%80%E4%B8%8B+macOS+%E4%B8%8A%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%96%B9%E6%A1%88%EF%BC%8C%E6%9C%80%E5%90%8E%E9%80%89%E6%8B%A9%E4%BA%86+VMware+Fusion%EF%BC%8C%E5%9C%A8%E4%BB%B7%E6%A0%BC%EF%BC%88%E5%85%8D%E8%B4%B9%EF%BC%89%E5%92%8C%E6%80%A7%E8%83%BD%E4%B9%8B%E9%97%B4%E6%89%BE%E5%88%B0%E4%BA%86%E5%B9%B3%E8%A1%A1%E3%80%82%E4%BB%A5%E5%90%8E%E4%BC%81%E4%B8%9A%E7%BD%91%E9%93%B6%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E5%8E%BB%E5%BC%80+PC+%E6%9C%BA%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2F0LshXjx0q6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [平衡](平衡.md), [方案](方案.md)
+[价格](价格.md), [平衡](平衡.md), [方案](方案.md), [银](银.md)
 ___
 ##### 2025-02-23 07:37:37 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 来自普林斯顿大学，分享的一门较全面的机器学习课程：intro_machine_learning。涵盖了机器学习的基础知识、模型训练、评估与优化，以及人工神经网络等内容。GitHub：https://t.co/sSBtpoK4is最…
@@ -324,7 +324,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E8%B2%A1%E5%8B%99%E5%AE%98%EF%BC%9A%E5%B0%8D%E7%AB%B6%E7%88%AD%E5%8A%9B%E4%B8%8B%E9%99%8D%E6%8A%B1%E6%9C%89%E5%8D%B1%E6%A9%9F%E6%84%9F%E3%80%91%E6%97%A5%E6%9C%AC%E8%B2%A1%E5%8B%99%E7%9C%81%E8%B2%A1%E5%8B%99%E5%AE%98%E7%A5%9E%E7%94%B0%E7%9C%9F%E4%BA%BA%E5%9C%A8G7%E8%B2%A1%E9%95%B7%E5%92%8C%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%B7%E6%9C%83%E8%AD%B0%E5%89%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E%E6%8E%A1%E8%A8%AA%EF%BC%8C%E5%B0%B1%E4%B8%BB%E8%A6%81%E8%AD%B0%E9%A1%8C%E7%9A%84%E7%83%8F%E5%85%8B%E8%98%AD%E9%87%8D%E5%BB%BA%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90%EF%BC%8C%E7%A5%9E%E7%94%B0%E8%AA%8D%E7%82%BA%E3%80%8C%E6%87%89%E8%A9%B2%E7%94%B1%E4%BE%B5%E7%95%A5%E8%80%85%E4%BE%86%E6%94%AF%E4%BB%98%E3%80%8D%EF%BC%8C%E5%91%BC%E7%B1%B2%E7%94%B1%E4%BF%84%E7%BE%85%E6%96%AF%E4%BE%86%E6%89%BF%E6%93%94%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.co%2Frfmack%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[侵略](侵略.md), [俄羅斯](俄羅斯.md), [央行](央行.md), [支付](支付.md), [日本](日本.md)
+[侵略](侵略.md), [俄羅斯](俄羅斯.md), [央行](央行.md), [支付](支付.md), [日本](日本.md), [金](金.md)
 ___
 ##### 2022-11-24 05:38:25 UTC ~ DW 中文- 德国之声
 > RT @dw_chinese: 布加迪「亲戚」Rimac Nevera创造量产电动车极速新纪录布加迪参与成立的新超跑公司Bugatti-Rimac，推出一款电动超跑——Rimac Nevera最高时速可达412公里，打破量产电动车极速纪录。#dwbusiness如果暂时你…

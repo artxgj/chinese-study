@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86%E7%BE%8E%E5%85%89%E3%80%81%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%8F%8ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%8F%82%E4%B8%8E%E4%BA%86%E6%9C%AC%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%85%B7%E4%BD%93%E9%87%91%E9%A2%9D%E6%9C%AA%E6%8A%AB%E9%9C%B2%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23OpenAIhttps%3A%2F%2Ft.co%2FVgZavEsBxQ+https%3A%2F%2Ft.co%2FKa33WdhEvW)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [SK海力士](SK海力士.md), [三星](三星.md), [厂商](厂商.md), [存储](存储.md), [披露](披露.md), [美光](美光.md), [芯片](芯片.md), [融资](融资.md), [金额](金额.md)
+[OpenAI](OpenAI.md), [SK海力士](SK海力士.md), [三星](三星.md), [厂商](厂商.md), [存储](存储.md), [披露](披露.md), [美光](美光.md), [芯片](芯片.md), [融资](融资.md), [金](金.md), [金额](金额.md)
 ___
 ##### 2026-05-22 07:12:21 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Anthropic第二季度收入料将增长逾一倍，达到109亿美元，这种爆炸性的增长速度将帮助该公司首次实现营业利润。https://t.co/gy5GUdR6dK
@@ -103,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Anthropic%E5%8F%91%E5%B8%83%E9%9D%A2%E5%90%91%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8A%A1%E4%BC%81%E4%B8%9A%E7%9A%84%E6%96%B0AI%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%82%E8%BF%99%E5%AE%B6AI%E5%85%AC%E5%8F%B8%E6%AD%A3%E7%AD%B9%E5%A4%87%E6%9C%80%E6%97%A9%E4%BA%8E%E4%BB%8A%E5%B9%B4%E8%BF%9B%E8%A1%8C%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84IPO%EF%BC%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81%E6%AD%A3%E6%98%AF%E5%85%B6%E6%89%A9%E5%A4%A7%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E7%BE%A4%E8%AE%A1%E5%88%92%E7%9A%84%E4%B8%80%E7%8E%AF%E3%80%82https%3A%2F%2Ft.co%2FByxFmYebW1)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [备受](备受.md), [客户](客户.md), [扩大](扩大.md), [计划](计划.md), [进行](进行.md), [金融](金融.md)
+[发布](发布.md), [备受](备受.md), [客户](客户.md), [扩大](扩大.md), [计划](计划.md), [进行](进行.md), [金](金.md), [金融](金融.md)
 ___
 ##### 2026-05-05 17:37:10 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【新AI讓漏洞檢出量激增，美放棄對缺陷全面分析】隨著美國Anthropic的Mythos等先進AI問世，軟體漏洞檢出數量激增，分析與修復難以及時跟進。美國國家標準與技術研究院表示，今後將僅對緊急性較高的漏洞進行分析。若連輕微漏洞也全部修復…
@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Anthropic%E6%AD%A4%E6%AC%A1%E4%B8%8A%E5%B8%82%E5%8F%AF%E8%83%BD%E7%AD%B9%E9%9B%86%E8%B6%85%E8%BF%87600%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A62404%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%E7%9A%84%E8%B5%84%E9%87%91%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23IPO+%23OpenAIhttps%3A%2F%2Ft.co%2FVwz4m2cWWz+https%3A%2F%2Ft.co%2FaGxmYbIQpp)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [筹集](筹集.md), [超过](超过.md)
+[OpenAI](OpenAI.md), [筹集](筹集.md), [超过](超过.md), [金](金.md)
 ___
 ##### 2026-03-27 01:56:00 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 周四，一名美国联邦法官叫停了特朗普政府将Anthropic列为供应链风险企业的认定。该法官在裁决中认定，美国政府将Anthropic列为安全威胁、并禁止政府部门使用其模型的做法，侵犯了言论自由。https://t.co/HJmYrhf1XZ

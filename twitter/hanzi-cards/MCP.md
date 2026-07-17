@@ -348,7 +348,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E5%89%8D%E4%B8%A4%E5%A4%A9Zapier%E5%8F%91%E5%B8%83%E7%9A%84%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%BA%E7%9A%84MCP%EF%BC%8C%E6%B6%B5%E7%9B%96%E4%BA%86%E8%BF%87%E5%8E%BB20%E5%B9%B4%E4%B8%BB%E6%B5%81%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%92%8Csaas%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%B8%80%E4%B8%8B%E5%B8%A6%E7%9D%80%E4%BB%96%E4%BB%AC%E6%8E%A5%E5%85%A5%E4%BA%86MCP%E7%94%9F%E6%80%81%EF%BC%8C%E5%AF%B9MCP%E7%94%9F%E6%80%81%E7%9A%84%E5%8F%91%E5%B1%95%E4%BB%B7%E5%80%BC%E5%92%8C%E6%84%8F%E4%B9%89%E9%9D%9E%E5%B8%B8%E5%A4%A7%EF%BC%8C%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%B0%86%E9%99%A4%E6%A8%A1%E5%9E%8B%E5%92%8C%E6%99%BA%E8%83%BD%E4%BD%93%E4%B9%8B%E5%A4%96%E7%9A%84%E8%BD%AF%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E7%9A%84mcp%E6%94%AF%E6%8C%81%E6%8B%89%E6%BB%A1%E4%BA%86%EF%BC%8C%E7%89%9B%E9%80%BCplus%23zapier_mcp+%23M%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [工具](工具.md), [支持](支持.md), [模型](模型.md), [涵盖](涵盖.md), [生态](生态.md)
+[发布](发布.md), [工具](工具.md), [接入](接入.md), [支持](支持.md), [模型](模型.md), [涵盖](涵盖.md), [生态](生态.md)
 ___
 ##### 2025-04-03 03:36:24 UTC ~ Baye
 > RT @waylybaye: OpenCat iOS 新版也更新啦，采用了新的 UI 和交互，支持搜索模型，支持工具调用，手机上也能使用 MCP 啦。还支持最新的语音识别模型，语音输入更加精准。MCP 配置会在 iOS 和 macOS 之间自动同步，区别是 iOS 以及 A…

@@ -537,7 +537,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [顶尖](../hanzi-cards/顶尖.md) | the best; first-rate; tip-top |
 | [相比之下](../hanzi-cards/相比之下.md) | by comparison |
 | [混乱](../hanzi-cards/混乱.md) | chaotic; confused; disorderly |
-| [蓝筹](../hanzi-cards/蓝筹.md) | blue chip (stock) |
 | [深陷](../hanzi-cards/深陷.md) | to be deeply in (trouble, debt, etc.); deep set (eyes) |
 | [福岛](../hanzi-cards/福岛.md) | Fukushima |
 | [解馋](../hanzi-cards/解馋.md) | satisfy a food craving |

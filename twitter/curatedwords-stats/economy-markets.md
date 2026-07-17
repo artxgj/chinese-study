@@ -180,12 +180,14 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [账户](../hanzi-cards/账户.md) | account (e.g., bank account) |
 | [崩盘](../hanzi-cards/崩盘.md) | (stock market) crash; collapse |
 | [停牌](../hanzi-cards/停牌.md) | (of a stock) suspend trading |
+| [蓝筹](../hanzi-cards/蓝筹.md) | blue chip (stock) |
 | [石油输出国组](../hanzi-cards/石油输出国组.md) | OPEC |
 | [交易所交易基金](../hanzi-cards/交易所交易基金.md) | exchange-traded fund (ETF) |
 | [营业利润](../hanzi-cards/营业利润.md) | operating profit |
 | [本益比](../hanzi-cards/本益比.md) | P/E ratio |
 | [行情](../hanzi-cards/行情.md) | market price; quotation of market price; the current market situation |
 | [复合年增长率](../hanzi-cards/复合年增长率.md) | compound annual growth rate |
+| [杠杆](../hanzi-cards/杠杆.md)/[槓桿](../hanzi-cards/槓桿.md) | financial leverage; lever; pry bar; crowbar |
 ## Energy
 |  |  |
 | ----- | :---: |

@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BB%A7%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%E5%92%8C%E6%B2%90%E6%9B%A6%E8%82%A1%E4%BB%BD%E5%9C%A8A%E8%82%A1%E6%8E%80%E8%B5%B7%E7%83%AD%E6%BD%AE%E4%B9%8B%E5%90%8E%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%B8%82%E5%9C%BA%E4%B9%9F%E8%BF%8E%E6%9D%A5%E9%A6%96%E5%AE%B6%E5%9B%BE%E5%BD%A2%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E8%AE%BE%E8%AE%A1%E5%95%86%E5%A3%81%E4%BB%9E%E7%A7%91%E6%8A%80%EF%BC%8C%E5%85%B6%E6%B8%AF%E8%82%A1%E6%8C%82%E7%89%8C%E9%A6%96%E6%97%A5%E5%90%8C%E6%A0%B7%E5%8F%97%E5%88%B0%E8%B5%84%E9%87%91%E8%BF%BD%E6%8D%A7%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E6%B8%AF%E8%82%A1+%23%E5%A3%81%E4%BB%9E%E7%A7%91%E6%8A%80https%3A%2F%2Ft.co%2F2VwhNTzDSX+https%3A%2F%2Ft.co%2Fise9W%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[处理](处理.md), [掀起](掀起.md), [热潮](热潮.md), [科技](科技.md), [股份](股份.md), [设计](设计.md), [追捧](追捧.md), [香港](香港.md)
+[处理](处理.md), [掀起](掀起.md), [热潮](热潮.md), [科技](科技.md), [股份](股份.md), [设计](设计.md), [追捧](追捧.md), [金](金.md), [香港](香港.md)
 ___
 ##### 2025-11-27 03:12:37 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AI半導體英偉達一強格局或生變，谷歌TPU崛起】英偉達在2024年面向數據中心的AI半導體市場上掌握約8成份額。但據悉Meta正在考慮採用谷歌的高性能AI半導體TPU。越來越多觀點認為，即使不依賴英偉達昂貴的GPU，也可以開發高性能AI…

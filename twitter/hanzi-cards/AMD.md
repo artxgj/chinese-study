@@ -47,7 +47,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40KKaWSB%3A+%E4%BB%8A%E5%A4%A9%EF%BC%8CAMD+CEO%E8%8B%8F%E5%A7%BF%E4%B8%B0%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%87%AA%E5%AE%B6%E4%BC%9A%E5%9C%BA%E5%87%BA%E7%8E%B0%EF%BC%8C%E8%A2%AB%E5%9B%B4%E5%BE%97%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E2%80%94%E2%80%94%E4%B8%8A%E5%91%A8%E6%9C%AB%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9D%A5%E6%97%B6%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E5%9C%BA%E9%9D%A2%E3%80%82%E8%8B%8F%E5%A6%88%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%EF%BC%9A%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%A0%87%E6%99%AE+500+%E5%A2%9E%E9%80%9F%E5%86%A0%E5%86%9B%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%8C%E6%98%AF+AMD%E3%80%82%E4%B8%80%E5%AE%B6+60+%E5%A4%A9%E8%82%A1%E4%BB%B7%E6%B6%A8+150%25+%E7%9A%84%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%9C%A8%E4%B8%AD%E7%BE%8E%E4%B8%A4%E8%BE%B9%E5%90%8C%E6%97%B6%E8%A2%AB%E6%8E%92%E9%98%9F%E6%8E%A5%E5%BE%85%EF%BC%8C%E5%8F%99%E4%BA%8B%E5%B7%B2%E7%BB%8F%E4%B8%8D%E4%B8%80%E6%A0%B7%E4%BA%86%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上海](上海.md), [标普](标普.md), [苏姿丰](苏姿丰.md), [英伟达](英伟达.md), [黄仁勋](黄仁勋.md)
+[上海](上海.md), [标普](标普.md), [苏妈](苏妈.md), [苏姿丰](苏姿丰.md), [英伟达](英伟达.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2026-05-18 13:30:33 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 继英伟达老板黄仁勋之后，AMD 老板苏姿丰也来北京了，她今天下午，见到了中国副总理何立峰，表明愿继续拓展在华业务，持续加大在中国的投资。而明天上午，她会出现在 AMD 上海的开发者活动上。 https://t.co/2Kd3U1gTSR
@@ -159,7 +159,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Alphabet%E5%90%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E8%BF%88%E8%BF%9B%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81AMD%E7%AD%89AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E5%A4%A7%E8%B7%8C%E3%80%82%E5%88%86%E6%9E%90%E5%B8%88%E6%8C%87%E5%87%BA%EF%BC%8C%E8%B0%B7%E6%AD%8C%E8%BF%9B%E5%86%9B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A2%86%E5%9C%B0%E2%80%9C%E8%A7%A6%E5%8A%A8%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8%E7%9A%84%E6%81%90%E6%83%A7%E2%80%9D%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E8%B5%84%E9%87%91%E6%8A%95%E5%85%A5%E5%88%B0%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%85%B6%E4%BB%96%E9%A2%86%E5%9F%9F%EF%BC%8C%E9%81%93%E6%8C%87%E4%B8%8A%E6%B6%A8664%E7%82%B9%EF%BC%8C%E5%88%9B%E4%B8%8B8%E6%9C%88%E4%BB%A5%E6%9D%A5%E7%9A%84%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0%E3%80%82https%3A%2F%2Ft.co%2FA2%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [投资者](投资者.md), [指出](指出.md), [最佳](最佳.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [进军](进军.md), [领域](领域.md)
+[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [投资者](投资者.md), [指出](指出.md), [最佳](最佳.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [进军](进军.md), [金](金.md), [领域](领域.md)
 ___
 ##### 2025-11-21 16:45:49 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苏姿丰带领AMD向AI转向的决定让该公司的规模在三年间几乎扩大到原来的四倍。如今，AMD将推出最新一代AI芯片MI450，目标是与终极巨头英伟达展开较量。https://t.co/AV6hJcO0X1
@@ -236,7 +236,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E5%91%A8%E6%97%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E4%BD%9C%E4%B8%BA%E8%8E%B7%E5%BE%97%E6%96%B0%E5%87%BA%E5%8F%A3%E8%AE%B8%E5%8F%AF%E8%AF%81%E7%9A%84%E6%9D%A1%E4%BB%B6%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E5%B0%86%E6%8A%8A%E5%AE%83%E4%BB%AC%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E6%94%B6%E5%85%A5%E7%9A%8415%25%E4%B8%8A%E4%BA%A4%E7%BB%99%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E3%80%82+https%3A%2F%2Ft.co%2FDjoiy8E9o1)
 ##### Other Words/Names of Interest in the Above Tweet
-[收入](收入.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md), [金融](金融.md), [销售](销售.md)
+[收入](收入.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md), [金](金.md), [金融](金融.md), [销售](销售.md)
 ___
 ##### 2025-07-18 15:07:42 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 彭博社近日报道，美国特朗普政府近期放宽了英伟达（NVIDIA）和超微（AMD）向中国出口芯片的限制，此举引发华府对华鹰派的强烈不满。https://t.co/S09jvzUVoO https://t.co/j9fMximosc
@@ -278,7 +278,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0+%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E+%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E4%B8%8A%E6%B6%A8%EF%BC%8C%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E5%90%AF%E5%8A%A8%EF%BC%9B%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%AE%9E%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%8A%AF%E7%89%87%E9%87%87%E5%8F%96%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%EF%BC%9BAMD%E8%AD%A6%E5%91%8A%E7%A7%B0%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E5%B0%86%E5%AF%BC%E8%87%B4%E5%85%B6%E6%8D%9F%E5%A4%B18%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%9B%E9%98%BF%E6%96%AF%E9%BA%A6%E4%BB%A5%E5%AE%9E%E4%BE%8B%E6%8F%AD%E7%A4%BA%E5%85%B3%E7%A8%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E6%88%90%E6%9C%AC%EF%BC%9B%E5%8A%A0%E5%B7%9E%E5%B0%B1%E5%85%B3%E7%A8%8E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%EF%BC%9B%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E4%B8%BA%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%A1%AC%E7%9D%80%E9%99%86%E2%80%9D%E5%81%9A%E5%87%86%E5%A4%87%E3%80%82h%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
+[上涨](上涨.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [金](金.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
 ___
 ##### 2025-04-12 19:52:55 UTC ~ ruanyf
 > RT @ruanyf: 看到一篇分析，本次关税事件，美国受伤最重的科技公司是Intel。中国是它的最大市场，去年占销售29%，比美国本土还大（占25%），它的芯片全部美国制造。Intel已经很困难了，去年亏了188亿美元，现在完全没了翻身希望。最大收益者将是AMD。…
@@ -346,7 +346,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%81%BF%E9%99%A9%E5%9F%BA%E9%87%91%E6%A1%A5%E6%B0%B4%E5%9F%BA%E9%87%91%EF%BC%88Bridgewater+Associates%EF%BC%89%E8%BF%91%E6%9C%9F%E6%94%B9%E5%8F%98%E5%AF%B9%E7%A7%91%E6%8A%80%E4%B8%9A%E6%8C%81%E8%82%A1%E5%B8%83%E5%B1%80%EF%BC%8C%E5%87%8F%E5%B0%91%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88Nvidia%EF%BC%89%E7%9A%84%E6%8C%81%E8%82%A1%EF%BC%8C%E5%B9%B6%E4%B9%B0%E5%85%A5%E6%9B%B4%E5%A4%9A%E7%BE%8E%E8%B6%85%E5%BE%AE%EF%BC%88Super+Micro%EF%BC%89%E3%80%81Palantir+Technologies%E5%92%8C%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E8%82%A1%E7%A5%A8%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[买入](买入.md), [基金](基金.md), [布局](布局.md), [桥水](桥水.md), [科技](科技.md), [英伟达](英伟达.md), [超微](超微.md), [避险](避险.md)
+[买入](买入.md), [基金](基金.md), [布局](布局.md), [桥水](桥水.md), [科技](科技.md), [英伟达](英伟达.md), [超微](超微.md), [避险](避险.md), [金](金.md)
 ___
 ##### 2024-11-14 07:38:56 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD宣布将在全球裁员4%，此前该公司报告称，其大部分增长来自AI芯片和面向数据中心的其他产品。这家芯片制造商周三表示，本轮裁员是其更广泛业务战略调整的一部分。https://t.co/U5G2F0TZKh https://t.co/U5G2F0…
@@ -381,7 +381,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B%E6%8A%80%E6%9C%AF%E6%8C%81%E7%BB%AD%E5%82%B2%E8%A7%86%E7%BE%A4%E9%9B%84%EF%BC%8C%E5%B0%86%E7%94%B1%E5%A4%A7%E5%AE%A2%E6%88%B7%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%E5%8F%8A%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E7%8E%87%E5%85%88%E9%87%87%E7%94%A8%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E5%8F%B0%E7%A7%AF%E7%94%B5+%23tsmc+https%3A%2F%2Ft.co%2FXpe12EVpP8+https%3A%2F%2Ft.co%2FK3uXgFWR8w)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [先进](先进.md), [台积电](台积电.md), [客户](客户.md), [技术](技术.md), [持续](持续.md), [苹果](苹果.md), [超微](超微.md)
+[Apple](Apple.md), [先进](先进.md), [台积电](台积电.md), [客户](客户.md), [技术](技术.md), [持续](持续.md), [率先](率先.md), [苹果](苹果.md), [超微](超微.md)
 ___
 ##### 2024-08-19 20:05:58 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD同意斥资近50亿美元收购ZT Systems，为这家芯片制造商冲击英伟达在AI计算领域的主导地位带来支持。AMD表示，该交易预计将在明年上半年完成，尚需获得监管部门的批准。https://t.co/y4iNdLpOWx https://t.…
@@ -472,14 +472,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E9%93%B6%E8%AF%81%E5%88%B8%E5%88%86%E6%9E%90%E5%B8%88Vivek+Arya%E8%AE%A4%E4%B8%BA%EF%BC%8C%E6%8A%95%E8%B5%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8C%E5%8D%9A%E9%80%9A%E8%82%A1%E7%A5%A8%E6%98%AF%E7%BE%8E%E9%93%B6%E6%9C%80%E6%8E%A8%E8%8D%90%E7%9A%84%E5%9C%A8%E8%8A%AF%E7%89%87%E9%A2%86%E5%9F%9F%E6%8A%BC%E6%B3%A8AI%E8%B6%8B%E5%8A%BF%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E4%BD%86%E5%8F%A6%E6%9C%89%E5%87%A0%E5%AE%B6%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%8F%AF%E8%83%BD%E4%B9%9F%E6%9C%89%E8%8E%B7%E5%88%A9%E6%9C%BA%E4%BC%9A%E3%80%82%E4%BB%96%E6%8C%87%E5%87%BA%E4%BA%86%E7%BE%8E%E6%BB%A1%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E5%92%8CAMD%E7%9A%84%E6%BD%9C%E5%8A%9B%E3%80%82https%3A%2F%2Ft.co%2FnWLavTxZPH+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[分析](分析.md), [分析师](分析师.md), [博通](博通.md), [投资](投资.md), [押注](押注.md), [指出](指出.md), [推荐](推荐.md), [潜力](潜力.md), [科技](科技.md), [美光](美光.md), [芯片](芯片.md), [英伟达](英伟达.md), [趋势](趋势.md), [领域](领域.md)
+[分析](分析.md), [分析师](分析师.md), [博通](博通.md), [投资](投资.md), [押注](押注.md), [指出](指出.md), [推荐](推荐.md), [潜力](潜力.md), [科技](科技.md), [美光](美光.md), [芯片](芯片.md), [英伟达](英伟达.md), [趋势](趋势.md), [银](银.md), [领域](领域.md)
 ___
 ##### 2024-03-26 06:28:57 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据英国《金融时报》报道，中国政府已出台新的指导意见，禁止在国有个人电脑和服务器中使用英特尔和AMD的微处理器。 https://t.co/gt7sfkbw9Y https://t.co/gt7sfkbw9Y
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B7%B2%E5%87%BA%E5%8F%B0%E6%96%B0%E7%9A%84%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%9B%BD%E6%9C%89%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E4%BD%BF%E7%94%A8%E8%8B%B1%E7%89%B9%E5%B0%94%E5%92%8CAMD%E7%9A%84%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%E3%80%82+https%3A%2F%2Ft.co%2Fgt7sfkbw9Y+https%3A%2F%2Ft.co%2Fgt7sfkbw9Y)
 ##### Other Words/Names of Interest in the Above Tweet
-[处理](处理.md), [服务器](服务器.md), [禁止](禁止.md), [英特尔](英特尔.md), [金融](金融.md)
+[处理](处理.md), [服务器](服务器.md), [禁止](禁止.md), [英特尔](英特尔.md), [金](金.md), [金融](金融.md)
 ___
 ##### 2024-03-25 04:26:00 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国商务部长王文涛会见美国超威半导体公司（AMD）董事会主席兼首席执行官苏姿丰时强调，半导体产业的发展需要全球合作，希望中美合力为企业提供清晰的安全边界。https://t.co/LV9BuG7BSU
@@ -493,7 +493,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E6%8D%AE%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E6%8A%A5%E9%81%93%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%8E%A8%E5%87%BA%E6%8C%87%E5%AF%BC%E6%96%B9%E9%92%88%EF%BC%8C%E8%A6%81%E6%B1%82%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%EF%BC%8C%E5%9B%BD%E4%BC%81%E7%94%B5%E8%84%91%E5%92%8C%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%BE%AEAMD%EF%BC%88%E4%B9%9F%E7%A7%B0%E8%B6%85%E5%A8%81%EF%BC%89%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%8C%E9%99%A4%E4%BA%86%E7%82%B9%E5%90%8D%E4%BB%A5%E4%B8%8A%E4%B8%A4%E5%AE%B6%E4%BC%81%E4%B8%9A%EF%BC%8C%E9%87%87%E8%B4%AD%E5%87%86%E5%88%99%E8%BF%98%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E9%87%87%E8%B4%AD%E5%BE%AE%E8%BD%AFWindows%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BD%AC%E8%80%8C%E9%80%89%E6%8B%A9%F0%9F%87%A8%F0%9F%87%B3%E4%B8%AD%E5%9B%BD%E5%9B%BD%E8%B4%A7%E3%80%82htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Windows](Windows.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [服务器](服务器.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金融](金融.md), [除了](除了.md)
+[Windows](Windows.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [服务器](服务器.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金](金.md), [金融](金融.md), [除了](除了.md)
 ___
 ##### 2024-03-24 09:46:39 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 英国媒体报道，中国已推出采购需求标准，意味着中国禁止政府电脑使用英特尔和超威半导体（AMD）芯片。https://t.co/iENfB1PmrU
@@ -661,4 +661,4 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AMD%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%BB%8E%E8%B4%A2%E5%8A%A1%E6%96%B9%E9%9D%A2%E6%9D%A5%E8%AE%B2%EF%BC%8C%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%E4%B8%80%E6%97%A6%E5%AE%8C%E6%88%90%EF%BC%8C%E5%B0%86%E7%AB%8B%E5%8D%B3%E6%94%B9%E5%96%84%E5%85%AC%E5%8F%B8%E7%9A%84%E5%88%A9%E6%B6%A6%E7%8E%87%E3%80%81%E5%88%A9%E6%B6%A6%E5%92%8C%E7%8E%B0%E9%87%91%E7%94%9F%E6%88%90%E8%83%BD%E5%8A%9B%E3%80%82%E6%AD%A4%E4%B8%BE%E8%BF%98%E5%8F%AF%E8%83%BD%E6%9C%89%E5%8A%A9%E4%BA%8EAMD%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E5%AE%9E%E7%8E%B0%E5%B9%B4%E5%BA%A6%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%BF20%25%E7%9A%84%E7%9B%AE%E6%A0%87%E3%80%82https%3A%2F%2Ft.co%2FVZ0LI7rndj)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [利润](利润.md), [利润率](利润率.md), [增长](增长.md), [实现](实现.md), [收入](收入.md), [此举](此举.md)
+[交易](交易.md), [利润](利润.md), [利润率](利润率.md), [增长](增长.md), [实现](实现.md), [收入](收入.md), [此举](此举.md), [金](金.md)

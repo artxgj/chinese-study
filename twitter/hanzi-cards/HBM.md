@@ -40,14 +40,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%91%A8%E5%9B%9B%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B7%B2%E5%9C%A8%E5%85%A8%E7%90%83%E7%8E%87%E5%85%88%E9%87%8F%E4%BA%A7%E5%B9%B6%E5%87%BA%E8%B4%A7%E4%B8%9A%E7%95%8C%E6%80%A7%E8%83%BD%E6%9C%80%E9%AB%98%E7%9A%84HBM4%E4%BA%A7%E5%93%81%E3%80%82%E5%9C%A8%E6%9C%80%E8%BF%91%E5%87%A0%E4%B8%AA%E5%AD%A3%E5%BA%A6%E8%90%BD%E5%90%8E%E4%BA%8E%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E5%90%8E%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%AF%BB%E6%B1%82%E4%B8%BB%E5%AF%BCHBM4%E5%B8%82%E5%9C%BA%E3%80%82https%3A%2F%2Ft.co%2FWAYTy9YlaD)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [主导](主导.md), [季度](季度.md), [竞争](竞争.md), [量产](量产.md)
+[三星](三星.md), [主导](主导.md), [季度](季度.md), [率先](率先.md), [竞争](竞争.md), [量产](量产.md)
 ___
 ##### 2025-12-10 06:33:07 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 瑞銀：美光DDR5的利潤率從明年開始將超過HBM  對於記憶體晶片製造商來說，真正的問題是：「如果真是這樣，為什麼我們還要滿足英偉達嚴格的HBM生產要求？」他們可以提高價格，把生產外包給ASIC晶片製造商，或者降低英偉達的規格要求。
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E7%91%9E%E9%8A%80%EF%BC%9A%E7%BE%8E%E5%85%89DDR5%E7%9A%84%E5%88%A9%E6%BD%A4%E7%8E%87%E5%BE%9E%E6%98%8E%E5%B9%B4%E9%96%8B%E5%A7%8B%E5%B0%87%E8%B6%85%E9%81%8EHBM++%E5%B0%8D%E6%96%BC%E8%A8%98%E6%86%B6%E9%AB%94%E6%99%B6%E7%89%87%E8%A3%BD%E9%80%A0%E5%95%86%E4%BE%86%E8%AA%AA%EF%BC%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%95%8F%E9%A1%8C%E6%98%AF%EF%BC%9A%E3%80%8C%E5%A6%82%E6%9E%9C%E7%9C%9F%E6%98%AF%E9%80%99%E6%A8%A3%EF%BC%8C%E7%82%BA%E4%BB%80%E9%BA%BC%E6%88%91%E5%80%91%E9%82%84%E8%A6%81%E6%BB%BF%E8%B6%B3%E8%8B%B1%E5%81%89%E9%81%94%E5%9A%B4%E6%A0%BC%E7%9A%84HBM%E7%94%9F%E7%94%A2%E8%A6%81%E6%B1%82%EF%BC%9F%E3%80%8D%E4%BB%96%E5%80%91%E5%8F%AF%E4%BB%A5%E6%8F%90%E9%AB%98%E5%83%B9%E6%A0%BC%EF%BC%8C%E6%8A%8A%E7%94%9F%E7%94%A2%E5%A4%96%E5%8C%85%E7%B5%A6ASIC%E6%99%B6%E7%89%87%E8%A3%BD%E9%80%A0%E5%95%86%EF%BC%8C%E6%88%96%E8%80%85%E9%99%8D%E4%BD%8E%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84%E8%A6%8F%E6%A0%BC%E8%A6%81%E6%B1%82%E3%80%82)
 ##### Other Words/Names of Interest in the Above Tweet
-[利潤](利潤.md), [提高](提高.md), [晶片](晶片.md), [美光](美光.md), [英偉達](英偉達.md), [記憶體](記憶體.md), [降低](降低.md)
+[利潤](利潤.md), [提高](提高.md), [晶片](晶片.md), [美光](美光.md), [英偉達](英偉達.md), [記憶體](記憶體.md), [銀](銀.md), [降低](降低.md)
 ___
 ##### 2025-06-01 05:46:53 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 此外，活动还特别设置包粽子环节，邀请王储与嘉宾们亲手制作清真粽子。#南洋商报 #玻璃市 #端午节 #Perlishttps://t.co/KTBFbHBM2P https://t.co/5OgUD9XDWY
@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E4%BA%A7%E5%93%81%E5%9B%A0%E5%85%B6%E5%A4%96%E8%A1%A8%E8%A6%86%E7%9B%96%E6%9C%89%E4%B8%80%E5%B1%82%E8%BE%83%E5%8E%9A%E7%9A%84%E9%BB%84%E9%87%91%EF%BC%8C%E5%A4%96%E8%A7%82%E4%B8%8A%E4%B8%8E%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%BB%84%E9%87%91%E9%A5%B0%E5%93%81%E6%9E%81%E4%B8%BA%E7%9B%B8%E4%BC%BC%EF%BC%8C%E6%99%AE%E9%80%9A%E6%B6%88%E8%B4%B9%E8%80%85%E9%9A%BE%E4%BB%A5%E5%88%86%E8%BE%A8%EF%BC%8C%E6%9E%81%E6%98%93%E8%A2%AB%E8%AF%AF%E5%AF%BC%E3%80%82https%3A%2F%2Ft.co%2FTFDnuY3mCx+https%3A%2F%2Ft.co%2FHBMOwRUrQI)
 ##### Other Words/Names of Interest in the Above Tweet
-[消费者](消费者.md), [覆盖](覆盖.md), [饰品](饰品.md), [黄金](黄金.md)
+[消费者](消费者.md), [覆盖](覆盖.md), [金](金.md), [银](银.md), [饰品](饰品.md), [黄金](黄金.md)
 ___
 ##### 2024-12-04 06:31:44 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【美國新措遏制中國AI開發，或落空？】美國宣佈針對中國半導體的新出口管制，包括用於AI半導體等的制造設備和被稱為“高帶寬存儲器(HBM)”的產品。短期看企業早有准備，影響有限，長期看或將加快供應鏈的國產化進程……https://t.co…
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90SK%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%90%88%E4%BD%9C%E9%96%8B%E7%99%BCHBM4%EF%BC%8C2026%E5%B9%B4%E9%87%8F%E7%94%A3%E3%80%91SK%E5%9C%A82013%E5%B9%B4%E5%9C%A8%E4%B8%96%E7%95%8C%E4%B8%8A%E7%8E%87%E5%85%88%E9%96%8B%E7%99%BC%E4%BA%86HBM%E3%80%82%E4%B8%80%E9%96%8B%E5%A7%8B%E5%B0%B1%E8%88%87%E8%8B%B1%E5%81%89%E9%81%94%E5%90%88%E4%BD%9C%EF%BC%8C%E5%9C%A8%E6%8A%80%E8%A1%93%E9%96%8B%E7%99%BC%E6%96%B9%E9%9D%A2%E8%B5%B0%E5%9C%A8%E5%89%8D%E9%9D%A2%E3%80%82%E5%90%8C%E8%A1%8C%E6%A5%AD%E7%9A%84%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E5%92%8C%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E4%B9%9F%E5%9C%A8%E5%8A%A0%E7%B7%8A%E9%96%8B%E7%99%BCHBM%EF%BC%8C%E4%BD%86%E5%AF%A6%E5%8A%9B%E5%B7%AE%E8%B7%9D%E5%BE%88%E5%A4%A7%E3%80%82%E7%94%B1%E6%96%BC%E7%94%9F%E6%88%90%E5%BC%8FAI+%E7%86%B1%E6%BD%AE%EF%BC%8CHBM%E5%B8%82%E5%A0%B4%E4%B9%9F%E5%9C%A8%E6%8C%81%E7%BA%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [台積電](台積電.md), [差距](差距.md), [科技](科技.md), [美光](美光.md), [英偉達](英偉達.md), [開發](開發.md)
+[三星](三星.md), [台積電](台積電.md), [差距](差距.md), [率先](率先.md), [科技](科技.md), [美光](美光.md), [英偉達](英偉達.md), [開發](開發.md)
 ___
 ##### 2024-04-12 06:43:52 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【韓企在DRAM展開堆疊競爭，成日企商機】高頻寬內存（HBM）是把多個DRAM晶片堆疊在一起的先進記憶體。隨著AI的普及，需求急劇擴大。全球領先的是SK海力士，三星電子正在追趕。對於支撐精細堆疊技術的日系設備和材料企業來説，這也巨大的商機…

@@ -49,7 +49,8 @@
 | [高盛](../hanzi-cards/高盛.md) | Goldman Sachs | GS | 134 |
 | [谷歌](../hanzi-cards/谷歌.md) | Google | GOOG | 473 |
 | [惠普](../hanzi-cards/惠普.md) | Hewlett Packard | HPE | 9 |
-| [海信集团](../hanzi-cards/海信集团.md)/[海信集團](../hanzi-cards/海信集團.md) | Hisense | (private) | 5 |
+| [海信集团](../hanzi-cards/海信集团.md)/[海信集團](../hanzi-cards/海信集團.md) | Hisense | has public subsidiaries | 5 |
+| [海信](../hanzi-cards/海信.md) | Hisense | (private) | 12 |
 | [日立](../hanzi-cards/日立.md) | Hitachi | HTHIY | 68 |
 | [鸿海](../hanzi-cards/鸿海.md) | Hon Hai Technology Group | HNHPF | 128 |
 | [本田](../hanzi-cards/本田.md) | Honda | HMC | 283 |
@@ -59,6 +60,7 @@
 | [日本航空](../hanzi-cards/日本航空.md) | Japan Airlines (JAL) | JAPSY | 48 |
 | [摩根大通](../hanzi-cards/摩根大通.md) | JPMorgan Chase | JPM | 122 |
 | [龟甲万](../hanzi-cards/龟甲万.md)/[龜甲萬](../hanzi-cards/龜甲萬.md) | Kikkoman | KIKOY | 2 |
+| [铠侠](../hanzi-cards/铠侠.md)/[鎧俠](../hanzi-cards/鎧俠.md) | Kioxia | 285A.T | 25 |
 | [麒麟控股](../hanzi-cards/麒麟控股.md) | Kirin Holdings | KNBWY | 10 |
 | [小松](../hanzi-cards/小松.md) | Komatsu | KMTUY/KMTUF | 18 |
 | [京瓷](../hanzi-cards/京瓷.md) | Kyocera | KYOCY | 20 |
@@ -92,8 +94,7 @@
 | [尼康](../hanzi-cards/尼康.md) | Nikon | NINOY | 17 |
 | [任天堂](../hanzi-cards/任天堂.md) | Nintendo | NTDOY/NTDOF | 83 |
 | [日产](../hanzi-cards/日产.md) | Nissan | NSANY | 119 |
-| [英伟达](../hanzi-cards/英伟达.md)/[英偉達](../hanzi-cards/英偉達.md) | Nvidia | NVDA | 971 |
-| [輝達](../hanzi-cards/輝達.md) | Nvidia (Taiwan name) | NVDA | 6 |
+| [英伟达](../hanzi-cards/英伟达.md)/[英偉達](../hanzi-cards/英偉達.md)/[輝達](../hanzi-cards/輝達.md) | Nvidia | NVDA | 977 |
 | [荷兰恩智浦半导体](../hanzi-cards/荷兰恩智浦半导体.md) | NXP Semiconductors | NXPI | 1 |
 | [甲骨文](../hanzi-cards/甲骨文.md) | Oracle | ORCL | 59 |
 | [华侨银行](../hanzi-cards/华侨银行.md) | OCBC Bank | OVCHY | 17 |

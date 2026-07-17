@@ -110,7 +110,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%9C%A8%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E9%87%8C%E7%94%9F%E6%88%90%E5%BC%8F+AI+%E5%92%8C+LLM+%E6%A8%A1%E5%9E%8B%E5%A4%A7%E7%88%86%E5%8F%91%EF%BC%8C%E4%B8%8D%E5%90%8C%E4%BC%81%E4%B8%9A%E7%BB%93%E5%90%88%E8%87%AA%E5%AE%B6%E4%B8%9A%E5%8A%A1%E7%BA%B7%E7%BA%B7%E6%8E%A5%E5%85%A5%E9%83%A8%E7%BD%B2%E4%BD%BF%E7%94%A8%E3%80%82%E9%82%A3%E4%B9%88%E5%AE%83%E4%BB%AC%E6%98%AF%E5%A6%82%E4%BD%95%E6%9C%89%E6%95%88%E5%AE%9E%E7%8E%B0%E8%BF%99%E4%BA%9B%E6%8A%80%E6%9C%AF%E7%9A%84%EF%BC%8C%E9%83%BD%E5%BA%94%E7%94%A8%E4%BA%8E%E5%93%AA%E4%BA%9B%E7%9C%9F%E5%AE%9E%E8%A1%8C%E4%B8%9A%E5%9C%BA%E6%99%AF%EF%BC%9F%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E4%BB%BD%E7%B2%BE%E9%80%89%E6%A1%88%E4%BE%8B%E5%88%97%E8%A1%A8%EF%BC%9AGenAI+%26amp%3B+LLM+System+Design%EF%BC%8C%E7%BB%99%E5%87%BA%E4%BA%86%E7%AD%94%E6%A1%88%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[实现](实现.md), [实行](实行.md), [技术](技术.md), [案例](案例.md), [模型](模型.md), [爆发](爆发.md), [用于](用于.md), [行业](行业.md)
+[实现](实现.md), [实行](实行.md), [技术](技术.md), [接入](接入.md), [案例](案例.md), [模型](模型.md), [爆发](爆发.md), [用于](用于.md), [行业](行业.md)
 ___
 ##### 2025-04-18 04:24:36 UTC ~ AIGCLINK
 > RT @aigclink: 概念不错，一款LLM通用记忆MCP：Supermemory MCP，作用是让不同的AI，比如ChatGPT、Windsurf、Claude等之间可以共享上下文也就是说你与一个LLM的对话内容可以被其他LLM访问和使用，实现更连贯的对话体验目前…
@@ -292,7 +292,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E4%B8%AA%E6%9D%BE%E8%80%A6%E5%90%88%E3%80%81%E5%BC%82%E6%AD%A5%E3%80%81%E6%94%AF%E6%8C%81%E5%A4%9A%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%E9%83%A8%E7%BD%B2%E3%80%81%E5%85%B7%E6%9C%89%E6%98%93%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%92%8C%E5%AE%8C%E5%96%84%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88LLM%EF%BC%89%E6%8E%A5%E5%85%A5%E5%8A%9F%E8%83%BD%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%9AAstrBot%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FsXBfDSzUMz%E6%94%AF%E6%8C%81QQ%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E4%B8%AA%E4%BA%BA%E5%8F%B7%E3%80%81%E4%BC%81%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [开发](开发.md), [微信](微信.md), [支持](支持.md), [机器人](机器人.md), [模型](模型.md), [系统](系统.md), [聊天](聊天.md), [语言模型](语言模型.md)
+[平台](平台.md), [开发](开发.md), [微信](微信.md), [接入](接入.md), [支持](支持.md), [机器人](机器人.md), [模型](模型.md), [系统](系统.md), [聊天](聊天.md), [语言模型](语言模型.md)
 ___
 ##### 2025-02-19 02:58:53 UTC ~ akazwz
 > RT @akazwz_: 什么是MCP？MCP是一个开放协议,用于标准化应用程序如何为LLM提供上下文。将MCP视为AI应用程序的USB-C端口。正如USB-C提供了一种将设备连接到各种外围设备和附件的标准化方法一样,MCP也提供了一种将AI模型连接到不同数据源和工具的标准化方…

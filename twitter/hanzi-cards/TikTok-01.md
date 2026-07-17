@@ -272,14 +272,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E5%B0%86%E6%8E%A8%E8%BF%9B%E7%AB%8B%E6%B3%95%EF%BC%8C%E4%BB%A5%E5%BA%94%E5%AF%B9%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93TikTok%E5%BC%95%E8%B5%B7%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%BF%A7%E8%99%91%E3%80%82%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E9%BA%A6%E5%8D%A1%E9%94%A1%E6%98%9F%E6%9C%9F%E5%A4%A9%EF%BC%883%E6%9C%8826%E6%97%A5%EF%BC%89%E5%8F%91%E6%8E%A8%E6%96%87%E8%AF%B4%EF%BC%9A%E2%80%9C%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E5%B0%86%E6%8E%A8%E8%BF%9B%E7%AB%8B%E6%B3%95%EF%BC%8C%E4%BF%9D%E6%8A%A4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%85%8D%E5%8F%97%E4%B8%AD%E5%85%B1%E7%A7%91%E6%8A%80%E7%9A%84%E5%BD%B1%E5%93%8D%E3%80%82%E2%80%9Dhttps%3A%2F%2Ft.co%2FCVeKFX5xJe)
 ##### Other Words/Names of Interest in the Above Tweet
-[众议院](众议院.md), [应对](应对.md), [引起](引起.md), [影响](影响.md), [社交媒体](社交媒体.md), [科技](科技.md), [美国](美国.md), [麦](麦.md)
+[众议院](众议院.md), [应对](应对.md), [引起](引起.md), [影响](影响.md), [社交媒体](社交媒体.md), [科技](科技.md), [美国](美国.md), [锡](锡.md), [麦](麦.md)
 ___
 ##### 2023-03-26 03:53:12 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 麦卡锡说，周受资未能说明中国没有监控美国用户的数据。周受资则于星期五在TikTok发布视频描述听证会内容，并重申会继续保护用户数据免受未经授权的外国访问。https://t.co/cJWi0bwqby
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%AF%B4%EF%BC%8C%E5%91%A8%E5%8F%97%E8%B5%84%E6%9C%AA%E8%83%BD%E8%AF%B4%E6%98%8E%E4%B8%AD%E5%9B%BD%E6%B2%A1%E6%9C%89%E7%9B%91%E6%8E%A7%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82%E5%91%A8%E5%8F%97%E8%B5%84%E5%88%99%E4%BA%8E%E6%98%9F%E6%9C%9F%E4%BA%94%E5%9C%A8TikTok%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%E6%8F%8F%E8%BF%B0%E5%90%AC%E8%AF%81%E4%BC%9A%E5%86%85%E5%AE%B9%EF%BC%8C%E5%B9%B6%E9%87%8D%E7%94%B3%E4%BC%9A%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8A%A4%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E5%85%8D%E5%8F%97%E6%9C%AA%E7%BB%8F%E6%8E%88%E6%9D%83%E7%9A%84%E5%A4%96%E5%9B%BD%E8%AE%BF%E9%97%AE%E3%80%82https%3A%2F%2Ft.co%2FcJWi0bwqby)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [周受资](周受资.md), [授权](授权.md), [数据](数据.md), [美国](美国.md), [麦](麦.md)
+[发布](发布.md), [周受资](周受资.md), [授权](授权.md), [数据](数据.md), [美国](美国.md), [锡](锡.md), [麦](麦.md)
 ___
 ##### 2023-03-25 08:43:59 UTC ~ BBC News 中文
 > RT @bbcchinese: 尽管中国一再称，针对TikTok等中国公司的禁令是“政治表演”，但还是有越来越多的西方国家开始对TikTok以及其他中国科技企业增设限制。https://t.co/eWgg3nakBI
@@ -643,7 +643,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E5%A4%9A%E5%AE%B6%E5%A4%96%E5%9B%BD%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E8%AF%81%E5%AE%9E%E6%97%97%E4%B8%8B%E5%91%98%E5%B7%A5%E9%80%8F%E8%BF%87TikTok%EF%BC%8C%E4%B8%8D%E5%BD%93%E6%83%85%E6%90%9C%E8%AE%B0%E8%80%85%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E3%80%82%E5%8F%97%E5%AE%B3%E8%80%85%E8%87%B3%E5%B0%91%E5%8C%85%E5%90%AB%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E3%80%81BuzzFeed%E6%97%97%E4%B8%8B2%E5%90%8D%E8%AE%B0%E8%80%85%E3%80%82%E6%8D%AE%E6%8A%A5%EF%BC%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B7%B2%E5%BC%80%E9%99%A44%E5%90%8D%E6%B6%89%E4%BA%8B%E5%91%98%E5%B7%A5%E3%80%82https%3A%2F%2Ft.co%2Fqo6Q5SZObl)
 ##### Other Words/Names of Interest in the Above Tweet
-[字节跳动](字节跳动.md), [至少](至少.md), [证实](证实.md), [金融](金融.md)
+[字节跳动](字节跳动.md), [至少](至少.md), [证实](证实.md), [金](金.md), [金融](金融.md)
 ___
 ##### 2022-12-23 01:27:48 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: TikTok母公司字节跳动的一份内部备忘录显示，有员工不当访问了一些美国用户的数据，涉事的一名员工辞职，三人被解僱。字节跳动行政总裁梁汝波在致员工的一封电邮称，公司内部调查发现有员工不当获取了少量美国TikTok用户的数据，包括两名记者；调查由外…
@@ -797,7 +797,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84%E4%B8%80%E4%BB%BD%E4%B8%8E%E5%91%98%E5%B7%A5%E5%88%86%E4%BA%AB%E7%9A%84%E8%B4%A2%E5%8A%A1%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%8E%BB%E5%B9%B4%E7%9A%84%E8%BF%90%E8%90%A5%E4%BA%8F%E6%8D%9F%E5%A2%9E%E5%8A%A0%E9%80%BE%E4%B8%A4%E5%80%8D%EF%BC%8C%E8%B6%85%E8%BF%8770%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%96%A5%E9%87%8D%E9%87%91%E4%BB%A5%E4%BF%9D%E6%8C%81%E9%AB%98%E9%80%9F%E5%A2%9E%E9%95%BF%E3%80%82%E8%AF%A5%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%84%E6%94%B6%E5%85%A5%E8%BF%85%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8C%E7%A7%AF%E7%B4%AF%E4%BA%86%E5%A4%A7%E9%87%8F%E7%8E%B0%E9%87%91%E5%92%8C%E5%85%B6%E4%BB%96%E6%8A%95%E8%B5%84%EF%BC%8C%E4%BD%86%E5%87%80%E4%B8%9A%E7%BB%A9%E5%8F%97%E5%88%B0%E5%8F%AF%E8%BD%AC%E6%8D%A2%E8%AF%81%E5%88%B8%E4%B8%8A%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E6%9C%AA%E5%8F%98%E7%8E%B0%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[业绩](业绩.md), [增长](增长.md), [字节跳动](字节跳动.md), [投资](投资.md), [收入](收入.md), [显示](显示.md), [超过](超过.md), [转换](转换.md), [迅速](迅速.md), [逾](逾.md)
+[业绩](业绩.md), [增长](增长.md), [字节跳动](字节跳动.md), [投资](投资.md), [收入](收入.md), [显示](显示.md), [超过](超过.md), [转换](转换.md), [迅速](迅速.md), [逾](逾.md), [金](金.md)
 ___
 ##### 2022-10-04 19:47:03 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 知情人士表示，与TikTok所有者字节跳动达成的旨在在美中业务之间筑起隔离墙的协议即将敲定，但他们警告称，障碍仍然存在，包括运营方面的挑战和中共政府可能的反对。https://t.co/EzEInvEFBu
@@ -818,7 +818,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%8F%90%E8%AE%AE%E5%90%91%E5%85%B6%E6%8A%95%E8%B5%84%E8%80%85%E5%9B%9E%E8%B4%AD%E8%82%A1%E7%A5%A8%EF%BC%8C%E5%9C%A8%E6%90%81%E7%BD%AEIPO%E8%AE%A1%E5%88%92%E5%90%8E%EF%BC%8C%E6%AD%A4%E4%B8%BE%E5%B0%86%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%9C%89%E6%9C%BA%E4%BC%9A%E5%A5%97%E7%8E%B0%E3%80%82%E6%A0%B9%E6%8D%AE%E4%B8%80%E4%BB%BD%E5%8F%91%E7%BB%99%E6%8A%95%E8%B5%84%E8%80%85%E7%9A%84%E9%80%9A%E7%9F%A5%EF%BC%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B0%86%E6%8B%BF%E5%87%BA%E9%AB%98%E8%BE%BE30%E4%BA%BF%E7%BE%8E%E5%85%83%E7%8E%B0%E9%87%91%E5%90%91%E7%8E%B0%E6%9C%89%E8%82%A1%E4%B8%9C%E5%9B%9E%E8%B4%AD%E8%82%A1%E4%BB%BD%EF%BC%8C%E6%AF%8F%E8%82%A1%E5%9B%9E%E8%B4%AD%E4%BB%B7%E9%AB%98%E8%BE%BE176.9%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FdynOrzm2%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [根据](根据.md), [此举](此举.md), [股份](股份.md), [计划](计划.md)
+[字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [根据](根据.md), [此举](此举.md), [股份](股份.md), [计划](计划.md), [金](金.md)
 ___
 ##### 2022-09-15 08:24:32 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 视频应用TikTok的一位高管告诉美国参议院的一个小组，不会完全禁止中国员工访问美国用户数据。https://t.co/Vtd3Fuzwj3 https://t.co/DmlfdWGtEJ
@@ -846,7 +846,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E7%AB%9E%E7%9B%B8%E5%87%BA%E8%B5%84%E6%8C%96%E6%8E%98%E5%88%9B%E4%BD%9C%E8%80%85%E3%80%91%E8%B0%B7%E6%AD%8C%E8%AE%BE%E7%AB%8B%E4%BA%86%E5%90%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83%E8%80%85%E6%94%AF%E4%BB%981%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%A5%E9%85%AC%E7%9A%84%E5%9F%BA%E9%87%91%E3%80%82Meta%E5%B0%86%E5%90%91%E8%AE%A9%E5%88%9B%E4%BD%9C%E8%80%85%E8%8E%B7%E5%BE%97%E6%94%B6%E7%9B%8A%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%AD%89%E6%8A%95%E8%B5%8410%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82TikTok%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E5%88%9B%E4%BD%9C%E8%80%85%E5%9F%B9%E5%85%BB%E9%A1%B9%E7%9B%AE%E3%80%82%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A7%82%E4%BC%97%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%8A%A0%EF%BC%8C%E5%9F%B9%E5%85%BB%E5%88%9B%E4%BD%9C%E8%80%85%E6%88%90%E4%B8%BA%E5%85%B3%E9%94%AE%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [发布](发布.md), [启动](启动.md), [基金](基金.md), [平台](平台.md), [投资](投资.md), [挖掘](挖掘.md), [支付](支付.md), [收益](收益.md), [日本](日本.md), [竞相](竞相.md), [获得](获得.md), [设立](设立.md), [谷歌](谷歌.md), [项目](项目.md)
+[关键](关键.md), [发布](发布.md), [启动](启动.md), [基金](基金.md), [平台](平台.md), [投资](投资.md), [挖掘](挖掘.md), [支付](支付.md), [收益](收益.md), [日本](日本.md), [竞相](竞相.md), [获得](获得.md), [设立](设立.md), [谷歌](谷歌.md), [金](金.md), [项目](项目.md)
 ___
 ##### 2022-08-06 09:25:24 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 据知情人士透露，TikTok正在取消疫情期间的福利，包括许多员工的每日膳食津贴，因为该公司正敦促员工更多地在办公室工作。TikTok 7月11日宣布了重返办公室的政策，要求员工每周至少回办公室两次，但鼓励每周回来三次。https://t…
@@ -1182,7 +1182,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E8%8B%B1%E5%9B%BD%E3%80%8A%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E3%80%8B%E5%91%A8%E6%97%A5%EF%BC%888%E6%9C%888%E6%97%A5%EF%BC%89%E6%8A%A5%E5%AF%BC%EF%BC%8CTikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%9C%A8%E8%A7%A3%E5%86%B3%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E7%9A%84%E6%8B%85%E5%BF%A7%E5%90%8E%EF%BC%8C%E9%87%8D%E5%90%AF%E5%85%B6%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%9A%84%E8%AE%A1%E5%88%92%E3%80%82%E4%B8%8D%E8%BF%87%EF%BC%8C%E5%AF%B9%E4%BA%8E%E8%AF%A5%E6%8A%A5%E5%AF%BC%E7%9A%84%E8%AF%B4%E6%B3%95%EF%BC%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%88%99%E4%BA%88%E4%BB%A5%E5%90%A6%E8%AE%A4%E3%80%82https%3A%2F%2Ft.co%2FBqfZhX8XoM)
 ##### Other Words/Names of Interest in the Above Tweet
-[否认](否认.md), [字节跳动](字节跳动.md), [担忧](担忧.md), [机构](机构.md), [监管](监管.md), [计划](计划.md), [金融](金融.md), [香港](香港.md)
+[否认](否认.md), [字节跳动](字节跳动.md), [担忧](担忧.md), [机构](机构.md), [监管](监管.md), [计划](计划.md), [金](金.md), [金融](金融.md), [香港](香港.md)
 ___
 ##### 2021-08-06 06:42:35 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【TikTok下载量超Facebook成世界第一】在疫情下增长的社交网站有哪些？日本经济新闻调查了2020年全球下载量，抖音国际版TikTok首次排到第1。特朗普曾要求出售美国业务或禁止使用TikTok。但疫情下TikTok人气越来越高。…
@@ -1252,7 +1252,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E4%B8%AD%E5%9B%BD%E7%9A%84%22%E9%93%81%E6%9D%86%22%E6%9C%8B%E5%8F%8B%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%9C%A83%E6%9C%8811%E6%97%A5%E5%B0%81%E9%94%81%E4%BA%86TikTok%EF%BC%8C%E6%AD%A4%E5%89%8D%E8%AF%A5%E5%9B%BD%E6%B3%95%E9%99%A2%E4%B8%8B%E4%BB%A4%E7%A6%81%E6%AD%A2%E8%BF%99%E4%B8%80%E5%BA%94%E7%94%A8%EF%BC%8C%E6%8C%87%E5%85%B6%E2%80%9C%E4%BC%A0%E6%92%AD%E4%B8%8D%E9%9B%85%E3%80%81%E4%B8%8D%E9%81%93%E5%BE%B7%E5%86%85%E5%AE%B9%E2%80%9D%E3%80%82%E5%9C%A8%E9%82%BB%E5%9B%BD%E5%8D%B0%E5%BA%A6%EF%BC%8C%E8%BF%99%E6%AC%BE%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%81%AB%E7%88%86%E7%9F%AD%E8%A7%86%E9%A2%91APP%E6%97%A9%E5%B7%B2%E8%A2%AB%E7%A6%81%E3%80%82https%3A%2F%2Ft.co%2FXlc4I4KZYk)
 ##### Other Words/Names of Interest in the Above Tweet
-[印度](印度.md), [封锁](封锁.md), [巴基斯坦](巴基斯坦.md), [禁止](禁止.md)
+[印度](印度.md), [封锁](封锁.md), [巴基斯坦](巴基斯坦.md), [禁止](禁止.md), [铁](铁.md)
 ___
 ##### 2020-11-27 22:03:59 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 网红的行动看起来像是一场草根努力，但事实并非如此。知情人士透露，在幕后，这场法律行动是由TikTok及其母公司字节跳动策划的。这些人士称，字节跳动组织这几位网红作为原告，为他们联系了一位顶级律师，并帮助设定了法律策略，与该公司以自己名义提起的另一…

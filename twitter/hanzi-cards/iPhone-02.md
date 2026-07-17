@@ -13,7 +13,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E6%B9%BEIT%E9%81%87%E4%B8%8AiPhone%E5%87%8F%E4%BA%A7%E5%86%B2%E5%87%BB%E3%80%91%E7%94%B1%E4%BA%8E%E7%94%B5%E6%BA%90%E7%B1%BB%E5%92%8C%E6%97%A0%E7%BA%BF%E7%B1%BB%E7%9A%84%E9%80%9A%E7%94%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%9F%AD%E7%BC%BA%EF%BC%8C%E5%B9%B4%E5%86%85%E7%9A%84iPhone%E7%94%9F%E4%BA%A7%E8%AE%A1%E5%88%92%E8%A2%AB%E6%8C%87%E5%AD%98%E5%9C%A8%E6%9C%80%E5%A4%9A%E4%B8%8B%E8%B0%831000%E4%B8%87%E9%83%A8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%82%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E5%90%91%E8%8B%B9%E6%9E%9C%E4%BE%9B%E5%BA%94%E5%A4%A7%E9%87%8F%E9%9B%B6%E9%83%A8%E4%BB%B6%E3%80%81%E8%BF%98%E8%B4%9F%E8%B4%A3%E7%BB%84%E8%A3%85%E7%9A%84%E5%8F%B0%E6%B9%BE19%E5%AE%B6%E4%B8%BB%E8%A6%81%E4%BC%81%E4%B8%9A%E7%9A%8410%E6%9C%88%E8%90%A5%E6%94%B613%E4%B8%AA%E6%9C%88%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%AC%E4%B8%BA%E4%B8%8B%E6%BB%91%E2%80%A6%E2%80%A6h%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下滑](下滑.md), [冲击](冲击.md), [半导体](半导体.md), [台湾](台湾.md), [生产](生产.md), [短缺](短缺.md), [组装](组装.md), [苹果](苹果.md), [营收](营收.md), [计划](计划.md), [零部件](零部件.md)
+[下滑](下滑.md), [冲击](冲击.md), [半导体](半导体.md), [台湾](台湾.md), [无线](无线.md), [生产](生产.md), [短缺](短缺.md), [组装](组装.md), [苹果](苹果.md), [营收](营收.md), [计划](计划.md), [零部件](零部件.md)
 ___
 ##### 2021-11-18 06:47:56 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司周三表示，已经创建了一个自助维修计划，这将允许客户使用原装零件和工具来维修自己的设备。该计划将首先用于其最新的iPhone 12和iPhone 13系列产品，然后将用于采用苹果公司M1芯片的Mac电脑。https://t.co/6Fn9V…
@@ -258,7 +258,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%8B%B1%E7%89%B9%E5%B0%94%E7%8E%87%E5%85%88%E9%87%87%E7%94%A8%E5%8F%B0%E7%A7%AF%E7%94%B53%E7%BA%B3%E7%B1%B3%E6%8A%80%E6%9C%AF%E3%80%91%E8%8B%B9%E6%9E%9C%E4%B8%8E%E8%8B%B1%E7%89%B9%E5%B0%94%E9%83%BD%E5%9C%A8%E6%B5%8B%E8%AF%95%E5%8F%B0%E7%A7%AF%E7%94%B5%E7%9A%843%E7%BA%B3%E7%B1%B3%E5%88%B6%E7%A8%8B%EF%BC%8C%E6%9C%80%E5%BF%AB%E8%8A%AF%E7%89%87%E4%BA%A7%E5%87%BA%E6%97%B6%E9%97%B4%E5%B0%86%E8%90%BD%E5%9C%A8%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%87%B3%E5%90%8E%E5%B9%B4%E5%88%9D%E3%80%82%E9%A6%96%E5%85%88%E6%90%AD%E8%BD%BD3%E7%BA%B3%E7%B1%B3%E5%88%B6%E7%A8%8B%E7%9A%84%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E5%B0%86%E6%98%AFiPad%2C+%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82%E7%9A%84iPhone%E5%B0%86%E9%87%87%E7%94%A85%E7%BA%B3%E7%B1%B3%E5%92%8C3%E7%BA%B3%E7%B1%B3%E4%B9%8B%E9%97%B4%E7%9A%844%E7%BA%B3%E7%B1%B3%E6%8A%80%E6%9C%AF%E2%80%A6%E2%80%A6https%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[台积电](台积电.md), [技术](技术.md), [纳米](纳米.md), [芯片](芯片.md), [英特尔](英特尔.md), [苹果](苹果.md)
+[台积电](台积电.md), [技术](技术.md), [率先](率先.md), [纳米](纳米.md), [芯片](芯片.md), [英特尔](英特尔.md), [苹果](苹果.md)
 ___
 ##### 2021-06-25 05:50:40 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果在周三公布的报告中称，允许用户在不使用苹果App Store的情况下直接将应用程序下载到iPhone上，可能使用户数据受到勒索软件攻击，从而损害用户的利益。与此同时，美国和欧洲监管都在通过立法为绕过App Store下载软件打开大门。http…
@@ -321,7 +321,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BC%81%E4%B8%9A%E6%8E%92%E5%9C%A8%E8%8B%B9%E6%9E%9C%E4%BE%9B%E8%B4%A7%E5%95%86%E7%9A%84%E9%A6%96%E4%BD%8D%E3%80%91%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB%E5%88%86%E6%9E%90%E8%8B%B9%E6%9E%9C%E6%8A%AB%E9%9C%B2%E7%9A%842020%E5%B9%B4%E4%BE%9B%E8%B4%A7%E5%95%86%E5%90%8D%E5%8D%95%E6%98%BE%E7%A4%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%EF%BC%88%E5%8C%85%E6%8B%AC%E9%A6%99%E6%B8%AF%EF%BC%89%E4%BC%81%E4%B8%9A%E5%9C%A8200%E5%AE%B6%E4%B8%AD%E5%8D%A051%E5%AE%B6%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E5%8F%B0%E6%B9%BE%E3%80%82%E4%BD%86%E6%8B%86%E8%A7%A3%E2%80%9CiPhone12%E2%80%9D%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%BE%E7%A4%BA%EF%BC%8C%E5%9C%A8%E9%87%91%E9%A2%9D%E6%96%B9%E9%9D%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E4%BB%85%E5%8D%A04.7%EF%BC%85%E2%80%A6%E2%80%A6https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[供货](供货.md), [供货商](供货商.md), [分析](分析.md), [包括](包括.md), [台湾](台湾.md), [披露](披露.md), [拆解](拆解.md), [日本](日本.md), [显示](显示.md), [苹果](苹果.md), [超过](超过.md), [金额](金额.md), [香港](香港.md)
+[供货](供货.md), [供货商](供货商.md), [分析](分析.md), [包括](包括.md), [台湾](台湾.md), [披露](披露.md), [拆解](拆解.md), [日本](日本.md), [显示](显示.md), [苹果](苹果.md), [超过](超过.md), [金](金.md), [金额](金额.md), [香港](香港.md)
 ___
 ##### 2021-05-25 00:09:43 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【苹果支撑着夏普业绩】​夏普预计合并净利润将比上财年增加43％，业绩趋于好转。2021年夏普向苹果iPhone供应的液晶显示屏预计比2020年增加11％，与苹果加深合作关系起到了拉动作用，但或许不能长久……https://t.co/PF7…
@@ -356,7 +356,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94%E6%8B%86%E8%A7%A3%E5%B0%8F%E7%B1%B3%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BB%B7%E6%A0%BC%E4%BC%98%E5%8A%BF%E3%80%91%E4%B8%AD%E5%9B%BD5G%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%87%BA%E4%BB%B7%E6%A0%BC%E4%BC%98%E5%8A%BF%EF%BC%8C%E5%B0%8F%E7%B1%B3%E9%80%9A%E8%BF%87%E8%BD%AF%E9%93%B6%E6%8E%A8%E5%87%BA%E4%BA%86%E4%B8%8D%E5%88%B02%E4%B8%87%E6%97%A5%E5%85%83%EF%BC%88%E7%BA%A6%E5%90%88%E4%BA%BA%E6%B0%91%E5%B8%811197%E5%85%83%EF%BC%89%E7%9A%84%E6%9C%BA%E5%9E%8B%E3%80%82%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%BB%88%E7%AB%AF%E5%B8%82%E5%9C%BA%EF%BC%8C%E9%AB%98%E7%AB%AF%E5%BD%A2%E8%B1%A1%E7%9A%84iPhone%E4%BB%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%9A%84%E2%80%9C%E6%8C%91%E6%88%98%E4%B9%A6%E2%80%9D%E6%98%AF%E4%BC%9A%E8%83%BD%E5%BC%95%E5%8F%91%E4%BB%B7%E6%A0%BC%E7%A0%B4%E5%9D%8F%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [优势](优势.md), [受欢迎](受欢迎.md), [小米](小米.md), [引发](引发.md), [拆解](拆解.md), [挑战](挑战.md), [推出](推出.md), [日本](日本.md), [显示](显示.md), [破坏](破坏.md), [软银](软银.md)
+[价格](价格.md), [优势](优势.md), [受欢迎](受欢迎.md), [小米](小米.md), [引发](引发.md), [拆解](拆解.md), [挑战](挑战.md), [推出](推出.md), [日本](日本.md), [显示](显示.md), [破坏](破坏.md), [软银](软银.md), [银](银.md)
 ___
 ##### 2021-04-09 07:29:32 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #视频 在电动车时代，科技公司逐渐成为汽车行业的关键玩家，汽车也越来越像装上轮子的巨型电脑。我们在一位3D打印艺术家的帮助下用一部iPhone 11的零件造了一辆微型电动车，并采访了多位研究电池、芯片、自主驾驶等领域的专家，以更好地理解科技巨头涉…
@@ -377,7 +377,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94%E6%8B%86%E8%A7%A3%E5%B0%8F%E7%B1%B3%E7%9C%8B%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BB%B7%E6%A0%BC%E4%BC%98%E5%8A%BF%E3%80%91%E4%B8%AD%E5%9B%BD5G%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%87%BA%E4%BB%B7%E6%A0%BC%E4%BC%98%E5%8A%BF%EF%BC%8C%E5%B0%8F%E7%B1%B3%E9%80%9A%E8%BF%87%E8%BD%AF%E9%93%B6%E6%8E%A8%E5%87%BA%E4%BA%86%E4%B8%8D%E5%88%B02%E4%B8%87%E6%97%A5%E5%85%83%EF%BC%88%E7%BA%A6%E5%90%88%E4%BA%BA%E6%B0%91%E5%B8%811197%E5%85%83%EF%BC%89%E7%9A%84%E6%9C%BA%E5%9E%8B%E3%80%82%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%BB%88%E7%AB%AF%E5%B8%82%E5%9C%BA%EF%BC%8C%E9%AB%98%E7%AB%AF%E5%BD%A2%E8%B1%A1%E7%9A%84iPhone%E4%BB%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%9A%84%E2%80%9C%E6%8C%91%E6%88%98%E4%B9%A6%E2%80%9D%E6%98%AF%E4%BC%9A%E8%83%BD%E5%BC%95%E5%8F%91%E4%BB%B7%E6%A0%BC%E7%A0%B4%E5%9D%8F%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[价格](价格.md), [优势](优势.md), [受欢迎](受欢迎.md), [小米](小米.md), [引发](引发.md), [拆解](拆解.md), [挑战](挑战.md), [推出](推出.md), [日本](日本.md), [显示](显示.md), [破坏](破坏.md), [软银](软银.md)
+[价格](价格.md), [优势](优势.md), [受欢迎](受欢迎.md), [小米](小米.md), [引发](引发.md), [拆解](拆解.md), [挑战](挑战.md), [推出](推出.md), [日本](日本.md), [显示](显示.md), [破坏](破坏.md), [软银](软银.md), [银](银.md)
 ___
 ##### 2021-03-15 06:09:59 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【苹果上半年将减产iPhone12 mini】iPhone12 mini机型在苹果2020年秋季上市的4款iPhone中屏幕最小、电池容量也最小，其市场需求低于预期。iPhone12 Pro 以及iPhone12 Pro Max等其他机型…

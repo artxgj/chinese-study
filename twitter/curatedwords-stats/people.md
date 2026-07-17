@@ -27,9 +27,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [蔡正元](../hanzi-cards/蔡正元.md) | Tsai Cheng-yuan (Alex Tsai) |
 | [李光耀](../hanzi-cards/李光耀.md) | Lee Kuan Yew |
 | [雷军](../hanzi-cards/雷军.md)/[雷軍](../hanzi-cards/雷軍.md) | Lei Jun |
-| [黄仁勋](../hanzi-cards/黄仁勋.md)/[黃仁勛](../hanzi-cards/黃仁勛.md) | Jensen Huang |
-| [黃仁勳](../hanzi-cards/黃仁勳.md) | Jensen Huang |
-| [苏姿丰](../hanzi-cards/苏姿丰.md)/[蘇姿丰](../hanzi-cards/蘇姿丰.md) | Lisa Su |
+| [黄仁勋](../hanzi-cards/黄仁勋.md)/[黃仁勛](../hanzi-cards/黃仁勛.md)/[黃仁勳](../hanzi-cards/黃仁勳.md) | Jensen Huang |
+| [苏妈](../hanzi-cards/苏妈.md)/[苏姿丰](../hanzi-cards/苏姿丰.md)/[蘇姿丰](../hanzi-cards/蘇姿丰.md) | Lisa Su |
 | [陈立武](../hanzi-cards/陈立武.md) | Lip-Bu Tan, CEO of Intel |
 | [郭台铭](../hanzi-cards/郭台铭.md) | Terry Gou |
 | [马云](../hanzi-cards/马云.md) | Jack Ma |
@@ -51,5 +50,5 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [巴菲特](../hanzi-cards/巴菲特.md) | Buffett |
 | [芒格](../hanzi-cards/芒格.md) | Munger |
 | [杰弗里·萨克斯](../hanzi-cards/杰弗里·萨克斯.md) | Jeffrey Sachs |
-| [川普](../hanzi-cards/川普.md)/[特朗普](../hanzi-cards/特朗普.md) | Donald Trump |
+| [川普](../hanzi-cards/川普.md)/[川建国](../hanzi-cards/川建国.md)/[特朗普](../hanzi-cards/特朗普.md) | Donald Trump |
 | [尼克松](../hanzi-cards/尼克松.md) | Nixon (Richard Milhaus) |

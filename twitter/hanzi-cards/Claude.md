@@ -103,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Google+%E6%9D%80%E7%96%AF%E4%BA%86%EF%BC%8C%E6%94%BE%E5%87%BA%E5%AF%B9%E6%A0%87+Claude+Code+%E5%92%8C+Cursor+%E7%9A%84+Gemini+CLI%E4%B8%8D%E8%A6%81100%E7%BE%8E%E9%87%91%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%85%8D%E8%B4%B9%E6%8F%90%E4%BE%9B%E3%80%82%E4%B8%8D%E4%BB%85%E5%85%8D%E8%B4%B9%EF%BC%8C%E8%80%8C%E4%B8%94%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B8%80%E5%8F%91%E5%B8%83%E7%9E%AC%E9%97%B4+3k+Star%EF%BC%81%E6%AF%8F%E5%A4%A91000%E6%AC%A1%E8%B0%83%E7%94%A8%E4%BB%A5%E5%86%85%E9%83%BD%E5%85%8D%E8%B4%B9%EF%BC%8C%E9%9D%9E%E5%B8%B8%E4%B9%8B%E7%A6%BB%E8%B0%B1%E3%80%82%E4%B8%8D%E7%AE%A1%E5%85%B7%E4%BD%93%E6%B0%B4%E5%B9%B3%E6%80%8E%E4%B9%88%E8%AF%B4%EF%BC%8C%E5%85%88%E8%AF%95%E8%AF%95%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemini](Gemini.md), [不仅](不仅.md), [发布](发布.md), [开源](开源.md), [提供](提供.md), [水平](水平.md), [直接](直接.md), [瞬间](瞬间.md)
+[Gemini](Gemini.md), [不仅](不仅.md), [发布](发布.md), [开源](开源.md), [提供](提供.md), [水平](水平.md), [直接](直接.md), [瞬间](瞬间.md), [金](金.md)
 ___
 ##### 2025-06-07 03:54:43 UTC ~ karminski-牙医
 > RT @karminski3: 看到个写得非常好的 Claude Code 的架构解析。想要制作类似命令行 Coding Agent 工具或者魔改的同学可以深入看看。尤其是 控制流与编排引擎 和 工具和执行引擎 这两章建议重点看，做其它 Agent 工具也很有参考价值。…
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%88%91%E7%9D%A1%E9%86%92%E4%BA%86%E8%80%81%E9%93%81%E4%BB%AC%EF%BC%8C%E5%BC%80%E5%A7%8B%E6%B5%8B%E8%AF%95%E4%BA%86%EF%BC%8C%E7%9B%B4%E6%8E%A5%E6%9E%9C%E6%96%AD%E5%86%B2+40+%E5%88%80%EF%BC%8C%E9%A1%BA%E4%BE%BF%E6%8A%8A+Claude-4+%E5%81%B7%E6%87%92%E6%B2%A1%E5%BC%84%E7%9A%84%E4%B9%9F%E8%A1%A5%E4%B8%8A%E3%80%82%E5%85%B6%E4%BB%96%E7%9A%84%E7%94%A8+OpenRouter+API+%E6%B5%8B%EF%BC%8CDeepSeek-R1-0528+%E7%94%A8%E5%AE%98%E7%BD%91+API+%E6%B5%8B%E3%80%82%E5%B9%B8%E5%A5%BD%E6%88%91%E8%BF%99%E4%B8%AA%E6%97%B6%E9%97%B4%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%99%9A%E4%B8%8A%E7%94%A8DeepSeek+%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E8%B6%85%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [直接](直接.md)
+[DeepSeek](DeepSeek.md), [直接](直接.md), [铁](铁.md)
 ___
 ##### 2025-05-11 07:30:26 UTC ~ AI Will
 > RT @FinanceYF5: 4. 只需几分钟即可构建、部署并盈利化远程MCP服务器。这个MCP模板让你可以通过预配置的Stripe、OAuth登录和Cloudflare部署，快速构建并盈利化MCP服务器。与Cursor、Claude等兼容，立即生效。https:/…

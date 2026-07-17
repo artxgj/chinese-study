@@ -80,7 +80,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [七七事变](../hanzi-cards/七七事变.md) | July 7 Incident/Lugou Bridge Incident/Marco Polo Bridge Incident |
-| [九一八事变](../hanzi-cards/九一八事变.md)/[九一八事變](../hanzi-cards/九一八事變.md) | September 18 Incident |
+| [九一八事变](../hanzi-cards/九一八事变.md)/[九一八事變](../hanzi-cards/九一八事變.md)/[九一八](../hanzi-cards/九一八.md) | September 18 Incident |
 ## Idioms
 |  |  |
 | ----- | :---: |

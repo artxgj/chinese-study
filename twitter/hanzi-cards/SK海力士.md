@@ -40,7 +40,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86%E7%BE%8E%E5%85%89%E3%80%81%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%8F%8ASK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%8F%82%E4%B8%8E%E4%BA%86%E6%9C%AC%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%85%B7%E4%BD%93%E9%87%91%E9%A2%9D%E6%9C%AA%E6%8A%AB%E9%9C%B2%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23OpenAIhttps%3A%2F%2Ft.co%2FVgZavEsBxQ+https%3A%2F%2Ft.co%2FKa33WdhEvW)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [三星](三星.md), [厂商](厂商.md), [存储](存储.md), [披露](披露.md), [美光](美光.md), [芯片](芯片.md), [融资](融资.md), [金额](金额.md)
+[Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [三星](三星.md), [厂商](厂商.md), [存储](存储.md), [披露](披露.md), [美光](美光.md), [芯片](芯片.md), [融资](融资.md), [金](金.md), [金额](金额.md)
 ___
 ##### 2026-05-05 07:39:50 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 今年以来三星股价涨幅约94%，SK海力士则高达122%。#南洋商报 #SamsungElectronics #SKHynixhttps://t.co/Wwj6VY3J78 https://t.co/iPysEqnNoX
@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E4%B8%8E%E9%93%A0%E4%BE%A0%E7%9A%84%E5%90%88%E5%B9%B6%E8%B0%88%E5%88%A4%E4%B8%AD%E6%AD%A2%E3%80%91%E8%A5%BF%E9%83%A8%E6%95%B0%E6%8D%AE%E5%B7%B2%E5%90%91%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E7%AD%89%E5%8F%91%E5%87%BA%E4%BA%86%E8%B0%88%E5%88%A4%E4%B8%AD%E6%AD%A2%E9%80%9A%E7%9F%A5%E3%80%82%E5%90%88%E5%B9%B6%E6%A1%88%E6%9C%AA%E8%83%BD%E5%BE%97%E5%88%B0%E5%AF%B9%E9%93%A0%E4%BE%A0%E9%97%B4%E6%8E%A5%E5%87%BA%E8%B5%84%E7%9A%84%E9%9F%A9%E5%9B%BDSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%9A%84%E5%90%8C%E6%84%8F%EF%BC%8C%E8%80%8C%E4%B8%94%E6%9C%AA%E8%83%BD%E4%B8%8E%E9%93%A0%E4%BE%A0%E7%9A%84%E6%9C%80%E5%A4%A7%E8%82%A1%E4%B8%9C%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91%E5%85%AC%E5%8F%B8%E8%B4%9D%E6%81%A9%E8%B5%84%E6%9C%AC%E5%B0%B1%E5%90%88%E5%B9%B6%E6%9D%A1%E4%BB%B6%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FOvlvbuP%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[中止](中止.md), [基金](基金.md), [投资](投资.md), [数据](数据.md), [美国](美国.md), [谈判](谈判.md), [达成](达成.md), [韩国](韩国.md)
+[中止](中止.md), [基金](基金.md), [投资](投资.md), [数据](数据.md), [美国](美国.md), [谈判](谈判.md), [达成](达成.md), [金](金.md), [铠侠](铠侠.md), [韩国](韩国.md)
 ___
 ##### 2023-10-11 01:50:35 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【韩国称美国放宽半导体限制，三星等可对中国工厂投资】韩国总统府10月9日表示：“韩国企业变得无需经过特别手续即可（向中国）引进设备”。 据悉美国已将三星和SK海力士指定为“已验证用户”，三星和SK海力士获准可对中国国内的自家工厂进行追加投…
@@ -187,14 +187,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E6%8E%80%E8%B5%B7%E5%87%8F%E4%BA%A7%E6%B5%AA%E6%BD%AE%E3%80%91%E2%80%9C%E8%BF%87%E5%8E%BB%E4%BB%8E%E6%9C%AA%E7%BB%8F%E5%8E%86%E8%BF%87%E5%A6%82%E6%AD%A4%E4%B8%A5%E9%87%8D%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%B8%8D%E6%99%AF%E6%B0%94%E7%8A%B6%E5%86%B5%E2%80%9D%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%A1%8C%E6%83%85%E6%81%B6%E5%8C%96%E8%B6%8B%E4%BA%8E%E9%95%BF%E6%9C%9F%E5%8C%96%EF%BC%8C%E6%97%A5%E6%9C%AC%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E5%86%B3%E5%AE%9A%E6%8E%A8%E8%BF%9FNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B0%E5%B7%A5%E5%8E%82%E7%9A%84%E6%8A%95%E4%BA%A7%E6%97%B6%E9%97%B4%E3%80%82%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8F%90%E9%AB%98%E5%87%8F%E4%BA%A7%E5%B9%85%E5%BA%A6%E3%80%82%E2%80%9C%E5%87%8F%E4%BA%A7%E5%A4%9A%E7%B1%B3%E8%AF%BA%E6%95%88%E5%BA%94%E2%80%9D%E6%AD%A3%E5%9C%A8NAND%E9%A2%86%E5%9F%9F%E6%89%A9%E6%95%A3%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [领域](领域.md)
+[NAND](NAND.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [铠侠](铠侠.md), [领域](领域.md)
 ___
 ##### 2023-03-14 00:16:09 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【半导体存储器的疲软行情加剧】2022年10～12月，三星电子半导体业务的营业利润下降97％。SK海力士、铠侠控股等出现营业亏损。存储器价格自2022年7～9月转为下跌走势。面对手机等终端需求的迅速放缓，供应过剩的半导体产品面临强烈的价格…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E7%96%B2%E8%BD%AF%E8%A1%8C%E6%83%85%E5%8A%A0%E5%89%A7%E3%80%912022%E5%B9%B410%EF%BD%9E12%E6%9C%88%EF%BC%8C%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%B8%9A%E5%8A%A1%E7%9A%84%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D97%EF%BC%85%E3%80%82SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E7%AD%89%E5%87%BA%E7%8E%B0%E8%90%A5%E4%B8%9A%E4%BA%8F%E6%8D%9F%E3%80%82%E5%AD%98%E5%82%A8%E5%99%A8%E4%BB%B7%E6%A0%BC%E8%87%AA2022%E5%B9%B47%EF%BD%9E9%E6%9C%88%E8%BD%AC%E4%B8%BA%E4%B8%8B%E8%B7%8C%E8%B5%B0%E5%8A%BF%E3%80%82%E9%9D%A2%E5%AF%B9%E6%89%8B%E6%9C%BA%E7%AD%89%E7%BB%88%E7%AB%AF%E9%9C%80%E6%B1%82%E7%9A%84%E8%BF%85%E9%80%9F%E6%94%BE%E7%BC%93%EF%BC%8C%E4%BE%9B%E5%BA%94%E8%BF%87%E5%89%A9%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E5%93%81%E9%9D%A2%E4%B8%B4%E5%BC%BA%E7%83%88%E7%9A%84%E4%BB%B7%E6%A0%BC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [下跌](下跌.md), [价格](价格.md), [利润](利润.md), [加剧](加剧.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [放缓](放缓.md), [营业利润](营业利润.md), [行情](行情.md), [迅速](迅速.md), [过剩](过剩.md), [需求](需求.md), [面临](面临.md)
+[三星](三星.md), [下跌](下跌.md), [价格](价格.md), [利润](利润.md), [加剧](加剧.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [放缓](放缓.md), [营业利润](营业利润.md), [行情](行情.md), [迅速](迅速.md), [过剩](过剩.md), [铠侠](铠侠.md), [需求](需求.md), [面临](面临.md)
 ___
 ##### 2023-01-10 00:17:11 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【日韩等外资在大连扩大设备投资】外资整体的2022年对大连投资额创出有可比数据的过去4年的新高。丰田和松下的合资公司在生产EV电池的大连启动了第3座工厂建设。日本电产也建设了生产马达的新工厂。除了日企外，韩国SK海力士也将扩建从美国英特尔…
@@ -215,7 +215,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%9F%A9%E5%9B%BDSK%E6%8A%BD%E4%B8%AD%E2%80%9C%E4%B8%8B%E4%B8%8B%E7%AD%BE%E2%80%9D%E3%80%91SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%BB%A5%E9%9F%A9%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%9A%84%E9%87%91%E9%A2%9D%E6%94%B6%E8%B4%AD%E4%BA%86%E8%8B%B1%E7%89%B9%E5%B0%94%E5%9C%A8%E5%A4%A7%E8%BF%9E%E7%9A%84%E9%97%AA%E5%AD%98%E5%B7%A5%E5%8E%82%EF%BC%8C%E4%BD%86%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%99%90%E5%88%B6%E5%8D%87%E7%BA%A7%EF%BC%8CSK%E7%9A%84%E5%A2%9E%E4%BA%A7%E6%8A%95%E8%B5%84%E4%BA%AE%E8%B5%B7%E4%BA%86%E9%BB%84%E7%81%AF%E3%80%82%E4%BD%86%E5%A6%82%E6%9E%9C%E7%8E%B0%E9%98%B6%E6%AE%B5%E5%8D%A04%E6%88%90%E4%BA%A7%E8%83%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%97%A0%E6%B3%95%E6%9B%B4%E6%96%B0%E8%AE%BE%E5%A4%87%EF%BC%8CSK%E6%95%B4%E4%BD%93%E7%9A%84%E7%AB%9E%E4%BA%89%E5%8A%9B%E5%BE%88%E5%8F%AF%E8%83%BD%E5%A4%A7%E5%B9%85%E4%B8%8B%E9%99%8D%E2%80%A6%E2%80%A6https%3A%2F%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[升级](升级.md), [半导体](半导体.md), [大幅](大幅.md), [大连](大连.md), [投资](投资.md), [收购](收购.md), [竞争](竞争.md), [美国](美国.md), [英特尔](英特尔.md), [规模](规模.md), [金额](金额.md), [阶段](阶段.md), [限制](限制.md), [韩国](韩国.md)
+[升级](升级.md), [半导体](半导体.md), [大幅](大幅.md), [大连](大连.md), [投资](投资.md), [收购](收购.md), [竞争](竞争.md), [美国](美国.md), [英特尔](英特尔.md), [规模](规模.md), [金](金.md), [金额](金额.md), [阶段](阶段.md), [限制](限制.md), [韩国](韩国.md)
 ___
 ##### 2022-11-16 05:06:28 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【ASML将在韩国设立半导体制造设备技术基地】在中美技术对立导致半导体尖端领域成为焦点的背景下，ASML将通过在台湾和韩国等地区设立技术基地，与客户企业之间建立紧密合作体制。美国应用材料、日本TEL等也纷纷在韩国与三星、SK海力士等团队共…

@@ -33,14 +33,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%23iOS27+WiFi+%E6%96%B0%E5%A2%9E%E7%B1%BB%E5%9E%8B%E8%AF%B4%E6%98%8E%EF%BC%8C%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E7%94%A8%E6%88%B7%E8%AF%86%E5%88%AB%E8%87%AA%E5%B7%B1%E4%BD%BF%E7%94%A8%E7%9A%84%E6%98%AF+WiFi+5%2F6%2F7+%E7%AD%89%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8D%8F%E8%AE%AE%E3%80%82%E7%94%A8%E6%88%B7%E7%82%B9%E5%87%BB%E5%B7%B2%E8%BF%9E%E6%8E%A5+WiFi+%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%B9%E5%8F%B7%E5%8D%B3%E5%8F%AF%E8%BF%9B%E5%85%A5%E8%AF%A6%E7%BB%86%E9%A1%B5%E9%9D%A2%EF%BC%8C%E8%BF%99%E9%87%8C%E9%9D%A2%E4%BC%9A%E6%98%BE%E7%A4%BA%E6%97%A0%E7%BA%BF%E5%B1%80%E5%9F%9F%E7%BD%91+6+%E7%AD%89%E5%AD%97%E6%A0%B7%E5%92%8C%E5%AF%B9%E5%BA%94%E7%9A%84%E5%8D%8F%E8%AE%AE%E4%BE%8B%E5%A6%82+802.11ax%EF%BC%8C%E8%BF%99%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E7%94%A8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [显示](显示.md), [连接](连接.md)
+[协议](协议.md), [无线](无线.md), [显示](显示.md), [连接](连接.md)
 ___
 ##### 2026-04-01 15:29:43 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果计划在即将推出的iOS 27中引入“Extensions”功能，让用户可在Siri中接入不同第三方AI服务。#南洋商报 #苹果 #APPLE #iOS #Siri https://t.co/ovePy8btT6 https://t.c…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84iOS+27%E4%B8%AD%E5%BC%95%E5%85%A5%E2%80%9CExtensions%E2%80%9D%E5%8A%9F%E8%83%BD%EF%BC%8C%E8%AE%A9%E7%94%A8%E6%88%B7%E5%8F%AF%E5%9C%A8Siri%E4%B8%AD%E6%8E%A5%E5%85%A5%E4%B8%8D%E5%90%8C%E7%AC%AC%E4%B8%89%E6%96%B9AI%E6%9C%8D%E5%8A%A1%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23APPLE+%23iOS+%23Siri+https%3A%2F%2Ft.co%2FovePy8btT6+https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[推出](推出.md), [苹果](苹果.md), [计划](计划.md)
+[接入](接入.md), [推出](推出.md), [苹果](苹果.md), [计划](计划.md)
 ___
 ##### 2026-04-01 15:27:37 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司发布了最新的iOS 26.4软件，该更新说明写道：“提升了快速输入时的键盘精准度。”在人们显然受到打字问题困扰多年之后，苹果公司承认了存在问题。但iOS 26.4真的解决问题了吗？本文介绍了iOS 26.4将如何改善你的打字体验，以及帮你…
@@ -54,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%A0%B9%E6%8D%AE%E5%85%AC%E5%8F%B8%E5%85%AC%E5%B8%83%E7%9A%84%E8%B0%83%E6%95%B4%EF%BC%8C%E4%B8%AD%E5%9B%BDApp+Store%E4%BD%A3%E9%87%91%E7%8E%87%E5%B7%B2%E4%BB%8E30%25%E9%99%8D%E8%87%B325%25%EF%BC%8C%E5%B9%B6%E4%BA%8E3%E6%9C%8815%E6%97%A5%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8EiOS%E4%B8%8EiPadOS%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E5%BA%94%E7%94%A8%E5%86%85%E8%B4%AD%E4%B9%B0%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23apple+%23AppStore+%23China+%23%E5%BA%94%E7%94%A8%E5%95%86%E5%BA%97https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [根据](根据.md), [正式](正式.md), [用于](用于.md), [购买](购买.md)
+[平台](平台.md), [根据](根据.md), [正式](正式.md), [用于](用于.md), [购买](购买.md), [金](金.md)
 ___
 ##### 2026-03-02 06:07:52 UTC ~ 高军
 > RT @GoJun315: 苹果最封闭的地方，被人撬开了。vphone-cli，基于苹果原生 Virtualization 框架，在 Mac 上直接引导启动一个完整的虚拟 iPhone。注意，不是模拟器，是真的 iOS。支持 SSH 直接进系统内部，配合 VNC 能…
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40waylybaye%3A+iOS+App+Store+%E7%9A%84%E5%AE%A1%E6%A0%B8%E9%80%9F%E5%BA%A6%E6%85%A2%E4%BA%86%E5%A5%BD%E5%A4%9A%EF%BC%8C%E5%88%B7%E4%BA%86%E4%B8%8B%E5%9B%BD%E5%86%85%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%EF%BC%8C%E5%8E%9F%E6%9D%A5%E6%98%AF+AI+%E5%BC%95%E5%8F%91%E4%BA%86%E5%A4%A7%E9%87%8F%E9%9D%9E+iOS+%E7%A8%8B%E5%BA%8F%E5%91%98%E5%81%9A+App+%E7%9A%84%E6%B7%98%E9%87%91%E7%83%AD%EF%BC%8C%E7%94%9A%E8%87%B3%E9%9D%9E%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B9%9F%E7%94%A8+AI+%E6%90%9E+App+%E4%BA%86%E3%80%82%E6%AF%8F%E4%B8%AA%E4%BA%BA%E6%AF%8F%E4%B8%AA%E6%9C%88%E8%83%BD%E7%94%A8+AI+%E5%81%9A%E5%A5%BD%E5%87%A0%E4%B8%AA+App+%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[引发](引发.md), [程序](程序.md), [速度](速度.md)
+[引发](引发.md), [程序](程序.md), [速度](速度.md), [金](金.md)
 ___
 ##### 2025-05-12 05:49:49 UTC ~ 图拉鼎
 > RT @tualatrix: 即将在 WWDC25 上公布的 macOS 16 将在隐私方面进一步加强，会使用 iOS 的那套剪贴板权限机制了。这意味着 macOS 下的 App 默认将无法自由读取剪贴板内容了。好事情！https://t.co/7oMFA7uHWx http…
