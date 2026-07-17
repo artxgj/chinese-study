@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [月之暗面](月之暗面.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
 ___
 ##### 2025-04-12 11:44:04 UTC ~ AIGCLINK
 > RT @aigclink: 程序员工具，一款开源的辅助代码定位的工具：LocAgent，它通过图结构引导LLM进行代码定位就是把代码库解析为有向异构图，让LLM在图上搜索和推理，利用图结构和LLM的推理能力，准确定位代码支持 LLM 通过多跳推理进行代码定位使用微调…

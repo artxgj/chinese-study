@@ -70,7 +70,7 @@
 | [浪琴](../hanzi-cards/浪琴.md) | Longines | subsidiary of The Swatch Group | 2 |
 | [欧莱雅](../hanzi-cards/欧莱雅.md) | L'Oreal | EPA:OR | 8 |
 | [瑞幸咖啡](../hanzi-cards/瑞幸咖啡.md) | Luckin Coffee | delisted | 23 |
-| [麦格理](../hanzi-cards/麦格理.md) | Macquarie Group Limited | MQG.AX | 0 |
+| [麦格理](../hanzi-cards/麦格理.md) | Macquarie Group Limited | MQG.AX | 4 |
 | [前田工纤集团](../hanzi-cards/前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
 | [马士基](../hanzi-cards/马士基.md) | Maersk | AMKBY | 12 |
 | [万事达卡](../hanzi-cards/万事达卡.md)/[萬事達卡](../hanzi-cards/萬事達卡.md) | Mastercard | MA | 19 |
@@ -82,13 +82,14 @@
 | [微软](../hanzi-cards/微软.md)/[微軟](../hanzi-cards/微軟.md) | Microsoft | MSFT | 415 |
 | [三菱](../hanzi-cards/三菱.md) | Mitsubishi |  | 144 |
 | [三井化学](../hanzi-cards/三井化学.md) | Mitsui Chemicals | MITUY | 3 |
+| [月之暗面](../hanzi-cards/月之暗面.md) | Moonshot AI | (private) | 5 |
 | [莫德纳](../hanzi-cards/莫德纳.md) | Moderna | MRNA | 57 |
 | [无印良品](../hanzi-cards/无印良品.md)/[無印良品](../hanzi-cards/無印良品.md) | MUJI | RYKKY | 18 |
 | [村田](../hanzi-cards/村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 35 |
 | [南亞科技](../hanzi-cards/南亞科技.md) | Nanya Technology | 2408.TW | 1 |
 | [雀巢](../hanzi-cards/雀巢.md) | Nestlé S.A. | NSRGF | 18 |
 | [奈飞](../hanzi-cards/奈飞.md) | Netflix | NFLX | 11 |
-| [“安世半导体](../hanzi-cards/“安世半导体.md)/[安世半導體”](../hanzi-cards/安世半導體”.md) | Nexperia | (private) | 0 |
+| [安世半导体](../hanzi-cards/安世半导体.md)/[安世半導體](../hanzi-cards/安世半導體.md) | Nexperia | (private) | 23 |
 | [日本电产](../hanzi-cards/日本电产.md) | Nidec | NJDCY | 14 |
 | [耐克](../hanzi-cards/耐克.md) | Nike | NKE | 48 |
 | [尼康](../hanzi-cards/尼康.md) | Nikon | NINOY | 17 |

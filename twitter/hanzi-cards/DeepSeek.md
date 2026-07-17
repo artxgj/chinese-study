@@ -230,7 +230,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [千問](千問.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md), [語言模型](語言模型.md)
+[Kimi](Kimi.md), [Qwen](Qwen.md), [千問](千問.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md), [語言模型](語言模型.md)
 ___
 ##### 2026-01-21 16:46:20 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能（AI）初创公司深度求索（DeepSeek）发布推理模型R1一周年之际，新模型“MODEL1”的项目名在开源社区悄然出现。 https://t.co/7hYo7OOYDS
@@ -683,7 +683,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Gemini](Gemini.md), [LLM](LLM.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+[Gemini](Gemini.md), [LLM](LLM.md), [OpenAI](OpenAI.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [月之暗面](月之暗面.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
 ___
 ##### 2025-04-13 06:24:24 UTC ~ Olivert
 > RT @indiehackercase: 原来51CTO也出了DeepSeek的教程，找到的有四个PPT，分别是技术解析、开发实战、行业应用和个人使用。Deepseek资料合集（持续更新中）：https://t.co/sqLorz3z0R https://t.co/Kiwa…

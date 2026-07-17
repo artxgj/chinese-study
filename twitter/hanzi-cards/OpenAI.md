@@ -152,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8BAI%E3%80%8CKimi%E3%80%8D%EF%BC%9A%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%9C%A8%E9%80%BC%E8%BF%91%E6%9C%80%E5%B0%96%E7%AB%AF%E3%80%91%E7%BE%8E%E5%9C%8B%E4%B8%BB%E8%A6%81%E6%98%AF%E4%BB%A5OpenAI%E7%82%BA%E4%BB%A3%E8%A1%A8%E7%9A%84%E9%96%89%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%89%87%E4%B8%80%E7%9B%B4%E6%8E%A1%E7%94%A8%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E3%80%82%E9%96%8B%E6%BA%90%E5%92%8C%E5%BB%89%E5%83%B9%E7%9A%84%E8%A8%AD%E8%A8%88%E5%B0%87%E6%8E%A8%E5%8B%95%E4%B8%AD%E5%9C%8BAI%E5%9C%A8%E6%96%B0%E8%88%88%E5%9C%8B%E5%AE%B6%E6%99%AE%E5%8F%8A%E3%80%82%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%9A%84%E3%80%8CKimi+K2.5%E3%80%8D%E5%9B%A0%E9%AB%98%E6%80%A7%E8%83%BD%E8%80%8C%E5%82%99%E5%8F%97%E7%9F%9A%E7%9B%AE%EF%BC%8C%E8%A9%B2%E5%85%AC%E5%8F%B8%E7%9A%84CEO%E6%8C%87%E5%87%BA%EF%BC%8C%E9%96%8B%E6%BA%90%E6%A8%A1%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[一直](一直.md), [尖端](尖端.md), [指出](指出.md), [推動](推動.md), [普及](普及.md), [模型](模型.md), [美國](美國.md), [開源](開源.md)
+[Kimi](Kimi.md), [一直](一直.md), [尖端](尖端.md), [指出](指出.md), [推動](推動.md), [普及](普及.md), [月之暗面](月之暗面.md), [模型](模型.md), [美國](美國.md), [開源](開源.md)
 ___
 ##### 2026-02-28 02:01:03 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【軟銀集團將向OpenAI追加出資300億美元】軟銀集團計劃在4～10月分3次進行出資，完成後的累計出資額將達到646億美元……https://t.co/13CXVEip7y
@@ -656,7 +656,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+AstrBot%EF%BC%9A%E4%B8%80%E6%AC%BE%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0+LLM+%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%8A%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8C%E6%94%AF%E6%8C%81+QQ%E3%80%81QQ+%E9%A2%91%E9%81%93%E3%80%81Telegram%E3%80%81%E5%BE%AE%E4%BF%A1%E3%80%81%E4%BC%81%E5%BE%AE%E3%80%81%E9%A3%9E%E4%B9%A6%E7%AD%89%E4%B8%BB%E6%B5%81%E6%B6%88%E6%81%AF%E5%B9%B3%E5%8F%B0%EF%BC%8C%E5%85%BC%E5%AE%B9+OpenAI%E3%80%81DeepSeek%E3%80%81Gemini%E3%80%81%E7%A1%85%E5%9F%BA%E6%B5%81%E5%8A%A8%E3%80%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81Ollama+%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8A%80%E6%9C%AF%E6%9C%8D%E5%8A%A1%E4%B8%8E+API%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [LLM](LLM.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
+[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [LLM](LLM.md), [平台](平台.md), [开发](开发.md), [微信](微信.md), [技术](技术.md), [支持](支持.md), [月之暗面](月之暗面.md), [机器人](机器人.md), [硅](硅.md), [聊天](聊天.md)
 ___
 ##### 2025-04-06 05:04:45 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 事实上，AI模型成本下降趋势早已不可逆转。近两年AI模型的训练与推理成本已下降约80%，DeepSeek的激进定价策略只是加速这过程。不仅打破OpenAI等巨头的定价垄断，也催生大量开源模型，降低AI技术应用门槛，加快AI普及速度。 https://…

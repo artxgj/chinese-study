@@ -15,6 +15,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [老子](../hanzi-cards/老子.md) | Laozi/Lao-tzu |
 | [杨振宁](../hanzi-cards/杨振宁.md)/[楊振寧](../hanzi-cards/楊振寧.md) | Yang Chen-Ning, 1957 Nobel Prize Winner in Physics |
 | [梁文锋](../hanzi-cards/梁文锋.md) | Liang Wenfeng, DeepSeek founder |
+| [杨植麟](../hanzi-cards/杨植麟.md) | Yang Zhilin, Moonshot AI co-founder |
 | [张忠谋](../hanzi-cards/张忠谋.md)/[張忠謀](../hanzi-cards/張忠謀.md) | Morris Chang |
 | [任正非](../hanzi-cards/任正非.md) | Ren Zhengfei |
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
