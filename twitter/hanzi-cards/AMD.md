@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-07-15 05:22:33 UTC ~ TechNews 科技新報
+> RT @technews_tw: 買新 PC 卻配舊晶片？最新研究指出，#英特爾 與 #AMD 優先將最新產能供向 #AI 伺服器，導致消費級市場大缺新 CPU。 https://t.co/MiHl6Xen6E
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%B2%B7%E6%96%B0+PC+%E5%8D%BB%E9%85%8D%E8%88%8A%E6%99%B6%E7%89%87%EF%BC%9F%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%8C%87%E5%87%BA%EF%BC%8C%23%E8%8B%B1%E7%89%B9%E7%88%BE+%E8%88%87+%23AMD+%E5%84%AA%E5%85%88%E5%B0%87%E6%9C%80%E6%96%B0%E7%94%A2%E8%83%BD%E4%BE%9B%E5%90%91+%23AI+%E4%BC%BA%E6%9C%8D%E5%99%A8%EF%BC%8C%E5%B0%8E%E8%87%B4%E6%B6%88%E8%B2%BB%E7%B4%9A%E5%B8%82%E5%A0%B4%E5%A4%A7%E7%BC%BA%E6%96%B0+CPU%E3%80%82+https%3A%2F%2Ft.co%2FMiHl6Xen6E)
+##### Other Words/Names of Interest in the Above Tweet
+[伺服器](伺服器.md), [指出](指出.md), [晶片](晶片.md), [英特爾](英特爾.md)
+___
+##### 2026-07-14 02:54:55 UTC ~ Summer 在交易
+> RT @Summer_trading: 半导体公司赚多赚少，一张利润率图说清楚。英伟达、美光、台积电，利润率超过50%AI绕不开它们，定价权在它们手里。ARM、AMD这些，利润率不到20%，不是业务差，是商业模式决定的天花板。同一个"AI芯片"的标签，背后的赚钱能力…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Summer_trading%3A+%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%85%AC%E5%8F%B8%E8%B5%9A%E5%A4%9A%E8%B5%9A%E5%B0%91%EF%BC%8C%E4%B8%80%E5%BC%A0%E5%88%A9%E6%B6%A6%E7%8E%87%E5%9B%BE%E8%AF%B4%E6%B8%85%E6%A5%9A%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81%E7%BE%8E%E5%85%89%E3%80%81%E5%8F%B0%E7%A7%AF%E7%94%B5%EF%BC%8C%E5%88%A9%E6%B6%A6%E7%8E%87%E8%B6%85%E8%BF%8750%25AI%E7%BB%95%E4%B8%8D%E5%BC%80%E5%AE%83%E4%BB%AC%EF%BC%8C%E5%AE%9A%E4%BB%B7%E6%9D%83%E5%9C%A8%E5%AE%83%E4%BB%AC%E6%89%8B%E9%87%8C%E3%80%82ARM%E3%80%81AMD%E8%BF%99%E4%BA%9B%EF%BC%8C%E5%88%A9%E6%B6%A6%E7%8E%87%E4%B8%8D%E5%88%B020%25%EF%BC%8C%E4%B8%8D%E6%98%AF%E4%B8%9A%E5%8A%A1%E5%B7%AE%EF%BC%8C%E6%98%AF%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E5%86%B3%E5%AE%9A%E7%9A%84%E5%A4%A9%E8%8A%B1%E6%9D%BF%E3%80%82%E5%90%8C%E4%B8%80%E4%B8%AA%22AI%E8%8A%AF%E7%89%87%22%E7%9A%84%E6%A0%87%E7%AD%BE%EF%BC%8C%E8%83%8C%E5%90%8E%E7%9A%84%E8%B5%9A%E9%92%B1%E8%83%BD%E5%8A%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[利润](利润.md), [利润率](利润率.md), [半导体](半导体.md), [台积电](台积电.md), [天花](天花.md), [模式](模式.md), [美光](美光.md), [芯片](芯片.md), [英伟达](英伟达.md), [赚钱](赚钱.md), [超过](超过.md)
+___
+##### 2026-07-07 01:47:39 UTC ~ 初码
+> RT @chumacn: 炒股的可以深度关注下AMD了，在vLLM等技术组织的不懈努力下，目前355X的推理性能已经超过B300，虽然训练严重依赖CUDA，但推理的市场在2026年下半年会失速增长，AMD即将大卖特卖，大发特发！
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E7%82%92%E8%82%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%8BAMD%E4%BA%86%EF%BC%8C%E5%9C%A8vLLM%E7%AD%89%E6%8A%80%E6%9C%AF%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%8D%E6%87%88%E5%8A%AA%E5%8A%9B%E4%B8%8B%EF%BC%8C%E7%9B%AE%E5%89%8D355X%E7%9A%84%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87B300%EF%BC%8C%E8%99%BD%E7%84%B6%E8%AE%AD%E7%BB%83%E4%B8%A5%E9%87%8D%E4%BE%9D%E8%B5%96CUDA%EF%BC%8C%E4%BD%86%E6%8E%A8%E7%90%86%E7%9A%84%E5%B8%82%E5%9C%BA%E5%9C%A82026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BC%9A%E5%A4%B1%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8CAMD%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%8D%96%E7%89%B9%E5%8D%96%EF%BC%8C%E5%A4%A7%E5%8F%91%E7%89%B9%E5%8F%91%EF%BC%81)
+##### Other Words/Names of Interest in the Above Tweet
+[LLM](LLM.md), [mac](mac.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [超过](超过.md)
+___
+##### 2026-07-07 01:24:07 UTC ~ 拖拉机
+> RT @tuolaji2024: 高盛：预计韩国KOSPI指数未来12个月将达到12000点高盛：闪迪目标价从1200美元大幅上调至2200美元。高盛：AMD目标价从450美元上调至640美元。 高盛：高通目标价从145美元上调至180美元。高盛：明确把2027年预测上…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tuolaji2024%3A+%E9%AB%98%E7%9B%9B%EF%BC%9A%E9%A2%84%E8%AE%A1%E9%9F%A9%E5%9B%BDKOSPI%E6%8C%87%E6%95%B0%E6%9C%AA%E6%9D%A512%E4%B8%AA%E6%9C%88%E5%B0%86%E8%BE%BE%E5%88%B012000%E7%82%B9%E9%AB%98%E7%9B%9B%EF%BC%9A%E9%97%AA%E8%BF%AA%E7%9B%AE%E6%A0%87%E4%BB%B7%E4%BB%8E1200%E7%BE%8E%E5%85%83%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%B0%83%E8%87%B32200%E7%BE%8E%E5%85%83%E3%80%82%E9%AB%98%E7%9B%9B%EF%BC%9AAMD%E7%9B%AE%E6%A0%87%E4%BB%B7%E4%BB%8E450%E7%BE%8E%E5%85%83%E4%B8%8A%E8%B0%83%E8%87%B3640%E7%BE%8E%E5%85%83%E3%80%82+%E9%AB%98%E7%9B%9B%EF%BC%9A%E9%AB%98%E9%80%9A%E7%9B%AE%E6%A0%87%E4%BB%B7%E4%BB%8E145%E7%BE%8E%E5%85%83%E4%B8%8A%E8%B0%83%E8%87%B3180%E7%BE%8E%E5%85%83%E3%80%82%E9%AB%98%E7%9B%9B%EF%BC%9A%E6%98%8E%E7%A1%AE%E6%8A%8A2027%E5%B9%B4%E9%A2%84%E6%B5%8B%E4%B8%8A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[大幅](大幅.md), [明确](明确.md), [闪迪](闪迪.md), [韩国](韩国.md), [预测](预测.md), [预计](预计.md), [高盛](高盛.md)
+___
+##### 2026-07-05 17:45:59 UTC ~ TechNews 科技新報
+> RT @technews_tw: 昔日手機大廠黑莓機靠 AI 復活！轉型車用作業系統 QNX 的黑莓，全球已開進 2.75 億輛汽車，連輝達與 AMD 都是合作客戶。 https://t.co/Ys00xvIgHO
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%98%94%E6%97%A5%E6%89%8B%E6%A9%9F%E5%A4%A7%E5%BB%A0%E9%BB%91%E8%8E%93%E6%A9%9F%E9%9D%A0+AI+%E5%BE%A9%E6%B4%BB%EF%BC%81%E8%BD%89%E5%9E%8B%E8%BB%8A%E7%94%A8%E4%BD%9C%E6%A5%AD%E7%B3%BB%E7%B5%B1+QNX+%E7%9A%84%E9%BB%91%E8%8E%93%EF%BC%8C%E5%85%A8%E7%90%83%E5%B7%B2%E9%96%8B%E9%80%B2+2.75+%E5%84%84%E8%BC%9B%E6%B1%BD%E8%BB%8A%EF%BC%8C%E9%80%A3%E8%BC%9D%E9%81%94%E8%88%87+AMD+%E9%83%BD%E6%98%AF%E5%90%88%E4%BD%9C%E5%AE%A2%E6%88%B6%E3%80%82+https%3A%2F%2Ft.co%2FYs00xvIgHO)
+##### Other Words/Names of Interest in the Above Tweet
+[輝達](輝達.md)
+___
+##### 2026-07-05 17:37:53 UTC ~ TechNews 科技新報
+> RT @technews_tw: AMD 執行長蘇姿丰也曾是苦主！ #SemiAnalysis遭爆球員兼裁判 研究機構 SemiAnalysis 近日陷入「球員兼裁判」爭議。該機構 6 月初發布報告，以良率偏低、交付延誤為由，質疑 CPO 量產時程恐延至 2028、2029 年…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+AMD+%E5%9F%B7%E8%A1%8C%E9%95%B7%E8%98%87%E5%A7%BF%E4%B8%B0%E4%B9%9F%E6%9B%BE%E6%98%AF%E8%8B%A6%E4%B8%BB%EF%BC%81+%23SemiAnalysis%E9%81%AD%E7%88%86%E7%90%83%E5%93%A1%E5%85%BC%E8%A3%81%E5%88%A4+%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B+SemiAnalysis+%E8%BF%91%E6%97%A5%E9%99%B7%E5%85%A5%E3%80%8C%E7%90%83%E5%93%A1%E5%85%BC%E8%A3%81%E5%88%A4%E3%80%8D%E7%88%AD%E8%AD%B0%E3%80%82%E8%A9%B2%E6%A9%9F%E6%A7%8B+6+%E6%9C%88%E5%88%9D%E7%99%BC%E5%B8%83%E5%A0%B1%E5%91%8A%EF%BC%8C%E4%BB%A5%E8%89%AF%E7%8E%87%E5%81%8F%E4%BD%8E%E3%80%81%E4%BA%A4%E4%BB%98%E5%BB%B6%E8%AA%A4%E7%82%BA%E7%94%B1%EF%BC%8C%E8%B3%AA%E7%96%91+CPO+%E9%87%8F%E7%94%A2%E6%99%82%E7%A8%8B%E6%81%90%E5%BB%B6%E8%87%B3+2028%E3%80%812029+%E5%B9%B4%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[機構](機構.md), [蘇姿丰](蘇姿丰.md), [陷入](陷入.md)
+___
 ##### 2026-06-30 18:10:59 UTC ~ 蓝点网
 > RT @landiantech: 红帽 ARM 团队高级软件工程师也解决不了 ARM 兼容性问题，在使用 11 个月的 AArch64 Linux 系统后，这名工程师从 80 核的 Ampere Altra CPU 换成 6 核 12 线程的 AMD 处理器。尤什凯维奇遇到…
 
@@ -293,11 +335,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E4%BB%8D%E5%9C%A8%E4%BD%BF%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%9B%E8%A1%8CAI%E5%BC%80%E5%8F%91%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E4%B8%BB%E8%A6%81%E4%BE%9D%E8%B5%96AMD%E5%92%8C%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B9%8B%E7%B1%BB%E7%9A%84%E6%9B%BF%E4%BB%A3%E5%93%81%E6%9D%A5%E8%AE%AD%E7%BB%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2+%23AI+%23chips+%23Chinahttps%3A%2F%2Ft.co%2FvG4dTowST7+https%3A%2F%2Ft.co%2FUHDtf0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [依赖](依赖.md), [开发](开发.md), [替代](替代.md), [模型](模型.md), [芯片](芯片.md), [英伟达](英伟达.md), [进行](进行.md)
-___
-##### 2025-03-22 07:59:31 UTC ~ Andy Stewart
-> RT @manateelazycat: 配件到齐了，明天就可以安装AMD 9950x啦，最强风冷，把超频干满，开森。 https://t.co/HP0GAR7J27
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+%E9%85%8D%E4%BB%B6%E5%88%B0%E9%BD%90%E4%BA%86%EF%BC%8C%E6%98%8E%E5%A4%A9%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%AE%89%E8%A3%85AMD+9950x%E5%95%A6%EF%BC%8C%E6%9C%80%E5%BC%BA%E9%A3%8E%E5%86%B7%EF%BC%8C%E6%8A%8A%E8%B6%85%E9%A2%91%E5%B9%B2%E6%BB%A1%EF%BC%8C%E5%BC%80%E6%A3%AE%E3%80%82+https%3A%2F%2Ft.co%2FHP0GAR7J27)
 ___
 ##### 2025-03-12 08:25:15 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 全球芯片代工巨头台积电据报向美国芯片设计公司英伟达、AMD和博通提议入股一家合资企业，以运营美国科技巨头英特尔的晶圆厂。 https://t.co/WWEZMCXg9Y https://t.co/wAwA5400Pm

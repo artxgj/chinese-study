@@ -3,7 +3,7 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](words_tweets_stats.md).
 
-## Chemistry
+## 1. Chemistry - General
 |  |  |
 | ----- | :---: |
 | [元素週期表](../hanzi-cards/元素週期表.md) | periodic table of the elements |
@@ -11,43 +11,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [原子](../hanzi-cards/原子.md) | atom |
 | [离子](../hanzi-cards/离子.md) | ion |
 | [分子](../hanzi-cards/分子.md) | molecule; numerator (mathematics); member; element; part |
-## Compounds
-|  |  |
-| ----- | :---: |
-| [二氧化碳](../hanzi-cards/二氧化碳.md) | carbon dioxide |
-| [二氧化锰](../hanzi-cards/二氧化锰.md)/[二氧化錳](../hanzi-cards/二氧化錳.md) | manganese dioxide |
-| [二氧化硫](../hanzi-cards/二氧化硫.md) | sulfur dioxide |
-| [一氧化二氮](../hanzi-cards/一氧化二氮.md) | nitrous oxide |
-| [氨](../hanzi-cards/氨.md) | ammonia; hydrogen nitride |
-| [銨](../hanzi-cards/銨.md)/[铵](../hanzi-cards/铵.md) | ammonium |
-| [甲烷](../hanzi-cards/甲烷.md) | methane |
-| [磷酸](../hanzi-cards/磷酸.md) | phosphoric acid |
-| [石墨烯](../hanzi-cards/石墨烯.md) | graphene |
-| [铁矿石](../hanzi-cards/铁矿石.md) | iron ore |
-| [锂矿石](../hanzi-cards/锂矿石.md) | lithium ore |
-| [磷酸铁锂](../hanzi-cards/磷酸铁锂.md) | lithium iron phosphate |
-| [钴酸锂](../hanzi-cards/钴酸锂.md) | lithium cobalt oxide |
-| [钛酸锂](../hanzi-cards/钛酸锂.md) | lithium titanate |
-| [碳化硼](../hanzi-cards/碳化硼.md) | boron carbide |
-| [碳化硅](../hanzi-cards/碳化硅.md)/[碳化矽](../hanzi-cards/碳化矽.md) | silicon carbide |
-| [氮化镓](../hanzi-cards/氮化镓.md)/[氮化鎵](../hanzi-cards/氮化鎵.md) | gallium nitride |
-| [氧化镓](../hanzi-cards/氧化镓.md) | gallium oxide |
-| [氮化鋁](../hanzi-cards/氮化鋁.md) | aluminum nitride |
-| [氮化矽](../hanzi-cards/氮化矽.md) | silicon nitride |
-| [氯化钾](../hanzi-cards/氯化钾.md) | potassium chloride |
-| [异丙醇](../hanzi-cards/异丙醇.md) | isopropanol |
-| [尿素](../hanzi-cards/尿素.md) | urea |
-| [钙钛矿](../hanzi-cards/钙钛矿.md)/[鈣鈦礦](../hanzi-cards/鈣鈦礦.md) | perovskite (calcium titanium oxide) |
-| [乳酸](../hanzi-cards/乳酸.md) | lactic acid |
-| [葡萄糖](../hanzi-cards/葡萄糖.md) | glucose |
-| [聚丙烯](../hanzi-cards/聚丙烯.md) | polypropylene |
-| [氢氰酸](../hanzi-cards/氢氰酸.md) | Hydrocyanic acid |
-| [环氧乙烷](../hanzi-cards/环氧乙烷.md) | ethylene oxide |
-| [多晶硅](../hanzi-cards/多晶硅.md) | polycrystalline silicon |
-| [氰](../hanzi-cards/氰.md) | cyanogen; ethane dinitrile |
-| [碱](../hanzi-cards/碱.md) | alkaline, alkali, lye, salt |
-| [氧化镓](../hanzi-cards/氧化镓.md) | gallium oxide |
-## Elements
+## 2. Elements
 |  |  |
 | ----- | :---: |
 | [氢](../hanzi-cards/氢.md)/[氫](../hanzi-cards/氫.md) | hydrogen (element 1, H) |
@@ -103,6 +67,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [钕](../hanzi-cards/钕.md)/[釹](../hanzi-cards/釹.md) | neodymium (element 60, Nd) |
 | [铽](../hanzi-cards/铽.md)/[鋱](../hanzi-cards/鋱.md) | terbium (element 65, Tb) |
 | [镝](../hanzi-cards/镝.md)/[鏑](../hanzi-cards/鏑.md) | dysprosium (element 66, Dy); the barb of an arrow; the head of a javelin |
+| [钽](../hanzi-cards/钽.md) | tantalum (element 73, Ta) |
 | [钨](../hanzi-cards/钨.md)/[鎢](../hanzi-cards/鎢.md) | tungsten (element 74, W) |
 | [铼](../hanzi-cards/铼.md)/[錸](../hanzi-cards/錸.md) | rhenium (element 75, Re) |
 | [铱](../hanzi-cards/铱.md)/[銥](../hanzi-cards/銥.md) | iridium (element 77, Ir) |
@@ -119,23 +84,59 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铀](../hanzi-cards/铀.md)/[鈾](../hanzi-cards/鈾.md) | uranium (element 92, U) |
 | [钚](../hanzi-cards/钚.md) | plutonium (element 94, Pu) |
 | [鍩](../hanzi-cards/鍩.md) | nobelium (element 102, No) |
-## Isotopes
+## 3. Isotopes
 |  |  |
 | ----- | :---: |
 | [氚](../hanzi-cards/氚.md) | tritium or hydrogen-3 (symbol T or 3H) |
-## Jewelry
+## 4. Compounds
 |  |  |
 | ----- | :---: |
-| [白金](../hanzi-cards/白金.md) | platinum used in high end jewelry; white gold; (historical/literary) silver or other white precious metals representing wealth |
-| [铂金](../hanzi-cards/铂金.md) | platinum |
-## Mixture
+| [二氧化碳](../hanzi-cards/二氧化碳.md) | carbon dioxide |
+| [二氧化锰](../hanzi-cards/二氧化锰.md)/[二氧化錳](../hanzi-cards/二氧化錳.md) | manganese dioxide |
+| [二氧化硫](../hanzi-cards/二氧化硫.md) | sulfur dioxide |
+| [一氧化二氮](../hanzi-cards/一氧化二氮.md) | nitrous oxide |
+| [氨](../hanzi-cards/氨.md) | ammonia; hydrogen nitride |
+| [銨](../hanzi-cards/銨.md)/[铵](../hanzi-cards/铵.md) | ammonium |
+| [甲烷](../hanzi-cards/甲烷.md) | methane |
+| [磷酸](../hanzi-cards/磷酸.md) | phosphoric acid |
+| [石墨烯](../hanzi-cards/石墨烯.md) | graphene |
+| [铁矿石](../hanzi-cards/铁矿石.md) | iron ore |
+| [锂矿石](../hanzi-cards/锂矿石.md) | lithium ore |
+| [磷酸铁锂](../hanzi-cards/磷酸铁锂.md) | lithium iron phosphate |
+| [钴酸锂](../hanzi-cards/钴酸锂.md) | lithium cobalt oxide |
+| [钛酸锂](../hanzi-cards/钛酸锂.md) | lithium titanate |
+| [碳化硼](../hanzi-cards/碳化硼.md) | boron carbide |
+| [碳化硅](../hanzi-cards/碳化硅.md)/[碳化矽](../hanzi-cards/碳化矽.md) | silicon carbide |
+| [氮化镓](../hanzi-cards/氮化镓.md)/[氮化鎵](../hanzi-cards/氮化鎵.md) | gallium nitride |
+| [氧化镓](../hanzi-cards/氧化镓.md) | gallium oxide |
+| [氮化鋁](../hanzi-cards/氮化鋁.md) | aluminum nitride |
+| [氮化矽](../hanzi-cards/氮化矽.md) | silicon nitride |
+| [氯化钾](../hanzi-cards/氯化钾.md) | potassium chloride |
+| [异丙醇](../hanzi-cards/异丙醇.md) | isopropanol |
+| [尿素](../hanzi-cards/尿素.md) | urea |
+| [钙钛矿](../hanzi-cards/钙钛矿.md)/[鈣鈦礦](../hanzi-cards/鈣鈦礦.md) | perovskite (calcium titanium oxide) |
+| [乳酸](../hanzi-cards/乳酸.md) | lactic acid |
+| [葡萄糖](../hanzi-cards/葡萄糖.md) | glucose |
+| [聚丙烯](../hanzi-cards/聚丙烯.md) | polypropylene |
+| [氢氰酸](../hanzi-cards/氢氰酸.md) | Hydrocyanic acid |
+| [环氧乙烷](../hanzi-cards/环氧乙烷.md) | ethylene oxide |
+| [多晶硅](../hanzi-cards/多晶硅.md) | polycrystalline silicon |
+| [氰](../hanzi-cards/氰.md) | cyanogen; ethane dinitrile |
+| [碱](../hanzi-cards/碱.md) | alkaline, alkali, lye, salt |
+| [氧化镓](../hanzi-cards/氧化镓.md) | gallium oxide |
+## 5. Mixture
 |  |  |
 | ----- | :---: |
 | [钛合金](../hanzi-cards/钛合金.md) | titanium alloy |
 | [钢铁](../hanzi-cards/钢铁.md)/[鋼鐵](../hanzi-cards/鋼鐵.md) | steel |
-## Polymers
+## 6. Polymers
 |  |  |
 | ----- | :---: |
 | [树脂](../hanzi-cards/树脂.md) | resin |
 | [聚氯乙烯](../hanzi-cards/聚氯乙烯.md) | polyvinyl chloride (PVC) |
 | [纤维素纳米纤维](../hanzi-cards/纤维素纳米纤维.md) | cellulose nanofibers |
+## 7. Jewelry
+|  |  |
+| ----- | :---: |
+| [白金](../hanzi-cards/白金.md) | platinum used in high end jewelry; white gold; (historical/literary) silver or other white precious metals representing wealth |
+| [铂金](../hanzi-cards/铂金.md) | platinum |

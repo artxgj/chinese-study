@@ -7,6 +7,25 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2026-07-18 05:29:02 UTC ~ 香港老雷
+> RT @btcmos: 中国主流AI实验室/公司估值排名与未来预期排名：排名第一的依然是DeepSeek排名第二的是Moonshot排名第三的是阿里Qwen当前估值：基于技术实力、团队、生态，商业化潜力、市场空间等综合因素的内在价值判断。比如：智谱AI的GLM-…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcmos%3A+%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%B5%81AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%2F%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%8E%92%E5%90%8D%E4%B8%8E%E6%9C%AA%E6%9D%A5%E9%A2%84%E6%9C%9F%E6%8E%92%E5%90%8D%EF%BC%9A%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E4%BE%9D%E7%84%B6%E6%98%AFDeepSeek%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%8C%E7%9A%84%E6%98%AFMoonshot%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%89%E7%9A%84%E6%98%AF%E9%98%BF%E9%87%8CQwen%E5%BD%93%E5%89%8D%E4%BC%B0%E5%80%BC%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%8A%80%E6%9C%AF%E5%AE%9E%E5%8A%9B%E3%80%81%E5%9B%A2%E9%98%9F%E3%80%81%E7%94%9F%E6%80%81%EF%BC%8C%E5%95%86%E4%B8%9A%E5%8C%96%E6%BD%9C%E5%8A%9B%E3%80%81%E5%B8%82%E5%9C%BA%E7%A9%BA%E9%97%B4%E7%AD%89%E7%BB%BC%E5%90%88%E5%9B%A0%E7%B4%A0%E7%9A%84%E5%86%85%E5%9C%A8%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD%E3%80%82%E6%AF%94%E5%A6%82%EF%BC%9A%E6%99%BA%E8%B0%B1AI%E7%9A%84GLM-%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [GLM](GLM.md), [估值](估值.md), [依然](依然.md), [判断](判断.md), [因素](因素.md), [实力](实力.md), [技术](技术.md), [智谱](智谱.md), [潜力](潜力.md), [生态](生态.md), [预期](预期.md)
+___
+##### 2026-07-11 19:35:37 UTC ~ Leonard
+> RT @Leoskie_L: 如果這是真的，那手機，移動硬體將迎來一個大轉折。 PrismML 2位元壓縮真的很厲害。 可以把大型模組壓倒小兩三倍。  如果可壓Qwen 9b 那不得了
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Leoskie_L%3A+%E5%A6%82%E6%9E%9C%E9%80%99%E6%98%AF%E7%9C%9F%E7%9A%84%EF%BC%8C%E9%82%A3%E6%89%8B%E6%A9%9F%EF%BC%8C%E7%A7%BB%E5%8B%95%E7%A1%AC%E9%AB%94%E5%B0%87%E8%BF%8E%E4%BE%86%E4%B8%80%E5%80%8B%E5%A4%A7%E8%BD%89%E6%8A%98%E3%80%82+PrismML+2%E4%BD%8D%E5%85%83%E5%A3%93%E7%B8%AE%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8E%B2%E5%AE%B3%E3%80%82+%E5%8F%AF%E4%BB%A5%E6%8A%8A%E5%A4%A7%E5%9E%8B%E6%A8%A1%E7%B5%84%E5%A3%93%E5%80%92%E5%B0%8F%E5%85%A9%E4%B8%89%E5%80%8D%E3%80%82++%E5%A6%82%E6%9E%9C%E5%8F%AF%E5%A3%93Qwen+9b+%E9%82%A3%E4%B8%8D%E5%BE%97%E4%BA%86)
+___
+##### 2026-07-03 08:18:39 UTC ~ Xudong Han
+> RT @Xudong07452910: Hacker News 上有一篇评论区火了的文章：Qwen 3.6 27B 是本地开发的理想选择。核心发现是：密集参数模型、原生支持 256k 上下文，在 MacBook Max M5 上跑 Q8_0 量化版能达到 30 tokens…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Xudong07452910%3A+Hacker+News+%E4%B8%8A%E6%9C%89%E4%B8%80%E7%AF%87%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%81%AB%E4%BA%86%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%9AQwen+3.6+27B+%E6%98%AF%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91%E7%9A%84%E7%90%86%E6%83%B3%E9%80%89%E6%8B%A9%E3%80%82%E6%A0%B8%E5%BF%83%E5%8F%91%E7%8E%B0%E6%98%AF%EF%BC%9A%E5%AF%86%E9%9B%86%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%E3%80%81%E5%8E%9F%E7%94%9F%E6%94%AF%E6%8C%81+256k+%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E5%9C%A8+MacBook+Max+M5+%E4%B8%8A%E8%B7%91+Q8_0+%E9%87%8F%E5%8C%96%E7%89%88%E8%83%BD%E8%BE%BE%E5%88%B0+30+tokens%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [上下文](上下文.md), [开发](开发.md), [支持](支持.md), [核心](核心.md), [模型](模型.md), [量化](量化.md)
+___
 ##### 2026-03-04 16:37:43 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 什么情况！昨天马斯克刚夸赞完阿里的 Qwen，然后今天上午多位技术负责人、骨干，相继宣布离职。字节跳动：都是同行的衬托。 https://t.co/bPsduWoTzP
 
@@ -28,7 +47,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Mac](Mac.md), [执行](执行.md), [速度](速度.md)
 ___
-##### 2026-03-03 21:52:42 UTC ~ Panda
+##### 2026-03-03 21:52:42 UTC ~ Panda@Cerul.ai
 > RT @Jiaxi_Cui: 普通人要到很久之后才会知道Qwen引领了一个多么伟大的时代如果没有这两年Qwen的无私贡献，你们熟悉的国内新能源电车根本搭载不了现在这样好用的大模型，以及迅速做出自家的VLA模型机器人公司同理你们以为这些模型都是他们…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jiaxi_Cui%3A+%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81%E5%88%B0%E5%BE%88%E4%B9%85%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93Qwen%E5%BC%95%E9%A2%86%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E4%B9%88%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%97%B6%E4%BB%A3%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E8%BF%99%E4%B8%A4%E5%B9%B4Qwen%E7%9A%84%E6%97%A0%E7%A7%81%E8%B4%A1%E7%8C%AE%EF%BC%8C%E4%BD%A0%E4%BB%AC%E7%86%9F%E6%82%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E8%BD%A6%E6%A0%B9%E6%9C%AC%E6%90%AD%E8%BD%BD%E4%B8%8D%E4%BA%86%E7%8E%B0%E5%9C%A8%E8%BF%99%E6%A0%B7%E5%A5%BD%E7%94%A8%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%BF%85%E9%80%9F%E5%81%9A%E5%87%BA%E8%87%AA%E5%AE%B6%E7%9A%84VLA%E6%A8%A1%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%90%8C%E7%90%86%E4%BD%A0%E4%BB%AC%E4%BB%A5%E4%B8%BA%E8%BF%99%E4%BA%9B%E6%A8%A1%E5%9E%8B%E9%83%BD%E6%98%AF%E4%BB%96%E4%BB%AC%E2%80%A6)

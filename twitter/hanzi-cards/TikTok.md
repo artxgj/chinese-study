@@ -118,14 +118,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8D%B0%E5%B0%BC%E6%81%A2%E5%A4%8DTikTok%E7%9A%84%E6%B3%A8%E5%86%8C%E8%AE%B8%E5%8F%AF%EF%BC%8C%E6%9C%89%E5%AE%98%E5%91%98%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%BF%99%E5%AE%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E5%B7%B2%E9%81%B5%E5%AE%88%E4%BA%86%E6%95%B0%E6%8D%AE%E6%8A%AB%E9%9C%B2%E8%A7%84%E5%AE%9A%E3%80%82https%3A%2F%2Ft.co%2Fzh2f3m7ddu)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [恢复](恢复.md), [披露](披露.md), [数据](数据.md), [社交媒体](社交媒体.md)
+[印尼](印尼.md), [平台](平台.md), [恢复](恢复.md), [披露](披露.md), [数据](数据.md), [社交媒体](社交媒体.md)
 ___
 ##### 2025-09-30 03:37:16 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 印度尼西亚反垄断机构宣布，短视频平台TikTok因未按规定及时申报收购电商平台Tokopedia，被处以150亿印尼盾（约116万新元）的罚款。 https://t.co/kbz77hix3n
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%8F%8D%E5%9E%84%E6%96%AD%E6%9C%BA%E6%9E%84%E5%AE%A3%E5%B8%83%EF%BC%8C%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E5%9B%A0%E6%9C%AA%E6%8C%89%E8%A7%84%E5%AE%9A%E5%8F%8A%E6%97%B6%E7%94%B3%E6%8A%A5%E6%94%B6%E8%B4%AD%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0Tokopedia%EF%BC%8C%E8%A2%AB%E5%A4%84%E4%BB%A5150%E4%BA%BF%E5%8D%B0%E5%B0%BC%E7%9B%BE%EF%BC%88%E7%BA%A6116%E4%B8%87%E6%96%B0%E5%85%83%EF%BC%89%E7%9A%84%E7%BD%9A%E6%AC%BE%E3%80%82+https%3A%2F%2Ft.co%2Fkbz77hix3n)
 ##### Other Words/Names of Interest in the Above Tweet
-[印度](印度.md), [反垄断](反垄断.md), [垄断](垄断.md), [平台](平台.md), [收购](收购.md), [机构](机构.md), [电商](电商.md), [罚款](罚款.md)
+[印尼](印尼.md), [印度](印度.md), [反垄断](反垄断.md), [垄断](垄断.md), [平台](平台.md), [收购](收购.md), [机构](机构.md), [电商](电商.md), [罚款](罚款.md)
 ___
 ##### 2025-09-28 08:52:07 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【甲骨文創始人埃里森——靠對抗精神成世界首富】拉里・埃里森以81歲高齡成為世界首富，截至9月10日他的凈資産達到3930億美元，超過了好友馬斯克。蘋果創始人史蒂夫・賈伯斯是其摯友。由於和川普關係親密，埃里森還參與了收購TikTok的美國業…
@@ -1875,7 +1875,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+GoTo%E8%82%A1%E4%BB%B7%E5%91%A8%E4%B8%80%E9%87%8D%E6%8C%AB20%25%EF%BC%8C%E6%AD%A4%E5%89%8D%E8%BF%99%E5%AE%B6%E5%8D%B0%E5%B0%BC%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B0%86%E6%8A%8A%E6%97%97%E4%B8%8BTokopedia%E5%9C%A8%E7%BA%BF%E9%9B%B6%E5%94%AE%E5%B9%B3%E5%8F%B0%E4%B8%8ETikTok%E5%9C%A8%E5%8D%B0%E5%B0%BC%E7%9A%84%E4%B8%9A%E5%8A%A1%E5%90%88%E5%B9%B6%E3%80%82%E6%AD%A4%E5%89%8D%E5%9C%A8%E5%8D%B0%E5%B0%BC%E5%BD%93%E5%B1%80%E7%A6%81%E6%AD%A2%E5%9C%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E4%B8%8A%E8%B4%AD%E7%89%A9%E5%90%8E%EF%BC%8CTikTok%E8%A2%AB%E8%BF%AB%E5%85%B3%E9%97%AD%E4%BA%86%E5%85%B6%E7%94%B5%E5%95%86%E6%9C%8D%E5%8A%A1%E3%80%82+https%3A%2F%2Ft.co%2FFE1nnOsOj%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [科技](科技.md), [购物](购物.md)
+[印尼](印尼.md), [平台](平台.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [科技](科技.md), [购物](购物.md)
 ___
 ##### 2023-12-11 06:58:15 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 两家公司周一表示，TikTok Shop Indonesia和GoTo旗下的Tokopedia部门将合并到现有的Tokopedia实体下，TikTok将获得控股权。 https://t.co/VhXZAtx7gq https://t.co/VhX…
@@ -1889,7 +1889,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8BTikTok%E5%90%8C%E6%84%8F%EF%BC%8C%E5%90%91%E4%B8%8E%E5%8D%B0%E5%B0%BCGoTo%E9%9B%86%E5%9B%A2%E7%9A%84%E4%B8%80%E5%AE%B6%E5%90%88%E8%B5%84%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%8415%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A670%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%89%E3%80%82https%3A%2F%2Ft.co%2F7GGeKYGfDE+https%3A%2F%2Ft.co%2Fs32WqWLOyJ)
 ##### Other Words/Names of Interest in the Above Tweet
-[合资企业](合资企业.md), [字节跳动](字节跳动.md), [投资](投资.md)
+[印尼](印尼.md), [合资企业](合资企业.md), [字节跳动](字节跳动.md), [投资](投资.md)
 ___
 ##### 2023-12-05 17:30:18 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 知情人士称，TikTok与印度尼西亚的GoTo集团达成一项协议，投资GoTo旗下科技公司兼电子商务平台Tokopedia，就在线购物服务展开合作。 https://t.co/p8WafhXiBo
@@ -2036,7 +2036,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E6%94%BF%E5%BA%9C%E5%B0%86%E9%87%87%E5%8F%96%E6%8E%AA%E6%96%BD%E9%99%90%E5%88%B6%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%95%86%E5%8A%A1%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%8F%AA%E8%AE%B8%E4%B8%9A%E8%80%85%E9%80%9A%E8%BF%87%E7%A4%BE%E5%AA%92%E5%B9%B3%E5%8F%B0%E6%89%93%E5%B9%BF%E5%91%8A%EF%BC%8C%E8%80%8C%E4%B8%8D%E8%83%BD%E8%BF%9B%E8%A1%8C%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E4%BA%A4%E6%98%93%E3%80%82%E6%AD%A4%E4%B8%BE%E5%B0%86%E6%89%93%E5%87%BB%E7%A4%BE%E5%AA%92%E5%B9%B3%E5%8F%B0TikTok%E5%9C%A8%E5%8D%B0%E5%B0%BC%E5%8F%91%E5%B1%95%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E7%9A%84%E7%AD%96%E7%95%A5%E3%80%82https%3A%2F%2Ft.co%2FQAV83Zn4Xg)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [印度](印度.md), [平台](平台.md), [打击](打击.md), [措施](措施.md), [此举](此举.md), [社交媒体](社交媒体.md), [策略](策略.md), [进行](进行.md), [采取](采取.md), [限制](限制.md)
+[交易](交易.md), [印尼](印尼.md), [印度](印度.md), [平台](平台.md), [打击](打击.md), [措施](措施.md), [此举](此举.md), [社交媒体](社交媒体.md), [策略](策略.md), [进行](进行.md), [采取](采取.md), [限制](限制.md)
 ___
 ##### 2023-09-27 03:18:05 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 在美国上市的本地科技公司冬海集团的股价隔夜飙升将近12％。原因是：印度尼西亚这一两天发布新法规，让像TikTok这样的社交媒体平台更难整合电子商务功能。在电子商务领域，TikTok是冬海集团本区域的主要竞争对手，新消息曝光后，市场投资者普遍认为冬海集…
@@ -2085,7 +2085,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%B0%E5%B0%BC%E6%94%BF%E5%BA%9C%E6%8B%9F%E7%A6%81%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E4%B8%8A%E7%9A%84%E5%95%86%E5%93%81%E4%BA%A4%E6%98%93%EF%BC%8CTikTok%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%889%E6%9C%8813%E6%97%A5%EF%BC%89%E8%A1%A8%E8%BE%BE%E5%8F%8D%E5%AF%B9%E4%B9%8B%E6%84%8F%E3%80%82%E9%9B%85%E5%8A%A0%E8%BE%BE%E5%BD%93%E5%B1%80%E6%89%B9%E8%AF%84TikTok%E7%AD%89%E5%A4%A7%E5%9E%8B%E7%A4%BE%E7%BE%A4%E5%AA%92%E4%BD%93%E6%8B%A5%E6%9C%89%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%98%AF%E5%9E%84%E6%96%AD%E8%A1%8C%E4%B8%BA%E3%80%82+https%3A%2F%2Ft.co%2FoUv0fxEIvY)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [商品](商品.md), [垄断](垄断.md), [平台](平台.md), [批评](批评.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [行为](行为.md)
+[交易](交易.md), [印尼](印尼.md), [商品](商品.md), [垄断](垄断.md), [平台](平台.md), [批评](批评.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [行为](行为.md)
 ___
 ##### 2023-09-11 00:46:14 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 【视频】大麦克（Big Mac）是麦当劳相当受欢迎的餐点之一，每年更能在美国卖出5.5亿个。不过前麦当劳烹饪创新经理迈克哈拉茨发布TikTok影片称，到麦当劳点餐时不该选择大麦克，应该要点……#mcdonaldshttps://t.co/…

@@ -20,7 +20,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%E5%B9%B3%E5%8F%B0TikTok%E5%91%8A%E8%AF%89%E8%B7%AF%E9%80%8F%E7%A4%BE%EF%BC%8C%E5%AE%83%E6%AD%A3%E5%9C%A8%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E8%BF%9B%E8%A1%8C%E5%88%9D%E6%AD%A5%E8%B0%88%E5%88%A4%EF%BC%8C%E4%BB%A5%E8%8E%B7%E5%BE%97%E5%8D%B0%E5%B0%BC%E7%9A%84%E6%94%AF%E4%BB%98%E8%AE%B8%E5%8F%AF%E8%AF%81%EF%BC%8C%E6%AD%A4%E4%B8%BE%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8E%A8%E8%BF%9B%E5%AE%83%E5%9C%A8%E8%BF%99%E4%B8%80%E4%B8%BB%E8%A6%81%E5%B8%82%E5%9C%BA%E7%9A%84%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E6%B4%BB%E5%8A%A8%E3%80%82+https%3A%2F%2Ft.co%2F2qITcaT8hg)
 ##### Other Words/Names of Interest in the Above Tweet
-[初步](初步.md), [印度](印度.md), [平台](平台.md), [支付](支付.md), [机构](机构.md), [此举](此举.md), [监管](监管.md), [获得](获得.md), [谈判](谈判.md), [进行](进行.md)
+[初步](初步.md), [印尼](印尼.md), [印度](印度.md), [平台](平台.md), [支付](支付.md), [机构](机构.md), [此举](此举.md), [监管](监管.md), [获得](获得.md), [谈判](谈判.md), [进行](进行.md)
 ___
 ##### 2023-08-01 05:36:42 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 美国共和党总统候选人德桑蒂斯周一概述一项广泛的经济政策，呼吁对中国采取更严厉的立场，包括结束正常的贸易关系。他表示，如果当选，他将考虑在全美范围内禁止TikTok。 https://t.co/KEHZ2hSq8k
@@ -34,7 +34,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8D%B0%E5%B0%BC%E7%BB%8F%E6%B5%8E%E5%AD%A6%E8%80%85%E5%91%BC%E5%90%81%E6%94%BF%E5%BA%9C%E5%BD%93%E5%B1%80%EF%BC%8C%E5%85%B3%E6%B3%A8%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E2%80%9CTikTok%E5%95%86%E5%BA%97%E2%80%9D%EF%BC%88TikTok+Shop%EF%BC%89%E3%80%82%E5%AD%A6%E8%80%85%E6%8C%87+%23TikTok+%E5%95%86%E5%BA%97%E8%B4%A9%E5%94%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%EF%BC%8C%E6%AF%94%E5%8D%B0%E5%B0%BC%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E7%9A%84%E4%BA%A7%E5%93%81%E6%9B%B4%E4%BD%8E%E5%BB%89%EF%BC%8C%E4%B8%94%E7%A4%BE%E4%BA%A4%E5%B9%B3%E5%8F%B0%E6%9C%89%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%EF%BC%8C%E8%83%BD%E7%B2%BE%E5%87%86%E5%AE%9A%E4%BD%8D%E6%B6%88%E8%B4%B9%E8%80%85%EF%BC%8C%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%81%BD%E5%A2%9E%E3%80%82%E5%AD%A6%E8%80%85%E6%8B%85%E5%BF%83%EF%BC%8C%E8%BF%99%E5%8F%AF%E8%83%BD%E5%A8%81%E8%83%81%E5%8D%B0%E5%B0%BC%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[低廉](低廉.md), [关注](关注.md), [呼吁](呼吁.md), [商品](商品.md), [威胁](威胁.md), [平台](平台.md), [影响](影响.md), [担心](担心.md), [数据](数据.md), [消费者](消费者.md), [电商](电商.md)
+[低廉](低廉.md), [关注](关注.md), [印尼](印尼.md), [呼吁](呼吁.md), [商品](商品.md), [威胁](威胁.md), [平台](平台.md), [影响](影响.md), [担心](担心.md), [数据](数据.md), [消费者](消费者.md), [电商](电商.md)
 ___
 ##### 2023-07-26 05:01:46 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 知情人士表示，TikTok将于8月初在美国推出新的电商业务，寻求复制Shein和Temu这两位对手取得的成功。一位曾在阿里巴巴工作过的科技业分析师说，这对TikTok而言是一场硬仗，因为不仅竞争激烈，而且如果电商业务真的做好了，面临的挑…

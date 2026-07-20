@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/CXMT) for definition
 ### Tweets containing CXMT
 
 ___
+##### 2026-07-16 08:43:03 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: CXMT 資本雄厚 瞄準記憶體「大三巨頭」2026年7月16日，CXMT（https://t.co/SMeA4Q1sBT）在上海科創板上市，募資人民幣579億元（約85.5億美元），每股8.66元，市值約800-850億美元，較SK海力士、美光等一…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+CXMT+%E8%B3%87%E6%9C%AC%E9%9B%84%E5%8E%9A+%E7%9E%84%E6%BA%96%E8%A8%98%E6%86%B6%E9%AB%94%E3%80%8C%E5%A4%A7%E4%B8%89%E5%B7%A8%E9%A0%AD%E3%80%8D2026%E5%B9%B47%E6%9C%8816%E6%97%A5%EF%BC%8CCXMT%EF%BC%88https%3A%2F%2Ft.co%2FSMeA4Q1sBT%EF%BC%89%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%89%B5%E6%9D%BF%E4%B8%8A%E5%B8%82%EF%BC%8C%E5%8B%9F%E8%B3%87%E4%BA%BA%E6%B0%91%E5%B9%A3579%E5%84%84%E5%85%83%EF%BC%88%E7%B4%8485.5%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%89%EF%BC%8C%E6%AF%8F%E8%82%A18.66%E5%85%83%EF%BC%8C%E5%B8%82%E5%80%BC%E7%B4%84800-850%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BC%83SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81%E7%BE%8E%E5%85%89%E7%AD%89%E4%B8%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上海](上海.md), [市值](市值.md), [海力士](海力士.md), [美光](美光.md), [記憶體](記憶體.md)
+___
+##### 2026-07-08 06:15:24 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 英國《金融時報》7月8日報導，知情人士透露，蘋果公司已啟動長鑫存儲（CXMT）Dram芯片的測試，用於中國市場銷售的iPhone及其他設備。這是蘋果首次大規模測試中國本土Dram產品。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E8%8B%B1%E5%9C%8B%E3%80%8A%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1%E3%80%8B7%E6%9C%888%E6%97%A5%E5%A0%B1%E5%B0%8E%EF%BC%8C%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%95%9F%E5%8B%95%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89Dram%E8%8A%AF%E7%89%87%E7%9A%84%E6%B8%AC%E8%A9%A6%EF%BC%8C%E7%94%A8%E6%96%BC%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%8A%B7%E5%94%AE%E7%9A%84iPhone%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A8%AD%E5%82%99%E3%80%82%E9%80%99%E6%98%AF%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%A1%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%B8%AC%E8%A9%A6%E4%B8%AD%E5%9C%8B%E6%9C%AC%E5%9C%9FDram%E7%94%A2%E5%93%81%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [啟動](啟動.md), [知情](知情.md), [知情人士](知情人士.md), [芯片](芯片.md), [蘋果](蘋果.md), [透露](透露.md), [金](金.md), [金融](金融.md), [長鑫](長鑫.md)
+___
+##### 2026-07-08 04:41:44 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 金融时报爆料称，苹果已开始测试由长鑫存储 CXMT 提供的内存芯片，这些设备将用于在中国的销售。为了扩大范围，不局限于中国销售，苹果还在牵头说服华盛顿，允许更广泛地使用中国长鑫存储 CXMT 的产品。 https://t.co/rDacsH5T9Y
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5%E7%88%86%E6%96%99%E7%A7%B0%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%B5%8B%E8%AF%95%E7%94%B1%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8+CXMT+%E6%8F%90%E4%BE%9B%E7%9A%84%E5%86%85%E5%AD%98%E8%8A%AF%E7%89%87%EF%BC%8C%E8%BF%99%E4%BA%9B%E8%AE%BE%E5%A4%87%E5%B0%86%E7%94%A8%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%94%80%E5%94%AE%E3%80%82%E4%B8%BA%E4%BA%86%E6%89%A9%E5%A4%A7%E8%8C%83%E5%9B%B4%EF%BC%8C%E4%B8%8D%E5%B1%80%E9%99%90%E4%BA%8E%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%EF%BC%8C%E8%8B%B9%E6%9E%9C%E8%BF%98%E5%9C%A8%E7%89%B5%E5%A4%B4%E8%AF%B4%E6%9C%8D%E5%8D%8E%E7%9B%9B%E9%A1%BF%EF%BC%8C%E5%85%81%E8%AE%B8%E6%9B%B4%E5%B9%BF%E6%B3%9B%E5%9C%B0%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8+CXMT+%E7%9A%84%E4%BA%A7%E5%93%81%E3%80%82+https%3A%2F%2Ft.co%2FrDacsH5T9Y)
+##### Other Words/Names of Interest in the Above Tweet
+[允许](允许.md), [存储](存储.md), [广泛](广泛.md), [扩大](扩大.md), [提供](提供.md), [牵头](牵头.md), [用于](用于.md), [芯片](芯片.md), [苹果](苹果.md), [金](金.md), [金融](金融.md), [销售](销售.md), [长鑫](长鑫.md)
+___
+##### 2026-07-06 20:26:10 UTC ~ TechNews 科技新報
+> RT @technews_tw: CXMT 挑戰中國國產與全球關鍵大廠！ #中國記憶體設備供應鏈 中國 DRAM 龍頭長鑫存儲（CXMT）正加速衝刺科創板 IPO，擬募資 295 億人民幣，其中近七成投入晶圓產線與 DRAM 技術升級。受惠記憶體超級週期，長鑫 2026 年首季…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+CXMT+%E6%8C%91%E6%88%B0%E4%B8%AD%E5%9C%8B%E5%9C%8B%E7%94%A2%E8%88%87%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E5%A4%A7%E5%BB%A0%EF%BC%81+%23%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E8%A8%AD%E5%82%99%E4%BE%9B%E6%87%89%E9%8F%88+%E4%B8%AD%E5%9C%8B+DRAM+%E9%BE%8D%E9%A0%AD%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89%E6%AD%A3%E5%8A%A0%E9%80%9F%E8%A1%9D%E5%88%BA%E7%A7%91%E5%89%B5%E6%9D%BF+IPO%EF%BC%8C%E6%93%AC%E5%8B%9F%E8%B3%87+295+%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%8C%E5%85%B6%E4%B8%AD%E8%BF%91%E4%B8%83%E6%88%90%E6%8A%95%E5%85%A5%E6%99%B6%E5%9C%93%E7%94%A2%E7%B7%9A%E8%88%87+DRAM+%E6%8A%80%E8%A1%93%E5%8D%87%E7%B4%9A%E3%80%82%E5%8F%97%E6%83%A0%E8%A8%98%E6%86%B6%E9%AB%94%E8%B6%85%E7%B4%9A%E9%80%B1%E6%9C%9F%EF%BC%8C%E9%95%B7%E9%91%AB+2026+%E5%B9%B4%E9%A6%96%E5%AD%A3%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [供應鏈](供應鏈.md), [晶圓](晶圓.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
+___
+##### 2026-07-05 20:24:08 UTC ~ 勃勃OC
+> RT @bboczeng: 韩国媒体报道称，中国的长鑫存储（CXMT）目前正在合肥测试一条键合 DRAM试验产线，目标是在不使用 EUV 光刻的情况下实现高性能 DRAM。所谓键合 DRAM，是一种将存储单元阵列和外围电路分别在不同晶圆上制造，然后再将两片晶圆键合在一起的技…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40bboczeng%3A+%E9%9F%A9%E5%9B%BD%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%EF%BC%88CXMT%EF%BC%89%E7%9B%AE%E5%89%8D%E6%AD%A3%E5%9C%A8%E5%90%88%E8%82%A5%E6%B5%8B%E8%AF%95%E4%B8%80%E6%9D%A1%E9%94%AE%E5%90%88+DRAM%E8%AF%95%E9%AA%8C%E4%BA%A7%E7%BA%BF%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E5%9C%A8%E4%B8%8D%E4%BD%BF%E7%94%A8+EUV+%E5%85%89%E5%88%BB%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD+DRAM%E3%80%82%E6%89%80%E8%B0%93%E9%94%AE%E5%90%88+DRAM%EF%BC%8C%E6%98%AF%E4%B8%80%E7%A7%8D%E5%B0%86%E5%AD%98%E5%82%A8%E5%8D%95%E5%85%83%E9%98%B5%E5%88%97%E5%92%8C%E5%A4%96%E5%9B%B4%E7%94%B5%E8%B7%AF%E5%88%86%E5%88%AB%E5%9C%A8%E4%B8%8D%E5%90%8C%E6%99%B6%E5%9C%86%E4%B8%8A%E5%88%B6%E9%80%A0%EF%BC%8C%E7%84%B6%E5%90%8E%E5%86%8D%E5%B0%86%E4%B8%A4%E7%89%87%E6%99%B6%E5%9C%86%E9%94%AE%E5%90%88%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%8A%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [光刻](光刻.md), [存储](存储.md), [实现](实现.md), [情况](情况.md), [晶圆](晶圆.md), [长鑫](长鑫.md), [韩国](韩国.md)
+___
+##### 2026-07-05 17:27:35 UTC ~ Macro_Lin｜市场观察
+> RT @LinQingV: 苹果能不能用CXMT的颗粒，对长鑫本身没那么重要。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LinQingV%3A+%E8%8B%B9%E6%9E%9C%E8%83%BD%E4%B8%8D%E8%83%BD%E7%94%A8CXMT%E7%9A%84%E9%A2%97%E7%B2%92%EF%BC%8C%E5%AF%B9%E9%95%BF%E9%91%AB%E6%9C%AC%E8%BA%AB%E6%B2%A1%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[苹果](苹果.md), [长鑫](长鑫.md), [颗粒](颗粒.md)
+___
 ##### 2026-06-29 18:04:41 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 路透社獨家報導，中國記憶體廠商長鑫存儲（CXMT） 已與騰訊控股 簽署一份價值超過200億人民幣（約30億美元） 的長期 DRAM 晶片供應協議。這是長鑫存儲即將在上海科創板 IPO 前的重要里程碑。協議涵蓋數年期（最長3-5年）伺服器用 DRA…
 

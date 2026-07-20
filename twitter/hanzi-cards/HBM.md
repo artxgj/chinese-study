@@ -7,6 +7,90 @@ Search [wiktionary](https://en.wiktionary.org/wiki/HBM) for definition
 ### Tweets containing HBM
 
 ___
+##### 2026-07-18 03:37:50 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 就像之前對 DeepSeek R1 的恐慌一樣，有些不了解情況的人認為 Kimi K3 使用線性注意力（KDA）會對 NVIDIA、HBM、DRAM 和網路不利，因為它的 KV-cache 需求相對較低。事實正好相反。Kimi K3 其實對 NV…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E5%B0%B1%E5%83%8F%E4%B9%8B%E5%89%8D%E5%B0%8D+DeepSeek+R1+%E7%9A%84%E6%81%90%E6%85%8C%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%9C%89%E4%BA%9B%E4%B8%8D%E4%BA%86%E8%A7%A3%E6%83%85%E6%B3%81%E7%9A%84%E4%BA%BA%E8%AA%8D%E7%82%BA+Kimi+K3+%E4%BD%BF%E7%94%A8%E7%B7%9A%E6%80%A7%E6%B3%A8%E6%84%8F%E5%8A%9B%EF%BC%88KDA%EF%BC%89%E6%9C%83%E5%B0%8D+NVIDIA%E3%80%81HBM%E3%80%81DRAM+%E5%92%8C%E7%B6%B2%E8%B7%AF%E4%B8%8D%E5%88%A9%EF%BC%8C%E5%9B%A0%E7%82%BA%E5%AE%83%E7%9A%84+KV-cache+%E9%9C%80%E6%B1%82%E7%9B%B8%E5%B0%8D%E8%BC%83%E4%BD%8E%E3%80%82%E4%BA%8B%E5%AF%A6%E6%AD%A3%E5%A5%BD%E7%9B%B8%E5%8F%8D%E3%80%82Kimi+K3+%E5%85%B6%E5%AF%A6%E5%B0%8D+NV%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [DeepSeek](DeepSeek.md), [Kimi](Kimi.md), [需求](需求.md)
+___
+##### 2026-07-16 06:33:29 UTC ~ TechNews 科技新報
+> RT @technews_tw: #長鑫存儲 今 16 日正式在上海科創板掛牌，募得 579 億人民幣，全力進軍 HBM3 與先進製程！ https://t.co/zmyMF8kg9x
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2+%E4%BB%8A+16+%E6%97%A5%E6%AD%A3%E5%BC%8F%E5%9C%A8%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%89%B5%E6%9D%BF%E6%8E%9B%E7%89%8C%EF%BC%8C%E5%8B%9F%E5%BE%97+579+%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%8C%E5%85%A8%E5%8A%9B%E9%80%B2%E8%BB%8D+HBM3+%E8%88%87%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8B%EF%BC%81+https%3A%2F%2Ft.co%2FzmyMF8kg9x)
+##### Other Words/Names of Interest in the Above Tweet
+[上海](上海.md), [正式](正式.md), [長鑫](長鑫.md)
+___
+##### 2026-07-15 16:55:28 UTC ~ TechNews 科技新報
+> RT @technews_tw: HBM 和 DRAM 的需求非常旺盛！ #記憶體三雄營益率超車NVIDIA AI 資料中心吞噬 DRAM 與 HBM 供給，記憶體產業迎來史上最強獲利週期。美光最新一季營益率衝上 80.4%，居大型科技公司之冠，SK 海力士、SanDisk 也…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+HBM+%E5%92%8C+DRAM+%E7%9A%84%E9%9C%80%E6%B1%82%E9%9D%9E%E5%B8%B8%E6%97%BA%E7%9B%9B%EF%BC%81+%23%E8%A8%98%E6%86%B6%E9%AB%94%E4%B8%89%E9%9B%84%E7%87%9F%E7%9B%8A%E7%8E%87%E8%B6%85%E8%BB%8ANVIDIA+AI+%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%90%9E%E5%99%AC+DRAM+%E8%88%87+HBM+%E4%BE%9B%E7%B5%A6%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E6%A5%AD%E8%BF%8E%E4%BE%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%B7%E7%8D%B2%E5%88%A9%E9%80%B1%E6%9C%9F%E3%80%82%E7%BE%8E%E5%85%89%E6%9C%80%E6%96%B0%E4%B8%80%E5%AD%A3%E7%87%9F%E7%9B%8A%E7%8E%87%E8%A1%9D%E4%B8%8A+80.4%25%EF%BC%8C%E5%B1%85%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E5%86%A0%EF%BC%8CSK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81SanDisk+%E4%B9%9F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [海力士](海力士.md), [科技](科技.md), [美光](美光.md), [記憶體](記憶體.md), [需求](需求.md)
+___
+##### 2026-07-13 10:08:18 UTC ~ TechNews 科技新報
+> RT @technews_tw: SK 海力士登陸那斯達克後獲利了結！首爾早盤股價一度下跌 10.1%。 #SK海力士 #那斯達克 #HBM https://t.co/uIePsToWlF
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%B8%E9%82%A3%E6%96%AF%E9%81%94%E5%85%8B%E5%BE%8C%E7%8D%B2%E5%88%A9%E4%BA%86%E7%B5%90%EF%BC%81%E9%A6%96%E7%88%BE%E6%97%A9%E7%9B%A4%E8%82%A1%E5%83%B9%E4%B8%80%E5%BA%A6%E4%B8%8B%E8%B7%8C+10.1%25%E3%80%82+%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB+%23%E9%82%A3%E6%96%AF%E9%81%94%E5%85%8B+%23HBM+https%3A%2F%2Ft.co%2FuIePsToWlF)
+##### Other Words/Names of Interest in the Above Tweet
+[下跌](下跌.md), [海力士](海力士.md)
+___
+##### 2026-07-13 02:41:16 UTC ~ 拖拉机
+> RT @tuolaji2024: 海力士营业利润预计将达到60.4万亿韩元，环比增长61%，同比增长556%，但仍比市场普遍预期的65万亿韩元低8%。业绩未达预期的主要原因是SK海力士的高带宽内存(HBM)收入占比高于同行，导致其平均售价(ASP)涨幅低于市场平均水平。业绩…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tuolaji2024%3A+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E9%A2%84%E8%AE%A1%E5%B0%86%E8%BE%BE%E5%88%B060.4%E4%B8%87%E4%BA%BF%E9%9F%A9%E5%85%83%EF%BC%8C%E7%8E%AF%E6%AF%94%E5%A2%9E%E9%95%BF61%25%EF%BC%8C%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF556%25%EF%BC%8C%E4%BD%86%E4%BB%8D%E6%AF%94%E5%B8%82%E5%9C%BA%E6%99%AE%E9%81%8D%E9%A2%84%E6%9C%9F%E7%9A%8465%E4%B8%87%E4%BA%BF%E9%9F%A9%E5%85%83%E4%BD%8E8%25%E3%80%82%E4%B8%9A%E7%BB%A9%E6%9C%AA%E8%BE%BE%E9%A2%84%E6%9C%9F%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E6%98%AFSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%9A%84%E9%AB%98%E5%B8%A6%E5%AE%BD%E5%86%85%E5%AD%98%28HBM%29%E6%94%B6%E5%85%A5%E5%8D%A0%E6%AF%94%E9%AB%98%E4%BA%8E%E5%90%8C%E8%A1%8C%EF%BC%8C%E5%AF%BC%E8%87%B4%E5%85%B6%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%28ASP%29%E6%B6%A8%E5%B9%85%E4%BD%8E%E4%BA%8E%E5%B8%82%E5%9C%BA%E5%B9%B3%E5%9D%87%E6%B0%B4%E5%B9%B3%E3%80%82%E4%B8%9A%E7%BB%A9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[业绩](业绩.md), [利润](利润.md), [售价](售价.md), [增长](增长.md), [导致](导致.md), [带宽](带宽.md), [收入](收入.md), [水平](水平.md), [海力士](海力士.md), [涨幅](涨幅.md), [营业利润](营业利润.md), [预期](预期.md), [预计](预计.md)
+___
+##### 2026-07-11 04:56:25 UTC ~ TechNews 科技新報
+> RT @technews_tw: SK 海力士執行長警告！全球記憶體產業將在 2027 年面臨史上最嚴重供應短缺。 #SK海力士 #記憶體 #HBM https://t.co/Fk92QMdjeu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%9F%B7%E8%A1%8C%E9%95%B7%E8%AD%A6%E5%91%8A%EF%BC%81%E5%85%A8%E7%90%83%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E6%A5%AD%E5%B0%87%E5%9C%A8+2027+%E5%B9%B4%E9%9D%A2%E8%87%A8%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%9A%B4%E9%87%8D%E4%BE%9B%E6%87%89%E7%9F%AD%E7%BC%BA%E3%80%82+%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB+%23%E8%A8%98%E6%86%B6%E9%AB%94+%23HBM+https%3A%2F%2Ft.co%2FFk92QMdjeu)
+##### Other Words/Names of Interest in the Above Tweet
+[海力士](海力士.md), [短缺](短缺.md), [記憶體](記憶體.md)
+___
+##### 2026-07-10 10:10:29 UTC ~ WangNextDoor
+> RT @WangNextDoor2: 海力士这波赴美上市，含金量比SpaceX、OpenAI这些还在烧钱的巨头高多了——手握英伟达核心供应商身份，HBM市占率近六成，一季度利润暴涨405%，近一年股价翻了十倍，硬是把存储行业的定价权攥死了。赴美上市后能进科技指数、吸饱被动资金，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40WangNextDoor2%3A+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%BF%99%E6%B3%A2%E8%B5%B4%E7%BE%8E%E4%B8%8A%E5%B8%82%EF%BC%8C%E5%90%AB%E9%87%91%E9%87%8F%E6%AF%94SpaceX%E3%80%81OpenAI%E8%BF%99%E4%BA%9B%E8%BF%98%E5%9C%A8%E7%83%A7%E9%92%B1%E7%9A%84%E5%B7%A8%E5%A4%B4%E9%AB%98%E5%A4%9A%E4%BA%86%E2%80%94%E2%80%94%E6%89%8B%E6%8F%A1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%A0%B8%E5%BF%83%E4%BE%9B%E5%BA%94%E5%95%86%E8%BA%AB%E4%BB%BD%EF%BC%8CHBM%E5%B8%82%E5%8D%A0%E7%8E%87%E8%BF%91%E5%85%AD%E6%88%90%EF%BC%8C%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E6%9A%B4%E6%B6%A8405%25%EF%BC%8C%E8%BF%91%E4%B8%80%E5%B9%B4%E8%82%A1%E4%BB%B7%E7%BF%BB%E4%BA%86%E5%8D%81%E5%80%8D%EF%BC%8C%E7%A1%AC%E6%98%AF%E6%8A%8A%E5%AD%98%E5%82%A8%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%AE%9A%E4%BB%B7%E6%9D%83%E6%94%A5%E6%AD%BB%E4%BA%86%E3%80%82%E8%B5%B4%E7%BE%8E%E4%B8%8A%E5%B8%82%E5%90%8E%E8%83%BD%E8%BF%9B%E7%A7%91%E6%8A%80%E6%8C%87%E6%95%B0%E3%80%81%E5%90%B8%E9%A5%B1%E8%A2%AB%E5%8A%A8%E8%B5%84%E9%87%91%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [利润](利润.md), [存储](存储.md), [季度](季度.md), [巨头](巨头.md), [市占率](市占率.md), [核心](核心.md), [海力士](海力士.md), [科技](科技.md), [英伟达](英伟达.md), [行业](行业.md), [赴](赴.md), [金](金.md)
+___
+##### 2026-07-08 17:48:34 UTC ~ TechNews 科技新報
+> RT @technews_tw: #南亞科 6 月營收年增狂飆逾 620%，第二季更將由虧轉盈。由於各大廠產能轉向 HBM，導致傳統 DRAM 供給極度吃緊，日系外資看好漲勢將一路延續至 2027 年，不僅重申買進，更將目標價由 292 元大幅調升至 650 元。 https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E5%8D%97%E4%BA%9E%E7%A7%91+6+%E6%9C%88%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E%E7%8B%82%E9%A3%86%E9%80%BE+620%25%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9B%B4%E5%B0%87%E7%94%B1%E8%99%A7%E8%BD%89%E7%9B%88%E3%80%82%E7%94%B1%E6%96%BC%E5%90%84%E5%A4%A7%E5%BB%A0%E7%94%A2%E8%83%BD%E8%BD%89%E5%90%91+HBM%EF%BC%8C%E5%B0%8E%E8%87%B4%E5%82%B3%E7%B5%B1+DRAM+%E4%BE%9B%E7%B5%A6%E6%A5%B5%E5%BA%A6%E5%90%83%E7%B7%8A%EF%BC%8C%E6%97%A5%E7%B3%BB%E5%A4%96%E8%B3%87%E7%9C%8B%E5%A5%BD%E6%BC%B2%E5%8B%A2%E5%B0%87%E4%B8%80%E8%B7%AF%E5%BB%B6%E7%BA%8C%E8%87%B3+2027+%E5%B9%B4%EF%BC%8C%E4%B8%8D%E5%83%85%E9%87%8D%E7%94%B3%E8%B2%B7%E9%80%B2%EF%BC%8C%E6%9B%B4%E5%B0%87%E7%9B%AE%E6%A8%99%E5%83%B9%E7%94%B1+292+%E5%85%83%E5%A4%A7%E5%B9%85%E8%AA%BF%E5%8D%87%E8%87%B3+650+%E5%85%83%E3%80%82+https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [傳統](傳統.md), [大幅](大幅.md), [營收](營收.md), [逾](逾.md)
+___
+##### 2026-07-07 09:41:21 UTC ~ 库哥
+> RT @kugo_A10: HBM之父金正浩：AI的本质是内存，不是GPU。这两天全网都在唱空存储。库哥找到一篇，看看能不能救一下三星、海力士。😂 https://t.co/klgulYJKuw
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40kugo_A10%3A+HBM%E4%B9%8B%E7%88%B6%E9%87%91%E6%AD%A3%E6%B5%A9%EF%BC%9AAI%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E5%86%85%E5%AD%98%EF%BC%8C%E4%B8%8D%E6%98%AFGPU%E3%80%82%E8%BF%99%E4%B8%A4%E5%A4%A9%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%94%B1%E7%A9%BA%E5%AD%98%E5%82%A8%E3%80%82%E5%BA%93%E5%93%A5%E6%89%BE%E5%88%B0%E4%B8%80%E7%AF%87%EF%BC%8C%E7%9C%8B%E7%9C%8B%E8%83%BD%E4%B8%8D%E8%83%BD%E6%95%91%E4%B8%80%E4%B8%8B%E4%B8%89%E6%98%9F%E3%80%81%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%82%F0%9F%98%82+https%3A%2F%2Ft.co%2FklgulYJKuw)
+##### Other Words/Names of Interest in the Above Tweet
+[GPU](GPU.md), [三星](三星.md), [存储](存储.md), [本质](本质.md), [海力士](海力士.md), [金](金.md)
+___
+##### 2026-07-07 06:07:02 UTC ~ TechNews 科技新報
+> RT @technews_tw: #JEDEC 將 #HBM5 厚度標準放寬至 1,000 微米，加上輝達等客戶延後高堆疊需求，#三星 與 #SK海力士 在 #HBM4 恐跳過混合鍵合。 https://t.co/QWoPzBEum4
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23JEDEC+%E5%B0%87+%23HBM5+%E5%8E%9A%E5%BA%A6%E6%A8%99%E6%BA%96%E6%94%BE%E5%AF%AC%E8%87%B3+1%2C000+%E5%BE%AE%E7%B1%B3%EF%BC%8C%E5%8A%A0%E4%B8%8A%E8%BC%9D%E9%81%94%E7%AD%89%E5%AE%A2%E6%88%B6%E5%BB%B6%E5%BE%8C%E9%AB%98%E5%A0%86%E7%96%8A%E9%9C%80%E6%B1%82%EF%BC%8C%23%E4%B8%89%E6%98%9F+%E8%88%87+%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB+%E5%9C%A8+%23HBM4+%E6%81%90%E8%B7%B3%E9%81%8E%E6%B7%B7%E5%90%88%E9%8D%B5%E5%90%88%E3%80%82+https%3A%2F%2Ft.co%2FQWoPzBEum4)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [海力士](海力士.md), [輝達](輝達.md), [需求](需求.md)
+___
+##### 2026-07-07 05:51:43 UTC ~ TechNews 科技新報
+> RT @technews_tw: #美國製造 的 #AI 晶片其實沒那麼純？#輝達 與 #英特爾 雖然極力擴大美國本土晶圓產能，#台積電 亞利桑那廠也已產出 #Blackwell 晶圓，但因缺乏關鍵的 #先進封裝 與 #HBM 產能，晶片仍得橫跨 7,000 英里送回台灣進行…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E7%BE%8E%E5%9C%8B%E8%A3%BD%E9%80%A0+%E7%9A%84+%23AI+%E6%99%B6%E7%89%87%E5%85%B6%E5%AF%A6%E6%B2%92%E9%82%A3%E9%BA%BC%E7%B4%94%EF%BC%9F%23%E8%BC%9D%E9%81%94+%E8%88%87+%23%E8%8B%B1%E7%89%B9%E7%88%BE+%E9%9B%96%E7%84%B6%E6%A5%B5%E5%8A%9B%E6%93%B4%E5%A4%A7%E7%BE%8E%E5%9C%8B%E6%9C%AC%E5%9C%9F%E6%99%B6%E5%9C%93%E7%94%A2%E8%83%BD%EF%BC%8C%23%E5%8F%B0%E7%A9%8D%E9%9B%BB+%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%BB%A0%E4%B9%9F%E5%B7%B2%E7%94%A2%E5%87%BA+%23Blackwell+%E6%99%B6%E5%9C%93%EF%BC%8C%E4%BD%86%E5%9B%A0%E7%BC%BA%E4%B9%8F%E9%97%9C%E9%8D%B5%E7%9A%84+%23%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D+%E8%88%87+%23HBM+%E7%94%A2%E8%83%BD%EF%BC%8C%E6%99%B6%E7%89%87%E4%BB%8D%E5%BE%97%E6%A9%AB%E8%B7%A8+7%2C000+%E8%8B%B1%E9%87%8C%E9%80%81%E5%9B%9E%E5%8F%B0%E7%81%A3%E9%80%B2%E8%A1%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[台灣](台灣.md), [台積電](台積電.md), [晶圓](晶圓.md), [晶片](晶片.md), [美國](美國.md), [英特爾](英特爾.md), [輝達](輝達.md)
+___
+##### 2026-07-06 07:32:12 UTC ~ New China 中文
+> RT @XinhuaChinese: 7月6日清晨，雨后初霁，位于河北省承德市滦平县的金山岭长城出现云海景观。 https://t.co/uGHBME5XsN
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XinhuaChinese%3A+7%E6%9C%886%E6%97%A5%E6%B8%85%E6%99%A8%EF%BC%8C%E9%9B%A8%E5%90%8E%E5%88%9D%E9%9C%81%EF%BC%8C%E4%BD%8D%E4%BA%8E%E6%B2%B3%E5%8C%97%E7%9C%81%E6%89%BF%E5%BE%B7%E5%B8%82%E6%BB%A6%E5%B9%B3%E5%8E%BF%E7%9A%84%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E%E5%87%BA%E7%8E%B0%E4%BA%91%E6%B5%B7%E6%99%AF%E8%A7%82%E3%80%82+https%3A%2F%2Ft.co%2FuGHBME5XsN)
+##### Other Words/Names of Interest in the Above Tweet
+[河北](河北.md), [金](金.md)
+___
 ##### 2026-06-28 06:14:24 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 高頻寬記憶體（HBM）標準封裝高頻寬記憶體（SPHBM4）DRAMJESD330-4 版本號：Version 1.0發布日期：2026 年 6 月 SPHBM4 DRAM 採用與 HBM4 DRAM（JESD270-4）相同的 DRAM 堆疊…
 
@@ -19,7 +103,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B5%B4%E7%BE%8E%E6%8E%9B%E7%89%8C%EF%BC%81+%23SK%E5%B4%94%E6%B3%B0%E6%BA%90%E6%8B%9C%E6%9C%83%E9%AD%8F%E5%93%B2%E5%AE%B6+SK+%E9%9B%86%E5%9C%98%E6%9C%83%E9%95%B7%E5%B4%94%E6%B3%B0%E6%BA%90%E7%B5%90%E6%9D%9F%E5%8F%B0%E7%81%A3%E8%A1%8C%E7%A8%8B%EF%BC%8C%E7%B9%BC%E6%9C%83%E6%99%A4%E8%BC%9D%E9%81%94%E5%9F%B7%E8%A1%8C%E9%95%B7%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%8C%EF%BC%8C%E5%86%8D%E5%BA%A6%E6%8B%9C%E6%9C%83%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%91%A3%E4%BA%8B%E9%95%B7%E9%AD%8F%E5%93%B2%E5%AE%B6%E8%88%87%E9%B4%BB%E6%B5%B7%E8%91%A3%E4%BA%8B%E9%95%B7%E5%8A%89%E6%8F%9A%E5%81%89%EF%BC%8C%E7%A9%8D%E6%A5%B5%E4%BD%88%E5%B1%80+AI+%E7%94%9F%E6%85%8B%E7%B3%BB%E3%80%82%E5%B4%94%E6%B3%B0%E6%BA%90%E6%AD%A4%E8%A1%8C%E8%88%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%B0%B1%E9%AB%98%E9%A0%BB%E5%AF%AC%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%88HBM%EF%BC%89%E5%8F%8A%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E6%8A%80%E8%A1%93%E9%81%94%E6%88%90%E5%85%A8%E9%9D%A2%E5%90%88%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[台灣](台灣.md), [台積電](台積電.md), [積極](積極.md), [記憶體](記憶體.md), [赴](赴.md), [輝達](輝達.md), [達成](達成.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md), [黃仁勳](黃仁勳.md)
+[台灣](台灣.md), [台積電](台積電.md), [海力士](海力士.md), [積極](積極.md), [記憶體](記憶體.md), [赴](赴.md), [輝達](輝達.md), [達成](達成.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md), [黃仁勳](黃仁勳.md)
 ___
 ##### 2026-06-04 16:05:31 UTC ~ TechNews 科技新報
 > RT @technews_tw: 三星積極推進 HBM5 開發！首次採用 HPB 熱傳導路徑技術，透過煙囪狀結構降低熱阻提升運作穩定性。 #三星 #HBM5 #散熱技術 https://t.co/payMB7zZaU
@@ -103,7 +187,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AI%E7%94%A8%E8%A8%98%E6%86%B6%E9%AB%94%E7%AB%B6%E7%88%AD%E6%BF%80%E5%8C%96%EF%BC%8C%E4%B8%89%E6%98%9F%E7%8C%9B%E8%BF%BDSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E5%89%B5%E5%A7%8B%E4%BA%BA%E9%BB%83%E4%BB%81%E5%8B%B3%E6%8A%8AHBM%EF%BC%88%E9%AB%98%E9%A0%BB%E5%AF%AC%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%89%E7%A8%B1%E7%82%BA%E3%80%8C%E6%8A%80%E8%A1%93%E5%A5%87%E8%B9%9F%E3%80%8D%EF%BC%8C%E8%AA%8D%E7%82%BA%E5%AE%83%E6%98%AFAI%E9%9D%A9%E5%91%BD%E7%9A%84%E9%87%8D%E8%A6%81%E5%9B%A0%E7%B4%A0%E3%80%82%E5%9C%A8%E9%80%99%E4%B8%80%E9%A0%98%E5%9F%9FSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%99%95%E6%96%BC%E5%84%AA%E5%8B%A2%EF%BC%8C%E4%BD%94%E6%9C%89%E5%85%A8%E7%90%83%E9%81%8E%E5%8D%8A%E4%BB%BD%E9%A1%8D%E3%80%82%E9%80%99%E7%A8%AE%E7%8B%80%E6%B3%81%E8%AE%93%E4%B8%89%E6%98%9F%E7%84%A1%E6%B3%95%E6%8E%A5%E5%8F%97%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FoB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [因素](因素.md), [奇蹟](奇蹟.md), [英偉達](英偉達.md), [記憶體](記憶體.md), [領域](領域.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md), [黃仁勳](黃仁勳.md)
+[三星](三星.md), [因素](因素.md), [奇蹟](奇蹟.md), [海力士](海力士.md), [英偉達](英偉達.md), [記憶體](記憶體.md), [領域](領域.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md), [黃仁勳](黃仁勳.md)
 ___
 ##### 2024-05-08 05:56:21 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AI記憶體，三星想逆襲】AI記憶體HBM（高頻寬內存）是通過將DRAM的晶片堆疊起來提高性能的半導體。據悉SK掌握5份額，三星電子佔4成、美光科技佔1成。3家企業展開投資競爭，三星提出了在2～3年內成為業界第一的目標……https:/…
@@ -124,7 +208,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%9F%93%E4%BC%81%E5%9C%A8DRAM%E5%B1%95%E9%96%8B%E5%A0%86%E7%96%8A%E7%AB%B6%E7%88%AD%EF%BC%8C%E6%88%90%E6%97%A5%E4%BC%81%E5%95%86%E6%A9%9F%E3%80%91%E9%AB%98%E9%A0%BB%E5%AF%AC%E5%85%A7%E5%AD%98%EF%BC%88HBM%EF%BC%89%E6%98%AF%E6%8A%8A%E5%A4%9A%E5%80%8BDRAM%E6%99%B6%E7%89%87%E5%A0%86%E7%96%8A%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%85%88%E9%80%B2%E8%A8%98%E6%86%B6%E9%AB%94%E3%80%82%E9%9A%A8%E8%91%97AI%E7%9A%84%E6%99%AE%E5%8F%8A%EF%BC%8C%E9%9C%80%E6%B1%82%E6%80%A5%E5%8A%87%E6%93%B4%E5%A4%A7%E3%80%82%E5%85%A8%E7%90%83%E9%A0%98%E5%85%88%E7%9A%84%E6%98%AFSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%EF%BC%8C%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E6%AD%A3%E5%9C%A8%E8%BF%BD%E8%B6%95%E3%80%82%E5%B0%8D%E6%96%BC%E6%94%AF%E6%92%90%E7%B2%BE%E7%B4%B0%E5%A0%86%E7%96%8A%E6%8A%80%E8%A1%93%E7%9A%84%E6%97%A5%E7%B3%BB%E8%A8%AD%E5%82%99%E5%92%8C%E6%9D%90%E6%96%99%E4%BC%81%E6%A5%AD%E4%BE%86%E8%AA%AC%EF%BC%8C%E9%80%99%E4%B9%9F%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%95%86%E6%A9%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [SK海力士](SK海力士.md), [三星](三星.md), [普及](普及.md), [晶片](晶片.md), [記憶體](記憶體.md), [需求](需求.md), [頻寬](頻寬.md)
+[DRAM](DRAM.md), [三星](三星.md), [普及](普及.md), [晶片](晶片.md), [海力士](海力士.md), [記憶體](記憶體.md), [需求](需求.md), [頻寬](頻寬.md)
 ___
 ##### 2023-11-27 01:55:40 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM出現AI特需，NAND恢復緩慢】2023年7～9月，用於存儲個人電腦和智慧手機數據的DRAM的需求量3年來首次超過供應量。生成式AI使用的DRAM的一種——高頻寬記憶體（HBM）的需求猛增。數據傳輸速度較慢的NAND型記憶卡則需…
@@ -138,7 +222,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8D%81%E5%B9%B4%E5%89%8D%EF%BC%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%AF%94%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E6%9B%B4%E7%A7%AF%E6%9E%81%E5%9C%B0%E6%8A%BC%E6%B3%A8HBM%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%8C%E9%9A%8F%E7%9D%80%E4%BE%9D%E8%B5%96HBM%E7%9A%84AI%E5%BA%94%E7%94%A8%E5%85%B4%E8%B5%B7%EF%BC%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%84%B1%E9%A2%96%E8%80%8C%E5%87%BA%EF%BC%8C%E6%88%90%E4%B8%BA%E6%97%A9%E6%9C%9F%E7%9A%84%E7%A1%AC%E4%BB%B6%E8%B5%A2%E5%AE%B6%E4%B9%8B%E4%B8%80%E3%80%82%E4%B8%80%E4%BD%8D%E5%AD%A6%E8%80%85%E8%AF%B4%EF%BC%9A%E2%80%9C%E8%BF%99%E6%97%A2%E5%8F%8D%E6%98%A0%E5%87%BA%E6%88%91%E4%BB%AC%E5%AF%B9%E6%96%B0%E6%8A%80%E6%9C%AF%E7%9A%84%E6%8A%95%E5%85%A5%EF%BC%8C%E4%B9%9F%E6%9C%89%E4%B8%80%E7%82%B9%E8%BF%90%E6%B0%94%E7%9A%84%E6%88%90%E5%88%86%EF%BC%8C%E6%88%91%E4%BB%AC%E5%A4%A7%E4%B8%BE%E6%8A%BC%E6%B3%A8%E7%9A%84%E4%B8%80%E6%AC%BE%E4%BA%A7%E5%93%81%E5%9C%A8AI%E6%97%B6%E4%BB%A3%E5%A4%A7%E5%8F%97%E7%9E%A9%E7%9B%AE%E3%80%82%E2%80%9D+htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [依赖](依赖.md), [兴起](兴起.md), [反映出](反映出.md), [技术](技术.md), [押注](押注.md), [极地](极地.md), [积极](积极.md), [竞争](竞争.md), [随着](随着.md)
+[依赖](依赖.md), [兴起](兴起.md), [反映出](反映出.md), [技术](技术.md), [押注](押注.md), [极地](极地.md), [海力士](海力士.md), [积极](积极.md), [竞争](竞争.md), [随着](随着.md)
 ___
 ##### 2022-01-14 10:02:29 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 美国房贷利率达到了2020年3月以来的最高水平，当时新冠疫情震动了市场。根据房地美，在截至周四的一周，30年期固定利率房贷的平均利率为3.45%。不过，房贷利率仍保持在接近历史低点的水平。https://t.co/ICQHBMCm8S

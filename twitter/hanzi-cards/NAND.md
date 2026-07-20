@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/NAND) for definition
 ### Tweets containing NAND
 
 ___
+##### 2026-07-14 13:00:44 UTC ~ TechNews 科技新報
+> RT @technews_tw: 日本鎧俠下戰帖！執行長強勢宣示，將不惜代價重返全球 NAND Flash 第一寶座。 #鎧俠 #NAND #記憶體 https://t.co/qiGYEKOG1g
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%97%A5%E6%9C%AC%E9%8E%A7%E4%BF%A0%E4%B8%8B%E6%88%B0%E5%B8%96%EF%BC%81%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%BC%B7%E5%8B%A2%E5%AE%A3%E7%A4%BA%EF%BC%8C%E5%B0%87%E4%B8%8D%E6%83%9C%E4%BB%A3%E5%83%B9%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83+NAND+Flash+%E7%AC%AC%E4%B8%80%E5%AF%B6%E5%BA%A7%E3%80%82+%23%E9%8E%A7%E4%BF%A0+%23NAND+%23%E8%A8%98%E6%86%B6%E9%AB%94+https%3A%2F%2Ft.co%2FqiGYEKOG1g)
+##### Other Words/Names of Interest in the Above Tweet
+[日本](日本.md), [記憶體](記憶體.md), [鎧俠](鎧俠.md)
+___
+##### 2026-07-10 03:08:12 UTC ~ Macro_Lin｜市场观察
+> RT @LinQingV: NAND这边的扩产节奏已经比大多数人预期的要快了。韩媒今天几篇报道给出了具体细节。SK海力士下半年重启大连二厂，装V8（238层）产线，月产能目标3到5万片，2027上半年完成。三星西安厂V6到V8（236层）的转换3月底已经做完，目前在量产。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LinQingV%3A+NAND%E8%BF%99%E8%BE%B9%E7%9A%84%E6%89%A9%E4%BA%A7%E8%8A%82%E5%A5%8F%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E9%A2%84%E6%9C%9F%E7%9A%84%E8%A6%81%E5%BF%AB%E4%BA%86%E3%80%82%E9%9F%A9%E5%AA%92%E4%BB%8A%E5%A4%A9%E5%87%A0%E7%AF%87%E6%8A%A5%E9%81%93%E7%BB%99%E5%87%BA%E4%BA%86%E5%85%B7%E4%BD%93%E7%BB%86%E8%8A%82%E3%80%82SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%87%8D%E5%90%AF%E5%A4%A7%E8%BF%9E%E4%BA%8C%E5%8E%82%EF%BC%8C%E8%A3%85V8%EF%BC%88238%E5%B1%82%EF%BC%89%E4%BA%A7%E7%BA%BF%EF%BC%8C%E6%9C%88%E4%BA%A7%E8%83%BD%E7%9B%AE%E6%A0%873%E5%88%B05%E4%B8%87%E7%89%87%EF%BC%8C2027%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%AE%8C%E6%88%90%E3%80%82%E4%B8%89%E6%98%9F%E8%A5%BF%E5%AE%89%E5%8E%82V6%E5%88%B0V8%EF%BC%88236%E5%B1%82%EF%BC%89%E7%9A%84%E8%BD%AC%E6%8D%A23%E6%9C%88%E5%BA%95%E5%B7%B2%E7%BB%8F%E5%81%9A%E5%AE%8C%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%9C%A8%E9%87%8F%E4%BA%A7%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [大连](大连.md), [海力士](海力士.md), [西安](西安.md), [转换](转换.md), [量产](量产.md), [预期](预期.md)
+___
+##### 2026-07-08 06:21:25 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 在目前產能受限的環境下，業界最不需要的就是因堆疊良率降低而導致每座晶圓廠的位元產出減少。Kioxia 與三星皆在 VLSI 2026 發表了多陣列混合鍵合（hybrid bonded）NAND 架構，作為邁向 1000+ 層以實現最高密度的途徑。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E5%9C%A8%E7%9B%AE%E5%89%8D%E7%94%A2%E8%83%BD%E5%8F%97%E9%99%90%E7%9A%84%E7%92%B0%E5%A2%83%E4%B8%8B%EF%BC%8C%E6%A5%AD%E7%95%8C%E6%9C%80%E4%B8%8D%E9%9C%80%E8%A6%81%E7%9A%84%E5%B0%B1%E6%98%AF%E5%9B%A0%E5%A0%86%E7%96%8A%E8%89%AF%E7%8E%87%E9%99%8D%E4%BD%8E%E8%80%8C%E5%B0%8E%E8%87%B4%E6%AF%8F%E5%BA%A7%E6%99%B6%E5%9C%93%E5%BB%A0%E7%9A%84%E4%BD%8D%E5%85%83%E7%94%A2%E5%87%BA%E6%B8%9B%E5%B0%91%E3%80%82Kioxia+%E8%88%87%E4%B8%89%E6%98%9F%E7%9A%86%E5%9C%A8+VLSI+2026+%E7%99%BC%E8%A1%A8%E4%BA%86%E5%A4%9A%E9%99%A3%E5%88%97%E6%B7%B7%E5%90%88%E9%8D%B5%E5%90%88%EF%BC%88hybrid+bonded%EF%BC%89NAND+%E6%9E%B6%E6%A7%8B%EF%BC%8C%E4%BD%9C%E7%82%BA%E9%82%81%E5%90%91+1000%2B+%E5%B1%A4%E4%BB%A5%E5%AF%A6%E7%8F%BE%E6%9C%80%E9%AB%98%E5%AF%86%E5%BA%A6%E7%9A%84%E9%80%94%E5%BE%91%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [晶圓](晶圓.md), [降低](降低.md)
+___
 ##### 2025-05-06 04:53:56 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【中國存儲晶片廠攪動全球價格戰】中國正在實施鼓勵購買本國半導體記憶體的補貼政策。調查公司TechInsights等的數據顯示，中國産DRAM和NAND比其他國家的産品便宜23%，如果考慮到補貼，最多能便宜50%左右……https://t…
 
@@ -47,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E6%8E%80%E8%B5%B7%E5%87%8F%E4%BA%A7%E6%B5%AA%E6%BD%AE%E3%80%91%E2%80%9C%E8%BF%87%E5%8E%BB%E4%BB%8E%E6%9C%AA%E7%BB%8F%E5%8E%86%E8%BF%87%E5%A6%82%E6%AD%A4%E4%B8%A5%E9%87%8D%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%B8%8D%E6%99%AF%E6%B0%94%E7%8A%B6%E5%86%B5%E2%80%9D%EF%BC%8C%E7%94%B1%E4%BA%8E%E8%A1%8C%E6%83%85%E6%81%B6%E5%8C%96%E8%B6%8B%E4%BA%8E%E9%95%BF%E6%9C%9F%E5%8C%96%EF%BC%8C%E6%97%A5%E6%9C%AC%E9%93%A0%E4%BE%A0%E6%8E%A7%E8%82%A1%E5%86%B3%E5%AE%9A%E6%8E%A8%E8%BF%9FNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B0%E5%B7%A5%E5%8E%82%E7%9A%84%E6%8A%95%E4%BA%A7%E6%97%B6%E9%97%B4%E3%80%82%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B9%9F%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%8F%90%E9%AB%98%E5%87%8F%E4%BA%A7%E5%B9%85%E5%BA%A6%E3%80%82%E2%80%9C%E5%87%8F%E4%BA%A7%E5%A4%9A%E7%B1%B3%E8%AF%BA%E6%95%88%E5%BA%94%E2%80%9D%E6%AD%A3%E5%9C%A8NAND%E9%A2%86%E5%9F%9F%E6%89%A9%E6%95%A3%E2%80%A6%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [严重](严重.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [铠侠](铠侠.md), [领域](领域.md)
+[三星](三星.md), [严重](严重.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [扩散](扩散.md), [掀起](掀起.md), [推迟](推迟.md), [提高](提高.md), [日本](日本.md), [海力士](海力士.md), [状况](状况.md), [芯片](芯片.md), [行情](行情.md), [铠侠](铠侠.md), [领域](领域.md)
 ___
 ##### 2023-07-10 02:56:11 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【半导体存储芯片价格1年跌4成】具有代表性的存储芯片DRAM的价格截至4月连续12个月下滑。NAND型闪存方面，“TLC 256GB”产品4～6月同比下跌44%，持续走低。在半导体行业，很多观点认为库存水平将在7～9月出现改善，但有声音认…
@@ -68,7 +89,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%BC%80%E5%8F%91%E5%87%BA%E6%9C%80%E5%B0%96%E7%AB%AFNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E3%80%91SK%E5%BC%80%E5%8F%91%E5%87%BA238%E5%B1%82NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%8D%95%E4%BD%8D%E9%9D%A2%E7%A7%AF%E7%9A%84%E6%95%B0%E6%8D%AE%E5%AE%B9%E9%87%8F%E6%8F%90%E9%AB%9834%EF%BC%85%EF%BC%8C%E4%BC%A0%E8%BE%93%E9%80%9F%E5%BA%A6%E6%8F%90%E9%AB%9850%25%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FBXr49gemPL)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [尖端](尖端.md), [开发](开发.md), [提高](提高.md), [数据](数据.md), [速度](速度.md)
+[尖端](尖端.md), [开发](开发.md), [提高](提高.md), [数据](数据.md), [海力士](海力士.md), [速度](速度.md)
 ___
 ##### 2022-07-12 05:08:24 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【半导体存储器市场21年增32％，中国购买占比高】半导体存储器2021年的市场规模为1670亿美元，预计到2027年将扩大到2600亿美元。从购买半导体存储器的国家和地区看，DRAM方面，美国占41％，中国占34％。而NAND型闪存方面，…

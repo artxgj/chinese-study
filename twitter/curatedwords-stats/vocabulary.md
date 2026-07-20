@@ -682,3 +682,4 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [涵盖](../hanzi-cards/涵盖.md) | to cover; to comprise; to include |
 | [语义](../hanzi-cards/语义.md) | meaning of words; semantic |
 | [取代](../hanzi-cards/取代.md) | to replace; to supersede; to supplant |
+| [尴尬](../hanzi-cards/尴尬.md) | (of a situatio) awkward; difficult; embarassed; uneasy |

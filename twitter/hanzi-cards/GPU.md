@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-07-17 10:15:25 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 台積電董事長魏哲家在最新發言中指出，目前成熟及特殊製程供應最吃緊的領域，主要集中在電源管理 IC（PMIC）與感測器兩大類別，顯示 AI 已成為成熟製程成長的最強動能。隨著 AI 資料中心運算力與功耗同步攀升，PMIC 需求急劇增加。從 GPU、…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%91%A3%E4%BA%8B%E9%95%B7%E9%AD%8F%E5%93%B2%E5%AE%B6%E5%9C%A8%E6%9C%80%E6%96%B0%E7%99%BC%E8%A8%80%E4%B8%AD%E6%8C%87%E5%87%BA%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%88%90%E7%86%9F%E5%8F%8A%E7%89%B9%E6%AE%8A%E8%A3%BD%E7%A8%8B%E4%BE%9B%E6%87%89%E6%9C%80%E5%90%83%E7%B7%8A%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E4%B8%BB%E8%A6%81%E9%9B%86%E4%B8%AD%E5%9C%A8%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86+IC%EF%BC%88PMIC%EF%BC%89%E8%88%87%E6%84%9F%E6%B8%AC%E5%99%A8%E5%85%A9%E5%A4%A7%E9%A1%9E%E5%88%A5%EF%BC%8C%E9%A1%AF%E7%A4%BA+AI+%E5%B7%B2%E6%88%90%E7%82%BA%E6%88%90%E7%86%9F%E8%A3%BD%E7%A8%8B%E6%88%90%E9%95%B7%E7%9A%84%E6%9C%80%E5%BC%B7%E5%8B%95%E8%83%BD%E3%80%82%E9%9A%A8%E8%91%97+AI+%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%81%8B%E7%AE%97%E5%8A%9B%E8%88%87%E5%8A%9F%E8%80%97%E5%90%8C%E6%AD%A5%E6%94%80%E5%8D%87%EF%BC%8CPMIC+%E9%9C%80%E6%B1%82%E6%80%A5%E5%8A%87%E5%A2%9E%E5%8A%A0%E3%80%82%E5%BE%9E+GPU%E3%80%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[中指](中指.md), [台積電](台積電.md), [成熟](成熟.md), [指出](指出.md), [攀升](攀升.md), [特殊](特殊.md), [需求](需求.md), [領域](領域.md)
+___
+##### 2026-07-17 09:53:04 UTC ~ TechNews 科技新報
+> RT @technews_tw: 中國 GPU 廠摩爾線程業績亮眼！上半年營收預計年增逾 135%。 #摩爾線程 #GPU #中國 https://t.co/a6E1mrGAg7
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%B8%AD%E5%9C%8B+GPU+%E5%BB%A0%E6%91%A9%E7%88%BE%E7%B7%9A%E7%A8%8B%E6%A5%AD%E7%B8%BE%E4%BA%AE%E7%9C%BC%EF%BC%81%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%87%9F%E6%94%B6%E9%A0%90%E8%A8%88%E5%B9%B4%E5%A2%9E%E9%80%BE+135%25%E3%80%82+%23%E6%91%A9%E7%88%BE%E7%B7%9A%E7%A8%8B+%23GPU+%23%E4%B8%AD%E5%9C%8B+https%3A%2F%2Ft.co%2Fa6E1mrGAg7)
+##### Other Words/Names of Interest in the Above Tweet
+[摩爾線程](摩爾線程.md), [營收](營收.md), [逾](逾.md), [預計](預計.md)
+___
+##### 2026-07-16 06:40:31 UTC ~ 潮向研究
+> RT @chaoxiangooo: AI的下半场，别只盯着芯片GPU和算力人人都挂在嘴边。但真正在AI产业链里吃到肉的金属，钽、稀土、钼、锡，市场几乎没人认真看。四个品种基本面全在右侧，三季度催化排队兑现，这才是下半年最该盯的方向。… https://t.co/sAm3GY…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chaoxiangooo%3A+AI%E7%9A%84%E4%B8%8B%E5%8D%8A%E5%9C%BA%EF%BC%8C%E5%88%AB%E5%8F%AA%E7%9B%AF%E7%9D%80%E8%8A%AF%E7%89%87GPU%E5%92%8C%E7%AE%97%E5%8A%9B%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%8C%82%E5%9C%A8%E5%98%B4%E8%BE%B9%E3%80%82%E4%BD%86%E7%9C%9F%E6%AD%A3%E5%9C%A8AI%E4%BA%A7%E4%B8%9A%E9%93%BE%E9%87%8C%E5%90%83%E5%88%B0%E8%82%89%E7%9A%84%E9%87%91%E5%B1%9E%EF%BC%8C%E9%92%BD%E3%80%81%E7%A8%80%E5%9C%9F%E3%80%81%E9%92%BC%E3%80%81%E9%94%A1%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%87%A0%E4%B9%8E%E6%B2%A1%E4%BA%BA%E8%AE%A4%E7%9C%9F%E7%9C%8B%E3%80%82%E5%9B%9B%E4%B8%AA%E5%93%81%E7%A7%8D%E5%9F%BA%E6%9C%AC%E9%9D%A2%E5%85%A8%E5%9C%A8%E5%8F%B3%E4%BE%A7%EF%BC%8C%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%82%AC%E5%8C%96%E6%8E%92%E9%98%9F%E5%85%91%E7%8E%B0%EF%BC%8C%E8%BF%99%E6%89%8D%E6%98%AF%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%9C%80%E8%AF%A5%E7%9B%AF%E7%9A%84%E6%96%B9%E5%90%91%E3%80%82%E2%80%A6+https%3A%2F%2Ft.co%2FsAm3GY%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[产业](产业.md), [季度](季度.md), [稀土](稀土.md), [芯片](芯片.md), [金](金.md), [金属](金属.md), [钼](钼.md), [钽](钽.md), [锡](锡.md)
+___
+##### 2026-07-11 05:28:30 UTC ~ Tigris 会讲课教授是好老师
+> RT @tig88411109: $NVDA 市值重回5万亿，唯一的问题就是太大了，很多成长型机构投资都已标配，再加上各路小作文的噪音，如何看待未来的增长、AI时代，长期价值投资者为何必须要标配，GPU不需要了么？现在是不是合理的投资策略？每当市场波动都是给投资者带来最好的分享…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tig88411109%3A+%24NVDA+%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E5%E4%B8%87%E4%BA%BF%EF%BC%8C%E5%94%AF%E4%B8%80%E7%9A%84%E9%97%AE%E9%A2%98%E5%B0%B1%E6%98%AF%E5%A4%AA%E5%A4%A7%E4%BA%86%EF%BC%8C%E5%BE%88%E5%A4%9A%E6%88%90%E9%95%BF%E5%9E%8B%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E9%83%BD%E5%B7%B2%E6%A0%87%E9%85%8D%EF%BC%8C%E5%86%8D%E5%8A%A0%E4%B8%8A%E5%90%84%E8%B7%AF%E5%B0%8F%E4%BD%9C%E6%96%87%E7%9A%84%E5%99%AA%E9%9F%B3%EF%BC%8C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%A2%9E%E9%95%BF%E3%80%81AI%E6%97%B6%E4%BB%A3%EF%BC%8C%E9%95%BF%E6%9C%9F%E4%BB%B7%E5%80%BC%E6%8A%95%E8%B5%84%E8%80%85%E4%B8%BA%E4%BD%95%E5%BF%85%E9%A1%BB%E8%A6%81%E6%A0%87%E9%85%8D%EF%BC%8CGPU%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BA%86%E4%B9%88%EF%BC%9F%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%88%E7%90%86%E7%9A%84%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%EF%BC%9F%E6%AF%8F%E5%BD%93%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E9%83%BD%E6%98%AF%E7%BB%99%E6%8A%95%E8%B5%84%E8%80%85%E5%B8%A6%E6%9D%A5%E6%9C%80%E5%A5%BD%E7%9A%84%E5%88%86%E4%BA%AB%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[噪音](噪音.md), [增长](增长.md), [市值](市值.md), [投资](投资.md), [投资者](投资者.md), [机构](机构.md), [波动](波动.md), [策略](策略.md)
+___
+##### 2026-07-07 09:41:21 UTC ~ 库哥
+> RT @kugo_A10: HBM之父金正浩：AI的本质是内存，不是GPU。这两天全网都在唱空存储。库哥找到一篇，看看能不能救一下三星、海力士。😂 https://t.co/klgulYJKuw
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40kugo_A10%3A+HBM%E4%B9%8B%E7%88%B6%E9%87%91%E6%AD%A3%E6%B5%A9%EF%BC%9AAI%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E5%86%85%E5%AD%98%EF%BC%8C%E4%B8%8D%E6%98%AFGPU%E3%80%82%E8%BF%99%E4%B8%A4%E5%A4%A9%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%94%B1%E7%A9%BA%E5%AD%98%E5%82%A8%E3%80%82%E5%BA%93%E5%93%A5%E6%89%BE%E5%88%B0%E4%B8%80%E7%AF%87%EF%BC%8C%E7%9C%8B%E7%9C%8B%E8%83%BD%E4%B8%8D%E8%83%BD%E6%95%91%E4%B8%80%E4%B8%8B%E4%B8%89%E6%98%9F%E3%80%81%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%82%F0%9F%98%82+https%3A%2F%2Ft.co%2FklgulYJKuw)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [三星](三星.md), [存储](存储.md), [本质](本质.md), [海力士](海力士.md), [金](金.md)
+___
+##### 2026-07-06 05:32:44 UTC ~ 高飞
+> RT @maide89699220: 比英伟达A100快478倍！北大联合中科院发布全球首款神经动力学芯片，整合运算和存储一体化，2.12毫秒实时重建人脑，运算速度碾压顶级GPU。 https://t.co/WZW92ah70V
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40maide89699220%3A+%E6%AF%94%E8%8B%B1%E4%BC%9F%E8%BE%BEA100%E5%BF%AB478%E5%80%8D%EF%BC%81%E5%8C%97%E5%A4%A7%E8%81%94%E5%90%88%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E7%A5%9E%E7%BB%8F%E5%8A%A8%E5%8A%9B%E5%AD%A6%E8%8A%AF%E7%89%87%EF%BC%8C%E6%95%B4%E5%90%88%E8%BF%90%E7%AE%97%E5%92%8C%E5%AD%98%E5%82%A8%E4%B8%80%E4%BD%93%E5%8C%96%EF%BC%8C2.12%E6%AF%AB%E7%A7%92%E5%AE%9E%E6%97%B6%E9%87%8D%E5%BB%BA%E4%BA%BA%E8%84%91%EF%BC%8C%E8%BF%90%E7%AE%97%E9%80%9F%E5%BA%A6%E7%A2%BE%E5%8E%8B%E9%A1%B6%E7%BA%A7GPU%E3%80%82+https%3A%2F%2Ft.co%2FWZW92ah70V)
+##### Other Words/Names of Interest in the Above Tweet
+[一体化](一体化.md), [发布](发布.md), [存储](存储.md), [整合](整合.md), [神经](神经.md), [芯片](芯片.md), [英伟达](英伟达.md), [速度](速度.md)
+___
 ##### 2026-06-16 11:46:59 UTC ~ Geek Lite
 > RT @QingQ77: 一个 macOS 终端工具，在 Apple Silicon 上本地跑语音转文字 + 中英翻译。麦克风或会议音频进去，实时字幕和翻译出来，全程不联网。https://t.co/eFZRZ6EDQ7Apple GPU 本地跑，不需要联网。流式 AS…
 
@@ -55,13 +97,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%A2%AB%E8%AA%89%E4%B8%BA%E2%80%9C%E4%B8%8A%E6%B5%B7GPU%E5%9B%9B%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8B%E4%B8%80%E7%9A%84%E5%A4%A9%E6%95%B0%E6%99%BA%E8%8A%AF%EF%BC%8C%E4%BB%A5%E5%8F%8A%E2%80%9C%E4%B8%AD%E5%9B%BDAI%E5%85%AD%E5%B0%8F%E8%99%8E%E2%80%9D%E4%B9%8B%E4%B8%80%E7%9A%84%E6%99%BA%E8%B0%B1%EF%BC%8C%E4%BA%8E8%E6%97%A5%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%BA%A4%E6%98%93%E6%89%80%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%88%90%E4%B8%BA%E8%87%AA%E5%8E%BB%E5%B9%B412%E6%9C%88%E4%BB%A5%E6%9D%A5%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%92%8C%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%9A%84%E7%AC%AC%E5%9B%9B%E3%80%81%E7%AC%AC%E4%BA%94%E5%AE%B6AI%E6%A6%82%E5%BF%B5%E8%82%A1%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%B8%AD%E5%9B%BD+%23%E8%82%A1%E5%B8%82+https%3A%2F%2Ft.co%2FR15C2flldY%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [上海](上海.md), [交易](交易.md), [智谱](智谱.md), [香港](香港.md)
-___
-##### 2026-01-07 05:34:53 UTC ~ 快讯
-> RT @dmjk001: ❗【天风电新】AIDC液冷：Rubin平台变化更新-0107———————————标准版R100单GPU功耗预计由当前1200-1400W提升至1800W，#100%液冷设计，仍延用45度温水冷却方案，预计冷却液流量、流速将大幅提高，#对应CDU、…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dmjk001%3A+%E2%9D%97%E3%80%90%E5%A4%A9%E9%A3%8E%E7%94%B5%E6%96%B0%E3%80%91AIDC%E6%B6%B2%E5%86%B7%EF%BC%9ARubin%E5%B9%B3%E5%8F%B0%E5%8F%98%E5%8C%96%E6%9B%B4%E6%96%B0-0107%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E6%A0%87%E5%87%86%E7%89%88R100%E5%8D%95GPU%E5%8A%9F%E8%80%97%E9%A2%84%E8%AE%A1%E7%94%B1%E5%BD%93%E5%89%8D1200-1400W%E6%8F%90%E5%8D%87%E8%87%B31800W%EF%BC%8C%23100%25%E6%B6%B2%E5%86%B7%E8%AE%BE%E8%AE%A1%EF%BC%8C%E4%BB%8D%E5%BB%B6%E7%94%A845%E5%BA%A6%E6%B8%A9%E6%B0%B4%E5%86%B7%E5%8D%B4%E6%96%B9%E6%A1%88%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%86%B7%E5%8D%B4%E6%B6%B2%E6%B5%81%E9%87%8F%E3%80%81%E6%B5%81%E9%80%9F%E5%B0%86%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%EF%BC%8C%23%E5%AF%B9%E5%BA%94CDU%E3%80%81%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[大幅](大幅.md), [平台](平台.md), [提高](提高.md), [方案](方案.md), [设计](设计.md), [预计](预计.md)
 ___
 ##### 2026-01-06 18:56:22 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 去年June Paik曾拒绝Meta的收购提议，如今其创立的韩国公司FuriosaAI的AI芯片已进入量产阶段。英伟达GPU在训练AI模型的初期阶段占据主导地位。但像Furiosa这样的公司押注，在下一个“推理”阶段A，他们的专用芯片可以具备…
@@ -279,13 +314,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40leeoxiang%3A+%E4%BB%A5%E5%89%8D%E7%9F%A5%E9%81%93%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9GPU%E7%9A%84%E6%B6%88%E8%80%97%E5%BE%88%E9%AB%98%EF%BC%8C%E8%BF%99%E6%AC%A1%E8%87%AA%E5%B7%B1%E7%94%A8H20%2896G%E6%98%BE%E5%AD%98%29%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA32B%E7%9A%84%E6%A8%A1%E5%9E%8B%E4%B9%8B%E5%90%8E%E6%9C%89%E4%BA%86%E6%9B%B4%E6%B7%B1%E7%9A%84%E6%84%9F%E5%8F%97%EF%BC%8C%E8%B7%91%E4%B8%80%E4%B8%AA%E5%B9%B6%E5%8F%91%E8%BF%98%E5%8F%AF%E4%BB%A5%EF%BC%8C%E8%B7%91%E4%B8%A4%E4%B8%AA%E5%B9%B6%E5%8F%91token%E9%80%9F%E5%BA%A6%E5%B0%B1%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82%E8%87%AA%E5%B7%B1%E9%83%A8%E7%BD%B2%E5%A4%A7%E6%A8%A1%E5%9E%8B%2870B%2B%29+%E5%8F%AF%E8%83%BD%E5%AF%B9%E7%BB%9D%E5%A4%A7%E6%95%B0%E4%B8%9A%E5%8A%A1%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E9%80%89%E6%8B%A9%E3%80%82)
 ##### Other Words/Names of Interest in the Above Tweet
 [模型](模型.md), [速度](速度.md)
-___
-##### 2025-02-26 01:57:30 UTC ~ Andy Stewart
-> RT @manateelazycat: DeepSeek硬核！昨天DeepSeek的FlashMLA刚在H800上把性能榨干，GitHub Star一天破8.2k。https://t.co/vj2yBAtMVv今天他们又放大招，开源了个DeepEP，GPU性能再被拉…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+DeepSeek%E7%A1%AC%E6%A0%B8%EF%BC%81%E6%98%A8%E5%A4%A9DeepSeek%E7%9A%84FlashMLA%E5%88%9A%E5%9C%A8H800%E4%B8%8A%E6%8A%8A%E6%80%A7%E8%83%BD%E6%A6%A8%E5%B9%B2%EF%BC%8CGitHub+Star%E4%B8%80%E5%A4%A9%E7%A0%B48.2k%E3%80%82https%3A%2F%2Ft.co%2Fvj2yBAtMVv%E4%BB%8A%E5%A4%A9%E4%BB%96%E4%BB%AC%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%EF%BC%8C%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%AADeepEP%EF%BC%8CGPU%E6%80%A7%E8%83%BD%E5%86%8D%E8%A2%AB%E6%8B%89%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [开源](开源.md)
 ___
 ##### 2025-02-25 06:55:41 UTC ~ 
 > RT @myfxtrader: DeepSeek“开源周”第二天，介绍DeepEP——首个为混合专家模型（MoE）模型训练和推理设计的开源EP通信库，支持NVLink和RDMA确保高带宽通信；支持FP8降低计算成本；高吞吐量和低延迟内核分别优化训练和推理阶段；重叠机制提升GPU…

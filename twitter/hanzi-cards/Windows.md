@@ -7,19 +7,19 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2026-07-03 06:55:10 UTC ~ 蓝点网
+> RT @landiantech: U 盘刻录装机神器 #Rufus v4.15 正式版发布，修复静默安装 Windows 10/11 出现的失败问题。Rufus 可以跳过 Windows 11 硬件限制、解除登录微软账号、禁用设备加密、优化使用体验等，属于目前 U 盘装机非…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+U+%E7%9B%98%E5%88%BB%E5%BD%95%E8%A3%85%E6%9C%BA%E7%A5%9E%E5%99%A8+%23Rufus+v4.15+%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83%EF%BC%8C%E4%BF%AE%E5%A4%8D%E9%9D%99%E9%BB%98%E5%AE%89%E8%A3%85+Windows+10%2F11+%E5%87%BA%E7%8E%B0%E7%9A%84%E5%A4%B1%E8%B4%A5%E9%97%AE%E9%A2%98%E3%80%82Rufus+%E5%8F%AF%E4%BB%A5%E8%B7%B3%E8%BF%87+Windows+11+%E7%A1%AC%E4%BB%B6%E9%99%90%E5%88%B6%E3%80%81%E8%A7%A3%E9%99%A4%E7%99%BB%E5%BD%95%E5%BE%AE%E8%BD%AF%E8%B4%A6%E5%8F%B7%E3%80%81%E7%A6%81%E7%94%A8%E8%AE%BE%E5%A4%87%E5%8A%A0%E5%AF%86%E3%80%81%E4%BC%98%E5%8C%96%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C%E7%AD%89%EF%BC%8C%E5%B1%9E%E4%BA%8E%E7%9B%AE%E5%89%8D+U+%E7%9B%98%E8%A3%85%E6%9C%BA%E9%9D%9E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[优化](优化.md), [加密](加密.md), [发布](发布.md), [微软](微软.md), [正式](正式.md), [账号](账号.md), [限制](限制.md)
+___
 ##### 2026-06-02 06:35:38 UTC ~ 何頻
 > RT @MJTVHoPin: 黃仁勳正式殺進Windows筆電市場！輝達向英特爾、AMD發起正面挑戰全球AI晶片霸主 Jensen Huang（黃仁勳）6月1日在台北國際電腦展（Computex）宣布，輝達（NVIDIA）將正式進軍Windows筆記型電腦核心處理器市場，推…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MJTVHoPin%3A+%E9%BB%83%E4%BB%81%E5%8B%B3%E6%AD%A3%E5%BC%8F%E6%AE%BA%E9%80%B2Windows%E7%AD%86%E9%9B%BB%E5%B8%82%E5%A0%B4%EF%BC%81%E8%BC%9D%E9%81%94%E5%90%91%E8%8B%B1%E7%89%B9%E7%88%BE%E3%80%81AMD%E7%99%BC%E8%B5%B7%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%B0%E5%85%A8%E7%90%83AI%E6%99%B6%E7%89%87%E9%9C%B8%E4%B8%BB+Jensen+Huang%EF%BC%88%E9%BB%83%E4%BB%81%E5%8B%B3%EF%BC%896%E6%9C%881%E6%97%A5%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%9B%BB%E8%85%A6%E5%B1%95%EF%BC%88Computex%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%B0%87%E6%AD%A3%E5%BC%8F%E9%80%B2%E8%BB%8DWindows%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E6%A0%B8%E5%BF%83%E8%99%95%E7%90%86%E5%99%A8%E5%B8%82%E5%A0%B4%EF%BC%8C%E6%8E%A8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [AMD](AMD.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [輝達](輝達.md), [黃仁勳](黃仁勳.md)
-___
-##### 2026-06-02 05:51:24 UTC ~ 空空｜预测世界杯就在Gate
-> RT @btcoindown: 黄仁勋在GTC Taipei主题演讲上掏出了RTX Spark。据说这科芯片就像Windows95改变PC一样，有了RTX Spark，你只需要提问，PC就会完成工作。这颗由英伟达与联发科联合开发、台积电3nm工艺制造的SoC，把20核G…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcoindown%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8GTC+Taipei%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E4%B8%8A%E6%8E%8F%E5%87%BA%E4%BA%86RTX+Spark%E3%80%82%E6%8D%AE%E8%AF%B4%E8%BF%99%E7%A7%91%E8%8A%AF%E7%89%87%E5%B0%B1%E5%83%8FWindows95%E6%94%B9%E5%8F%98PC%E4%B8%80%E6%A0%B7%EF%BC%8C%E6%9C%89%E4%BA%86RTX+Spark%EF%BC%8C%E4%BD%A0%E5%8F%AA%E9%9C%80%E8%A6%81%E6%8F%90%E9%97%AE%EF%BC%8CPC%E5%B0%B1%E4%BC%9A%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%E3%80%82%E8%BF%99%E9%A2%97%E7%94%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E8%81%94%E5%8F%91%E7%A7%91%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%B0%E7%A7%AF%E7%94%B53nm%E5%B7%A5%E8%89%BA%E5%88%B6%E9%80%A0%E7%9A%84SoC%EF%BC%8C%E6%8A%8A20%E6%A0%B8G%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[台积电](台积电.md), [工艺](工艺.md), [开发](开发.md), [芯片](芯片.md), [英伟达](英伟达.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2026-06-01 06:50:19 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 闪击英特尔！英伟达 CEO 黄仁勋，正式公布了与微软、联发科合作推出的 Windows 全新处理器 N1X。这批芯片，主要面向本地部署 AI 代理应用。微软生态的代工公司，如惠普、戴尔、联想、华硕、宏碁及微星等，也将陆续跟进其配置。此次发布，意味…

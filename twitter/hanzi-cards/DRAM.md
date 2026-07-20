@@ -7,6 +7,139 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DRAM) for definition
 ### Tweets containing DRAM
 
 ___
+##### 2026-07-18 03:37:50 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 就像之前對 DeepSeek R1 的恐慌一樣，有些不了解情況的人認為 Kimi K3 使用線性注意力（KDA）會對 NVIDIA、HBM、DRAM 和網路不利，因為它的 KV-cache 需求相對較低。事實正好相反。Kimi K3 其實對 NV…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E5%B0%B1%E5%83%8F%E4%B9%8B%E5%89%8D%E5%B0%8D+DeepSeek+R1+%E7%9A%84%E6%81%90%E6%85%8C%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%9C%89%E4%BA%9B%E4%B8%8D%E4%BA%86%E8%A7%A3%E6%83%85%E6%B3%81%E7%9A%84%E4%BA%BA%E8%AA%8D%E7%82%BA+Kimi+K3+%E4%BD%BF%E7%94%A8%E7%B7%9A%E6%80%A7%E6%B3%A8%E6%84%8F%E5%8A%9B%EF%BC%88KDA%EF%BC%89%E6%9C%83%E5%B0%8D+NVIDIA%E3%80%81HBM%E3%80%81DRAM+%E5%92%8C%E7%B6%B2%E8%B7%AF%E4%B8%8D%E5%88%A9%EF%BC%8C%E5%9B%A0%E7%82%BA%E5%AE%83%E7%9A%84+KV-cache+%E9%9C%80%E6%B1%82%E7%9B%B8%E5%B0%8D%E8%BC%83%E4%BD%8E%E3%80%82%E4%BA%8B%E5%AF%A6%E6%AD%A3%E5%A5%BD%E7%9B%B8%E5%8F%8D%E3%80%82Kimi+K3+%E5%85%B6%E5%AF%A6%E5%B0%8D+NV%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [HBM](HBM.md), [Kimi](Kimi.md), [需求](需求.md)
+___
+##### 2026-07-16 08:31:10 UTC ~ 潮向研究
+> RT @chaoxiangooo: $DRAM 存储涨价到头了？摩根士丹利：存储涨价4Q26见顶，但这轮周期不会崩过去一个月，亚洲存储股跌了15%到25%，芯片板块整体却在横盘。存储器被单边抛售，市场在怕什么？DRAM合约价同比增速正从周期高点回落，价格顶部大概率出…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chaoxiangooo%3A+%24DRAM+%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E5%88%B0%E5%A4%B4%E4%BA%86%EF%BC%9F%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9%EF%BC%9A%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B74Q26%E8%A7%81%E9%A1%B6%EF%BC%8C%E4%BD%86%E8%BF%99%E8%BD%AE%E5%91%A8%E6%9C%9F%E4%B8%8D%E4%BC%9A%E5%B4%A9%E8%BF%87%E5%8E%BB%E4%B8%80%E4%B8%AA%E6%9C%88%EF%BC%8C%E4%BA%9A%E6%B4%B2%E5%AD%98%E5%82%A8%E8%82%A1%E8%B7%8C%E4%BA%8615%25%E5%88%B025%25%EF%BC%8C%E8%8A%AF%E7%89%87%E6%9D%BF%E5%9D%97%E6%95%B4%E4%BD%93%E5%8D%B4%E5%9C%A8%E6%A8%AA%E7%9B%98%E3%80%82%E5%AD%98%E5%82%A8%E5%99%A8%E8%A2%AB%E5%8D%95%E8%BE%B9%E6%8A%9B%E5%94%AE%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%9C%A8%E6%80%95%E4%BB%80%E4%B9%88%EF%BC%9FDRAM%E5%90%88%E7%BA%A6%E4%BB%B7%E5%90%8C%E6%AF%94%E5%A2%9E%E9%80%9F%E6%AD%A3%E4%BB%8E%E5%91%A8%E6%9C%9F%E9%AB%98%E7%82%B9%E5%9B%9E%E8%90%BD%EF%BC%8C%E4%BB%B7%E6%A0%BC%E9%A1%B6%E9%83%A8%E5%A4%A7%E6%A6%82%E7%8E%87%E5%87%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [存储](存储.md), [存储器](存储器.md), [抛售](抛售.md), [涨价](涨价.md), [芯片](芯片.md)
+___
+##### 2026-07-16 06:03:42 UTC ~ TechNews 科技新報
+> RT @technews_tw: 中國 DRAM 大廠 #長鑫存儲 啟動 86 億美元上市計畫，引發全球記憶體類股重挫。市場擔憂大舉擴產將衝擊供需，#美光、#SK海力士 與台股族群紛紛走跌。 #華邦電 #南亞科 #旺宏 #群聯 https://t.co/c0Yz0fONeN
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%B8%AD%E5%9C%8B+DRAM+%E5%A4%A7%E5%BB%A0+%23%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2+%E5%95%9F%E5%8B%95+86+%E5%84%84%E7%BE%8E%E5%85%83%E4%B8%8A%E5%B8%82%E8%A8%88%E7%95%AB%EF%BC%8C%E5%BC%95%E7%99%BC%E5%85%A8%E7%90%83%E8%A8%98%E6%86%B6%E9%AB%94%E9%A1%9E%E8%82%A1%E9%87%8D%E6%8C%AB%E3%80%82%E5%B8%82%E5%A0%B4%E6%93%94%E6%86%82%E5%A4%A7%E8%88%89%E6%93%B4%E7%94%A2%E5%B0%87%E8%A1%9D%E6%93%8A%E4%BE%9B%E9%9C%80%EF%BC%8C%23%E7%BE%8E%E5%85%89%E3%80%81%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB+%E8%88%87%E5%8F%B0%E8%82%A1%E6%97%8F%E7%BE%A4%E7%B4%9B%E7%B4%9B%E8%B5%B0%E8%B7%8C%E3%80%82+%23%E8%8F%AF%E9%82%A6%E9%9B%BB+%23%E5%8D%97%E4%BA%9E%E7%A7%91+%23%E6%97%BA%E5%AE%8F+%23%E7%BE%A4%E8%81%AF+https%3A%2F%2Ft.co%2Fc0Yz0fONeN)
+##### Other Words/Names of Interest in the Above Tweet
+[啟動](啟動.md), [引發](引發.md), [擔憂](擔憂.md), [海力士](海力士.md), [美光](美光.md), [衝擊](衝擊.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
+___
+##### 2026-07-16 01:22:41 UTC ~ TechNews 科技新報
+> RT @technews_tw: #長鑫存儲 預計募資 666 億人民幣！創辦人曾誓言「不獲利不領薪」，堅守 8 年，終迎來單季獲利爆發，並躍升全球第四大 #DRAM 廠。 https://t.co/hBSyuuNYcw
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2+%E9%A0%90%E8%A8%88%E5%8B%9F%E8%B3%87+666+%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%81%E5%89%B5%E8%BE%A6%E4%BA%BA%E6%9B%BE%E8%AA%93%E8%A8%80%E3%80%8C%E4%B8%8D%E7%8D%B2%E5%88%A9%E4%B8%8D%E9%A0%98%E8%96%AA%E3%80%8D%EF%BC%8C%E5%A0%85%E5%AE%88+8+%E5%B9%B4%EF%BC%8C%E7%B5%82%E8%BF%8E%E4%BE%86%E5%96%AE%E5%AD%A3%E7%8D%B2%E5%88%A9%E7%88%86%E7%99%BC%EF%BC%8C%E4%B8%A6%E8%BA%8D%E5%8D%87%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7+%23DRAM+%E5%BB%A0%E3%80%82+https%3A%2F%2Ft.co%2FhBSyuuNYcw)
+##### Other Words/Names of Interest in the Above Tweet
+[誓言](誓言.md), [長鑫](長鑫.md), [預計](預計.md)
+___
+##### 2026-07-15 16:55:28 UTC ~ TechNews 科技新報
+> RT @technews_tw: HBM 和 DRAM 的需求非常旺盛！ #記憶體三雄營益率超車NVIDIA AI 資料中心吞噬 DRAM 與 HBM 供給，記憶體產業迎來史上最強獲利週期。美光最新一季營益率衝上 80.4%，居大型科技公司之冠，SK 海力士、SanDisk 也…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+HBM+%E5%92%8C+DRAM+%E7%9A%84%E9%9C%80%E6%B1%82%E9%9D%9E%E5%B8%B8%E6%97%BA%E7%9B%9B%EF%BC%81+%23%E8%A8%98%E6%86%B6%E9%AB%94%E4%B8%89%E9%9B%84%E7%87%9F%E7%9B%8A%E7%8E%87%E8%B6%85%E8%BB%8ANVIDIA+AI+%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%90%9E%E5%99%AC+DRAM+%E8%88%87+HBM+%E4%BE%9B%E7%B5%A6%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E6%A5%AD%E8%BF%8E%E4%BE%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%BC%B7%E7%8D%B2%E5%88%A9%E9%80%B1%E6%9C%9F%E3%80%82%E7%BE%8E%E5%85%89%E6%9C%80%E6%96%B0%E4%B8%80%E5%AD%A3%E7%87%9F%E7%9B%8A%E7%8E%87%E8%A1%9D%E4%B8%8A+80.4%25%EF%BC%8C%E5%B1%85%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%B9%8B%E5%86%A0%EF%BC%8CSK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E3%80%81SanDisk+%E4%B9%9F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [海力士](海力士.md), [科技](科技.md), [美光](美光.md), [記憶體](記憶體.md), [需求](需求.md)
+___
+##### 2026-07-15 10:09:58 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 中国最大的DRAM存储芯片制造商长鑫于周四开始接受申购，市值瞄准855亿美元，此次上市有望成为上海科创板迄今规模最大的IPO之一。https://t.co/XxK2GcS4ws
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84DRAM%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E9%95%BF%E9%91%AB%E4%BA%8E%E5%91%A8%E5%9B%9B%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%B4%AD%EF%BC%8C%E5%B8%82%E5%80%BC%E7%9E%84%E5%87%86855%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AD%A4%E6%AC%A1%E4%B8%8A%E5%B8%82%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E4%B8%8A%E6%B5%B7%E7%A7%91%E5%88%9B%E6%9D%BF%E8%BF%84%E4%BB%8A%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84IPO%E4%B9%8B%E4%B8%80%E3%80%82https%3A%2F%2Ft.co%2FXxK2GcS4ws)
+##### Other Words/Names of Interest in the Above Tweet
+[上海](上海.md), [存储](存储.md), [市值](市值.md), [有望](有望.md), [瞄准](瞄准.md), [芯片](芯片.md), [规模](规模.md), [迄今](迄今.md), [长鑫](长鑫.md)
+___
+##### 2026-07-15 06:49:37 UTC ~ TechNews 科技新報
+> RT @technews_tw: 全球第四大 DRAM 廠 #長鑫存儲 敲定於 7 月 16 日公開發行，預估上市總市值高達 5,792 億人民幣。 https://t.co/MS8kqvvBNV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B%E5%A4%A7+DRAM+%E5%BB%A0+%23%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2+%E6%95%B2%E5%AE%9A%E6%96%BC+7+%E6%9C%88+16+%E6%97%A5%E5%85%AC%E9%96%8B%E7%99%BC%E8%A1%8C%EF%BC%8C%E9%A0%90%E4%BC%B0%E4%B8%8A%E5%B8%82%E7%B8%BD%E5%B8%82%E5%80%BC%E9%AB%98%E9%81%94+5%2C792+%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%E3%80%82+https%3A%2F%2Ft.co%2FMS8kqvvBNV)
+##### Other Words/Names of Interest in the Above Tweet
+[市值](市值.md), [長鑫](長鑫.md), [開發](開發.md)
+___
+##### 2026-07-14 19:27:18 UTC ~ HeyIts小懒橘🌻.
+> RT @Web3Lanju: 长鑫科技，中国最大的DRAM厂商，后天科创板打新。十年累计亏损366亿。2025年刚刚扭亏，全年赚了18亿。到了2026年Q1，一个季度直接赚了248亿。按工作日计算，平均每天净赚约4亿。从年亏160亿到日赚4亿，中间只隔了一轮DR…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Web3Lanju%3A+%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84DRAM%E5%8E%82%E5%95%86%EF%BC%8C%E5%90%8E%E5%A4%A9%E7%A7%91%E5%88%9B%E6%9D%BF%E6%89%93%E6%96%B0%E3%80%82%E5%8D%81%E5%B9%B4%E7%B4%AF%E8%AE%A1%E4%BA%8F%E6%8D%9F366%E4%BA%BF%E3%80%822025%E5%B9%B4%E5%88%9A%E5%88%9A%E6%89%AD%E4%BA%8F%EF%BC%8C%E5%85%A8%E5%B9%B4%E8%B5%9A%E4%BA%8618%E4%BA%BF%E3%80%82%E5%88%B0%E4%BA%862026%E5%B9%B4Q1%EF%BC%8C%E4%B8%80%E4%B8%AA%E5%AD%A3%E5%BA%A6%E7%9B%B4%E6%8E%A5%E8%B5%9A%E4%BA%86248%E4%BA%BF%E3%80%82%E6%8C%89%E5%B7%A5%E4%BD%9C%E6%97%A5%E8%AE%A1%E7%AE%97%EF%BC%8C%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E5%87%80%E8%B5%9A%E7%BA%A64%E4%BA%BF%E3%80%82%E4%BB%8E%E5%B9%B4%E4%BA%8F160%E4%BA%BF%E5%88%B0%E6%97%A5%E8%B5%9A4%E4%BA%BF%EF%BC%8C%E4%B8%AD%E9%97%B4%E5%8F%AA%E9%9A%94%E4%BA%86%E4%B8%80%E8%BD%AEDR%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[厂商](厂商.md), [季度](季度.md), [直接](直接.md), [科技](科技.md), [累计](累计.md), [长鑫](长鑫.md)
+___
+##### 2026-07-14 09:33:41 UTC ~ TechNews 科技新報
+> RT @technews_tw: 中國 DRAM 動作頻頻！傳華為將切入 DRAM 領域，利用晉華技術發展業務。 #華為 #DRAM #中國半導體 https://t.co/AokX1ELATI
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%B8%AD%E5%9C%8B+DRAM+%E5%8B%95%E4%BD%9C%E9%A0%BB%E9%A0%BB%EF%BC%81%E5%82%B3%E8%8F%AF%E7%82%BA%E5%B0%87%E5%88%87%E5%85%A5+DRAM+%E9%A0%98%E5%9F%9F%EF%BC%8C%E5%88%A9%E7%94%A8%E6%99%89%E8%8F%AF%E6%8A%80%E8%A1%93%E7%99%BC%E5%B1%95%E6%A5%AD%E5%8B%99%E3%80%82+%23%E8%8F%AF%E7%82%BA+%23DRAM+%23%E4%B8%AD%E5%9C%8B%E5%8D%8A%E5%B0%8E%E9%AB%94+https%3A%2F%2Ft.co%2FAokX1ELATI)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [華為](華為.md), [領域](領域.md)
+___
+##### 2026-07-14 03:00:43 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【AI投資熱潮引發通膨，智慧手機1年漲94美元】「對消費者而言，智慧手機特別便宜的時代已經落幕」，調查公司IDC這樣指出。AI投資正在引發存儲半導體的價格暴漲，DRAM的價格在過去一年裏暴漲至6倍以上。這也在導致智慧手機和PC等電子設備價…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AI%E6%8A%95%E8%B3%87%E7%86%B1%E6%BD%AE%E5%BC%95%E7%99%BC%E9%80%9A%E8%86%A8%EF%BC%8C%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F1%E5%B9%B4%E6%BC%B294%E7%BE%8E%E5%85%83%E3%80%91%E3%80%8C%E5%B0%8D%E6%B6%88%E8%B2%BB%E8%80%85%E8%80%8C%E8%A8%80%EF%BC%8C%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E7%89%B9%E5%88%A5%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%99%82%E4%BB%A3%E5%B7%B2%E7%B6%93%E8%90%BD%E5%B9%95%E3%80%8D%EF%BC%8C%E8%AA%BF%E6%9F%A5%E5%85%AC%E5%8F%B8IDC%E9%80%99%E6%A8%A3%E6%8C%87%E5%87%BA%E3%80%82AI%E6%8A%95%E8%B3%87%E6%AD%A3%E5%9C%A8%E5%BC%95%E7%99%BC%E5%AD%98%E5%84%B2%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%9A%84%E5%83%B9%E6%A0%BC%E6%9A%B4%E6%BC%B2%EF%BC%8CDRAM%E7%9A%84%E5%83%B9%E6%A0%BC%E5%9C%A8%E9%81%8E%E5%8E%BB%E4%B8%80%E5%B9%B4%E8%A3%8F%E6%9A%B4%E6%BC%B2%E8%87%B36%E5%80%8D%E4%BB%A5%E4%B8%8A%E3%80%82%E9%80%99%E4%B9%9F%E5%9C%A8%E5%B0%8E%E8%87%B4%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CPC%E7%AD%89%E9%9B%BB%E5%AD%90%E8%A8%AD%E5%82%99%E5%83%B9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [引發](引發.md), [指出](指出.md), [通膨](通膨.md)
+___
+##### 2026-07-13 10:12:13 UTC ~ TechNews 科技新報
+> RT @technews_tw: 汽車默默成記憶體大戶！一台智慧新車最少用掉約 40GB DRAM，最多超過 100GB。 #車用記憶體 #記憶體缺貨 #DRAM https://t.co/I9lc1wTsHZ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%B1%BD%E8%BB%8A%E9%BB%98%E9%BB%98%E6%88%90%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E6%88%B6%EF%BC%81%E4%B8%80%E5%8F%B0%E6%99%BA%E6%85%A7%E6%96%B0%E8%BB%8A%E6%9C%80%E5%B0%91%E7%94%A8%E6%8E%89%E7%B4%84+40GB+DRAM%EF%BC%8C%E6%9C%80%E5%A4%9A%E8%B6%85%E9%81%8E+100GB%E3%80%82+%23%E8%BB%8A%E7%94%A8%E8%A8%98%E6%86%B6%E9%AB%94+%23%E8%A8%98%E6%86%B6%E9%AB%94%E7%BC%BA%E8%B2%A8+%23DRAM+https%3A%2F%2Ft.co%2FI9lc1wTsHZ)
+##### Other Words/Names of Interest in the Above Tweet
+[記憶體](記憶體.md)
+___
+##### 2026-07-10 03:18:49 UTC ~ 先手 · Ahead
+> RT @yangyue992125: DRAM这门生意有条铁律，跑了三十年从来没破过。拼到最后能活下来的，不是技术最牛的那家。活下来的永远是账上现金最厚，最敢一年到头亏着钱把对手拖死的那几家。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40yangyue992125%3A+DRAM%E8%BF%99%E9%97%A8%E7%94%9F%E6%84%8F%E6%9C%89%E6%9D%A1%E9%93%81%E5%BE%8B%EF%BC%8C%E8%B7%91%E4%BA%86%E4%B8%89%E5%8D%81%E5%B9%B4%E4%BB%8E%E6%9D%A5%E6%B2%A1%E7%A0%B4%E8%BF%87%E3%80%82%E6%8B%BC%E5%88%B0%E6%9C%80%E5%90%8E%E8%83%BD%E6%B4%BB%E4%B8%8B%E6%9D%A5%E7%9A%84%EF%BC%8C%E4%B8%8D%E6%98%AF%E6%8A%80%E6%9C%AF%E6%9C%80%E7%89%9B%E7%9A%84%E9%82%A3%E5%AE%B6%E3%80%82%E6%B4%BB%E4%B8%8B%E6%9D%A5%E7%9A%84%E6%B0%B8%E8%BF%9C%E6%98%AF%E8%B4%A6%E4%B8%8A%E7%8E%B0%E9%87%91%E6%9C%80%E5%8E%9A%EF%BC%8C%E6%9C%80%E6%95%A2%E4%B8%80%E5%B9%B4%E5%88%B0%E5%A4%B4%E4%BA%8F%E7%9D%80%E9%92%B1%E6%8A%8A%E5%AF%B9%E6%89%8B%E6%8B%96%E6%AD%BB%E7%9A%84%E9%82%A3%E5%87%A0%E5%AE%B6%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[技术](技术.md), [金](金.md), [铁](铁.md)
+___
+##### 2026-07-08 23:05:50 UTC ~ TechNews 科技新報
+> RT @technews_tw: 記憶體大爆發！研調機構 IDC 預估，光是 #DRAM 單一市場在 2028 年就可能突破 1 兆美元，提前顛覆半導體產業。 https://t.co/U8vV7q1yKa
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%A8%98%E6%86%B6%E9%AB%94%E5%A4%A7%E7%88%86%E7%99%BC%EF%BC%81%E7%A0%94%E8%AA%BF%E6%A9%9F%E6%A7%8B+IDC+%E9%A0%90%E4%BC%B0%EF%BC%8C%E5%85%89%E6%98%AF+%23DRAM+%E5%96%AE%E4%B8%80%E5%B8%82%E5%A0%B4%E5%9C%A8+2028+%E5%B9%B4%E5%B0%B1%E5%8F%AF%E8%83%BD%E7%AA%81%E7%A0%B4+1+%E5%85%86%E7%BE%8E%E5%85%83%EF%BC%8C%E6%8F%90%E5%89%8D%E9%A1%9B%E8%A6%86%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%A2%E6%A5%AD%E3%80%82+https%3A%2F%2Ft.co%2FU8vV7q1yKa)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [機構](機構.md), [突破](突破.md), [記憶體](記憶體.md)
+___
+##### 2026-07-08 17:48:34 UTC ~ TechNews 科技新報
+> RT @technews_tw: #南亞科 6 月營收年增狂飆逾 620%，第二季更將由虧轉盈。由於各大廠產能轉向 HBM，導致傳統 DRAM 供給極度吃緊，日系外資看好漲勢將一路延續至 2027 年，不僅重申買進，更將目標價由 292 元大幅調升至 650 元。 https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E5%8D%97%E4%BA%9E%E7%A7%91+6+%E6%9C%88%E7%87%9F%E6%94%B6%E5%B9%B4%E5%A2%9E%E7%8B%82%E9%A3%86%E9%80%BE+620%25%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9B%B4%E5%B0%87%E7%94%B1%E8%99%A7%E8%BD%89%E7%9B%88%E3%80%82%E7%94%B1%E6%96%BC%E5%90%84%E5%A4%A7%E5%BB%A0%E7%94%A2%E8%83%BD%E8%BD%89%E5%90%91+HBM%EF%BC%8C%E5%B0%8E%E8%87%B4%E5%82%B3%E7%B5%B1+DRAM+%E4%BE%9B%E7%B5%A6%E6%A5%B5%E5%BA%A6%E5%90%83%E7%B7%8A%EF%BC%8C%E6%97%A5%E7%B3%BB%E5%A4%96%E8%B3%87%E7%9C%8B%E5%A5%BD%E6%BC%B2%E5%8B%A2%E5%B0%87%E4%B8%80%E8%B7%AF%E5%BB%B6%E7%BA%8C%E8%87%B3+2027+%E5%B9%B4%EF%BC%8C%E4%B8%8D%E5%83%85%E9%87%8D%E7%94%B3%E8%B2%B7%E9%80%B2%EF%BC%8C%E6%9B%B4%E5%B0%87%E7%9B%AE%E6%A8%99%E5%83%B9%E7%94%B1+292+%E5%85%83%E5%A4%A7%E5%B9%85%E8%AA%BF%E5%8D%87%E8%87%B3+650+%E5%85%83%E3%80%82+https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [傳統](傳統.md), [大幅](大幅.md), [營收](營收.md), [逾](逾.md)
+___
+##### 2026-07-08 06:12:04 UTC ~ TechNews 科技新報
+> RT @technews_tw: #蘋果 供應鏈傳出大動作！外媒透露蘋果已開始測試 #長鑫存儲 的 #DRAM 晶片，計畫用於中國市場，甚至帶頭遊說美國政府放寬限制。 https://t.co/NXl8oLBc1L
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%98%8B%E6%9E%9C+%E4%BE%9B%E6%87%89%E9%8F%88%E5%82%B3%E5%87%BA%E5%A4%A7%E5%8B%95%E4%BD%9C%EF%BC%81%E5%A4%96%E5%AA%92%E9%80%8F%E9%9C%B2%E8%98%8B%E6%9E%9C%E5%B7%B2%E9%96%8B%E5%A7%8B%E6%B8%AC%E8%A9%A6+%23%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2+%E7%9A%84+%23DRAM+%E6%99%B6%E7%89%87%EF%BC%8C%E8%A8%88%E7%95%AB%E7%94%A8%E6%96%BC%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4%EF%BC%8C%E7%94%9A%E8%87%B3%E5%B8%B6%E9%A0%AD%E9%81%8A%E8%AA%AA%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E6%94%BE%E5%AF%AC%E9%99%90%E5%88%B6%E3%80%82+https%3A%2F%2Ft.co%2FNXl8oLBc1L)
+##### Other Words/Names of Interest in the Above Tweet
+[供應鏈](供應鏈.md), [晶片](晶片.md), [美國](美國.md), [蘋果](蘋果.md), [透露](透露.md), [長鑫](長鑫.md), [限制](限制.md)
+___
+##### 2026-07-08 03:32:17 UTC ~ 拖拉机
+> RT @tuolaji2024: 苹果已开始测试该公司的DRAM芯片，用于在中国销售的设备。这家iPhone制造商正牵头美国科技公司游说美国政府，希望允许更广泛地使用长鑫存储的产品。这说明存储真的缺到不行了，而不是单纯的与上游博弈了。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tuolaji2024%3A+%E8%8B%B9%E6%9E%9C%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%B5%8B%E8%AF%95%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84DRAM%E8%8A%AF%E7%89%87%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E7%9A%84%E8%AE%BE%E5%A4%87%E3%80%82%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E6%AD%A3%E7%89%B5%E5%A4%B4%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E6%B8%B8%E8%AF%B4%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%85%81%E8%AE%B8%E6%9B%B4%E5%B9%BF%E6%B3%9B%E5%9C%B0%E4%BD%BF%E7%94%A8%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E7%9A%84%E4%BA%A7%E5%93%81%E3%80%82%E8%BF%99%E8%AF%B4%E6%98%8E%E5%AD%98%E5%82%A8%E7%9C%9F%E7%9A%84%E7%BC%BA%E5%88%B0%E4%B8%8D%E8%A1%8C%E4%BA%86%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%8D%95%E7%BA%AF%E7%9A%84%E4%B8%8E%E4%B8%8A%E6%B8%B8%E5%8D%9A%E5%BC%88%E4%BA%86%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [允许](允许.md), [存储](存储.md), [广泛](广泛.md), [牵头](牵头.md), [用于](用于.md), [科技](科技.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [销售](销售.md), [长鑫](长鑫.md)
+___
+##### 2026-07-07 00:33:41 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 三星电子拟将今年第三季度动态随机存取存储器（DRAM）的平均售价，环比上一季度提高20%，并已口头通知部分客户。 https://t.co/oxgnz2HcdV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E6%8B%9F%E5%B0%86%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%8A%A8%E6%80%81%E9%9A%8F%E6%9C%BA%E5%AD%98%E5%8F%96%E5%AD%98%E5%82%A8%E5%99%A8%EF%BC%88DRAM%EF%BC%89%E7%9A%84%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%EF%BC%8C%E7%8E%AF%E6%AF%94%E4%B8%8A%E4%B8%80%E5%AD%A3%E5%BA%A6%E6%8F%90%E9%AB%9820%25%EF%BC%8C%E5%B9%B6%E5%B7%B2%E5%8F%A3%E5%A4%B4%E9%80%9A%E7%9F%A5%E9%83%A8%E5%88%86%E5%AE%A2%E6%88%B7%E3%80%82+https%3A%2F%2Ft.co%2Foxgnz2HcdV)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [售价](售价.md), [存储](存储.md), [存储器](存储器.md), [季度](季度.md), [客户](客户.md), [提高](提高.md)
+___
+##### 2026-07-06 20:26:10 UTC ~ TechNews 科技新報
+> RT @technews_tw: CXMT 挑戰中國國產與全球關鍵大廠！ #中國記憶體設備供應鏈 中國 DRAM 龍頭長鑫存儲（CXMT）正加速衝刺科創板 IPO，擬募資 295 億人民幣，其中近七成投入晶圓產線與 DRAM 技術升級。受惠記憶體超級週期，長鑫 2026 年首季…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+CXMT+%E6%8C%91%E6%88%B0%E4%B8%AD%E5%9C%8B%E5%9C%8B%E7%94%A2%E8%88%87%E5%85%A8%E7%90%83%E9%97%9C%E9%8D%B5%E5%A4%A7%E5%BB%A0%EF%BC%81+%23%E4%B8%AD%E5%9C%8B%E8%A8%98%E6%86%B6%E9%AB%94%E8%A8%AD%E5%82%99%E4%BE%9B%E6%87%89%E9%8F%88+%E4%B8%AD%E5%9C%8B+DRAM+%E9%BE%8D%E9%A0%AD%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89%E6%AD%A3%E5%8A%A0%E9%80%9F%E8%A1%9D%E5%88%BA%E7%A7%91%E5%89%B5%E6%9D%BF+IPO%EF%BC%8C%E6%93%AC%E5%8B%9F%E8%B3%87+295+%E5%84%84%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%8C%E5%85%B6%E4%B8%AD%E8%BF%91%E4%B8%83%E6%88%90%E6%8A%95%E5%85%A5%E6%99%B6%E5%9C%93%E7%94%A2%E7%B7%9A%E8%88%87+DRAM+%E6%8A%80%E8%A1%93%E5%8D%87%E7%B4%9A%E3%80%82%E5%8F%97%E6%83%A0%E8%A8%98%E6%86%B6%E9%AB%94%E8%B6%85%E7%B4%9A%E9%80%B1%E6%9C%9F%EF%BC%8C%E9%95%B7%E9%91%AB+2026+%E5%B9%B4%E9%A6%96%E5%AD%A3%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[CXMT](CXMT.md), [供應鏈](供應鏈.md), [晶圓](晶圓.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
+___
+##### 2026-07-05 20:24:08 UTC ~ 勃勃OC
+> RT @bboczeng: 韩国媒体报道称，中国的长鑫存储（CXMT）目前正在合肥测试一条键合 DRAM试验产线，目标是在不使用 EUV 光刻的情况下实现高性能 DRAM。所谓键合 DRAM，是一种将存储单元阵列和外围电路分别在不同晶圆上制造，然后再将两片晶圆键合在一起的技…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40bboczeng%3A+%E9%9F%A9%E5%9B%BD%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%EF%BC%88CXMT%EF%BC%89%E7%9B%AE%E5%89%8D%E6%AD%A3%E5%9C%A8%E5%90%88%E8%82%A5%E6%B5%8B%E8%AF%95%E4%B8%80%E6%9D%A1%E9%94%AE%E5%90%88+DRAM%E8%AF%95%E9%AA%8C%E4%BA%A7%E7%BA%BF%EF%BC%8C%E7%9B%AE%E6%A0%87%E6%98%AF%E5%9C%A8%E4%B8%8D%E4%BD%BF%E7%94%A8+EUV+%E5%85%89%E5%88%BB%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%E5%AE%9E%E7%8E%B0%E9%AB%98%E6%80%A7%E8%83%BD+DRAM%E3%80%82%E6%89%80%E8%B0%93%E9%94%AE%E5%90%88+DRAM%EF%BC%8C%E6%98%AF%E4%B8%80%E7%A7%8D%E5%B0%86%E5%AD%98%E5%82%A8%E5%8D%95%E5%85%83%E9%98%B5%E5%88%97%E5%92%8C%E5%A4%96%E5%9B%B4%E7%94%B5%E8%B7%AF%E5%88%86%E5%88%AB%E5%9C%A8%E4%B8%8D%E5%90%8C%E6%99%B6%E5%9C%86%E4%B8%8A%E5%88%B6%E9%80%A0%EF%BC%8C%E7%84%B6%E5%90%8E%E5%86%8D%E5%B0%86%E4%B8%A4%E7%89%87%E6%99%B6%E5%9C%86%E9%94%AE%E5%90%88%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E6%8A%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[CXMT](CXMT.md), [光刻](光刻.md), [存储](存储.md), [实现](实现.md), [情况](情况.md), [晶圆](晶圆.md), [长鑫](长鑫.md), [韩国](韩国.md)
+___
 ##### 2026-06-30 06:18:38 UTC ~ Teo
 > RT @Teo_Sinamin: 中国DRAM卖完了 https://t.co/feOD8xMT0c
 
@@ -17,7 +150,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AEMarketWatch%E6%8A%A5%E9%81%93%EF%BC%8C%E5%B0%BD%E7%AE%A1%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8E%A5%E8%A7%A6%EF%BC%8C%E5%AF%BB%E6%B1%82%E8%8E%B7%E5%87%86%E4%BD%BF%E7%94%A8%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E3%80%82%E4%BD%86%E7%A1%85%E8%B0%B7%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%EF%BC%8C%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E3%80%81SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%92%8C%E4%B8%89%E6%98%9F%E5%88%B6%E9%80%A0%E7%9A%84DRAM%E7%B1%BB%E5%9E%8B%E6%9E%81%E9%9A%BE%E7%94%9F%E4%BA%A7%EF%BC%8C%E8%BF%99%E4%B8%8E%E6%B6%88%E8%B4%B9%E7%BA%A7DRAM%E4%B8%8D%E5%90%8C%E3%80%82https%3A%2F%2Ft.co%2FDa6r6Aw6G2)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [存储](存储.md), [投资](投资.md), [投资者](投资者.md), [接触](接触.md), [生产](生产.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [长鑫](长鑫.md)
+[三星](三星.md), [存储](存储.md), [投资](投资.md), [投资者](投资者.md), [接触](接触.md), [海力士](海力士.md), [生产](生产.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [苹果](苹果.md), [长鑫](长鑫.md)
 ___
 ##### 2026-06-30 03:26:55 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【舊一代DRAM價格暴漲，AI産能遷徙致供應趨緊】目前生産上一代DDR3的只有南亞科技和華邦電子等。南亞科技和華邦電子開始專注於DDR4，成為DDR3價格飆升的契機……https://t.co/vWsJ8v8Hyx
@@ -54,7 +187,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [HBM](HBM.md), [記憶體](記憶體.md), [頻寬](頻寬.md), [高頻寬記憶體](高頻寬記憶體.md)
 ___
-##### 2026-06-27 07:19:22 UTC ~ Macro_Lin ｜ 市场观察员
+##### 2026-06-27 07:19:22 UTC ~ Macro_Lin｜市场观察
 > RT @LinQingV: 苹果愿意为长鑫跑华盛顿，游说白宫要从长鑫买DRAM。这说明长鑫的DRAM 产品力已经过硬，将来会得到更多国际大客户的认证。
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LinQingV%3A+%E8%8B%B9%E6%9E%9C%E6%84%BF%E6%84%8F%E4%B8%BA%E9%95%BF%E9%91%AB%E8%B7%91%E5%8D%8E%E7%9B%9B%E9%A1%BF%EF%BC%8C%E6%B8%B8%E8%AF%B4%E7%99%BD%E5%AE%AB%E8%A6%81%E4%BB%8E%E9%95%BF%E9%91%AB%E4%B9%B0DRAM%E3%80%82%E8%BF%99%E8%AF%B4%E6%98%8E%E9%95%BF%E9%91%AB%E7%9A%84DRAM+%E4%BA%A7%E5%93%81%E5%8A%9B%E5%B7%B2%E7%BB%8F%E8%BF%87%E7%A1%AC%EF%BC%8C%E5%B0%86%E6%9D%A5%E4%BC%9A%E5%BE%97%E5%88%B0%E6%9B%B4%E5%A4%9A%E5%9B%BD%E9%99%85%E5%A4%A7%E5%AE%A2%E6%88%B7%E7%9A%84%E8%AE%A4%E8%AF%81%E3%80%82)
@@ -129,7 +262,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC5%E6%9C%88%E4%B8%8A%E6%BC%B210%25%E3%80%91%E4%B8%AD%E5%9C%8B%E5%AF%A6%E6%96%BD%E4%BA%86%E5%84%AA%E5%BE%85DRAM%E6%9C%AC%E5%9C%8B%E7%94%9F%E7%94%A3%E7%9A%84%E8%A3%9C%E8%B2%BC%E6%94%BF%E7%AD%96%EF%BC%8C%E5%9C%A8%E4%B8%AD%E5%9C%8B%E8%B3%BC%E8%B2%B7%E6%9C%AC%E5%9C%8B%E7%94%A3%E5%93%81%E7%9A%84%E8%B6%A8%E5%8B%A2%E6%AD%A3%E5%9C%A8%E5%8A%A0%E5%BC%B7%E3%80%82%E5%8F%97%E6%AD%A4%E5%BD%B1%E9%9F%BF%EF%BC%8C%E5%BE%88%E5%A4%9A%E8%A7%80%E9%BB%9E%E8%AA%8D%E7%82%BA%EF%BC%8C%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E3%80%81SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%92%8C%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E4%BB%8A%E5%B9%B4%E5%B0%87%E5%81%9C%E6%AD%A2%E6%88%96%E7%B8%AE%E6%B8%9B%E5%8C%85%E6%8B%AC%E6%8C%87%E6%A8%99%E7%94%A3%E5%93%81%E5%9C%A8%E5%85%A7%E7%9A%84DDR4%E7%94%9F%E7%94%A3%E2%80%A6%E2%80%A6https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [交易](交易.md), [包括](包括.md), [影響](影響.md), [政策](政策.md), [科技](科技.md), [美光](美光.md), [購買](購買.md)
+[三星](三星.md), [交易](交易.md), [包括](包括.md), [影響](影響.md), [政策](政策.md), [海力士](海力士.md), [科技](科技.md), [美光](美光.md), [購買](購買.md)
 ___
 ##### 2025-05-06 04:53:56 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【中國存儲晶片廠攪動全球價格戰】中國正在實施鼓勵購買本國半導體記憶體的補貼政策。調查公司TechInsights等的數據顯示，中國産DRAM和NAND比其他國家的産品便宜23%，如果考慮到補貼，最多能便宜50%左右……https://t…
@@ -185,7 +318,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%9F%93%E4%BC%81%E5%9C%A8DRAM%E5%B1%95%E9%96%8B%E5%A0%86%E7%96%8A%E7%AB%B6%E7%88%AD%EF%BC%8C%E6%88%90%E6%97%A5%E4%BC%81%E5%95%86%E6%A9%9F%E3%80%91%E9%AB%98%E9%A0%BB%E5%AF%AC%E5%85%A7%E5%AD%98%EF%BC%88HBM%EF%BC%89%E6%98%AF%E6%8A%8A%E5%A4%9A%E5%80%8BDRAM%E6%99%B6%E7%89%87%E5%A0%86%E7%96%8A%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%85%88%E9%80%B2%E8%A8%98%E6%86%B6%E9%AB%94%E3%80%82%E9%9A%A8%E8%91%97AI%E7%9A%84%E6%99%AE%E5%8F%8A%EF%BC%8C%E9%9C%80%E6%B1%82%E6%80%A5%E5%8A%87%E6%93%B4%E5%A4%A7%E3%80%82%E5%85%A8%E7%90%83%E9%A0%98%E5%85%88%E7%9A%84%E6%98%AFSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%EF%BC%8C%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%E6%AD%A3%E5%9C%A8%E8%BF%BD%E8%B6%95%E3%80%82%E5%B0%8D%E6%96%BC%E6%94%AF%E6%92%90%E7%B2%BE%E7%B4%B0%E5%A0%86%E7%96%8A%E6%8A%80%E8%A1%93%E7%9A%84%E6%97%A5%E7%B3%BB%E8%A8%AD%E5%82%99%E5%92%8C%E6%9D%90%E6%96%99%E4%BC%81%E6%A5%AD%E4%BE%86%E8%AA%AC%EF%BC%8C%E9%80%99%E4%B9%9F%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%95%86%E6%A9%9F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[HBM](HBM.md), [SK海力士](SK海力士.md), [三星](三星.md), [普及](普及.md), [晶片](晶片.md), [記憶體](記憶體.md), [需求](需求.md), [頻寬](頻寬.md)
+[HBM](HBM.md), [三星](三星.md), [普及](普及.md), [晶片](晶片.md), [海力士](海力士.md), [記憶體](記憶體.md), [需求](需求.md), [頻寬](頻寬.md)
 ___
 ##### 2024-03-13 06:12:33 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大單價格連續4個月上漲】DRAM的大宗交易價格2月環比上漲5％。2024年美國微軟的Windows 10操作系統將停止提供支持服務，預計會出現個人電腦更新需求。為了實現穩定採購，記憶體的買方接受了廠商的漲價要求……https:…
@@ -206,7 +339,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%89%E6%98%9F%E5%B0%87%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A8%AD%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%A0%94%E7%99%BC%E5%9F%BA%E5%9C%B0%EF%BC%8C%E6%93%94%E6%86%82%E6%8A%80%E8%A1%93%E8%90%BD%E5%BE%8C%E3%80%91%E4%B8%89%E6%98%9F%E5%AE%A3%E5%B8%83%E5%9C%A8%E6%A9%AB%E6%BF%B1%E5%B8%82%E8%A8%AD%E7%AB%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%8A%80%E8%A1%93%E7%9A%84%E7%A0%94%E7%99%BC%E5%9F%BA%E5%9C%B0%EF%BC%8C%E5%B0%87%E8%88%87%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BC%81%E6%A5%AD%E3%80%81%E5%A4%A7%E5%AD%B8%E5%92%8C%E7%A0%94%E7%A9%B6%E6%A9%9F%E6%A7%8B%E5%85%B1%E5%90%8C%E9%96%8B%E7%99%BC%E5%B0%96%E7%AB%AF%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%9A%84%E5%88%B6%E9%80%A0%E6%8A%80%E8%A1%93%E3%80%82%E5%9C%A8%E6%9B%BE%E7%B6%93%E6%9C%80%E8%B3%BA%E9%8C%A2%E7%9A%84DRAM%E9%A0%98%E5%9F%9F%E4%B8%8A%EF%BC%8C%E4%B8%89%E6%98%9F%E5%8F%97%E5%88%B0SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%9A%84%E7%8C%9B%E7%83%88%E8%BF%BD%E8%B6%95%E3%80%82%E5%9C%A8%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%BB%A3%E5%B7%A5%E6%A5%AD%E5%8B%99%E4%B8%8A%EF%BC%8C%E4%B8%89%E6%98%9F%E8%88%87%E5%8F%B0%E7%A9%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [半導體](半導體.md), [尖端](尖端.md), [擔憂](擔憂.md), [日本](日本.md), [機構](機構.md), [猛烈](猛烈.md), [開發](開發.md), [領域](領域.md)
+[三星](三星.md), [半導體](半導體.md), [尖端](尖端.md), [擔憂](擔憂.md), [日本](日本.md), [機構](機構.md), [海力士](海力士.md), [猛烈](猛烈.md), [開發](開發.md), [領域](領域.md)
 ___
 ##### 2023-11-27 01:55:40 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM出現AI特需，NAND恢復緩慢】2023年7～9月，用於存儲個人電腦和智慧手機數據的DRAM的需求量3年來首次超過供應量。生成式AI使用的DRAM的一種——高頻寬記憶體（HBM）的需求猛增。數據傳輸速度較慢的NAND型記憶卡則需…
@@ -388,4 +521,4 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%97%E5%8D%8A%E5%AF%BC%E4%BD%93%E7%9F%AD%E7%BC%BA%E6%B3%A2%E5%8F%8A%EF%BC%8CDRAM%E4%BB%B7%E6%A0%BC%E5%88%9B2%E5%B9%B4%E6%9D%A5%E9%AB%98%E4%BB%B7%E3%80%91%E5%AD%98%E5%82%A8%E5%99%A8DRAM%E7%94%B1%E4%B8%89%E6%98%9F%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%AD%89%E8%87%AA%E4%B8%BB%E5%88%B6%E9%80%A0%EF%BC%8C%E5%8F%97%E5%88%B0%E7%9A%84%E5%BD%B1%E5%93%8D%E8%BD%BB%E5%BE%AE%E3%80%82%E4%BD%86%E7%94%9F%E4%BA%A7%E4%B8%8A%E4%B8%80%E4%BB%A3%E4%BA%A7%E5%93%81%E7%9A%84%E5%8F%B0%E6%B9%BE%E9%83%A8%E5%88%86%E4%BC%81%E4%B8%9A%E6%94%BE%E5%BC%83%E9%80%9A%E7%94%A8%E4%BA%A7%E5%93%81%EF%BC%8C%E8%BD%AC%E4%B8%BA%E5%88%B6%E9%80%A0%E5%8F%B0%E7%A7%AF%E7%94%B5%E6%97%A0%E6%B3%95%E5%BA%94%E4%BB%98%E7%9A%84%E5%AE%9A%E5%88%B6%E4%BA%A7%E5%93%81%E7%AD%89%E5%88%A9%E6%B6%A6%E7%8E%87%E6%9B%B4%E9%AB%98%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E7%8E%B0%E8%B4%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E4%BE%9B%E6%B1%82%E5%87%BA%E7%8E%B0%E7%B4%A7%E5%BC%A0%E2%80%A6%E2%80%A6+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[SK海力士](SK海力士.md), [三星](三星.md), [价格](价格.md), [利润](利润.md), [利润率](利润率.md), [半导体](半导体.md), [台湾](台湾.md), [台积电](台积电.md), [存储](存储.md), [存储器](存储器.md), [影响](影响.md), [现货](现货.md), [生产](生产.md), [短缺](短缺.md)
+[三星](三星.md), [价格](价格.md), [利润](利润.md), [利润率](利润率.md), [半导体](半导体.md), [台湾](台湾.md), [台积电](台积电.md), [存储](存储.md), [存储器](存储器.md), [影响](影响.md), [海力士](海力士.md), [现货](现货.md), [生产](生产.md), [短缺](短缺.md)

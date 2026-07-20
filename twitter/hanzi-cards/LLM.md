@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/LLM) for definition
 ### Tweets containing LLM
 
 ___
+##### 2026-07-07 01:47:39 UTC ~ 初码
+> RT @chumacn: 炒股的可以深度关注下AMD了，在vLLM等技术组织的不懈努力下，目前355X的推理性能已经超过B300，虽然训练严重依赖CUDA，但推理的市场在2026年下半年会失速增长，AMD即将大卖特卖，大发特发！
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E7%82%92%E8%82%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%8BAMD%E4%BA%86%EF%BC%8C%E5%9C%A8vLLM%E7%AD%89%E6%8A%80%E6%9C%AF%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%8D%E6%87%88%E5%8A%AA%E5%8A%9B%E4%B8%8B%EF%BC%8C%E7%9B%AE%E5%89%8D355X%E7%9A%84%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87B300%EF%BC%8C%E8%99%BD%E7%84%B6%E8%AE%AD%E7%BB%83%E4%B8%A5%E9%87%8D%E4%BE%9D%E8%B5%96CUDA%EF%BC%8C%E4%BD%86%E6%8E%A8%E7%90%86%E7%9A%84%E5%B8%82%E5%9C%BA%E5%9C%A82026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BC%9A%E5%A4%B1%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8CAMD%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%8D%96%E7%89%B9%E5%8D%96%EF%BC%8C%E5%A4%A7%E5%8F%91%E7%89%B9%E5%8F%91%EF%BC%81)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [mac](mac.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [超过](超过.md)
+___
+##### 2026-07-05 10:08:31 UTC ~ Xudong Han
+> RT @Xudong07452910: 可解释 AI 研究了这么多年，很多工作都在尝试从神经网络的权重、激活和中间表示里，反推出模型到底「在想什么」。但这篇论文，提出了一个很有意思的视角：如果一群 LLM Agent 的决策、协作、冲突和反思，本身就是用自然语言发生的，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Xudong07452910%3A+%E5%8F%AF%E8%A7%A3%E9%87%8A+AI+%E7%A0%94%E7%A9%B6%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4%EF%BC%8C%E5%BE%88%E5%A4%9A%E5%B7%A5%E4%BD%9C%E9%83%BD%E5%9C%A8%E5%B0%9D%E8%AF%95%E4%BB%8E%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E6%9D%83%E9%87%8D%E3%80%81%E6%BF%80%E6%B4%BB%E5%92%8C%E4%B8%AD%E9%97%B4%E8%A1%A8%E7%A4%BA%E9%87%8C%EF%BC%8C%E5%8F%8D%E6%8E%A8%E5%87%BA%E6%A8%A1%E5%9E%8B%E5%88%B0%E5%BA%95%E3%80%8C%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%E3%80%8D%E3%80%82%E4%BD%86%E8%BF%99%E7%AF%87%E8%AE%BA%E6%96%87%EF%BC%8C%E6%8F%90%E5%87%BA%E4%BA%86%E4%B8%80%E4%B8%AA%E5%BE%88%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E8%A7%86%E8%A7%92%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%B8%80%E7%BE%A4+LLM+Agent+%E7%9A%84%E5%86%B3%E7%AD%96%E3%80%81%E5%8D%8F%E4%BD%9C%E3%80%81%E5%86%B2%E7%AA%81%E5%92%8C%E5%8F%8D%E6%80%9D%EF%BC%8C%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E7%94%A8%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%8F%91%E7%94%9F%E7%9A%84%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[冲突](冲突.md), [推出](推出.md), [提出](提出.md), [模型](模型.md), [神经](神经.md)
+___
 ##### 2026-03-11 07:39:56 UTC ~ New China 中文
 > RT @XinhuaChinese: 未来可期！湖南邵阳15岁少年硬核手搓电动车出圈。网友：有梦想一定能实现！ https://t.co/q5LLMYh54i
 
@@ -209,13 +223,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E4%BB%BD%E7%B2%BE%E5%BF%83%E6%95%B4%E7%90%86%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%90%88%E9%9B%86%EF%BC%9Aawesome-LLM-resourses%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E3%80%81%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E3%80%81%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E3%80%81o1+%E6%A8%A1%E5%9E%8B%E3%80%81MCP%E3%80%81%E7%9F%A5%E8%AF%86%E5%BA%93+RAG%E3%80%81%E6%99%BA%E8%83%BD%E4%BD%93+Agents%E3%80%81%E4%B9%A6%E7%B1%8D%E3%80%81%E6%95%99%E7%A8%8B%E3%80%81%E8%AE%BA%E6%96%87%E7%AD%89%E8%B5%84%E6%BA%90%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [MCP](MCP.md), [RAG](RAG.md), [处理](处理.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [语言模型](语言模型.md), [资源](资源.md)
-___
-##### 2025-03-20 06:56:37 UTC ~ nowa
-> RT @nowazhu: 我们刚刚通过 LongPort 的 OpenAPI 服务 Release 了 Longbridge 的 MCP Server，现在可以方便地使用 Cursor 等 IDE 或者直接使用 LLM 调用 Longbridge 的股票行情、订单、持仓等 AP…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nowazhu%3A+%E6%88%91%E4%BB%AC%E5%88%9A%E5%88%9A%E9%80%9A%E8%BF%87+LongPort+%E7%9A%84+OpenAPI+%E6%9C%8D%E5%8A%A1+Release+%E4%BA%86+Longbridge+%E7%9A%84+MCP+Server%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E6%96%B9%E4%BE%BF%E5%9C%B0%E4%BD%BF%E7%94%A8+Cursor+%E7%AD%89+IDE+%E6%88%96%E8%80%85%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8+LLM+%E8%B0%83%E7%94%A8+Longbridge+%E7%9A%84%E8%82%A1%E7%A5%A8%E8%A1%8C%E6%83%85%E3%80%81%E8%AE%A2%E5%8D%95%E3%80%81%E6%8C%81%E4%BB%93%E7%AD%89+AP%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[MCP](MCP.md), [直接](直接.md), [行情](行情.md), [订单](订单.md)
 ___
 ##### 2025-03-17 14:52:39 UTC ~ meng shao
 > RT @shao__meng: Local Deep Research - AI 驱动研究助手项目，能够使用多个 LLMs 和网络搜索执行深度、迭代式分析,可以在本地运行以保护隐私，或者配置为使用云端 LLMs 以增强功能。核心功能1. 高级研究能力- 自动深度研究并生…

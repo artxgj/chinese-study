@@ -99,18 +99,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [凤梨](../hanzi-cards/凤梨.md) | pineapple |
 | [石榴](../hanzi-cards/石榴.md) | pomegranate |
 | [龙果](../hanzi-cards/龙果.md) | dragon fruit |
-## miscellaneous
-|  |  |
-| ----- | :---: |
-| [点菜](../hanzi-cards/点菜.md) | order dishes |
-| [叫菜](../hanzi-cards/叫菜.md) | order food |
-| [菜单](../hanzi-cards/菜单.md) | menu |
-| [菜谱](../hanzi-cards/菜谱.md) | menu; cookbook; recipe |
-| [鲁菜](../hanzi-cards/鲁菜.md) | Shandong cuisine |
-| [菜刀](../hanzi-cards/菜刀.md) | kitchen knife; cleaver |
-| [筷子](../hanzi-cards/筷子.md) | chopsticks |
-| [汤匙](../hanzi-cards/汤匙.md) | soup spoon; table spoon |
-| [叉](../hanzi-cards/叉.md) | fork |
 ## Snacks
 |  |  |
 | ----- | :---: |
@@ -130,3 +118,15 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [胡椒](../hanzi-cards/胡椒.md) | pepper |
 | [胡椒粒](../hanzi-cards/胡椒粒.md) | peppercorn |
 | [辣椒](../hanzi-cards/辣椒.md) | hot pepper; chili |
+## miscellaneous
+|  |  |
+| ----- | :---: |
+| [点菜](../hanzi-cards/点菜.md) | order dishes |
+| [叫菜](../hanzi-cards/叫菜.md) | order food |
+| [菜单](../hanzi-cards/菜单.md) | menu |
+| [菜谱](../hanzi-cards/菜谱.md) | menu; cookbook; recipe |
+| [鲁菜](../hanzi-cards/鲁菜.md) | Shandong cuisine |
+| [菜刀](../hanzi-cards/菜刀.md) | kitchen knife; cleaver |
+| [筷子](../hanzi-cards/筷子.md) | chopsticks |
+| [汤匙](../hanzi-cards/汤匙.md) | soup spoon; table spoon |
+| [叉](../hanzi-cards/叉.md) | fork |

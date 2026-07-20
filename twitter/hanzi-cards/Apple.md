@@ -7,6 +7,69 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Apple) for definition
 ### Tweets containing Apple
 
 ___
+##### 2026-07-18 06:54:48 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苹果股价近期表现强劲，自6月低点以来累计上涨21%，今年以来上涨23%，成为美股科技7巨头中表现最佳的股票。#南洋商报 #苹果 #英伟达 #Apple #Nvidiahttps://t.co/qDFYBhkP3R https://t.co…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E8%BF%91%E6%9C%9F%E8%A1%A8%E7%8E%B0%E5%BC%BA%E5%8A%B2%EF%BC%8C%E8%87%AA6%E6%9C%88%E4%BD%8E%E7%82%B9%E4%BB%A5%E6%9D%A5%E7%B4%AF%E8%AE%A1%E4%B8%8A%E6%B6%A821%25%EF%BC%8C%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E4%B8%8A%E6%B6%A823%25%EF%BC%8C%E6%88%90%E4%B8%BA%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%807%E5%B7%A8%E5%A4%B4%E4%B8%AD%E8%A1%A8%E7%8E%B0%E6%9C%80%E4%BD%B3%E7%9A%84%E8%82%A1%E7%A5%A8%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23%E8%8B%B1%E4%BC%9F%E8%BE%BE+%23Apple+%23Nvidiahttps%3A%2F%2Ft.co%2FqDFYBhkP3R+https%3A%2F%2Ft.co%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上涨](上涨.md), [巨头](巨头.md), [强劲](强劲.md), [最佳](最佳.md), [科技](科技.md), [累计](累计.md), [英伟达](英伟达.md), [苹果](苹果.md)
+___
+##### 2026-07-16 15:38:32 UTC ~ 亚洲股市 AsiaStock
+> RT @AsiaStock: 周四，随着通义千问与Apple Intelligence达成合作伙伴关系的消息公布，阿里巴巴（9988HK）股价大幅飙升。中国网络空间监管机构已正式批准Apple… https://t.co/YBA7dUQt3I
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaStock%3A+%E5%91%A8%E5%9B%9B%EF%BC%8C%E9%9A%8F%E7%9D%80%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E4%B8%8EApple+Intelligence%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E6%B6%88%E6%81%AF%E5%85%AC%E5%B8%83%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%EF%BC%889988HK%EF%BC%89%E8%82%A1%E4%BB%B7%E5%A4%A7%E5%B9%85%E9%A3%99%E5%8D%87%E3%80%82%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%B7%B2%E6%AD%A3%E5%BC%8F%E6%89%B9%E5%87%86Apple%E2%80%A6+https%3A%2F%2Ft.co%2FYBA7dUQt3I)
+##### Other Words/Names of Interest in the Above Tweet
+[千问](千问.md), [大幅](大幅.md), [批准](批准.md), [机构](机构.md), [正式](正式.md), [监管](监管.md), [达成](达成.md), [阿里巴巴](阿里巴巴.md), [随着](随着.md), [飙升](飙升.md)
+___
+##### 2026-07-16 15:14:55 UTC ~ 亚洲股市 AsiaStock
+> RT @AsiaStock: 百度（9888HK）在宣布与Apple Intelligence达成合作以助力其在中国大陆落地后，股价迎来大涨。百度将负责支持特定的AI功能，其中最引人瞩目的是“视觉智能”（Visual Intelligence）和本地AI驱动的搜索。这在本质上与…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaStock%3A+%E7%99%BE%E5%BA%A6%EF%BC%889888HK%EF%BC%89%E5%9C%A8%E5%AE%A3%E5%B8%83%E4%B8%8EApple+Intelligence%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E4%BB%A5%E5%8A%A9%E5%8A%9B%E5%85%B6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%90%BD%E5%9C%B0%E5%90%8E%EF%BC%8C%E8%82%A1%E4%BB%B7%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B6%A8%E3%80%82%E7%99%BE%E5%BA%A6%E5%B0%86%E8%B4%9F%E8%B4%A3%E6%94%AF%E6%8C%81%E7%89%B9%E5%AE%9A%E7%9A%84AI%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%85%B6%E4%B8%AD%E6%9C%80%E5%BC%95%E4%BA%BA%E7%9E%A9%E7%9B%AE%E7%9A%84%E6%98%AF%E2%80%9C%E8%A7%86%E8%A7%89%E6%99%BA%E8%83%BD%E2%80%9D%EF%BC%88Visual+Intelligence%EF%BC%89%E5%92%8C%E6%9C%AC%E5%9C%B0AI%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%90%9C%E7%B4%A2%E3%80%82%E8%BF%99%E5%9C%A8%E6%9C%AC%E8%B4%A8%E4%B8%8A%E4%B8%8E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[搜索](搜索.md), [支持](支持.md), [本质](本质.md), [达成](达成.md)
+___
+##### 2026-07-16 03:03:27 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 中国最高互联网监管机构周三表示，苹果已成功备案其Apple智能服务。此外，数据显示中国市场的第二季度iPhone出货量同比激增24%。https://t.co/AH13q92LW4
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%AD%E5%9B%BD%E6%9C%80%E9%AB%98%E4%BA%92%E8%81%94%E7%BD%91%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%91%A8%E4%B8%89%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%B7%B2%E6%88%90%E5%8A%9F%E5%A4%87%E6%A1%88%E5%85%B6Apple%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6iPhone%E5%87%BA%E8%B4%A7%E9%87%8F%E5%90%8C%E6%AF%94%E6%BF%80%E5%A2%9E24%25%E3%80%82https%3A%2F%2Ft.co%2FAH13q92LW4)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [互联网](互联网.md), [季度](季度.md), [数据](数据.md), [显示](显示.md), [机构](机构.md), [监管](监管.md), [苹果](苹果.md)
+___
+##### 2026-07-15 10:26:27 UTC ~ 外汇交易员
+> RT @fxtrader: #行情 阿里巴巴美股盘前大涨5%。据证券时报报道，阿里巴巴回应称，阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在Apple设备上直接体验千问的文本…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%23%E8%A1%8C%E6%83%85+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A85%25%E3%80%82%E6%8D%AE%E8%AF%81%E5%88%B8%E6%97%B6%E6%8A%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%B0%86%E4%BD%9C%E4%B8%BAAI%E8%83%BD%E5%8A%9B%E9%9B%86%E6%88%90%E8%87%B3Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E4%B8%BAiOS%E3%80%81iPadOS%E3%80%81macOS%E5%92%8CvisionOS%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E5%B8%A6%E6%9D%A5%E6%99%BA%E8%83%BD%E4%BD%93%E9%AA%8C%E3%80%82%E7%94%A8%E6%88%B7%E6%97%A0%E9%9C%80%E5%9C%A8%E5%BA%94%E7%94%A8%E9%97%B4%E5%88%87%E6%8D%A2%EF%BC%8C%E5%8D%B3%E5%8F%AF%E5%9C%A8Apple%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9B%B4%E6%8E%A5%E4%BD%93%E9%AA%8C%E5%8D%83%E9%97%AE%E7%9A%84%E6%96%87%E6%9C%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iOS](iOS.md), [mac](mac.md), [千问](千问.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2026-07-15 08:46:31 UTC ~ TechNews 科技新報
+> RT @technews_tw: 7-ELEVEN 會員正式支援 Apple 錢包，今後使用 Apple Pay 感應付款，系統便能同步完成會員累點與發票存載具。 https://t.co/MensRu2UGp
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+7-ELEVEN+%E6%9C%83%E5%93%A1%E6%AD%A3%E5%BC%8F%E6%94%AF%E6%8F%B4+Apple+%E9%8C%A2%E5%8C%85%EF%BC%8C%E4%BB%8A%E5%BE%8C%E4%BD%BF%E7%94%A8+Apple+Pay+%E6%84%9F%E6%87%89%E4%BB%98%E6%AC%BE%EF%BC%8C%E7%B3%BB%E7%B5%B1%E4%BE%BF%E8%83%BD%E5%90%8C%E6%AD%A5%E5%AE%8C%E6%88%90%E6%9C%83%E5%93%A1%E7%B4%AF%E9%BB%9E%E8%88%87%E7%99%BC%E7%A5%A8%E5%AD%98%E8%BC%89%E5%85%B7%E3%80%82+https%3A%2F%2Ft.co%2FMensRu2UGp)
+##### Other Words/Names of Interest in the Above Tweet
+[付款](付款.md), [支援](支援.md), [正式](正式.md)
+___
+##### 2026-07-13 10:09:22 UTC ~ TechNews 科技新報
+> RT @technews_tw: 蘋果因應歐盟法規！新一代 Apple Pencil 傳採更容易更換電池的新設計，2027 年春季亮相。 #蘋果 #ApplePencil #歐盟 https://t.co/0hl1rEbTVQ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%98%8B%E6%9E%9C%E5%9B%A0%E6%87%89%E6%AD%90%E7%9B%9F%E6%B3%95%E8%A6%8F%EF%BC%81%E6%96%B0%E4%B8%80%E4%BB%A3+Apple+Pencil+%E5%82%B3%E6%8E%A1%E6%9B%B4%E5%AE%B9%E6%98%93%E6%9B%B4%E6%8F%9B%E9%9B%BB%E6%B1%A0%E7%9A%84%E6%96%B0%E8%A8%AD%E8%A8%88%EF%BC%8C2027+%E5%B9%B4%E6%98%A5%E5%AD%A3%E4%BA%AE%E7%9B%B8%E3%80%82+%23%E8%98%8B%E6%9E%9C+%23ApplePencil+%23%E6%AD%90%E7%9B%9F+https%3A%2F%2Ft.co%2F0hl1rEbTVQ)
+##### Other Words/Names of Interest in the Above Tweet
+[蘋果](蘋果.md), [電池](電池.md)
+___
+##### 2026-07-12 03:18:46 UTC ~ TechNews 科技新報
+> RT @technews_tw: Siri 與 ChatGPT 合作關係生變原因？ #蘋果控告OpenAI竊密案起訴書曝光 蘋果（Apple）7 月 10 日向加州北區聯邦地方法院聖荷西分院提起訴訟，指控 OpenAI 及三名華裔背景人士系統性竊取商業機密。起訴書 41 頁詳列…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+Siri+%E8%88%87+ChatGPT+%E5%90%88%E4%BD%9C%E9%97%9C%E4%BF%82%E7%94%9F%E8%AE%8A%E5%8E%9F%E5%9B%A0%EF%BC%9F+%23%E8%98%8B%E6%9E%9C%E6%8E%A7%E5%91%8AOpenAI%E7%AB%8A%E5%AF%86%E6%A1%88%E8%B5%B7%E8%A8%B4%E6%9B%B8%E6%9B%9D%E5%85%89+%E8%98%8B%E6%9E%9C%EF%BC%88Apple%EF%BC%897+%E6%9C%88+10+%E6%97%A5%E5%90%91%E5%8A%A0%E5%B7%9E%E5%8C%97%E5%8D%80%E8%81%AF%E9%82%A6%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E8%81%96%E8%8D%B7%E8%A5%BF%E5%88%86%E9%99%A2%E6%8F%90%E8%B5%B7%E8%A8%B4%E8%A8%9F%EF%BC%8C%E6%8C%87%E6%8E%A7+OpenAI+%E5%8F%8A%E4%B8%89%E5%90%8D%E8%8F%AF%E8%A3%94%E8%83%8C%E6%99%AF%E4%BA%BA%E5%A3%AB%E7%B3%BB%E7%B5%B1%E6%80%A7%E7%AB%8A%E5%8F%96%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86%E3%80%82%E8%B5%B7%E8%A8%B4%E6%9B%B8+41+%E9%A0%81%E8%A9%B3%E5%88%97%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [加州](加州.md), [指控](指控.md), [華裔](華裔.md), [蘋果](蘋果.md), [起訴](起訴.md)
+___
+##### 2026-07-06 21:39:41 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: Broadcom 與 Apple 擴大晶片合作至 2031 年Broadcom（ $AVGO ）宣布與 Apple（ $AAPL ）簽訂新多年長期協議，將雙方技術合作延長至 2031 年。Broadcom 將為 Apple 多代產品開發並供應客製…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+Broadcom+%E8%88%87+Apple+%E6%93%B4%E5%A4%A7%E6%99%B6%E7%89%87%E5%90%88%E4%BD%9C%E8%87%B3+2031+%E5%B9%B4Broadcom%EF%BC%88+%24AVGO+%EF%BC%89%E5%AE%A3%E5%B8%83%E8%88%87+Apple%EF%BC%88+%24AAPL+%EF%BC%89%E7%B0%BD%E8%A8%82%E6%96%B0%E5%A4%9A%E5%B9%B4%E9%95%B7%E6%9C%9F%E5%8D%94%E8%AD%B0%EF%BC%8C%E5%B0%87%E9%9B%99%E6%96%B9%E6%8A%80%E8%A1%93%E5%90%88%E4%BD%9C%E5%BB%B6%E9%95%B7%E8%87%B3+2031+%E5%B9%B4%E3%80%82Broadcom+%E5%B0%87%E7%82%BA+Apple+%E5%A4%9A%E4%BB%A3%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC%E4%B8%A6%E4%BE%9B%E6%87%89%E5%AE%A2%E8%A3%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[晶片](晶片.md), [開發](開發.md)
+___
 ##### 2026-06-30 17:40:28 UTC ~ 奶昔🥤
 > RT @realNyarime: 网传塔塔电子把苹果印度工厂把工程资料全漏了，其中包括秋季即将上市的iPhone 18 Pro主板原理图、芯片手册等等资料喜欢折腾PCB的佬可以手搓Apple开发板，属于是库克卸任前给新CEO特努斯整了个大的 https://t.co/JHc0…
 
@@ -838,7 +901,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%EF%BC%88Apple%EF%BC%89iPhone+16%E7%B3%BB%E5%88%97%E5%9C%A8%E5%8D%B0%E5%B0%BC%E5%B8%82%E5%9C%BA%E8%BF%9F%E8%BF%9F%E8%BF%98%E6%9C%AA%E4%B8%8A%E5%B8%82%EF%BC%8C%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%9C%AA%E8%83%BD%E9%81%B5%E5%AE%88%E4%BF%83%E8%BF%9B%E5%BD%93%E5%9C%B0%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E7%9B%B8%E5%85%B3%E6%B3%95%E8%A7%84%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%9C%AA%E6%9B%B4%E6%96%B0%E5%9B%BD%E4%BA%A7%E5%8C%96%E7%8E%87%E8%AE%B8%E5%8F%AF%E8%AF%81%28TKDN%29%EF%BC%8C%E5%8A%A0%E4%B8%8A%E6%8A%95%E8%B5%84%E5%8D%B0%E5%B0%BC%E7%9A%84%E6%89%BF%E8%AF%BA%E4%B9%9F%E6%9C%AA%E5%88%B0%E4%BD%8D%EF%BC%8C%E6%89%8D%E8%AE%A9%E5%8D%B0%E5%B0%BC%E6%94%BF%E5%BA%9C%E8%87%B3%E4%BB%8A%E4%BB%8D%E9%99%90%E5%88%B6iPhone+16%E5%9C%A8%E5%BD%93%E5%9C%B0%E8%B4%A9%E5%94%AE%E3%80%82+https%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [产业](产业.md), [促进](促进.md), [包括](包括.md), [投资](投资.md), [相关](相关.md), [系列](系列.md), [苹果](苹果.md), [限制](限制.md)
+[iPhone](iPhone.md), [产业](产业.md), [促进](促进.md), [包括](包括.md), [印尼](印尼.md), [投资](投资.md), [相关](相关.md), [系列](系列.md), [苹果](苹果.md), [限制](限制.md)
 ___
 ##### 2024-10-26 09:27:07 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 英伟达芯片需求旺盛，推升股价创新高纪录！#Nvidia #Apple #英伟达 #苹果 #南洋商报https://t.co/Y58f5TFDaz https://t.co/Skl49pVYHG

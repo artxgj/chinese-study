@@ -439,13 +439,6 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [LLM](LLM.md), [RAG](RAG.md), [处理](处理.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [语言模型](语言模型.md), [资源](资源.md)
 ___
-##### 2025-03-20 06:56:37 UTC ~ nowa
-> RT @nowazhu: 我们刚刚通过 LongPort 的 OpenAPI 服务 Release 了 Longbridge 的 MCP Server，现在可以方便地使用 Cursor 等 IDE 或者直接使用 LLM 调用 Longbridge 的股票行情、订单、持仓等 AP…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nowazhu%3A+%E6%88%91%E4%BB%AC%E5%88%9A%E5%88%9A%E9%80%9A%E8%BF%87+LongPort+%E7%9A%84+OpenAPI+%E6%9C%8D%E5%8A%A1+Release+%E4%BA%86+Longbridge+%E7%9A%84+MCP+Server%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E6%96%B9%E4%BE%BF%E5%9C%B0%E4%BD%BF%E7%94%A8+Cursor+%E7%AD%89+IDE+%E6%88%96%E8%80%85%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8+LLM+%E8%B0%83%E7%94%A8+Longbridge+%E7%9A%84%E8%82%A1%E7%A5%A8%E8%A1%8C%E6%83%85%E3%80%81%E8%AE%A2%E5%8D%95%E3%80%81%E6%8C%81%E4%BB%93%E7%AD%89+AP%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [直接](直接.md), [行情](行情.md), [订单](订单.md)
-___
 ##### 2025-03-18 05:15:35 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: Blender MCP 重大更新，不是建模建不好吗现在可以调用 polyhaven 的 1500 个资产库了直接从资产库拉素材拼装，比原来从零开始更快而且效果更好仅用文字创建海滩场景，Claude 自动拉取HDRI、纹理和模型https:…
 

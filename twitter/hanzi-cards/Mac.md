@@ -7,6 +7,62 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2026-07-17 09:51:06 UTC ~ TechNews 科技新報
+> RT @technews_tw: 前 Sega 工程師神還原！把「拍打修復」老電視的經典操作，完整搬進 macOS。 #CRT模擬器 #復古 #任天堂 https://t.co/0Ye6uEelqh
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E5%89%8D+Sega+%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%A5%9E%E9%82%84%E5%8E%9F%EF%BC%81%E6%8A%8A%E3%80%8C%E6%8B%8D%E6%89%93%E4%BF%AE%E5%BE%A9%E3%80%8D%E8%80%81%E9%9B%BB%E8%A6%96%E7%9A%84%E7%B6%93%E5%85%B8%E6%93%8D%E4%BD%9C%EF%BC%8C%E5%AE%8C%E6%95%B4%E6%90%AC%E9%80%B2+macOS%E3%80%82+%23CRT%E6%A8%A1%E6%93%AC%E5%99%A8+%23%E5%BE%A9%E5%8F%A4+%23%E4%BB%BB%E5%A4%A9%E5%A0%82+https%3A%2F%2Ft.co%2F0Ye6uEelqh)
+##### Other Words/Names of Interest in the Above Tweet
+[任天堂](任天堂.md), [操作](操作.md)
+___
+##### 2026-07-15 10:26:27 UTC ~ 外汇交易员
+> RT @fxtrader: #行情 阿里巴巴美股盘前大涨5%。据证券时报报道，阿里巴巴回应称，阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在Apple设备上直接体验千问的文本…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%23%E8%A1%8C%E6%83%85+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A85%25%E3%80%82%E6%8D%AE%E8%AF%81%E5%88%B8%E6%97%B6%E6%8A%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%B0%86%E4%BD%9C%E4%B8%BAAI%E8%83%BD%E5%8A%9B%E9%9B%86%E6%88%90%E8%87%B3Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E4%B8%BAiOS%E3%80%81iPadOS%E3%80%81macOS%E5%92%8CvisionOS%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E5%B8%A6%E6%9D%A5%E6%99%BA%E8%83%BD%E4%BD%93%E9%AA%8C%E3%80%82%E7%94%A8%E6%88%B7%E6%97%A0%E9%9C%80%E5%9C%A8%E5%BA%94%E7%94%A8%E9%97%B4%E5%88%87%E6%8D%A2%EF%BC%8C%E5%8D%B3%E5%8F%AF%E5%9C%A8Apple%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9B%B4%E6%8E%A5%E4%BD%93%E9%AA%8C%E5%8D%83%E9%97%AE%E7%9A%84%E6%96%87%E6%9C%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Apple](Apple.md), [iOS](iOS.md), [千问](千问.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2026-07-07 01:47:39 UTC ~ 初码
+> RT @chumacn: 炒股的可以深度关注下AMD了，在vLLM等技术组织的不懈努力下，目前355X的推理性能已经超过B300，虽然训练严重依赖CUDA，但推理的市场在2026年下半年会失速增长，AMD即将大卖特卖，大发特发！
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E7%82%92%E8%82%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%8BAMD%E4%BA%86%EF%BC%8C%E5%9C%A8vLLM%E7%AD%89%E6%8A%80%E6%9C%AF%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%8D%E6%87%88%E5%8A%AA%E5%8A%9B%E4%B8%8B%EF%BC%8C%E7%9B%AE%E5%89%8D355X%E7%9A%84%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87B300%EF%BC%8C%E8%99%BD%E7%84%B6%E8%AE%AD%E7%BB%83%E4%B8%A5%E9%87%8D%E4%BE%9D%E8%B5%96CUDA%EF%BC%8C%E4%BD%86%E6%8E%A8%E7%90%86%E7%9A%84%E5%B8%82%E5%9C%BA%E5%9C%A82026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BC%9A%E5%A4%B1%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8CAMD%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%8D%96%E7%89%B9%E5%8D%96%EF%BC%8C%E5%A4%A7%E5%8F%91%E7%89%B9%E5%8F%91%EF%BC%81)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [LLM](LLM.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [超过](超过.md)
+___
+##### 2026-07-06 21:57:45 UTC ~ 杰克船长宏观策略
+> RT @macrotradecn: 7月7日，三星Q2初步业绩7月15日，阿斯麦公布业绩7月16日，台积电Q2说法会7月22日，特斯拉公布业绩7月22日(或7月29日)，安费诺公布业绩7月23日，英特尔公布业绩7月28日，谷歌公布业绩7月28日(或8月4日)，康宁…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+7%E6%9C%887%E6%97%A5%EF%BC%8C%E4%B8%89%E6%98%9FQ2%E5%88%9D%E6%AD%A5%E4%B8%9A%E7%BB%A97%E6%9C%8815%E6%97%A5%EF%BC%8C%E9%98%BF%E6%96%AF%E9%BA%A6%E5%85%AC%E5%B8%83%E4%B8%9A%E7%BB%A97%E6%9C%8816%E6%97%A5%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5Q2%E8%AF%B4%E6%B3%95%E4%BC%9A7%E6%9C%8822%E6%97%A5%EF%BC%8C%E7%89%B9%E6%96%AF%E6%8B%89%E5%85%AC%E5%B8%83%E4%B8%9A%E7%BB%A97%E6%9C%8822%E6%97%A5%28%E6%88%967%E6%9C%8829%E6%97%A5%29%EF%BC%8C%E5%AE%89%E8%B4%B9%E8%AF%BA%E5%85%AC%E5%B8%83%E4%B8%9A%E7%BB%A97%E6%9C%8823%E6%97%A5%EF%BC%8C%E8%8B%B1%E7%89%B9%E5%B0%94%E5%85%AC%E5%B8%83%E4%B8%9A%E7%BB%A97%E6%9C%8828%E6%97%A5%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%85%AC%E5%B8%83%E4%B8%9A%E7%BB%A97%E6%9C%8828%E6%97%A5%28%E6%88%968%E6%9C%884%E6%97%A5%29%EF%BC%8C%E5%BA%B7%E5%AE%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [业绩](业绩.md), [初步](初步.md), [台积电](台积电.md), [特斯拉](特斯拉.md), [英特尔](英特尔.md), [谷歌](谷歌.md), [阿斯麦](阿斯麦.md), [麦](麦.md)
+___
+##### 2026-07-05 17:02:18 UTC ~ 杰克船长宏观策略
+> RT @macrotradecn: 黑石（Blackstone）旗下运营商 QTS Realty Trust正式宣布：终止美国弗吉尼亚州 "Digital Gateway"数据中心园区项目次贷危机前，黑石曾先抛售商业地产 https://t.co/yzTAZzTMC6
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E9%BB%91%E7%9F%B3%EF%BC%88Blackstone%EF%BC%89%E6%97%97%E4%B8%8B%E8%BF%90%E8%90%A5%E5%95%86+QTS+Realty+Trust%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%BB%88%E6%AD%A2%E7%BE%8E%E5%9B%BD%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E+%22Digital+Gateway%22%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%9B%AD%E5%8C%BA%E9%A1%B9%E7%9B%AE%E6%AC%A1%E8%B4%B7%E5%8D%B1%E6%9C%BA%E5%89%8D%EF%BC%8C%E9%BB%91%E7%9F%B3%E6%9B%BE%E5%85%88%E6%8A%9B%E5%94%AE%E5%95%86%E4%B8%9A%E5%9C%B0%E4%BA%A7+https%3A%2F%2Ft.co%2FyzTAZzTMC6)
+##### Other Words/Names of Interest in the Above Tweet
+[危机](危机.md), [抛售](抛售.md), [数据](数据.md), [正式](正式.md), [美国](美国.md), [运营商](运营商.md), [项目](项目.md)
+___
+##### 2026-07-05 17:01:19 UTC ~ 杰克船长宏观策略
+> RT @macrotradecn: 据华强北首席科学家李老六透露目前华强北各大势力处于癫狂状态，至少有十二家工厂，根据 阿三开源的 iPhone18壳子的CAD图纸，连夜开模，调集物料，三班倒调试组装。华强北各大势力的目标:比苹果提前一个月发布国行 iPhone18
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E6%8D%AE%E5%8D%8E%E5%BC%BA%E5%8C%97%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%8E%E8%80%81%E5%85%AD%E9%80%8F%E9%9C%B2%E7%9B%AE%E5%89%8D%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%90%84%E5%A4%A7%E5%8A%BF%E5%8A%9B%E5%A4%84%E4%BA%8E%E7%99%AB%E7%8B%82%E7%8A%B6%E6%80%81%EF%BC%8C%E8%87%B3%E5%B0%91%E6%9C%89%E5%8D%81%E4%BA%8C%E5%AE%B6%E5%B7%A5%E5%8E%82%EF%BC%8C%E6%A0%B9%E6%8D%AE+%E9%98%BF%E4%B8%89%E5%BC%80%E6%BA%90%E7%9A%84+iPhone18%E5%A3%B3%E5%AD%90%E7%9A%84CAD%E5%9B%BE%E7%BA%B8%EF%BC%8C%E8%BF%9E%E5%A4%9C%E5%BC%80%E6%A8%A1%EF%BC%8C%E8%B0%83%E9%9B%86%E7%89%A9%E6%96%99%EF%BC%8C%E4%B8%89%E7%8F%AD%E5%80%92%E8%B0%83%E8%AF%95%E7%BB%84%E8%A3%85%E3%80%82%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%90%84%E5%A4%A7%E5%8A%BF%E5%8A%9B%E7%9A%84%E7%9B%AE%E6%A0%87%3A%E6%AF%94%E8%8B%B9%E6%9E%9C%E6%8F%90%E5%89%8D%E4%B8%80%E4%B8%AA%E6%9C%88%E5%8F%91%E5%B8%83%E5%9B%BD%E8%A1%8C+iPhone18)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [发布](发布.md), [处于](处于.md), [开源](开源.md), [根据](根据.md), [状态](状态.md), [组装](组装.md), [至少](至少.md), [苹果](苹果.md), [透露](透露.md)
+___
+##### 2026-07-05 02:44:52 UTC ~ 杰克船长宏观策略
+> RT @macrotradecn: 印度泄露iPhone18核心数据，苹果彻底无语了印度真是个神奇的国家，前不久，莫迪还在吹嘘印度手机代工产业进展如何神速，今天就在全世界面前露了个大脸!…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E5%8D%B0%E5%BA%A6%E6%B3%84%E9%9C%B2iPhone18%E6%A0%B8%E5%BF%83%E6%95%B0%E6%8D%AE%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%BD%BB%E5%BA%95%E6%97%A0%E8%AF%AD%E4%BA%86%E5%8D%B0%E5%BA%A6%E7%9C%9F%E6%98%AF%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E5%9B%BD%E5%AE%B6%EF%BC%8C%E5%89%8D%E4%B8%8D%E4%B9%85%EF%BC%8C%E8%8E%AB%E8%BF%AA%E8%BF%98%E5%9C%A8%E5%90%B9%E5%98%98%E5%8D%B0%E5%BA%A6%E6%89%8B%E6%9C%BA%E4%BB%A3%E5%B7%A5%E4%BA%A7%E4%B8%9A%E8%BF%9B%E5%B1%95%E5%A6%82%E4%BD%95%E7%A5%9E%E9%80%9F%EF%BC%8C%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%9C%A8%E5%85%A8%E4%B8%96%E7%95%8C%E9%9D%A2%E5%89%8D%E9%9C%B2%E4%BA%86%E4%B8%AA%E5%A4%A7%E8%84%B8%21%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [产业](产业.md), [印度](印度.md), [数据](数据.md), [核心](核心.md), [神奇](神奇.md), [苹果](苹果.md)
+___
+##### 2026-07-01 06:13:09 UTC ~ 蓝点网
+> RT @landiantech: 苹果法务部带来 #DMCA 通知函来了！在 X 上发布泄露的 iPhone 18 Pro 跌落测试视频？直接封号。爆料账号 EvLeaks 发布的视频被 X 删除且账号被封禁，科技网站 9to5mac 转发的视频文章目前也主动删除，这很有可…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E8%8B%B9%E6%9E%9C%E6%B3%95%E5%8A%A1%E9%83%A8%E5%B8%A6%E6%9D%A5+%23DMCA+%E9%80%9A%E7%9F%A5%E5%87%BD%E6%9D%A5%E4%BA%86%EF%BC%81%E5%9C%A8+X+%E4%B8%8A%E5%8F%91%E5%B8%83%E6%B3%84%E9%9C%B2%E7%9A%84+iPhone+18+Pro+%E8%B7%8C%E8%90%BD%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%EF%BC%9F%E7%9B%B4%E6%8E%A5%E5%B0%81%E5%8F%B7%E3%80%82%E7%88%86%E6%96%99%E8%B4%A6%E5%8F%B7+EvLeaks+%E5%8F%91%E5%B8%83%E7%9A%84%E8%A7%86%E9%A2%91%E8%A2%AB+X+%E5%88%A0%E9%99%A4%E4%B8%94%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81%EF%BC%8C%E7%A7%91%E6%8A%80%E7%BD%91%E7%AB%99+9to5mac+%E8%BD%AC%E5%8F%91%E7%9A%84%E8%A7%86%E9%A2%91%E6%96%87%E7%AB%A0%E7%9B%AE%E5%89%8D%E4%B9%9F%E4%B8%BB%E5%8A%A8%E5%88%A0%E9%99%A4%EF%BC%8C%E8%BF%99%E5%BE%88%E6%9C%89%E5%8F%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [发布](发布.md), [直接](直接.md), [科技](科技.md), [苹果](苹果.md), [账号](账号.md)
+___
 ##### 2026-06-29 06:51:08 UTC ~ lifcc
 > RT @mylifcc: 苹果官方开源神器来了！container v1.0.0 正式发布！在 Mac（Apple Silicon + macOS 26）上，用轻量级虚拟机原生运行 Linux 容器！ Swift 编写、Apple 虚拟化框架深度优化、OCI 完全兼容。再…
 
@@ -260,7 +316,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [搜索](搜索.md), [支持](支持.md), [直接](直接.md), [进行](进行.md)
 ___
-##### 2025-03-12 07:18:04 UTC ~ 北火
+##### 2025-03-12 07:18:04 UTC ~ beihuo
 > RT @beihuo: 换新 Mac 时总是要手动设置很多东西，今天发现了 macos-defaults 网站，原来这么多设置可以通过自动化脚本完成啊！比如：- 设置更快的 key repeat （vim 用户必备）- 设置 Dock 的大小和自动隐藏- 关闭根据最近的…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40beihuo%3A+%E6%8D%A2%E6%96%B0+Mac+%E6%97%B6%E6%80%BB%E6%98%AF%E8%A6%81%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%A4%9A%E4%B8%9C%E8%A5%BF%EF%BC%8C%E4%BB%8A%E5%A4%A9%E5%8F%91%E7%8E%B0%E4%BA%86+macos-defaults+%E7%BD%91%E7%AB%99%EF%BC%8C%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%A4%9A%E8%AE%BE%E7%BD%AE%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E5%AE%8C%E6%88%90%E5%95%8A%EF%BC%81%E6%AF%94%E5%A6%82%EF%BC%9A-+%E8%AE%BE%E7%BD%AE%E6%9B%B4%E5%BF%AB%E7%9A%84+key+repeat+%EF%BC%88vim+%E7%94%A8%E6%88%B7%E5%BF%85%E5%A4%87%EF%BC%89-+%E8%AE%BE%E7%BD%AE+Dock+%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%92%8C%E8%87%AA%E5%8A%A8%E9%9A%90%E8%97%8F-+%E5%85%B3%E9%97%AD%E6%A0%B9%E6%8D%AE%E6%9C%80%E8%BF%91%E7%9A%84%E2%80%A6)
@@ -311,6 +367,11 @@ ___
 > RT @szygls: China has developed a 3nm etching machine, and experts claim that it will lead the world within 10 years. Foreign media are ama…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40szygls%3A+China+has+developed+a+3nm+etching+machine%2C+and+experts+claim+that+it+will+lead+the+world+within+10+years.+Foreign+media+are+ama%E2%80%A6)
+___
+##### 2025-02-02 19:26:44 UTC ~ yanguoliusheng
+> RT @szygls: The US blockade has forced China to explore alternative paths. The emergence of maskless lithography machines may lead to new c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40szygls%3A+The+US+blockade+has+forced+China+to+explore+alternative+paths.+The+emergence+of+maskless+lithography+machines+may+lead+to+new+c%E2%80%A6)
 ___
 ##### 2025-01-10 08:56:24 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国、中国和日本是巴拿马运河的主要客户，而巴拿马运河货运量的72%都同美国有关。#DonaldTrump #panamacanal #美国 #南洋商报 https://t.co/zg2cPUpkEO https://t.co/4m3bjSao…

@@ -15,10 +15,11 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [老子](../hanzi-cards/老子.md) | Laozi/Lao-tzu |
 | [杨振宁](../hanzi-cards/杨振宁.md)/[楊振寧](../hanzi-cards/楊振寧.md) | Yang Chen-Ning, 1957 Nobel Prize Winner in Physics |
 | [梁文锋](../hanzi-cards/梁文锋.md) | Liang Wenfeng, DeepSeek founder |
-| [杨植麟](../hanzi-cards/杨植麟.md) | Yang Zhilin, Moonshot AI co-founder |
+| [杨植麟](../hanzi-cards/杨植麟.md) | Yang Zhilin, Moonshot AI founder |
 | [张忠谋](../hanzi-cards/张忠谋.md)/[張忠謀](../hanzi-cards/張忠謀.md) | Morris Chang |
 | [任正非](../hanzi-cards/任正非.md) | Ren Zhengfei |
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
+| [雷军](../hanzi-cards/雷军.md)/[雷軍](../hanzi-cards/雷軍.md) | Lei Jun |
 | [孙中山](../hanzi-cards/孙中山.md)/[孫中山](../hanzi-cards/孫中山.md) | Sun Yat Sen |
 | [习近平](../hanzi-cards/习近平.md)/[習近平](../hanzi-cards/習近平.md) | Xi Jinping |
 | [王毅](../hanzi-cards/王毅.md) | Wang Yi |
@@ -27,15 +28,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [马英九](../hanzi-cards/马英九.md)/[馬英九](../hanzi-cards/馬英九.md) | Ma Ying-jeou |
 | [蔡正元](../hanzi-cards/蔡正元.md) | Tsai Cheng-yuan (Alex Tsai) |
 | [李光耀](../hanzi-cards/李光耀.md) | Lee Kuan Yew |
-| [雷军](../hanzi-cards/雷军.md)/[雷軍](../hanzi-cards/雷軍.md) | Lei Jun |
 | [黄仁勋](../hanzi-cards/黄仁勋.md)/[黃仁勛](../hanzi-cards/黃仁勛.md)/[黃仁勳](../hanzi-cards/黃仁勳.md) | Jensen Huang |
 | [苏妈](../hanzi-cards/苏妈.md)/[苏姿丰](../hanzi-cards/苏姿丰.md)/[蘇姿丰](../hanzi-cards/蘇姿丰.md) | Lisa Su |
 | [陈立武](../hanzi-cards/陈立武.md) | Lip-Bu Tan, CEO of Intel |
 | [郭台铭](../hanzi-cards/郭台铭.md) | Terry Gou |
 | [马云](../hanzi-cards/马云.md) | Jack Ma |
 | [周受资](../hanzi-cards/周受资.md) | Shou Zi Chew (Senator, I'm a Singaporean) |
-| [扎哈罗娃](../hanzi-cards/扎哈罗娃.md) | Zakharova (Maria) |
-| [杜特蒂](../hanzi-cards/杜特蒂.md) | Duterte |
 | [姚明](../hanzi-cards/姚明.md) | Yao Ming |
 | [潘展乐](../hanzi-cards/潘展乐.md)/[潘展樂](../hanzi-cards/潘展樂.md) | Pan Zhanle |
 | [张雨霏](../hanzi-cards/张雨霏.md)/[張雨霏](../hanzi-cards/張雨霏.md) | Zhang Yufei |
@@ -44,6 +42,8 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [谷爱凌](../hanzi-cards/谷爱凌.md) | Gu Ailing |
 | [杨紫琼](../hanzi-cards/杨紫琼.md) | Michelle Yeoh |
 | [邓紫棋](../hanzi-cards/邓紫棋.md) | G.E.M. |
+| [扎哈罗娃](../hanzi-cards/扎哈罗娃.md) | Zakharova (Maria) |
+| [杜特蒂](../hanzi-cards/杜特蒂.md) | Duterte |
 | [贝多芬](../hanzi-cards/贝多芬.md) | Beethoven |
 | [莎翁](../hanzi-cards/莎翁.md) | Shakespeare |
 | [梵高](../hanzi-cards/梵高.md) | Van Gogh |

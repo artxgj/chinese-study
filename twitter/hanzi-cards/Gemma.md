@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemma) for definition
 ### Tweets containing Gemma
 
 ___
+##### 2026-07-08 06:13:59 UTC ~ 思维怪怪
+> RT @0xLogicrw: 谷歌最新上线的 Gemma 4 技术报告，展示了如何用极简架构让大模型在手机和端侧跑得更快、省下更多内存。以往大模型看图和听音，需要先用独立的「翻译器」（编码器）把图像和音频翻译成大模型能懂的特征。Gemma 4 12B…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%400xLogicrw%3A+%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%8A%E7%BA%BF%E7%9A%84+Gemma+4+%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A%EF%BC%8C%E5%B1%95%E7%A4%BA%E4%BA%86%E5%A6%82%E4%BD%95%E7%94%A8%E6%9E%81%E7%AE%80%E6%9E%B6%E6%9E%84%E8%AE%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8%E6%89%8B%E6%9C%BA%E5%92%8C%E7%AB%AF%E4%BE%A7%E8%B7%91%E5%BE%97%E6%9B%B4%E5%BF%AB%E3%80%81%E7%9C%81%E4%B8%8B%E6%9B%B4%E5%A4%9A%E5%86%85%E5%AD%98%E3%80%82%E4%BB%A5%E5%BE%80%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9C%8B%E5%9B%BE%E5%92%8C%E5%90%AC%E9%9F%B3%EF%BC%8C%E9%9C%80%E8%A6%81%E5%85%88%E7%94%A8%E7%8B%AC%E7%AB%8B%E7%9A%84%E3%80%8C%E7%BF%BB%E8%AF%91%E5%99%A8%E3%80%8D%EF%BC%88%E7%BC%96%E7%A0%81%E5%99%A8%EF%BC%89%E6%8A%8A%E5%9B%BE%E5%83%8F%E5%92%8C%E9%9F%B3%E9%A2%91%E7%BF%BB%E8%AF%91%E6%88%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%83%BD%E6%87%82%E7%9A%84%E7%89%B9%E5%BE%81%E3%80%82Gemma+4+12B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[技术](技术.md), [模型](模型.md), [谷歌](谷歌.md)
+___
 ##### 2025-04-04 07:40:47 UTC ~ karminski-牙医
 > RT @karminski3: 刚看到的侧面消息，Meta 的 AI 负责人已经离职了，可能是由于 llama-4 搞不出来目前 llama-4 面临的压力我们来数一数，首先它肯定不能大于 120B，甚至最好还是维持在 70B，然后要超越 Qwen2.5-QwQ，Gemma…
 

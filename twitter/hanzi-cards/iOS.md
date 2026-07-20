@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2026-07-15 10:26:27 UTC ~ 外汇交易员
+> RT @fxtrader: #行情 阿里巴巴美股盘前大涨5%。据证券时报报道，阿里巴巴回应称，阿里千问将作为AI能力集成至Apple智能，为iOS、iPadOS、macOS和visionOS的中国用户带来智能体验。用户无需在应用间切换，即可在Apple设备上直接体验千问的文本…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%23%E8%A1%8C%E6%83%85+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A85%25%E3%80%82%E6%8D%AE%E8%AF%81%E5%88%B8%E6%97%B6%E6%8A%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%B0%86%E4%BD%9C%E4%B8%BAAI%E8%83%BD%E5%8A%9B%E9%9B%86%E6%88%90%E8%87%B3Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E4%B8%BAiOS%E3%80%81iPadOS%E3%80%81macOS%E5%92%8CvisionOS%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E5%B8%A6%E6%9D%A5%E6%99%BA%E8%83%BD%E4%BD%93%E9%AA%8C%E3%80%82%E7%94%A8%E6%88%B7%E6%97%A0%E9%9C%80%E5%9C%A8%E5%BA%94%E7%94%A8%E9%97%B4%E5%88%87%E6%8D%A2%EF%BC%8C%E5%8D%B3%E5%8F%AF%E5%9C%A8Apple%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9B%B4%E6%8E%A5%E4%BD%93%E9%AA%8C%E5%8D%83%E9%97%AE%E7%9A%84%E6%96%87%E6%9C%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Apple](Apple.md), [mac](mac.md), [千问](千问.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2026-07-08 17:45:40 UTC ~ TechNews 科技新報
+> RT @technews_tw: #蘋果 與 #歐盟 的反壟斷大戰遭遇重大挫敗！歐盟普通法院正式駁回上訴，裁定 iOS 與 App Store 必須全面遵守數位市場法。 https://t.co/oNIwAtEm07
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%98%8B%E6%9E%9C+%E8%88%87+%23%E6%AD%90%E7%9B%9F+%E7%9A%84%E5%8F%8D%E5%A3%9F%E6%96%B7%E5%A4%A7%E6%88%B0%E9%81%AD%E9%81%87%E9%87%8D%E5%A4%A7%E6%8C%AB%E6%95%97%EF%BC%81%E6%AD%90%E7%9B%9F%E6%99%AE%E9%80%9A%E6%B3%95%E9%99%A2%E6%AD%A3%E5%BC%8F%E9%A7%81%E5%9B%9E%E4%B8%8A%E8%A8%B4%EF%BC%8C%E8%A3%81%E5%AE%9A+iOS+%E8%88%87+App+Store+%E5%BF%85%E9%A0%88%E5%85%A8%E9%9D%A2%E9%81%B5%E5%AE%88%E6%95%B8%E4%BD%8D%E5%B8%82%E5%A0%B4%E6%B3%95%E3%80%82+https%3A%2F%2Ft.co%2FoNIwAtEm07)
+##### Other Words/Names of Interest in the Above Tweet
+[反壟斷](反壟斷.md), [正式](正式.md), [蘋果](蘋果.md), [遭遇](遭遇.md)
+___
+##### 2026-07-07 07:36:24 UTC ~ TechNews 科技新報
+> RT @technews_tw: 借車給別人，#FSD 就不能用？#特斯拉 最新 iOS App 程式碼曝光，未來可能透過車內攝影機進行駕駛身分認證，不符註冊帳號就拒絕啟用 FSD。 https://t.co/MZlFLBmxam
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E5%80%9F%E8%BB%8A%E7%B5%A6%E5%88%A5%E4%BA%BA%EF%BC%8C%23FSD+%E5%B0%B1%E4%B8%8D%E8%83%BD%E7%94%A8%EF%BC%9F%23%E7%89%B9%E6%96%AF%E6%8B%89+%E6%9C%80%E6%96%B0+iOS+App+%E7%A8%8B%E5%BC%8F%E7%A2%BC%E6%9B%9D%E5%85%89%EF%BC%8C%E6%9C%AA%E4%BE%86%E5%8F%AF%E8%83%BD%E9%80%8F%E9%81%8E%E8%BB%8A%E5%85%A7%E6%94%9D%E5%BD%B1%E6%A9%9F%E9%80%B2%E8%A1%8C%E9%A7%95%E9%A7%9B%E8%BA%AB%E5%88%86%E8%AA%8D%E8%AD%89%EF%BC%8C%E4%B8%8D%E7%AC%A6%E8%A8%BB%E5%86%8A%E5%B8%B3%E8%99%9F%E5%B0%B1%E6%8B%92%E7%B5%95%E5%95%9F%E7%94%A8+FSD%E3%80%82+https%3A%2F%2Ft.co%2FMZlFLBmxam)
+##### Other Words/Names of Interest in the Above Tweet
+[特斯拉](特斯拉.md)
+___
+##### 2026-07-03 19:49:24 UTC ~ 徐伦
+> RT @Jolyne_AI: 想给 iPhone 发点简单通知，比如服务器状态告警、脚本执行结果，又不想把数据交给第三方、担心隐私？试试 Bark：开源免费、轻量好用的 iOS 推送工具。用它就能把自定义通知直接推到你的 iPhone，配置简单，上手很快。它基于苹果官方…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jolyne_AI%3A+%E6%83%B3%E7%BB%99+iPhone+%E5%8F%91%E7%82%B9%E7%AE%80%E5%8D%95%E9%80%9A%E7%9F%A5%EF%BC%8C%E6%AF%94%E5%A6%82%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%8A%B6%E6%80%81%E5%91%8A%E8%AD%A6%E3%80%81%E8%84%9A%E6%9C%AC%E6%89%A7%E8%A1%8C%E7%BB%93%E6%9E%9C%EF%BC%8C%E5%8F%88%E4%B8%8D%E6%83%B3%E6%8A%8A%E6%95%B0%E6%8D%AE%E4%BA%A4%E7%BB%99%E7%AC%AC%E4%B8%89%E6%96%B9%E3%80%81%E6%8B%85%E5%BF%83%E9%9A%90%E7%A7%81%EF%BC%9F%E8%AF%95%E8%AF%95+Bark%EF%BC%9A%E5%BC%80%E6%BA%90%E5%85%8D%E8%B4%B9%E3%80%81%E8%BD%BB%E9%87%8F%E5%A5%BD%E7%94%A8%E7%9A%84+iOS+%E6%8E%A8%E9%80%81%E5%B7%A5%E5%85%B7%E3%80%82%E7%94%A8%E5%AE%83%E5%B0%B1%E8%83%BD%E6%8A%8A%E8%87%AA%E5%AE%9A%E4%B9%89%E9%80%9A%E7%9F%A5%E7%9B%B4%E6%8E%A5%E6%8E%A8%E5%88%B0%E4%BD%A0%E7%9A%84+iPhone%EF%BC%8C%E9%85%8D%E7%BD%AE%E7%AE%80%E5%8D%95%EF%BC%8C%E4%B8%8A%E6%89%8B%E5%BE%88%E5%BF%AB%E3%80%82%E5%AE%83%E5%9F%BA%E4%BA%8E%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [工具](工具.md), [开源](开源.md), [执行](执行.md), [担心](担心.md), [数据](数据.md), [服务器](服务器.md), [状态](状态.md), [直接](直接.md), [苹果](苹果.md), [隐私](隐私.md)
+___
 ##### 2026-06-16 11:37:25 UTC ~ Geek
 > RT @geekbb: 在 macOS 上下载 iOS App 的 IPA 历史版本，并可隔空投送至 iPhone/iPad 安装使用。https://t.co/XWvezj1uJR https://t.co/XFim0RRK0O
 
@@ -412,6 +440,13 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%897%E6%97%A5%E5%9C%A8%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E7%9A%84%E5%85%A8%E7%90%83%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%EF%BC%88WWDC%EF%BC%89%E4%B8%8A%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E7%89%88iPhone%E4%BD%9C%E4%B8%9A%E7%B3%BB%E7%BB%9FiOS+15%E7%9A%84%E9%A2%84%E8%A7%88%EF%BC%8CFaceTime%E3%80%81iMessage%E3%80%81%E7%85%A7%E7%89%87%E3%80%81%E6%95%B0%E4%BD%8D%E9%92%B1%E5%8C%85%E3%80%81%E5%9C%B0%E5%9B%BE%E3%80%81%E5%A4%A9%E6%B0%94%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%92%8C%E9%80%9A%E7%9F%A5%E9%83%BD%E6%B7%BB%E5%8A%A0%E4%BA%86%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%82https%3A%2F%2Ft.co%2FTw%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [iPhone](iPhone.md), [发布](发布.md), [开发](开发.md), [程序](程序.md), [系统](系统.md), [美国](美国.md), [苹果](苹果.md)
+___
+##### 2021-06-09 06:44:03 UTC ~ 加美财经caus.com
+> RT @CausMoney: 今日，苹果公司通过其WWDC（全球开发者大会）发布了新一代手机操作系统iOS15，该系统将支持iPhone7以上机型。iOS15将会带来对于FaceTimehttps://t.co/gkTdeeVKY5 https://t.co/8iicg6…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CausMoney%3A+%E4%BB%8A%E6%97%A5%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%80%9A%E8%BF%87%E5%85%B6WWDC%EF%BC%88%E5%85%A8%E7%90%83%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%EF%BC%89%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E4%B8%80%E4%BB%A3%E6%89%8B%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9FiOS15%EF%BC%8C%E8%AF%A5%E7%B3%BB%E7%BB%9F%E5%B0%86%E6%94%AF%E6%8C%81iPhone7%E4%BB%A5%E4%B8%8A%E6%9C%BA%E5%9E%8B%E3%80%82iOS15%E5%B0%86%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%AF%B9%E4%BA%8EFaceTimehttps%3A%2F%2Ft.co%2FgkTdeeVKY5+https%3A%2F%2Ft.co%2F8iicg6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [发布](发布.md), [开发](开发.md), [操作](操作.md), [支持](支持.md), [系统](系统.md), [苹果](苹果.md)
 ___
 ##### 2021-06-08 05:00:14 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 此次大会宣布了iOS 15的推出，以及对FaceTime等受欢迎软件的更新。另一重磅消息是苹果将作出更多隐私设置调整，这些措施将扰动整个数字广告行业。就在大会召开前，苹果与Epic Games对簿公堂，凸显了该公司与开发者之间日益棘手的关系。ht…

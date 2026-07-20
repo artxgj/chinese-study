@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GLM) for definition
 ### Tweets containing GLM
 
 ___
+##### 2026-07-19 02:19:46 UTC ~ 链研社｜AI First🔶💧
+> RT @lianyanshe: DeepSeek 证明了便宜也能有高毛利GLM 证明了中国模型能赚钱KIMI 证明了中国模型也能卖高价美国云产商的资本开支有大部分来自 Anthropic 和 OpenAI 两家的订单。- 最早是Anthropic和 OpenAI 两…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lianyanshe%3A+DeepSeek+%E8%AF%81%E6%98%8E%E4%BA%86%E4%BE%BF%E5%AE%9C%E4%B9%9F%E8%83%BD%E6%9C%89%E9%AB%98%E6%AF%9B%E5%88%A9GLM+%E8%AF%81%E6%98%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E8%83%BD%E8%B5%9A%E9%92%B1KIMI+%E8%AF%81%E6%98%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E4%B9%9F%E8%83%BD%E5%8D%96%E9%AB%98%E4%BB%B7%E7%BE%8E%E5%9B%BD%E4%BA%91%E4%BA%A7%E5%95%86%E7%9A%84%E8%B5%84%E6%9C%AC%E5%BC%80%E6%94%AF%E6%9C%89%E5%A4%A7%E9%83%A8%E5%88%86%E6%9D%A5%E8%87%AA+Anthropic+%E5%92%8C+OpenAI+%E4%B8%A4%E5%AE%B6%E7%9A%84%E8%AE%A2%E5%8D%95%E3%80%82-+%E6%9C%80%E6%97%A9%E6%98%AFAnthropic%E5%92%8C+OpenAI+%E4%B8%A4%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [DeepSeek](DeepSeek.md), [OpenAI](OpenAI.md), [来自](来自.md), [模型](模型.md), [美国](美国.md), [订单](订单.md), [赚钱](赚钱.md)
+___
+##### 2026-07-18 05:29:02 UTC ~ 香港老雷
+> RT @btcmos: 中国主流AI实验室/公司估值排名与未来预期排名：排名第一的依然是DeepSeek排名第二的是Moonshot排名第三的是阿里Qwen当前估值：基于技术实力、团队、生态，商业化潜力、市场空间等综合因素的内在价值判断。比如：智谱AI的GLM-…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcmos%3A+%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%B5%81AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%2F%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC%E6%8E%92%E5%90%8D%E4%B8%8E%E6%9C%AA%E6%9D%A5%E9%A2%84%E6%9C%9F%E6%8E%92%E5%90%8D%EF%BC%9A%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E4%BE%9D%E7%84%B6%E6%98%AFDeepSeek%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%8C%E7%9A%84%E6%98%AFMoonshot%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%89%E7%9A%84%E6%98%AF%E9%98%BF%E9%87%8CQwen%E5%BD%93%E5%89%8D%E4%BC%B0%E5%80%BC%EF%BC%9A%E5%9F%BA%E4%BA%8E%E6%8A%80%E6%9C%AF%E5%AE%9E%E5%8A%9B%E3%80%81%E5%9B%A2%E9%98%9F%E3%80%81%E7%94%9F%E6%80%81%EF%BC%8C%E5%95%86%E4%B8%9A%E5%8C%96%E6%BD%9C%E5%8A%9B%E3%80%81%E5%B8%82%E5%9C%BA%E7%A9%BA%E9%97%B4%E7%AD%89%E7%BB%BC%E5%90%88%E5%9B%A0%E7%B4%A0%E7%9A%84%E5%86%85%E5%9C%A8%E4%BB%B7%E5%80%BC%E5%88%A4%E6%96%AD%E3%80%82%E6%AF%94%E5%A6%82%EF%BC%9A%E6%99%BA%E8%B0%B1AI%E7%9A%84GLM-%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [Qwen](Qwen.md), [估值](估值.md), [依然](依然.md), [判断](判断.md), [因素](因素.md), [实力](实力.md), [技术](技术.md), [智谱](智谱.md), [潜力](潜力.md), [生态](生态.md), [预期](预期.md)
+___
+##### 2026-07-18 01:30:22 UTC ~ lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）
+> RT @lidangzzz: 一边是deepseek、GLM、kimi三家中国企业开始登顶冲刺了，另一边是苹果中国的三本文科英国水硕产品经理和分析师们不断走流程写文件做调研，花了两年时间，最终决定向总部汇报建议apple Intelligence中国区从qwen和百度文心一…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lidangzzz%3A+%E4%B8%80%E8%BE%B9%E6%98%AFdeepseek%E3%80%81GLM%E3%80%81kimi%E4%B8%89%E5%AE%B6%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%BC%80%E5%A7%8B%E7%99%BB%E9%A1%B6%E5%86%B2%E5%88%BA%E4%BA%86%EF%BC%8C%E5%8F%A6%E4%B8%80%E8%BE%B9%E6%98%AF%E8%8B%B9%E6%9E%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%89%E6%9C%AC%E6%96%87%E7%A7%91%E8%8B%B1%E5%9B%BD%E6%B0%B4%E7%A1%95%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%92%8C%E5%88%86%E6%9E%90%E5%B8%88%E4%BB%AC%E4%B8%8D%E6%96%AD%E8%B5%B0%E6%B5%81%E7%A8%8B%E5%86%99%E6%96%87%E4%BB%B6%E5%81%9A%E8%B0%83%E7%A0%94%EF%BC%8C%E8%8A%B1%E4%BA%86%E4%B8%A4%E5%B9%B4%E6%97%B6%E9%97%B4%EF%BC%8C%E6%9C%80%E7%BB%88%E5%86%B3%E5%AE%9A%E5%90%91%E6%80%BB%E9%83%A8%E6%B1%87%E6%8A%A5%E5%BB%BA%E8%AE%AEapple+Intelligence%E4%B8%AD%E5%9B%BD%E5%8C%BA%E4%BB%8Eqwen%E5%92%8C%E7%99%BE%E5%BA%A6%E6%96%87%E5%BF%83%E4%B8%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[分析](分析.md), [分析师](分析师.md), [文件](文件.md), [苹果](苹果.md)
+___
+##### 2026-07-17 01:50:33 UTC ~ 投资TALK君
+> RT @TJ_Research: 昨天GLM5.2今天KIMI3，闭源模型受到挑战，这是好事，且不会影响硬件端，最终真有可能模型变成商品（CRM CEO一直的观点），所以不压住模型的方向是正确的。…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40TJ_Research%3A+%E6%98%A8%E5%A4%A9GLM5.2%E4%BB%8A%E5%A4%A9KIMI3%EF%BC%8C%E9%97%AD%E6%BA%90%E6%A8%A1%E5%9E%8B%E5%8F%97%E5%88%B0%E6%8C%91%E6%88%98%EF%BC%8C%E8%BF%99%E6%98%AF%E5%A5%BD%E4%BA%8B%EF%BC%8C%E4%B8%94%E4%B8%8D%E4%BC%9A%E5%BD%B1%E5%93%8D%E7%A1%AC%E4%BB%B6%E7%AB%AF%EF%BC%8C%E6%9C%80%E7%BB%88%E7%9C%9F%E6%9C%89%E5%8F%AF%E8%83%BD%E6%A8%A1%E5%9E%8B%E5%8F%98%E6%88%90%E5%95%86%E5%93%81%EF%BC%88CRM+CEO%E4%B8%80%E7%9B%B4%E7%9A%84%E8%A7%82%E7%82%B9%EF%BC%89%EF%BC%8C%E6%89%80%E4%BB%A5%E4%B8%8D%E5%8E%8B%E4%BD%8F%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%96%B9%E5%90%91%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84%E3%80%82%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[一直](一直.md), [商品](商品.md), [影响](影响.md), [挑战](挑战.md), [模型](模型.md)
+___
+##### 2026-07-07 16:30:38 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 中美都在收紧 AI 了？路透社爆料，中国监管部门已与多家头部公司举行会议，讨论可能限制海外访问中国最先进 AI 模型，其中包括尚未发布的模型。参与这些讨论的，包括字节、阿里以及 GLM 模型的智谱 AI，此外官方可能实施新的措施，限制哪些投资者可以投…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E4%B8%AD%E7%BE%8E%E9%83%BD%E5%9C%A8%E6%94%B6%E7%B4%A7+AI+%E4%BA%86%EF%BC%9F%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%88%86%E6%96%99%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%B7%B2%E4%B8%8E%E5%A4%9A%E5%AE%B6%E5%A4%B4%E9%83%A8%E5%85%AC%E5%8F%B8%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%AE%AE%EF%BC%8C%E8%AE%A8%E8%AE%BA%E5%8F%AF%E8%83%BD%E9%99%90%E5%88%B6%E6%B5%B7%E5%A4%96%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%85%88%E8%BF%9B+AI+%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%85%B6%E4%B8%AD%E5%8C%85%E6%8B%AC%E5%B0%9A%E6%9C%AA%E5%8F%91%E5%B8%83%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E5%8F%82%E4%B8%8E%E8%BF%99%E4%BA%9B%E8%AE%A8%E8%AE%BA%E7%9A%84%EF%BC%8C%E5%8C%85%E6%8B%AC%E5%AD%97%E8%8A%82%E3%80%81%E9%98%BF%E9%87%8C%E4%BB%A5%E5%8F%8A+GLM+%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%99%BA%E8%B0%B1+AI%EF%BC%8C%E6%AD%A4%E5%A4%96%E5%AE%98%E6%96%B9%E5%8F%AF%E8%83%BD%E5%AE%9E%E6%96%BD%E6%96%B0%E7%9A%84%E6%8E%AA%E6%96%BD%EF%BC%8C%E9%99%90%E5%88%B6%E5%93%AA%E4%BA%9B%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%AF%E4%BB%A5%E6%8A%95%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[先进](先进.md), [包括](包括.md), [发布](发布.md), [实施](实施.md), [投资](投资.md), [投资者](投资者.md), [措施](措施.md), [收紧](收紧.md), [智谱](智谱.md), [模型](模型.md), [监管](监管.md), [限制](限制.md)
+___
 ##### 2026-06-28 03:33:53 UTC ~ Breaking Alert 全球快报
 > RT @BreakingAlert_: 中国 AI 公司智谱推出的 GLM 5.2 被认为正在逼近美国顶级大模型水平。新一轮竞争焦点不再只是模型参数和绝对性能，而是单位成本能提供多少“智能”。这也让开源模型重新成为强劲变量，直接冲击 OpenAI、Anthropic 等美国闭源…
 
