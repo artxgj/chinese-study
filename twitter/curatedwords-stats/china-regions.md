@@ -54,7 +54,19 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | ----- | :---: |
 | [厦门](../hanzi-cards/厦门.md)/[廈門](../hanzi-cards/廈門.md) | Ē-mn̂g (Xiamen in Mandarin) |
 | [泉州](../hanzi-cards/泉州.md) | Choân-chiu (Quanzhou in Mandarin), prefecture-level city in Fujian |
-| [晋江](../hanzi-cards/晋江.md) | Jinjiang, county-level city in Quanzhou |
+| [晋江](../hanzi-cards/晋江.md) | Chìn-kang (Jinjiang in Mandarin), county-level city in Quanzhou |
+| [漳州](../hanzi-cards/漳州.md) | Chiang-chiu (Zhangzhou in Mandarin) |
+| [潮州](../hanzi-cards/潮州.md) | Teochew/Chaozhou |
+| [深圳](../hanzi-cards/深圳.md) | Shenzhen |
+| [杭州](../hanzi-cards/杭州.md) | Hangzhou |
+| [苏州](../hanzi-cards/苏州.md)/[蘇州](../hanzi-cards/蘇州.md) | Suzhou |
+| [义乌](../hanzi-cards/义乌.md)/[義烏](../hanzi-cards/義烏.md) | Yiwu |
+| [南京](../hanzi-cards/南京.md) | Nanjing |
+| [洛阳](../hanzi-cards/洛阳.md)/[洛陽](../hanzi-cards/洛陽.md) | Luoyang |
+| [开封](../hanzi-cards/开封.md)/[開封](../hanzi-cards/開封.md) | Kaifeng |
+| [郑州](../hanzi-cards/郑州.md)/[鄭州](../hanzi-cards/鄭州.md) | Zhengzhou |
+| [安阳](../hanzi-cards/安阳.md)/[安陽](../hanzi-cards/安陽.md) | Anyang |
+| [青岛](../hanzi-cards/青岛.md)/[青島](../hanzi-cards/青島.md) | Qingdao |
 | [沈阳](../hanzi-cards/沈阳.md)/[瀋陽](../hanzi-cards/瀋陽.md) | Shenyang |
 | [大连](../hanzi-cards/大连.md)/[大連](../hanzi-cards/大連.md) | Dalian |
 | [哈尔滨](../hanzi-cards/哈尔滨.md)/[哈爾濱](../hanzi-cards/哈爾濱.md) | Harbin |

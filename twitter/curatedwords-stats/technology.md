@@ -14,6 +14,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [混合专家](../hanzi-cards/混合专家.md) | Mixture of Experts (MoE) |
 | [语言模型](../hanzi-cards/语言模型.md)/[語言模型](../hanzi-cards/語言模型.md) | language model |
 | [检索增强生成](../hanzi-cards/检索增强生成.md)/[RAG](../hanzi-cards/RAG.md) | Retrieval-Augmented Generation |
+| [参数](../hanzi-cards/参数.md) | parameter |
 ## Chips
 |  |  |
 | ----- | :---: |
@@ -40,7 +41,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [增强现实](../hanzi-cards/增强现实.md) | augmented reality |
 | [头戴式装置](../hanzi-cards/头戴式装置.md) | head-mounted device (HMD) |
 | [头戴式设备](../hanzi-cards/头戴式设备.md) | headset (head-mounted device) |
-| [传感器](../hanzi-cards/传感器.md) | sensor |
+| [传感器](../hanzi-cards/传感器.md)/[傳感器](../hanzi-cards/傳感器.md) | sensor |
 | [红外](../hanzi-cards/红外.md) | infrared |
 | [摄像头](../hanzi-cards/摄像头.md) | camera |
 | [动作捕捉](../hanzi-cards/动作捕捉.md) | motion capture |
@@ -66,6 +67,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [伺服器](../hanzi-cards/伺服器.md) | server (Taiwan) |
 | [服务器](../hanzi-cards/服务器.md)/[服務器](../hanzi-cards/服務器.md) | server |
 | [韬定律](../hanzi-cards/韬定律.md)/[韜定律](../hanzi-cards/韜定律.md) | Tau (τ) Scaling Law |
+## Math
+|  |  |
+| ----- | :---: |
+| [函数](../hanzi-cards/函数.md) | function |
 ## Technology
 |  |  |
 | ----- | :---: |

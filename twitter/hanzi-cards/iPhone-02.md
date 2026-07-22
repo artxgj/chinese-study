@@ -398,7 +398,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%A4%9A%E5%B1%82%E9%99%B6%E7%93%B7%E7%94%B5%E5%AE%B9%E5%99%A8%28MLCC%29%E6%98%AF%E6%89%80%E6%9C%89iPhone%E3%80%81PlayStation%E6%B8%B8%E6%88%8F%E6%9C%BA%E6%88%96%E9%AB%98%E7%BA%A7%E6%B1%BD%E8%BD%A6%E9%83%BD%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91%E7%9A%84%E9%87%8D%E8%A6%81%E5%85%83%E4%BB%B6%EF%BC%8C%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%94%B5%E5%AD%90%E8%A1%8C%E4%B8%9A%E7%9A%84%E2%80%9C%E5%A4%A7%E7%B1%B3%E2%80%9D%E3%80%82%E5%8F%97%E7%96%AB%E6%83%85%E5%BD%B1%E5%93%8D%EF%BC%8C%E4%BA%9A%E6%B4%B2%E4%B8%80%E5%AE%B6MLCC%E4%B8%BB%E8%A6%81%E4%BE%9B%E5%BA%94%E5%95%86%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E4%B8%80%E5%AE%B6%E5%B7%A5%E5%8E%82%EF%BC%8C%E5%8F%A6%E4%B8%80%E5%AE%B6%E5%88%99%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E4%BA%A7%E8%83%BD%E3%80%82https%3A%2F%2Ft.co%2FhHWkT%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[大米](大米.md), [影响](影响.md), [暂停](暂停.md), [电容器](电容器.md), [疫情](疫情.md), [行业](行业.md), [陶瓷](陶瓷.md)
+[大米](大米.md), [影响](影响.md), [暂停](暂停.md), [电容](电容.md), [电容器](电容器.md), [疫情](疫情.md), [行业](行业.md), [陶瓷](陶瓷.md)
 ___
 ##### 2021-08-08 01:41:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国苹果公司5日宣布，计划在美国出售的iPhone手机安装软件，以监测是否存在涉及儿童的色情照片，有需要时会通知政府。 https://t.co/BCDfsuo7v2 https://t.co/gz6P9PoTvN
@@ -426,7 +426,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%83%91%E5%B7%9E%E5%8E%82%E5%8C%BA%E5%8F%97%E5%88%B0%E6%B2%B3%E5%8D%97%E4%B8%A5%E9%87%8D%E6%B4%AA%E7%81%BE%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E6%8D%AE%E5%BD%93%E5%9C%B0%E5%B7%A5%E5%8E%82%E5%91%98%E5%B7%A5%E8%AF%B4%EF%BC%8C%E8%AF%A5%E7%BB%84%E8%A3%85%E5%9F%BA%E5%9C%B0%E7%9A%84%E9%83%A8%E5%88%86%E5%9C%B0%E5%8C%BA%E5%87%BA%E7%8E%B0%E7%A7%AF%E6%B0%B4%EF%BC%8C%E5%8F%91%E7%94%9F%E4%B8%B4%E6%97%B6%E5%81%9C%E7%94%B5%E6%83%85%E5%86%B5%EF%BC%8C%E8%AE%B8%E5%A4%9A%E5%B7%A5%E4%BA%BA%E5%9B%A0%E6%AD%A4%E8%A2%AB%E8%BF%AB%E6%94%BE%E5%81%87%E3%80%82%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%B7%A5%E5%8E%82%E7%94%9F%E4%BA%A7%E5%8F%AF%E8%83%BD%E5%8F%97%E5%88%B0%E5%B9%B2%E6%89%B0%E6%AD%A3%E5%80%BC%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%BE%9B%E5%BA%94%E5%95%86%E5%BC%80%E5%A7%8B%E5%8A%A0%E7%B4%A7%E5%87%86%E5%A4%87%E9%A2%84%E8%AE%A1%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E6%8E%A8%E5%87%BA%E7%9A%84%E6%96%B0%E6%AC%BEiPhone%E4%B9%8B%E9%99%85%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[严重](严重.md), [临时](临时.md), [因此](因此.md), [富士康](富士康.md), [影响](影响.md), [情况](情况.md), [推出](推出.md), [河南](河南.md), [洪灾](洪灾.md), [生产](生产.md), [组装](组装.md), [苹果](苹果.md), [预计](预计.md)
+[严重](严重.md), [临时](临时.md), [因此](因此.md), [富士康](富士康.md), [影响](影响.md), [情况](情况.md), [推出](推出.md), [河南](河南.md), [洪灾](洪灾.md), [生产](生产.md), [组装](组装.md), [苹果](苹果.md), [郑州](郑州.md), [预计](预计.md)
 ___
 ##### 2021-07-14 06:54:46 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据彭博报道，苹果正寻求将今年新iPhone的产量提高20%。消息源表示，提升产量也是试图捕捉华为受制裁后留下的商机。https://t.co/CqMUilDJe9

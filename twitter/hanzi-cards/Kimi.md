@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40WallStTV%3A+%E4%B8%AD%E5%9B%BDAI%E5%9C%A8%E4%B8%8A%E6%B5%B7%E9%9B%86%E4%BD%93%E7%A7%80%E8%82%8C%E8%82%89%EF%BC%9A%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E6%8E%A8%E5%87%BA2.8%E4%B8%87%E4%BA%BF%E5%8F%82%E6%95%B0%E7%9A%84Kimi%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上海](上海.md), [推出](推出.md), [月之暗面](月之暗面.md)
+[上海](上海.md), [参数](参数.md), [推出](推出.md), [月之暗面](月之暗面.md)
 ___
 ##### 2026-07-18 03:37:50 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 就像之前對 DeepSeek R1 的恐慌一樣，有些不了解情況的人認為 Kimi K3 使用線性注意力（KDA）會對 NVIDIA、HBM、DRAM 和網路不利，因為它的 KV-cache 需求相對較低。事實正好相反。Kimi K3 其實對 NV…
@@ -110,7 +110,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AI_Whisper_X%3A+%E6%98%A8%E6%99%9A+Kimi+%E5%8F%91%E5%B8%83+K3%EF%BC%8C%E4%BB%8A%E6%97%A9%E7%9B%B4%E6%8E%A5%E5%B1%A0%E7%89%88+twitter%EF%BC%8C%E8%BF%9E%E9%A9%AC%E6%96%AF%E5%85%8B%E9%83%BD%E6%9D%A5%E7%82%B9%E8%B5%9E%E4%BA%86%E3%80%82%E6%9C%9F%E5%BE%85%E8%BF%99%E6%AC%A1K3%E9%80%BC%E5%87%BADario%EF%BC%8C%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%87%A0%E4%B8%AA%E7%A1%AC%E4%BF%A1%E6%81%AF%EF%BC%9A%E2%96%B8+%E6%80%BB%E5%8F%82%E6%95%B0+2.8T%EF%BC%8C%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%B0%BA%E5%AF%B8%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E2%96%B8+1M+%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E5%8E%9F%E7%94%9F%E7%90%86%E8%A7%A3%E6%96%87%E5%AD%97%E3%80%81%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E2%96%B8+%E5%85%A8%E6%96%B0%E6%9E%B6%E6%9E%84%EF%BC%9AKDA%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上下文](上下文.md), [发布](发布.md), [开源](开源.md), [模型](模型.md), [直接](直接.md)
+[上下文](上下文.md), [参数](参数.md), [发布](发布.md), [开源](开源.md), [模型](模型.md), [直接](直接.md)
 ___
 ##### 2026-07-18 00:05:33 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 彭博多家媒体分析认为，今天半导体、芯片股的加剧下跌，除了人们担心，现在的数据中心支出，未来靠人工智能难以预期回本以外。也有中国 Kimi K3 开源模型突然推出的影响，不少欧美投资者将其与去年的 DeepSeek 时刻对比，行业可能正陷入价格战（最终…
@@ -166,7 +166,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%8F%91%E5%B8%83Kimi+K3%E6%96%B0%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%B9%B6%E8%AE%A1%E5%88%92%E5%9C%A8%E6%9C%AC%E6%9C%88%E5%BA%95%E5%89%8D%E5%B0%86%E5%85%B6%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8CKimi+K3%E6%8B%A5%E6%9C%892.8%E4%B8%87%E4%BA%BF%E4%B8%AA%E4%B8%BB%E5%AF%BC%E5%86%B3%E7%AD%96%E7%9A%84%E5%8F%82%E6%95%B0%EF%BC%8C%E6%98%AF%E7%9B%AE%E5%89%8D%E5%85%A8%E7%90%83%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E3%80%82https%3A%2F%2Ft.co%2Fjb7i2ZyACy)
 ##### Other Words/Names of Interest in the Above Tweet
-[主导](主导.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [规模](规模.md), [计划](计划.md)
+[主导](主导.md), [参数](参数.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [规模](规模.md), [计划](计划.md)
 ___
 ##### 2026-07-17 10:40:40 UTC ~ 外汇交易员
 > RT @fxtrader: 彭博社将周五亚洲AI和半导体股票大幅下跌归因于月之暗面Kimi K3大模型的发布，将此次发布描述为类似以往“DeepSeek时刻”的“Kimi时刻”，投资者质疑AI行业巨额支出的合理性越来越难以站得住脚。而K3展现的能力优于在港上市的智谱和Min…
@@ -180,7 +180,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40iamai_omni%3A+Kimi+%E8%BF%99%E4%B9%88%E6%8B%BF%E8%B4%A7+Blackwell+%E6%98%BE%E7%84%B6%E6%98%AF%E6%9C%89%E7%90%86%E7%94%B1%E7%9A%84%EF%BC%8C%E4%BB%85%E4%BB%85%E4%B8%BA%E4%BA%86%E5%9C%A8%E7%A1%85%E8%8A%AF%E7%89%87%E4%B8%8A%E5%AE%B9%E7%BA%B3%E4%B8%80%E4%B8%AA+2.8T+%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%EF%BC%88%E5%B9%B6%E4%BB%A5+FP16+%E9%87%8F%E5%8C%96%E8%BF%90%E8%A1%8C%E5%AE%83%EF%BC%89%EF%BC%8C%E4%BD%A0%E5%B0%B1%E9%9C%80%E8%A6%81+5.6TB+%E7%9A%84+VRAM%E2%80%94%E2%80%94%E5%A4%A7%E8%87%B4%E7%9B%B8%E5%BD%93%E4%BA%8E+44+%E5%8F%B0+Mac+Studio%EF%BC%8C%E6%88%96+15+%E5%8F%B0+Blackwel%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [模型](模型.md), [硅](硅.md), [芯片](芯片.md), [量化](量化.md)
+[Mac](Mac.md), [参数](参数.md), [模型](模型.md), [硅](硅.md), [芯片](芯片.md), [量化](量化.md)
 ___
 ##### 2026-07-17 10:11:08 UTC ~ Macro_Lin｜市场观察
 > RT @LinQingV: 如果Kimi-K3的表现真的如这个排行榜所示，那就是在继续证明一件事情：模型训练侧没什么护城河，各frontier AI labs的竞争只会白热化，单个公司维持不了持续碾压的优势。那OAI跟Anthropic的估值故事未来会怎么样来叙述？
@@ -215,7 +215,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%B0%B1%E5%9C%A8%E5%88%9A%E5%88%9A%EF%BC%8C+Kimi+%E5%8F%91%E4%BA%86%E4%B8%AA+1T+%E5%A4%A7%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E3%80%82%E3%80%82%E6%80%BB%E5%8F%82%E6%95%B0%E9%87%8F+1T+%E5%95%8A%EF%BC%8C%E7%AB%9F%E7%84%B6%E8%BF%98%E6%98%AF%E5%BC%80%E6%BA%90%E7%9A%84%EF%BC%8C%E8%BF%99%E9%83%A8%E7%BD%B2%E5%8E%8B%E5%8A%9B%E6%9C%89%E7%82%B9%E5%A4%A7+%F0%9F%98%82%E4%B8%8D%E8%BF%87%E6%BF%80%E6%B4%BB%E5%8F%82%E6%95%B0%E5%8F%AA%E6%9C%8932B%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AF%E7%9B%B8%E5%BD%93%E6%9E%81%E9%99%90%E7%9A%84+MoE%E6%A8%A1%E5%9E%8B%E6%8C%87%E6%A0%87%E7%9A%84%E4%B8%89%E5%A4%A7%E5%BC%BA%E9%A1%B9%EF%BC%9A%E8%87%AA%E4%B8%BB%E7%BC%96%E7%A8%8B+Agentic+Coding%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8+Tool+Use%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[压力](压力.md), [工具](工具.md), [开源](开源.md), [模型](模型.md)
+[压力](压力.md), [参数](参数.md), [工具](工具.md), [开源](开源.md), [模型](模型.md)
 ___
 ##### 2025-07-12 19:39:45 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能（AI）初创公司月之暗面（Moonshot AI）星期五（7月11日）发布全新开源模型Kimi K2，意图在日益激烈的国内AI竞争中重夺领先地位。 https://t.co/BpryCuJbQY

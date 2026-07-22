@@ -24,7 +24,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Xudong07452910%3A+Hacker+News+%E4%B8%8A%E6%9C%89%E4%B8%80%E7%AF%87%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%81%AB%E4%BA%86%E7%9A%84%E6%96%87%E7%AB%A0%EF%BC%9AQwen+3.6+27B+%E6%98%AF%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91%E7%9A%84%E7%90%86%E6%83%B3%E9%80%89%E6%8B%A9%E3%80%82%E6%A0%B8%E5%BF%83%E5%8F%91%E7%8E%B0%E6%98%AF%EF%BC%9A%E5%AF%86%E9%9B%86%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%E3%80%81%E5%8E%9F%E7%94%9F%E6%94%AF%E6%8C%81+256k+%E4%B8%8A%E4%B8%8B%E6%96%87%EF%BC%8C%E5%9C%A8+MacBook+Max+M5+%E4%B8%8A%E8%B7%91+Q8_0+%E9%87%8F%E5%8C%96%E7%89%88%E8%83%BD%E8%BE%BE%E5%88%B0+30+tokens%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [上下文](上下文.md), [开发](开发.md), [支持](支持.md), [核心](核心.md), [模型](模型.md), [量化](量化.md)
+[Mac](Mac.md), [上下文](上下文.md), [参数](参数.md), [开发](开发.md), [支持](支持.md), [核心](核心.md), [模型](模型.md), [量化](量化.md)
 ___
 ##### 2026-03-04 16:37:43 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 什么情况！昨天马斯克刚夸赞完阿里的 Qwen，然后今天上午多位技术负责人、骨干，相继宣布离职。字节跳动：都是同行的衬托。 https://t.co/bPsduWoTzP
@@ -206,21 +206,21 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+Qwen3+%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88%E6%9C%AC%E9%A9%AC%E4%B8%8A%E5%B0%B1%E8%A6%81%E5%8F%91%E5%B8%83%E5%95%A6%EF%BC%8C%E7%9B%AE%E5%89%8DQwen%E5%B7%B2%E7%BB%8F%E7%BB%99transformer%E6%8F%90PR%E4%BA%86%EF%BC%88%E4%B8%BA%E4%BA%86%E6%94%AF%E6%8C%81%E6%96%B0%E6%A8%A1%E5%9E%8B%EF%BC%89%E4%BB%8E%E4%BB%A3%E7%A0%81%E4%B8%8A%E5%BC%80%EF%BC%8C%E8%BF%99%E6%AC%A1%E5%BC%80%E6%BA%90%E7%9A%84%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%A8%A1%E5%9E%8B%EF%BC%88%E5%9B%BE2%EF%BC%8C%E5%9B%BE3%EF%BC%89%EF%BC%8C%E5%88%86%E5%88%AB%E6%98%AF%EF%BC%9AQwen3-15B-A2B+%EF%BC%88%E8%BF%99%E6%98%AF%E4%B8%AAMoE%EF%BC%8CA2B%E7%9A%84%E6%84%8F%E6%80%9D%E6%98%AF%E6%BF%80%E6%B4%BB%E5%8F%82%E6%95%B0%E6%98%AF2B%EF%BC%89Q%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [发布](发布.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
+[代码](代码.md), [参数](参数.md), [发布](发布.md), [开源](开源.md), [支持](支持.md), [模型](模型.md)
 ___
 ##### 2025-03-21 15:16:58 UTC ~ 
 > RT @imxiaohu: Fin-R1：基于Qwen2.5-7B 并通过强化学习训练金融推理模型 在多项金融基准测试中SOTA 水平Fin-R1（强化后），以仅 7B 参数，超越大多数同规模乃至数十倍规模模型，部分关键任务甚至拿下第一。在FinQA（金融表格推理）…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+Fin-R1%EF%BC%9A%E5%9F%BA%E4%BA%8EQwen2.5-7B+%E5%B9%B6%E9%80%9A%E8%BF%87%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E8%AE%AD%E7%BB%83%E9%87%91%E8%9E%8D%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B+%E5%9C%A8%E5%A4%9A%E9%A1%B9%E9%87%91%E8%9E%8D%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%ADSOTA+%E6%B0%B4%E5%B9%B3Fin-R1%EF%BC%88%E5%BC%BA%E5%8C%96%E5%90%8E%EF%BC%89%EF%BC%8C%E4%BB%A5%E4%BB%85+7B+%E5%8F%82%E6%95%B0%EF%BC%8C%E8%B6%85%E8%B6%8A%E5%A4%A7%E5%A4%9A%E6%95%B0%E5%90%8C%E8%A7%84%E6%A8%A1%E4%B9%83%E8%87%B3%E6%95%B0%E5%8D%81%E5%80%8D%E8%A7%84%E6%A8%A1%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%83%A8%E5%88%86%E5%85%B3%E9%94%AE%E4%BB%BB%E5%8A%A1%E7%94%9A%E8%87%B3%E6%8B%BF%E4%B8%8B%E7%AC%AC%E4%B8%80%E3%80%82%E5%9C%A8FinQA%EF%BC%88%E9%87%91%E8%9E%8D%E8%A1%A8%E6%A0%BC%E6%8E%A8%E7%90%86%EF%BC%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [推理](推理.md), [模型](模型.md), [水平](水平.md), [规模](规模.md), [金](金.md), [金融](金融.md)
+[关键](关键.md), [参数](参数.md), [推理](推理.md), [模型](模型.md), [水平](水平.md), [规模](规模.md), [金](金.md), [金融](金融.md)
 ___
 ##### 2025-03-17 05:25:08 UTC ~ karminski-牙医
 > RT @karminski3: 上周 HuggingFace 上最受关注的模型前10：sesame/csm-1b : 语音合成模型, 1B参数google/gemma-3-27b-it : 多模态模型, 27B参数Qwen/QwQ-32B : 具有推理能力的文本生成模型…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E4%B8%8A%E5%91%A8+HuggingFace+%E4%B8%8A%E6%9C%80%E5%8F%97%E5%85%B3%E6%B3%A8%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%89%8D10%EF%BC%9Asesame%2Fcsm-1b+%3A+%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90%E6%A8%A1%E5%9E%8B%2C+1B%E5%8F%82%E6%95%B0google%2Fgemma-3-27b-it+%3A+%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%2C+27B%E5%8F%82%E6%95%B0Qwen%2FQwQ-32B+%3A+%E5%85%B7%E6%9C%89%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E7%9A%84%E6%96%87%E6%9C%AC%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关注](关注.md), [推理](推理.md), [模型](模型.md)
+[关注](关注.md), [参数](参数.md), [推理](推理.md), [模型](模型.md)
 ___
 ##### 2025-03-11 15:45:58 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 昨天 Manus 的创始人之一 Peak 季逸超透露 Manus 主要使用的模型是 Cluade 和他们微调的 Qwen 模型。最近出圈的几个 AI 模型和产品背后都有 Qwen 的影子：比如 Deepseek R1 自己用来实验推理蒸馏的主要模型…
@@ -241,7 +241,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+%E5%8D%83%E9%97%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%B8%83%E4%BA%86+QwQ-32B%EF%BC%8C%E7%94%A8+32B+%E5%8F%82%E6%95%B0%E8%BE%BE%E5%88%B0%E4%BA%86+DeepSeek+R1+671B+%E7%9A%84%E5%90%8C%E7%AD%89%E6%8C%87%E6%A0%87%E3%80%82%E2%80%9C+%E8%BF%99%E6%AC%A1%EF%BC%8C%E6%88%91%E4%BB%AC%E7%A0%94%E7%A9%B6%E4%BA%86%E6%89%A9%E5%B1%95+RL+%E7%9A%84%E6%96%B9%E6%B3%95%EF%BC%8C%E5%B9%B6%E5%9F%BA%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84+Qwen2+%E5%8F%96%E5%BE%97%E4%BA%86%E4%B8%80%E4%BA%9B%E4%BB%A4%E4%BA%BA%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E6%88%90%E6%9E%9C%E3%80%82+5-32B+%E3%80%82%E6%88%91%E4%BB%AC%E5%8F%91%E7%8E%B0+RL+%E8%AE%AD%E7%BB%83%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%96%AD%E6%8F%90%E9%AB%98%E6%80%A7%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [千问](千问.md), [发布](发布.md), [提高](提高.md)
+[DeepSeek](DeepSeek.md), [千问](千问.md), [参数](参数.md), [发布](发布.md), [提高](提高.md)
 ___
 ##### 2025-02-23 05:47:47 UTC ~ AIGCLINK
 > RT @aigclink: 一个稳定有良好泛化能力的R1风格视觉语言模型：VLM-R1，把DeepSeek的R1方法用到了视觉上模型上，增强了模型稳定性和泛化能力基于Qwen2.5-VL 构建，能同时处理图像和文本输入，特别强化了对图像中特定目标的定位能力擅长指代表达类…

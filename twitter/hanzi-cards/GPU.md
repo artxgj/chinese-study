@@ -152,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%83%B3%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%94%B5%E8%84%91%E4%B8%8A%E8%B7%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%84%E7%90%86%E9%95%BF%E6%96%87%E6%A1%A3%EF%BC%8C%E4%BD%86%E5%8A%A8%E8%BE%84%E5%87%A0%E5%8D%81+GB+%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E8%AE%A9%E6%99%AE%E9%80%9A%E6%98%BE%E5%8D%A1%E6%A0%B9%E6%9C%AC%E5%90%83%E4%B8%8D%E6%B6%88%EF%BC%8C%E6%9B%B4%E5%88%AB%E8%AF%B4%E5%A4%84%E7%90%86+10+%E4%B8%87%E5%AD%97%E7%9A%84%E8%B6%85%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BA%86%E3%80%82%E6%97%A0%E7%8B%AC%E6%9C%89%E5%81%B6%EF%BC%8C%E6%89%BE%E5%88%B0%E4%BA%86+oLLM+%E8%BF%99%E4%B8%AA%E8%BD%BB%E9%87%8F%E5%8C%96%E6%8E%A8%E7%90%86%E5%BA%93%EF%BC%8C%E4%B8%93%E4%B8%BA%E6%B6%88%E8%B4%B9%E7%BA%A7+GPU+%E4%BC%98%E5%8C%96%EF%BC%8C%E7%94%A8+8GB+%E6%98%BE%E5%AD%98%E5%B0%B1%E8%83%BD%E8%B7%91+80B+%E5%8F%82%E6%95%B0%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [上下文](上下文.md), [优化](优化.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
+[LLM](LLM.md), [上下文](上下文.md), [优化](优化.md), [参数](参数.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
 ___
 ##### 2025-10-04 04:40:14 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【富士通與英偉達聯合開發AI半導體】雙方計劃在2030年前，將各自的半導體連接在同一塊基板上。利用英偉達的技術，實現GPU、CPU等多顆晶片像一顆晶片一樣的超高速互聯。海外科技企業普遍看好日本企業的節能技術……https://t.co/O…
@@ -250,7 +250,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+Llama+4+%E5%8F%91%E5%B8%83%EF%BC%8C%E6%9C%80%E7%8C%9B%E6%98%AF%E8%BE%BE%E5%88%B0%E4%BA%861000%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E9%95%BF%E5%BA%A6%EF%BC%81%E5%BC%80%E4%B8%AA%E5%B8%96%E5%AD%90%E8%AE%B0%E5%BD%95%E4%B8%80%E4%B8%8B%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF%EF%BC%9ALlama+4+Scout%EF%BC%9A17B%E6%B4%BB%E8%B7%83%E5%8F%82%E6%95%B0%E7%9A%84+16+%E4%BD%8D%E4%B8%93%E5%AE%B6MoE%E6%A8%A1%E5%9E%8B%EF%BC%8C1000+%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E7%AA%97%E5%8F%A3%EF%BC%8C%E4%BB%85%E9%9C%80%E5%8D%95%E4%B8%AA+NVIDIA+H100+GPU+%E5%8F%AF%E8%BF%90%E8%A1%8CLlama+4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上下文](上下文.md), [发布](发布.md), [模型](模型.md), [活跃](活跃.md)
+[上下文](上下文.md), [参数](参数.md), [发布](发布.md), [模型](模型.md), [活跃](活跃.md)
 ___
 ##### 2025-04-07 04:20:33 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 给 AI 开发者分享一份值得收藏的学习资源合集：Learning AI。涵盖了从基础理论到实践应用，包括分词技术、模型架构、GPU 加速、向量数据库、视觉技术等核心知识。GitHub：https://t.co/wHuYfcrxMh…
@@ -285,14 +285,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40myfxtrader%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE+%24NVDA+%E5%9C%A8NVIDIA+GTC+2025%E4%B8%8A%E5%AE%A3%E5%B8%83%E4%BA%86%E5%88%9B%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%9A%84+%23DeepSeek-R1%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E3%80%82%E5%9C%A8%E6%BB%A1%E8%A1%806710%E4%BA%BF%E5%8F%82%E6%95%B0DeepSeek-R1%E6%A8%A1%E5%9E%8B%E4%B8%8A%EF%BC%8C%E6%90%AD%E8%BD%BD8%E4%B8%AANVIDIA+Blackwell+GPU%E7%9A%84%E5%8D%95%E4%B8%AANVIDIA+DGX%E7%B3%BB%E7%BB%9F%E5%8F%AF%E5%AE%9E%E7%8E%B0%E6%AF%8F%E4%BD%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [实现](实现.md), [推理](推理.md), [模型](模型.md), [系统](系统.md), [纪录](纪录.md), [英伟达](英伟达.md)
+[DeepSeek](DeepSeek.md), [参数](参数.md), [实现](实现.md), [推理](推理.md), [模型](模型.md), [系统](系统.md), [纪录](纪录.md), [英伟达](英伟达.md)
 ___
 ##### 2025-03-18 15:12:00 UTC ~ johann.GPT
 > RT @ProgramerJohann: 腾讯玄武实验室优化方案让DeepSeek-R1实现家用部署！只需4万元硬件，功耗噪音与普通台式机相当，每秒可生成约10个汉字。关键在于优化内存带宽、CPU配置和系统参数。比起传统GPU方案（8张H20，150万+），成本降低97…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ProgramerJohann%3A+%E8%85%BE%E8%AE%AF%E7%8E%84%E6%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88%E8%AE%A9DeepSeek-R1%E5%AE%9E%E7%8E%B0%E5%AE%B6%E7%94%A8%E9%83%A8%E7%BD%B2%EF%BC%81%E5%8F%AA%E9%9C%804%E4%B8%87%E5%85%83%E7%A1%AC%E4%BB%B6%EF%BC%8C%E5%8A%9F%E8%80%97%E5%99%AA%E9%9F%B3%E4%B8%8E%E6%99%AE%E9%80%9A%E5%8F%B0%E5%BC%8F%E6%9C%BA%E7%9B%B8%E5%BD%93%EF%BC%8C%E6%AF%8F%E7%A7%92%E5%8F%AF%E7%94%9F%E6%88%90%E7%BA%A610%E4%B8%AA%E6%B1%89%E5%AD%97%E3%80%82%E5%85%B3%E9%94%AE%E5%9C%A8%E4%BA%8E%E4%BC%98%E5%8C%96%E5%86%85%E5%AD%98%E5%B8%A6%E5%AE%BD%E3%80%81CPU%E9%85%8D%E7%BD%AE%E5%92%8C%E7%B3%BB%E7%BB%9F%E5%8F%82%E6%95%B0%E3%80%82%E6%AF%94%E8%B5%B7%E4%BC%A0%E7%BB%9FGPU%E6%96%B9%E6%A1%88%EF%BC%888%E5%BC%A0H20%EF%BC%8C150%E4%B8%87%2B%EF%BC%89%EF%BC%8C%E6%88%90%E6%9C%AC%E9%99%8D%E4%BD%8E97%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [优化](优化.md), [传统](传统.md), [关键](关键.md), [噪音](噪音.md), [实现](实现.md), [带宽](带宽.md), [成本](成本.md), [方案](方案.md), [汉字](汉字.md), [系统](系统.md), [腾讯](腾讯.md), [降低](降低.md)
+[DeepSeek](DeepSeek.md), [优化](优化.md), [传统](传统.md), [关键](关键.md), [参数](参数.md), [噪音](噪音.md), [实现](实现.md), [带宽](带宽.md), [成本](成本.md), [方案](方案.md), [汉字](汉字.md), [系统](系统.md), [腾讯](腾讯.md), [降低](降低.md)
 ___
 ##### 2025-03-15 05:18:52 UTC ~ AIGCLINK
 > RT @aigclink: 酷，清华团队刚刚放出了模型推理引擎：赤兔Chitu，DeepSeek推理成本降一半，性能翻番在A800 集群上，用赤兔引擎部署DeepSeek-671B满血版推理服务，比vLLM部署方案，GPU数量不仅减少了50%，输出速度提升了3.15倍支…

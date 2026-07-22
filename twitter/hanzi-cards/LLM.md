@@ -40,7 +40,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%83%B3%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%94%B5%E8%84%91%E4%B8%8A%E8%B7%91%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%A4%84%E7%90%86%E9%95%BF%E6%96%87%E6%A1%A3%EF%BC%8C%E4%BD%86%E5%8A%A8%E8%BE%84%E5%87%A0%E5%8D%81+GB+%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E8%AE%A9%E6%99%AE%E9%80%9A%E6%98%BE%E5%8D%A1%E6%A0%B9%E6%9C%AC%E5%90%83%E4%B8%8D%E6%B6%88%EF%BC%8C%E6%9B%B4%E5%88%AB%E8%AF%B4%E5%A4%84%E7%90%86+10+%E4%B8%87%E5%AD%97%E7%9A%84%E8%B6%85%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BA%86%E3%80%82%E6%97%A0%E7%8B%AC%E6%9C%89%E5%81%B6%EF%BC%8C%E6%89%BE%E5%88%B0%E4%BA%86+oLLM+%E8%BF%99%E4%B8%AA%E8%BD%BB%E9%87%8F%E5%8C%96%E6%8E%A8%E7%90%86%E5%BA%93%EF%BC%8C%E4%B8%93%E4%B8%BA%E6%B6%88%E8%B4%B9%E7%BA%A7+GPU+%E4%BC%98%E5%8C%96%EF%BC%8C%E7%94%A8+8GB+%E6%98%BE%E5%AD%98%E5%B0%B1%E8%83%BD%E8%B7%91+80B+%E5%8F%82%E6%95%B0%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[GPU](GPU.md), [上下文](上下文.md), [优化](优化.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
+[GPU](GPU.md), [上下文](上下文.md), [优化](优化.md), [参数](参数.md), [处理](处理.md), [推理](推理.md), [模型](模型.md), [量化](量化.md)
 ___
 ##### 2025-09-13 10:04:17 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 关于 AI 工程的教程，网上很多都过于理论化，尤其缺少如何将基础模型真正应用到生产环境的资料。今天看到《AI Engineering》这本书籍就颇为不错，提供了从基础模型到实际应用的完整工程化框架。涵盖了 LLM 和多模态模型的适配方…
@@ -110,7 +110,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E5%85%84%E5%BC%9F%E4%BB%AC+%E4%B8%8D%E5%BE%97%E4%BA%86%F0%9F%99%83%E5%BE%AE%E8%BD%AF%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%80%E4%B8%AA%E8%83%BD%E5%B0%86%E6%A8%A1%E5%9E%8B%E5%8F%82%E6%95%B0%E5%8E%8B%E7%BC%A9%E5%88%B0%E5%8E%9F%E6%9D%A5%E7%9A%841%2F20+%E7%9A%84%E5%B7%A5%E5%85%B7+%E4%BD%BF%E5%BE%97%E5%9C%A8%E6%99%AE%E9%80%9A%E7%94%B5%E8%84%91CPU%E4%B8%8A%E8%B7%91100B%E5%8F%82%E6%95%B0%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E9%80%9F%E5%BA%A6%E6%8E%A5%E8%BF%91%E4%BA%BA%E7%B1%BB%E9%98%85%E8%AF%BB%E9%80%9F%E5%BA%A6%EF%BC%885%EF%BD%9E7+tokens%2Fsec%EF%BC%89%E6%94%AF%E6%8C%81%E5%9C%A8+ARM+%E5%92%8C+x86+CPU+%E4%B8%8A%E8%BF%90%E8%A1%8C+1+%E4%BD%8D+LLMs+%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[工具](工具.md), [开源](开源.md), [微软](微软.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [通电](通电.md), [速度](速度.md)
+[参数](参数.md), [工具](工具.md), [开源](开源.md), [微软](微软.md), [推理](推理.md), [支持](支持.md), [模型](模型.md), [通电](通电.md), [速度](速度.md)
 ___
 ##### 2025-04-21 02:55:15 UTC ~ 面条
 > RT @miantiao_me: 大模型的知识库都有截止时间，面对新版本的框架和库写出来的代码大概率没法用Context7 提供了 1800+ 热门库的 LLMs.txt 和 MCP Server 给大模型读取或者编辑器调用，由 Upstash 开源让 AI 更好的理解…

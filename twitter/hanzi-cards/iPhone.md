@@ -116,7 +116,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zmx8067%3A+%E8%8F%AF%E5%BC%B7%E5%8C%97%E5%85%A8%E9%AB%94%E8%B5%B7%E7%AB%8B%EF%BC%8C%E6%84%9F%E8%AC%9D%F0%9F%87%AE%F0%9F%87%B3%E5%8D%B0%E5%BA%A6%E5%A1%94%E5%A1%94%E9%9B%86%E5%9C%98%E6%95%85%E6%84%8F%E6%B4%A9%E9%9C%B2%E7%9A%84iPhone18%E8%A3%BD%E9%80%A0%E5%9C%96%E7%B4%99%E5%92%8C%E5%8F%83%E6%95%B8%E3%80%82%F0%9F%A4%A3+https%3A%2F%2Ft.co%2FAFvVJL4bWI)
 ##### Other Words/Names of Interest in the Above Tweet
-[印度](印度.md)
+[印度](印度.md), [參數](參數.md)
 ___
 ##### 2026-07-05 23:59:50 UTC ~ 高飞
 > RT @maide89699220: 史诗级泄密！苹果在印代工厂海量数据被黑，高达630GB的20万份机密文件流入暗网，不光有还未发布的iPhone 18 Pro信息，更有A20Pro芯片整个工艺流程验证良率调试，还有一大堆供应商的名单报价。 https://t.co/CZ6C…
@@ -877,7 +877,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B9%E6%9E%9CiPhone+17%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%87%8F%E4%BA%A7%E9%98%B6%E6%AE%B5%EF%BC%8C%E4%BD%9C%E4%B8%BA%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E7%9A%84%E4%B8%BB%E8%A6%81%E4%BB%A3%E5%B7%A5%E7%94%9F%E4%BA%A7%E5%95%86%EF%BC%8C%E5%8F%B0%E6%B9%BE%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%80%9A%E6%8A%A5%EF%BC%8C%E9%83%91%E5%B7%9E%E5%8E%82%E5%8C%BA%E6%AD%A3%E5%90%8C%E6%AD%A5%E5%90%AF%E5%8A%A8%E6%97%BA%E5%AD%A3%E6%8B%9B%E5%B7%A5%E3%80%82+https%3A%2F%2Ft.co%2F3OxVXP1KVH)
 ##### Other Words/Names of Interest in the Above Tweet
-[台湾](台湾.md), [启动](启动.md), [富士康](富士康.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [规模](规模.md), [量产](量产.md), [阶段](阶段.md)
+[台湾](台湾.md), [启动](启动.md), [富士康](富士康.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [规模](规模.md), [郑州](郑州.md), [量产](量产.md), [阶段](阶段.md)
 ___
 ##### 2025-08-19 11:51:16 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 未来两年，塔塔集团的工厂将占印度iPhone产量的一半。https://t.co/GdoEvWliPt https://t.co/ppNMccUHJL
@@ -1699,7 +1699,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%BE%9EiPhone%E5%88%B0EV%EF%BC%8C%E5%BE%9E%E9%84%AD%E5%B7%9E%E7%9C%8B%E4%B8%AD%E5%9C%8B%E3%80%91%E8%97%A4%E9%87%8E%E9%80%B8%E9%83%8E%EF%BC%9A%E9%84%AD%E5%B7%9E%E6%9B%BE%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84iPhone%E7%94%9F%E7%94%A3%E5%9C%B0%EF%BC%8C%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%84%AD%E5%B7%9E%E5%B7%A5%E5%BB%A0%E6%9B%BE%E6%9C%89%E7%B4%8435%E8%90%AC%E4%BA%BA%E5%B0%B1%E6%A5%AD%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%B7%B2%E9%99%8D%E8%87%B3%E5%8D%81%E5%B9%BE%E8%90%AC%E3%80%82%E8%80%8C%E6%AF%94%E4%BA%9E%E8%BF%AA%E9%84%AD%E5%B7%9E%E5%B7%A5%E5%BB%A0%E7%8F%BE%E5%9C%A8%E4%BB%A5%E3%80%8C%E4%B8%8D%E5%88%B0%E4%B8%80%E5%88%86%E9%90%98%E4%B8%80%E8%BC%9B%E3%80%8D%E7%9A%84%E9%80%9F%E5%BA%A6%E7%94%9F%E7%94%A3%E5%A4%9A%E6%AC%BE%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E3%80%82%E3%80%8C%E9%84%AD%E5%B7%9E%E7%9A%84%E7%94%A3%E6%A5%AD%E6%AD%A3%E9%80%90%E6%BC%B8%E5%BE%9E%E5%96%AE%E7%B4%94%E7%9A%84%E4%BB%A3%E5%B7%A5%E5%8A%A0%E5%B7%A5%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[加工](加工.md), [富士康](富士康.md), [比亞迪](比亞迪.md), [能源](能源.md), [速度](速度.md)
+[加工](加工.md), [富士康](富士康.md), [比亞迪](比亞迪.md), [能源](能源.md), [速度](速度.md), [鄭州](鄭州.md)
 ___
 ##### 2024-11-11 06:32:12 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【索尼4~9月凈利潤在新型感測器支撐下增長37%】索尼改善了新型半導體圖像感測器的良品率，趕上了正式向iPhone供貨。以圖像感測器為中心的半導體業務的營業利潤增至2.2倍，達到1290億日元，在全部6項業務中增長率最高……  htt…
@@ -2035,7 +2035,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%B7%9D%E7%A6%BB%E8%8B%B9%E6%9E%9CiPhone16%E7%B3%BB%E5%88%97%E4%BA%A7%E5%93%81%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E4%BB%85%E4%B8%80%E6%9C%88%E6%9C%89%E4%BD%99%EF%BC%8C%E5%A4%9A%E5%90%8D%E5%86%85%E9%83%A8%E5%91%98%E5%B7%A5%E5%90%91%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E9%80%8F%E9%9C%B2%EF%BC%8C%E5%AF%8C%E5%A3%AB%E5%BA%B7%E7%9A%84%E9%83%91%E5%B7%9E%E5%B7%A5%E5%8E%82%E5%B7%B2%E5%8A%A0%E5%A4%A7%E9%A9%AC%E5%8A%9B%EF%BC%8C%E5%BC%80%E5%A7%8B%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7iPhone16%E3%80%82+https%3A%2F%2Ft.co%2Fu6prQDBBHz)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [富士康](富士康.md), [正式](正式.md), [系列](系列.md), [苹果](苹果.md), [距离](距离.md), [透露](透露.md), [量产](量产.md)
+[发布](发布.md), [富士康](富士康.md), [正式](正式.md), [系列](系列.md), [苹果](苹果.md), [距离](距离.md), [透露](透露.md), [郑州](郑州.md), [量产](量产.md)
 ___
 ##### 2024-08-05 15:14:43 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 即将推出其内建人工智能手机的美国苹果公司iPhone，在中国市场销售愈来愈艰难。https://t.co/mRluezogOG https://t.co/I9GWR0fsbC

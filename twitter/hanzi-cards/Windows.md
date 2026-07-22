@@ -89,7 +89,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E5%BE%AE%E8%BD%AF%E8%B5%84%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%80%8F%E9%9C%B2+%23Windows7+%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%9C%A8%E8%AE%BE%E7%BD%AE%E7%BA%AF%E8%89%B2%E8%83%8C%E6%99%AF%E5%90%8E%E5%BC%80%E6%9C%BA%E4%BC%9A%E5%8D%A1%E9%A1%BF+30+%E7%A7%92%EF%BC%9A%E7%AE%80%E5%8D%95%E6%9D%A5%E8%AF%B4%E5%B0%B1%E6%98%AF%E4%BB%A3%E7%A0%81%E9%80%BB%E8%BE%91%E5%AD%98%E5%9C%A8%E9%97%AE%E9%A2%98%E3%80%82+Windows+%E5%BC%80%E6%9C%BA%E6%97%B6%E4%BC%9A%E5%90%AF%E5%8A%A8%E5%A4%9A%E4%B8%AA%E7%BB%84%E4%BB%B6%EF%BC%8C%E6%AF%8F%E4%B8%AA%E7%BB%84%E4%BB%B6%E4%BC%9A%E5%8F%91%E9%80%81%E5%87%86%E5%A4%87%E5%B0%B1%E7%BB%AA%E4%BF%A1%E5%8F%B7%EF%BC%8C%E8%80%8C%E8%B4%9F%E8%B4%A3%E6%A3%80%E6%B5%8B%E6%A1%8C%E9%9D%A2%E8%83%8C%E6%99%AF%E7%9A%84%E5%87%BD%E6%95%B0%E5%AD%98%E5%9C%A8+BUG%EF%BC%8C%E5%A6%82%E6%9E%9C%E6%97%A0%E6%B3%95%E6%A3%80%E6%B5%8B%E5%88%B0%E5%9B%BE%E7%89%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[代码](代码.md), [启动](启动.md), [微软](微软.md), [检测](检测.md), [透露](透露.md), [逻辑](逻辑.md)
+[代码](代码.md), [函数](函数.md), [启动](启动.md), [微软](微软.md), [检测](检测.md), [透露](透露.md), [逻辑](逻辑.md)
 ___
 ##### 2025-04-30 03:50:58 UTC ~ Geek
 > RT @geekbb: 打造最强 Mac mini！软路由＋电视盒子+NAS+Windows，一机多用 All in one 教程📺 https://t.co/QUFx0Vzpjh当前 Mac mini M4 的价格🤣，让黑苹果的性价比讨论变得毫无意义，倒是更适合改造成一台…
