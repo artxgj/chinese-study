@@ -78,7 +78,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [铅](../hanzi-cards/铅.md)/[鉛](../hanzi-cards/鉛.md) | lead (element 82, Pb) |
 | [铋](../hanzi-cards/铋.md)/[鉍](../hanzi-cards/鉍.md) | bismuth (element 83, Bi) |
 | [鈁](../hanzi-cards/鈁.md) | francium (element 87, Fr) |
-| [鐳](../hanzi-cards/鐳.md) | radium (element 88, Ra) |
+| [镭](../hanzi-cards/镭.md) | radium (element 88, Ra) |
 | [锕](../hanzi-cards/锕.md) | actinium (element 89, Ac) |
 | [钍](../hanzi-cards/钍.md) | thorium (element 90, Th) |
 | [铀](../hanzi-cards/铀.md)/[鈾](../hanzi-cards/鈾.md) | uranium (element 92, U) |
