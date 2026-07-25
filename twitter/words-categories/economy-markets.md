@@ -24,7 +24,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [罢工](../hanzi-cards/罢工.md) | go on strike |
 | [市占率](../hanzi-cards/市占率.md)/[市佔率](../hanzi-cards/市佔率.md) | market share |
 | [专利](../hanzi-cards/专利.md) | patent |
-| [吹哨人](../hanzi-cards/吹哨人.md) | Whistleblower |
+| [吹哨人](../hanzi-cards/吹哨人.md) | whistleblower |
 | [招聘](../hanzi-cards/招聘.md) | invite applications for a job; engage (by public notice, advertisements, etc.) |
 | [营销](../hanzi-cards/营销.md) | (verb) market; marketing |
 | [亚太经济合作组织](../hanzi-cards/亚太经济合作组织.md)/[亞太經合組織](../hanzi-cards/亞太經合組織.md) | APEC |
@@ -157,6 +157,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [主权财富基金](../hanzi-cards/主权财富基金.md) | sovereign wealth fund |
 | [利润率](../hanzi-cards/利润率.md) | profit margin |
 | [去美元化](../hanzi-cards/去美元化.md) | dedollarization |
+| [去中国化](../hanzi-cards/去中国化.md)/[去中國化](../hanzi-cards/去中國化.md) | desinicize |
 | [债务上限](../hanzi-cards/债务上限.md) | debt ceiling |
 | [裁员](../hanzi-cards/裁员.md) | reduce (or cut) staff; layoff employees |
 | [销售额](../hanzi-cards/销售额.md)/[銷售額](../hanzi-cards/銷售額.md) | sales (volume) |
@@ -188,6 +189,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [行情](../hanzi-cards/行情.md) | market price; quotation of market price; the current market situation |
 | [复合年增长率](../hanzi-cards/复合年增长率.md) | compound annual growth rate |
 | [杠杆](../hanzi-cards/杠杆.md)/[槓桿](../hanzi-cards/槓桿.md) | financial leverage; lever; pry bar; crowbar |
+| [现金流](../hanzi-cards/现金流.md) | cash flow |
 ## Energy
 |  |  |
 | ----- | :---: |

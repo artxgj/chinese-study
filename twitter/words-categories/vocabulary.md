@@ -33,8 +33,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [曙光](../hanzi-cards/曙光.md) | first light of morning; dawn |
 | [不可抗力](../hanzi-cards/不可抗力.md) | force majeure |
 | [北溪](../hanzi-cards/北溪.md) | Nord Stream |
-| [北极](../hanzi-cards/北极.md) | Arctic/North Pole |
-| [南极](../hanzi-cards/南极.md) | Antarctica |
 | [涡轮机](../hanzi-cards/涡轮机.md) | turbine |
 | [反应堆](../hanzi-cards/反应堆.md) | reactor |
 | [考古学家](../hanzi-cards/考古学家.md) | archaeologist |
@@ -105,7 +103,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [爆炸](../hanzi-cards/爆炸.md) | explosion; explode; detonate |
 | [反弹](../hanzi-cards/反弹.md) | rebound |
 | [躲过](../hanzi-cards/躲过.md) | dodge |
-| [萨哈林](../hanzi-cards/萨哈林.md) | Sakhalin |
 | [资源](../hanzi-cards/资源.md)/[資源](../hanzi-cards/資源.md) | resource |
 | [众议院](../hanzi-cards/众议院.md) | House of Representatives |
 | [参议院](../hanzi-cards/参议院.md) | Senate |
@@ -149,7 +146,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [发霉](../hanzi-cards/发霉.md) | to become moldy |
 | [食人鱼](../hanzi-cards/食人鱼.md) | piranha |
 | [梯田](../hanzi-cards/梯田.md) | terraces |
-| [细菌](../hanzi-cards/细菌.md) | bacterium; bacteria;bacterial |
 | [预算](../hanzi-cards/预算.md) | budget |
 | [流媒体](../hanzi-cards/流媒体.md) | streaming media |
 | [隐私](../hanzi-cards/隐私.md) | privacy |
@@ -159,7 +155,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [贫困](../hanzi-cards/贫困.md) | poverty; impoverished; poor |
 | [雨林](../hanzi-cards/雨林.md) | rainforest |
 | [平方](../hanzi-cards/平方.md) | second power (of a quantity); square |
-| [苏伊士运河](../hanzi-cards/苏伊士运河.md) | Suez Canal |
 | [海底火山](../hanzi-cards/海底火山.md) | submarine volcano |
 | [火山](../hanzi-cards/火山.md) | volcano |
 | [眯眯眼](../hanzi-cards/眯眯眼.md) | squinted eyes |
@@ -554,7 +549,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [珠穆朗玛峰](../hanzi-cards/珠穆朗玛峰.md) | Mount Everest |
 | [付款](../hanzi-cards/付款.md) | to pay a sum of money; payment |
 | [微信](../hanzi-cards/微信.md) | WeChat |
-| [去中国化](../hanzi-cards/去中国化.md)/[去中國化](../hanzi-cards/去中國化.md) | desinicize |
 | [搜索](../hanzi-cards/搜索.md) | search (computing); search for; hunt for; scout around |
 | [灵活](../hanzi-cards/灵活.md) | nimble; agile; quick; flexible; elastic |
 | [接口](../hanzi-cards/接口.md) | interface; gateway; port; connector |
@@ -661,7 +655,6 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [熠熠](../hanzi-cards/熠熠.md) | sparkling; glittering; bright; glistening |
 | [产能过剩](../hanzi-cards/产能过剩.md)/[產能過剩](../hanzi-cards/產能過剩.md) | overcapacity |
 | [地质](../hanzi-cards/地质.md)/[地質](../hanzi-cards/地質.md) | geology |
-| [好望角](../hanzi-cards/好望角.md) | Cape of Good Hope |
 | [绕道](../hanzi-cards/绕道.md)/[繞道](../hanzi-cards/繞道.md) | make a detour; go by a roundabout way |
 | [馴鹿](../hanzi-cards/馴鹿.md) | reindeer |
 | [高峰期](../hanzi-cards/高峰期.md) | peak period; rush hour |
@@ -683,3 +676,5 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [语义](../hanzi-cards/语义.md) | meaning of words; semantic |
 | [取代](../hanzi-cards/取代.md) | to replace; to supersede; to supplant |
 | [尴尬](../hanzi-cards/尴尬.md) | (of a situation) awkward; difficult; embarassed; uneasy |
+| [震荡](../hanzi-cards/震荡.md) | shake; shock; vibrate; quake; vibe (like vibe coding) |
+| [脆弱](../hanzi-cards/脆弱.md) | fragile; frail; weak |

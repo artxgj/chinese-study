@@ -15,25 +15,28 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [越南](../hanzi-cards/越南.md) | Vietnam |
 | [泰国](../hanzi-cards/泰国.md)/[泰國](../hanzi-cards/泰國.md) | Thailand |
 | [老挝](../hanzi-cards/老挝.md)/[老撾](../hanzi-cards/老撾.md) | Laos |
+| [巴勒斯坦](../hanzi-cards/巴勒斯坦.md) | Palestine |
 | [印度](../hanzi-cards/印度.md) | India |
 | [斯里兰卡](../hanzi-cards/斯里兰卡.md) | Sri Lanka |
 | [朝鮮](../hanzi-cards/朝鮮.md) | North Korea |
-| [汤加](../hanzi-cards/汤加.md) | Tonga |
-| [哈萨克斯坦](../hanzi-cards/哈萨克斯坦.md) | Kazakhstan |
 | [俄罗斯](../hanzi-cards/俄罗斯.md)/[俄羅斯](../hanzi-cards/俄羅斯.md) | Russia |
+| [哈萨克斯坦](../hanzi-cards/哈萨克斯坦.md) | Kazakhstan |
+| [吉爾吉斯斯坦](../hanzi-cards/吉爾吉斯斯坦.md) | Kyrgyzstan |
+| [塔吉克斯坦](../hanzi-cards/塔吉克斯坦.md) | Tajikistan |
 | [白罗斯](../hanzi-cards/白罗斯.md) | Belarus |
 | [冰岛](../hanzi-cards/冰岛.md) | Iceland |
 | [格陵兰](../hanzi-cards/格陵兰.md) | Greenland |
 | [苏格兰](../hanzi-cards/苏格兰.md) | Scotland |
 | [匈牙利](../hanzi-cards/匈牙利.md) | Hungary |
+| [黑山](../hanzi-cards/黑山.md) | Montenegro |
 | [土耳其](../hanzi-cards/土耳其.md) | Türkiye |
 | [希腊](../hanzi-cards/希腊.md) | Greece |
-| [巴勒斯坦](../hanzi-cards/巴勒斯坦.md) | Palestine |
 | [以色列](../hanzi-cards/以色列.md) | Israel |
 | [布基纳法索](../hanzi-cards/布基纳法索.md) | Burkina Faso |
 | [秘鲁](../hanzi-cards/秘鲁.md)/[秘魯](../hanzi-cards/秘魯.md) | Peru |
 | [委内瑞拉](../hanzi-cards/委内瑞拉.md)/[委內瑞拉](../hanzi-cards/委內瑞拉.md) | Venezuela |
 | [古巴](../hanzi-cards/古巴.md) | Cuba |
+| [汤加](../hanzi-cards/汤加.md) | Tonga |
 ## 2. World Cup 2022 Countries
 |  |  |
 | ----- | :---: |
@@ -73,9 +76,10 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [峇厘岛](../hanzi-cards/峇厘岛.md) | Bali |
-| [北海道](../hanzi-cards/北海道.md) | Hokkaido |
-| [冲绳](../hanzi-cards/冲绳.md) | Okinawa |
 | [霍爾木茲](../hanzi-cards/霍爾木茲.md)/[荷姆茲](../hanzi-cards/荷姆茲.md) | Hormuz |
+| [萨哈林](../hanzi-cards/萨哈林.md) | Sakhalin |
+| [冲绳](../hanzi-cards/冲绳.md) | Okinawa |
+| [北海道](../hanzi-cards/北海道.md) | Hokkaido |
 | [加拉帕戈斯群岛](../hanzi-cards/加拉帕戈斯群岛.md) | Galapagos Islands |
 ## 4. Region
 |  |  |
@@ -84,9 +88,12 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [西伯利亚](../hanzi-cards/西伯利亚.md) | Siberia |
 | [克里米亚](../hanzi-cards/克里米亚.md) | Crimea |
 | [卡帕多奇亚](../hanzi-cards/卡帕多奇亚.md) | Cappadocia |
+| [北极](../hanzi-cards/北极.md) | Arctic/North Pole |
+| [南极](../hanzi-cards/南极.md) | Antarctica |
 ## 5. Cities
 |  |  |
 | ----- | :---: |
+| [加沙](../hanzi-cards/加沙.md) | Gaza |
 | [马尼拉](../hanzi-cards/马尼拉.md)/[馬尼拉](../hanzi-cards/馬尼拉.md) | Manila |
 | [宿务](../hanzi-cards/宿务.md) | Cebu |
 | [槟城](../hanzi-cards/槟城.md) | Penang |
@@ -95,7 +102,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 | [莫斯科](../hanzi-cards/莫斯科.md) | Moscow |
 | [米兰](../hanzi-cards/米兰.md) | Milan |
 | [柏林](../hanzi-cards/柏林.md) | Berlin |
-| [加沙](../hanzi-cards/加沙.md) | Gaza |
+| [雷克雅未克](../hanzi-cards/雷克雅未克.md) | Reykjavik |
 ## 6. US States
 |  |  |
 | ----- | :---: |
@@ -108,4 +115,7 @@ list of the curated words, check it out [here](words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [撒哈拉](../hanzi-cards/撒哈拉.md) | Sahara |
+| [好望角](../hanzi-cards/好望角.md) | Cape of Good Hope |
+| [东南亚](../hanzi-cards/东南亚.md)/[東南亞](../hanzi-cards/東南亞.md) | Southeast Asia |
 | [硅谷](../hanzi-cards/硅谷.md) | Silicon Valley |
+| [苏伊士运河](../hanzi-cards/苏伊士运河.md) | Suez Canal |

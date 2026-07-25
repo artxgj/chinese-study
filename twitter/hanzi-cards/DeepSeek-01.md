@@ -1213,7 +1213,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+DeepSeek%E5%B7%B2%E5%BC%95%E5%8F%91%E4%BA%86%E7%A1%85%E8%B0%B7%E7%9A%84%E6%83%8A%E5%8F%B9%E5%92%8C%E8%82%A1%E5%B8%82%E7%9A%84%E9%9C%87%E8%8D%A1%E3%80%82DeepSeek%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88DeepSeek%E5%BC%95%E5%8F%91%E4%BA%86%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%85%E5%BF%A7%EF%BC%9FDeepSeek%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%94%A8%EF%BC%9F%E8%B0%81%E5%8F%AF%E8%83%BD%E4%BB%8E%E8%BF%99%E5%9C%BA%E5%8A%A8%E8%8D%A1%E4%B8%AD%E8%8E%B7%E7%9B%8A%EF%BC%9F%E6%9C%AC%E6%96%87%E4%BB%8B%E7%BB%8D%E4%BA%86%E4%BD%A0%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E6%9C%89%E5%85%B3DeepSeek%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82https%3A%2F%2Ft.co%2FADpL%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[动荡](动荡.md), [引发](引发.md), [投资](投资.md), [投资者](投资者.md), [担忧](担忧.md), [硅](硅.md), [硅谷](硅谷.md)
+[动荡](动荡.md), [引发](引发.md), [投资](投资.md), [投资者](投资者.md), [担忧](担忧.md), [硅](硅.md), [硅谷](硅谷.md), [震荡](震荡.md)
 ___
 ##### 2025-01-28 09:27:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: DeepSeek让华尔街担心，开发模型的成本将低于预期。但随着芯片类股下跌，一些分析师看到了一线希望。如果企业开发AI模型所需的支出少于预期，那会怎样？https://t.co/P2LYJboUJp
