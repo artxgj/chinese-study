@@ -1,7 +1,7 @@
 # A Subset of Curated Words Extracted From Tweets
 
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
-list of the curated words, check it out [here](words_tweets_stats.md).
+list of the curated words, check it out [here](../words_tweets_stats.md).
 
 ## Vocabulary
 |  |  |
