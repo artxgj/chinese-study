@@ -256,7 +256,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%91%A8%E4%B8%80%E5%B1%95%E7%A4%BA%E4%BA%86%E6%96%B0%E7%89%88Siri%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%82%E8%BF%99%E9%A1%B9%E6%8A%80%E6%9C%AF%E6%98%AF%E4%B8%8E%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E7%9A%84%EF%BC%8C%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%B8%8C%E6%9C%9B%E5%80%9F%E6%AD%A4%E5%8A%A9%E5%8A%9B%E5%85%B6%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E9%87%8D%E6%8C%AF%E6%97%97%E9%BC%93%E3%80%82https%3A%2F%2Ft.co%2FuR9eqW24Nn)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [开发](开发.md), [技术](技术.md), [机器人](机器人.md), [聊天](聊天.md), [苹果](苹果.md), [谷歌](谷歌.md), [领域](领域.md)
+[人工智能](人工智能.md), [开发](开发.md), [技术](技术.md), [机器人](机器人.md), [聊天](聊天.md), [苹果](苹果.md), [谷歌](谷歌.md), [领域](领域.md)
 ___
 ##### 2026-06-02 15:38:16 UTC ~ TechNews 科技新報
 > RT @technews_tw: 蘋果計劃 2026 年下半年發布 iPhone 18 Pro 首次引入可變光圈主鏡頭！郭明錤透露新鏡頭模組採購成本較現有型號高約 50%。 #蘋果 #iPhone18Pro #可變光圈 https://t.co/O8V61cP5x5
@@ -534,7 +534,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%BB%8A%E5%B9%B4%E6%97%A9%E4%BA%9B%E6%97%B6%E5%80%99%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E9%81%AD%E5%8F%97%E9%87%8D%E5%88%9B%EF%BC%8C%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%9B%A0%E7%BC%BA%E4%B9%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%88%98%E7%95%A5%E8%80%8C%E5%B1%A1%E9%81%AD%E8%AF%9F%E7%97%85%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23apple+%23AIhttps%3A%2F%2Ft.co%2F6J4e0btYGm+https%3A%2F%2Ft.co%2Fd1F0TkiAm6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [战略](战略.md), [苹果](苹果.md), [遭受](遭受.md), [重创](重创.md)
+[人工智能](人工智能.md), [战略](战略.md), [苹果](苹果.md), [遭受](遭受.md), [重创](重创.md)
 ___
 ##### 2025-12-04 10:25:17 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果失宠？#南洋商报 #日本 #苹果 #APPLE #iPhonehttps://t.co/2i7bkgg8WU https://t.co/sRkfoWGA2W
@@ -660,7 +660,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%BC%80%E5%8F%91%E4%BA%86%E4%B8%80%E6%AC%BE%E7%B1%BB%E4%BC%BCChatGPT%E7%9A%84iPhone%E5%BA%94%E7%94%A8%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%98%8E%E5%B9%B4%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%A9%E6%89%8BSiri%E5%A4%A7%E6%94%B9%E7%89%88%E3%80%82+https%3A%2F%2Ft.co%2FrcKEhebJRj)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [开发](开发.md), [用于](用于.md), [苹果](苹果.md)
+[人工智能](人工智能.md), [开发](开发.md), [用于](用于.md), [苹果](苹果.md)
 ___
 ##### 2025-09-26 07:56:53 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 中国小米创办人、董事长兼CEO雷军星期四（9月25日）推出一款定价约630美元（约2659令吉）的智能手机，对标苹果刚刚发布的iPhone 17。#南洋商报 #雷军 #小米 #Xiaomi #iphonehttps://t.co/XSfww…
@@ -933,7 +933,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E9%9A%94%E5%A4%9C%E7%9B%98%E5%90%8E%E5%85%AC%E5%B8%83%E7%9A%84%E6%97%97%E8%88%B0iPhone%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF13%25%EF%BC%8C%E9%9B%86%E5%9B%A2%E8%90%A5%E4%B8%9A%E9%A2%9D%E4%B9%9F%E5%8F%96%E5%BE%9710%25%E5%A2%9E%E9%95%BF%EF%BC%8C%E6%98%AF%E5%85%AC%E5%8F%B8%E8%87%AA2021%E5%B9%B412%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AD%A3%E5%BA%A6%E8%90%A5%E4%B8%9A%E9%A2%9D%E5%A2%9E%E5%B9%85%E3%80%82%E9%99%A4%E4%BA%86%E8%90%A5%E4%B8%9A%E9%A2%9D%E4%B8%8E%E7%9B%88%E5%88%A9%E5%8F%8C%E5%8F%8C%E8%B6%85%E5%87%BA%E5%B8%82%E5%9C%BA%E9%A2%84%E6%B5%8B%E4%B9%8B%E5%A4%96%EF%BC%8C%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E5%BA%93%E5%85%8B%E8%BF%98%E8%AF%B4%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%86%E2%80%9C%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%8A%A0%E2%80%9D%E5%AE%83%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%95%E8%B5%84%E3%80%82+htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [增长](增长.md), [大幅](大幅.md), [季度](季度.md), [巨头](巨头.md), [执行](执行.md), [投资](投资.md), [盈利](盈利.md), [科技](科技.md), [苹果](苹果.md), [销量](销量.md), [除了](除了.md), [预测](预测.md), [首席执行官](首席执行官.md)
+[人工智能](人工智能.md), [增长](增长.md), [大幅](大幅.md), [季度](季度.md), [巨头](巨头.md), [执行](执行.md), [投资](投资.md), [盈利](盈利.md), [科技](科技.md), [苹果](苹果.md), [销量](销量.md), [除了](除了.md), [预测](预测.md), [首席执行官](首席执行官.md)
 ___
 ##### 2025-08-01 08:24:40 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司第三财季iPhone销售额远超华尔街预期，因一些美国消费者因担心关税可能导致价格上涨而提前抢购。财报的另一个亮点是，在经历了近年来的下滑之后，该公司当季在中国市场上的销售额增长了4%。https://t.co/gWICA5N5so
@@ -1017,7 +1017,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%90%91%E5%BC%80%E5%8F%91%E8%80%85%E5%BC%80%E6%94%BEAI%E6%A8%A1%E5%9E%8B%E3%80%91%E8%8B%B9%E6%9E%9C%28Apple%29%E5%B0%86%E9%A6%96%E6%AC%A1%E5%85%81%E8%AE%B8%E6%95%B0%E7%99%BE%E4%B8%87%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E8%80%85%E8%AE%BF%E9%97%AE%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E3%80%82%E8%BF%99%E5%AE%B6%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%B8%8C%E6%9C%9B%E5%80%9F%E5%8A%A9%E5%85%B6%E5%BA%9E%E5%A4%A7%E7%9A%84%E8%BD%AF%E7%A1%AC%E4%BB%B6%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%9C%A8%E7%AB%9E%E4%BA%89%E4%B8%AD%E8%8E%B7%E5%BE%97%E4%BC%98%E5%8A%BF%E3%80%82%E8%BF%99%E4%BA%9B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%9F%E8%83%BD%E9%A2%84%E8%AE%A1%E5%9C%A8%E7%A7%8B%E5%AD%A3%E5%90%91%E6%B6%88%E8%B4%B9%E8%80%85%E5%85%A8%E9%9D%A2%E6%8E%A8%E5%87%BA%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%BB%85%E9%80%82%E7%94%A8%E4%BA%8E%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E3%80%82https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [人工](人工.md), [人工智能](人工智能.md), [优势](优势.md), [允许](允许.md), [巨头](巨头.md), [开发](开发.md), [推出](推出.md), [模型](模型.md), [消费者](消费者.md), [生态](生态.md), [用于](用于.md), [科技](科技.md), [竞争](竞争.md), [系统](系统.md), [苹果](苹果.md), [获得](获得.md), [预计](预计.md)
+[Apple](Apple.md), [人工智能](人工智能.md), [优势](优势.md), [允许](允许.md), [巨头](巨头.md), [开发](开发.md), [推出](推出.md), [模型](模型.md), [消费者](消费者.md), [生态](生态.md), [用于](用于.md), [科技](科技.md), [竞争](竞争.md), [系统](系统.md), [苹果](苹果.md), [获得](获得.md), [预计](预计.md)
 ___
 ##### 2025-06-10 03:59:53 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司宣布对其系统应用进行了全面提升，并推出了一种名为“液态玻璃”的全新视觉设计，届时许多用户可能将必须重新学习如何使用iPhone等设备的某些功能。但关于去年宣布、现已推迟的Siri重大更新，我们并未听到任何细节。https://t.co/g…
@@ -1038,7 +1038,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B1%E5%9B%BD%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%EF%BC%8C%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%8E%E4%B8%AD%E5%9B%BD%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%90%88%E4%BD%9C%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%89%88iPhone%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%9C%8D%E5%8A%A1%E7%9A%84%E8%AE%A1%E5%88%92%EF%BC%8C%E6%AD%A3%E9%9D%A2%E4%B8%B4%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E7%9A%84%E5%AE%A1%E6%89%B9%E5%BB%B6%E8%BF%9F%E3%80%82+https%3A%2F%2Ft.co%2FT92BEqVbzo)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [审批](审批.md), [延迟](延迟.md), [推出](推出.md), [监管](监管.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md), [阿里巴巴](阿里巴巴.md), [面临](面临.md)
+[人工智能](人工智能.md), [审批](审批.md), [延迟](延迟.md), [推出](推出.md), [监管](监管.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md), [阿里巴巴](阿里巴巴.md), [面临](面临.md)
 ___
 ##### 2025-05-28 07:57:54 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 摩根士丹利的团队分析称，在美国生产iPhone的成本可能比在中国或东南亚高出75%，加之供应美国市场所需的工厂和熟练技工（包括机器人）数量之庞大，“即使是25%的关税也可能不足以激励苹果将30%的iPhone生产转移到美国”。https://t.…
@@ -1101,7 +1101,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E8%82%A1%E4%BB%B7%E6%98%9F%E6%9C%9F%E4%B8%80%EF%BC%885%E6%9C%8819%E6%97%A5%EF%BC%89%E5%BC%80%E7%9B%98%E5%90%8E%E4%B8%80%E5%BA%A6%E4%B8%8B%E6%BB%91%E8%BF%915%25%E3%80%82%E7%BE%8E%E5%9B%BD%E5%AA%92%E4%BD%93%E6%AD%A4%E5%89%8D%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AF%B9%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%8F%AF%E8%83%BD%E4%B8%8E%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%B0%86%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E5%BA%94%E7%94%A8%E4%BA%8EiPhone%E4%B8%8A%E8%A1%A8%E7%A4%BA%E6%8B%85%E5%BF%A7%E3%80%82+https%3A%2F%2Ft.co%2FxFsOyuMUH7)
 ##### Other Words/Names of Interest in the Above Tweet
-[下滑](下滑.md), [人工](人工.md), [人工智能](人工智能.md), [协议](协议.md), [巨头](巨头.md), [开盘](开盘.md), [技术](技术.md), [担忧](担忧.md), [特朗普](特朗普.md), [用于](用于.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [达成](达成.md), [阿里巴巴](阿里巴巴.md)
+[下滑](下滑.md), [人工智能](人工智能.md), [协议](协议.md), [巨头](巨头.md), [开盘](开盘.md), [技术](技术.md), [担忧](担忧.md), [特朗普](特朗普.md), [用于](用于.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [达成](达成.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-05-18 19:57:26 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 查克拉博蒂强调，由于零部件成本更高且工厂效率相对较低，在印度生产 iPhone的成本要高出5%至10%。#南洋商报 #apple #iphone #india #Chinahttps://t.co/ILC0VggbQf https://t…
@@ -1419,7 +1419,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8D%AE%E6%8A%A5%E6%9C%80%E6%97%A9%E5%B0%86%E4%BA%8E%E4%BB%8A%E5%B9%B45%E6%9C%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84iPhone%E6%89%8B%E6%9C%BA%E4%B8%8A%EF%BC%8C%E6%AD%A3%E5%BC%8F%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E3%80%82+https%3A%2F%2Ft.co%2FE8mUgbJMs2)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [正式](正式.md), [苹果](苹果.md)
+[人工智能](人工智能.md), [推出](推出.md), [正式](正式.md), [苹果](苹果.md)
 ___
 ##### 2025-02-13 05:13:21 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 虽然苹果公司没有选择与DeepSeek合作，但受访分析师认为，它与阿里巴巴联手也有一定看头，只是对iPhone在中国销量的支持力度还要看双方的合作进程有多快。 #苹果公司 #阿里巴巴 #DeepSeek https://t.co/Pfr8hbDAi4
@@ -1440,14 +1440,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E9%80%89%E6%8B%A9%E5%85%B6%E4%BD%9C%E4%B8%BA%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%87%BAiPhone%E7%9A%84Apple+Intelligence%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%9F%E8%83%BD%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%B7%B2%E6%8F%90%E4%BA%A4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%AE%A1%E6%89%B9%E3%80%82+https%3A%2F%2Ft.co%2FolWMBWw1BA)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [人工](人工.md), [人工智能](人工智能.md), [审批](审批.md), [推出](推出.md), [监管](监管.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
+[Apple](Apple.md), [人工智能](人工智能.md), [审批](审批.md), [推出](推出.md), [监管](监管.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-02-12 04:48:26 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 知情人士称，中国科技巨头阿里巴巴已与美国苹果公司建立合作伙伴关系，在中国为苹果手机iPhone开发人工智能（AI）功能。 https://t.co/n5R6ZsJXoL
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B7%B2%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%EF%BC%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%BA%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BAiPhone%E5%BC%80%E5%8F%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%8A%9F%E8%83%BD%E3%80%82+https%3A%2F%2Ft.co%2Fn5R6ZsJXoL)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [巨头](巨头.md), [开发](开发.md), [知情](知情.md), [知情人士](知情人士.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
+[人工智能](人工智能.md), [巨头](巨头.md), [开发](开发.md), [知情](知情.md), [知情人士](知情人士.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-02-08 07:35:03 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 彭博社报道，苹果公司（Apple）计划在未来几天内发布期待已久的新款 iPhone SE，希望通过更新平价机型来刺激销量，并吸引Android 用户换机。https://t.co/pFltL5VQ8f https://t.co/O8qeCsJ…
@@ -1503,7 +1503,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84iPhone%E6%89%8B%E6%9C%BA%E5%9C%A8%E8%87%B3%E5%85%B3%E9%87%8D%E8%A6%81%E7%9A%8412%E6%9C%88%E5%BD%93%E5%AD%A3%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D%EF%BC%8C%E8%A1%A8%E6%98%8E%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%BD%AF%E4%BB%B6%E5%B0%9A%E6%9C%AA%E8%83%BD%E4%B8%BA%E8%BF%99%E6%AC%BE%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%A7%E5%93%81%E5%BC%80%E5%90%AF%E6%96%B0%E7%9A%84%E5%A2%9E%E9%95%BF%E5%91%A8%E6%9C%9F%E3%80%82%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%85%AC%E5%B8%83%EF%BC%8C%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E9%94%80%E5%94%AE%E9%A2%9D%E4%B8%8B%E9%99%8D%E9%80%BE11%25%EF%BC%8C%E8%87%B3185%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BD%8E%E4%BA%8E%E5%88%86%E6%9E%90%E5%B8%88%E6%AD%A4%E5%89%8D%E9%A2%84%E6%9C%9F%E7%9A%84209%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FZAn3p%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [分析](分析.md), [分析师](分析师.md), [增长](增长.md), [苹果](苹果.md), [逾](逾.md), [销售](销售.md), [销售额](销售额.md), [销量](销量.md), [预期](预期.md)
+[人工智能](人工智能.md), [分析](分析.md), [分析师](分析师.md), [增长](增长.md), [苹果](苹果.md), [逾](逾.md), [销售](销售.md), [销售额](销售额.md), [销量](销量.md), [预期](预期.md)
 ___
 ##### 2025-01-25 04:51:44 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 许多人在担心伴侣出轨时会检查手机，但往往忽视了iPhone内建的一个APP，虽然它没有通讯功能，却能悄无声息地让小三谈情说爱。https://t.co/JDKOfaW4Mn https://t.co/zfg8QEhi6c
@@ -1545,7 +1545,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%80%E7%9B%B4%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E9%A2%86%E5%9F%9F%E5%8A%AA%E5%8A%9B%E8%BF%BD%E8%B5%B6%EF%BC%8C%E5%9C%A89%E6%9C%88%E6%8E%A8%E5%87%BAiPhone+16%E4%B9%8B%E5%90%8E%E5%88%86%E9%98%B6%E6%AE%B5%E6%8E%A8%E5%87%BA%E4%BA%86%E4%B8%80%E7%B3%BB%E5%88%97AI%E5%8A%9F%E8%83%BD%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23apple+%23iphone+%23AI+%23Chinahttps%3A%2F%2Ft.co%2FH7isuNVJ2g+https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[一直](一直.md), [人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [系列](系列.md), [苹果](苹果.md), [追赶](追赶.md), [阶段](阶段.md), [领域](领域.md)
+[一直](一直.md), [人工智能](人工智能.md), [推出](推出.md), [系列](系列.md), [苹果](苹果.md), [追赶](追赶.md), [阶段](阶段.md), [领域](领域.md)
 ___
 ##### 2025-01-12 01:25:26 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 天风证券分析师郭明錤10日表示，苹果公司（Apple）在中国的市占正在缩减，原因是iPhone出货量下滑。苹果公司同日股价收跌2.4%。https://t.co/uN1gO8YfMz https://t.co/p6weCwDp7e
@@ -1580,14 +1580,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%B8%80%E4%BD%8D%E5%88%86%E6%9E%90%E5%B8%88%E7%A7%B0%EF%BC%8C%E4%BB%96%E4%BC%B0%E8%AE%A1%E5%85%A8%E7%90%83%E5%A4%A7%E7%BA%A6%E6%9C%893%E4%BA%BF%E9%83%A8%E6%9C%BA%E9%BE%84%E8%B6%85%E8%BF%87%E5%9B%9B%E5%B9%B4%E7%9A%84iPhone%E3%80%82%E4%BB%96%E8%AE%A4%E4%B8%BA%EF%BC%8C%E9%9A%8F%E7%9D%80%E7%94%B1Apple+Intelligence%E9%A9%B1%E5%8A%A8%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8D%87%E7%BA%A7%E5%91%A8%E6%9C%9F%E5%BC%80%E5%A7%8B%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%9C%A8%E6%88%AA%E8%87%B39%E6%9C%88%E4%BB%BD%E7%9A%842025%E8%B4%A2%E5%B9%B4%E5%8F%AF%E8%83%BD%E5%94%AE%E5%87%BA%E5%88%9B%E7%BA%AA%E5%BD%95%E7%9A%842.4%E4%BA%BF%E9%83%A8%E6%88%96%E6%9B%B4%E5%A4%9A%E6%96%B0%E6%AC%BEiPhone%E3%80%82https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [人工](人工.md), [人工智能](人工智能.md), [分析](分析.md), [分析师](分析师.md), [升级](升级.md), [截至](截至.md), [纪录](纪录.md), [超过](超过.md), [随着](随着.md)
+[Apple](Apple.md), [人工智能](人工智能.md), [分析](分析.md), [分析师](分析师.md), [升级](升级.md), [截至](截至.md), [纪录](纪录.md), [超过](超过.md), [随着](随着.md)
 ___
 ##### 2024-12-24 02:41:24 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果公司市值正逼近4兆美元大关，有望成为史上首家市值达此门槛的企业。苹果令市场期待已久的人工智能（AI）功能，重振低迷的iPhone销售，投资人对此进展为之振奋。https://t.co/pEFcw6vbqo https://t.co/wwf…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B8%82%E5%80%BC%E6%AD%A3%E9%80%BC%E8%BF%914%E5%85%86%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3%EF%BC%8C%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E5%8F%B2%E4%B8%8A%E9%A6%96%E5%AE%B6%E5%B8%82%E5%80%BC%E8%BE%BE%E6%AD%A4%E9%97%A8%E6%A7%9B%E7%9A%84%E4%BC%81%E4%B8%9A%E3%80%82%E8%8B%B9%E6%9E%9C%E4%BB%A4%E5%B8%82%E5%9C%BA%E6%9C%9F%E5%BE%85%E5%B7%B2%E4%B9%85%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%8A%9F%E8%83%BD%EF%BC%8C%E9%87%8D%E6%8C%AF%E4%BD%8E%E8%BF%B7%E7%9A%84iPhone%E9%94%80%E5%94%AE%EF%BC%8C%E6%8A%95%E8%B5%84%E4%BA%BA%E5%AF%B9%E6%AD%A4%E8%BF%9B%E5%B1%95%E4%B8%BA%E4%B9%8B%E6%8C%AF%E5%A5%8B%E3%80%82https%3A%2F%2Ft.co%2FpEFcw6vbqo+https%3A%2F%2Ft.co%2Fwwf%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [低迷](低迷.md), [市值](市值.md), [投资](投资.md), [有望](有望.md), [苹果](苹果.md), [销售](销售.md), [门槛](门槛.md)
+[人工智能](人工智能.md), [低迷](低迷.md), [市值](市值.md), [投资](投资.md), [有望](有望.md), [苹果](苹果.md), [销售](销售.md), [门槛](门槛.md)
 ___
 ##### 2024-12-23 02:57:33 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 消息人士称，印度尼西亚政府已接受苹果公司将投资上调至10亿美元（约13亿6000万新元）的提案，并会解除苹果新手机iPhone 16在当地的禁售令。印尼虽然将此视为在这场拉锯战中的胜利，但分析认为，这场胜利可能只是短暂的。 https://t.co/…
@@ -1615,14 +1615,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8D%AE%E6%8A%A5%E6%AD%A3%E4%B8%8E%E8%85%BE%E8%AE%AF%E5%92%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%EF%BC%8C%E5%B0%B1%E5%B0%86%E4%BB%96%E4%BB%AC%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E6%95%B4%E5%90%88%E5%88%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BAiPhone%E4%B8%AD%E8%BF%9B%E8%A1%8C%E5%95%86%E8%B0%88%E3%80%82https%3A%2F%2Ft.co%2FhvZwnLEpoD)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [字节跳动](字节跳动.md), [整合](整合.md), [模型](模型.md), [腾讯](腾讯.md), [苹果](苹果.md), [进行](进行.md), [销售](销售.md)
+[人工智能](人工智能.md), [字节跳动](字节跳动.md), [整合](整合.md), [模型](模型.md), [腾讯](腾讯.md), [苹果](苹果.md), [进行](进行.md), [销售](销售.md)
 ___
 ##### 2024-12-19 11:08:16 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据路透援引未具名消息人士的话报道，苹果公司正在与腾讯和字节跳动就将这两家公司的人工智能模型整合到在中国销售的iPhone中进行讨论。https://t.co/wDBnx0AcOw
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E8%B7%AF%E9%80%8F%E6%8F%B4%E5%BC%95%E6%9C%AA%E5%85%B7%E5%90%8D%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%9A%84%E8%AF%9D%E6%8A%A5%E9%81%93%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E4%B8%8E%E8%85%BE%E8%AE%AF%E5%92%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B0%B1%E5%B0%86%E8%BF%99%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E6%95%B4%E5%90%88%E5%88%B0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E7%9A%84iPhone%E4%B8%AD%E8%BF%9B%E8%A1%8C%E8%AE%A8%E8%AE%BA%E3%80%82https%3A%2F%2Ft.co%2FwDBnx0AcOw)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [字节跳动](字节跳动.md), [整合](整合.md), [模型](模型.md), [腾讯](腾讯.md), [苹果](苹果.md), [进行](进行.md), [销售](销售.md)
+[人工智能](人工智能.md), [字节跳动](字节跳动.md), [整合](整合.md), [模型](模型.md), [腾讯](腾讯.md), [苹果](苹果.md), [进行](进行.md), [销售](销售.md)
 ___
 ##### 2024-12-19 11:06:35 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 在中国销售的最新iPhone由于欠缺AI功能，已经成为苹果的一大挫败，因而面临市占下滑的情势，因为来自华为等本土品牌的竞争加剧。#苹果 #AI #腾讯 #字节跳动 #南洋商报 https://t.co/hIMKZ6cqhl https://…
@@ -1839,7 +1839,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8C%85%E6%8B%AC%E7%BE%8E%E9%93%B6%E4%B8%8E%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E5%9C%A8%E5%86%85%E7%9A%84%E5%88%86%E6%9E%90%E5%B8%88%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%9F%E8%83%BD%E5%BB%B6%E5%90%8E%E6%8E%A8%E5%87%BA%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%9C%80%E6%96%B0%E6%89%8B%E6%9C%BAiPhone+16+Pro%E7%B3%BB%E5%88%97%E7%9A%84%E5%87%BA%E8%B4%A7%E6%97%B6%E9%97%B4%E5%8F%98%E7%9F%AD%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E6%81%90%E8%BE%83%E9%A2%84%E6%9C%9F%E6%9D%A5%E5%BE%97%E7%96%B2%E5%BC%B1%E3%80%82+https%3A%2F%2Ft.co%2F3T1G4AxDhe+https%3A%2F%2Ft.co%2FjbHxT1%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [分析](分析.md), [分析师](分析师.md), [包括](包括.md), [影响](影响.md), [推出](推出.md), [摩根大通](摩根大通.md), [显示](显示.md), [疲弱](疲弱.md), [系列](系列.md), [苹果](苹果.md), [银](银.md), [需求](需求.md), [预期](预期.md)
+[人工智能](人工智能.md), [分析](分析.md), [分析师](分析师.md), [包括](包括.md), [影响](影响.md), [推出](推出.md), [摩根大通](摩根大通.md), [显示](显示.md), [疲弱](疲弱.md), [系列](系列.md), [苹果](苹果.md), [银](银.md), [需求](需求.md), [预期](预期.md)
 ___
 ##### 2024-09-16 04:09:51 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 电商预售成绩单显示，中国苹果用户忠诚度仍高。#南洋商报 #苹果 #apple #iPhone16 https://t.co/VkqB6Q3o7q https://t.co/27xJurdJh1
@@ -2042,7 +2042,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E5%85%B6%E5%86%85%E5%BB%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8iPhone%EF%BC%8C%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%94%80%E5%94%AE%E6%84%88%E6%9D%A5%E6%84%88%E8%89%B0%E9%9A%BE%E3%80%82https%3A%2F%2Ft.co%2FmRluezogOG+https%3A%2F%2Ft.co%2FI9GWR0fsbC)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [愈来愈](愈来愈.md), [推出](推出.md), [美国](美国.md), [苹果](苹果.md), [销售](销售.md)
+[人工智能](人工智能.md), [愈来愈](愈来愈.md), [推出](推出.md), [美国](美国.md), [苹果](苹果.md), [销售](销售.md)
 ___
 ##### 2024-08-05 03:25:16 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【中國消費者遠離iPhone的勢頭不止】蘋果4月～6月的銷售額創出歴史新高。在美洲增長6％，歐洲增長8％，日本增長6％。但大中華區下滑7％，是唯一負增長的地區。華為等競爭對手的技術實力提升，導致作為iPhone代名詞的高性能蒙上陰影………

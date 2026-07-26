@@ -507,7 +507,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%88%86%E4%BA%AB%E4%B8%80%E4%B8%AA%E7%BD%91%E7%AB%99%E9%9B%86%E6%88%90%E4%BA%86+100%2B+%E4%B8%BB%E6%B5%81+MCP+%E6%9C%8D%E5%8A%A1%E7%9A%84%E5%88%97%E8%A1%A8%EF%BC%9AComposio+MCP+Server%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%81%E5%B8%82%E5%9C%BA%E8%90%A5%E9%94%80%E3%80%81%E7%94%9F%E4%BA%A7%E5%8A%9B%E7%AE%A1%E7%90%86%E3%80%81%E8%AE%BE%E8%AE%A1%E5%88%9B%E6%84%8F%E3%80%81%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%81%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E7%AD%89%E7%AD%89%E4%B8%8D%E5%90%8C%E9%A2%86%E5%9F%9F%E3%80%82%E9%93%BE%E6%8E%A5%EF%BC%9Ahttps%3A%2F%2Ft.co%2FMOlXqtVkC4%E5%90%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [分析](分析.md), [数据](数据.md), [文件](文件.md), [涵盖](涵盖.md), [生产](生产.md), [营销](营销.md), [设计](设计.md), [领域](领域.md)
+[人工智能](人工智能.md), [分析](分析.md), [数据](数据.md), [文件](文件.md), [涵盖](涵盖.md), [生产](生产.md), [营销](营销.md), [设计](设计.md), [领域](领域.md)
 ___
 ##### 2025-02-26 09:15:13 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 一套适用于 MCP（模型上下文）协议的苹果原生工具：Apple MCP tools。只需简单的几行代码，添加到 Claude 桌面配置中，即可授予访问苹果原生工具的权限。GitHub：https://t.co/2K9vr1Q9ed…

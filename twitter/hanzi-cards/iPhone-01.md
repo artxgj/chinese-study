@@ -62,7 +62,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E4%B8%8EOpenAI%E5%90%88%E4%BD%9C%E6%8E%A8%E5%87%BA%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E3%80%91%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%90%B9%E6%8D%A7%E2%80%9C%E8%8B%B9%E6%9E%9C%E6%99%BA%E8%83%BD%E2%80%9D%E5%8A%9F%E8%83%BD%E5%A5%97%E4%BB%B6%EF%BC%8C%E6%97%A8%E5%9C%A8%E8%B5%B6%E8%B6%85%E5%A4%A7%E5%9E%8B%E7%A7%91%E6%8A%80%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E3%80%82https%3A%2F%2Ft.co%2FbVhEBRCOHZ)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [旨在](旨在.md), [科技](科技.md), [竞争](竞争.md), [系统](系统.md), [苹果](苹果.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [推出](推出.md), [旨在](旨在.md), [科技](科技.md), [竞争](竞争.md), [系统](系统.md), [苹果](苹果.md)
 ___
 ##### 2024-06-01 06:03:22 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果iPhone向来横扫全球各大手机畅销榜，但这次却首度大输给了Android阵营！ https://t.co/QEH6sndaO6 https://t.co/vWwRAjDW63
@@ -111,7 +111,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%9C%A8%E6%9C%80%E6%96%B0%E6%AC%BEipad%E4%B8%8A%E6%8E%A8%E5%87%BA%E4%BA%86%E2%80%9C%E6%9E%81%E5%85%B6%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E2%80%9D%E3%80%91%E6%96%B0%E7%A1%AC%E4%BB%B6%E6%A0%87%E5%BF%97%E7%9D%80iPhone%E5%88%B6%E9%80%A0%E5%95%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%87%8D%E8%A7%86%E5%9C%A8%E7%A7%BB%E5%8A%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E8%BF%90%E8%A1%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%9F%E8%83%BD%E3%80%82https%3A%2F%2Ft.co%2FBbIq7p3UUd)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [标志](标志.md), [芯片](芯片.md), [苹果](苹果.md), [越来越](越来越.md)
+[人工智能](人工智能.md), [推出](推出.md), [标志](标志.md), [芯片](芯片.md), [苹果](苹果.md), [越来越](越来越.md)
 ___
 ##### 2024-05-06 03:03:58 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【iPhone賣不動，蘋果宣佈最大規模回購】蘋果低迷的業績已被市場預測到，5月2日財報中的驚喜則是追加了1100億美元的股票回購額度。股市對優厚的股東報酬政策表示歡迎，股價得以上漲。蘋果成功地「一筆勾銷」了財報的停滯跡象……https:…
@@ -223,7 +223,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E7%99%BE%E5%BA%A6%E6%8D%AE%E6%8A%A5%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%EF%BC%8C%E7%99%BE%E5%BA%A6%E5%B0%86%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E7%9A%84%E6%96%B0%E6%AC%BEiPhone+16%E5%92%8C%E5%85%B6%E4%BB%96%E4%BA%A7%E5%93%81%E6%8F%90%E4%BE%9B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E3%80%82https%3A%2F%2Ft.co%2Fdn57mQ0AYm)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [提供](提供.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [达成](达成.md), [销售](销售.md)
+[人工智能](人工智能.md), [提供](提供.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [达成](达成.md), [销售](销售.md)
 ___
 ##### 2024-03-25 05:58:30 UTC ~ 总裁简报 CEO Briefing
 > RT @CEOBriefing: 苹果iPhone14和15价值链上各国(地区)的公司所占的权重。以15为例，美国占33%，韩国占30%，日本占10%，中国台湾9.1%，中国大陆2.5%。其实就是在核心技术领域影响力的真实写照：CPU、基带、射频是美国的，存储是韩国的，CIS和…
@@ -237,7 +237,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E4%B8%8E%E7%99%BE%E5%BA%A6%E4%B8%BE%E8%A1%8C%E5%88%9D%E6%AD%A5%E4%BC%9A%E8%B0%88%EF%BC%8C%E5%86%85%E5%AE%B9%E6%98%AF%E5%85%B3%E4%BA%8E%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%AD%E4%BD%BF%E7%94%A8%E7%99%BE%E5%BA%A6%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%EF%BC%8C%E8%BF%99%E6%98%AF%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%8A%AA%E5%8A%9B%E6%89%A9%E5%A4%A7AI%E8%83%BD%E5%8A%9B%E7%9A%84%E6%9C%80%E6%96%B0%E4%BE%8B%E8%AF%81%E3%80%82https%3A%2F%2Ft.co%2FmFwKKZ6UN0+https%3A%2F%2Ft.co%2FmFwKKZ6UN0)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [初步](初步.md), [扩大](扩大.md), [技术](技术.md), [苹果](苹果.md)
+[人工智能](人工智能.md), [初步](初步.md), [扩大](扩大.md), [技术](技术.md), [苹果](苹果.md)
 ___
 ##### 2024-03-22 16:47:28 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 华尔街日报报道，苹果公司已与百度进行初步洽谈，考虑让苹果在中国市场的装置，使用百度的生成式AI技术，是这家iPhone制造商努力扩大AI能力的最新例证。 https://t.co/aXGsff9igX https://t.co/DlaFnlv…

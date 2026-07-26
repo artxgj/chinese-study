@@ -15,11 +15,15 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [老子](../hanzi-cards/老子.md) | Laozi/Lao-tzu |
 | [杨振宁](../hanzi-cards/杨振宁.md)/[楊振寧](../hanzi-cards/楊振寧.md) | Yang Chen-Ning, 1957 Nobel Prize Winner in Physics |
 | [姚期智](../hanzi-cards/姚期智.md) | Andrew Chi-Chih Yao, 1996 Knuth Prize and 2000 Turing Award |
+| [丘成桐](../hanzi-cards/丘成桐.md) | Shing-Tung Yau, first ethnic Chinese Fields medalist |
+| [王赓武](../hanzi-cards/王赓武.md) | Wang Gungwu, historian, sinologist, and author |
 | [梁文锋](../hanzi-cards/梁文锋.md) | Liang Wenfeng, DeepSeek founder |
 | [杨植麟](../hanzi-cards/杨植麟.md) | Yang Zhilin, Moonshot AI founder |
 | [张忠谋](../hanzi-cards/张忠谋.md)/[張忠謀](../hanzi-cards/張忠謀.md) | Morris Chang |
 | [任正非](../hanzi-cards/任正非.md) | Ren Zhengfei |
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
+| [张汝京](../hanzi-cards/张汝京.md) | Richard Chang Ru-gin, founder of SMIC |
+| [張雪](../hanzi-cards/張雪.md) | Zhang Xue, founder of ZXMOTO |
 | [孙中山](../hanzi-cards/孙中山.md)/[孫中山](../hanzi-cards/孫中山.md) | Sun Yat Sen |
 | [习近平](../hanzi-cards/习近平.md)/[習近平](../hanzi-cards/習近平.md) | Xi Jinping |
 | [王毅](../hanzi-cards/王毅.md) | Wang Yi |

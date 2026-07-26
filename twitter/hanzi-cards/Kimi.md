@@ -19,7 +19,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%B8%AD%E5%9C%8B%E6%96%B0%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B+Kimi+K3+%E5%9A%87%E5%80%92%E7%BE%8E%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%A1%9E%E8%82%A1%EF%BC%9F+%23KimiK3%E8%B7%91%E5%88%86%E9%80%BC%E8%BF%91%E7%BE%8E%E5%9C%8B%E5%85%A9%E5%A4%A7%E6%A8%A1%E5%9E%8B+%E4%B8%AD%E5%9C%8B%E6%96%B0%E5%89%B5%E3%80%8C%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%8D%EF%BC%88Moonshot+AI%EF%BC%89%E6%96%BC+17+%E6%97%A5%E7%99%BC%E5%B8%83%E6%9C%80%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E6%A8%A1%E5%9E%8B+Kimi+K3%EF%BC%8C%E5%83%85%E6%86%91%E9%96%8B%E6%BA%90%E5%B7%A5%E5%85%B7%E4%BE%BF%E5%9C%A8+48%E2%80%A6+https%3A%2F%2Ft.co%2FkvJJ%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [半導體](半導體.md), [工具](工具.md), [月之暗面](月之暗面.md), [模型](模型.md), [美國](美國.md), [開源](開源.md)
+[半導體](半導體.md), [工具](工具.md), [月之暗面](月之暗面.md), [模型](模型.md), [美國](美國.md), [開源](開源.md)
 ___
 ##### 2026-07-18 17:18:18 UTC ~ 陳威廉
 > RT @williamlab: 今天刷了一天推，发现老外对Kimi新模型的吹捧远远高于国内啊。。甚至已经到了“Deepseek时刻”这种级别了，可以拿来全面做空美股了。。可怕，周一看看实力。
@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcmos%3A+%E6%9C%89%E4%BA%BA%E8%AF%B4%EF%BC%9A%E6%9D%A8%E6%A4%8D%E9%BA%9F%E7%9A%84moonshot%E8%BF%99%E6%97%B6%E5%80%99%E5%8F%91%E5%B8%83Kimi+k3%E6%98%AF%E5%AF%B9%E4%B9%A0%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%94%BF%E6%B2%BB%E7%8C%AE%E7%A4%BC%E3%80%82%E6%88%91%E8%AE%A4%E4%B8%BA%EF%BC%8C%E9%82%A3%E8%82%AF%E5%AE%9A%E6%98%AF%E5%95%8A%EF%BC%8C%E5%8F%AF%E4%BA%BA%E5%AE%B6%E5%B0%8F%E4%BC%99%E5%AD%90%E5%B0%B1%E6%9C%89%E8%BF%99%E4%B8%AA%E5%AE%9E%E5%8A%9B%E5%95%8A%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%8E%B0%E5%9C%A8%E6%AD%A3%E5%9C%A8%E4%B8%BE%E5%8A%9E%E7%9A%84%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B2%BB%E7%90%86%E5%A4%A7%E4%BC%9A%E5%B0%B1%E6%98%AF%E9%9C%80%E8%A6%81%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%AB%98%E6%BD%AE%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%91%8A%E8%AF%89%E4%B8%96%E7%95%8C%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%9A%84AI%E5%8F%91%E5%B1%95%E5%B7%B2%E7%BB%8F%E5%9C%A8%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E6%A2%AF%E9%98%9F%EF%BC%8C%E8%B7%9F%E7%9D%80%E4%B8%AD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [实力](实力.md), [杨植麟](杨植麟.md)
+[人工智能](人工智能.md), [发布](发布.md), [实力](实力.md), [杨植麟](杨植麟.md)
 ___
 ##### 2026-07-18 03:40:47 UTC ~ 華爾街電視 Wall St TV
 > RT @WallStTV: 中国AI在上海集体秀肌肉：月之暗面推出2.8万亿参数的Kimi…
@@ -89,7 +89,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dmjk001%3A+%E5%BD%AD%E5%8D%9A%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+AI+%E4%B8%BA%E4%BD%95%E6%90%85%E5%8A%A8%E5%B8%82%E5%9C%BA%E9%A3%8E%E4%BA%91%EF%BC%9F%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%8F%91%E5%B8%83%E4%BA%86%E4%B8%80%E6%AC%BE%E6%96%B0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%85%B6%E5%BC%BA%E5%A4%A7%E6%80%A7%E8%83%BD%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E5%85%B3%E6%B3%A8%EF%BC%8C%E5%B9%B6%E5%AF%BC%E8%87%B4%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1%E3%80%82%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+K3+AI+%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8F%91%E5%B8%83%E5%BC%95%E5%8F%91%E4%BA%86%E6%8B%85%E5%BF%A7%EF%BC%8C%E5%8D%B3%E4%B8%AD%E5%9B%BD+AI+%E4%BC%81%E4%B8%9A%E7%9A%84%E5%B4%9B%E8%B5%B7%E5%8F%AF%E8%83%BD%E8%BF%AB%E4%BD%BF%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%85%88%E8%80%85%E7%BC%A9%E5%87%8F%E6%8A%95%E8%B5%84%EF%BC%8C%E4%BB%8E%E8%80%8C%E5%89%8A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [关注](关注.md), [发布](发布.md), [导致](导致.md), [崛起](崛起.md), [引发](引发.md), [投资](投资.md), [担忧](担忧.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [震荡](震荡.md)
+[人工智能](人工智能.md), [关注](关注.md), [发布](发布.md), [导致](导致.md), [崛起](崛起.md), [引发](引发.md), [投资](投资.md), [担忧](担忧.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [震荡](震荡.md)
 ___
 ##### 2026-07-18 03:33:09 UTC ~ Andy O
 > RT @andyz8818576155: Kimi的例子再次说明了目前AI一个残酷的现实:在无法杜绝蒸馏带来的快速模仿前,任何AI大模型都是没有护城河可言的,美国付费的模型的大部分中低端市场会被中国免费开源模型替代~卷,卷死所有人,包括自己,这就是目前AI大模型市场的现状,…
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E5%BD%AD%E5%8D%9A%E5%A4%9A%E5%AE%B6%E5%AA%92%E4%BD%93%E5%88%86%E6%9E%90%E8%AE%A4%E4%B8%BA%EF%BC%8C%E4%BB%8A%E5%A4%A9%E5%8D%8A%E5%AF%BC%E4%BD%93%E3%80%81%E8%8A%AF%E7%89%87%E8%82%A1%E7%9A%84%E5%8A%A0%E5%89%A7%E4%B8%8B%E8%B7%8C%EF%BC%8C%E9%99%A4%E4%BA%86%E4%BA%BA%E4%BB%AC%E6%8B%85%E5%BF%83%EF%BC%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%94%AF%E5%87%BA%EF%BC%8C%E6%9C%AA%E6%9D%A5%E9%9D%A0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%9A%BE%E4%BB%A5%E9%A2%84%E6%9C%9F%E5%9B%9E%E6%9C%AC%E4%BB%A5%E5%A4%96%E3%80%82%E4%B9%9F%E6%9C%89%E4%B8%AD%E5%9B%BD+Kimi+K3+%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E7%AA%81%E7%84%B6%E6%8E%A8%E5%87%BA%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E4%B8%8D%E5%B0%91%E6%AC%A7%E7%BE%8E%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E5%85%B6%E4%B8%8E%E5%8E%BB%E5%B9%B4%E7%9A%84+DeepSeek+%E6%97%B6%E5%88%BB%E5%AF%B9%E6%AF%94%EF%BC%8C%E8%A1%8C%E4%B8%9A%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%99%B7%E5%85%A5%E4%BB%B7%E6%A0%BC%E6%88%98%EF%BC%88%E6%9C%80%E7%BB%88%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [下跌](下跌.md), [人工](人工.md), [人工智能](人工智能.md), [价格](价格.md), [分析](分析.md), [加剧](加剧.md), [半导体](半导体.md), [开源](开源.md), [影响](影响.md), [投资](投资.md), [投资者](投资者.md), [担心](担心.md), [推出](推出.md), [支出](支出.md), [数据](数据.md), [模型](模型.md), [芯片](芯片.md), [行业](行业.md), [除了](除了.md), [陷入](陷入.md), [预期](预期.md)
+[DeepSeek](DeepSeek.md), [下跌](下跌.md), [人工智能](人工智能.md), [价格](价格.md), [分析](分析.md), [加剧](加剧.md), [半导体](半导体.md), [开源](开源.md), [影响](影响.md), [投资](投资.md), [投资者](投资者.md), [担心](担心.md), [推出](推出.md), [支出](支出.md), [数据](数据.md), [模型](模型.md), [芯片](芯片.md), [行业](行业.md), [除了](除了.md), [陷入](陷入.md), [预期](预期.md)
 ___
 ##### 2026-07-18 00:02:53 UTC ~ GeLun Ding
 > RT @gelunding: Kimi发布K3模型，刚刚引发了全球股市震荡。周四，美国几乎所有AI概念股集体暴跌，周五，亚洲AI相关股票也遭到大规模抛售。Moonshot的K3让投资者开始质疑两件事：第一，美国前沿AI实验室如OpenAI和Anthropic凭什么能支撑1万…
@@ -152,14 +152,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%A7%E6%A8%A1%E5%9E%8BKimi+K3%EF%BC%8C%E6%98%AF%E5%85%A8%E7%90%83%E7%9B%AE%E5%89%8D%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%8D%AE%E7%A7%B0%E6%80%A7%E8%83%BD%E5%B7%B2%E6%8E%A5%E8%BF%91%E7%BE%8E%E5%9B%BDAI%E5%85%AC%E5%8F%B8Anthropic%E7%9A%84%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8BFable%E3%80%82+https%3A%2F%2Ft.co%2FUHgPqoApWB+https%3A%2F%2Ft.co%2F4jfvR%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [规模](规模.md)
+[Anthropic](Anthropic.md), [人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [规模](规模.md)
 ___
 ##### 2026-07-17 18:26:50 UTC ~ 硅谷101
 > RT @thevalley101: 美国研究员看Kimi：“氛围最好”的中国AI人才这是我们专访美国知名AI研究员、艾伦人工智能研究所（Ai2）后训练负责人Nathan Lambert的精华节选。 Nathan在走访月之暗面、智谱、小米等团队后发现，中国AI公司吸纳年轻…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40thevalley101%3A+%E7%BE%8E%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%91%98%E7%9C%8BKimi%EF%BC%9A%E2%80%9C%E6%B0%9B%E5%9B%B4%E6%9C%80%E5%A5%BD%E2%80%9D%E7%9A%84%E4%B8%AD%E5%9B%BDAI%E4%BA%BA%E6%89%8D%E8%BF%99%E6%98%AF%E6%88%91%E4%BB%AC%E4%B8%93%E8%AE%BF%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8DAI%E7%A0%94%E7%A9%B6%E5%91%98%E3%80%81%E8%89%BE%E4%BC%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A0%94%E7%A9%B6%E6%89%80%EF%BC%88Ai2%EF%BC%89%E5%90%8E%E8%AE%AD%E7%BB%83%E8%B4%9F%E8%B4%A3%E4%BA%BANathan+Lambert%E7%9A%84%E7%B2%BE%E5%8D%8E%E8%8A%82%E9%80%89%E3%80%82+Nathan%E5%9C%A8%E8%B5%B0%E8%AE%BF%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E3%80%81%E6%99%BA%E8%B0%B1%E3%80%81%E5%B0%8F%E7%B1%B3%E7%AD%89%E5%9B%A2%E9%98%9F%E5%90%8E%E5%8F%91%E7%8E%B0%EF%BC%8C%E4%B8%AD%E5%9B%BDAI%E5%85%AC%E5%8F%B8%E5%90%B8%E7%BA%B3%E5%B9%B4%E8%BD%BB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [小米](小米.md), [智谱](智谱.md), [月之暗面](月之暗面.md), [氛围](氛围.md), [美国](美国.md)
+[人工智能](人工智能.md), [小米](小米.md), [智谱](智谱.md), [月之暗面](月之暗面.md), [氛围](氛围.md), [美国](美国.md)
 ___
 ##### 2026-07-17 18:02:15 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 月之暗面发布Kimi K3新模型，并计划在本月底前将其全面开源。该公司表示，Kimi K3拥有2.8万亿个主导决策的参数，是目前全球规模最大的开源模型。https://t.co/jb7i2ZyACy
@@ -222,7 +222,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%EF%BC%88Moonshot+AI%EF%BC%89%E6%98%9F%E6%9C%9F%E4%BA%94%EF%BC%887%E6%9C%8811%E6%97%A5%EF%BC%89%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8BKimi+K2%EF%BC%8C%E6%84%8F%E5%9B%BE%E5%9C%A8%E6%97%A5%E7%9B%8A%E6%BF%80%E7%83%88%E7%9A%84%E5%9B%BD%E5%86%85AI%E7%AB%9E%E4%BA%89%E4%B8%AD%E9%87%8D%E5%A4%BA%E9%A2%86%E5%85%88%E5%9C%B0%E4%BD%8D%E3%80%82+https%3A%2F%2Ft.co%2FBpryCuJbQY)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [激烈](激烈.md), [竞争](竞争.md)
+[人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [激烈](激烈.md), [竞争](竞争.md)
 ___
 ##### 2025-06-21 04:45:50 UTC ~ Orange AI
 > RT @oran_ge: Kimi 放出大招，人类最后的考试通过率 26.9%Kimi 的强化学习agent研究终于落地了。今天出了个能做深度研究的AI模型，叫Kimi-Researcher，现在开始小范围内测了。这模型是用端到端自主强化学习技术训练的，专门用来做深度研究…

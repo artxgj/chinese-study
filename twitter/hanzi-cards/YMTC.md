@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%B8%AD%E5%9B%BD%E5%AD%98%E5%82%A8%E6%99%B6%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8%EF%BC%88YMTC%EF%BC%89%E5%92%8C21%E5%AE%B6%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%99%B6%E7%89%87%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E8%B4%B8%E6%98%93%E9%BB%91%E5%90%8D%E5%8D%95%EF%BC%8C%E6%89%A9%E5%A4%A7%E4%BA%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%99%B6%E7%89%87%E8%A1%8C%E4%B8%9A%E7%9A%84%E6%89%93%E5%87%BB%E5%8A%9B%E5%BA%A6%E3%80%82https%3A%2F%2Ft.co%2FaJJPcoyXot)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [存储](存储.md), [打击](打击.md), [扩大](扩大.md), [晶片](晶片.md), [科技](科技.md), [美国](美国.md), [行业](行业.md), [贸易](贸易.md), [长江存储科技](长江存储科技.md), [黑名单](黑名单.md)
+[人工智能](人工智能.md), [存储](存储.md), [打击](打击.md), [扩大](扩大.md), [晶片](晶片.md), [科技](科技.md), [美国](美国.md), [行业](行业.md), [贸易](贸易.md), [长江存储科技](长江存储科技.md), [黑名单](黑名单.md)
 ___
 ##### 2022-05-31 04:42:36 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【摘】坂本幸雄：在DRAM领域处于中国顶尖水平的长鑫存储技术（CXMT）与三星相比落后4代左右。而在NAND闪存领域，据称中国顶尖的长江存储科技（YMTC）将启动（存储元件为）128层的量产，虽已启动192层的试生产，但制造的数量过少，达…

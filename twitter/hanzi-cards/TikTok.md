@@ -636,7 +636,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8TikTok%E8%AE%A1%E5%88%92%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E5%86%85%E5%9C%A8%E6%B3%B0%E5%9B%BD%E6%8A%95%E8%B5%8480%E5%A4%9A%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E7%94%A8%E4%BA%8E%E5%BB%BA%E8%AE%BE%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E3%80%82%E8%BF%99%E4%B8%AA%E6%95%B0%E5%AD%97%E6%AF%94TikTok%E4%B9%8B%E5%89%8D%E4%B8%BA%E6%B3%B0%E5%9B%BD%E8%AE%BE%E5%AE%9A%E7%9A%84%E6%8A%95%E8%B5%84%E7%9B%AE%E6%A0%87%E7%BF%BB%E4%BA%86%E4%B8%80%E5%80%8D%E5%A4%9A%E3%80%82+https%3A%2F%2Ft.co%2Faso5ggKfVN)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [建设](建设.md), [投资](投资.md), [数据](数据.md), [泰国](泰国.md), [用于](用于.md), [计划](计划.md)
+[人工智能](人工智能.md), [建设](建设.md), [投资](投资.md), [数据](数据.md), [泰国](泰国.md), [用于](用于.md), [计划](计划.md)
 ___
 ##### 2025-02-21 17:00:43 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 短视频平台TikTok在美国的命运悬而未决之际，这家跨国公司传出在裁减亚洲、欧洲、中东和非洲，负责内容审核的信任和安全部门的员工。据了解，新加坡有数十人受影响。 https://t.co/0U7E7lRpPu
@@ -1294,7 +1294,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B7%AF%E9%80%8F%E6%8F%B4%E5%BC%95%E6%9C%AA%E5%85%B7%E5%90%8D%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%9A%84%E8%AF%9D%E6%8A%A5%E9%81%93%EF%BC%8CTikTok%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%AD%A3%E5%9C%A8%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8D%9A%E9%80%9A%E5%90%88%E4%BD%9C%E5%BC%80%E5%8F%91%E4%B8%80%E6%AC%BE%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%84%E7%90%86%E5%99%A8%E3%80%82+https%3A%2F%2Ft.co%2Fxq3QFP3RIu+https%3A%2F%2Ft.co%2Fxq3QFP3RIu)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [先进](先进.md), [博通](博通.md), [处理](处理.md), [字节跳动](字节跳动.md), [开发](开发.md), [美国](美国.md)
+[人工智能](人工智能.md), [先进](先进.md), [博通](博通.md), [处理](处理.md), [字节跳动](字节跳动.md), [开发](开发.md), [美国](美国.md)
 ___
 ##### 2024-06-19 05:53:42 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国联邦贸易委员会已将中国字节跳动的短视频应用TikTok可能侵犯儿童隐私的投诉，移交美国司法部处理。https://t.co/OBRjDiVeyg
@@ -1322,7 +1322,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+TikTok%E7%9A%84%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E8%AE%A1%E5%88%92%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%95%E8%B5%84100%E4%BA%BF%E4%BB%A4%E5%90%89%EF%BC%88%E7%BA%A629%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E5%B0%86%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%89%93%E9%80%A0%E6%88%90%E6%9C%AC%E5%8C%BA%E5%9F%9F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%AD%E5%BF%83%E3%80%82+https%3A%2F%2Ft.co%2Fq1MQeUN9eN)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [字节跳动](字节跳动.md), [成本](成本.md), [打造](打造.md), [投资](投资.md), [计划](计划.md), [马来西亚](马来西亚.md)
+[人工智能](人工智能.md), [字节跳动](字节跳动.md), [成本](成本.md), [打造](打造.md), [投资](投资.md), [计划](计划.md), [马来西亚](马来西亚.md)
 ___
 ##### 2024-05-31 16:15:48 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: TikTok据悉已搁置在欧洲主要市场推出电子商务业务的计划，转而专注美国市场。https://t.co/n3g5DoZnxD
@@ -1693,7 +1693,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaFinance%3A+TikTok%E5%81%9C%E6%AD%A2%E5%9C%A8%E9%A6%99%E6%B8%AF%E8%BF%90%E8%A1%8C%E3%80%82%E7%8E%B0%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8E%E5%A4%A7%E9%99%86%E5%AE%8C%E5%85%A8%E4%B8%80%E6%A0%B7%EF%BC%9A%E5%8F%AA%E8%83%BD%E7%94%A8%E6%8A%96%E9%9F%B3%EF%BC%8C%E4%B8%8D%E8%83%BD%E7%94%A8%E6%8A%96%E9%9F%B3%E6%B5%B7%E5%A4%96%E7%89%88TikTok%E3%80%82%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%83%85%EF%BC%8C%E9%A6%99%E6%B8%AF%E5%92%8C%E5%86%85%E5%9C%B0%E9%83%BD%E6%98%AF%E8%A6%81%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%E3%80%82%E6%AF%94%E5%A6%82TikTok%E5%92%8COpenAI%E9%83%BD%E4%B8%8D%E8%83%BD%E8%BF%90%E8%90%A5%EF%BC%8C%E5%AF%B9%E5%9C%A8%E9%A6%99%E6%B8%AF%E6%90%9E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28AI%29%E7%9A%84%E9%9D%9E%E5%B8%B8%E8%89%B0%E9%9A%BE%E3%80%82%E4%BC%B0%E8%AE%A1%E4%B8%8B%E4%B8%80%E6%AD%A5%EF%BC%8C%E9%98%B2%E7%81%AB%E5%A2%99%E4%BC%9A%E5%8C%85%E8%A3%B9%E9%A6%99%E6%B8%AF%E3%80%82%E4%BB%A5%E5%90%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [包裹](包裹.md), [香港](香港.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [包裹](包裹.md), [香港](香港.md)
 ___
 ##### 2024-03-11 03:27:23 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: “一旦美国制裁TikTok法案落地，中国除了依据有关规定限制字节跳动出售TikTok的算法外，也可能采取其他报复措施，但中国不大可能因为替TikTok出头而损害中美关系和中国对外开放大局。”https://t.co/a1mW0l6yRW

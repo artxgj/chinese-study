@@ -220,7 +220,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%EF%BC%88%23Microsoft%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%9C%A8%E5%AE%98%E6%96%B9%E9%83%A8%E8%90%BD%E6%A0%BC%E5%8F%91%E6%96%87%E5%AE%A3%E5%B8%83%EF%BC%8C%E4%B8%BA%E4%BA%86%E8%BF%8E%E6%8E%A5%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E4%B8%96%E4%BB%A3%E5%88%B0%E6%9D%A5%EF%BC%8C%E6%90%AD%E8%BD%BDWindows+11%E4%BD%9C%E4%B8%9A%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%96%B0%E6%AC%BE%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91%E9%94%AE%E7%9B%98%E3%80%82+https%3A%2F%2Ft.co%2FUdvvhpmCQ5+https%3A%2F%2Ft.co%2F6y0f6KB3e0)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [微软](微软.md), [系统](系统.md)
+[人工智能](人工智能.md), [微软](微软.md), [系统](系统.md)
 ___
 ##### 2023-12-23 01:26:49 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 市场研究机构Canalys Research指出，美国科技巨擘微软公司计划停止支援Windows 10作业系统，恐使2亿4000万台个人电脑报废，进而可能增加垃圾掩埋场的掩埋量。https://t.co/0s292ca30l https://…

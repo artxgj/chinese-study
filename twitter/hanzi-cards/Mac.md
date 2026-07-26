@@ -347,7 +347,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E6%9D%A5%E8%87%AA%E6%99%AE%E6%9E%97%E6%96%AF%E9%A1%BF%E5%A4%A7%E5%AD%A6%EF%BC%8C%E5%88%86%E4%BA%AB%E7%9A%84%E4%B8%80%E9%97%A8%E8%BE%83%E5%85%A8%E9%9D%A2%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B%EF%BC%9Aintro_machine_learning%E3%80%82%E6%B6%B5%E7%9B%96%E4%BA%86%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%81%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E3%80%81%E8%AF%84%E4%BC%B0%E4%B8%8E%E4%BC%98%E5%8C%96%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%AD%89%E5%86%85%E5%AE%B9%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FsSBtpoK4is%E6%9C%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [优化](优化.md), [来自](来自.md), [模型](模型.md), [涵盖](涵盖.md), [神经](神经.md), [评估](评估.md)
+[优化](优化.md), [来自](来自.md), [模型](模型.md), [涵盖](涵盖.md), [神经](神经.md), [评估](评估.md)
 ___
 ##### 2025-02-22 05:28:47 UTC ~ Geek
 > RT @geekbb: 很喜欢这类生产力工具，我把它称之为命令粘贴板。Commands Manager 适用于 macOS、Windows 和 Linux 的免费状态菜单栏实用程序，可通过快捷键查找和复制终端命令。这小软件居然还有云端同步功能，👉https://t.co…

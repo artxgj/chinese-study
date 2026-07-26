@@ -41,6 +41,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [海狮](../hanzi-cards/海狮.md) | sea lion |
 | [海豚](../hanzi-cards/海豚.md) | dolphin |
 | [海豹](../hanzi-cards/海豹.md) | seal |
+| [海象](../hanzi-cards/海象.md) | walrus |
 | [鲨鱼](../hanzi-cards/鲨鱼.md) | shark |
 | [鲸](../hanzi-cards/鲸.md) | whale |
 | [黑露脊鲸](../hanzi-cards/黑露脊鲸.md) | black right whale |
@@ -62,3 +63,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [花彩雀莺](../hanzi-cards/花彩雀莺.md) | white-browed tit-warbler |
 | [骆驼](../hanzi-cards/骆驼.md)/[駱駝](../hanzi-cards/駱駝.md) | camel |
 | [蜂鸟](../hanzi-cards/蜂鸟.md)/[蜂鳥](../hanzi-cards/蜂鳥.md) | hummingbird |
+| [北山羊](../hanzi-cards/北山羊.md) | ibex |

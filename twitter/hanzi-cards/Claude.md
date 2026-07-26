@@ -33,7 +33,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%88%91%E4%BD%A9%E6%9C%8DAnthropic%E7%9A%84%E4%B8%80%E7%82%B9%E6%98%AF%EF%BC%8C%E4%B8%8D%E7%AE%A1%E5%A4%96%E9%9D%A2%E7%9A%84%E9%A3%8E%E5%A6%82%E4%BD%95%E5%90%B9%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E9%9B%B7%E6%89%93%E4%B8%8D%E5%8A%A8%E5%9C%B0%E5%81%9A%E7%9D%80%E8%AE%A4%E4%B8%BA%E6%98%AF%E5%AF%B9%E7%9A%84%E5%92%8C%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%82%23%E5%AD%99%E5%BE%B7%E4%BF%8A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23Anthropic+%23Claude+https%3A%2F%2Ft.co%2FNLe7TRJMIL+https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md)
+[Anthropic](Anthropic.md), [人工智能](人工智能.md)
 ___
 ##### 2026-04-12 17:35:54 UTC ~ 高级分析师
 > RT @techeconomyana: 创智记说的隐晦，Deepseek V4很难复制V3盛况。我之前就说了，模型迭代周期就是最重要的指标，Deepseek从原先稳定2个月一更到5个月一更，实质上就是出局了。面对每月一更的Claude和GPT，Deepseek已经没有竞争力…
@@ -194,7 +194,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E6%8E%A8%E5%87%BA%E4%BA%86Claude%E6%95%99%E8%82%B2%E7%89%88%E3%80%82%E4%B8%8E%E5%A4%A7%E5%AD%A6%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E5%85%A5%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%A8%E6%96%B0%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%BC%8F%E3%80%82Claude%E6%95%99%E8%82%B2%E7%89%88%E4%BB%8A%E5%A4%A9%E5%B7%B2%E5%9C%A8%E4%BC%A6%E6%95%A6%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E3%80%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E9%A6%99%E6%A7%9F%E5%AD%A6%E9%99%A2%E4%B8%8A%E7%BA%BF%E3%80%82%E6%89%80%E6%9C%89%E6%8B%A5%E6%9C%89.edu%E9%82%AE%E7%AE%B1%E7%9A%84Pro%E7%94%A8%E6%88%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E3%80%82+https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [提供](提供.md), [模式](模式.md), [香槟](香槟.md)
+[Anthropic](Anthropic.md), [人工智能](人工智能.md), [推出](推出.md), [提供](提供.md), [模式](模式.md), [香槟](香槟.md)
 ___
 ##### 2025-03-31 07:37:36 UTC ~ 宝玉
 > RT @dotey: 模型的搭配使用很有必要比如 DeepResearch 擅长搜集资料比如Gemini和Grok上下文可以很长，内容多的就先让它们预处理把长度浓缩比如Claude擅长编程比如GPT-4.5写作很好但长度不能太长比如音视频用 Gemini 处理最好生…

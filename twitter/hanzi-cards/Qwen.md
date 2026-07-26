@@ -59,7 +59,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40NekoStranding%3A+%E8%8D%89%EF%BC%8CM4+%E8%8A%AF%E7%89%87%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E5%88%9A%E5%88%9A%E8%A2%AB%E7%A0%B4%E8%A7%A3%E4%BA%86%EF%BC%8C%E8%BF%99%E7%8E%A9%E6%84%8F%E7%9C%9F%E8%83%BD%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E7%94%9A%E8%87%B3%E8%AE%AD%E7%BB%83%E5%A4%A7%E6%A8%A1%E5%9E%8B...%E6%8A%8A+Qwen+3.5+%E5%B0%8F%E6%A8%A1%E5%9E%8B%E8%A3%85%E8%BF%9B%E5%8E%BB%E5%B2%82%E4%B8%8D%E6%98%AF%E5%B0%B1%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E%E4%BA%86%EF%BC%9FApple+%E8%BF%99%E6%B3%A2%E6%81%90%E6%80%95%E7%9C%9F%E7%9A%84%E8%A6%81%E8%B5%A2)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [人工](人工.md), [人工智能](人工智能.md), [引擎](引擎.md), [模型](模型.md), [芯片](芯片.md)
+[Apple](Apple.md), [人工智能](人工智能.md), [引擎](引擎.md), [模型](模型.md), [芯片](芯片.md)
 ___
 ##### 2026-03-03 03:44:16 UTC ~ 夏雨婷
 > RT @cherylnatsu: 今天阿里千问宣布开源 4 款 Qwen3.5 小尺寸模型系列，9B：紧凑尺寸，越级性能特点：结构紧凑，但性能媲美 gpt-oss-120B，让人惊艳。———跟苹果合作的这段时间从大模型工程师转型成了嵌入式工程师，积累了大量小内存系统开发经验
@@ -108,7 +108,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B8%AF%E8%82%A1%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%90%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E6%8A%95%E8%B5%84%E9%80%BE530%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B9%B6%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E6%A8%A1%E5%9E%8BQwen3-Max%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E5%87%AF%E8%A5%BF%C2%B7%E4%BC%8D%E5%BE%B7%E6%97%97%E4%B8%8B%E5%9F%BA%E9%87%91%E6%AD%A3%E9%87%8D%E6%96%B0%E5%BB%BA%E4%BB%93%E8%BF%99%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%82+https%3A%2F%2Ft.co%2FBiTyMo9F82)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [基金](基金.md), [投资](投资.md), [模型](模型.md), [科技](科技.md), [逾](逾.md), [金](金.md), [阿里巴巴](阿里巴巴.md), [领域](领域.md)
+[人工智能](人工智能.md), [发布](发布.md), [基金](基金.md), [投资](投资.md), [模型](模型.md), [科技](科技.md), [逾](逾.md), [金](金.md), [阿里巴巴](阿里巴巴.md), [领域](领域.md)
 ___
 ##### 2025-07-26 19:17:31 UTC ~ karminski-牙医
 > RT @karminski3: Qwen 刚刚又发布了Qwen3-MT！——一个翻译大模型这个模型也是基于Qwen3 后训练的，主打多语言翻译，支持92种语言。并且提供了术语干预、领域提示和翻译记忆等高级翻译功能。从公开的数据来看应该是MoE模型，那可能就是用 Qwen3-…

@@ -548,7 +548,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [一带一路](../hanzi-cards/一带一路.md) | Belt and Road Initiative |
 | [珠穆朗玛峰](../hanzi-cards/珠穆朗玛峰.md) | Mount Everest |
 | [付款](../hanzi-cards/付款.md) | to pay a sum of money; payment |
-| [微信](../hanzi-cards/微信.md) | WeChat |
 | [搜索](../hanzi-cards/搜索.md) | search (computing); search for; hunt for; scout around |
 | [灵活](../hanzi-cards/灵活.md) | nimble; agile; quick; flexible; elastic |
 | [接口](../hanzi-cards/接口.md) | interface; gateway; port; connector |
@@ -678,3 +677,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [尴尬](../hanzi-cards/尴尬.md) | (of a situation) awkward; difficult; embarassed; uneasy |
 | [震荡](../hanzi-cards/震荡.md) | shake; shock; vibrate; quake; vibe (like vibe coding) |
 | [脆弱](../hanzi-cards/脆弱.md) | fragile; frail; weak |
+| [馳騁](../hanzi-cards/馳騁.md) | gallop |

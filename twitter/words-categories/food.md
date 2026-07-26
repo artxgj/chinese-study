@@ -34,6 +34,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [印度煎饼](../hanzi-cards/印度煎饼.md) | roti canai |
 | [沙爹](../hanzi-cards/沙爹.md) | satay |
 | [海南鸡饭](../hanzi-cards/海南鸡饭.md) | Hainanese chicken rice |
+| [鹌鹑](../hanzi-cards/鹌鹑.md) | quail |
 | [清汤](../hanzi-cards/清汤.md) | clear soup |
 | [咖椰](../hanzi-cards/咖椰.md) | kaya; coconut jam |
 | [加央角](../hanzi-cards/加央角.md) | Kaya Puff |

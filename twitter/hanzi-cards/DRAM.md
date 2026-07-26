@@ -290,14 +290,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%AE%97%E5%83%B9%E6%A0%BC10%E6%9C%88%E8%B7%8C3%25%EF%BC%8C%E4%B8%AD%E5%9C%8BPC%E9%9C%80%E6%B1%82%E5%BC%B1%E3%80%9110%E6%9C%88%E8%A8%98%E6%86%B6%E9%AB%94%E5%BB%A0%E5%95%86%E5%92%8C%E9%9C%80%E6%B1%82%E6%96%B9%E4%B9%8B%E9%96%93%E7%9A%84%E8%AB%87%E5%88%A4%E4%BB%A5%E9%80%A3%E7%BA%8C2%E5%80%8B%E6%9C%88%E9%99%8D%E5%83%B9%E9%81%94%E6%88%90%E5%A6%A5%E5%8D%94%E3%80%82%E4%BB%A5%E4%B8%AD%E5%9C%8B%E7%82%BA%E4%B8%AD%E5%BF%83%EF%BC%8C%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6%E7%AD%89%E5%AF%A6%E9%9A%9B%E9%9C%80%E6%B1%82%E7%9A%84%E6%94%BE%E7%B7%A9%E8%A2%AB%E6%84%8F%E8%AD%98%E5%88%B0%E3%80%82%E5%8F%A6%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E7%94%A8%E6%96%BC%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%88AI%EF%BC%89%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%9A%84%E5%B0%96%E7%AB%AF%E7%94%A3%E5%93%81%E7%9A%84%E6%B4%BD%E8%B3%BC%E6%8C%81%E7%BA%8C%E5%BC%B7%E5%8B%81%E2%80%A6%E2%80%A6https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [伺服器](伺服器.md), [尖端](尖端.md), [強勁](強勁.md), [記憶體](記憶體.md), [達成](達成.md), [需求](需求.md)
+[伺服器](伺服器.md), [尖端](尖端.md), [強勁](強勁.md), [記憶體](記憶體.md), [達成](達成.md), [需求](需求.md)
 ___
 ##### 2024-10-21 08:42:55 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【DRAM大宗價格1年5個月來再次環比下跌】9月份的大宗交易價格中，作為指標的DDR4型8GB産品價格和4GB産品價格均比上月下跌3%。儘管來自生成AI（人工智慧）的需求依然強勁，但業內人士開始發出「趨勢已經改變」的聲音……https:…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%AE%97%E5%83%B9%E6%A0%BC1%E5%B9%B45%E5%80%8B%E6%9C%88%E4%BE%86%E5%86%8D%E6%AC%A1%E7%92%B0%E6%AF%94%E4%B8%8B%E8%B7%8C%E3%80%919%E6%9C%88%E4%BB%BD%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E4%B8%AD%EF%BC%8C%E4%BD%9C%E7%82%BA%E6%8C%87%E6%A8%99%E7%9A%84DDR4%E5%9E%8B8GB%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC%E5%92%8C4GB%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC%E5%9D%87%E6%AF%94%E4%B8%8A%E6%9C%88%E4%B8%8B%E8%B7%8C3%25%E3%80%82%E5%84%98%E7%AE%A1%E4%BE%86%E8%87%AA%E7%94%9F%E6%88%90AI%EF%BC%88%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%89%E7%9A%84%E9%9C%80%E6%B1%82%E4%BE%9D%E7%84%B6%E5%BC%B7%E5%8B%81%EF%BC%8C%E4%BD%86%E6%A5%AD%E5%85%A7%E4%BA%BA%E5%A3%AB%E9%96%8B%E5%A7%8B%E7%99%BC%E5%87%BA%E3%80%8C%E8%B6%A8%E5%8B%A2%E5%B7%B2%E7%B6%93%E6%94%B9%E8%AE%8A%E3%80%8D%E7%9A%84%E8%81%B2%E9%9F%B3%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [交易](交易.md), [人工](人工.md), [依然](依然.md), [強勁](強勁.md), [需求](需求.md)
+[下跌](下跌.md), [交易](交易.md), [依然](依然.md), [強勁](強勁.md), [需求](需求.md)
 ___
 ##### 2024-06-26 05:00:32 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【生成式AI熱潮助推，5月DRAM漲價8%】5月上漲的主要原因是新一代半導體「HBM」的洽購強勁，對於生成式AI晶片的驅動必不可少。大型記憶體企業向作為買方的設備製造企業表示，「我們強勢要求客戶在採購HBM之際高價購買普通DRAM，最終買…

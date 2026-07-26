@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%8A%E5%B8%82%E4%BB%A5%E6%9D%A5%E8%82%A1%E4%BB%B7%E4%B8%8D%E6%96%AD%E9%A3%99%E5%8D%87%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9A%E6%99%BA%E8%B0%B1%EF%BC%8C%E4%B8%BA%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E6%97%97%E8%88%B0%E5%A4%A7%E6%A8%A1%E5%9E%8BGLM-5%E6%97%B6%E6%89%80%E7%8A%AF%E7%9A%84%E4%B8%89%E4%B8%AA%E9%94%99%E8%AF%AF%E8%87%B4%E6%AD%89%EF%BC%8C%E6%8B%96%E7%B4%AF%E8%82%A1%E4%BB%B7%E6%80%A5%E6%B3%BB%E3%80%82+https%3A%2F%2Ft.co%2FK2MXyKJd9g)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [拖累](拖累.md), [智谱](智谱.md), [模型](模型.md), [飙升](飙升.md)
+[人工智能](人工智能.md), [发布](发布.md), [拖累](拖累.md), [智谱](智谱.md), [模型](模型.md), [飙升](飙升.md)
 ___
 ##### 2026-02-17 03:05:19 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 在迎来春节假期之际，中国科技公司纷纷准备发布新产品，以吸引消费者的注意力。今年，即将发布的产品众多，但最受关注的是字节跳动的Seedance 2.0和智谱的GLM5.0。摩根大通在上周发布的一份报告中表示，投资者应该买入智谱和MiniMax的股票…

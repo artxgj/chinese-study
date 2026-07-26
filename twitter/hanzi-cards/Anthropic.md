@@ -26,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%A7%E6%A8%A1%E5%9E%8BKimi+K3%EF%BC%8C%E6%98%AF%E5%85%A8%E7%90%83%E7%9B%AE%E5%89%8D%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%8D%AE%E7%A7%B0%E6%80%A7%E8%83%BD%E5%B7%B2%E6%8E%A5%E8%BF%91%E7%BE%8E%E5%9B%BDAI%E5%85%AC%E5%8F%B8Anthropic%E7%9A%84%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8BFable%E3%80%82+https%3A%2F%2Ft.co%2FUHgPqoApWB+https%3A%2F%2Ft.co%2F4jfvR%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Kimi](Kimi.md), [人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [规模](规模.md)
+[Kimi](Kimi.md), [人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [规模](规模.md)
 ___
 ##### 2026-07-17 10:11:08 UTC ~ Macro_Lin｜市场观察
 > RT @LinQingV: 如果Kimi-K3的表现真的如这个排行榜所示，那就是在继续证明一件事情：模型训练侧没什么护城河，各frontier AI labs的竞争只会白热化，单个公司维持不了持续碾压的优势。那OAI跟Anthropic的估值故事未来会怎么样来叙述？
@@ -80,7 +80,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%B8%8EAnthropic%E5%B0%B1%E6%81%A2%E5%A4%8D%E5%85%B6%E6%9C%80%E6%96%B0%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8%E6%9D%83%E9%99%90%E7%9A%84%E8%B0%88%E5%88%A4%E2%80%9C%E8%BF%9B%E5%B1%95%E9%A1%BA%E5%88%A9%E2%80%9D%E3%80%82%E5%9C%A8G7%E5%B3%B0%E4%BC%9A%E5%8D%88%E5%AE%B4%E4%B8%8A%EF%BC%8COpenAI%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E5%92%8C%E8%B0%B7%E6%AD%8CDeepMind+AI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%9D%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%81%E8%BE%B9%EF%BC%8C%E8%80%8CAnthropic%E7%9A%84%E9%98%BF%E8%8E%AB%E8%BF%AA%E5%88%99%E5%9D%90%E5%9C%A8%E9%A4%90%E6%A1%8C%E7%9A%84%E5%8F%A6%E4%B8%80%E4%BE%A7%EF%BC%8C%E7%B4%A7%E6%8C%A8%E7%9D%80%E6%B3%95%E5%9B%BD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [恢复](恢复.md), [执行](执行.md), [模型](模型.md), [法国](法国.md), [特朗普](特朗普.md), [谈判](谈判.md), [谷歌](谷歌.md), [首席执行官](首席执行官.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [恢复](恢复.md), [执行](执行.md), [模型](模型.md), [法国](法国.md), [特朗普](特朗普.md), [谈判](谈判.md), [谷歌](谷歌.md), [首席执行官](首席执行官.md)
 ___
 ##### 2026-06-11 03:56:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 OpenAI正考虑大幅下调token（词元）的收费标准 ，试图从主要竞争对手Anthropic手中抢夺客户。这些知情人士表示，OpenAI预计Anthropic也将采取类似降价措施。https://t.co/GUM224V9CZ
@@ -108,7 +108,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E5%9C%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E8%9E%8D%E8%B5%84%E4%B8%AD%E5%8B%9F%E8%B5%84650%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88829%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E4%BC%B0%E5%80%BC%E8%BE%BE%E5%88%B09650%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8BOpenAI%E3%80%82+https%3A%2F%2Ft.co%2FyiYPzoblhL)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [估值](估值.md), [竞争](竞争.md), [融资](融资.md), [超过](超过.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [估值](估值.md), [竞争](竞争.md), [融资](融资.md), [超过](超过.md)
 ___
 ##### 2026-05-29 05:41:52 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 存储芯片厂商美光、三星电子及SK海力士也参与了本轮融资，具体金额未披露。#南洋商报 #Anthropic #OpenAIhttps://t.co/VgZavEsBxQ https://t.co/Ka33WdhEvW
@@ -164,7 +164,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E6%88%91%E4%BD%A9%E6%9C%8DAnthropic%E7%9A%84%E4%B8%80%E7%82%B9%E6%98%AF%EF%BC%8C%E4%B8%8D%E7%AE%A1%E5%A4%96%E9%9D%A2%E7%9A%84%E9%A3%8E%E5%A6%82%E4%BD%95%E5%90%B9%EF%BC%8C%E4%BB%96%E4%BB%AC%E9%83%BD%E9%9B%B7%E6%89%93%E4%B8%8D%E5%8A%A8%E5%9C%B0%E5%81%9A%E7%9D%80%E8%AE%A4%E4%B8%BA%E6%98%AF%E5%AF%B9%E7%9A%84%E5%92%8C%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E3%80%82%23%E5%AD%99%E5%BE%B7%E4%BF%8A%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23Anthropic+%23Claude+https%3A%2F%2Ft.co%2FNLe7TRJMIL+https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [人工](人工.md), [人工智能](人工智能.md)
+[Claude](Claude.md), [人工智能](人工智能.md)
 ___
 ##### 2026-04-17 07:24:47 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【安全專家紛紛離職，誰為AI競賽踩煞車】「世界正陷入危機」。Anthropic的安全研究員Mrinank Sharma在給同事留下一封信後辭職。OpenAI的Zoë Hitzig也因Chat GPT引入廣告而辭職。「無論有多麼崇高的理念，…
@@ -227,14 +227,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%A4%BA%E8%81%94%E9%82%A6%E6%9C%BA%E6%9E%84%E2%80%9C%E7%AB%8B%E5%8D%B3%E2%80%9D%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Anthropic+PBC%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E8%BF%99%E6%A0%87%E5%BF%97%E7%9D%80%E8%BF%99%E4%B8%AA%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E4%B8%8E%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E4%B9%8B%E9%97%B4%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E7%9A%84%E4%BA%89%E7%AB%AF%E7%99%BD%E7%83%AD%E5%8C%96%E3%80%82+https%3A%2F%2Ft.co%2FxDHhbVM6Su)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [保障](保障.md), [巨头](巨头.md), [技术](技术.md), [机构](机构.md), [标志](标志.md), [特朗普](特朗普.md), [美国](美国.md)
+[人工智能](人工智能.md), [保障](保障.md), [巨头](巨头.md), [技术](技术.md), [机构](机构.md), [标志](标志.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
 ##### 2026-02-28 01:04:03 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 特朗普指示联邦机构“立即”停止使用人工智能（AI）初创公司Anthropic PBC的产品，这标志着这个美国AI巨头与五角大楼之间关于技术安全保障的争端白热化。#南洋商报 #Anthropic #五角大楼 #人工智能 #trumphttp…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E7%A4%BA%E8%81%94%E9%82%A6%E6%9C%BA%E6%9E%84%E2%80%9C%E7%AB%8B%E5%8D%B3%E2%80%9D%E5%81%9C%E6%AD%A2%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Anthropic+PBC%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E8%BF%99%E6%A0%87%E5%BF%97%E7%9D%80%E8%BF%99%E4%B8%AA%E7%BE%8E%E5%9B%BDAI%E5%B7%A8%E5%A4%B4%E4%B8%8E%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E4%B9%8B%E9%97%B4%E5%85%B3%E4%BA%8E%E6%8A%80%E6%9C%AF%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E7%9A%84%E4%BA%89%E7%AB%AF%E7%99%BD%E7%83%AD%E5%8C%96%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23trumphttp%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [保障](保障.md), [巨头](巨头.md), [技术](技术.md), [机构](机构.md), [标志](标志.md), [特朗普](特朗普.md), [美国](美国.md)
+[人工智能](人工智能.md), [保障](保障.md), [巨头](巨头.md), [技术](技术.md), [机构](机构.md), [标志](标志.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
 ##### 2026-02-24 06:19:24 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: Anthropic表示，这3家公司分别通过“虚假账户和代理服务在规避检测的同时大规模访问Claude”。#南洋商报 #AI #Anthropic #DeepSeekhttps://t.co/Or2UeYRKFN https://t.co/…
@@ -255,7 +255,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%99%8D%E4%BD%8E%E4%BA%86%E8%BD%AC%E6%8D%A2%E6%88%90%E6%9C%AC%E3%80%81%E5%8E%8B%E7%BC%A9%E4%BA%86%E5%AE%9A%E4%BB%B7%E8%83%BD%E5%8A%9B%EF%BC%8C%E5%B9%B6%E4%BD%BF%E6%96%B0%E8%BF%9B%E8%80%85%E8%83%BD%E4%BB%A5%E6%9B%B4%E7%B2%BE%E7%AE%80%E7%9A%84%E5%9B%A2%E9%98%9F%E6%9B%B4%E5%BF%AB%E6%89%93%E9%80%A0%E5%BC%BA%E5%A4%A7%E4%BA%A7%E5%93%81%EF%BC%8C%E8%BF%9B%E8%80%8C%E5%8A%A0%E5%89%A7%E7%AB%9E%E4%BA%89%E3%80%82%E2%80%94%E2%80%94%23%E5%A5%95%E5%B8%86%E4%B8%B0%E9%A1%BA%E3%80%91%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%BD%AF%E4%BB%B6+%23AI+%23Anthropichttps%3A%2F%2Ft.co%2F6nEJG00AXY+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [加剧](加剧.md), [成本](成本.md), [打造](打造.md), [竞争](竞争.md), [转换](转换.md), [降低](降低.md)
+[人工智能](人工智能.md), [加剧](加剧.md), [成本](成本.md), [打造](打造.md), [竞争](竞争.md), [转换](转换.md), [降低](降低.md)
 ___
 ##### 2026-02-07 04:07:13 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 在混乱的AI霸主地位争夺战中，Anthropic一度似乎只是个陪跑者。本周，这家初创公司产品的成熟度搅动了股市。https://t.co/7E34jIsj3p
@@ -276,14 +276,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%91%A8%E5%9B%9B%E5%8F%91%E5%B8%83%E6%96%B0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B9%B3%E5%8F%B0Frontier%EF%BC%8C%E8%AF%A5%E5%B9%B3%E5%8F%B0%E5%8F%AF%E4%BB%A5%E5%B8%AE%E5%8A%A9%E5%85%AC%E5%8F%B8%E6%9E%84%E5%BB%BA%E3%80%81%E9%83%A8%E7%BD%B2%E5%92%8C%E7%9B%91%E7%9D%A3AI%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%82%E5%8F%91%E5%B8%83Frontier%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9B%AE%E7%9A%84%E6%98%AF%E5%B8%AE%E5%8A%A9OpenAI%E5%90%B8%E5%BC%95%E6%9B%B4%E5%A4%9A%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E4%B8%8EAnthropic%E3%80%81%E8%B0%B7%E6%AD%8C%E5%92%8C%E5%85%B6%E4%BB%96%E5%AF%B9%E6%89%8B%E4%BA%89%E5%A4%BA%E4%BC%81%E4%B8%9A%E5%AE%A2%E6%88%B7%E3%80%82https%3A%2F%2Ft.%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [发布](发布.md), [吸引](吸引.md), [客户](客户.md), [平台](平台.md), [监督](监督.md), [谷歌](谷歌.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [发布](发布.md), [吸引](吸引.md), [客户](客户.md), [平台](平台.md), [监督](监督.md), [谷歌](谷歌.md)
 ___
 ##### 2026-02-06 07:42:35 UTC ~ FTChinese
 > RT @FTChinese: 【Anthropic如何在AI编程取得突破并撼动商业格局】新的人工智能驱动工具正在压缩软件开发的时间与成本，并对从法律到广告等行业构成威胁。https://t.co/SCyTCZOPoF https://t.co/oz67hUNMiD
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90Anthropic%E5%A6%82%E4%BD%95%E5%9C%A8AI%E7%BC%96%E7%A8%8B%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%E5%B9%B6%E6%92%BC%E5%8A%A8%E5%95%86%E4%B8%9A%E6%A0%BC%E5%B1%80%E3%80%91%E6%96%B0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E5%B7%A5%E5%85%B7%E6%AD%A3%E5%9C%A8%E5%8E%8B%E7%BC%A9%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8E%E6%88%90%E6%9C%AC%EF%BC%8C%E5%B9%B6%E5%AF%B9%E4%BB%8E%E6%B3%95%E5%BE%8B%E5%88%B0%E5%B9%BF%E5%91%8A%E7%AD%89%E8%A1%8C%E4%B8%9A%E6%9E%84%E6%88%90%E5%A8%81%E8%83%81%E3%80%82https%3A%2F%2Ft.co%2FSCyTCZOPoF+https%3A%2F%2Ft.co%2Foz67hUNMiD)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [威胁](威胁.md), [工具](工具.md), [开发](开发.md), [成本](成本.md), [格局](格局.md), [突破](突破.md), [行业](行业.md)
+[人工智能](人工智能.md), [威胁](威胁.md), [工具](工具.md), [开发](开发.md), [成本](成本.md), [格局](格局.md), [突破](突破.md), [行业](行业.md)
 ___
 ##### 2026-02-05 04:35:20 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 黄仁勋表示，各界担心AI会让软件公司失去重要性是一种误解，AI仍将依赖现有软件，而非从头重建基本工具。#南洋商报 #AI #NVIDIA #JensenHuang #Anthropic https://t.co/WbOAwHrfhb ht…
@@ -332,7 +332,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%BC%80%E5%8F%91%E5%95%86Anthropic%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%EF%BC%88CEO%EF%BC%89%E9%98%BF%E8%8E%AB%E4%BB%A3%E8%AF%B4%EF%BC%8C%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%94%AE%E5%85%88%E8%BF%9B%E7%9A%84AI%E6%99%B6%E7%89%87%E6%98%AF%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%EF%BC%8C%E5%85%B7%E6%9C%89%E2%80%9C%E4%BB%A4%E4%BA%BA%E9%9A%BE%E4%BB%A5%E7%BD%AE%E4%BF%A1%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E5%BD%B1%E5%93%8D%E2%80%9D%EF%BC%8C%E5%B9%B6%E5%BD%A2%E5%AE%B9%E6%AD%A4%E4%B8%BE%E5%A6%82%E5%90%8C%E5%90%91%E6%9C%9D%E9%B2%9C%E5%87%BA%E5%94%AE%E6%A0%B8%E6%AD%A6%E5%99%A8%E3%80%82+https%3A%2F%2Ft.co%2Fx8Y6CXbWtt)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工](人工.md), [人工智能](人工智能.md), [先进](先进.md), [出售](出售.md), [开发](开发.md), [影响](影响.md), [执行](执行.md), [晶片](晶片.md), [此举](此举.md), [美国](美国.md), [难以置信](难以置信.md), [首席执行官](首席执行官.md)
+[人工智能](人工智能.md), [先进](先进.md), [出售](出售.md), [开发](开发.md), [影响](影响.md), [执行](执行.md), [晶片](晶片.md), [此举](此举.md), [美国](美国.md), [难以置信](难以置信.md), [首席执行官](首席执行官.md)
 ___
 ##### 2026-01-08 14:44:45 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 据知情人士透露，聊天机器人Claude的开发商Anthropic计划以3,500亿美元的投前估值融资100亿美元，该估值较四个月前增长近一倍。https://t.co/sZJ24FYbRu
@@ -393,7 +393,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+Anthropic%E6%8E%A8%E5%87%BA%E4%BA%86Claude%E6%95%99%E8%82%B2%E7%89%88%E3%80%82%E4%B8%8E%E5%A4%A7%E5%AD%A6%E5%90%88%E4%BD%9C%EF%BC%8C%E5%B0%86%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BC%95%E5%85%A5%E9%AB%98%E7%AD%89%E6%95%99%E8%82%B2%EF%BC%8C%E5%90%8C%E6%97%B6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%85%A8%E6%96%B0%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%BC%8F%E3%80%82Claude%E6%95%99%E8%82%B2%E7%89%88%E4%BB%8A%E5%A4%A9%E5%B7%B2%E5%9C%A8%E4%BC%A6%E6%95%A6%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6%E9%99%A2%E3%80%81%E4%B8%9C%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%92%8C%E9%A6%99%E6%A7%9F%E5%AD%A6%E9%99%A2%E4%B8%8A%E7%BA%BF%E3%80%82%E6%89%80%E6%9C%89%E6%8B%A5%E6%9C%89.edu%E9%82%AE%E7%AE%B1%E7%9A%84Pro%E7%94%A8%E6%88%B7%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E3%80%82+https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [人工](人工.md), [人工智能](人工智能.md), [推出](推出.md), [提供](提供.md), [模式](模式.md), [香槟](香槟.md)
+[Claude](Claude.md), [人工智能](人工智能.md), [推出](推出.md), [提供](提供.md), [模式](模式.md), [香槟](香槟.md)
 ___
 ##### 2025-03-31 06:55:20 UTC ~ AI Will
 > RT @FinanceYF5: Anthropic发布新研究：追踪大型语言模型的思维过程Anthropic开发了一种“显微镜”来检查 AI 模型内部发生的事情，并利用它来理解 Claude（其内部机制往往复杂且令人惊讶）。以下原文 https://t.co/v8HkYF…
@@ -456,7 +456,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%85%AC%E5%8F%B8%E5%8F%91%E8%A8%80%E4%BA%BA%E8%A1%A8%E7%A4%BA%EF%BC%8COpenAI%E6%80%BB%E8%A3%81%E3%80%81%E5%85%AC%E5%8F%B8%E6%A0%B8%E5%BF%83%E4%BA%BA%E7%89%A9%E4%B9%8B%E4%B8%80%E6%A0%BC%E9%9B%B7%E6%A0%BC%C2%B7%E5%B8%83%E7%BD%97%E5%85%8B%E6%9B%BC%E5%B0%86%E4%BC%91%E9%95%BF%E5%81%87%EF%BC%8C%E4%BB%A5%E2%80%9C%E6%94%BE%E6%9D%BE%E5%92%8C%E5%85%85%E7%94%B5%E2%80%9D%E3%80%82%E5%8F%A6%E5%A4%96%EF%BC%8C%E7%A0%94%E7%A9%B6%E5%91%98%E7%BA%A6%E7%BF%B0%C2%B7%E8%88%92%E5%B0%94%E6%9B%BC%E5%B0%86%E5%89%8D%E5%BE%80%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BDAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Anthropic%E3%80%82https%3A%2F%2Ft.co%2FC2Ji6R05Lv+https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [充电](充电.md), [核心](核心.md), [竞争](竞争.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [充电](充电.md), [核心](核心.md), [竞争](竞争.md)
 ___
 ##### 2024-04-26 03:23:27 UTC ~ FTChinese
 > RT @FTChinese: 【英国监管机构审查微软和亚马逊的AI相关交易】英国竞争与市场管理局周三就微软从Inflection AI挖人、投资法国初创企业Mistral以及亚马逊投资Anthropic向业内征求意见。https://t.co/PnbEYAn816
@@ -477,11 +477,11 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B7%B2%E5%90%8C%E6%84%8F%E5%90%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E6%8A%95%E8%B5%84%E8%87%B3%E5%A4%9A40%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%BA%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%E4%B8%AD%E4%BA%89%E5%A4%BA%E4%BC%98%E5%8A%BF%E8%80%8C%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%9A%84%E8%AF%A5%E4%BA%A4%E6%98%93%E6%98%AF%E6%9C%80%E6%96%B0%E4%B8%80%E8%B5%B7%E3%80%82+https%3A%2F%2Ft.co%2F7WMyZ2388v)
 ##### Other Words/Names of Interest in the Above Tweet
-[亚马逊](亚马逊.md), [交易](交易.md), [人工](人工.md), [人工智能](人工智能.md), [优势](优势.md), [初创企业](初创企业.md), [巨头](巨头.md), [投资](投资.md), [科技](科技.md)
+[亚马逊](亚马逊.md), [交易](交易.md), [人工智能](人工智能.md), [优势](优势.md), [初创企业](初创企业.md), [巨头](巨头.md), [投资](投资.md), [科技](科技.md)
 ___
 ##### 2023-09-25 13:11:24 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 亚马逊公司表示，已同意向人工智能公司Anthropic投资至多40亿美元，科技巨头为在人工智能军备竞赛中争夺优势而大举投资初创企业，亚马逊的该交易是最新一起。https://t.co/7WMyZ2388v
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%8C%E5%B7%B2%E5%90%8C%E6%84%8F%E5%90%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E6%8A%95%E8%B5%84%E8%87%B3%E5%A4%9A40%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E4%B8%BA%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B%E4%B8%AD%E4%BA%89%E5%A4%BA%E4%BC%98%E5%8A%BF%E8%80%8C%E5%A4%A7%E4%B8%BE%E6%8A%95%E8%B5%84%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%9A%84%E8%AF%A5%E4%BA%A4%E6%98%93%E6%98%AF%E6%9C%80%E6%96%B0%E4%B8%80%E8%B5%B7%E3%80%82https%3A%2F%2Ft.co%2F7WMyZ2388v)
 ##### Other Words/Names of Interest in the Above Tweet
-[亚马逊](亚马逊.md), [交易](交易.md), [人工](人工.md), [人工智能](人工智能.md), [优势](优势.md), [初创企业](初创企业.md), [巨头](巨头.md), [投资](投资.md), [科技](科技.md)
+[亚马逊](亚马逊.md), [交易](交易.md), [人工智能](人工智能.md), [优势](优势.md), [初创企业](初创企业.md), [巨头](巨头.md), [投资](投资.md), [科技](科技.md)

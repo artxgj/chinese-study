@@ -54,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BE%AE%E8%BD%AF%E4%B8%8EOpenAI%E5%AE%A3%E5%B8%83%E5%8F%8C%E6%96%B9%E5%9F%BA%E6%9C%AC%E4%B8%8A%E5%B7%B2%E8%BE%BE%E6%88%90%E5%BB%B6%E9%95%BF%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%B0%B1%E5%BE%85%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23microsoft+%23OpenAI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+%23LLMhttps%3A%2F%2Ft.co%2FY6EATi4k04+https%3A%2F%2Ft.co%2FZEvkTMZ1Ka)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [人工](人工.md), [人工智能](人工智能.md), [协议](协议.md), [延长](延长.md), [微软](微软.md), [达成](达成.md)
+[OpenAI](OpenAI.md), [人工智能](人工智能.md), [协议](协议.md), [延长](延长.md), [微软](微软.md), [达成](达成.md)
 ___
 ##### 2025-07-26 19:11:55 UTC ~ johann.GPT
 > RT @ProgramerJohann: bentoml 推出 《LLM Inference Handbook》一份专为开发者打造的技术手册，用于汇总和梳理大语言模型推理（LLM inference）在生产环境中的最佳实践与优化思路。包含如何实际部署、扩展和运维 LLM、性…
@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%99%E4%B8%AA%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E6%B6%B5%E7%9B%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E5%BC%80%E5%8F%91%E3%80%81%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%EF%BC%8C%E5%88%9B%E5%BB%BA%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%BB%E6%9D%83%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88LLM%EF%BC%89%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23YTL+%23NVIDIA+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+https%3A%2F%2Ft.co%2Fh2DHxZz0vt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[GPU](GPU.md), [人工](人工.md), [人工智能](人工智能.md), [图像处理](图像处理.md), [处理](处理.md), [开发](开发.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [英伟达](英伟达.md), [语言模型](语言模型.md), [项目](项目.md), [马来西亚](马来西亚.md)
+[GPU](GPU.md), [人工智能](人工智能.md), [图像处理](图像处理.md), [处理](处理.md), [开发](开发.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [英伟达](英伟达.md), [语言模型](语言模型.md), [项目](项目.md), [马来西亚](马来西亚.md)
 ___
 ##### 2025-07-12 19:30:36 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 在 GitHub 上发现 ollama-hpp 开源项目，让我们只需几行代码就能在 C++ 中调用本地 LLM。只需下载单个头文件即可使用，并支持 C++11 到 C++20 全版本，完整覆盖了 Ollama API 的所有功能。Gi…
@@ -327,11 +327,11 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%96%B0%E5%88%9B%E6%97%A5%E5%89%8D%E5%8F%91%E5%B8%83DeepSeek+V3%E4%BB%A5%E5%8F%8ADeepSeek+R1%E7%AD%89%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88LLM%EF%BC%89%EF%BC%8C%E8%BF%85%E9%80%9F%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%B5%B0%E7%BA%A2%EF%BC%8C27%E6%97%A5%E6%9B%B4%E4%B8%80%E4%B8%BE%E8%B6%85%E8%B6%8AChatGpt%E7%99%BB%E4%B8%8A%E7%BE%8E%E5%9B%BD%E5%8C%BA%E8%8B%B9%E6%9E%9CApp+Store%E5%85%8D%E8%B4%B9%E6%A6%9C%E4%B8%8A%E9%A6%96%E4%BD%8D%EF%BC%8C%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E5%85%B3%E6%B3%A8%E3%80%82https%3A%2F%2Ft.co%2Fl%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [人工](人工.md), [人工智能](人工智能.md), [关注](关注.md), [发布](发布.md), [引发](引发.md), [模型](模型.md), [美国](美国.md), [苹果](苹果.md), [语言模型](语言模型.md), [迅速](迅速.md)
+[DeepSeek](DeepSeek.md), [人工智能](人工智能.md), [关注](关注.md), [发布](发布.md), [引发](引发.md), [模型](模型.md), [美国](美国.md), [苹果](苹果.md), [语言模型](语言模型.md), [迅速](迅速.md)
 ___
 ##### 2024-03-21 06:10:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 韩国三星电子正在开发专为大型语言模型（LLM）设计的新型人工智能芯片（AI），预计将在明年推出。https://t.co/fGnT8Y6g2I https://t.co/z7U6cubhLQ
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%9F%A9%E5%9B%BD%E4%B8%89%E6%98%9F%E7%94%B5%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%BC%80%E5%8F%91%E4%B8%93%E4%B8%BA%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88LLM%EF%BC%89%E8%AE%BE%E8%AE%A1%E7%9A%84%E6%96%B0%E5%9E%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%EF%BC%88AI%EF%BC%89%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%B0%86%E5%9C%A8%E6%98%8E%E5%B9%B4%E6%8E%A8%E5%87%BA%E3%80%82https%3A%2F%2Ft.co%2FfGnT8Y6g2I+https%3A%2F%2Ft.co%2Fz7U6cubhLQ)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [人工](人工.md), [人工智能](人工智能.md), [开发](开发.md), [推出](推出.md), [模型](模型.md), [芯片](芯片.md), [设计](设计.md), [语言模型](语言模型.md), [韩国](韩国.md), [预计](预计.md)
+[三星](三星.md), [人工智能](人工智能.md), [开发](开发.md), [推出](推出.md), [模型](模型.md), [芯片](芯片.md), [设计](设计.md), [语言模型](语言模型.md), [韩国](韩国.md), [预计](预计.md)
