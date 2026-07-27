@@ -31,9 +31,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [常规赛](../hanzi-cards/常规赛.md) | regular season (sports) |
 | [明星赛](../hanzi-cards/明星赛.md) | All-Star Game |
 | [奥运](../hanzi-cards/奥运.md)/[奧運](../hanzi-cards/奧運.md) | Olympic Games; Olympiad |
-## Natural Disasters/Climate
-|  |  |
-| ----- | :---: |
 ## Wildlife/Birds/Pets
 |  |  |
 | ----- | :---: |
