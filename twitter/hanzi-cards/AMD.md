@@ -194,7 +194,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E8%B7%A8%E5%85%9A%E6%B4%BE%E5%8F%82%E8%AE%AE%E5%91%98%E5%8C%85%E6%8B%AC%E5%85%B1%E5%92%8C%E5%85%9A%E5%AF%B9%E5%8D%8E%E9%B9%B0%E6%B4%BE%E7%A7%91%E9%A1%BF%EF%BC%8C%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%8812%E6%9C%884%E6%97%A5%EF%BC%89%E8%81%94%E6%89%8B%E6%8E%A8%E5%87%BA%E4%B8%80%E9%A1%B9%E6%B3%95%E6%A1%88%EF%BC%8C%E9%98%BB%E6%AD%A2%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%9C%A8%E6%9C%AA%E6%9D%A5%E4%B8%A4%E5%B9%B4%E5%8D%8A%E5%86%85%E6%94%BE%E6%9D%BE%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%8E%B7%E5%8F%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8C%E8%B6%85%E5%BE%AE%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%99%B6%E7%89%87%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82+https%3A%2F%2Ft.co%2FPWTt8jWkPz)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [包括](包括.md), [半导体](半导体.md), [推出](推出.md), [晶片](晶片.md), [法案](法案.md), [特朗普](特朗普.md), [美国](美国.md), [英伟达](英伟达.md), [超微](超微.md), [阻止](阻止.md), [限制](限制.md)
+[人工智能](人工智能.md), [包括](包括.md), [半导体](半导体.md), [推出](推出.md), [晶片](晶片.md), [法案](法案.md), [特朗普](特朗普.md), [美国](美国.md), [英伟达](英伟达.md), [超微](超微.md), [阻止](阻止.md), [限制](限制.md), [鹰](鹰.md)
 ___
 ##### 2025-11-26 03:56:47 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Alphabet向4万亿美元市值迈进，英伟达、AMD等AI相关股票大跌。分析师指出，谷歌进军英伟达的领地“触动了一种已经存在的恐惧”。投资者将资金投入到几乎所有其他领域，道指上涨664点，创下8月以来的最佳单日表现。https://t.co/A2…
@@ -285,7 +285,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%BD%AD%E5%8D%9A%E7%A4%BE%E8%BF%91%E6%97%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E7%BE%8E%E5%9B%BD%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%BF%91%E6%9C%9F%E6%94%BE%E5%AE%BD%E4%BA%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88NVIDIA%EF%BC%89%E5%92%8C%E8%B6%85%E5%BE%AE%EF%BC%88AMD%EF%BC%89%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E7%9A%84%E9%99%90%E5%88%B6%EF%BC%8C%E6%AD%A4%E4%B8%BE%E5%BC%95%E5%8F%91%E5%8D%8E%E5%BA%9C%E5%AF%B9%E5%8D%8E%E9%B9%B0%E6%B4%BE%E7%9A%84%E5%BC%BA%E7%83%88%E4%B8%8D%E6%BB%A1%E3%80%82https%3A%2F%2Ft.co%2FS09jvzUVoO+https%3A%2F%2Ft.co%2Fj9fMximosc)
 ##### Other Words/Names of Interest in the Above Tweet
-[引发](引发.md), [放宽](放宽.md), [此举](此举.md), [特朗普](特朗普.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [超微](超微.md), [限制](限制.md)
+[引发](引发.md), [放宽](放宽.md), [此举](此举.md), [特朗普](特朗普.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [超微](超微.md), [限制](限制.md), [鹰](鹰.md)
 ___
 ##### 2025-06-16 04:56:26 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【AMD發佈低價AI晶片，稱性能媲美英偉達】AMD在6月12日發佈新款AI半導體。CEO蘇姿丰表示與競爭對手英偉達相比，能以低成本發揮同等性能。英偉達2024年掌握AI半導體市場超過7成份額。AMD將以廉價産品進行抗衡……https:/…

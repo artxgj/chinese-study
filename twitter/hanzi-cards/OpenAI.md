@@ -810,7 +810,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+GPT-4.5+%E8%B5%B6%E9%B8%AD%E5%AD%90%E4%B8%8A%E6%9E%B6%E5%95%A6%EF%BC%81%E7%9B%B4%E6%8E%A5%E8%AF%B4%E7%BB%93%E8%AE%BA%EF%BC%8C%E6%9F%90%E4%BA%9B%E6%96%B9%E9%9D%A2%E7%94%9A%E8%87%B3%E8%BF%9E%E8%87%AA%E5%AE%B6%E7%9A%84%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B+OpenAI-o3-mini+%E9%83%BD%E6%B2%A1%E6%89%93%E8%BF%87%E3%80%82%E5%85%B7%E4%BD%93%E7%9C%8B%E5%9B%BE1%EF%BC%8C%E4%BB%85%E5%9C%A8%E4%B8%8B%E9%9D%A2%E4%B8%89%E4%B8%AA%E6%8C%87%E6%A0%87%E4%B8%AD%E9%A2%86%E5%85%88%E4%BA%86+o3-mini%E3%80%82%E8%80%8CGPQA%EF%BC%8CAIME%E2%80%9824%EF%BC%8C+SWE-Bench+%E5%AE%8C%E5%85%A8%E6%89%93%E4%B8%8D%E8%BF%87%EF%BC%88%E7%94%9A%E8%87%B3%E7%BC%96%E7%A0%81%E8%A2%ABo3%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[推理](推理.md), [模型](模型.md), [直接](直接.md)
+[推理](推理.md), [模型](模型.md), [直接](直接.md), [鸭](鸭.md)
 ___
 ##### 2025-02-25 17:05:23 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 阿里巴巴集团公布下一代人工智能推理模型QwQ-Max，与行业顶尖的OpenAI的o1及深度求索（DeepSeek）的R1模型竞争。 https://t.co/vN6cRqi7Su

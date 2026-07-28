@@ -15,7 +15,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [基础设施](../hanzi-cards/基础设施.md) | infrastructure |
 | [塑料](../hanzi-cards/塑料.md) | plastic |
 | [尼安德特人](../hanzi-cards/尼安德特人.md) | neanderthal |
-| [恐龙](../hanzi-cards/恐龙.md)/[恐龍](../hanzi-cards/恐龍.md) | dinosaur |
 | [鱼龙](../hanzi-cards/鱼龙.md) | ichthyosaur |
 | [千足虫](../hanzi-cards/千足虫.md) | millipede |
 | [液压挖掘机](../hanzi-cards/液压挖掘机.md) | hydraulic excavator |

@@ -244,7 +244,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E4%B8%AD%E5%9B%BDAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8DeepSeek%E6%AD%A3%E5%AF%BB%E6%B1%82%E5%BC%95%E5%85%A5%E5%A4%96%E9%83%A8%E6%8A%95%E8%B5%84%E8%80%85%EF%BC%8C%E4%BB%A5%E7%AD%B9%E9%9B%86%E7%A0%94%E5%8F%91%E8%B5%84%E9%87%91%E3%80%82%E8%BF%99%E6%98%AF%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%87%AA%E5%A3%B0%E5%90%8D%E9%B9%8A%E8%B5%B7%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BF%9B%E8%A1%8C%E6%AD%A4%E7%B1%BB%E8%9E%8D%E8%B5%84%E3%80%82https%3A%2F%2Ft.co%2Fy93nxbfbOu)
 ##### Other Words/Names of Interest in the Above Tweet
-[投资](投资.md), [投资者](投资者.md), [知情](知情.md), [知情人士](知情人士.md), [研发](研发.md), [筹集](筹集.md), [融资](融资.md), [进行](进行.md), [透露](透露.md), [金](金.md)
+[投资](投资.md), [投资者](投资者.md), [知情](知情.md), [知情人士](知情人士.md), [研发](研发.md), [筹集](筹集.md), [融资](融资.md), [进行](进行.md), [透露](透露.md), [金](金.md), [鹊](鹊.md)
 ___
 ##### 2026-04-20 02:45:08 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美媒报道深度求索（DeepSeek）正进行融资，对此，有投资人分析，DeepSeek或为期权定价留人才。 https://t.co/JTOzbqlyYi https://t.co/ZFv7SY1YVq
@@ -1321,7 +1321,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40indiehackercase%3A+%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E7%AC%AC%E4%B8%83%E5%BC%B9%E5%BE%88%E6%9C%89%E7%9C%8B%E5%A4%B4%EF%BC%8C56%E9%A1%B5%E7%9A%84PPT%E8%AF%A6%E7%BB%86%E4%BB%8B%E7%BB%8D%E4%BA%86DeepSeek%E5%9C%A8%E5%AE%B6%E5%BA%AD%E6%95%99%E8%82%B2%E9%87%8C%E6%96%B9%E6%96%B9%E9%9D%A2%E9%9D%A2%E7%9A%84%E5%BA%94%E7%94%A8%EF%BC%8C%E4%BB%8E%E6%8E%A2%E7%A9%B6%E5%BC%8F%E5%AD%A6%E4%B9%A0%E5%88%B0%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%96%87%E6%95%B0%E5%AD%A6%E7%A7%91%E5%AD%A6%E7%AD%89%E5%AD%A6%E7%A7%91%E7%9A%84%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%8A%A9%EF%BC%8C%E5%88%B0%E4%BA%B2%E5%AD%90%E5%85%B3%E7%B3%BB%E6%83%85%E6%84%9F%E6%95%99%E8%82%B2%E6%80%A7%E6%95%99%E8%82%B2%EF%BC%8C%E5%86%8D%E5%88%B0%E6%8A%80%E8%83%BD%E5%9F%B9%E5%85%BB%E3%80%81%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E5%92%8C%E4%BB%B7%E5%80%BC%E8%A7%82%E5%A1%91%E9%80%A0%E3%80%82%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%97%B6%E4%BB%A3%EF%BC%8C%E5%A1%AB%E9%B8%AD%E5%BC%8F%E6%95%99%E8%82%B2%E7%9C%9F%E7%9A%84%E6%B2%A1%E7%94%A8%E4%BA%86%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [清华大学](清华大学.md), [规划](规划.md)
+[人工智能](人工智能.md), [清华大学](清华大学.md), [规划](规划.md), [鸭](鸭.md)
 ___
 ##### 2025-03-08 09:56:37 UTC ~ Orange AI
 > RT @oran_ge: Manus 火了，这个火爆程度竟然直接出圈，火到了抖音，火到了央媒，火到了券商研究员拿5万现金求个调研，火到闲鱼一个邀请码都要5万。也许是因为 DeepSeek 火爆在先，大众对技术的热情变得异常高涨，同时又是国产团队作品，自然就承载了一些情怀与希…

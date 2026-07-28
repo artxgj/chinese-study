@@ -31,7 +31,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [常规赛](../hanzi-cards/常规赛.md) | regular season (sports) |
 | [明星赛](../hanzi-cards/明星赛.md) | All-Star Game |
 | [奥运](../hanzi-cards/奥运.md)/[奧運](../hanzi-cards/奧運.md) | Olympic Games; Olympiad |
-## Wildlife/Birds/Pets
+## Wildlife/Pets
 |  |  |
 | ----- | :---: |
 | [海胆](../hanzi-cards/海胆.md) | sea urchin |
@@ -43,18 +43,14 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [鲸](../hanzi-cards/鲸.md) | whale |
 | [黑露脊鲸](../hanzi-cards/黑露脊鲸.md) | black right whale |
 | [章鱼](../hanzi-cards/章鱼.md) | octopus |
-| [企鹅](../hanzi-cards/企鹅.md) | penguin |
-| [猫头鹰](../hanzi-cards/猫头鹰.md) | owl |
 | [考拉](../hanzi-cards/考拉.md) | koala |
 | [熊猫](../hanzi-cards/熊猫.md)/[熊貓](../hanzi-cards/熊貓.md) | panda |
 | [鳄鱼](../hanzi-cards/鳄鱼.md) | crocodile; alligator |
 | [珊瑚](../hanzi-cards/珊瑚.md) | coral |
-| [孔雀](../hanzi-cards/孔雀.md) | peacock |
 | [蝗虫](../hanzi-cards/蝗虫.md) | locust |
 | [蚱蜢](../hanzi-cards/蚱蜢.md) | grasshopper |
 | [蟋蟀](../hanzi-cards/蟋蟀.md) | cricket |
 | [鬣蜥](../hanzi-cards/鬣蜥.md) | Iguana |
-| [鹦鹉](../hanzi-cards/鹦鹉.md) | parrot |
 | [壁虎](../hanzi-cards/壁虎.md) | gecko |
 | [蟒蛇](../hanzi-cards/蟒蛇.md) | python; anaconda; boa |
 | [花彩雀莺](../hanzi-cards/花彩雀莺.md) | white-browed tit-warbler |
