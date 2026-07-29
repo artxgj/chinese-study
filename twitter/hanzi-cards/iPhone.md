@@ -88,14 +88,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E8%8B%B1%E5%9C%8B%E3%80%8A%E9%87%91%E8%9E%8D%E6%99%82%E5%A0%B1%E3%80%8B7%E6%9C%888%E6%97%A5%E5%A0%B1%E5%B0%8E%EF%BC%8C%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%95%9F%E5%8B%95%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89Dram%E8%8A%AF%E7%89%87%E7%9A%84%E6%B8%AC%E8%A9%A6%EF%BC%8C%E7%94%A8%E6%96%BC%E4%B8%AD%E5%9C%8B%E5%B8%82%E5%A0%B4%E9%8A%B7%E5%94%AE%E7%9A%84iPhone%E5%8F%8A%E5%85%B6%E4%BB%96%E8%A8%AD%E5%82%99%E3%80%82%E9%80%99%E6%98%AF%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%A1%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%B8%AC%E8%A9%A6%E4%B8%AD%E5%9C%8B%E6%9C%AC%E5%9C%9FDram%E7%94%A2%E5%93%81%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[CXMT](CXMT.md), [啟動](啟動.md), [知情](知情.md), [知情人士](知情人士.md), [芯片](芯片.md), [蘋果](蘋果.md), [透露](透露.md), [金](金.md), [金融](金融.md), [長鑫](長鑫.md)
+[CXMT](CXMT.md), [啟動](啟動.md), [存儲](存儲.md), [知情](知情.md), [知情人士](知情人士.md), [芯片](芯片.md), [蘋果](蘋果.md), [透露](透露.md), [金](金.md), [金融](金融.md), [長鑫](長鑫.md)
 ___
 ##### 2026-07-08 04:13:40 UTC ~ TechNews 科技新報
 > RT @technews_tw: 這次 A20 Pro 採 WMCM 封裝！ #iPhone18Pro主機板高解析照片流出 蘋果 iPhone 18 Pro 系列預計約兩個月後登場，近日疑似新機主機板的高解析照片曝光，顯示首款 2 奈米晶片 A20 Pro 採用晶圓級多晶片模組…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E9%80%99%E6%AC%A1+A20+Pro+%E6%8E%A1+WMCM+%E5%B0%81%E8%A3%9D%EF%BC%81+%23iPhone18Pro%E4%B8%BB%E6%A9%9F%E6%9D%BF%E9%AB%98%E8%A7%A3%E6%9E%90%E7%85%A7%E7%89%87%E6%B5%81%E5%87%BA+%E8%98%8B%E6%9E%9C+iPhone+18+Pro+%E7%B3%BB%E5%88%97%E9%A0%90%E8%A8%88%E7%B4%84%E5%85%A9%E5%80%8B%E6%9C%88%E5%BE%8C%E7%99%BB%E5%A0%B4%EF%BC%8C%E8%BF%91%E6%97%A5%E7%96%91%E4%BC%BC%E6%96%B0%E6%A9%9F%E4%B8%BB%E6%A9%9F%E6%9D%BF%E7%9A%84%E9%AB%98%E8%A7%A3%E6%9E%90%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89%EF%BC%8C%E9%A1%AF%E7%A4%BA%E9%A6%96%E6%AC%BE+2+%E5%A5%88%E7%B1%B3%E6%99%B6%E7%89%87+A20+Pro+%E6%8E%A1%E7%94%A8%E6%99%B6%E5%9C%93%E7%B4%9A%E5%A4%9A%E6%99%B6%E7%89%87%E6%A8%A1%E7%B5%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[奈米](奈米.md), [晶圓](晶圓.md), [晶片](晶片.md), [系列](系列.md), [蘋果](蘋果.md), [預計](預計.md)
+[奈米](奈米.md), [封裝](封裝.md), [晶圓](晶圓.md), [晶片](晶片.md), [系列](系列.md), [蘋果](蘋果.md), [預計](預計.md)
 ___
 ##### 2026-07-08 03:32:17 UTC ~ 拖拉机
 > RT @tuolaji2024: 苹果已开始测试该公司的DRAM芯片，用于在中国销售的设备。这家iPhone制造商正牵头美国科技公司游说美国政府，希望允许更广泛地使用长鑫存储的产品。这说明存储真的缺到不行了，而不是单纯的与上游博弈了。
@@ -109,7 +109,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23iPhone18Pro+%E4%B8%BB%E6%A9%9F%E6%9D%BF%E5%BD%B1%E5%83%8F%E5%A4%96%E6%B4%A9%EF%BC%81%E9%A6%96%E6%AC%BE+2+%E5%A5%88%E7%B1%B3+A20+Pro+%E6%99%B6%E7%89%87%E6%8E%A1%E7%94%A8%E5%85%A8%E6%96%B0%E5%B0%81%E8%A3%9D%EF%BC%8C%E5%B0%87%E8%A8%98%E6%86%B6%E9%AB%94%E7%A7%BB%E8%87%B3%E5%81%B4%E9%82%8A%E4%BB%A5%E6%94%B9%E5%96%84%E6%95%A3%E7%86%B1%E3%80%82+https%3A%2F%2Ft.co%2FlLnXxfSbbs)
 ##### Other Words/Names of Interest in the Above Tweet
-[奈米](奈米.md), [影像](影像.md), [晶片](晶片.md), [記憶體](記憶體.md)
+[奈米](奈米.md), [封裝](封裝.md), [影像](影像.md), [晶片](晶片.md), [記憶體](記憶體.md)
 ___
 ##### 2026-07-07 05:42:19 UTC ~ 油爆琵琶拌着面🇨🇳
 > RT @zmx8067: 華強北全體起立，感謝🇮🇳印度塔塔集團故意洩露的iPhone18製造圖紙和參數。🤣 https://t.co/AFvVJL4bWI
@@ -207,7 +207,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+iPhone+18+Pro+%E4%B8%BB%E6%A9%9F%E6%9D%BF%E6%9C%80%E6%96%B0%E6%B4%A9%E6%BC%8F%E9%A1%AF%E7%A4%BA%EF%BC%8CA20+Pro+%E5%B7%B2%E6%8E%A1%E7%94%A8%E5%85%A8%E6%96%B0+WMCM%E5%B0%81%E8%A3%9D%EF%BC%8C%E6%AD%A3%E5%BC%8F%E5%8F%96%E4%BB%A3+A19+Pro+%E6%89%80%E4%BD%BF%E7%94%A8%E7%9A%84+PoP%E6%8A%80%E8%A1%93%E3%80%82%E9%80%99%E6%98%AF%E8%98%8B%E6%9E%9C%E6%99%B6%E7%89%87%E5%B0%81%E8%A3%9D%E6%8A%80%E8%A1%93%E7%9A%84%E9%87%8D%E8%A6%81%E8%BD%89%E8%AE%8A%E3%80%82DRAM+%E4%BD%8D%E7%BD%AE%E5%BE%9E%E6%99%B6%E7%89%87%E9%A0%82%E9%83%A8%E7%A7%BB%E8%87%B3%E5%81%B4%E9%82%8A%EF%BC%8C%E5%8F%AF%E5%A4%A7%E5%B9%85%E6%94%B9%E5%96%84%E7%86%B1%E5%82%B3%E5%B0%8E%E8%B7%AF%E5%BE%91%EF%BC%8C%E6%8F%90%E5%8D%87%E6%95%B4%E9%AB%94%E6%95%A3%E7%86%B1%E6%95%88%E7%8E%87%EF%BC%8C%E6%9C%89%E5%8A%A9%E6%96%BC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [取代](取代.md), [大幅](大幅.md), [效率](效率.md), [晶片](晶片.md), [正式](正式.md), [蘋果](蘋果.md)
+[DRAM](DRAM.md), [取代](取代.md), [大幅](大幅.md), [封裝](封裝.md), [效率](效率.md), [晶片](晶片.md), [正式](正式.md), [蘋果](蘋果.md)
 ___
 ##### 2026-06-27 08:23:56 UTC ~ 拖拉机
 > RT @tuolaji2024: 华强北，今天 iPhone 和大部分苹果产品大量不发货了，整个市场都在涨价和抬价，未来存储成本占 iPhone  bom 成本的 40-50% 以上，买存储送手机的时代来了，下半年存储涨价的预期拉到了 50-70% 以上，国产安卓厂商的末日开始…
@@ -632,7 +632,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%8B%86%E8%A7%A3iPhone+Air%E3%80%91%E6%89%93%E9%96%8BAir%E7%9A%84%E6%A9%9F%E8%BA%AB%E5%A4%96%E6%AE%BC%EF%BC%8C%E6%9C%80%E9%A1%AF%E7%9C%BC%E7%9A%84%E6%98%AF%E5%91%88%E4%B8%8D%E8%A6%8F%E5%89%87%E5%BD%A2%E7%8B%80%E7%9A%84%E9%9B%BB%E6%B1%A0%E3%80%8216+Plus%E7%9A%84%E9%9B%BB%E6%B1%A0%E7%82%BA%E9%95%B7%E6%96%B9%E5%BD%A2%EF%BC%8C%E8%80%8CAir%E6%8E%A1%E7%94%A8%E4%BA%86%E4%B8%8D%E8%A6%8F%E5%89%87%E5%BD%A2%E7%8B%80%E7%9A%84%E7%89%B9%E6%AE%8A%E5%B0%81%E8%A3%9D%E9%9B%BB%E6%B1%A0%E3%80%82%E3%80%8C%E4%BD%9C%E7%82%BA%E9%9B%BB%E6%B1%A0%E4%BE%86%E8%AA%AC%EF%BC%8C%E9%80%99%E6%98%AF%E4%B8%80%E7%A8%AE%E5%BE%88%E9%9B%A3%E8%A3%BD%E4%BD%9C%E7%9A%84%E5%BD%A2%E7%8B%80%E3%80%8D%EF%BC%8C%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E6%9D%90%E6%96%99%E6%8E%A1%E7%94%A8%E4%BA%86%E7%9F%BD%E8%80%8C%E4%B8%8D%E6%98%AF%E5%82%B3%E7%B5%B1%E7%9A%84%E7%9F%B3%E5%A2%A8%EF%BC%8C%E4%BD%BFAir%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[傳統](傳統.md), [拆解](拆解.md), [特殊](特殊.md), [矽](矽.md), [電池](電池.md)
+[傳統](傳統.md), [封裝](封裝.md), [拆解](拆解.md), [特殊](特殊.md), [矽](矽.md), [電池](電池.md)
 ___
 ##### 2025-10-14 01:58:59 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国苹果公司将于星期五（10月17日）在中国市场启动预购全新的iPhone Air手机。 https://t.co/PmzCnp4sh0
@@ -800,7 +800,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84iPhone%E7%99%BC%E4%BD%88%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E5%A4%9A%E5%B0%91%EF%BC%9F%E3%80%91%E9%A6%96%E6%AC%A1%E5%8A%A0%E5%85%A5%E7%94%A3%E5%93%81%E7%B7%9A%E7%9A%84%E3%80%8CAir%E3%80%8D%E5%8E%9A%E5%BA%A6%E7%82%BA5.6%E6%AF%AB%E7%B1%B3%EF%BC%8C%E7%82%BA%E6%AD%B7%E4%BB%A3iPhone%E4%B8%AD%E6%9C%80%E8%96%84%E3%80%82Air%E5%92%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E6%96%B0%E6%A9%9F%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%87%E5%83%85%E6%94%AF%E6%8F%B4eSIM%E3%80%82Air%E7%9A%84%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E7%82%BA15%E8%90%AC9800%E6%97%A5%E5%85%83%E8%B5%B7%EF%BC%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E7%9A%84%E5%90%8C%E5%AD%98%E5%84%B2%E5%AE%B9%E9%87%8F%E6%A9%9F%E5%9E%8B%E7%9A%84%E6%97%A5%E6%9C%AC%E5%83%B9%E6%A0%BC%E5%8F%97%E6%97%A5%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[支援](支援.md), [日本](日本.md), [毫米](毫米.md)
+[存儲](存儲.md), [支援](支援.md), [日本](日本.md), [毫米](毫米.md)
 ___
 ##### 2025-09-10 06:06:37 UTC ~ FTChinese
 > RT @FTChinese: 【苹果推出轻薄款iPhone】在AI进展缓慢、并受到美国贸易战冲击之际，这家科技集团正试图诱导客户升级设备。https://t.co/TjtXumUlh9 https://t.co/cOJ81niPm1
@@ -849,7 +849,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84iPhone%E7%99%BC%E4%BD%88%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E5%A4%9A%E5%B0%91%EF%BC%9F%E3%80%91%E9%A6%96%E6%AC%A1%E5%8A%A0%E5%85%A5%E7%94%A3%E5%93%81%E7%B7%9A%E7%9A%84%E3%80%8CAir%E3%80%8D%E5%8E%9A%E5%BA%A6%E7%82%BA5.6%E6%AF%AB%E7%B1%B3%EF%BC%8C%E6%98%AF%E6%AD%B7%E4%BB%A3iPhone%E4%B8%AD%E6%9C%80%E8%96%84%E3%80%82Air%E5%92%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E6%96%B0%E6%A9%9F%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%87%E5%83%85%E6%94%AF%E6%8F%B4eSIM%E3%80%82Air%E7%9A%84%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E7%82%BA15%E8%90%AC9800%E6%97%A5%E5%85%83%E8%B5%B7%EF%BC%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E7%9A%84%E5%90%8C%E5%AD%98%E5%84%B2%E5%AE%B9%E9%87%8F%E6%A9%9F%E5%9E%8B%E7%9A%84%E6%97%A5%E6%9C%AC%E5%83%B9%E6%A0%BC%E5%8F%97%E6%97%A5%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[支援](支援.md), [日本](日本.md), [毫米](毫米.md)
+[存儲](存儲.md), [支援](支援.md), [日本](日本.md), [毫米](毫米.md)
 ___
 ##### 2025-09-10 04:02:54 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果公司举行了备受瞩目的秋季新品发布会，机身超薄的iPhone Air机型亮相，这是其多年来首款全新智能手机。在推出新AI功能方面举步维艰之后，该公司希望这款售价999美元的机型能让消费者感到兴奋。这款超薄手机是也可折叠iPhone的前奏。 ht…
@@ -1129,14 +1129,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40imxiaohu%3A+%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83+FastVLM%E8%83%BD%E5%9C%A8+iPhone+%E4%B8%8A%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C%E7%9A%84%E6%9E%81%E9%80%9F%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B+%E9%A6%96+token+%E8%BE%93%E5%87%BA%E5%BF%AB+85+%E5%80%8DFastVLM%EF%BC%9A%E5%85%88%E6%8A%8A%E5%9B%BE%E5%83%8F%E7%9C%8B%E6%87%82%EF%BC%88%E5%9B%BE%E5%83%8F+%E2%86%92+token%EF%BC%89%EF%BC%8C%E5%86%8D%E6%A0%B9%E6%8D%AE+token+%E7%94%9F%E6%88%90%E5%9B%9E%E7%AD%94%E6%88%96%E6%8F%8F%E8%BF%B0%EF%BC%88token+%E2%86%92+%E8%AF%AD%E8%A8%80%EF%BC%89%E6%A8%A1%E5%9E%8B%E4%BD%93%E9%9D%9E%E5%B8%B8%E7%A7%AF%E5%B0%8F%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [根据](根据.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md), [语言模型](语言模型.md)
+[发布](发布.md), [根据](根据.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-05-11 07:30:01 UTC ~ AI Will
 > RT @FinanceYF5: 5个巨大的AI代理、MCP和LLM更新：1. 苹果刚刚发布了FastVLM代码和模型。一款极速的视觉语言模型，直接在iPhone上运行，使用MLX，大幅减少高分辨率图像的编码时间。非常适合实时的设备端应用。 https://t.co/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FinanceYF5%3A+5%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84AI%E4%BB%A3%E7%90%86%E3%80%81MCP%E5%92%8CLLM%E6%9B%B4%E6%96%B0%EF%BC%9A1.+%E8%8B%B9%E6%9E%9C%E5%88%9A%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86FastVLM%E4%BB%A3%E7%A0%81%E5%92%8C%E6%A8%A1%E5%9E%8B%E3%80%82%E4%B8%80%E6%AC%BE%E6%9E%81%E9%80%9F%E7%9A%84%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%9C%A8iPhone%E4%B8%8A%E8%BF%90%E8%A1%8C%EF%BC%8C%E4%BD%BF%E7%94%A8MLX%EF%BC%8C%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E9%AB%98%E5%88%86%E8%BE%A8%E7%8E%87%E5%9B%BE%E5%83%8F%E7%9A%84%E7%BC%96%E7%A0%81%E6%97%B6%E9%97%B4%E3%80%82%E9%9D%9E%E5%B8%B8%E9%80%82%E5%90%88%E5%AE%9E%E6%97%B6%E7%9A%84%E8%AE%BE%E5%A4%87%E7%AB%AF%E5%BA%94%E7%94%A8%E3%80%82+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [MCP](MCP.md), [代码](代码.md), [发布](发布.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md), [语言模型](语言模型.md)
+[LLM](LLM.md), [MCP](MCP.md), [代码](代码.md), [发布](发布.md), [大幅](大幅.md), [模型](模型.md), [直接](直接.md), [苹果](苹果.md)
 ___
 ##### 2025-05-05 10:07:58 UTC ~ 独立开花卓富贵
 > RT @fuguizhuo: 用了鸿蒙 Next 两周后，我觉得未来几年内华为都跟我无缘了。软件生态差的太远了，差不多是iPhone5 时期 iOS 和安卓生态的差距。我举个例子：在去哪儿上面订酒店，地图上的位置没有县级的信息。第三方地图 sdk…
@@ -1300,7 +1300,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%9A%84%E3%80%8CiPhone%E6%99%82%E5%88%BB%E3%80%8D%E5%BF%AB%E5%88%B0%E4%BA%86%EF%BC%9F%E3%80%91%E5%A4%A7%E7%B4%8415%E5%B9%B4%E5%89%8D%EF%BC%8CiPhone%E6%88%90%E7%82%BA%E6%96%B0%E7%9A%84%E6%8A%80%E8%A1%93%E5%B9%B3%E8%87%BA%EF%BC%8CAPP%E7%B6%93%E6%BF%9F%E5%9C%88%E5%9B%A0%E6%AD%A4%E7%B9%81%E6%A6%AE%E8%B5%B7%E4%BE%86%E3%80%82%E9%9A%A8%E8%91%97%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%9A%84%E7%99%BC%E5%B1%95%EF%BC%8C%E6%9C%89%E8%A7%80%E9%BB%9E%E8%AA%8D%E7%82%BA%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%B9%9F%E5%B0%87%E8%BF%8E%E4%BE%86%E3%80%8CiPhone%E6%99%82%E5%88%BB%E3%80%8D%E3%80%82%E4%B8%AD%E7%BE%8E%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88%EF%BC%8C%E4%B8%AD%E5%9C%8B%E6%9C%89%E5%B0%8F%E9%B5%AC%E9%B5%AC%E8%A1%8C%E3%80%81%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%EF%BC%9B%E7%BE%8E%E5%9C%8B%E6%9C%89App%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[因此](因此.md), [激烈](激烈.md), [科技](科技.md), [繁榮](繁榮.md), [美國](美國.md)
+[因此](因此.md), [機器人](機器人.md), [激烈](激烈.md), [科技](科技.md), [繁榮](繁榮.md), [美國](美國.md)
 ___
 ##### 2025-03-08 17:51:55 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 面对iPhone销量大幅下滑，苹果公司表示要提升Siri的个性化功能还需更多时间。https://t.co/FQSFXaqD0r
@@ -1706,7 +1706,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%B4%A2%E5%B0%BC4~9%E6%9C%88%E5%87%88%E5%88%A9%E6%BD%A4%E5%9C%A8%E6%96%B0%E5%9E%8B%E6%84%9F%E6%B8%AC%E5%99%A8%E6%94%AF%E6%92%90%E4%B8%8B%E5%A2%9E%E9%95%B737%25%E3%80%91%E7%B4%A2%E5%B0%BC%E6%94%B9%E5%96%84%E4%BA%86%E6%96%B0%E5%9E%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%9C%96%E5%83%8F%E6%84%9F%E6%B8%AC%E5%99%A8%E7%9A%84%E8%89%AF%E5%93%81%E7%8E%87%EF%BC%8C%E8%B6%95%E4%B8%8A%E4%BA%86%E6%AD%A3%E5%BC%8F%E5%90%91iPhone%E4%BE%9B%E8%B2%A8%E3%80%82%E4%BB%A5%E5%9C%96%E5%83%8F%E6%84%9F%E6%B8%AC%E5%99%A8%E7%82%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E5%8B%99%E7%9A%84%E7%87%9F%E6%A5%AD%E5%88%A9%E6%BD%A4%E5%A2%9E%E8%87%B32.2%E5%80%8D%EF%BC%8C%E9%81%94%E5%88%B01290%E5%84%84%E6%97%A5%E5%85%83%EF%BC%8C%E5%9C%A8%E5%85%A8%E9%83%A86%E9%A0%85%E6%A5%AD%E5%8B%99%E4%B8%AD%E5%A2%9E%E9%95%B7%E7%8E%87%E6%9C%80%E9%AB%98%E2%80%A6%E2%80%A6++htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[利潤](利潤.md), [半導體](半導體.md), [正式](正式.md), [索尼](索尼.md)
+[利潤](利潤.md), [半導體](半導體.md), [感測器](感測器.md), [正式](正式.md), [索尼](索尼.md)
 ___
 ##### 2024-11-01 06:01:24 UTC ~ FTChinese
 > RT @FTChinese: 【iPhone销量增加，苹果营收超出华尔街预期】在欧盟税务裁决后，这家科技巨头本季度一次性支出了102亿美元的费用。https://t.co/GpKlOM7IPn

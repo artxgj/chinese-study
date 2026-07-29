@@ -30,3 +30,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [公转](../hanzi-cards/公转.md) | revolve; orbital revolution |
 | [同步轨道](../hanzi-cards/同步轨道.md) | synchronous orbit |
 | [美国太空总署](../hanzi-cards/美国太空总署.md) | NASA |
+| [卫星](../hanzi-cards/卫星.md)/[衛星](../hanzi-cards/衛星.md) | satellite |

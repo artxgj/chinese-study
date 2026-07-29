@@ -84,6 +84,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [玉門關](../hanzi-cards/玉門關.md) | Yumen Pass |
 | [港珠澳](../hanzi-cards/港珠澳.md) | Hong Kong-Zhuhai-Macau Bridge |
 | [广深港](../hanzi-cards/广深港.md)/[廣深港](../hanzi-cards/廣深港.md) | Guangzhou-Shenzhen-Hong Kong |
+| [珠三角](../hanzi-cards/珠三角.md) | Pearl River Delta |
 | [京津冀](../hanzi-cards/京津冀.md) | Beijing-Tianjin-Hebei |
 | [长三角](../hanzi-cards/长三角.md)/[長三角](../hanzi-cards/長三角.md) | Yangtze River Delta |
 | [塔克拉瑪干沙漠](../hanzi-cards/塔克拉瑪干沙漠.md) | Taklamakan Desert |

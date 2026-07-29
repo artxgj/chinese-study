@@ -41,7 +41,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [气球](../hanzi-cards/气球.md) | balloon |
 | [冰山](../hanzi-cards/冰山.md) | iceberg |
 | [水族馆](../hanzi-cards/水族馆.md) | aquarium |
-| [盐](../hanzi-cards/盐.md) | salt |
+| [盐](../hanzi-cards/盐.md)/[鹽](../hanzi-cards/鹽.md) | salt |
 | [早期阶段](../hanzi-cards/早期阶段.md) | early stage; initial stage |
 | [获得](../hanzi-cards/获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](../hanzi-cards/趋势.md) | trend |
@@ -296,7 +296,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [热卖](../hanzi-cards/热卖.md) | sell well; be in great demand; sell like hot cakes |
 | [浮标](../hanzi-cards/浮标.md) | buoy |
 | [指尖](../hanzi-cards/指尖.md) | fingertips |
-| [人工](../hanzi-cards/人工.md) | artificial; man-made; manual work; work done by hand; manpower; man-day |
 | [矿物](../hanzi-cards/矿物.md) | mineral |
 | [推特](../hanzi-cards/推特.md) | Twitter |
 | [清真寺](../hanzi-cards/清真寺.md) | mosque |
@@ -326,12 +325,10 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [拉开帷幕](../hanzi-cards/拉开帷幕.md) | open the curtains; begin a conference (or event) |
 | [争霸](../hanzi-cards/争霸.md) | contend (or struggle) for hegemony; scramble (or strive) for supremacy |
 | [昂贵](../hanzi-cards/昂贵.md) | expensive; costly |
-| [妈祖](../hanzi-cards/妈祖.md) | Mazu (legendary goddess of the sea) |
 | [信徒](../hanzi-cards/信徒.md) | believer; disciple; follower; adherent; devotee |
 | [跪](../hanzi-cards/跪.md) | kneel |
 | [谣言](../hanzi-cards/谣言.md) | rumor; unfounded report; groundless allegation |
 | [运河](../hanzi-cards/运河.md) | canal |
-| [苏伊士运河](../hanzi-cards/苏伊士运河.md) | Suez Canal |
 | [帆船](../hanzi-cards/帆船.md) | sailboat; sailing boat or ship; junk |
 | [昆虫](../hanzi-cards/昆虫.md) | insect |
 | [陵](../hanzi-cards/陵.md) | hill; mound; imperial tomb; mausoleum |
@@ -339,7 +336,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [频繁](../hanzi-cards/频繁.md) | frequent; often |
 | [确认](../hanzi-cards/确认.md) | affirm; confirm; acknowledge |
 | [下滑](../hanzi-cards/下滑.md) | glide (or slide) down; reduce; decline |
-| [黑压压](../hanzi-cards/黑压压.md) | (of a mass) dense and dark |
 | [漫天](../hanzi-cards/漫天.md) | filling the whole sky; all over the sky |
 | [会晤](../hanzi-cards/会晤.md) | to meet; meeting |
 | [道歉](../hanzi-cards/道歉.md) | apologize; make an apology |
@@ -365,7 +361,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [摄影](../hanzi-cards/摄影.md) | take a photograph; shoot a film; film; photography |
 | [签订](../hanzi-cards/签订.md) | sign (a treaty, an agreement, etc.) |
 | [牺牲](../hanzi-cards/牺牲.md) | sacrifice |
-| [珠三角](../hanzi-cards/珠三角.md) | Pearl River Delta |
 | [心理学](../hanzi-cards/心理学.md) | psychology |
 | [追溯](../hanzi-cards/追溯.md) | trace back to; date from |
 | [理发](../hanzi-cards/理发.md) | haircut |
@@ -444,7 +439,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [骚乱](../hanzi-cards/骚乱.md) | disturbance; riot; chaos |
 | [糟糕](../hanzi-cards/糟糕.md) | terrible; bad |
 | [核辐射](../hanzi-cards/核辐射.md) | nuclear radiation |
-| [奔驰](../hanzi-cards/奔驰.md) | Benz (name); Mercedes-Benz |
 | [布加迪](../hanzi-cards/布加迪.md) | Bugatti |
 | [废水](../hanzi-cards/废水.md) | sewage; waste water; liquid waste |
 | [追捧](../hanzi-cards/追捧.md) | to embrace; favor; acclaim; adulation; high demand |
@@ -648,7 +642,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [海警](../hanzi-cards/海警.md) | coast guard; maritime police |
 | [俯瞰](../hanzi-cards/俯瞰.md) | to look down from a height; to overlook |
 | [精於](../hanzi-cards/精於.md) | skillful in; proficient in; adept at |
-| [儒家](../hanzi-cards/儒家.md) | Confucianists; Confucian school |
 | [旖旎](../hanzi-cards/旖旎.md) | charming; enchanting |
 | [熠熠](../hanzi-cards/熠熠.md) | sparkling; glittering; bright; glistening |
 | [产能过剩](../hanzi-cards/产能过剩.md)/[產能過剩](../hanzi-cards/產能過剩.md) | overcapacity |
@@ -661,7 +654,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [货柜](../hanzi-cards/货柜.md)/[貨櫃](../hanzi-cards/貨櫃.md) | counter for the display of goods; container (for freight transport) |
 | [鑽石](../hanzi-cards/鑽石.md) | diamond |
 | [金属](../hanzi-cards/金属.md)/[金屬](../hanzi-cards/金屬.md) | metals |
-| [紫外](../hanzi-cards/紫外.md) | ultraviolet |
 | [愈来愈](../hanzi-cards/愈来愈.md) | more and more |
 | [越来越](../hanzi-cards/越来越.md) | more and more |
 | [氣氛](../hanzi-cards/氣氛.md) | atmosphere; mood |

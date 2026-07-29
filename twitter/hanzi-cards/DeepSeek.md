@@ -139,7 +139,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%E8%B7%AF%E9%80%8F%E6%8F%B4%E5%BC%95%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%EF%BC%9ADeepSeek%E6%AD%A3%E4%B8%8E%E6%99%B6%E5%9C%86%E5%88%B6%E9%80%A0%E3%80%81%E5%AD%98%E5%82%A8%E5%99%A8%E5%85%AC%E5%8F%B8%E5%8F%8A%E8%8A%AF%E7%89%87%E8%AE%BE%E8%AE%A1%E5%85%AC%E5%8F%B8%E6%B4%BD%E8%B0%88%E5%90%88%E4%BD%9C%EF%BC%8C%E4%BB%A5%E5%BC%80%E5%8F%91%E8%87%AA%E6%9C%89AI%E8%8A%AF%E7%89%87%EF%BC%8C%E8%AF%A5%E8%8A%AF%E7%89%87%E5%B0%86%E7%94%A8%E4%BA%8EAI%E6%8E%A8%E7%90%86%EF%BC%8C%E8%80%8C%E9%9D%9E%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E3%80%82)
 ##### Other Words/Names of Interest in the Above Tweet
-[存储](存储.md), [存储器](存储器.md), [开发](开发.md), [推理](推理.md), [晶圆](晶圆.md), [模型](模型.md), [用于](用于.md), [芯片](芯片.md), [设计](设计.md)
+[存储](存储.md), [开发](开发.md), [推理](推理.md), [晶圆](晶圆.md), [模型](模型.md), [用于](用于.md), [芯片](芯片.md), [设计](设计.md)
 ___
 ##### 2026-06-28 19:06:51 UTC ~ 美股混学家
 > RT @bitpanda88: 先说结论 : 利好存储。Dspark太猛了，它把大模型吞吐量提升了51%-400%，推理速度快了60%-85%。DeepSeek 不仅发布了 DSpark 技术，还同步开源了名为 DeepSpec 的全栈代码库。梁圣的恩情我们这辈子是还不完…
@@ -363,7 +363,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Kimi](Kimi.md), [Qwen](Qwen.md), [千問](千問.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md), [語言模型](語言模型.md)
+[Kimi](Kimi.md), [Qwen](Qwen.md), [千問](千問.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md)
 ___
 ##### 2026-01-21 16:46:20 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能（AI）初创公司深度求索（DeepSeek）发布推理模型R1一周年之际，新模型“MODEL1”的项目名在开源社区悄然出现。 https://t.co/7hYo7OOYDS
@@ -1162,7 +1162,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B1%E5%81%89%E9%81%94GTC%E9%96%8B%E7%99%BC%E8%80%85%E5%A4%A7%E6%9C%83%E9%96%8B%E5%B9%95%EF%BC%8C%E7%84%A6%E9%BB%9E%E6%98%AF%E2%80%A6%E2%80%A6%E3%80%91%E7%84%A6%E9%BB%9E%E5%B0%87%E9%9B%86%E4%B8%AD%E5%9C%A8%EF%BC%881%EF%BC%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%EF%BC%88AI%EF%BC%89%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%9B%EF%BC%882%EF%BC%89%E6%A9%9F%E5%99%A8%E4%BA%BA%E9%96%8B%E7%99%BC%EF%BC%9B%EF%BC%883%EF%BC%89%E9%87%8F%E5%AD%90%E9%9B%BB%E8%85%A6%E4%B8%89%E5%80%8B%E9%A0%98%E5%9F%9F%E3%80%821%E6%9C%88%E5%82%B3%E5%87%BA%E4%B8%AD%E5%9C%8BDeepSeek%E6%88%90%E5%8A%9F%E9%96%8B%E7%99%BC%E4%BA%86%E5%8F%AF%E4%BD%BF%E7%94%A8%E8%BC%83%E5%B0%91AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%AF%A6%E7%8F%BE%E9%AB%98%E6%80%A7%E8%83%BD%E7%9A%84AI%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%B0%8E%E8%87%B4%E8%8B%B1%E5%81%89%E9%81%94%E8%82%A1%E5%83%B9%E4%B8%80%E5%BA%A6%E6%80%A5%E8%B7%8C%E2%80%A6%E2%80%A6htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[半導體](半導體.md), [模型](模型.md), [英偉達](英偉達.md), [量子](量子.md), [開發](開發.md), [領域](領域.md)
+[半導體](半導體.md), [模型](模型.md), [機器人](機器人.md), [英偉達](英偉達.md), [量子](量子.md), [開發](開發.md), [領域](領域.md)
 ___
 ##### 2025-03-18 05:15:04 UTC ~ Gorden Sun
 > RT @Gorden_Sun: 不到 4 万元的 DeepSeek-R1-671B-Q8 部署方案，可能是目前性价比最高的DeepSeek硬件方案。来自腾讯玄武实验室，使用Q8量化模型，最高22K上下文。 https://t.co/Ymk53glBnU
@@ -1742,7 +1742,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E4%B8%80%E4%B8%AA%E7%A8%B3%E5%AE%9A%E6%9C%89%E8%89%AF%E5%A5%BD%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E7%9A%84R1%E9%A3%8E%E6%A0%BC%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%9AVLM-R1%EF%BC%8C%E6%8A%8ADeepSeek%E7%9A%84R1%E6%96%B9%E6%B3%95%E7%94%A8%E5%88%B0%E4%BA%86%E8%A7%86%E8%A7%89%E4%B8%8A%E6%A8%A1%E5%9E%8B%E4%B8%8A%EF%BC%8C%E5%A2%9E%E5%BC%BA%E4%BA%86%E6%A8%A1%E5%9E%8B%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%B3%9B%E5%8C%96%E8%83%BD%E5%8A%9B%E5%9F%BA%E4%BA%8EQwen2.5-VL+%E6%9E%84%E5%BB%BA%EF%BC%8C%E8%83%BD%E5%90%8C%E6%97%B6%E5%A4%84%E7%90%86%E5%9B%BE%E5%83%8F%E5%92%8C%E6%96%87%E6%9C%AC%E8%BE%93%E5%85%A5%EF%BC%8C%E7%89%B9%E5%88%AB%E5%BC%BA%E5%8C%96%E4%BA%86%E5%AF%B9%E5%9B%BE%E5%83%8F%E4%B8%AD%E7%89%B9%E5%AE%9A%E7%9B%AE%E6%A0%87%E7%9A%84%E5%AE%9A%E4%BD%8D%E8%83%BD%E5%8A%9B%E6%93%85%E9%95%BF%E6%8C%87%E4%BB%A3%E8%A1%A8%E8%BE%BE%E7%B1%BB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Qwen](Qwen.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md), [稳定](稳定.md), [语言模型](语言模型.md)
+[Qwen](Qwen.md), [处理](处理.md), [擅长](擅长.md), [模型](模型.md), [稳定](稳定.md)
 ___
 ##### 2025-02-23 02:40:23 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国晶片龙头英伟达创始人黄仁勋首次回应深度求索（DeepSeek）对该公司股票的冲击，称这是源自投资者的误解，并强调未来的人工智能（AI）模型仍将依赖英伟达的算力。 https://t.co/HvkGzJTF2Z

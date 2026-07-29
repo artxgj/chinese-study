@@ -279,7 +279,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%89%E6%98%9F7%EF%BD%9E9%E6%9C%88%E8%90%A5%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF28%EF%BC%85%E3%80%91%E4%B8%89%E6%98%9F%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E5%99%A8%E7%9A%84%E6%94%B6%E7%9B%8A%E6%98%8E%E6%98%BE%E6%94%B9%E5%96%84%EF%BC%8C%E9%9D%A2%E5%90%91%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%E7%9A%84%E6%9C%89%E6%9C%BAEL%E9%9D%A2%E6%9D%BF%E9%94%80%E5%94%AE%E5%BC%BA%E5%8A%B2%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FV03z3XV0GM+https%3A%2F%2Ft.co%2FP61f2JK1dp)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [利润](利润.md), [半导体](半导体.md), [增长](增长.md), [存储](存储.md), [存储器](存储器.md), [强劲](强劲.md), [收益](收益.md), [明显](明显.md), [美国](美国.md), [苹果](苹果.md), [营业利润](营业利润.md), [销售](销售.md), [面板](面板.md)
+[三星](三星.md), [利润](利润.md), [半导体](半导体.md), [增长](增长.md), [存储](存储.md), [强劲](强劲.md), [收益](收益.md), [明显](明显.md), [美国](美国.md), [苹果](苹果.md), [营业利润](营业利润.md), [销售](销售.md), [面板](面板.md)
 ___
 ##### 2021-09-24 06:02:11 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【链接——iPhone在日本10年涨至3倍，1部花6成月薪】苹果公司新发布的iPhone13在日本市场售价比之前的“12”系列最贵的机型高出约2.9万日元，顶配机型价格在最近10年里上涨至3倍。一方面，购买一部iPhone的花销在日本人月…

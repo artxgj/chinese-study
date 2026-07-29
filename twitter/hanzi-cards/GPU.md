@@ -12,7 +12,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%91%A3%E4%BA%8B%E9%95%B7%E9%AD%8F%E5%93%B2%E5%AE%B6%E5%9C%A8%E6%9C%80%E6%96%B0%E7%99%BC%E8%A8%80%E4%B8%AD%E6%8C%87%E5%87%BA%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%88%90%E7%86%9F%E5%8F%8A%E7%89%B9%E6%AE%8A%E8%A3%BD%E7%A8%8B%E4%BE%9B%E6%87%89%E6%9C%80%E5%90%83%E7%B7%8A%E7%9A%84%E9%A0%98%E5%9F%9F%EF%BC%8C%E4%B8%BB%E8%A6%81%E9%9B%86%E4%B8%AD%E5%9C%A8%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86+IC%EF%BC%88PMIC%EF%BC%89%E8%88%87%E6%84%9F%E6%B8%AC%E5%99%A8%E5%85%A9%E5%A4%A7%E9%A1%9E%E5%88%A5%EF%BC%8C%E9%A1%AF%E7%A4%BA+AI+%E5%B7%B2%E6%88%90%E7%82%BA%E6%88%90%E7%86%9F%E8%A3%BD%E7%A8%8B%E6%88%90%E9%95%B7%E7%9A%84%E6%9C%80%E5%BC%B7%E5%8B%95%E8%83%BD%E3%80%82%E9%9A%A8%E8%91%97+AI+%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%81%8B%E7%AE%97%E5%8A%9B%E8%88%87%E5%8A%9F%E8%80%97%E5%90%8C%E6%AD%A5%E6%94%80%E5%8D%87%EF%BC%8CPMIC+%E9%9C%80%E6%B1%82%E6%80%A5%E5%8A%87%E5%A2%9E%E5%8A%A0%E3%80%82%E5%BE%9E+GPU%E3%80%81%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[中指](中指.md), [台積電](台積電.md), [成熟](成熟.md), [指出](指出.md), [攀升](攀升.md), [特殊](特殊.md), [需求](需求.md), [領域](領域.md)
+[中指](中指.md), [台積電](台積電.md), [感測器](感測器.md), [成熟](成熟.md), [指出](指出.md), [攀升](攀升.md), [特殊](特殊.md), [需求](需求.md), [領域](領域.md)
 ___
 ##### 2026-07-17 09:53:04 UTC ~ TechNews 科技新報
 > RT @technews_tw: 中國 GPU 廠摩爾線程業績亮眼！上半年營收預計年增逾 135%。 #摩爾線程 #GPU #中國 https://t.co/a6E1mrGAg7
@@ -201,7 +201,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%BF%99%E4%B8%AA%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E6%B6%B5%E7%9B%96%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E7%9A%84%E5%BC%80%E5%8F%91%E3%80%81%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A9%B1%E5%8A%A8%E7%9A%84%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%E5%99%A8%EF%BC%88GPU%EF%BC%89%E7%9A%84%E4%BD%BF%E7%94%A8%EF%BC%8C%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%EF%BC%8C%E5%88%9B%E5%BB%BA%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%BB%E6%9D%83%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%88LLM%EF%BC%89%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23YTL+%23NVIDIA+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+https%3A%2F%2Ft.co%2Fh2DHxZz0vt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [人工智能](人工智能.md), [图像处理](图像处理.md), [处理](处理.md), [开发](开发.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [英伟达](英伟达.md), [语言模型](语言模型.md), [项目](项目.md), [马来西亚](马来西亚.md)
+[LLM](LLM.md), [人工智能](人工智能.md), [图像处理](图像处理.md), [处理](处理.md), [开发](开发.md), [数据](数据.md), [模型](模型.md), [涵盖](涵盖.md), [英伟达](英伟达.md), [项目](项目.md), [马来西亚](马来西亚.md)
 ___
 ##### 2025-07-10 02:09:27 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【台灣出口重心變化，對美出口額接近大陸】由於台灣的出口目的地轉向美國，以前對美出口與對中國大陸出口存在3至4倍的差距，如今二者的差距已縮小至僅0.1個百分點。配備GPU的伺服器、顯示卡以及機械類産品等的出口均增長……  https://t…

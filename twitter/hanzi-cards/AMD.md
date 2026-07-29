@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E4%BC%81%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9C%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E8%AE%A1%E7%AE%97%E6%99%B6%E7%89%87%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%BB%E8%A6%81%E6%8C%91%E6%88%98%E8%80%85%E8%B6%85%E5%A8%81%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%EF%BC%8C%E6%89%BF%E8%AF%BA%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%8A%95%E8%B5%84%E8%B6%85%E8%BF%87100%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88128%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E4%BB%A5%E5%8A%A0%E9%80%9F%E5%BB%BA%E7%BD%AEAI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%EF%BC%8C%E6%89%A9%E5%A4%A7%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%EF%BC%8C%E5%B9%B6%E6%8F%90%E5%8D%87%E4%B8%8B%E4%B8%80%E4%BB%A3AI%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E5%88%B6%E9%80%A0%E4%BA%A7%E8%83%BD%E3%80%82+https%3A%2F%2Ft.co%2FhUv%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [先进](先进.md), [先进封装](先进封装.md), [半导体](半导体.md), [台湾](台湾.md), [基础设施](基础设施.md), [封装](封装.md), [扩大](扩大.md), [投资](投资.md), [挑战](挑战.md), [晶片](晶片.md), [科技](科技.md), [美国](美国.md), [英伟达](英伟达.md), [设施](设施.md), [超过](超过.md), [领域](领域.md)
+[人工智能](人工智能.md), [先进](先进.md), [半导体](半导体.md), [台湾](台湾.md), [基础设施](基础设施.md), [封装](封装.md), [扩大](扩大.md), [投资](投资.md), [挑战](挑战.md), [晶片](晶片.md), [科技](科技.md), [美国](美国.md), [英伟达](英伟达.md), [设施](设施.md), [超过](超过.md), [领域](领域.md)
 ___
 ##### 2026-05-21 08:30:32 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD计划向整个台湾半导体行业注资逾100亿美元，以满足对AI基础设施不断增长的需求。https://t.co/RidMV1OJgC
@@ -117,7 +117,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B6%88%E6%81%AF%E7%A7%B0%EF%BC%8C%E6%99%B6%E7%89%87%E8%AE%BE%E8%AE%A1%E5%B7%A8%E5%A4%B4%E8%B6%85%E5%BE%AE%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%88AMD%EF%BC%89%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B03%E6%9C%8818%E6%97%A5%E8%AE%BF%E9%97%AE%E4%B8%89%E6%98%9F%E6%99%B6%E7%89%87%E5%B7%A5%E5%8E%82%EF%BC%8C%E5%B9%B6%E5%B0%86%E4%B8%8E%E4%B8%89%E6%98%9F%E7%AE%A1%E7%90%86%E5%B1%82%E8%AE%A8%E8%AE%BA%E5%B0%86%E5%90%88%E4%BD%9C%E8%8C%83%E5%9B%B4%E4%BB%8E%E5%AD%98%E5%82%A8%E5%99%A8%E6%89%A9%E5%B1%95%E8%87%B3%E6%99%B6%E5%9C%86%E4%BB%A3%E5%B7%A5%E9%A2%86%E5%9F%9F%E3%80%82+https%3A%2F%2Ft.co%2FEH0kYniiAY)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [半导体](半导体.md), [存储](存储.md), [存储器](存储器.md), [巨头](巨头.md), [执行](执行.md), [晶圆](晶圆.md), [晶片](晶片.md), [苏姿丰](苏姿丰.md), [设计](设计.md), [超微](超微.md), [领域](领域.md), [首席执行官](首席执行官.md)
+[三星](三星.md), [半导体](半导体.md), [存储](存储.md), [巨头](巨头.md), [执行](执行.md), [晶圆](晶圆.md), [晶片](晶片.md), [苏姿丰](苏姿丰.md), [设计](设计.md), [超微](超微.md), [领域](领域.md), [首席执行官](首席执行官.md)
 ___
 ##### 2026-03-06 00:21:00 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 知情人士表示，草案将要求企业在出口几乎所有AI加速器时都须取得美国许可，涵盖英伟达、超微（AMD）等公司产品。此举将把目前仅适用于约40个国家的出口限制扩展至全球。#南洋商报 #人工智能 #特朗普 #芯片 #英伟达https://t.co…
