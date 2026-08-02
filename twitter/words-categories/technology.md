@@ -25,6 +25,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [头戴式设备](../hanzi-cards/头戴式设备.md) | headset (head-mounted device) |
 | [摄像头](../hanzi-cards/摄像头.md) | camera |
 | [动作捕捉](../hanzi-cards/动作捕捉.md) | motion capture |
+| [插件](../hanzi-cards/插件.md) | plugin |
 | [互联网](../hanzi-cards/互联网.md) | Internet |
 | [线上](../hanzi-cards/线上.md) | online |
 | [元宇宙](../hanzi-cards/元宇宙.md) | metaverse |

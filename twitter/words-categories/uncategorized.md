@@ -717,3 +717,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [推荐](../hanzi-cards/推荐.md)/[推薦](../hanzi-cards/推薦.md) | recommendation; to recommend; (pinyin: tuījiàn) |
 | [窃取](../hanzi-cards/窃取.md)/[竊取](../hanzi-cards/竊取.md) | usurp; steal; grab; misappropriate; (pinyin: qièqǔ) |
 | [营销](../hanzi-cards/营销.md) | (verb) market; marketing |
+| [毫米](../hanzi-cards/毫米.md) | millimeter |
+| [窥](../hanzi-cards/窥.md)/[窺](../hanzi-cards/窺.md) | peep; peek; pry; glimpse ; (pinyin: kuī) |
+| [挖泥船](../hanzi-cards/挖泥船.md) | dredger; (pinyin: wāníchuán) |

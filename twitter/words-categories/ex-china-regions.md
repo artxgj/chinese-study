@@ -33,6 +33,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [希腊](../hanzi-cards/希腊.md) | Greece |
 | [以色列](../hanzi-cards/以色列.md) | Israel |
 | [布基纳法索](../hanzi-cards/布基纳法索.md) | Burkina Faso |
+| [肯尼亚](../hanzi-cards/肯尼亚.md) | Kenya |
 | [秘鲁](../hanzi-cards/秘鲁.md)/[秘魯](../hanzi-cards/秘魯.md) | Peru |
 | [委内瑞拉](../hanzi-cards/委内瑞拉.md)/[委內瑞拉](../hanzi-cards/委內瑞拉.md) | Venezuela |
 | [古巴](../hanzi-cards/古巴.md) | Cuba |

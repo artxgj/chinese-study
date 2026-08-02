@@ -25,6 +25,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [烧猪](../hanzi-cards/烧猪.md) | lechon; roast pig |
 | [肉骨茶](../hanzi-cards/肉骨茶.md) | bak-kut-teh; pork ribs soup |
 | [五花肉](../hanzi-cards/五花肉.md) | pork belly |
+| [排骨](../hanzi-cards/排骨.md) | spareribs; pork ribs |
 | [培根](../hanzi-cards/培根.md) | bacon |
 | [龙虾](../hanzi-cards/龙虾.md) | lobster |
 | [炒粿条](../hanzi-cards/炒粿条.md) | char kway teow |
@@ -51,12 +52,14 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [金枪鱼](../hanzi-cards/金枪鱼.md) | tuna |
 | [鲣鱼](../hanzi-cards/鲣鱼.md) | oceanic bonito; skipjack (tuna) |
 | [鳗鱼](../hanzi-cards/鳗鱼.md) | eel |
+| [鳝鱼](../hanzi-cards/鳝鱼.md) | eel |
 | [石斑鱼](../hanzi-cards/石斑鱼.md) | grouper |
 | [龙趸](../hanzi-cards/龙趸.md) | giant grouper |
 | [扁鱼](../hanzi-cards/扁鱼.md) | Flatfish |
 | [三牙鱼](../hanzi-cards/三牙鱼.md) | Otolithes ruber; tigertooth croaker |
+| [鲍鱼](../hanzi-cards/鲍鱼.md)/[鮑魚](../hanzi-cards/鮑魚.md) | abalone |
 | [扇贝](../hanzi-cards/扇贝.md) | scallop |
-| [海参](../hanzi-cards/海参.md) | sea cucumber |
+| [海参](../hanzi-cards/海参.md)/[海參](../hanzi-cards/海參.md) | sea cucumber |
 | [鳀鱼](../hanzi-cards/鳀鱼.md) | anchovy |
 | [蓝鳍金枪鱼](../hanzi-cards/蓝鳍金枪鱼.md) | Bluefin Tuna |
 | [鰤鱼](../hanzi-cards/鰤鱼.md) | yellowtail |
@@ -68,6 +71,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [烧烤](../hanzi-cards/烧烤.md) | barbeque |
 | [爆炒腰花](../hanzi-cards/爆炒腰花.md) | stir-fried kidney |
 | [臭豆腐](../hanzi-cards/臭豆腐.md) | stinky tofu |
+| [豆腐](../hanzi-cards/豆腐.md) | tofu |
 | [咸虾酱](../hanzi-cards/咸虾酱.md) | salted shrimp paste |
 | [油条](../hanzi-cards/油条.md) | deep-fried twisted dough sticks |
 | [麻花](../hanzi-cards/麻花.md) | fried dough twist |
@@ -119,6 +123,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [胡椒](../hanzi-cards/胡椒.md) | pepper |
 | [胡椒粒](../hanzi-cards/胡椒粒.md) | peppercorn |
 | [辣椒](../hanzi-cards/辣椒.md) | hot pepper; chili |
+| [冬瓜](../hanzi-cards/冬瓜.md) | winter melon |
 ## miscellaneous
 |  |  |
 | ----- | :---: |
@@ -131,3 +136,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [筷子](../hanzi-cards/筷子.md) | chopsticks |
 | [汤匙](../hanzi-cards/汤匙.md) | soup spoon; table spoon |
 | [叉](../hanzi-cards/叉.md) | fork |
+| [红烧](../hanzi-cards/红烧.md)/[紅燒](../hanzi-cards/紅燒.md) | braise in soy sauce |
+| [水煮](../hanzi-cards/水煮.md) | boiled; poached |
+| [煎](../hanzi-cards/煎.md) | fry; pan-fry |
+| [芝麻](../hanzi-cards/芝麻.md) | sesame |
+| [肥肠](../hanzi-cards/肥肠.md) | pork intestines; (pinyin: féicháng) |

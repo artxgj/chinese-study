@@ -17,7 +17,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [山洪](../hanzi-cards/山洪.md) | mountain torrents; flash flood |
 | [海啸](../hanzi-cards/海啸.md)/[海嘯](../hanzi-cards/海嘯.md) | tsunami |
 | [暴雨](../hanzi-cards/暴雨.md) | torrential rain; rainstorm |
-| [台风](../hanzi-cards/台风.md) | typhoon |
+| [台风](../hanzi-cards/台风.md)/[颱風](../hanzi-cards/颱風.md) | typhoon |
 | [龙卷风](../hanzi-cards/龙卷风.md) | tornado |
 | [飓风](../hanzi-cards/飓风.md) | hurricane |
 | [地震](../hanzi-cards/地震.md) | earthquake |

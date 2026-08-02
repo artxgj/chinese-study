@@ -375,11 +375,6 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40szygls%3A+China+has+developed+a+3nm+etching+machine%2C+and+experts+claim+that+it+will+lead+the+world+within+10+years.+Foreign+media+are+ama%E2%80%A6)
 ___
-##### 2025-02-02 19:26:44 UTC ~ yanguoliusheng
-> RT @szygls: The US blockade has forced China to explore alternative paths. The emergence of maskless lithography machines may lead to new c…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40szygls%3A+The+US+blockade+has+forced+China+to+explore+alternative+paths.+The+emergence+of+maskless+lithography+machines+may+lead+to+new+c%E2%80%A6)
-___
 ##### 2025-01-10 08:56:24 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国、中国和日本是巴拿马运河的主要客户，而巴拿马运河货运量的72%都同美国有关。#DonaldTrump #panamacanal #美国 #南洋商报 https://t.co/zg2cPUpkEO https://t.co/4m3bjSao…
 

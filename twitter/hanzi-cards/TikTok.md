@@ -2050,7 +2050,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E6%94%BF%E5%BA%9C%E4%B8%8A%E4%B8%AA%E6%9C%88%E5%B0%81%E7%A6%81TikTok%E5%90%8E%E4%B8%8D%E4%B9%85%EF%BC%8C%E8%BF%99%E6%AC%BE%E5%85%A8%E7%90%83%E4%B8%8B%E8%BD%BD%E9%87%8F%E6%9C%80%E9%AB%98%E7%9A%84%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E7%9A%84%E9%AB%98%E7%AE%A1%E4%BB%AC%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%A4%9A%E5%9C%B0%E9%9D%A2%E4%B8%B4%E7%9D%80%E6%9B%B4%E5%A4%9A%E9%85%9D%E9%85%BF%E4%B8%AD%E7%9A%84%E9%BA%BB%E7%83%A6%E3%80%82%E7%B4%A2%E9%A9%AC%E9%87%8C%E4%B9%9F%E6%9B%BE%E5%91%BC%E5%90%81%E7%A6%81%E7%94%A8TikTok%E3%80%82%E8%82%AF%E5%B0%BC%E4%BA%9A%E8%AE%AE%E4%BC%9A%E4%B9%9F%E5%9C%A8%E8%80%83%E8%99%91%E5%8F%96%E7%BC%94%E5%AE%83%E3%80%82https%3A%2F%2Ft.co%2FjvRUSuMek1)
 ##### Other Words/Names of Interest in the Above Tweet
-[呼吁](呼吁.md), [塞内加尔](塞内加尔.md), [程序](程序.md), [考虑](考虑.md), [面临](面临.md)
+[呼吁](呼吁.md), [塞内加尔](塞内加尔.md), [程序](程序.md), [考虑](考虑.md), [肯尼亚](肯尼亚.md), [面临](面临.md)
 ___
 ##### 2023-09-22 08:56:57 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 今年早些时候，拜登政府、美国国会和各州立法机构都威胁要禁用TikTok，TikTok当时在美国政府中几乎没有朋友。现在，TikTok有了更多朋友，他们都有一个共同点：得到亿万富翁金融家杰夫·亚斯的支持。众议员卢纳表示，为了让TikTok继续留…

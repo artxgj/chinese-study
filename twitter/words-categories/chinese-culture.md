@@ -45,7 +45,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [高考](../hanzi-cards/高考.md) | college entrance exam |
 | [录取通知书](../hanzi-cards/录取通知书.md)/[錄取通知書](../hanzi-cards/錄取通知書.md) | admission notice (issued by a university |
 | [华夏](../hanzi-cards/华夏.md)/[華夏](../hanzi-cards/華夏.md) | old name for China |
-| [抗日战争](../hanzi-cards/抗日战争.md)/[抗日戰爭](../hanzi-cards/抗日戰爭.md) | War of Resistance against Japan (1937-1945) |
+| [神州](../hanzi-cards/神州.md) | Divine Land (a poetic name for China) |
 ## 2. Festivals
 |  |  |
 | ----- | :---: |
@@ -58,4 +58,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [粽子](../hanzi-cards/粽子.md) | glutinous rice dumpling eaten during Dragon Boat Festival |
 | [肉粽](../hanzi-cards/肉粽.md) | glutinous rice dumpling filled with meat, eaten during Dragon Boat Festival |
 | [腊八节](../hanzi-cards/腊八节.md)/[臘八節](../hanzi-cards/臘八節.md) | Laba Rice Porridge Festival, on the 8th day of the 12th Lunar month |
-| [七夕节](../hanzi-cards/七夕节.md)/[七夕節](../hanzi-cards/七夕節.md) | Qixi Festival, Chinese-equivalent of Valentine's Day |
+| [七夕](../hanzi-cards/七夕.md) | Qixi Festival, Chinese-equivalent of Valentine's Day (annual meeting of the Cowherd and the Weaver Girl) |

@@ -650,7 +650,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E5%8F%91%E5%B8%83%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B8%8D%E7%94%9A%E4%B9%90%E8%A7%82%E3%80%91%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%88%AA%E8%87%B39%E6%9C%88%E8%B4%A2%E5%AD%A3%E7%9A%84%E8%B4%A2%E6%8A%A5%E5%AE%9A%E4%BA%8E%E5%91%A8%E5%9B%9B%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%EF%BC%8C%E5%A4%96%E7%95%8C%E4%BB%8E%E4%B8%AD%E5%BA%94%E5%8F%AF%E5%88%9D%E7%AA%A5iPhone+15%E7%9A%84%E8%A1%A8%E7%8E%B0%EF%BC%8C%E5%9B%A0%E4%B8%BA%E5%BD%93%E5%AD%A3%E4%B8%9A%E7%BB%A9%E5%8C%85%E6%8B%AC%E4%BA%86%E8%BF%99%E5%AE%B6%E6%B6%88%E8%B4%B9%E7%94%B5%E5%AD%90%E5%B7%A8%E5%A4%B4%E6%96%B0%E4%BA%A7%E5%93%81%E9%98%B5%E5%AE%B9%E4%B8%80%E5%91%A8%E5%A4%9A%E4%B8%80%E7%82%B9%E7%9A%84%E9%94%80%E5%94%AE%E6%88%90%E7%BB%A9%E3%80%82https%3A%2F%2Ft.co%2FUk26ecByZK+ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[业绩](业绩.md), [乐观](乐观.md), [包括](包括.md), [发布](发布.md), [巨头](巨头.md), [截至](截至.md), [苹果](苹果.md), [销售](销售.md)
+[业绩](业绩.md), [乐观](乐观.md), [包括](包括.md), [发布](发布.md), [巨头](巨头.md), [截至](截至.md), [窥](窥.md), [苹果](苹果.md), [销售](销售.md)
 ___
 ##### 2023-11-02 18:50:36 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果 #iPhone 新机推出以来，在中国的销售不如过往，市占率惨遭华为侵吞。有“地表最强苹果分析师”之称的天风国际证券分析师郭明錤透露，苹果明年将拉高在印度生产iPhone的比重，而富士康郑州厂与太原厂将分别减产35至45%与75至85%。…

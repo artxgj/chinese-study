@@ -950,7 +950,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%EF%BC%9AFluentRead%E3%80%82%E5%8F%AF%E4%BB%A5%E5%B0%86%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E4%BB%BB%E4%BD%95%E8%AF%AD%E8%A8%80%EF%BC%8C%E6%94%AF%E6%8C%81+20%2B+%E7%A7%8D%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%8C%85%E6%8B%ACDeepL+%E7%BF%BB%E8%AF%91%E3%80%81DeepSeek%E3%80%81OpenAI%E7%AD%89%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FqaZ95uHN1I%E6%AD%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [包括](包括.md), [开源](开源.md), [支持](支持.md)
+[DeepSeek](DeepSeek.md), [包括](包括.md), [开源](开源.md), [插件](插件.md), [支持](支持.md)
 ___
 ##### 2025-02-15 20:15:57 UTC ~ Geek
 > RT @geekbb: 从图可见，DeepSeek V3 的性能其实已超越 GPT-4o 与 Claude Sonnet，而 DeepSeek R1 也无限逼近 o1 模型。这个曾经由美国企业（OpenAI）主导的 AI 领域，正遭遇来自中国公司的强势冲击与快速反超，并且差距正…
@@ -1888,7 +1888,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+OpenAI%E5%91%A8%E5%9B%9B%E6%99%9A%E4%B8%8A%E5%85%AC%E5%B8%83%E4%BA%86%E4%B8%80%E9%A1%B9%E6%B7%BB%E5%8A%A0%E6%8F%92%E4%BB%B6%E7%9A%84%E6%96%B0%E5%8A%9F%E8%83%BD%EF%BC%8C%E9%80%9A%E8%BF%87%E5%9C%A8%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%88%96%E7%BD%91%E7%AB%99%E4%B8%AD%E9%83%A8%E7%BD%B2%E8%BF%99%E4%BA%9B%E6%8F%92%E4%BB%B6%EF%BC%8C%E5%B0%B1%E8%83%BD%E4%BD%BFChatGPT%E7%94%A8%E4%BA%8E%E5%88%9B%E6%96%B0%E6%96%B0%E7%9A%84%E7%A0%94%E7%A9%B6%E5%92%8C%E4%BF%A1%E6%81%AF%E7%AD%89%E3%80%82+https%3A%2F%2Ft.co%2Fx0H07s3xnB+https%3A%2F%2Ft.co%2Fe2nL4pU0b5)
 ##### Other Words/Names of Interest in the Above Tweet
-[用于](用于.md), [程序](程序.md)
+[插件](插件.md), [用于](用于.md), [程序](程序.md)
 ___
 ##### 2023-03-16 06:56:03 UTC ~ DW 中文- 德国之声
 > RT @dw_chinese: 【#GPT-4 来临 可支援图像辨识】#OpenAI 正式推出"GPT-4"模型，最大特色能"看图说故事"、理解影像内容，而不再只是文字对话。此外，其AI解答能力和正确率都大幅超越GPT-3.5，可处理的文字篇幅也比#ChatGPT 足足多了8倍…

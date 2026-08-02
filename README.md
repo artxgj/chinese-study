@@ -5,4 +5,5 @@ Collections of names, vocabulary words, tweets in Chinese text, and Chinese poet
 Sources:
 1. Twitter (X) accounts that publish tweets in Chinese.
 2. Classical Chinese poetry
-3. Wiktionary - Hokkien/Minnan vocabulary 
+3. Wiktionary - Hokkien/Minnan vocabulary
+4. [Unihan Database](https://www.unicode.org/reports/tr38/)

@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%8D%A7%E6%A7%BD+Gemini+Coder+%E5%BC%80%E6%BA%90%E4%BA%86%EF%BC%81%E8%80%8C%E4%B8%94%E6%98%AFMIT%E5%8D%8F%E8%AE%AE%E7%9A%84%EF%BC%81%E8%BF%99%E4%B8%AA%E6%8F%92%E4%BB%B6%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9A%84+VSCode+%E7%9B%B4%E6%8E%A5%E5%8F%98%E6%88%90+Cursor%2FWindsurf%2C+%E4%BC%97%E6%89%80%E5%91%A8%E4%B8%8D%E7%9F%A5%EF%BC%8CGoogle+AI+Studio+%E5%8F%AF%E4%BB%A5%E5%85%8D%E8%B4%B9%E8%96%85%E7%BE%8A%E6%AF%9B%E7%94%A8+Gemini-2.5-Pro+%E5%92%8C+Gemi%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [开源](开源.md), [直接](直接.md)
+[协议](协议.md), [开源](开源.md), [插件](插件.md), [直接](直接.md)
 ___
 ##### 2025-04-26 18:50:46 UTC ~ AI Will
 > RT @FinanceYF5: 谷歌最强的模型其实是隐藏的Gemini 2.5 Pro 与 Web Grounding 非常强大，且仅在 AI Studio 中提供你可以免费访问最强大的模型，实时获取数据：-访问 AI Studio-选择 Gemini 2.5 P…

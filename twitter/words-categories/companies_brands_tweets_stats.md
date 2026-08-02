@@ -38,7 +38,7 @@
 | [云深处科技](../hanzi-cards/云深处科技.md) | DEEP Robotics | (private) | 1 |
 | [深度求索](../hanzi-cards/深度求索.md)/[DeepSeek](../hanzi-cards/DeepSeek.md) | DeepSeek | (private) | 664 |
 | [电装](../hanzi-cards/电装.md) | Denso | DNZOY | 16 |
-| [鼎泰丰](../hanzi-cards/鼎泰丰.md) | Din Tai Fung | (private) | 2 |
+| [鼎泰丰](../hanzi-cards/鼎泰丰.md)/[鼎泰豐](../hanzi-cards/鼎泰豐.md) | Din Tai Fung | (private) | 3 |
 | [迪奥](../hanzi-cards/迪奥.md) | Dior | CHDRY | 10 |
 | [迪士尼](../hanzi-cards/迪士尼.md) | Disney | DIS | 123 |
 | [大疆](../hanzi-cards/大疆.md) | DJI | (private) | 17 |

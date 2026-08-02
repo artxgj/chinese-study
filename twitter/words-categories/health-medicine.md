@@ -92,3 +92,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [咳嗽](../hanzi-cards/咳嗽.md) | cough |
 | [失智症](../hanzi-cards/失智症.md) | dementia |
 | [白化病](../hanzi-cards/白化病.md) | alibinism |
+## Technology
+|  |  |
+| ----- | :---: |

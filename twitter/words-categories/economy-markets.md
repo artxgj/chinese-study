@@ -116,7 +116,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 ## 5. Currency, Money, and Digital Technology
 |  |  |
 | ----- | :---: |
-| [货币](../hanzi-cards/货币.md) | currency |
+| [货币](../hanzi-cards/货币.md)/[貨幣](../hanzi-cards/貨幣.md) | currency; money; (pinyin: huòbì) |
 | [法定货币](../hanzi-cards/法定货币.md) | fiat currency; legal tender; legal currency |
 | [数字货币](../hanzi-cards/数字货币.md) | digital currency |
 | [加密货币](../hanzi-cards/加密货币.md) | cryptocurrency |
@@ -134,3 +134,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [钞票](../hanzi-cards/钞票.md) | banknote; paper money; bill |
 | [虚拟资产](../hanzi-cards/虚拟资产.md) | virtual assets |
 | [储备货币](../hanzi-cards/储备货币.md) | reserve currency |
+| [假钞](../hanzi-cards/假钞.md) | counterfeit money; (pinyin: jiǎchāo) |

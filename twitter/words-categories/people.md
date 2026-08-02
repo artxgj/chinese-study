@@ -13,6 +13,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [玄奘](../hanzi-cards/玄奘.md) | Xuanzang, Tang dynasty Buddhist monk and translator |
 | [孔子](../hanzi-cards/孔子.md) | Confucius |
 | [老子](../hanzi-cards/老子.md) | Laozi/Lao-tzu |
+| [钱学森](../hanzi-cards/钱学森.md)/[錢學森](../hanzi-cards/錢學森.md) | Qian Xuesen/Tsien Hsue-Shen, aerodynamicist and cyberneticist, co-founder of JPL |
 | [杨振宁](../hanzi-cards/杨振宁.md)/[楊振寧](../hanzi-cards/楊振寧.md) | Yang Chen-Ning, 1957 Nobel Prize Winner in Physics |
 | [姚期智](../hanzi-cards/姚期智.md) | Andrew Chi-Chih Yao, 1996 Knuth Prize and 2000 Turing Award |
 | [丘成桐](../hanzi-cards/丘成桐.md) | Shing-Tung Yau, first ethnic Chinese Fields medalist |

@@ -132,7 +132,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E4%B8%80%E6%AC%BE%E9%AB%98%E6%95%88%E7%9A%84%E5%BC%80%E6%BA%90%E6%B5%8F%E8%A7%88%E5%99%A8%E7%BF%BB%E8%AF%91%E6%8F%92%E4%BB%B6%EF%BC%9AFluentRead%E3%80%82%E5%8F%AF%E4%BB%A5%E5%B0%86%E7%BD%91%E9%A1%B5%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E4%BB%BB%E4%BD%95%E8%AF%AD%E8%A8%80%EF%BC%8C%E6%94%AF%E6%8C%81+20%2B+%E7%A7%8D%E7%BF%BB%E8%AF%91%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%8C%85%E6%8B%ACDeepL+%E7%BF%BB%E8%AF%91%E3%80%81DeepSeek%E3%80%81OpenAI%E7%AD%89%E3%80%82GitHub%EF%BC%9Ahttps%3A%2F%2Ft.co%2FqaZ95uHN1I%E6%AD%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [包括](包括.md), [开源](开源.md), [支持](支持.md)
+[OpenAI](OpenAI.md), [包括](包括.md), [开源](开源.md), [插件](插件.md), [支持](支持.md)
 ___
 ##### 2025-02-15 20:15:57 UTC ~ Geek
 > RT @geekbb: 从图可见，DeepSeek V3 的性能其实已超越 GPT-4o 与 Claude Sonnet，而 DeepSeek R1 也无限逼近 o1 模型。这个曾经由美国企业（OpenAI）主导的 AI 领域，正遭遇来自中国公司的强势冲击与快速反超，并且差距正…
