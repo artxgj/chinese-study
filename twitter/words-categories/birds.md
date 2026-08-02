@@ -90,7 +90,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [老鹰](../hanzi-cards/老鹰.md) | Eagle; Hawk |
 | [白尾海雕](../hanzi-cards/白尾海雕.md) | White-tailed Eagle (pinyin: báiwěihǎidiāo) |
 | [金雕](../hanzi-cards/金雕.md) | Golden Eagle (pinyin: jīndiāo) |
-| [乌雕](../hanzi-cards/乌雕.md) | Greater Spotted eagle (pinyin: wūdiāo) |
+| [乌雕](../hanzi-cards/乌雕.md) | Greater Spotted Eagle (pinyin: wūdiāo) |
+| [灰头渔雕](../hanzi-cards/灰头渔雕.md) | Grey-headed Fish-Eagle (pinyin: huītóuyúdiāo) |
 | [鶚](../hanzi-cards/鶚.md) | Osprey (pinyin: è) |
 | [獵隼](../hanzi-cards/獵隼.md) | Saker Falcon; (pinyin: lièsǔn) |
 | [秃鹫](../hanzi-cards/秃鹫.md)/[禿鷲](../hanzi-cards/禿鷲.md) | Vulture; cinerous vulture; (pinyin: tūjiù) |
