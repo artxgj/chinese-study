@@ -164,7 +164,7 @@
 | [小米](../hanzi-cards/小米.md) | Xiaomi | XIACY | 211 |
 | [雅马哈](../hanzi-cards/雅马哈.md)/[雅馬哈](../hanzi-cards/雅馬哈.md) | Yamaha | YAMHY | 19 |
 | [安川电机](../hanzi-cards/安川电机.md)/[安川電機](../hanzi-cards/安川電機.md) | Yaskawa Electric | YASKY | 23 |
-| [长江存储](../hanzi-cards/长江存储.md)/[長江存儲科技](../hanzi-cards/長江存儲科技.md) | YMTC | pre-IPO | 14 |
+| [长江存储](../hanzi-cards/长江存储.md)/[長江存儲](../hanzi-cards/長江存儲.md) | YMTC | pre-IPO | 17 |
 | [张雪机车](../hanzi-cards/张雪机车.md)/[張雪機車](../hanzi-cards/張雪機車.md) | ZXMOTO | (private) | 18 |
 | [极氪](../hanzi-cards/极氪.md) | Zeekr | ZK | 11 |
 | [智谱](../hanzi-cards/智谱.md)/[智譜](../hanzi-cards/智譜.md) | Zhipu (Z.ai) | 2513.HK | 28 |
