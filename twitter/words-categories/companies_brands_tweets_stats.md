@@ -76,7 +76,7 @@
 | [罗技](../hanzi-cards/罗技.md) | Logitech | LOGI | 2 |
 | [浪琴](../hanzi-cards/浪琴.md) | Longines | subsidiary of The Swatch Group | 2 |
 | [欧莱雅](../hanzi-cards/欧莱雅.md) | L'Oreal | EPA:OR | 8 |
-| [瑞幸咖啡](../hanzi-cards/瑞幸咖啡.md) | Luckin Coffee | delisted | 23 |
+| [瑞幸咖啡](../hanzi-cards/瑞幸咖啡.md) | Luckin Coffee | LKNCY | 23 |
 | [麦格理](../hanzi-cards/麦格理.md) | Macquarie Group Limited | MQG.AX | 4 |
 | [前田工纤集团](../hanzi-cards/前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
 | [马士基](../hanzi-cards/马士基.md) | Maersk | AMKBY | 13 |
