@@ -1695,7 +1695,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%BB%8E%E7%94%B5%E5%BD%B1%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E7%9A%84%E8%BD%AF%E5%AE%9E%E5%8A%9B%E5%88%B0%E2%80%9C%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E2%80%9D%EF%BC%88DeepSeek%EF%BC%89%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%A8%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%96%B9%E9%9D%A2%E7%9A%84%E7%A1%AC%E5%AE%9E%E5%8A%9B%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%B0%91%E4%BC%81%E5%88%9B%E9%80%A0%E8%83%BD%E5%8A%9B%E4%BA%95%E5%96%B7%E5%BC%8F%E7%88%86%E5%8F%91%E3%80%82https%3A%2F%2Ft.co%2F5mcDIbbFy0+https%3A%2F%2Ft.co%2Ftct9FGpQe1)
 ##### Other Words/Names of Interest in the Above Tweet
-[哪吒](哪吒.md), [实力](实力.md), [机器人](机器人.md), [比亚迪](比亚迪.md), [深度求索](深度求索.md), [爆发](爆发.md), [科技](科技.md)
+[哪吒](哪吒.md), [宇树](宇树.md), [实力](实力.md), [机器人](机器人.md), [比亚迪](比亚迪.md), [深度求索](深度求索.md), [爆发](爆发.md), [科技](科技.md)
 ___
 ##### 2025-02-28 07:57:16 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【鏈接——DeepSeek的開源戰略動搖AI舊秩序】吉川和輝：特朗普執政的4年內總投資5000億美元的星際之門計劃很有可能採取類似曼哈頓計劃的秘密研發體制。但這種封閉體制可能因此次DeepSeek所展示的中國企業的技術實力和基於開源的創新…

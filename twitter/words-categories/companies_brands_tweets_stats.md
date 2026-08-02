@@ -8,6 +8,7 @@
 | [阿里巴巴](../hanzi-cards/阿里巴巴.md) | Alibaba | BABA | 263 |
 | [全日空](../hanzi-cards/全日空.md) | All Nippon Airways (ANA) | ALNPY | 27 |
 | [亚马逊](../hanzi-cards/亚马逊.md)/[亞馬遜](../hanzi-cards/亞馬遜.md) | Amazon | AMZN | 345 |
+| [中微公司](../hanzi-cards/中微公司.md) | Advanced Micro-Fabrication Equipment (AMEC) | 688012.SS | 2 |
 | [苹果](../hanzi-cards/苹果.md)/[蘋果](../hanzi-cards/蘋果.md) | Apple | AAPL | 1644 |
 | [应用材料](../hanzi-cards/应用材料.md)/[應用材料](../hanzi-cards/應用材料.md) | Applied Materials | AMAT | 12 |
 | [朝日](../hanzi-cards/朝日.md) | Asahi Group Holdings Ltd. | ASBRF | 11 |
@@ -20,6 +21,7 @@
 | [暴雪](../hanzi-cards/暴雪.md) | Blizzard | AIY.DE | 53 |
 | [宝马](../hanzi-cards/宝马.md) | BMW | BMWYY | 51 |
 | [波音](../hanzi-cards/波音.md) | Boeing | BA | 208 |
+| [强脑科技](../hanzi-cards/强脑科技.md) | BrainCo |  | 2 |
 | [桥水](../hanzi-cards/桥水.md) | Bridgewater | hedge fund | 19 |
 | [博通](../hanzi-cards/博通.md) | Broadcom | AVGO | 37 |
 | [比亚迪](../hanzi-cards/比亚迪.md)/[比亞迪](../hanzi-cards/比亞迪.md) | BYD | BYDDF | 327 |
@@ -33,11 +35,13 @@
 | [长鑫](../hanzi-cards/长鑫.md)/[長鑫](../hanzi-cards/長鑫.md) | CXMT |  "pre-IPO" | 62 |
 | [第一三共](../hanzi-cards/第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 6 |
 | [达能](../hanzi-cards/达能.md) | Danone | DANOY | 6 |
+| [云深处科技](../hanzi-cards/云深处科技.md) | DEEP Robotics | (private) | 1 |
 | [深度求索](../hanzi-cards/深度求索.md)/[DeepSeek](../hanzi-cards/DeepSeek.md) | DeepSeek | (private) | 664 |
 | [电装](../hanzi-cards/电装.md) | Denso | DNZOY | 16 |
 | [鼎泰丰](../hanzi-cards/鼎泰丰.md) | Din Tai Fung | privately-held | 2 |
 | [迪奥](../hanzi-cards/迪奥.md) | Dior | CHDRY | 10 |
 | [迪士尼](../hanzi-cards/迪士尼.md) | Disney | DIS | 123 |
+| [大疆](../hanzi-cards/大疆.md) | DJI | (private) | 17 |
 | [诚品](../hanzi-cards/诚品.md) | Eslite | 2926 (TPEX) | 4 |
 | [雅诗兰黛](../hanzi-cards/雅诗兰黛.md) | Estee Lauder | EL | 7 |
 | [迅销](../hanzi-cards/迅销.md) | Fast Retailing Co. Ltd. | FRCOY | 24 |
@@ -45,6 +49,7 @@
 | [富达国际](../hanzi-cards/富达国际.md) | Fidelity International | (private) | 5 |
 | [富士胶片](../hanzi-cards/富士胶片.md) | Fujifilm | FUJIY/FUJIF | 12 |
 | [富士康](../hanzi-cards/富士康.md) | FoxConn | (see Hon Hai) | 103 |
+| [游戏科学](../hanzi-cards/游戏科学.md)/[遊戲科學](../hanzi-cards/遊戲科學.md) | Game Science | (private) | 2 |
 | [吉利](../hanzi-cards/吉利.md) | Geely Automobile Holdings Ltd | GELYY | 72 |
 | [通用汽车](../hanzi-cards/通用汽车.md)/[通用汽車](../hanzi-cards/通用汽車.md) | General Motors | GM | 62 |
 | [環球晶](../hanzi-cards/環球晶.md) | GlobalWafers Co., Ltd. | 6488.TWO | 3 |
@@ -76,20 +81,23 @@
 | [前田工纤集团](../hanzi-cards/前田工纤集团.md) | Maeda Kosen Co., Ltd | unavailable | 1 |
 | [马士基](../hanzi-cards/马士基.md) | Maersk | AMKBY | 13 |
 | [万事达卡](../hanzi-cards/万事达卡.md)/[萬事達卡](../hanzi-cards/萬事達卡.md) | Mastercard | MA | 19 |
+| [群核科技](../hanzi-cards/群核科技.md) | Manycore Tech | 0068.HK | 1 |
 | [马自达](../hanzi-cards/马自达.md)/[馬自達](../hanzi-cards/馬自達.md) | Mazda | MZDAY | 40 |
 | [麦当劳](../hanzi-cards/麦当劳.md)/[麥當勞](../hanzi-cards/麥當勞.md) | McDonald's | MCD | 97 |
 | [奔驰](../hanzi-cards/奔驰.md) | Mercedes Benz | DDAIF | 32 |
 | [默克](../hanzi-cards/默克.md) | Merck | MRK | 47 |
+| [沐曦](../hanzi-cards/沐曦.md) | MetaX | 688802.SH | 2 |
 | [美光](../hanzi-cards/美光.md) | Micron Technology | MU | 106 |
 | [微软](../hanzi-cards/微软.md)/[微軟](../hanzi-cards/微軟.md) | Microsoft | MSFT | 434 |
 | [三菱](../hanzi-cards/三菱.md) | Mitsubishi |  | 146 |
 | [三井化学](../hanzi-cards/三井化学.md) | Mitsui Chemicals | MITUY | 3 |
 | [莫德纳](../hanzi-cards/莫德纳.md) | Moderna | MRNA | 57 |
 | [月之暗面](../hanzi-cards/月之暗面.md) | Moonshot AI | (private) | 34 |
-| [摩爾線程](../hanzi-cards/摩爾線程.md) | Moore Threads | (private) | 1 |
+| [摩尔线程](../hanzi-cards/摩尔线程.md)/[摩爾線程](../hanzi-cards/摩爾線程.md) | Moore Threads | (private) | 6 |
 | [无印良品](../hanzi-cards/无印良品.md)/[無印良品](../hanzi-cards/無印良品.md) | MUJI | RYKKY | 18 |
 | [村田](../hanzi-cards/村田.md) | Murata Manufacturing Co. Ltd | MRAAF/MRAAY | 36 |
 | [南亞科技](../hanzi-cards/南亞科技.md) | Nanya Technology | 2408.TW | 1 |
+| [北方华创](../hanzi-cards/北方华创.md) | NAURA | 002371.SZ | 1 |
 | [雀巢](../hanzi-cards/雀巢.md) | Nestlé S.A. | NSRGF | 18 |
 | [奈飞](../hanzi-cards/奈飞.md) | Netflix | NFLX | 11 |
 | [安世半导体](../hanzi-cards/安世半导体.md)/[安世半導體](../hanzi-cards/安世半導體.md) | Nexperia | (private) | 24 |
@@ -116,8 +124,9 @@
 | [希捷](../hanzi-cards/希捷.md) | Seagate | STX | 4 |
 | [精工](../hanzi-cards/精工.md) | Seiko | TYO: 8050 | 9 |
 | [红杉资本](../hanzi-cards/红杉资本.md) | Sequoia Capital | Venture Capital firm | 12 |
+| [上海微电子](../hanzi-cards/上海微电子.md) | SMEE | (private) | 3 |
 | [夏普](../hanzi-cards/夏普.md) | Sharp | SHCAY | 37 |
-| [希音](../hanzi-cards/希音.md) | Shein | private | 51 |
+| [希音](../hanzi-cards/希音.md) | Shein | (private) | 51 |
 | [资生堂](../hanzi-cards/资生堂.md) | Shiseido | SSDOY | 13 |
 | [西门子](../hanzi-cards/西门子.md)/[西門子](../hanzi-cards/西門子.md) | Siemens | SIEGY | 15 |
 | [希克斯](../hanzi-cards/希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
@@ -144,6 +153,7 @@
 | [台积电](../hanzi-cards/台积电.md)/[台積電](../hanzi-cards/台積電.md) | TSMC | TSMC | 594 |
 | [优步](../hanzi-cards/优步.md) | Uber | UBER | 22 |
 | [优衣库](../hanzi-cards/优衣库.md)/[優衣庫](../hanzi-cards/優衣庫.md) | Uniqlo | FRCOY (parent) | 77 |
+| [宇树](../hanzi-cards/宇树.md)/[宇樹](../hanzi-cards/宇樹.md) | Unitree | (private) | 49 |
 | [维萨](../hanzi-cards/维萨.md)/[維薩](../hanzi-cards/維薩.md) | Visa | V | 3 |
 | [大众](../hanzi-cards/大众.md)/[大眾](../hanzi-cards/大眾.md) | Volkswagen | VLKAF/VWAPY | 193 |
 | [沃尔玛](../hanzi-cards/沃尔玛.md) | Walmart | WMT | 55 |
@@ -154,7 +164,7 @@
 | [小米](../hanzi-cards/小米.md) | Xiaomi | XIACY | 211 |
 | [雅马哈](../hanzi-cards/雅马哈.md)/[雅馬哈](../hanzi-cards/雅馬哈.md) | Yamaha | YAMHY | 19 |
 | [安川电机](../hanzi-cards/安川电机.md)/[安川電機](../hanzi-cards/安川電機.md) | Yaskawa Electric | YASKY | 23 |
-| [长江存储科技](../hanzi-cards/长江存储科技.md)/[長江存儲科技](../hanzi-cards/長江存儲科技.md) | YMTC | pre-IPO | 10 |
+| [长江存储](../hanzi-cards/长江存储.md)/[長江存儲科技](../hanzi-cards/長江存儲科技.md) | YMTC | pre-IPO | 14 |
 | [张雪机车](../hanzi-cards/张雪机车.md)/[張雪機車](../hanzi-cards/張雪機車.md) | ZXMOTO | (private) | 18 |
 | [极氪](../hanzi-cards/极氪.md) | Zeekr | ZK | 11 |
 | [智谱](../hanzi-cards/智谱.md)/[智譜](../hanzi-cards/智譜.md) | Zhipu (Z.ai) | 2513.HK | 28 |

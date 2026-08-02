@@ -47,7 +47,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E9%95%BF%E9%91%AB%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%89%8C%E3%80%82%E5%BE%80%E4%B8%8B%E7%BF%BB%E2%80%94%E2%80%94%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E3%80%81%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E3%80%81%E4%B8%8A%E6%B5%B7%E5%BE%AE%E7%94%B5%E5%AD%90%E3%80%81%E8%93%9D%E7%AE%AD%E8%88%AA%E5%A4%A9%E3%80%81%E5%BC%BA%E8%84%91%E7%A7%91%E6%8A%80%E3%80%82%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E8%B5%84%E4%BA%A7%E6%8E%92%E9%98%9F%E8%B5%B0%E4%B8%8A%E7%89%8C%E6%A1%8C%E3%80%82%E9%95%BF%E9%91%AB%E6%95%B2%E9%94%A3%E6%98%AFDRAM%E3%80%82%E9%95%BF%E6%B1%9F%E5%9C%A8%E5%90%8E%E9%9D%A2%E6%8E%92%E9%98%9F%E2%80%94%E2%80%94NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%EF%BC%8C232%E5%B1%82%E9%87%8F%E4%BA%A7%E3%80%82%E5%AE%87%E6%A0%91%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E7%89%88%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[NAND](NAND.md), [mac](mac.md), [上海](上海.md), [存储](存储.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长鑫](长鑫.md)
+[NAND](NAND.md), [mac](mac.md), [上海](上海.md), [上海微电子](上海微电子.md), [存储](存储.md), [宇树](宇树.md), [强脑科技](强脑科技.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长江存储](长江存储.md), [长鑫](长鑫.md)
 ___
 ##### 2026-07-27 14:36:04 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 野村證券開始覆蓋中國最大DRAM製造商長存儲存技術（CXMT，688825），給予「買入」評級，目標價116人民幣，潛在上漲空間逾12倍。  看好理由：全球內存供需持續緊張。2026-2030年比特需求增長約7倍（年複合成長逾60%），即使考慮密…
@@ -521,7 +521,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%91%98%E3%80%91%E5%9D%82%E6%9C%AC%E5%B9%B8%E9%9B%84%EF%BC%9A%E5%9C%A8DRAM%E9%A2%86%E5%9F%9F%E5%A4%84%E4%BA%8E%E4%B8%AD%E5%9B%BD%E9%A1%B6%E5%B0%96%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF%EF%BC%88CXMT%EF%BC%89%E4%B8%8E%E4%B8%89%E6%98%9F%E7%9B%B8%E6%AF%94%E8%90%BD%E5%90%8E4%E4%BB%A3%E5%B7%A6%E5%8F%B3%E3%80%82%E8%80%8C%E5%9C%A8NAND%E9%97%AA%E5%AD%98%E9%A2%86%E5%9F%9F%EF%BC%8C%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%A1%B6%E5%B0%96%E7%9A%84%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E7%A7%91%E6%8A%80%EF%BC%88YMTC%EF%BC%89%E5%B0%86%E5%90%AF%E5%8A%A8%EF%BC%88%E5%AD%98%E5%82%A8%E5%85%83%E4%BB%B6%E4%B8%BA%EF%BC%89128%E5%B1%82%E7%9A%84%E9%87%8F%E4%BA%A7%EF%BC%8C%E8%99%BD%E5%B7%B2%E5%90%AF%E5%8A%A8192%E5%B1%82%E7%9A%84%E8%AF%95%E7%94%9F%E4%BA%A7%EF%BC%8C%E4%BD%86%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E9%87%8F%E8%BF%87%E5%B0%91%EF%BC%8C%E8%BE%BE%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[CXMT](CXMT.md), [NAND](NAND.md), [YMTC](YMTC.md), [三星](三星.md), [启动](启动.md), [处于](处于.md), [存储](存储.md), [技术](技术.md), [水平](水平.md), [生产](生产.md), [科技](科技.md), [量产](量产.md), [长江存储科技](长江存储科技.md), [长鑫](长鑫.md), [顶尖](顶尖.md), [领域](领域.md)
+[CXMT](CXMT.md), [NAND](NAND.md), [YMTC](YMTC.md), [三星](三星.md), [启动](启动.md), [处于](处于.md), [存储](存储.md), [技术](技术.md), [水平](水平.md), [生产](生产.md), [科技](科技.md), [量产](量产.md), [长江存储](长江存储.md), [长鑫](长鑫.md), [顶尖](顶尖.md), [领域](领域.md)
 ___
 ##### 2022-03-21 06:20:35 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【链接：尔必达破产留给日本半导体的教训(上)】江口良辅：尔必达曾是一度在DRAM领域占近2成份额的日本厂商。但2012年申请破产重组并被并入美光科技旗下。前社长坂本幸雄叹息道：如果当时生存下来，能在全球展开竞争的存储器企业有可能诞生在日本…

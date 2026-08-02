@@ -384,7 +384,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E6%9D%AD%E5%B7%9E%E5%AE%98%E6%96%B9%E7%A7%B0%EF%BC%8C%E5%B0%86%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96%E8%B5%84%E9%87%91%E5%A2%9E%E8%87%B3502%E4%BA%BF%E5%85%83%EF%BC%88%E4%BA%BA%E6%B0%91%E5%B8%81%EF%BC%8C93%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%9F%B9%E8%82%B2%E6%9B%B4%E5%A4%9A%E7%B1%BB%E4%BC%BCDeepSeek%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E7%9A%84%E5%88%9B%E6%96%B0%E4%BC%81%E4%B8%9A%E3%80%82+https%3A%2F%2Ft.co%2FpwOOoB1xbL)
 ##### Other Words/Names of Interest in the Above Tweet
-[政策](政策.md), [杭州](杭州.md), [科技](科技.md), [金](金.md)
+[宇树](宇树.md), [政策](政策.md), [杭州](杭州.md), [科技](科技.md), [金](金.md)
 ___
 ##### 2025-02-11 09:00:21 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 据界面新闻报道，业内人士乐观估计，梁文锋持有的DeepSeek股份价值将达到1260亿美元（约5629.68亿令吉），甚至可能超过身价1180亿美元（约5272.24亿令吉）的黄仁勋。凭借DeepSeek在AI领域的成功，公司创始人梁文锋很有…
@@ -433,7 +433,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%A4%E5%AE%B6%E6%80%BB%E9%83%A8%E8%AE%BE%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%9C%81%E4%BC%9A%E6%9D%AD%E5%B7%9E%E7%9A%84%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%8E%E4%B8%80%E5%A4%95%E7%88%86%E7%BA%A2%EF%BC%8C%E4%B8%8D%E4%BB%85%E5%BC%95%E5%8F%91%E8%88%86%E8%AE%BA%E5%85%B3%E6%B3%A8%E6%9D%AD%E5%B7%9E%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%EF%BC%8C%E8%BF%98%E6%8E%80%E8%B5%B7%E4%B8%AD%E5%9B%BD%E5%90%84%E5%9C%B0%E5%8F%8D%E6%80%9D%E5%A6%82%E4%BD%95%E7%9B%B4%E9%9D%A2%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%97%B6%E4%BB%A3%E7%9A%84%E5%91%BC%E5%95%B8%E8%80%8C%E6%9D%A5%E3%80%82+https%3A%2F%2Ft.co%2FCp9jL68uCK)
 ##### Other Words/Names of Interest in the Above Tweet
-[不仅](不仅.md), [人工智能](人工智能.md), [关注](关注.md), [初创企业](初创企业.md), [引发](引发.md), [掀起](掀起.md), [春节](春节.md), [杭州](杭州.md), [浙江](浙江.md), [深度求索](深度求索.md), [科技](科技.md)
+[不仅](不仅.md), [人工智能](人工智能.md), [关注](关注.md), [初创企业](初创企业.md), [宇树](宇树.md), [引发](引发.md), [掀起](掀起.md), [春节](春节.md), [杭州](杭州.md), [浙江](浙江.md), [深度求索](深度求索.md), [科技](科技.md)
 ___
 ##### 2025-02-10 06:26:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 中国三大电信运营商的股价跳升，这些公司此前表示，已将DeepSeek的AI模型整合到它们的产品中。https://t.co/99oHLXUI7v
@@ -664,7 +664,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CNS1952%3A+%E3%80%90%E5%A4%9A%E5%9C%B0%E5%8F%AC%E9%96%8B%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E6%9C%83%EF%BC%8C%E7%BD%AE%E9%A0%82%E7%87%9F%E5%95%86%E7%92%B0%E5%A2%83%E3%80%91%E2%80%9C%E8%8F%AF%E7%82%BA%E4%BB%A5%E9%A0%98%E5%85%88%E7%9A%84%E6%95%B8%E5%AD%97%E6%8A%80%E8%A1%93%E8%B3%A6%E8%83%BD%E5%8D%83%E8%A1%8C%E7%99%BE%E6%A5%AD%EF%BC%9B%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%28DeepSeek%29%E4%BB%A5%E4%B8%8D%E6%80%95%E8%99%8E%E7%9A%84%E5%8B%87%E6%B0%A3%E9%8A%B3%E6%B0%A3%E6%92%BC%E5%8B%95%E7%BE%8E%E5%9C%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B7%A8%E9%A0%AD%E3%80%81%E7%94%A2%E7%94%9F%E9%80%A3%E9%8E%96%E6%95%88%E6%87%89%EF%BC%9B%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%E7%9A%84%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%99%BB%E4%B8%8A%E5%A4%AE%E8%A6%96%E6%98%A5%E6%99%9A%E8%88%9E%E5%8F%B0%E2%80%A6%E2%80%A6%E2%80%9D%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%BB%A3%E6%9D%B1%E7%9A%84%E6%96%B0%E6%98%A5%E7%AC%AC%E4%B8%80%E6%9C%83%E4%B8%8A%EF%BC%8C%E7%9C%81%E5%A7%94%E6%9B%B8%E8%A8%98%E9%BB%83%E5%9D%A4%E6%98%8E%E6%8E%A5%E9%80%A3%E9%BB%9E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [廣東](廣東.md), [新春](新春.md), [機器人](機器人.md), [深度求索](深度求索.md), [科技](科技.md), [美國](美國.md), [華為](華為.md)
+[人工智能](人工智能.md), [宇樹](宇樹.md), [廣東](廣東.md), [新春](新春.md), [機器人](機器人.md), [深度求索](深度求索.md), [科技](科技.md), [美國](美國.md), [華為](華為.md)
 ___
 ##### 2025-02-06 11:48:36 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 韩国多个政府部门开始屏蔽中国人工智能（AI）企业深度探索（DeepSeek）的大模型平台。 https://t.co/XnlIsznPKN https://t.co/XbuTxIxjts

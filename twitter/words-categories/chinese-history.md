@@ -28,12 +28,12 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | ----- | :---: |
 | [曹操](../hanzi-cards/曹操.md) | Cao Cao |
 | [刘备](../hanzi-cards/刘备.md)/[劉備](../hanzi-cards/劉備.md) | Liu Bei |
-| [诸葛亮](../hanzi-cards/诸葛亮.md)/[諸葛孔明](../hanzi-cards/諸葛孔明.md) | Zhuge Liang/Kong Ming |
+| [诸葛亮](../hanzi-cards/诸葛亮.md)/[諸葛亮](../hanzi-cards/諸葛亮.md)/[諸葛孔明](../hanzi-cards/諸葛孔明.md) | Zhuge Liang/Zhuge Kongming |
 | [孙权](../hanzi-cards/孙权.md)/[孫權](../hanzi-cards/孫權.md) | Sun Quan |
 | [庞统](../hanzi-cards/庞统.md) | Pang Tong |
 | [司马懿](../hanzi-cards/司马懿.md) | Sima Yi |
 | [周瑜](../hanzi-cards/周瑜.md) | Zhou Yu |
-## 3. History
+## 3. Events
 |  |  |
 | ----- | :---: |
 | [七七事变](../hanzi-cards/七七事变.md) | July 7 Incident/Lugou Bridge Incident/Marco Polo Bridge Incident |
