@@ -21,7 +21,7 @@
 | [暴雪](../hanzi-cards/暴雪.md) | Blizzard | AIY.DE | 53 |
 | [宝马](../hanzi-cards/宝马.md) | BMW | BMWYY | 51 |
 | [波音](../hanzi-cards/波音.md) | Boeing | BA | 208 |
-| [强脑科技](../hanzi-cards/强脑科技.md) | BrainCo |  | 2 |
+| [强脑科技](../hanzi-cards/强脑科技.md) | BrainCo | (private) | 2 |
 | [桥水](../hanzi-cards/桥水.md) | Bridgewater | hedge fund | 19 |
 | [博通](../hanzi-cards/博通.md) | Broadcom | AVGO | 37 |
 | [比亚迪](../hanzi-cards/比亚迪.md)/[比亞迪](../hanzi-cards/比亞迪.md) | BYD | BYDDF | 327 |
