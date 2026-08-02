@@ -21,7 +21,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [看跌期权](../hanzi-cards/看跌期权.md)/[看跌期权](../hanzi-cards/看跌期权.md) | put options |
 | [看漲期權](../hanzi-cards/看漲期權.md) | call options |
 | [期货](../hanzi-cards/期货.md)/[期貨](../hanzi-cards/期貨.md) | futures |
-| [黃金](../hanzi-cards/黃金.md) | gold; precious (thihg); valuable |
+| [黃金](../hanzi-cards/黃金.md) | gold; precious (thing); valuable |
 | [白银](../hanzi-cards/白银.md)/[白銀](../hanzi-cards/白銀.md) | silver |
 ## 3. Agricultural Commodities
 |  |  |
