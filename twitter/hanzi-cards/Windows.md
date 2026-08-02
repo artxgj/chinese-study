@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2026-07-20 06:30:34 UTC ~ TechNews 科技新報
+> RT @technews_tw: #輝達 Windows AI PC 布局再加速！秋季上市的 RTX Spark 搶先釋出預覽版驅動程式與 CUDA 13.4，全面支援 Windows on Arm。 https://t.co/rGXxP1ojuT
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%BC%9D%E9%81%94+Windows+AI+PC+%E5%B8%83%E5%B1%80%E5%86%8D%E5%8A%A0%E9%80%9F%EF%BC%81%E7%A7%8B%E5%AD%A3%E4%B8%8A%E5%B8%82%E7%9A%84+RTX+Spark+%E6%90%B6%E5%85%88%E9%87%8B%E5%87%BA%E9%A0%90%E8%A6%BD%E7%89%88%E9%A9%85%E5%8B%95%E7%A8%8B%E5%BC%8F%E8%88%87+CUDA+13.4%EF%BC%8C%E5%85%A8%E9%9D%A2%E6%94%AF%E6%8F%B4+Windows+on+Arm%E3%80%82+https%3A%2F%2Ft.co%2FrGXxP1ojuT)
+##### Other Words/Names of Interest in the Above Tweet
+[布局](布局.md), [支援](支援.md), [輝達](輝達.md)
+___
 ##### 2026-07-03 06:55:10 UTC ~ 蓝点网
 > RT @landiantech: U 盘刻录装机神器 #Rufus v4.15 正式版发布，修复静默安装 Windows 10/11 出现的失败问题。Rufus 可以跳过 Windows 11 硬件限制、解除登录微软账号、禁用设备加密、优化使用体验等，属于目前 U 盘装机非…
 
@@ -20,6 +27,13 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MJTVHoPin%3A+%E9%BB%83%E4%BB%81%E5%8B%B3%E6%AD%A3%E5%BC%8F%E6%AE%BA%E9%80%B2Windows%E7%AD%86%E9%9B%BB%E5%B8%82%E5%A0%B4%EF%BC%81%E8%BC%9D%E9%81%94%E5%90%91%E8%8B%B1%E7%89%B9%E7%88%BE%E3%80%81AMD%E7%99%BC%E8%B5%B7%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%B0%E5%85%A8%E7%90%83AI%E6%99%B6%E7%89%87%E9%9C%B8%E4%B8%BB+Jensen+Huang%EF%BC%88%E9%BB%83%E4%BB%81%E5%8B%B3%EF%BC%896%E6%9C%881%E6%97%A5%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E9%9B%BB%E8%85%A6%E5%B1%95%EF%BC%88Computex%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E8%BC%9D%E9%81%94%EF%BC%88NVIDIA%EF%BC%89%E5%B0%87%E6%AD%A3%E5%BC%8F%E9%80%B2%E8%BB%8DWindows%E7%AD%86%E8%A8%98%E5%9E%8B%E9%9B%BB%E8%85%A6%E6%A0%B8%E5%BF%83%E8%99%95%E7%90%86%E5%99%A8%E5%B8%82%E5%A0%B4%EF%BC%8C%E6%8E%A8%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [AMD](AMD.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [輝達](輝達.md), [黃仁勳](黃仁勳.md)
+___
+##### 2026-06-02 05:51:24 UTC ~ 空空|上Gate玩事件合约
+> RT @btcoindown: 黄仁勋在GTC Taipei主题演讲上掏出了RTX Spark。据说这科芯片就像Windows95改变PC一样，有了RTX Spark，你只需要提问，PC就会完成工作。这颗由英伟达与联发科联合开发、台积电3nm工艺制造的SoC，把20核G…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcoindown%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8GTC+Taipei%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E4%B8%8A%E6%8E%8F%E5%87%BA%E4%BA%86RTX+Spark%E3%80%82%E6%8D%AE%E8%AF%B4%E8%BF%99%E7%A7%91%E8%8A%AF%E7%89%87%E5%B0%B1%E5%83%8FWindows95%E6%94%B9%E5%8F%98PC%E4%B8%80%E6%A0%B7%EF%BC%8C%E6%9C%89%E4%BA%86RTX+Spark%EF%BC%8C%E4%BD%A0%E5%8F%AA%E9%9C%80%E8%A6%81%E6%8F%90%E9%97%AE%EF%BC%8CPC%E5%B0%B1%E4%BC%9A%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%E3%80%82%E8%BF%99%E9%A2%97%E7%94%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E8%81%94%E5%8F%91%E7%A7%91%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%B0%E7%A7%AF%E7%94%B53nm%E5%B7%A5%E8%89%BA%E5%88%B6%E9%80%A0%E7%9A%84SoC%EF%BC%8C%E6%8A%8A20%E6%A0%B8G%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[台积电](台积电.md), [工艺](工艺.md), [开发](开发.md), [芯片](芯片.md), [英伟达](英伟达.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2026-06-01 06:50:19 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 闪击英特尔！英伟达 CEO 黄仁勋，正式公布了与微软、联发科合作推出的 Windows 全新处理器 N1X。这批芯片，主要面向本地部署 AI 代理应用。微软生态的代工公司，如惠普、戴尔、联想、华硕、宏碁及微星等，也将陆续跟进其配置。此次发布，意味…
@@ -213,7 +227,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%96%AE%E5%83%B9%E6%A0%BC%E9%80%A3%E7%BA%8C4%E5%80%8B%E6%9C%88%E4%B8%8A%E6%BC%B2%E3%80%91DRAM%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC2%E6%9C%88%E7%92%B0%E6%AF%94%E4%B8%8A%E6%BC%B25%EF%BC%85%E3%80%822024%E5%B9%B4%E7%BE%8E%E5%9C%8B%E5%BE%AE%E8%BB%9F%E7%9A%84Windows+10%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E5%B0%87%E5%81%9C%E6%AD%A2%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8C%81%E6%9C%8D%E5%8B%99%EF%BC%8C%E9%A0%90%E8%A8%88%E6%9C%83%E5%87%BA%E7%8F%BE%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6%E6%9B%B4%E6%96%B0%E9%9C%80%E6%B1%82%E3%80%82%E7%82%BA%E4%BA%86%E5%AF%A6%E7%8F%BE%E7%A9%A9%E5%AE%9A%E6%8E%A1%E8%B3%BC%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E7%9A%84%E8%B2%B7%E6%96%B9%E6%8E%A5%E5%8F%97%E4%BA%86%E5%BB%A0%E5%95%86%E7%9A%84%E6%BC%B2%E5%83%B9%E8%A6%81%E6%B1%82%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [交易](交易.md), [微軟](微軟.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [美國](美國.md), [記憶體](記憶體.md), [需求](需求.md), [預計](預計.md)
+[DRAM](DRAM.md), [交易](交易.md), [微軟](微軟.md), [提供](提供.md), [操作](操作.md), [支持](支持.md), [漲](漲.md), [美國](美國.md), [記憶體](記憶體.md), [需求](需求.md), [預計](預計.md)
 ___
 ##### 2024-01-05 17:50:49 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 微软（#Microsoft）今天在官方部落格发文宣布，为了迎接人工智能（AI）世代到来，搭载Windows 11作业系统的新款个人电脑键盘。 https://t.co/UdvvhpmCQ5 https://t.co/6y0f6KB3e0

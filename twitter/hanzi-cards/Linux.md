@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Linux) for definition
 ### Tweets containing Linux
 
 ___
+##### 2026-07-31 01:31:23 UTC ~ 鸭哥
+> RT @grapeot: 无人机里那颗芯片是 ARM，但不跑 Linux。很多人觉得算力越强越能解决问题——树莓派 2.4GHz 四核，STM32 几百 MHz 单核，凭什么无人机里用 STM32？答案藏在电机控制的物理本质里。无刷电机的换相循环每 40-62 微秒必须…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40grapeot%3A+%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%87%8C%E9%82%A3%E9%A2%97%E8%8A%AF%E7%89%87%E6%98%AF+ARM%EF%BC%8C%E4%BD%86%E4%B8%8D%E8%B7%91+Linux%E3%80%82%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%A7%89%E5%BE%97%E7%AE%97%E5%8A%9B%E8%B6%8A%E5%BC%BA%E8%B6%8A%E8%83%BD%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E2%80%94%E2%80%94%E6%A0%91%E8%8E%93%E6%B4%BE+2.4GHz+%E5%9B%9B%E6%A0%B8%EF%BC%8CSTM32+%E5%87%A0%E7%99%BE+MHz+%E5%8D%95%E6%A0%B8%EF%BC%8C%E5%87%AD%E4%BB%80%E4%B9%88%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%87%8C%E7%94%A8+STM32%EF%BC%9F%E7%AD%94%E6%A1%88%E8%97%8F%E5%9C%A8%E7%94%B5%E6%9C%BA%E6%8E%A7%E5%88%B6%E7%9A%84%E7%89%A9%E7%90%86%E6%9C%AC%E8%B4%A8%E9%87%8C%E3%80%82%E6%97%A0%E5%88%B7%E7%94%B5%E6%9C%BA%E7%9A%84%E6%8D%A2%E7%9B%B8%E5%BE%AA%E7%8E%AF%E6%AF%8F+40-62+%E5%BE%AE%E7%A7%92%E5%BF%85%E9%A1%BB%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[控制](控制.md), [无人机](无人机.md), [本质](本质.md), [芯片](芯片.md)
+___
 ##### 2026-07-03 08:15:41 UTC ~ 蓝点网
 > RT @landiantech: Linux 基金会承认内核归档文件被删除，原因是添加新的主镜像站时出现配置失误，目前正在恢复所有数据。截至本文发布时近期发布的内核文件已经可以重新下载，不过更多存档文件还在陆续恢复中，下游镜像站同步可能也需要时间。查看全文：https:…
 
@@ -103,7 +110,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E4%B8%80%E4%B8%AA%E5%9F%BA%E4%BA%8E+Linux+%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%BD%91%E9%A1%B5%E5%B7%A5%E5%85%B7+NetHang%EF%BC%8C%E4%B8%93%E9%97%A8%E7%94%A8%E4%BA%8E%E6%A8%A1%E6%8B%9F%E7%BD%91%E7%BB%9C%E8%B4%A8%E9%87%8F%EF%BC%8C%E9%80%82%E5%90%88%E5%AF%B9%E5%AE%9E%E6%97%B6%E6%80%A7%E8%A6%81%E6%B1%82%E9%AB%98%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%BA%94%E7%94%A8%E5%92%8C%E6%9C%8D%E5%8A%A1%E8%BF%9B%E8%A1%8C%E5%BC%B1%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%B5%8B%E8%AF%95%E3%80%82%F0%9F%9B%9C+https%3A%2F%2Ft.co%2FRui8oK4We5%E5%AE%83%E5%86%85%E7%BD%AE%E4%BA%86%E5%A4%9A%E7%A7%8D%E7%BD%91%E7%BB%9C%E5%9C%BA%E6%99%AF%E6%A8%A1%E5%9E%8B%E6%94%AF%E6%8C%81%E6%A8%A1%E6%8B%9F%E7%BD%91%E7%BB%9C%E4%B8%A2%E5%8C%85%E3%80%81%E5%BB%B6%E8%BF%9F%E3%80%81%E6%8A%96%E5%8A%A8%E3%80%81%E5%B8%A6%E5%AE%BD%E9%99%90%E5%88%B6%E7%AD%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[互联网](互联网.md), [工具](工具.md), [带宽](带宽.md), [平台](平台.md), [延迟](延迟.md), [支持](支持.md), [模型](模型.md), [模拟](模拟.md), [用于](用于.md), [进行](进行.md), [限制](限制.md)
+[互联网](互联网.md), [场景](场景.md), [工具](工具.md), [带宽](带宽.md), [平台](平台.md), [延迟](延迟.md), [支持](支持.md), [模型](模型.md), [模拟](模拟.md), [用于](用于.md), [进行](进行.md), [限制](限制.md)
 ___
 ##### 2025-06-11 05:49:55 UTC ~ Geek
 > RT @geekbb: 来了👇Containerization - 提供轻量级虚拟机中的 Linux 容器运行时环境。。https://t.co/pFjaUVBCOnContainer - 专为 macOS 设计的容器化平台，使用 Swift 编写并针对 Apple 芯片…
@@ -132,6 +139,11 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E9%BB%91%E8%8B%B9%E6%9E%9C%E7%BB%88%E5%B0%86%E9%80%80%E5%87%BA%E8%88%9E%E5%8F%B0%EF%BC%8C%E6%88%91%E4%B9%9F%E5%9D%9A%E5%86%B3%E4%B8%8D%E4%BC%9A%E5%9B%9E%E5%88%B0+Windows%EF%BC%8C%EF%BC%8C%E6%89%80%E4%BB%A5%E6%8F%90%E5%89%8D%E5%BC%80%E5%A7%8B%E7%86%9F%E6%82%89+Linux+%E7%B3%BB%E7%BB%9F%E3%80%82%E4%BD%9C%E4%B8%BA%E4%B8%80%E5%90%8D%E5%BD%BB%E5%BA%95%E7%9A%84%E6%96%B0%E6%89%8B%EF%BC%8C%E6%88%91%E4%BD%93%E9%AA%8C%E4%BA%86%E5%87%A0%E4%B8%AA%E4%B8%BB%E6%B5%81%E5%8F%91%E8%A1%8C%E7%89%88%EF%BC%8C%E6%9C%80%E7%BB%88%E9%80%89%E5%AE%9A+EndeavourOS%E3%80%82%E5%9B%A0%E4%B8%BA%E6%9C%89+AI+%E8%BE%85%E5%8A%A9%EF%BC%8C%E5%A6%82%E4%BB%8A%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%97%A8%E6%A7%9B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%BD%8E%EF%BC%8C%E4%B8%8A%E6%89%8B%E9%80%9F%E5%BA%A6%E4%B9%9F%E6%98%8E%E6%98%BE%E5%8A%A0%E5%BF%AB%E4%BA%86%E3%80%82+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [Windows](Windows.md), [发行](发行.md), [如今](如今.md), [明显](明显.md), [熟悉](熟悉.md), [系统](系统.md), [苹果](苹果.md), [越来越](越来越.md), [速度](速度.md), [门槛](门槛.md)
+___
+##### 2025-03-22 07:56:12 UTC ~ Andy Stewart
+> RT @manateelazycat: 我们常年招Linux人才， 这个周末先招一个岗位吧：Vue/Golang全栈工程师1.  坐标武汉， 不招远程， 大佬们不好意思2. 下班用Linux， 上班才用Linux的折腾不够哈3. Vue/React很熟练， 不要写…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+%E6%88%91%E4%BB%AC%E5%B8%B8%E5%B9%B4%E6%8B%9BLinux%E4%BA%BA%E6%89%8D%EF%BC%8C+%E8%BF%99%E4%B8%AA%E5%91%A8%E6%9C%AB%E5%85%88%E6%8B%9B%E4%B8%80%E4%B8%AA%E5%B2%97%E4%BD%8D%E5%90%A7%EF%BC%9AVue%2FGolang%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%881.++%E5%9D%90%E6%A0%87%E6%AD%A6%E6%B1%89%EF%BC%8C+%E4%B8%8D%E6%8B%9B%E8%BF%9C%E7%A8%8B%EF%BC%8C+%E5%A4%A7%E4%BD%AC%E4%BB%AC%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D2.+%E4%B8%8B%E7%8F%AD%E7%94%A8Linux%EF%BC%8C+%E4%B8%8A%E7%8F%AD%E6%89%8D%E7%94%A8Linux%E7%9A%84%E6%8A%98%E8%85%BE%E4%B8%8D%E5%A4%9F%E5%93%883.+Vue%2FReact%E5%BE%88%E7%86%9F%E7%BB%83%EF%BC%8C+%E4%B8%8D%E8%A6%81%E5%86%99%E2%80%A6)
 ___
 ##### 2025-02-24 00:44:46 UTC ~ Tw93
 > RT @HiTw93: 假如你使用 Grok 缺少一个桌面客户端，可以试试我刚刚用 Pake 打包的版本，支持 Mac / Windows / Linux，包体积很小，使用体验和性能不错，推荐使用 Raycast 配置一个快捷键唤起使用，很是方便，可以去 Pake 常用应用第…

@@ -28,18 +28,23 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [朱鹮](../hanzi-cards/朱鹮.md) | Crested Ibis (pinyin: zhūhuán) |
 | [白头鵙鹛](../hanzi-cards/白头鵙鹛.md) | White-hooded Babbler (pinyin: báitóujúméi) |
 | [凤头鸊鷉](../hanzi-cards/凤头鸊鷉.md) | Great Crested Grebe (pinyin: fèngtóupìtī) |
-| [鹬](../hanzi-cards/鹬.md) | sandpiper; snipe; (pinyin: yù) |
+| [鹬](../hanzi-cards/鹬.md) | Sandpiper; Snipe; (pinyin: yù) |
 | [长脚鹬](../hanzi-cards/长脚鹬.md) | Stilt (pinyin: chángjiǎoyù) |
 | [勺嘴鹬](../hanzi-cards/勺嘴鹬.md) | Spoon-billed Sandpiper (pinyin: sháozuǐyù) |
 | [小青脚鹬](../hanzi-cards/小青脚鹬.md) | Nordmann's Greenshank (pinyin: xiǎoqīngjiǎoyù) |
+| [黑腹滨鹬](../hanzi-cards/黑腹滨鹬.md) | Dunlin (pinyin: hēifùbīnyù) |
+| [黑翅长腿鹬](../hanzi-cards/黑翅长腿鹬.md) | Black-winged Stilt (pinyin: hēichìzhǎngtuǐyù) |
 | [旗翼夜鷹](../hanzi-cards/旗翼夜鷹.md)/[纓翅夜鷹](../hanzi-cards/纓翅夜鷹.md) | Standard-winged Nightjar (pinyin: qíyìyèyīng/yīngchìyèyīng) |
-| [椋鸟](../hanzi-cards/椋鸟.md) | starling (pinyin: liángniǎo) |
+| [黃葦鳽](../hanzi-cards/黃葦鳽.md) | Yellow Bittern (pinyin: huángwěiyán) |
+| [花冠皱盔犀鸟](../hanzi-cards/花冠皱盔犀鸟.md)/[花冠皺盔犀鳥](../hanzi-cards/花冠皺盔犀鳥.md) | Wreathed Hornbill (pinyin: huāguānzhòukuīxīniǎo) |
+| [椋鸟](../hanzi-cards/椋鸟.md) | Starling (pinyin: liángniǎo) |
 | [藍翅八色鶇](../hanzi-cards/藍翅八色鶇.md) | Indian Pitta (pinyin: lánchìbāsèdōng) |
 | [仙八色鶇](../hanzi-cards/仙八色鶇.md) | Fairy Pitta (pinyin: xiānbāsèdōng) |
 | [花彩雀莺](../hanzi-cards/花彩雀莺.md) | White-browed Tit-Warbler (pinyin: huācǎiquèyīng) |
 | [中华攀雀](../hanzi-cards/中华攀雀.md)/[中華攀雀](../hanzi-cards/中華攀雀.md) | Chinese Penduline Tit (pinyin: zhōnghuápānquè) |
 | [金翅雀](../hanzi-cards/金翅雀.md) | Oriental Greenfinch (pinyin: jīnchìquè) |
 | [黃嘴朱頂雀](../hanzi-cards/黃嘴朱頂雀.md) | Twite (pinyin: huángzuǐzhūdǐngquè) |
+| [翠鳥](../hanzi-cards/翠鳥.md) | Kingfisher (cuìniǎo) |
 | [蜂鸟](../hanzi-cards/蜂鸟.md)/[蜂鳥](../hanzi-cards/蜂鳥.md) | Hummingbird |
 | [海鹦](../hanzi-cards/海鹦.md) | Puffin (pinyin: hǎiyīng) |
 | [鸥](../hanzi-cards/鸥.md)/[鷗](../hanzi-cards/鷗.md) | Gull (pinyin: ōu) |
@@ -51,20 +56,20 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [雀](../hanzi-cards/雀.md) | sparrow (pinyin: què) |
 | [麻雀](../hanzi-cards/麻雀.md) | House Sparrow (pinyin: máquè) |
 | [家燕](../hanzi-cards/家燕.md) | Barn Swallow |
-| [金丝雀](../hanzi-cards/金丝雀.md) | Atlantic canary (pinyin: jīnsīquè) |
-| [北美红雀](../hanzi-cards/北美红雀.md) | Northern cardinal |
+| [金丝雀](../hanzi-cards/金丝雀.md) | Atlantic Canary (pinyin: jīnsīquè) |
+| [北美红雀](../hanzi-cards/北美红雀.md) | Northern Cardinal |
 | [云雀](../hanzi-cards/云雀.md) | Skylark |
 | [震旦鸦雀](../hanzi-cards/震旦鸦雀.md) | Reed parrotbill (pinyin: zhèndànyāquè) |
-| [鹅](../hanzi-cards/鹅.md)/[鵝](../hanzi-cards/鵝.md) | goose (pinyin: é) |
-| [天鹅](../hanzi-cards/天鹅.md)/[天鵝](../hanzi-cards/天鵝.md) | swan |
+| [鹅](../hanzi-cards/鹅.md)/[鵝](../hanzi-cards/鵝.md) | Goose (pinyin: é) |
+| [天鹅](../hanzi-cards/天鹅.md)/[天鵝](../hanzi-cards/天鵝.md) | Swan |
 | [小天鹅](../hanzi-cards/小天鹅.md)/[小天鵝](../hanzi-cards/小天鵝.md) | Tundra Swan; little swan |
 | [白鹅](../hanzi-cards/白鹅.md) | White Goose |
 | [豆雁](../hanzi-cards/豆雁.md) | Taiga Bean-Goose (pinyin: dòuyàn) |
 | [大雁](../hanzi-cards/大雁.md) | Wild Goose |
 | [斑头雁](../hanzi-cards/斑头雁.md) | Bar-headed Goose (pinyin: bāntóuyàn) |
 | [鸿雁](../hanzi-cards/鸿雁.md) | Swan Goose (pinyin: hóngyàn) |
-| [鸬鹚](../hanzi-cards/鸬鹚.md) | cormorant (pinyin: lúcí) |
-| [鸭](../hanzi-cards/鸭.md)/[鸭](../hanzi-cards/鸭.md) | duck (pinyin:yā) |
+| [鸬鹚](../hanzi-cards/鸬鹚.md) | Cormorant (pinyin: lúcí) |
+| [鸭](../hanzi-cards/鸭.md)/[鸭](../hanzi-cards/鸭.md) | Duck (pinyin:yā) |
 | [綠頭鴨](../hanzi-cards/綠頭鴨.md) | Mallard |
 | [中華秋沙鴨](../hanzi-cards/中華秋沙鴨.md) | Scaly-sided Merganser |
 | [赤麻鸭](../hanzi-cards/赤麻鸭.md) | Ruddy Shelduck (pinyin: chìmáyā) |
@@ -82,12 +87,16 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [乌鸦](../hanzi-cards/乌鸦.md)/[烏鴉](../hanzi-cards/烏鴉.md) | Crow; raven; (pinyin: wūyā) |
 | [鸵鸟](../hanzi-cards/鸵鸟.md)/[鴕鳥](../hanzi-cards/鴕鳥.md) | Ostrich (pinyin: tuóniǎo) |
 | [鷹](../hanzi-cards/鷹.md)/[鹰](../hanzi-cards/鹰.md) | eagle, falcon; Accipiter species (various); (pinyin: yīng) |
-| [老鹰](../hanzi-cards/老鹰.md) | eagle; hawk |
+| [老鹰](../hanzi-cards/老鹰.md) | Eagle; Hawk |
 | [白尾海雕](../hanzi-cards/白尾海雕.md) | White-tailed Eagle (pinyin: báiwěihǎidiāo) |
 | [金雕](../hanzi-cards/金雕.md) | Golden Eagle (pinyin: jīndiāo) |
-| [秃鹫](../hanzi-cards/秃鹫.md)/[禿鷲](../hanzi-cards/禿鷲.md) | vulture; cinerous vulture; (pinyin: tūjiù) |
+| [乌雕](../hanzi-cards/乌雕.md) | Greater Spotted eagle (pinyin: wūdiāo) |
+| [鶚](../hanzi-cards/鶚.md) | Osprey (pinyin: è) |
+| [獵隼](../hanzi-cards/獵隼.md) | Saker Falcon; (pinyin: lièsǔn) |
+| [秃鹫](../hanzi-cards/秃鹫.md)/[禿鷲](../hanzi-cards/禿鷲.md) | Vulture; cinerous vulture; (pinyin: tūjiù) |
 ## General
 |  |  |
 | ----- | :---: |
 | [恐龙](../hanzi-cards/恐龙.md)/[恐龍](../hanzi-cards/恐龍.md) | dinosaur (pinyin: kǒnglóng) |
 | [候鸟](../hanzi-cards/候鸟.md)/[候鳥](../hanzi-cards/候鳥.md) | migratory bird (pinyin: hòuniǎo) |
+| [猛禽](../hanzi-cards/猛禽.md) | bird of prey (pinyin:  měngqín) |

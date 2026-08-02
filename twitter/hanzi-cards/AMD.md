@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-07-30 05:11:46 UTC ~ Sober 期权坤哥
+> RT @soberoption: 美股正在上演一场残酷的"轮动屠杀"。芯片股连续暴跌，闪迪从高点腰斩，美光AMD一天跌8%，费半指数两天崩掉近10%。但苹果市值突破5万亿美元，可口可乐创历史新高。市场在告诉你：AI的故事没问题，但估值的故事出问题了。钱没有离开美股，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40soberoption%3A+%E7%BE%8E%E8%82%A1%E6%AD%A3%E5%9C%A8%E4%B8%8A%E6%BC%94%E4%B8%80%E5%9C%BA%E6%AE%8B%E9%85%B7%E7%9A%84%22%E8%BD%AE%E5%8A%A8%E5%B1%A0%E6%9D%80%22%E3%80%82%E8%8A%AF%E7%89%87%E8%82%A1%E8%BF%9E%E7%BB%AD%E6%9A%B4%E8%B7%8C%EF%BC%8C%E9%97%AA%E8%BF%AA%E4%BB%8E%E9%AB%98%E7%82%B9%E8%85%B0%E6%96%A9%EF%BC%8C%E7%BE%8E%E5%85%89AMD%E4%B8%80%E5%A4%A9%E8%B7%8C8%25%EF%BC%8C%E8%B4%B9%E5%8D%8A%E6%8C%87%E6%95%B0%E4%B8%A4%E5%A4%A9%E5%B4%A9%E6%8E%89%E8%BF%9110%25%E3%80%82%E4%BD%86%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B45%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E3%80%82%E5%B8%82%E5%9C%BA%E5%9C%A8%E5%91%8A%E8%AF%89%E4%BD%A0%EF%BC%9AAI%E7%9A%84%E6%95%85%E4%BA%8B%E6%B2%A1%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BD%86%E4%BC%B0%E5%80%BC%E7%9A%84%E6%95%85%E4%BA%8B%E5%87%BA%E9%97%AE%E9%A2%98%E4%BA%86%E3%80%82%E9%92%B1%E6%B2%A1%E6%9C%89%E7%A6%BB%E5%BC%80%E7%BE%8E%E8%82%A1%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[估值](估值.md), [可口可乐](可口可乐.md), [市值](市值.md), [残酷](残酷.md), [突破](突破.md), [美光](美光.md), [芯片](芯片.md), [苹果](苹果.md), [跌](跌.md), [连续](连续.md), [闪迪](闪迪.md)
+___
+##### 2026-07-24 04:18:07 UTC ~ PANews丨APP全面升级
+> RT @PANewsCN: AMD 苏姿丰：机架级AI系统Helios已全面开始生产AMD Advancing AI大会于7月22-23日在旧金山举办。会上，AMD CEO苏姿丰表示，预计到2030年，人工智能加速器市场将达到1.4万亿美元，全球数据中心CPU市场规模将达2…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40PANewsCN%3A+AMD+%E8%8B%8F%E5%A7%BF%E4%B8%B0%EF%BC%9A%E6%9C%BA%E6%9E%B6%E7%BA%A7AI%E7%B3%BB%E7%BB%9FHelios%E5%B7%B2%E5%85%A8%E9%9D%A2%E5%BC%80%E5%A7%8B%E7%94%9F%E4%BA%A7AMD+Advancing+AI%E5%A4%A7%E4%BC%9A%E4%BA%8E7%E6%9C%8822-23%E6%97%A5%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E4%B8%BE%E5%8A%9E%E3%80%82%E4%BC%9A%E4%B8%8A%EF%BC%8CAMD+CEO%E8%8B%8F%E5%A7%BF%E4%B8%B0%E8%A1%A8%E7%A4%BA%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%88%B02030%E5%B9%B4%EF%BC%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%A0%E9%80%9F%E5%99%A8%E5%B8%82%E5%9C%BA%E5%B0%86%E8%BE%BE%E5%88%B01.4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%85%A8%E7%90%83%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83CPU%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E5%B0%86%E8%BE%BE2%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工智能](人工智能.md), [加速器](加速器.md), [数据](数据.md), [生产](生产.md), [系统](系统.md), [苏姿丰](苏姿丰.md), [规模](规模.md), [金](金.md), [预计](预计.md)
+___
+##### 2026-07-23 04:06:11 UTC ~ 外汇交易员
+> RT @fxtrader: 路透：受AI热潮带动服务器 CPU 涨价，英特尔、AMD 两大美国芯片厂商正与中国服务器客户洽谈长期采购锁定协议。消息人士称，中国服务器CPU价格仍在攀升，部分产品的月环比涨幅超过10%。今年以来，国内部分CPU价格已涨超四成。预计今日英特尔…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%E8%B7%AF%E9%80%8F%EF%BC%9A%E5%8F%97AI%E7%83%AD%E6%BD%AE%E5%B8%A6%E5%8A%A8%E6%9C%8D%E5%8A%A1%E5%99%A8+CPU+%E6%B6%A8%E4%BB%B7%EF%BC%8C%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81AMD+%E4%B8%A4%E5%A4%A7%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8E%82%E5%95%86%E6%AD%A3%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%AE%A2%E6%88%B7%E6%B4%BD%E8%B0%88%E9%95%BF%E6%9C%9F%E9%87%87%E8%B4%AD%E9%94%81%E5%AE%9A%E5%8D%8F%E8%AE%AE%E3%80%82%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E5%99%A8CPU%E4%BB%B7%E6%A0%BC%E4%BB%8D%E5%9C%A8%E6%94%80%E5%8D%87%EF%BC%8C%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E7%9A%84%E6%9C%88%E7%8E%AF%E6%AF%94%E6%B6%A8%E5%B9%85%E8%B6%85%E8%BF%8710%25%E3%80%82%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%EF%BC%8C%E5%9B%BD%E5%86%85%E9%83%A8%E5%88%86CPU%E4%BB%B7%E6%A0%BC%E5%B7%B2%E6%B6%A8%E8%B6%85%E5%9B%9B%E6%88%90%E3%80%82%E9%A2%84%E8%AE%A1%E4%BB%8A%E6%97%A5%E8%8B%B1%E7%89%B9%E5%B0%94%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [协议](协议.md), [厂商](厂商.md), [客户](客户.md), [攀升](攀升.md), [服务器](服务器.md), [涨](涨.md), [热潮](热潮.md), [美国](美国.md), [芯片](芯片.md), [英特尔](英特尔.md), [超过](超过.md), [预计](预计.md)
+___
+##### 2026-07-22 18:20:59 UTC ~ 外汇交易员
+> RT @fxtrader: AMD与Anthropic签署重大芯片与投资协议。AMD将向Anthropic投资50亿美元，作为芯片交易的一部分。而Anthropic将于2027年上半年开始购买多达2吉瓦的AMD 最新一代芯片（名为Instinct MI450）。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+AMD%E4%B8%8EAnthropic%E7%AD%BE%E7%BD%B2%E9%87%8D%E5%A4%A7%E8%8A%AF%E7%89%87%E4%B8%8E%E6%8A%95%E8%B5%84%E5%8D%8F%E8%AE%AE%E3%80%82AMD%E5%B0%86%E5%90%91Anthropic%E6%8A%95%E8%B5%8450%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BD%9C%E4%B8%BA%E8%8A%AF%E7%89%87%E4%BA%A4%E6%98%93%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%E3%80%82%E8%80%8CAnthropic%E5%B0%86%E4%BA%8E2027%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%BC%80%E5%A7%8B%E8%B4%AD%E4%B9%B0%E5%A4%9A%E8%BE%BE2%E5%90%89%E7%93%A6%E7%9A%84AMD+%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3%E8%8A%AF%E7%89%87%EF%BC%88%E5%90%8D%E4%B8%BAInstinct+MI450%EF%BC%89%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [交易](交易.md), [协议](协议.md), [投资](投资.md), [签署](签署.md), [芯片](芯片.md), [购买](购买.md)
+___
+##### 2026-07-21 09:53:17 UTC ~ 亚洲股市 AsiaStock
+> RT @AsiaStock: 韩国股市周二强势反弹，KOSPI指数大涨3.56%。隔夜美股芯片股回暖带动市场情绪回升，投资者开始重新进场抄底。隔夜，美股芯片板块大幅反弹，英伟达 $NVDA 、博通 $AVGO 、美光 $MU 、AMD $AMD 、英特尔 $INTC 以及S…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaStock%3A+%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E5%91%A8%E4%BA%8C%E5%BC%BA%E5%8A%BF%E5%8F%8D%E5%BC%B9%EF%BC%8CKOSPI%E6%8C%87%E6%95%B0%E5%A4%A7%E6%B6%A83.56%25%E3%80%82%E9%9A%94%E5%A4%9C%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%9B%9E%E6%9A%96%E5%B8%A6%E5%8A%A8%E5%B8%82%E5%9C%BA%E6%83%85%E7%BB%AA%E5%9B%9E%E5%8D%87%EF%BC%8C%E6%8A%95%E8%B5%84%E8%80%85%E5%BC%80%E5%A7%8B%E9%87%8D%E6%96%B0%E8%BF%9B%E5%9C%BA%E6%8A%84%E5%BA%95%E3%80%82%E9%9A%94%E5%A4%9C%EF%BC%8C%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E6%9D%BF%E5%9D%97%E5%A4%A7%E5%B9%85%E5%8F%8D%E5%BC%B9%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE+%24NVDA+%E3%80%81%E5%8D%9A%E9%80%9A+%24AVGO+%E3%80%81%E7%BE%8E%E5%85%89+%24MU+%E3%80%81AMD+%24AMD+%E3%80%81%E8%8B%B1%E7%89%B9%E5%B0%94+%24INTC+%E4%BB%A5%E5%8F%8AS%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[博通](博通.md), [反弹](反弹.md), [大幅](大幅.md), [投资](投资.md), [涨](涨.md), [美光](美光.md), [芯片](芯片.md), [英伟达](英伟达.md), [英特尔](英特尔.md), [韩国](韩国.md)
+___
+##### 2026-07-21 04:01:23 UTC ~ TechNews 科技新報
+> RT @technews_tw: 正面挑戰 #輝達！#AMD 發表首款機櫃級 AI 系統 Helios，成功吸引 #微軟、#Meta 及 #OpenAI 等巨擘合作。 https://t.co/QkfjfUUULc
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%AD%A3%E9%9D%A2%E6%8C%91%E6%88%B0+%23%E8%BC%9D%E9%81%94%EF%BC%81%23AMD+%E7%99%BC%E8%A1%A8%E9%A6%96%E6%AC%BE%E6%A9%9F%E6%AB%83%E7%B4%9A+AI+%E7%B3%BB%E7%B5%B1+Helios%EF%BC%8C%E6%88%90%E5%8A%9F%E5%90%B8%E5%BC%95+%23%E5%BE%AE%E8%BB%9F%E3%80%81%23Meta+%E5%8F%8A+%23OpenAI+%E7%AD%89%E5%B7%A8%E6%93%98%E5%90%88%E4%BD%9C%E3%80%82+https%3A%2F%2Ft.co%2FQkfjfUUULc)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [吸引](吸引.md), [微軟](微軟.md), [輝達](輝達.md)
+___
 ##### 2026-07-15 05:22:33 UTC ~ TechNews 科技新報
 > RT @technews_tw: 買新 PC 卻配舊晶片？最新研究指出，#英特爾 與 #AMD 優先將最新產能供向 #AI 伺服器，導致消費級市場大缺新 CPU。 https://t.co/MiHl6Xen6E
 
@@ -82,14 +124,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8C%85%E6%8B%AC%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E5%92%8CAMD%E5%9C%A8%E5%86%85%E7%9A%84%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E5%88%9A%E5%88%9A%E9%81%AD%E9%81%87%E4%BA%863%E6%9C%88%E4%BB%BD%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E7%9A%84%E4%B8%A4%E6%97%A5%E8%BF%9E%E8%B7%8C%EF%BC%8C%E4%BB%A4%E9%95%BF%E8%BE%BE%E6%95%B0%E5%91%A8%E7%9A%84%E7%8C%9B%E7%83%88%E6%B6%A8%E5%8A%BF%E6%88%9B%E7%84%B6%E8%80%8C%E6%AD%A2%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%88%9B%E7%BA%AA%E5%BD%95%E7%9A%84%E8%90%A5%E6%94%B6%E5%92%8C%E5%88%A9%E6%B6%A6%E4%B8%BA%E8%BF%99%E4%B8%AA%E5%BC%BA%E5%8A%B2%E7%9A%84%E8%B4%A2%E6%8A%A5%E5%AD%A3%E7%94%BB%E4%B8%8A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%B9%90%E8%A7%82%E7%9A%84%E5%8F%A5%E5%8F%B7%E3%80%82https%3A%2F%2Ft.co%2Fedce4EKNgr)
 ##### Other Words/Names of Interest in the Above Tweet
-[严重](严重.md), [乐观](乐观.md), [利润](利润.md), [包括](包括.md), [强劲](强劲.md), [投资](投资.md), [投资者](投资者.md), [猛烈](猛烈.md), [科技](科技.md), [纪录](纪录.md), [美光](美光.md), [芯片](芯片.md), [英伟达](英伟达.md), [英特尔](英特尔.md), [营收](营收.md), [遭遇](遭遇.md)
+[严重](严重.md), [乐观](乐观.md), [利润](利润.md), [包括](包括.md), [强劲](强劲.md), [投资](投资.md), [涨](涨.md), [猛烈](猛烈.md), [科技](科技.md), [纪录](纪录.md), [美光](美光.md), [芯片](芯片.md), [英伟达](英伟达.md), [英特尔](英特尔.md), [营收](营收.md), [跌](跌.md), [遭遇](遭遇.md)
 ___
 ##### 2026-05-19 16:48:54 UTC ~ KK.aWSB
 > RT @KKaWSB: 今天，AMD CEO苏姿丰在上海自家会场出现，被围得水泄不通——上周末黄仁勋来时是同一个场面。苏妈笑得合不拢嘴：今年的标普 500 增速冠军，不是英伟达，是 AMD。一家 60 天股价涨 150% 的公司，在中美两边同时被排队接待，叙事已经不一样了。…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40KKaWSB%3A+%E4%BB%8A%E5%A4%A9%EF%BC%8CAMD+CEO%E8%8B%8F%E5%A7%BF%E4%B8%B0%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%87%AA%E5%AE%B6%E4%BC%9A%E5%9C%BA%E5%87%BA%E7%8E%B0%EF%BC%8C%E8%A2%AB%E5%9B%B4%E5%BE%97%E6%B0%B4%E6%B3%84%E4%B8%8D%E9%80%9A%E2%80%94%E2%80%94%E4%B8%8A%E5%91%A8%E6%9C%AB%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9D%A5%E6%97%B6%E6%98%AF%E5%90%8C%E4%B8%80%E4%B8%AA%E5%9C%BA%E9%9D%A2%E3%80%82%E8%8B%8F%E5%A6%88%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%EF%BC%9A%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%A0%87%E6%99%AE+500+%E5%A2%9E%E9%80%9F%E5%86%A0%E5%86%9B%EF%BC%8C%E4%B8%8D%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%8C%E6%98%AF+AMD%E3%80%82%E4%B8%80%E5%AE%B6+60+%E5%A4%A9%E8%82%A1%E4%BB%B7%E6%B6%A8+150%25+%E7%9A%84%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%9C%A8%E4%B8%AD%E7%BE%8E%E4%B8%A4%E8%BE%B9%E5%90%8C%E6%97%B6%E8%A2%AB%E6%8E%92%E9%98%9F%E6%8E%A5%E5%BE%85%EF%BC%8C%E5%8F%99%E4%BA%8B%E5%B7%B2%E7%BB%8F%E4%B8%8D%E4%B8%80%E6%A0%B7%E4%BA%86%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上海](上海.md), [标普](标普.md), [苏妈](苏妈.md), [苏姿丰](苏姿丰.md), [英伟达](英伟达.md), [黄仁勋](黄仁勋.md)
+[上海](上海.md), [标普](标普.md), [涨](涨.md), [苏妈](苏妈.md), [苏姿丰](苏姿丰.md), [英伟达](英伟达.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2026-05-18 13:30:33 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 继英伟达老板黄仁勋之后，AMD 老板苏姿丰也来北京了，她今天下午，见到了中国副总理何立峰，表明愿继续拓展在华业务，持续加大在中国的投资。而明天上午，她会出现在 AMD 上海的开发者活动上。 https://t.co/2Kd3U1gTSR
@@ -110,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+AMD%E8%82%A1%E4%BB%B7%E4%BB%8A%E5%B9%B4%E6%9D%A5%E5%B7%B2%E7%B4%AF%E8%AE%A1%E4%B8%8A%E6%B6%A866%25%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23AMD+%23AI+%23DataCenter+%23%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83+https%3A%2F%2Ft.co%2FkFyoLmPAsz+https%3A%2F%2Ft.co%2FrmX9YQbn3H)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [数据](数据.md), [累计](累计.md)
+[数据](数据.md), [涨](涨.md), [累计](累计.md)
 ___
 ##### 2026-03-18 04:50:48 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 消息称，晶片设计巨头超微半导体（AMD）首席执行官苏姿丰3月18日访问三星晶片工厂，并将与三星管理层讨论将合作范围从存储器扩展至晶圆代工领域。 https://t.co/EH0kYniiAY
@@ -152,7 +194,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+AMD%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%EF%BC%8C%E4%B8%BB%E8%A6%81%E5%8F%97%E5%85%B6%E4%B8%8EMeta%E8%BE%BE%E6%88%90%E5%A4%9A%E5%B9%B4%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%8F%90%E6%8C%AF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E7%BE%8E%E8%82%A1+%23nysehttps%3A%2F%2Ft.co%2FIBVtJIXD6o+https%3A%2F%2Ft.co%2FCshTUH0ovN)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [提振](提振.md), [达成](达成.md)
+[协议](协议.md), [提振](提振.md), [涨](涨.md), [达成](达成.md)
 ___
 ##### 2026-02-07 04:09:17 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 英特尔目前积压大量未交货订单，部分产品等待出货时间可能长达6个月。#南洋商报 #Intel #AMD #CPU #Chinahttps://t.co/wUTwpFnvbi https://t.co/rOwoUkcill
@@ -201,7 +243,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Alphabet%E5%90%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E8%BF%88%E8%BF%9B%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81AMD%E7%AD%89AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E5%A4%A7%E8%B7%8C%E3%80%82%E5%88%86%E6%9E%90%E5%B8%88%E6%8C%87%E5%87%BA%EF%BC%8C%E8%B0%B7%E6%AD%8C%E8%BF%9B%E5%86%9B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A2%86%E5%9C%B0%E2%80%9C%E8%A7%A6%E5%8A%A8%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8%E7%9A%84%E6%81%90%E6%83%A7%E2%80%9D%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E8%B5%84%E9%87%91%E6%8A%95%E5%85%A5%E5%88%B0%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%85%B6%E4%BB%96%E9%A2%86%E5%9F%9F%EF%BC%8C%E9%81%93%E6%8C%87%E4%B8%8A%E6%B6%A8664%E7%82%B9%EF%BC%8C%E5%88%9B%E4%B8%8B8%E6%9C%88%E4%BB%A5%E6%9D%A5%E7%9A%84%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0%E3%80%82https%3A%2F%2Ft.co%2FA2%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [投资者](投资者.md), [指出](指出.md), [最佳](最佳.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [进军](进军.md), [金](金.md), [领域](领域.md)
+[分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [指出](指出.md), [最佳](最佳.md), [涨](涨.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [跌](跌.md), [进军](进军.md), [金](金.md), [领域](领域.md)
 ___
 ##### 2025-11-21 16:45:49 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苏姿丰带领AMD向AI转向的决定让该公司的规模在三年间几乎扩大到原来的四倍。如今，AMD将推出最新一代AI芯片MI450，目标是与终极巨头英伟达展开较量。https://t.co/AV6hJcO0X1
@@ -320,7 +362,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0+%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E+%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E4%B8%8A%E6%B6%A8%EF%BC%8C%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E5%90%AF%E5%8A%A8%EF%BC%9B%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%AE%9E%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%8A%AF%E7%89%87%E9%87%87%E5%8F%96%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%EF%BC%9BAMD%E8%AD%A6%E5%91%8A%E7%A7%B0%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E5%B0%86%E5%AF%BC%E8%87%B4%E5%85%B6%E6%8D%9F%E5%A4%B18%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%9B%E9%98%BF%E6%96%AF%E9%BA%A6%E4%BB%A5%E5%AE%9E%E4%BE%8B%E6%8F%AD%E7%A4%BA%E5%85%B3%E7%A8%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E6%88%90%E6%9C%AC%EF%BC%9B%E5%8A%A0%E5%B7%9E%E5%B0%B1%E5%85%B3%E7%A8%8E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%EF%BC%9B%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E4%B8%BA%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%A1%AC%E7%9D%80%E9%99%86%E2%80%9D%E5%81%9A%E5%87%86%E5%A4%87%E3%80%82h%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [金](金.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
+[关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [涨](涨.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [金](金.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
 ___
 ##### 2025-04-12 19:52:55 UTC ~ ruanyf
 > RT @ruanyf: 看到一篇分析，本次关税事件，美国受伤最重的科技公司是Intel。中国是它的最大市场，去年占销售29%，比美国本土还大（占25%），它的芯片全部美国制造。Intel已经很困难了，去年亏了188亿美元，现在完全没了翻身希望。最大收益者将是AMD。…
@@ -335,6 +377,11 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E4%BB%8D%E5%9C%A8%E4%BD%BF%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%9B%E8%A1%8CAI%E5%BC%80%E5%8F%91%EF%BC%8C%E4%BD%86%E7%8E%B0%E5%9C%A8%E4%B8%BB%E8%A6%81%E4%BE%9D%E8%B5%96AMD%E5%92%8C%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E4%B9%8B%E7%B1%BB%E7%9A%84%E6%9B%BF%E4%BB%A3%E5%93%81%E6%9D%A5%E8%AE%AD%E7%BB%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2+%23AI+%23chips+%23Chinahttps%3A%2F%2Ft.co%2FvG4dTowST7+https%3A%2F%2Ft.co%2FUHDtf0%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [依赖](依赖.md), [开发](开发.md), [替代](替代.md), [模型](模型.md), [芯片](芯片.md), [英伟达](英伟达.md), [进行](进行.md)
+___
+##### 2025-03-22 07:59:31 UTC ~ Andy Stewart
+> RT @manateelazycat: 配件到齐了，明天就可以安装AMD 9950x啦，最强风冷，把超频干满，开森。 https://t.co/HP0GAR7J27
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+%E9%85%8D%E4%BB%B6%E5%88%B0%E9%BD%90%E4%BA%86%EF%BC%8C%E6%98%8E%E5%A4%A9%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%AE%89%E8%A3%85AMD+9950x%E5%95%A6%EF%BC%8C%E6%9C%80%E5%BC%BA%E9%A3%8E%E5%86%B7%EF%BC%8C%E6%8A%8A%E8%B6%85%E9%A2%91%E5%B9%B2%E6%BB%A1%EF%BC%8C%E5%BC%80%E6%A3%AE%E3%80%82+https%3A%2F%2Ft.co%2FHP0GAR7J27)
 ___
 ##### 2025-03-12 08:25:15 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 全球芯片代工巨头台积电据报向美国芯片设计公司英伟达、AMD和博通提议入股一家合资企业，以运营美国科技巨头英特尔的晶圆厂。 https://t.co/WWEZMCXg9Y https://t.co/wAwA5400Pm
@@ -397,14 +444,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A%E7%9A%84%E6%9C%80%E6%96%B0%E4%BC%81%E4%B8%9A%E8%B4%A2%E6%8A%A5%E5%85%AC%E5%B8%83%E5%90%8E%EF%BC%8C%E7%BA%B3%E6%8C%87%E4%BB%8E%E5%89%8D%E4%B8%80%E4%BA%A4%E6%98%93%E6%97%A5%E5%88%9A%E5%88%9A%E5%88%9B%E4%B8%8B%E7%9A%84%E7%BA%AA%E5%BD%95%E9%AB%98%E7%82%B9%E5%9B%9E%E8%90%BD%E3%80%82%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86AMD%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C11%25%EF%BC%8C%E8%80%8C%E8%B0%B7%E6%AD%8C%E6%AF%8D%E5%85%AC%E5%8F%B8Alphabet%E7%9A%84%E5%BC%BA%E5%8A%B2%E8%B4%A2%E6%8A%A5%E6%8E%A8%E5%8A%A8%E5%85%B6%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8%EF%BC%9B10%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%B0%8F%E5%B9%85%E4%B8%8B%E9%99%8D%E3%80%82+https%3A%2F%2Ft.co%2FQxm4feCUgM+htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [交易](交易.md), [国债](国债.md), [强劲](强劲.md), [推动](推动.md), [收益](收益.md), [收益率](收益率.md), [暴跌](暴跌.md), [纪录](纪录.md), [美国](美国.md), [芯片](芯片.md), [谷歌](谷歌.md)
+[交易](交易.md), [国债](国债.md), [强劲](强劲.md), [推动](推动.md), [收益](收益.md), [收益率](收益率.md), [涨](涨.md), [纪录](纪录.md), [美国](美国.md), [芯片](芯片.md), [谷歌](谷歌.md), [跌](跌.md)
 ___
 ##### 2024-10-16 07:32:18 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 英伟达和AMD股价周二跌幅扩大，此前阿斯麦警告称，更广泛的芯片市场仍面临压力。但是，炙手可热的人工智能芯片公司的投资者们有必要担心吗？ https://t.co/ICZt8dvpjR https://t.co/ICZt8dvpjR
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%82%A1%E4%BB%B7%E5%91%A8%E4%BA%8C%E8%B7%8C%E5%B9%85%E6%89%A9%E5%A4%A7%EF%BC%8C%E6%AD%A4%E5%89%8D%E9%98%BF%E6%96%AF%E9%BA%A6%E8%AD%A6%E5%91%8A%E7%A7%B0%EF%BC%8C%E6%9B%B4%E5%B9%BF%E6%B3%9B%E7%9A%84%E8%8A%AF%E7%89%87%E5%B8%82%E5%9C%BA%E4%BB%8D%E9%9D%A2%E4%B8%B4%E5%8E%8B%E5%8A%9B%E3%80%82%E4%BD%86%E6%98%AF%EF%BC%8C%E7%82%99%E6%89%8B%E5%8F%AF%E7%83%AD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E4%BB%AC%E6%9C%89%E5%BF%85%E8%A6%81%E6%8B%85%E5%BF%83%E5%90%97%EF%BC%9F+https%3A%2F%2Ft.co%2FICZt8dvpjR+https%3A%2F%2Ft.co%2FICZt8dvpjR)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [压力](压力.md), [广泛](广泛.md), [扩大](扩大.md), [投资](投资.md), [投资者](投资者.md), [担心](担心.md), [芯片](芯片.md), [英伟达](英伟达.md), [跌幅](跌幅.md), [阿斯麦](阿斯麦.md), [面临](面临.md), [麦](麦.md)
+[人工智能](人工智能.md), [压力](压力.md), [广泛](广泛.md), [扩大](扩大.md), [投资](投资.md), [担心](担心.md), [芯片](芯片.md), [英伟达](英伟达.md), [跌](跌.md), [阿斯麦](阿斯麦.md), [面临](面临.md), [麦](麦.md)
 ___
 ##### 2024-10-12 07:01:49 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苏姿丰表示，公司希望把生产的地域分布变得更多元化，但现时未计划向台积电以外的晶圆代工厂委讬定单。#南洋商报 #AMD #Nvidia #chips #AIhttps://t.co/8ceowJlqlb https://t.co/wTq39…
@@ -432,7 +479,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1%E6%80%A5%E7%85%9E%E8%BB%8A%EF%BC%8C%E5%B8%82%E5%A0%B4%E8%AD%A6%E6%83%95%E7%BE%8E%E5%8A%A0%E5%BC%B7%E5%B0%8D%E8%8F%AF%E9%99%90%E5%88%B6%E3%80%91%E5%9C%A87%E6%9C%8817%E6%97%A5%E7%9A%84%E7%BE%8E%E5%9C%8B%E8%82%A1%E5%B8%82%E4%B8%8A%EF%BC%8C%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C7%25%EF%BC%8CAMD%E7%9A%84%E8%B7%8C%E5%B9%85%E8%B6%85%E9%81%8E10%25%E3%80%82%E6%97%A5%E6%9C%ACTokyo+Electron%E7%9A%84%E7%B8%BD%E5%B8%82%E5%80%BC2%E5%A4%A9%E5%85%A7%E8%92%B8%E7%99%BC2.6%E8%90%AC%E5%84%84%E6%97%A5%E5%85%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E5%82%B3%E5%87%BA%E7%BE%8E%E5%9C%8B%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%B7%B2%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E5%92%8C%E8%8D%B7%E8%98%AD%E5%8A%A0%E5%BC%B7%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [半導體](半導體.md), [市值](市值.md), [日本](日本.md), [美國](美國.md), [英偉達](英偉達.md), [跌幅](跌幅.md), [限制](限制.md)
+[半導體](半導體.md), [市值](市值.md), [日本](日本.md), [美國](美國.md), [英偉達](英偉達.md), [跌](跌.md), [限制](限制.md)
 ___
 ##### 2024-06-12 18:59:34 UTC ~ 总裁简报 CEO Briefing
 > RT @CEOBriefing: 黄仁勋谈苏姿丰：我们很不一样，但我敬佩她。黄仁勋和苏姿丰，都出生在台南，目前分别领导英伟达(NVDA)和超威半导体(AMD)，这两个世界顶级AI巨头。他们既是亲戚，又是竞争对手。黄仁勋在6月8日离开台湾之际，回应了之前关于“Country”的言…
@@ -481,7 +528,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaFinance%3A+%E7%A1%85%E8%B0%B7%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%EF%BC%8C%E7%96%AF%E7%8B%82%E7%A0%B8%E9%92%B1%E2%80%9C%E5%87%86%E5%B9%B6%E8%B4%AD%E2%80%9DAI%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%EF%BC%9A%E8%8E%B7%E5%8F%96%E6%8A%80%E6%9C%AF%E3%80%81%E6%96%BD%E5%8A%A0%E5%BD%B1%E5%93%8D%EF%BC%8C%E8%BF%98%E8%A7%84%E9%81%BF%E5%8F%8D%E5%9E%84%E6%96%AD%E3%80%82%E8%80%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%28AI%29%E6%A6%82%E5%BF%B5%E8%82%A1%EF%BC%8C%E9%99%A4%E4%BA%86NVDA%E3%80%81SMCI%E5%92%8CSOXL%E7%AD%89%E4%B8%80%E7%BA%BF%E7%83%AD%E9%97%A8%EF%BC%8C%E5%85%B6%E5%AE%83%E5%A6%82ARM%E3%80%81AMD%E5%92%8CAVGO%E7%AD%89%E4%BA%8C%E7%BA%BF%E7%83%AD%E9%97%A8%EF%BC%8C%E5%8F%AF%E8%83%BD%E8%BF%98%E6%9C%89%E4%B8%8A%E6%B6%A8%E7%A9%BA%E9%97%B4%E3%80%82%E6%AF%8F%E4%B8%80%E4%BD%8D%E6%88%90%E9%95%BF%E5%9E%8B%E6%8A%95%E8%B5%84%E8%80%85%EF%BC%8C%E9%83%BD%E5%BA%94%E4%BB%94%E7%BB%86%E7%A0%94%E7%A9%B6%E8%BF%99%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [人工智能](人工智能.md), [反垄断](反垄断.md), [垄断](垄断.md), [巨头](巨头.md), [并购](并购.md), [影响](影响.md), [技术](技术.md), [投资](投资.md), [投资者](投资者.md), [疯狂](疯狂.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [除了](除了.md)
+[人工智能](人工智能.md), [反垄断](反垄断.md), [垄断](垄断.md), [巨头](巨头.md), [并购](并购.md), [影响](影响.md), [技术](技术.md), [投资](投资.md), [涨](涨.md), [疯狂](疯狂.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [除了](除了.md)
 ___
 ##### 2024-04-13 06:50:44 UTC ~ DW 中文- 德国之声
 > RT @dw_chinese: 【美媒：中国监管机构要求电信运营商淘汰美国芯片】《华尔街日报》引述知情人士的消息称，中国工信部指示该国电信运营商在2027年前逐步淘汰作为其网络核心部件的美国芯片。此举将冲击美国芯片巨头英特尔和超威半导体公司(AMD)。https://t.…
@@ -656,7 +703,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88NVIDIA%EF%BC%89%E5%92%8CAMD%E6%97%A5%E5%89%8D%E6%8E%A5%E8%8E%B7%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%8B%E8%BE%BE%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E8%AE%B8%E5%8F%AF%E8%A6%81%E6%B1%82%EF%BC%8C%E5%B0%86%E6%9A%82%E5%81%9C%E6%97%97%E4%B8%8BAI%E8%8A%AF%E7%89%87%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8F%91%E8%B4%A7%EF%BC%8C%E4%BB%A5%E9%81%BF%E5%85%8D%E6%B2%A6%E4%B8%BA%E2%80%9C%E5%86%9B%E4%BA%8B%E7%94%A8%E9%80%94%E2%80%9D%E3%80%82%E6%AD%A4%E6%B6%88%E6%81%AF%E8%AE%A9%E4%B8%A4%E5%A4%A7%E6%99%B6%E7%89%87%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%EF%BC%8C%E7%94%9A%E8%87%B3%E9%80%A0%E6%88%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%AB%98%E8%BE%BE4%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%B8%9A%E5%8A%A1%E6%8D%9F%E5%A4%B1%E3%80%82https%3A%2F%2Ft.co%2FBtIGwCTK%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [损失](损失.md), [晶片](晶片.md), [暂停](暂停.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md)
+[损失](损失.md), [晶片](晶片.md), [暂停](暂停.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [跌](跌.md)
 ___
 ##### 2022-04-05 16:40:33 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: AMD计划以19亿美元的价格收购芯片和软件初创公司Pensando Systems Inc.，在完成其史上规模最大的交易不久后再度推进并购策略。AMD周一披露的这项拟议中的收购将扩大其产品组合。这家半导体公司正在重新定位其产品，以抓住芯片需求不…

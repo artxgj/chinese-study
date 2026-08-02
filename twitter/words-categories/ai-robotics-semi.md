@@ -7,6 +7,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [函数](../hanzi-cards/函数.md) | function |
+| [算法](../hanzi-cards/算法.md) | algorithm; arithmetic; method of calculation |
+| [递归](../hanzi-cards/递归.md) | recursion; recursive |
 | [开源](../hanzi-cards/开源.md)/[開源](../hanzi-cards/開源.md) | open source |
 | [模型](../hanzi-cards/模型.md) | model; mold; matrix; pattern |
 | [纳米](../hanzi-cards/纳米.md)/[奈米](../hanzi-cards/奈米.md) | nanometer |

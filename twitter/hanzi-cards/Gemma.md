@@ -54,7 +54,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40shao__meng%3A+Gemma3-OCR%EF%BC%9A%E5%AE%8C%E5%85%A8%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E5%BA%94%E7%94%A8%EF%BC%8C%E7%89%B9%E5%88%AB%E9%80%82%E5%90%88%E9%9C%80%E8%A6%81%E7%A6%BB%E7%BA%BF%E6%96%87%E6%9C%AC%E8%AF%86%E5%88%AB%E8%83%BD%E5%8A%9B%E7%9A%84%E5%9C%BA%E6%99%AF%EF%BC%8C%E6%88%96%E8%80%85%E5%AF%B9%E6%95%B0%E6%8D%AE%E9%9A%90%E7%A7%81%E6%9C%89%E8%BE%83%E9%AB%98%E8%A6%81%E6%B1%82%E7%9A%84%E7%94%A8%E6%88%B7%E9%A1%B9%E7%9B%AE%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD%C2%B7+%E5%9B%BE%E5%83%8F%E6%96%87%E6%9C%AC%E8%AF%86%E5%88%AB%EF%BC%9A%E4%BB%8E%E4%B8%8A%E4%BC%A0%E7%9A%84%E5%9B%BE%E7%89%87%E4%B8%AD%E8%AF%86%E5%88%AB%E5%B9%B6%E6%8F%90%E5%8F%96%E6%96%87%E6%9C%AC%E5%86%85%E5%AE%B9%C2%B7+%E6%9C%AC%E5%9C%B0%E8%BF%90%E8%A1%8C%EF%BC%9A%E6%97%A0%E9%9C%80%E4%BE%9D%E8%B5%96%E4%BA%91%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%85%A8%E9%83%A8%E5%9C%A8%E6%9C%AC%E5%9C%B0%E8%AE%BE%E5%A4%87%E4%B8%8A%E5%A4%84%E7%90%86%C2%B7+%E7%BB%93%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[依赖](依赖.md), [处理](处理.md), [数据](数据.md), [核心](核心.md), [计算机](计算机.md), [隐私](隐私.md), [项目](项目.md)
+[依赖](依赖.md), [场景](场景.md), [处理](处理.md), [数据](数据.md), [核心](核心.md), [计算机](计算机.md), [隐私](隐私.md), [项目](项目.md)
 ___
 ##### 2025-03-15 06:01:58 UTC ~ Ben X
 > RT @Reportify_Xu: 美国公司也开始卷效率了，Gemma3只用270亿参数，就能达到跟Deepseek R1 6710亿参数类似的性能，看来怎么提高效率这个事大家也都拉齐了。AI行业里的天才太多，谁也很难领先超过3个月。详情请见视频。 https://t.co/s…

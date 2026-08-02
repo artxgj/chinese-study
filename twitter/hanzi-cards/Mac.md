@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2026-07-27 14:42:49 UTC ~ 杰克船长宏观策略
+> RT @macrotradecn: 长鑫只是第一张牌。往下翻——长江存储、宇树科技、燧原科技、上海微电子、蓝箭航天、强脑科技。不是一家公司上市，是一个时代的资产排队走上牌桌。长鑫敲锣是DRAM。长江在后面排队——NAND闪存，全球第五，232层量产。宇树——中国版波士顿动力…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E9%95%BF%E9%91%AB%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%89%8C%E3%80%82%E5%BE%80%E4%B8%8B%E7%BF%BB%E2%80%94%E2%80%94%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E3%80%81%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E3%80%81%E4%B8%8A%E6%B5%B7%E5%BE%AE%E7%94%B5%E5%AD%90%E3%80%81%E8%93%9D%E7%AE%AD%E8%88%AA%E5%A4%A9%E3%80%81%E5%BC%BA%E8%84%91%E7%A7%91%E6%8A%80%E3%80%82%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E8%B5%84%E4%BA%A7%E6%8E%92%E9%98%9F%E8%B5%B0%E4%B8%8A%E7%89%8C%E6%A1%8C%E3%80%82%E9%95%BF%E9%91%AB%E6%95%B2%E9%94%A3%E6%98%AFDRAM%E3%80%82%E9%95%BF%E6%B1%9F%E5%9C%A8%E5%90%8E%E9%9D%A2%E6%8E%92%E9%98%9F%E2%80%94%E2%80%94NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%EF%BC%8C232%E5%B1%82%E9%87%8F%E4%BA%A7%E3%80%82%E5%AE%87%E6%A0%91%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E7%89%88%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [NAND](NAND.md), [上海](上海.md), [存储](存储.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长鑫](长鑫.md)
+___
 ##### 2026-07-17 09:51:06 UTC ~ TechNews 科技新報
 > RT @technews_tw: 前 Sega 工程師神還原！把「拍打修復」老電視的經典操作，完整搬進 macOS。 #CRT模擬器 #復古 #任天堂 https://t.co/0Ye6uEelqh
 
@@ -19,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%23%E8%A1%8C%E6%83%85+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A85%25%E3%80%82%E6%8D%AE%E8%AF%81%E5%88%B8%E6%97%B6%E6%8A%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%B0%86%E4%BD%9C%E4%B8%BAAI%E8%83%BD%E5%8A%9B%E9%9B%86%E6%88%90%E8%87%B3Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E4%B8%BAiOS%E3%80%81iPadOS%E3%80%81macOS%E5%92%8CvisionOS%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E5%B8%A6%E6%9D%A5%E6%99%BA%E8%83%BD%E4%BD%93%E9%AA%8C%E3%80%82%E7%94%A8%E6%88%B7%E6%97%A0%E9%9C%80%E5%9C%A8%E5%BA%94%E7%94%A8%E9%97%B4%E5%88%87%E6%8D%A2%EF%BC%8C%E5%8D%B3%E5%8F%AF%E5%9C%A8Apple%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9B%B4%E6%8E%A5%E4%BD%93%E9%AA%8C%E5%8D%83%E9%97%AE%E7%9A%84%E6%96%87%E6%9C%AC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [iOS](iOS.md), [千问](千问.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
+[Apple](Apple.md), [iOS](iOS.md), [千问](千问.md), [涨](涨.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2026-07-07 01:47:39 UTC ~ 初码
 > RT @chumacn: 炒股的可以深度关注下AMD了，在vLLM等技术组织的不懈努力下，目前355X的推理性能已经超过B300，虽然训练严重依赖CUDA，但推理的市场在2026年下半年会失速增长，AMD即将大卖特卖，大发特发！
@@ -61,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40landiantech%3A+%E8%8B%B9%E6%9E%9C%E6%B3%95%E5%8A%A1%E9%83%A8%E5%B8%A6%E6%9D%A5+%23DMCA+%E9%80%9A%E7%9F%A5%E5%87%BD%E6%9D%A5%E4%BA%86%EF%BC%81%E5%9C%A8+X+%E4%B8%8A%E5%8F%91%E5%B8%83%E6%B3%84%E9%9C%B2%E7%9A%84+iPhone+18+Pro+%E8%B7%8C%E8%90%BD%E6%B5%8B%E8%AF%95%E8%A7%86%E9%A2%91%EF%BC%9F%E7%9B%B4%E6%8E%A5%E5%B0%81%E5%8F%B7%E3%80%82%E7%88%86%E6%96%99%E8%B4%A6%E5%8F%B7+EvLeaks+%E5%8F%91%E5%B8%83%E7%9A%84%E8%A7%86%E9%A2%91%E8%A2%AB+X+%E5%88%A0%E9%99%A4%E4%B8%94%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81%EF%BC%8C%E7%A7%91%E6%8A%80%E7%BD%91%E7%AB%99+9to5mac+%E8%BD%AC%E5%8F%91%E7%9A%84%E8%A7%86%E9%A2%91%E6%96%87%E7%AB%A0%E7%9B%AE%E5%89%8D%E4%B9%9F%E4%B8%BB%E5%8A%A8%E5%88%A0%E9%99%A4%EF%BC%8C%E8%BF%99%E5%BE%88%E6%9C%89%E5%8F%AF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [发布](发布.md), [直接](直接.md), [科技](科技.md), [苹果](苹果.md), [账号](账号.md)
+[iPhone](iPhone.md), [发布](发布.md), [直接](直接.md), [科技](科技.md), [苹果](苹果.md), [账号](账号.md), [跌](跌.md)
 ___
 ##### 2026-06-29 06:51:08 UTC ~ lifcc
 > RT @mylifcc: 苹果官方开源神器来了！container v1.0.0 正式发布！在 Mac（Apple Silicon + macOS 26）上，用轻量级虚拟机原生运行 Linux 容器！ Swift 编写、Apple 虚拟化框架深度优化、OCI 完全兼容。再…
@@ -300,7 +307,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40super_leeyom%3A+Dell%E7%9A%84U2725QE%E5%88%B0%E4%BA%86%EF%BC%8C%E5%9B%BD%E8%A1%A5%E2%9E%95%E6%99%92%E5%8D%95%EF%BC%8C%E6%9C%80%E7%BB%88%E6%98%AF3774%E5%88%B0%E6%89%8B%EF%BC%8C%E6%AD%A3%E9%9D%A2%E8%A7%82%E6%84%9F%E5%87%A0%E4%B9%8E%E6%8E%A5%E8%BF%91%E5%9B%9B%E8%BE%B9%E7%AD%89%E5%AE%BD%E4%BA%86%EF%BC%88%E4%B8%8B%E5%B7%B4%E7%A8%8D%E5%BE%AE%E5%AE%BD%E4%BA%86%E4%B8%80%E7%82%B9%E7%82%B9%F0%9F%A4%8F%EF%BC%89%EF%BC%8C%E6%95%B4%E6%9C%BA%E9%A2%9C%E8%89%B2%E5%92%8C+Mac+mini+%E9%9D%9E%E5%B8%B8%E6%90%AD%EF%BC%88%E9%83%BD%E6%98%AF%E9%93%B6%E8%89%B2%E6%9C%BA%E8%BA%AB%EF%BC%89%EF%BC%8C27%E5%AF%B84K+120hz%E9%AB%98%E5%88%B7%2B%E7%A1%AC%E4%BB%B6%E4%BD%8E%E8%93%9D%E5%85%89%EF%BC%8C%E9%85%8D%E5%90%88macOS%EF%BC%8C%E5%A6%99%E6%8E%A7%E6%9D%BF%E5%B8%A7%E7%8E%87%E4%B9%9F%E6%9C%8912%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [配合](配合.md), [银](银.md)
+[Mac](Mac.md), [帧](帧.md), [配合](配合.md), [银](银.md)
 ___
 ##### 2025-03-26 06:44:23 UTC ~ 尤雨溪
 > RT @yuxiyou: 我有一只全皮的 Tumi 双肩包，用了可能快 10 年了，质量是真的好，但是贼重。加上 macbook pro，长时间背着真的难受，以至于我出行大部分时间都把它架在行李箱上。这次 M4 macbook air 发布，第一时间入手，顺便换了一个尼龙材…
@@ -399,4 +406,4 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8F%97%E6%83%A0%E4%BA%8E%E5%85%A8%E7%90%83%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%9C%80%E6%B1%82%E6%9A%B4%E5%A2%9E%EF%BC%8C%E6%8D%B7%E9%93%B5%E7%A7%91%E6%8A%80%EF%BC%88JHM%EF%BC%8C0127%EF%BC%8C%E4%B8%BB%E6%9D%BF%E7%A7%91%E6%8A%80%E8%82%A1%EF%BC%892021%E8%B4%A2%E5%B9%B4%E6%AC%A1%E5%AD%A3%E5%87%80%E5%88%A9%E6%8C%89%E5%B9%B4%E5%A4%A7%E6%B6%A82.40%E5%80%8D%EF%BC%8C%E8%87%B3932%E4%B8%871000%E4%BB%A4%E5%90%89%EF%BC%8C%E6%88%96%E6%AF%8F%E8%82%A11.67%E4%BB%99%E3%80%82https%3A%2F%2Ft.co%2FMlmacP3nch+https%3A%2F%2Ft.co%2FGzGDCu5rU3)
 ##### Other Words/Names of Interest in the Above Tweet
-[半导体](半导体.md), [科技](科技.md), [需求](需求.md)
+[半导体](半导体.md), [涨](涨.md), [科技](科技.md), [需求](需求.md)

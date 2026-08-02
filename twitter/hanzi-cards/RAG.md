@@ -68,14 +68,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E7%94%A8DeepSeek-r1%E6%9E%84%E5%BB%BA%E7%9A%84%E4%B8%80%E4%B8%AA%E5%B8%A6%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%E7%9A%84RAG%E6%96%B9%E6%A1%88%EF%BC%8C%E9%87%87%E7%94%A8%E9%80%92%E5%BD%92%E5%BC%8F%E6%A3%80%E7%B4%A2%E5%92%8C%E6%8E%A8%E7%90%86%E6%96%B9%E6%B3%95%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%A4%84%E7%90%86%E9%9C%80%E8%A6%81%E5%A4%9A%E6%AD%A5%E6%8E%A8%E7%90%86%E7%9A%84%E5%A4%8D%E6%9D%82%E6%9F%A5%E8%AF%A2%E8%AF%A5%E6%96%B9%E6%A1%88%E7%B3%BB%E7%BB%9F%E8%83%BD%E7%90%86%E8%A7%A3%E5%A4%8D%E6%9D%82%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E6%87%82%E5%BE%97%E5%88%86%E6%AD%A5%E9%AA%A4%E6%94%B6%E9%9B%86%E4%BF%A1%E6%81%AF%EF%BC%8C%E4%BC%9A%E8%BF%87%E6%BB%A4%E6%8E%89%E6%97%A0%E7%94%A8%E4%BF%A1%E6%81%AF%EF%BC%8C%E6%8A%8A%E5%A4%9A%E4%B8%AA%E4%BF%A1%E6%81%AFpieces%E4%B8%B2%E8%B5%B7%E6%9D%A5%E5%BE%97%E5%87%BA%E7%BB%93%E8%AE%BA%E2%80%A6+https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [处理](处理.md), [推理](推理.md), [收集](收集.md), [方案](方案.md), [系统](系统.md)
+[DeepSeek](DeepSeek.md), [处理](处理.md), [推理](推理.md), [收集](收集.md), [方案](方案.md), [系统](系统.md), [递归](递归.md)
 ___
 ##### 2025-02-17 01:11:42 UTC ~ meng shao
 > RT @shao__meng: 基于 DeepSeek R1 的递归推理 RAG概述：一个利用 DeepSeek R1 推理技术，通过反复检索、筛选和综合知识库信息来全面回答复杂问题的智能系统核心架构：1. Agent 层：基于 DeepSeek R1 推理技术构建…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40shao__meng%3A+%E5%9F%BA%E4%BA%8E+DeepSeek+R1+%E7%9A%84%E9%80%92%E5%BD%92%E6%8E%A8%E7%90%86+RAG%E6%A6%82%E8%BF%B0%EF%BC%9A%E4%B8%80%E4%B8%AA%E5%88%A9%E7%94%A8+DeepSeek+R1+%E6%8E%A8%E7%90%86%E6%8A%80%E6%9C%AF%EF%BC%8C%E9%80%9A%E8%BF%87%E5%8F%8D%E5%A4%8D%E6%A3%80%E7%B4%A2%E3%80%81%E7%AD%9B%E9%80%89%E5%92%8C%E7%BB%BC%E5%90%88%E7%9F%A5%E8%AF%86%E5%BA%93%E4%BF%A1%E6%81%AF%E6%9D%A5%E5%85%A8%E9%9D%A2%E5%9B%9E%E7%AD%94%E5%A4%8D%E6%9D%82%E9%97%AE%E9%A2%98%E7%9A%84%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F%E6%A0%B8%E5%BF%83%E6%9E%B6%E6%9E%84%EF%BC%9A1.+Agent+%E5%B1%82%EF%BC%9A%E5%9F%BA%E4%BA%8E+DeepSeek+R1+%E6%8E%A8%E7%90%86%E6%8A%80%E6%9C%AF%E6%9E%84%E5%BB%BA%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [技术](技术.md), [推理](推理.md), [核心](核心.md), [筛选](筛选.md), [系统](系统.md)
+[DeepSeek](DeepSeek.md), [技术](技术.md), [推理](推理.md), [核心](核心.md), [筛选](筛选.md), [系统](系统.md), [递归](递归.md)
 ___
 ##### 2025-02-15 18:32:55 UTC ~ AIGCLINK
 > RT @aigclink: 一款支持15+种格式文档的RAG系统：wdoc，包括PDF、网页、YouTube、音频等，可以对大量文档进行总结、搜索及查询可以把各类文件无缝组合在同一个索引中进行查询，甚至可以去除音频和YouTube视频中的静音部分支持高级RAG查询和高级…
@@ -89,4 +89,4 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%9B%B8%E8%BE%83%E4%BA%8E%E5%9C%A8%E5%8D%8E%E5%B0%94%E8%A1%97%E7%89%B9%E7%AB%8B%E7%8B%AC%E8%A1%8C%E7%9A%84%E6%9C%A8%E5%A4%B4%E5%A7%90%EF%BC%8C%E4%BC%A0%E7%BB%9F%E6%8A%95%E8%A1%8C%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%98%AF%E9%9D%92%E7%9D%90%E6%9C%89%E5%8A%A0%EF%BC%8C%E5%B0%BD%E7%AE%A1%E8%AF%A5%E8%82%A1%E8%82%A1%E4%BB%B7%E4%BB%8A%E5%B9%B4%E5%B7%B2%E7%BB%8F%E7%BF%BB%E4%BA%862%E5%80%8D%EF%BC%8C%E8%8A%B1%E6%97%97%E5%88%86%E6%9E%90%E5%B8%88%E8%BF%98%E6%98%AF%E7%9C%8B%E5%A5%BD%E8%BF%99%E5%AE%B6%E8%8A%AF%E7%89%87%E8%AE%BE%E8%AE%A1%E5%85%AC%E5%8F%B8%E7%9A%84%E9%9C%80%E6%B1%82%E9%AB%98%E6%B6%A8%EF%BC%8C%E8%82%A1%E4%BB%B7%E5%8F%AF%E4%BB%A5%E5%86%B2%E4%B8%8A600%E7%BE%8E%E5%85%83%EF%BC%81https%3A%2F%2Ft.co%2FW1L8kRAGsa+https%3A%2F%2Ft.co%2F6EYl%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[传统](传统.md), [分析](分析.md), [分析师](分析师.md), [投行](投行.md), [芯片](芯片.md), [英伟达](英伟达.md), [设计](设计.md), [需求](需求.md)
+[传统](传统.md), [分析](分析.md), [分析师](分析师.md), [投行](投行.md), [涨](涨.md), [芯片](芯片.md), [英伟达](英伟达.md), [设计](设计.md), [需求](需求.md)

@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-07-22 03:55:51 UTC ~ 汉尼拔火罐
+> RT @Hnbhger17: 过去一周，中国AI突然掀桌子：1.Kimi K3 性能世界第一，成本为三分之一。在48小时内GPU全满，暂停注册。2. https://t.co/ZdLYog4Z2H （原智谱）开始运营1 G瓦的数据中心，100％中国芯，单体世界最大。3.…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Hnbhger17%3A+%E8%BF%87%E5%8E%BB%E4%B8%80%E5%91%A8%EF%BC%8C%E4%B8%AD%E5%9B%BDAI%E7%AA%81%E7%84%B6%E6%8E%80%E6%A1%8C%E5%AD%90%EF%BC%9A1.Kimi+K3+%E6%80%A7%E8%83%BD%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%EF%BC%8C%E6%88%90%E6%9C%AC%E4%B8%BA%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E3%80%82%E5%9C%A848%E5%B0%8F%E6%97%B6%E5%86%85GPU%E5%85%A8%E6%BB%A1%EF%BC%8C%E6%9A%82%E5%81%9C%E6%B3%A8%E5%86%8C%E3%80%822.+https%3A%2F%2Ft.co%2FZdLYog4Z2H+%EF%BC%88%E5%8E%9F%E6%99%BA%E8%B0%B1%EF%BC%89%E5%BC%80%E5%A7%8B%E8%BF%90%E8%90%A51+G%E7%93%A6%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C100%EF%BC%85%E4%B8%AD%E5%9B%BD%E8%8A%AF%EF%BC%8C%E5%8D%95%E4%BD%93%E4%B8%96%E7%95%8C%E6%9C%80%E5%A4%A7%E3%80%823.%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [成本](成本.md), [数据](数据.md), [智谱](智谱.md), [暂停](暂停.md)
+___
+##### 2026-07-22 03:48:51 UTC ~ TechNews 科技新報
+> RT @technews_tw: 光通訊全面嗨翻！ #輝達大舉收購暗光纖 市場消息傳出，輝達正悄悄在美國大規模收購長途「暗光纖」（Dark Fiber），希望建立自主高速光纖網路，可望降低對超大規模雲端服務商依賴，並直接向企業提供一站式 AI 工廠解決方案及 GPUaaS（GP…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E5%85%89%E9%80%9A%E8%A8%8A%E5%85%A8%E9%9D%A2%E5%97%A8%E7%BF%BB%EF%BC%81+%23%E8%BC%9D%E9%81%94%E5%A4%A7%E8%88%89%E6%94%B6%E8%B3%BC%E6%9A%97%E5%85%89%E7%BA%96+%E5%B8%82%E5%A0%B4%E6%B6%88%E6%81%AF%E5%82%B3%E5%87%BA%EF%BC%8C%E8%BC%9D%E9%81%94%E6%AD%A3%E6%82%84%E6%82%84%E5%9C%A8%E7%BE%8E%E5%9C%8B%E5%A4%A7%E8%A6%8F%E6%A8%A1%E6%94%B6%E8%B3%BC%E9%95%B7%E9%80%94%E3%80%8C%E6%9A%97%E5%85%89%E7%BA%96%E3%80%8D%EF%BC%88Dark+Fiber%EF%BC%89%EF%BC%8C%E5%B8%8C%E6%9C%9B%E5%BB%BA%E7%AB%8B%E8%87%AA%E4%B8%BB%E9%AB%98%E9%80%9F%E5%85%89%E7%BA%96%E7%B6%B2%E8%B7%AF%EF%BC%8C%E5%8F%AF%E6%9C%9B%E9%99%8D%E4%BD%8E%E5%B0%8D%E8%B6%85%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%9B%B2%E7%AB%AF%E6%9C%8D%E5%8B%99%E5%95%86%E4%BE%9D%E8%B3%B4%EF%BC%8C%E4%B8%A6%E7%9B%B4%E6%8E%A5%E5%90%91%E4%BC%81%E6%A5%AD%E6%8F%90%E4%BE%9B%E4%B8%80%E7%AB%99%E5%BC%8F+AI+%E5%B7%A5%E5%BB%A0%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E5%8F%8A+GPUaaS%EF%BC%88GP%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[光纖](光纖.md), [提供](提供.md), [方案](方案.md), [直接](直接.md), [美國](美國.md), [輝達](輝達.md), [降低](降低.md)
+___
 ##### 2026-07-17 10:15:25 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 台積電董事長魏哲家在最新發言中指出，目前成熟及特殊製程供應最吃緊的領域，主要集中在電源管理 IC（PMIC）與感測器兩大類別，顯示 AI 已成為成熟製程成長的最強動能。隨著 AI 資料中心運算力與功耗同步攀升，PMIC 需求急劇增加。從 GPU、…
 
@@ -33,7 +47,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tig88411109%3A+%24NVDA+%E5%B8%82%E5%80%BC%E9%87%8D%E5%9B%9E5%E4%B8%87%E4%BA%BF%EF%BC%8C%E5%94%AF%E4%B8%80%E7%9A%84%E9%97%AE%E9%A2%98%E5%B0%B1%E6%98%AF%E5%A4%AA%E5%A4%A7%E4%BA%86%EF%BC%8C%E5%BE%88%E5%A4%9A%E6%88%90%E9%95%BF%E5%9E%8B%E6%9C%BA%E6%9E%84%E6%8A%95%E8%B5%84%E9%83%BD%E5%B7%B2%E6%A0%87%E9%85%8D%EF%BC%8C%E5%86%8D%E5%8A%A0%E4%B8%8A%E5%90%84%E8%B7%AF%E5%B0%8F%E4%BD%9C%E6%96%87%E7%9A%84%E5%99%AA%E9%9F%B3%EF%BC%8C%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%A2%9E%E9%95%BF%E3%80%81AI%E6%97%B6%E4%BB%A3%EF%BC%8C%E9%95%BF%E6%9C%9F%E4%BB%B7%E5%80%BC%E6%8A%95%E8%B5%84%E8%80%85%E4%B8%BA%E4%BD%95%E5%BF%85%E9%A1%BB%E8%A6%81%E6%A0%87%E9%85%8D%EF%BC%8CGPU%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BA%86%E4%B9%88%EF%BC%9F%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%88%E7%90%86%E7%9A%84%E6%8A%95%E8%B5%84%E7%AD%96%E7%95%A5%EF%BC%9F%E6%AF%8F%E5%BD%93%E5%B8%82%E5%9C%BA%E6%B3%A2%E5%8A%A8%E9%83%BD%E6%98%AF%E7%BB%99%E6%8A%95%E8%B5%84%E8%80%85%E5%B8%A6%E6%9D%A5%E6%9C%80%E5%A5%BD%E7%9A%84%E5%88%86%E4%BA%AB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[噪音](噪音.md), [增长](增长.md), [市值](市值.md), [投资](投资.md), [投资者](投资者.md), [机构](机构.md), [波动](波动.md), [策略](策略.md)
+[噪音](噪音.md), [增长](增长.md), [市值](市值.md), [投资](投资.md), [机构](机构.md), [波动](波动.md), [策略](策略.md)
 ___
 ##### 2026-07-07 09:41:21 UTC ~ 库哥
 > RT @kugo_A10: HBM之父金正浩：AI的本质是内存，不是GPU。这两天全网都在唱空存储。库哥找到一篇，看看能不能救一下三星、海力士。😂 https://t.co/klgulYJKuw
@@ -68,7 +82,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E5%88%A9%E6%B6%A6%E6%BF%80%E5%A2%9E%E6%AD%A3%E4%BF%83%E4%BD%BF%E6%8A%95%E8%B5%84%E8%80%85%E8%9C%82%E6%8B%A5%E4%B9%B0%E5%85%A5CPU%E3%80%81GPU%E5%92%8C%E5%86%85%E5%AD%98%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E7%9A%84%E8%82%A1%E7%A5%A8%E3%80%82https%3A%2F%2Ft.co%2FSP3B6g6TNu)
 ##### Other Words/Names of Interest in the Above Tweet
-[买入](买入.md), [促使](促使.md), [利润](利润.md), [投资](投资.md), [投资者](投资者.md), [芯片](芯片.md)
+[买入](买入.md), [促使](促使.md), [利润](利润.md), [投资](投资.md), [芯片](芯片.md)
 ___
 ##### 2026-03-20 03:26:54 UTC ~ ⧫ Alan Chen ⧫(alanchentsla.eth）
 > RT @alanchen: 历史上最大的 AI 走私案，作案工具竟然是一把吹风机。 🔌💀SMCI 的联合创始人不仅被抓到向中国走私了 25 亿美元的 Nvidia GPU。 他还在监控录像里被拍到：拿着一把吹风机融化序列号贴纸的胶水，好组装“假服务器”来糊弄美国的合规审计员…
@@ -229,14 +243,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B%E5%A2%9E%E5%BC%BA%E5%99%A8%E7%81%AB%E4%BA%86%EF%BC%8CFramePack%EF%BC%8C%E4%BD%BF%E7%94%A86GB%E7%AC%94%E8%AE%B0%E6%9C%ACGPU%E5%B0%B1%E8%83%BD%E4%BB%A530fps%E7%9A%84%E9%80%9F%E5%BA%A6%E7%94%A813B%E6%A8%A1%E5%9E%8B%E7%94%9F%E6%88%90%E6%95%B0%E5%8D%83%E5%B8%A7%E8%A7%86%E9%A2%91FramePack%E6%98%AF%E4%B8%80%E4%B8%AA%E9%80%90%E6%AD%A5%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E7%9A%84%E4%B8%8B%E4%B8%80%E5%B8%A7%E9%A2%84%E6%B5%8B%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%BB%93%E6%9E%84%EF%BC%8C%E5%AE%83%E8%83%BD%E5%B0%86%E8%BE%93%E5%85%A5%E5%86%85%E5%AE%B9%E5%8E%8B%E7%BC%A9%E5%88%B0%E5%9B%BA%E5%AE%9A%E9%95%BF%E5%BA%A6%EF%BC%8C%E8%BF%99%E6%A0%B7%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%E5%B0%B1%E4%B8%8D%E4%BC%9A%E9%9A%8F%E8%A7%86%E9%A2%91%E9%95%BF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[模型](模型.md), [神经](神经.md), [逐步](逐步.md), [速度](速度.md), [预测](预测.md)
+[帧](帧.md), [模型](模型.md), [神经](神经.md), [逐步](逐步.md), [速度](速度.md), [预测](预测.md)
 ___
 ##### 2025-04-17 16:55:55 UTC ~ -Zho-
 > RT @ZHO_ZHO_ZHO: 卧槽，敏神上大货了！！！仅需 6GB？像图像扩散一样的视频扩散？FramePack这下视频生成要进入超超超低显存时代了，迈入大众 GPU 了！马上就去实测！【重点】1⃣以全 fps-30 扩散上千帧：仅需 6GB VRAM，模型仅 1…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ZHO_ZHO_ZHO%3A+%E5%8D%A7%E6%A7%BD%EF%BC%8C%E6%95%8F%E7%A5%9E%E4%B8%8A%E5%A4%A7%E8%B4%A7%E4%BA%86%EF%BC%81%EF%BC%81%EF%BC%81%E4%BB%85%E9%9C%80+6GB%EF%BC%9F%E5%83%8F%E5%9B%BE%E5%83%8F%E6%89%A9%E6%95%A3%E4%B8%80%E6%A0%B7%E7%9A%84%E8%A7%86%E9%A2%91%E6%89%A9%E6%95%A3%EF%BC%9FFramePack%E8%BF%99%E4%B8%8B%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E8%A6%81%E8%BF%9B%E5%85%A5%E8%B6%85%E8%B6%85%E8%B6%85%E4%BD%8E%E6%98%BE%E5%AD%98%E6%97%B6%E4%BB%A3%E4%BA%86%EF%BC%8C%E8%BF%88%E5%85%A5%E5%A4%A7%E4%BC%97+GPU+%E4%BA%86%EF%BC%81%E9%A9%AC%E4%B8%8A%E5%B0%B1%E5%8E%BB%E5%AE%9E%E6%B5%8B%EF%BC%81%E3%80%90%E9%87%8D%E7%82%B9%E3%80%911%E2%83%A3%E4%BB%A5%E5%85%A8+fps-30+%E6%89%A9%E6%95%A3%E4%B8%8A%E5%8D%83%E5%B8%A7%EF%BC%9A%E4%BB%85%E9%9C%80+6GB+VRAM%EF%BC%8C%E6%A8%A1%E5%9E%8B%E4%BB%85+1%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[大众](大众.md), [扩散](扩散.md), [模型](模型.md)
+[大众](大众.md), [帧](帧.md), [扩散](扩散.md), [模型](模型.md)
 ___
 ##### 2025-04-16 05:22:00 UTC ~ meng shao
 > RT @shao__meng: GPU 分割技术详解：如何在单个 GPU 上运行多个 AI 工作负载，来最大化硬件利用率，降低模型推理成本 @clarifai 什么是 GPU 分割？GPU 分割是将一个物理 GPU 划分为多个逻辑单元的过程，允许多个 AI 工作负载在同一…
@@ -314,6 +328,13 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40leeoxiang%3A+%E4%BB%A5%E5%89%8D%E7%9F%A5%E9%81%93%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AF%B9GPU%E7%9A%84%E6%B6%88%E8%80%97%E5%BE%88%E9%AB%98%EF%BC%8C%E8%BF%99%E6%AC%A1%E8%87%AA%E5%B7%B1%E7%94%A8H20%2896G%E6%98%BE%E5%AD%98%29%E9%83%A8%E7%BD%B2%E4%B8%80%E4%B8%AA32B%E7%9A%84%E6%A8%A1%E5%9E%8B%E4%B9%8B%E5%90%8E%E6%9C%89%E4%BA%86%E6%9B%B4%E6%B7%B1%E7%9A%84%E6%84%9F%E5%8F%97%EF%BC%8C%E8%B7%91%E4%B8%80%E4%B8%AA%E5%B9%B6%E5%8F%91%E8%BF%98%E5%8F%AF%E4%BB%A5%EF%BC%8C%E8%B7%91%E4%B8%A4%E4%B8%AA%E5%B9%B6%E5%8F%91token%E9%80%9F%E5%BA%A6%E5%B0%B1%E4%B8%8B%E6%9D%A5%E4%BA%86%E3%80%82%E8%87%AA%E5%B7%B1%E9%83%A8%E7%BD%B2%E5%A4%A7%E6%A8%A1%E5%9E%8B%2870B%2B%29+%E5%8F%AF%E8%83%BD%E5%AF%B9%E7%BB%9D%E5%A4%A7%E6%95%B0%E4%B8%9A%E5%8A%A1%E5%B9%B6%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A5%BD%E7%9A%84%E9%80%89%E6%8B%A9%E3%80%82)
 ##### Other Words/Names of Interest in the Above Tweet
 [模型](模型.md), [速度](速度.md)
+___
+##### 2025-02-26 01:57:30 UTC ~ Andy Stewart
+> RT @manateelazycat: DeepSeek硬核！昨天DeepSeek的FlashMLA刚在H800上把性能榨干，GitHub Star一天破8.2k。https://t.co/vj2yBAtMVv今天他们又放大招，开源了个DeepEP，GPU性能再被拉…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40manateelazycat%3A+DeepSeek%E7%A1%AC%E6%A0%B8%EF%BC%81%E6%98%A8%E5%A4%A9DeepSeek%E7%9A%84FlashMLA%E5%88%9A%E5%9C%A8H800%E4%B8%8A%E6%8A%8A%E6%80%A7%E8%83%BD%E6%A6%A8%E5%B9%B2%EF%BC%8CGitHub+Star%E4%B8%80%E5%A4%A9%E7%A0%B48.2k%E3%80%82https%3A%2F%2Ft.co%2Fvj2yBAtMVv%E4%BB%8A%E5%A4%A9%E4%BB%96%E4%BB%AC%E5%8F%88%E6%94%BE%E5%A4%A7%E6%8B%9B%EF%BC%8C%E5%BC%80%E6%BA%90%E4%BA%86%E4%B8%AADeepEP%EF%BC%8CGPU%E6%80%A7%E8%83%BD%E5%86%8D%E8%A2%AB%E6%8B%89%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [开源](开源.md)
 ___
 ##### 2025-02-25 06:55:41 UTC ~ 
 > RT @myfxtrader: DeepSeek“开源周”第二天，介绍DeepEP——首个为混合专家模型（MoE）模型训练和推理设计的开源EP通信库，支持NVLink和RDMA确保高带宽通信；支持FP8降低计算成本；高吞吐量和低延迟内核分别优化训练和推理阶段；重叠机制提升GPU…
@@ -397,7 +418,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90PS30%E5%B9%B4%EF%BC%8C%E6%B2%92%E6%9C%89%E5%AE%83%E6%88%96%E8%A8%B1%E6%B2%92%E6%9C%89%E8%8B%B1%E5%81%89%E9%81%94%E4%BB%8A%E5%A4%A9%E3%80%91%E5%AE%B6%E7%94%A8%E9%81%8A%E6%88%B2%E6%A9%9F%E3%80%8CPlayStation%EF%BC%88PS%EF%BC%89%E3%80%8D%E8%AA%95%E7%94%9F%E8%87%B3%E4%BB%8A%E5%B7%B230%E5%B9%B4%E3%80%82%E9%99%A4%E4%BA%86%E9%81%8A%E6%88%B2%E4%B9%8B%E5%A4%96%EF%BC%8CPS%E4%B9%9F%E8%AE%93%E5%A8%9B%E6%A8%82%E9%A0%98%E5%9F%9F%E7%85%A5%E7%84%B6%E4%B8%80%E6%96%B0%E3%80%82%E4%B8%8D%E5%83%85%E5%A6%82%E6%AD%A4%EF%BC%8CPS%E9%82%84%E6%8E%80%E8%B5%B7%E4%BA%86%E5%9C%A83D%E5%9C%96%E5%BD%A2%E6%80%A7%E8%83%BD%E4%B8%8A%E7%9A%84%E6%BF%80%E7%83%88%E7%AB%B6%E7%88%AD%EF%BC%8C%E5%BE%8C%E4%BE%86%E8%8B%B1%E5%81%89%E9%81%94%E9%96%8B%E7%99%BC%E5%87%BA%E4%BA%86%E7%82%BA%E9%81%8A%E6%88%B2%E8%A8%AD%E8%A8%88%E7%9A%84%E3%80%8CGPU%E3%80%8D%E5%9C%96%E5%83%8F%E8%99%95%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[掀起](掀起.md), [激烈](激烈.md), [英偉達](英偉達.md), [開發](開發.md), [除了](除了.md), [領域](領域.md)
+[掀起](掀起.md), [激烈](激烈.md), [英偉達](英偉達.md), [設計](設計.md), [開發](開發.md), [除了](除了.md), [領域](領域.md)
 ___
 ##### 2024-11-14 04:01:05 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【英偉達未來可能選擇Rapidus代工】英偉達的最先進GPU目前全部由台積電生産。黃仁勳在被問及是否可能委託日本Rapidus代工時説：「我很信賴Rapidus。如果那樣的時刻到來，當然是件榮幸的事情」。他同時稱「日本擁有世界一流的半導體…
@@ -446,7 +467,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88%23Nvidia%EF%BC%89%E5%AE%A3%E5%B8%83%E6%8E%A8%E5%87%BA3%E6%AC%BE%E5%8F%B0%E5%BC%8F%E6%9C%BA%E7%BB%98%E5%9B%BE%E8%8A%AF%E7%89%87%EF%BC%88%23GPU%EF%BC%89%E6%96%B0%E4%BA%A7%E5%93%81%EF%BC%8C%E4%BB%A5%E5%8D%8F%E5%8A%A9PC%E4%BA%A7%E4%B8%9A%E9%9D%A0%E2%80%9CAI+PC%E2%80%9D%E6%9D%A5%E5%90%B8%E5%BC%95%E6%B6%88%E8%B4%B9%E8%80%85%E3%80%82%E6%B6%88%E6%81%AF%E6%BF%80%E5%8A%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B78%E6%97%A5%E5%A4%A7%E6%B6%A8%E9%80%BE6%25%EF%BC%8C%E9%87%8D%E6%96%B0%E7%AB%99%E5%9B%9E%E6%AF%8F%E8%82%A1500%E7%BE%8E%E5%85%83%E4%BB%A5%E4%B8%8A%E5%B9%B6%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98%E3%80%82https%3A%2F%2Ft.co%2FtlTykifEXd+htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[产业](产业.md), [协助](协助.md), [吸引](吸引.md), [推出](推出.md), [消费者](消费者.md), [芯片](芯片.md), [英伟达](英伟达.md), [逾](逾.md)
+[产业](产业.md), [协助](协助.md), [吸引](吸引.md), [推出](推出.md), [消费者](消费者.md), [涨](涨.md), [芯片](芯片.md), [英伟达](英伟达.md), [逾](逾.md)
 ___
 ##### 2024-01-08 03:17:56 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【下一代AI半導體競爭激烈，新興企業追趕英偉達】「一家企業持續壟斷市場是不可能的」，美國d-Matrix的CEO針對GPU表示。從該公司AI半導體「Corsair」來看，相同成本的運算量是英偉達主力GPU的13倍以上，速度是9倍以上。加拿…
@@ -516,14 +537,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90ChatGPT%E7%9A%84%E8%83%8C%E5%90%8E%E8%B5%A2%E5%AE%B6%E2%80%94%E2%80%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%91%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9C%A82022%E5%B9%B411%E6%9C%88%EF%BD%9E2023%E5%B9%B41%E6%9C%88%E9%94%80%E5%94%AE%E9%A2%9D%E5%92%8C%E5%88%A9%E6%B6%A6%E5%8F%8C%E4%B8%8B%E9%99%8D%EF%BC%8C%E4%BD%86%E8%B4%A2%E6%8A%A5%E5%8F%91%E5%B8%83%E5%90%8E%E8%82%A1%E4%BB%B7%E5%8D%B4%E4%B8%8A%E6%B6%A8%E8%BF%919%EF%BC%85%E3%80%82%E8%83%8C%E5%90%8E%E5%AD%98%E5%9C%A8%E7%9A%84%E6%98%AF%E7%BE%8E%E5%9B%BDOpenAI%E7%9A%84%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9CChatGPT%E2%80%9D%E3%80%82%E8%BF%99%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%A6%81%E8%AE%A9AI%E5%8F%98%E8%81%AA%E6%98%8E%E9%9C%80%E8%A6%81%E5%A4%A7%E9%87%8F%E4%BD%BF%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84GPU%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [上涨](上涨.md), [利润](利润.md), [发布](发布.md), [机器人](机器人.md), [美国](美国.md), [聊天](聊天.md), [英伟达](英伟达.md), [销售](销售.md), [销售额](销售额.md)
+[OpenAI](OpenAI.md), [利润](利润.md), [发布](发布.md), [机器人](机器人.md), [涨](涨.md), [美国](美国.md), [聊天](聊天.md), [英伟达](英伟达.md), [销售](销售.md), [销售额](销售额.md)
 ___
 ##### 2022-09-02 06:50:07 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【英伟达陷入中美之争漩涡】美国对部分GPU产品的对中国出口实施新限制，投资者不得不修正对英伟达的业绩预期。英伟达预测称，2022年8～10月，成为受限对象的2款产品的对中国销售额为4亿美元。英伟达在华业务的前景充满不确定性……https:…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%99%B7%E5%85%A5%E4%B8%AD%E7%BE%8E%E4%B9%8B%E4%BA%89%E6%BC%A9%E6%B6%A1%E3%80%91%E7%BE%8E%E5%9B%BD%E5%AF%B9%E9%83%A8%E5%88%86GPU%E4%BA%A7%E5%93%81%E7%9A%84%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E5%AE%9E%E6%96%BD%E6%96%B0%E9%99%90%E5%88%B6%EF%BC%8C%E6%8A%95%E8%B5%84%E8%80%85%E4%B8%8D%E5%BE%97%E4%B8%8D%E4%BF%AE%E6%AD%A3%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E4%B8%9A%E7%BB%A9%E9%A2%84%E6%9C%9F%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A2%84%E6%B5%8B%E7%A7%B0%EF%BC%8C2022%E5%B9%B48%EF%BD%9E10%E6%9C%88%EF%BC%8C%E6%88%90%E4%B8%BA%E5%8F%97%E9%99%90%E5%AF%B9%E8%B1%A1%E7%9A%842%E6%AC%BE%E4%BA%A7%E5%93%81%E7%9A%84%E5%AF%B9%E4%B8%AD%E5%9B%BD%E9%94%80%E5%94%AE%E9%A2%9D%E4%B8%BA4%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9C%A8%E5%8D%8E%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%89%8D%E6%99%AF%E5%85%85%E6%BB%A1%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[不确定性](不确定性.md), [业绩](业绩.md), [实施](实施.md), [投资](投资.md), [投资者](投资者.md), [美国](美国.md), [英伟达](英伟达.md), [销售](销售.md), [销售额](销售额.md), [限制](限制.md), [陷入](陷入.md), [预期](预期.md), [预测](预测.md)
+[不确定性](不确定性.md), [业绩](业绩.md), [实施](实施.md), [投资](投资.md), [美国](美国.md), [英伟达](英伟达.md), [销售](销售.md), [销售额](销售额.md), [限制](限制.md), [陷入](陷入.md), [预期](预期.md), [预测](预测.md)
 ___
 ##### 2022-05-17 06:37:33 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【NEC将打造日本最大规模AI研究用超级计算机】计算速度为每秒58京次，将搭载英伟达的GPU，目标是计算速度达到现在最大规模超级计算机的约3倍。该计算机将用于NEC自身的研究，有利于开发最尖端的AI和吸引优秀研究人员……https://…

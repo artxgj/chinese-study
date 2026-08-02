@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/CXMT) for definition
 ### Tweets containing CXMT
 
 ___
+##### 2026-07-31 02:37:46 UTC ~ chongxian 🔥🦖
+> RT @chongxian: 复盘一下：这次在 Predict 上下注 CXMT，亏了 3k 刀😇😇😇从最开始我其实并不了解 CXMT 是什么，然后通过 AI 去分析项目估值和市场情绪面。还记得当时 AI 给我的估值判断大概在 1.5-2 万亿，外加我不相信有一个什么项目，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chongxian%3A+%E5%A4%8D%E7%9B%98%E4%B8%80%E4%B8%8B%EF%BC%9A%E8%BF%99%E6%AC%A1%E5%9C%A8+Predict+%E4%B8%8A%E4%B8%8B%E6%B3%A8+CXMT%EF%BC%8C%E4%BA%8F%E4%BA%86+3k+%E5%88%80%F0%9F%98%87%F0%9F%98%87%F0%9F%98%87%E4%BB%8E%E6%9C%80%E5%BC%80%E5%A7%8B%E6%88%91%E5%85%B6%E5%AE%9E%E5%B9%B6%E4%B8%8D%E4%BA%86%E8%A7%A3+CXMT+%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E7%84%B6%E5%90%8E%E9%80%9A%E8%BF%87+AI+%E5%8E%BB%E5%88%86%E6%9E%90%E9%A1%B9%E7%9B%AE%E4%BC%B0%E5%80%BC%E5%92%8C%E5%B8%82%E5%9C%BA%E6%83%85%E7%BB%AA%E9%9D%A2%E3%80%82%E8%BF%98%E8%AE%B0%E5%BE%97%E5%BD%93%E6%97%B6+AI+%E7%BB%99%E6%88%91%E7%9A%84%E4%BC%B0%E5%80%BC%E5%88%A4%E6%96%AD%E5%A4%A7%E6%A6%82%E5%9C%A8+1.5-2+%E4%B8%87%E4%BA%BF%EF%BC%8C%E5%A4%96%E5%8A%A0%E6%88%91%E4%B8%8D%E7%9B%B8%E4%BF%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E9%A1%B9%E7%9B%AE%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[估值](估值.md), [分析](分析.md), [判断](判断.md), [项目](项目.md)
+___
+##### 2026-07-27 14:36:04 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 野村證券開始覆蓋中國最大DRAM製造商長存儲存技術（CXMT，688825），給予「買入」評級，目標價116人民幣，潛在上漲空間逾12倍。  看好理由：全球內存供需持續緊張。2026-2030年比特需求增長約7倍（年複合成長逾60%），即使考慮密…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E9%87%8E%E6%9D%91%E8%AD%89%E5%88%B8%E9%96%8B%E5%A7%8B%E8%A6%86%E8%93%8B%E4%B8%AD%E5%9C%8B%E6%9C%80%E5%A4%A7DRAM%E8%A3%BD%E9%80%A0%E5%95%86%E9%95%B7%E5%AD%98%E5%84%B2%E5%AD%98%E6%8A%80%E8%A1%93%EF%BC%88CXMT%EF%BC%8C688825%EF%BC%89%EF%BC%8C%E7%B5%A6%E4%BA%88%E3%80%8C%E8%B2%B7%E5%85%A5%E3%80%8D%E8%A9%95%E7%B4%9A%EF%BC%8C%E7%9B%AE%E6%A8%99%E5%83%B9116%E4%BA%BA%E6%B0%91%E5%B9%A3%EF%BC%8C%E6%BD%9B%E5%9C%A8%E4%B8%8A%E6%BC%B2%E7%A9%BA%E9%96%93%E9%80%BE12%E5%80%8D%E3%80%82++%E7%9C%8B%E5%A5%BD%E7%90%86%E7%94%B1%EF%BC%9A%E5%85%A8%E7%90%83%E5%85%A7%E5%AD%98%E4%BE%9B%E9%9C%80%E6%8C%81%E7%BA%8C%E7%B7%8A%E5%BC%B5%E3%80%822026-2030%E5%B9%B4%E6%AF%94%E7%89%B9%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%B7%E7%B4%847%E5%80%8D%EF%BC%88%E5%B9%B4%E8%A4%87%E5%90%88%E6%88%90%E9%95%B7%E9%80%BE60%25%EF%BC%89%EF%BC%8C%E5%8D%B3%E4%BD%BF%E8%80%83%E6%85%AE%E5%AF%86%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [存儲](存儲.md), [漲](漲.md), [逾](逾.md), [需求](需求.md)
+___
+##### 2026-07-25 13:34:50 UTC ~ 比特币橙子Trader
+> RT @oragnes: 库克申请在海外版产品里采购中国长江存储（YMTC）和长鑫存储（CXMT）的芯片。😂美光（Micron）当场急眼警告：这会直接干掉美国最后一家存储芯片巨头。过去一年存储芯片价格翻了 4 倍，美光把大部分产能都留给了利润更高的 AI 数据中心，毛利…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oragnes%3A+%E5%BA%93%E5%85%8B%E7%94%B3%E8%AF%B7%E5%9C%A8%E6%B5%B7%E5%A4%96%E7%89%88%E4%BA%A7%E5%93%81%E9%87%8C%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%EF%BC%88YMTC%EF%BC%89%E5%92%8C%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%EF%BC%88CXMT%EF%BC%89%E7%9A%84%E8%8A%AF%E7%89%87%E3%80%82%F0%9F%98%82%E7%BE%8E%E5%85%89%EF%BC%88Micron%EF%BC%89%E5%BD%93%E5%9C%BA%E6%80%A5%E7%9C%BC%E8%AD%A6%E5%91%8A%EF%BC%9A%E8%BF%99%E4%BC%9A%E7%9B%B4%E6%8E%A5%E5%B9%B2%E6%8E%89%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%90%8E%E4%B8%80%E5%AE%B6%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E3%80%82%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%BB%B7%E6%A0%BC%E7%BF%BB%E4%BA%86+4+%E5%80%8D%EF%BC%8C%E7%BE%8E%E5%85%89%E6%8A%8A%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%A7%E8%83%BD%E9%83%BD%E7%95%99%E7%BB%99%E4%BA%86%E5%88%A9%E6%B6%A6%E6%9B%B4%E9%AB%98%E7%9A%84+AI+%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%AF%9B%E5%88%A9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[YMTC](YMTC.md), [价格](价格.md), [利润](利润.md), [存储](存储.md), [巨头](巨头.md), [数据](数据.md), [申请](申请.md), [直接](直接.md), [美光](美光.md), [美国](美国.md), [芯片](芯片.md), [长鑫](长鑫.md)
+___
 ##### 2026-07-16 08:43:03 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: CXMT 資本雄厚 瞄準記憶體「大三巨頭」2026年7月16日，CXMT（https://t.co/SMeA4Q1sBT）在上海科創板上市，募資人民幣579億元（約85.5億美元），每股8.66元，市值約800-850億美元，較SK海力士、美光等一…
 
@@ -42,7 +63,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DRAM](DRAM.md), [光刻](光刻.md), [存储](存储.md), [实现](实现.md), [情况](情况.md), [晶圆](晶圆.md), [长鑫](长鑫.md), [韩国](韩国.md)
 ___
-##### 2026-07-05 17:27:35 UTC ~ Macro_Lin｜市场观察
+##### 2026-07-05 17:27:35 UTC ~ Macro_Lin
 > RT @LinQingV: 苹果能不能用CXMT的颗粒，对长鑫本身没那么重要。…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LinQingV%3A+%E8%8B%B9%E6%9E%9C%E8%83%BD%E4%B8%8D%E8%83%BD%E7%94%A8CXMT%E7%9A%84%E9%A2%97%E7%B2%92%EF%BC%8C%E5%AF%B9%E9%95%BF%E9%91%AB%E6%9C%AC%E8%BA%AB%E6%B2%A1%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81%E3%80%82%E2%80%A6)
@@ -68,7 +89,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E6%8C%87%E6%A8%99%E7%94%A3%E5%93%81%E5%83%B9%E6%A0%BC1%E5%80%8B%E6%9C%88%E6%BC%B2%E8%87%B32%E5%80%8D%E3%80%91%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC%E5%87%BA%E7%8F%BE%E6%9A%B4%E6%BC%B2%E7%9A%84%E6%98%AFDDR4%E7%94%A3%E5%93%81%E3%80%82%E4%B8%AD%E5%9C%8B%E7%9A%84%E8%A8%98%E6%86%B6%E9%AB%94%E8%A3%BD%E9%80%A0%E5%95%86%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89%E7%9A%84DDR4%E7%94%A3%E5%93%81%E5%81%9C%E7%94%A3%E9%A0%90%E6%9C%9F%E5%8A%A0%E5%BC%B7%EF%BC%8C%E6%A0%B9%E6%93%9A%E4%B8%AD%E5%9C%8B%E6%94%BF%E5%BA%9C%E5%8A%A0%E5%BC%B7AI%E5%92%8C%E9%9B%B2%E7%AB%AF%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%94%9F%E7%94%A3%E7%9A%84%E6%96%B9%E9%87%9D%EF%BC%8C%E5%B0%87%E8%BD%89%E5%90%91%E9%AB%98%E7%AB%AF%E7%94%A3%E5%93%81%E3%80%82%E6%8E%A8%E9%AB%98%E4%BA%86%E8%A1%8C%E6%83%85%E2%80%A6%E2%80%A6https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [交易](交易.md), [半導體](半導體.md), [存儲](存儲.md), [推高](推高.md), [行情](行情.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
+[DRAM](DRAM.md), [交易](交易.md), [半導體](半導體.md), [存儲](存儲.md), [推高](推高.md), [漲](漲.md), [行情](行情.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
 ___
 ##### 2022-05-31 04:42:36 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【摘】坂本幸雄：在DRAM领域处于中国顶尖水平的长鑫存储技术（CXMT）与三星相比落后4代左右。而在NAND闪存领域，据称中国顶尖的长江存储科技（YMTC）将启动（存储元件为）128层的量产，虽已启动192层的试生产，但制造的数量过少，达…

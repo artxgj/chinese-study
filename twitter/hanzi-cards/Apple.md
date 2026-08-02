@@ -7,12 +7,47 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Apple) for definition
 ### Tweets containing Apple
 
 ___
+##### 2026-07-31 03:30:35 UTC ~ Intl Econ Observe
+> RT @IEObserve: Apple 預估Q3營收增速會從本季的16%下滑到9-11%，主要原因除了匯率逆風外，iPhone 和 Mac 出貨將受到先進製程SoC供應不足限制，而且毛利率預估將因為記憶體成本增加明顯下滑至47-48%。Tim Cook表示，主要限制來自製…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40IEObserve%3A+Apple+%E9%A0%90%E4%BC%B0Q3%E7%87%9F%E6%94%B6%E5%A2%9E%E9%80%9F%E6%9C%83%E5%BE%9E%E6%9C%AC%E5%AD%A3%E7%9A%8416%25%E4%B8%8B%E6%BB%91%E5%88%B09-11%25%EF%BC%8C%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%E9%99%A4%E4%BA%86%E5%8C%AF%E7%8E%87%E9%80%86%E9%A2%A8%E5%A4%96%EF%BC%8CiPhone+%E5%92%8C+Mac+%E5%87%BA%E8%B2%A8%E5%B0%87%E5%8F%97%E5%88%B0%E5%85%88%E9%80%B2%E8%A3%BD%E7%A8%8BSoC%E4%BE%9B%E6%87%89%E4%B8%8D%E8%B6%B3%E9%99%90%E5%88%B6%EF%BC%8C%E8%80%8C%E4%B8%94%E6%AF%9B%E5%88%A9%E7%8E%87%E9%A0%90%E4%BC%B0%E5%B0%87%E5%9B%A0%E7%82%BA%E8%A8%98%E6%86%B6%E9%AB%94%E6%88%90%E6%9C%AC%E5%A2%9E%E5%8A%A0%E6%98%8E%E9%A1%AF%E4%B8%8B%E6%BB%91%E8%87%B347-48%25%E3%80%82Tim+Cook%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%B8%BB%E8%A6%81%E9%99%90%E5%88%B6%E4%BE%86%E8%87%AA%E8%A3%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [iPhone](iPhone.md), [下滑](下滑.md), [利率](利率.md), [匯率](匯率.md), [成本](成本.md), [營收](營收.md), [記憶體](記憶體.md), [限制](限制.md), [除了](除了.md)
+___
+##### 2026-07-30 03:16:36 UTC ~ Berryxia.AI
+> RT @berryxia: 你敢信，Apple 竟然因为在AI时代没有烧足够多的钱，反而又回到了全球第一是市值的地位4.95万亿美金。😂自2025 年以来第一次超越市值第一的英伟达，做到了头把交椅。🍗
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40berryxia%3A+%E4%BD%A0%E6%95%A2%E4%BF%A1%EF%BC%8CApple+%E7%AB%9F%E7%84%B6%E5%9B%A0%E4%B8%BA%E5%9C%A8AI%E6%97%B6%E4%BB%A3%E6%B2%A1%E6%9C%89%E7%83%A7%E8%B6%B3%E5%A4%9F%E5%A4%9A%E7%9A%84%E9%92%B1%EF%BC%8C%E5%8F%8D%E8%80%8C%E5%8F%88%E5%9B%9E%E5%88%B0%E4%BA%86%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%98%AF%E5%B8%82%E5%80%BC%E7%9A%84%E5%9C%B0%E4%BD%8D4.95%E4%B8%87%E4%BA%BF%E7%BE%8E%E9%87%91%E3%80%82%F0%9F%98%82%E8%87%AA2025+%E5%B9%B4%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%B6%85%E8%B6%8A%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%8C%E5%81%9A%E5%88%B0%E4%BA%86%E5%A4%B4%E6%8A%8A%E4%BA%A4%E6%A4%85%E3%80%82%F0%9F%8D%97)
+##### Other Words/Names of Interest in the Above Tweet
+[市值](市值.md), [英伟达](英伟达.md), [金](金.md)
+___
+##### 2026-07-30 02:43:44 UTC ~ Xudong Han
+> RT @Xudong07452910: 有人真的在 Apple M1 Max 上跑起来了 2.8 万亿参数的 Kimi K3。速度是每秒 0.0687 个 token，也就是大约 14.6 秒生成一个字。完整安装需要约 1.7 TB 本地磁盘。这个项目叫 Deltafin，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Xudong07452910%3A+%E6%9C%89%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%9C%A8+Apple+M1+Max+%E4%B8%8A%E8%B7%91%E8%B5%B7%E6%9D%A5%E4%BA%86+2.8+%E4%B8%87%E4%BA%BF%E5%8F%82%E6%95%B0%E7%9A%84+Kimi+K3%E3%80%82%E9%80%9F%E5%BA%A6%E6%98%AF%E6%AF%8F%E7%A7%92+0.0687+%E4%B8%AA+token%EF%BC%8C%E4%B9%9F%E5%B0%B1%E6%98%AF%E5%A4%A7%E7%BA%A6+14.6+%E7%A7%92%E7%94%9F%E6%88%90%E4%B8%80%E4%B8%AA%E5%AD%97%E3%80%82%E5%AE%8C%E6%95%B4%E5%AE%89%E8%A3%85%E9%9C%80%E8%A6%81%E7%BA%A6+1.7+TB+%E6%9C%AC%E5%9C%B0%E7%A3%81%E7%9B%98%E3%80%82%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%8F%AB+Deltafin%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [参数](参数.md), [速度](速度.md), [项目](项目.md)
+___
+##### 2026-07-30 02:37:01 UTC ~ Berryxia.AI
+> RT @berryxia: 卧槽！大牛让Mac Studio 直接跑Kimi K3 了！我知道会有人搞，没想到这么快～ 不是一般说鬼佬的效率低的吗？2.8T参数的Kimi K3，现在能在Mac Studio上跑了。K3原本体量1.6TB，Apple Silicon…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40berryxia%3A+%E5%8D%A7%E6%A7%BD%EF%BC%81%E5%A4%A7%E7%89%9B%E8%AE%A9Mac+Studio+%E7%9B%B4%E6%8E%A5%E8%B7%91Kimi+K3+%E4%BA%86%EF%BC%81%E6%88%91%E7%9F%A5%E9%81%93%E4%BC%9A%E6%9C%89%E4%BA%BA%E6%90%9E%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%99%E4%B9%88%E5%BF%AB%EF%BD%9E+%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E8%AF%B4%E9%AC%BC%E4%BD%AC%E7%9A%84%E6%95%88%E7%8E%87%E4%BD%8E%E7%9A%84%E5%90%97%EF%BC%9F2.8T%E5%8F%82%E6%95%B0%E7%9A%84Kimi+K3%EF%BC%8C%E7%8E%B0%E5%9C%A8%E8%83%BD%E5%9C%A8Mac+Studio%E4%B8%8A%E8%B7%91%E4%BA%86%E3%80%82K3%E5%8E%9F%E6%9C%AC%E4%BD%93%E9%87%8F1.6TB%EF%BC%8CApple+Silicon%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [Mac](Mac.md), [参数](参数.md), [效率](效率.md), [直接](直接.md)
+___
+##### 2026-07-20 09:15:34 UTC ~ TechNews 科技新報
+> RT @technews_tw: #蘋果 實體店引進 AI 服務！據傳 Apple Store 正測試 Live Notes 系統，能將 Genius Bar 的諮詢對話自動轉為逐字稿與摘要。 https://t.co/3zyQEsqCom
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%98%8B%E6%9E%9C+%E5%AF%A6%E9%AB%94%E5%BA%97%E5%BC%95%E9%80%B2+AI+%E6%9C%8D%E5%8B%99%EF%BC%81%E6%93%9A%E5%82%B3+Apple+Store+%E6%AD%A3%E6%B8%AC%E8%A9%A6+Live+Notes+%E7%B3%BB%E7%B5%B1%EF%BC%8C%E8%83%BD%E5%B0%87+Genius+Bar+%E7%9A%84%E8%AB%AE%E8%A9%A2%E5%B0%8D%E8%A9%B1%E8%87%AA%E5%8B%95%E8%BD%89%E7%82%BA%E9%80%90%E5%AD%97%E7%A8%BF%E8%88%87%E6%91%98%E8%A6%81%E3%80%82+https%3A%2F%2Ft.co%2F3zyQEsqCom)
+##### Other Words/Names of Interest in the Above Tweet
+[蘋果](蘋果.md)
+___
 ##### 2026-07-18 06:54:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果股价近期表现强劲，自6月低点以来累计上涨21%，今年以来上涨23%，成为美股科技7巨头中表现最佳的股票。#南洋商报 #苹果 #英伟达 #Apple #Nvidiahttps://t.co/qDFYBhkP3R https://t.co…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E8%BF%91%E6%9C%9F%E8%A1%A8%E7%8E%B0%E5%BC%BA%E5%8A%B2%EF%BC%8C%E8%87%AA6%E6%9C%88%E4%BD%8E%E7%82%B9%E4%BB%A5%E6%9D%A5%E7%B4%AF%E8%AE%A1%E4%B8%8A%E6%B6%A821%25%EF%BC%8C%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E4%B8%8A%E6%B6%A823%25%EF%BC%8C%E6%88%90%E4%B8%BA%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%807%E5%B7%A8%E5%A4%B4%E4%B8%AD%E8%A1%A8%E7%8E%B0%E6%9C%80%E4%BD%B3%E7%9A%84%E8%82%A1%E7%A5%A8%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23%E8%8B%B1%E4%BC%9F%E8%BE%BE+%23Apple+%23Nvidiahttps%3A%2F%2Ft.co%2FqDFYBhkP3R+https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [巨头](巨头.md), [强劲](强劲.md), [最佳](最佳.md), [科技](科技.md), [累计](累计.md), [英伟达](英伟达.md), [苹果](苹果.md)
+[巨头](巨头.md), [强劲](强劲.md), [最佳](最佳.md), [涨](涨.md), [科技](科技.md), [累计](累计.md), [英伟达](英伟达.md), [苹果](苹果.md)
 ___
 ##### 2026-07-16 15:38:32 UTC ~ 亚洲股市 AsiaStock
 > RT @AsiaStock: 周四，随着通义千问与Apple Intelligence达成合作伙伴关系的消息公布，阿里巴巴（9988HK）股价大幅飙升。中国网络空间监管机构已正式批准Apple… https://t.co/YBA7dUQt3I
@@ -26,7 +61,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AsiaStock%3A+%E7%99%BE%E5%BA%A6%EF%BC%889888HK%EF%BC%89%E5%9C%A8%E5%AE%A3%E5%B8%83%E4%B8%8EApple+Intelligence%E8%BE%BE%E6%88%90%E5%90%88%E4%BD%9C%E4%BB%A5%E5%8A%A9%E5%8A%9B%E5%85%B6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E8%90%BD%E5%9C%B0%E5%90%8E%EF%BC%8C%E8%82%A1%E4%BB%B7%E8%BF%8E%E6%9D%A5%E5%A4%A7%E6%B6%A8%E3%80%82%E7%99%BE%E5%BA%A6%E5%B0%86%E8%B4%9F%E8%B4%A3%E6%94%AF%E6%8C%81%E7%89%B9%E5%AE%9A%E7%9A%84AI%E5%8A%9F%E8%83%BD%EF%BC%8C%E5%85%B6%E4%B8%AD%E6%9C%80%E5%BC%95%E4%BA%BA%E7%9E%A9%E7%9B%AE%E7%9A%84%E6%98%AF%E2%80%9C%E8%A7%86%E8%A7%89%E6%99%BA%E8%83%BD%E2%80%9D%EF%BC%88Visual+Intelligence%EF%BC%89%E5%92%8C%E6%9C%AC%E5%9C%B0AI%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%90%9C%E7%B4%A2%E3%80%82%E8%BF%99%E5%9C%A8%E6%9C%AC%E8%B4%A8%E4%B8%8A%E4%B8%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[搜索](搜索.md), [支持](支持.md), [本质](本质.md), [达成](达成.md)
+[搜索](搜索.md), [支持](支持.md), [本质](本质.md), [涨](涨.md), [达成](达成.md)
 ___
 ##### 2026-07-16 03:03:27 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 中国最高互联网监管机构周三表示，苹果已成功备案其Apple智能服务。此外，数据显示中国市场的第二季度iPhone出货量同比激增24%。https://t.co/AH13q92LW4
@@ -40,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%23%E8%A1%8C%E6%83%85+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%BE%8E%E8%82%A1%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A85%25%E3%80%82%E6%8D%AE%E8%AF%81%E5%88%B8%E6%97%B6%E6%8A%A5%E6%8A%A5%E9%81%93%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%B0%86%E4%BD%9C%E4%B8%BAAI%E8%83%BD%E5%8A%9B%E9%9B%86%E6%88%90%E8%87%B3Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E4%B8%BAiOS%E3%80%81iPadOS%E3%80%81macOS%E5%92%8CvisionOS%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%A8%E6%88%B7%E5%B8%A6%E6%9D%A5%E6%99%BA%E8%83%BD%E4%BD%93%E9%AA%8C%E3%80%82%E7%94%A8%E6%88%B7%E6%97%A0%E9%9C%80%E5%9C%A8%E5%BA%94%E7%94%A8%E9%97%B4%E5%88%87%E6%8D%A2%EF%BC%8C%E5%8D%B3%E5%8F%AF%E5%9C%A8Apple%E8%AE%BE%E5%A4%87%E4%B8%8A%E7%9B%B4%E6%8E%A5%E4%BD%93%E9%AA%8C%E5%8D%83%E9%97%AE%E7%9A%84%E6%96%87%E6%9C%AC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iOS](iOS.md), [mac](mac.md), [千问](千问.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
+[iOS](iOS.md), [mac](mac.md), [千问](千问.md), [涨](涨.md), [直接](直接.md), [行情](行情.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2026-07-15 08:46:31 UTC ~ TechNews 科技新報
 > RT @technews_tw: 7-ELEVEN 會員正式支援 Apple 錢包，今後使用 Apple Pay 感應付款，系統便能同步完成會員累點與發票存載具。 https://t.co/MensRu2UGp
@@ -54,14 +89,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%98%8B%E6%9E%9C%E5%9B%A0%E6%87%89%E6%AD%90%E7%9B%9F%E6%B3%95%E8%A6%8F%EF%BC%81%E6%96%B0%E4%B8%80%E4%BB%A3+Apple+Pencil+%E5%82%B3%E6%8E%A1%E6%9B%B4%E5%AE%B9%E6%98%93%E6%9B%B4%E6%8F%9B%E9%9B%BB%E6%B1%A0%E7%9A%84%E6%96%B0%E8%A8%AD%E8%A8%88%EF%BC%8C2027+%E5%B9%B4%E6%98%A5%E5%AD%A3%E4%BA%AE%E7%9B%B8%E3%80%82+%23%E8%98%8B%E6%9E%9C+%23ApplePencil+%23%E6%AD%90%E7%9B%9F+https%3A%2F%2Ft.co%2F0hl1rEbTVQ)
 ##### Other Words/Names of Interest in the Above Tweet
-[蘋果](蘋果.md), [電池](電池.md)
+[蘋果](蘋果.md), [設計](設計.md), [電池](電池.md)
 ___
 ##### 2026-07-12 03:18:46 UTC ~ TechNews 科技新報
 > RT @technews_tw: Siri 與 ChatGPT 合作關係生變原因？ #蘋果控告OpenAI竊密案起訴書曝光 蘋果（Apple）7 月 10 日向加州北區聯邦地方法院聖荷西分院提起訴訟，指控 OpenAI 及三名華裔背景人士系統性竊取商業機密。起訴書 41 頁詳列…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+Siri+%E8%88%87+ChatGPT+%E5%90%88%E4%BD%9C%E9%97%9C%E4%BF%82%E7%94%9F%E8%AE%8A%E5%8E%9F%E5%9B%A0%EF%BC%9F+%23%E8%98%8B%E6%9E%9C%E6%8E%A7%E5%91%8AOpenAI%E7%AB%8A%E5%AF%86%E6%A1%88%E8%B5%B7%E8%A8%B4%E6%9B%B8%E6%9B%9D%E5%85%89+%E8%98%8B%E6%9E%9C%EF%BC%88Apple%EF%BC%897+%E6%9C%88+10+%E6%97%A5%E5%90%91%E5%8A%A0%E5%B7%9E%E5%8C%97%E5%8D%80%E8%81%AF%E9%82%A6%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2%E8%81%96%E8%8D%B7%E8%A5%BF%E5%88%86%E9%99%A2%E6%8F%90%E8%B5%B7%E8%A8%B4%E8%A8%9F%EF%BC%8C%E6%8C%87%E6%8E%A7+OpenAI+%E5%8F%8A%E4%B8%89%E5%90%8D%E8%8F%AF%E8%A3%94%E8%83%8C%E6%99%AF%E4%BA%BA%E5%A3%AB%E7%B3%BB%E7%B5%B1%E6%80%A7%E7%AB%8A%E5%8F%96%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86%E3%80%82%E8%B5%B7%E8%A8%B4%E6%9B%B8+41+%E9%A0%81%E8%A9%B3%E5%88%97%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [加州](加州.md), [指控](指控.md), [華裔](華裔.md), [蘋果](蘋果.md), [起訴](起訴.md)
+[OpenAI](OpenAI.md), [加州](加州.md), [指控](指控.md), [竊取](竊取.md), [華裔](華裔.md), [蘋果](蘋果.md), [起訴](起訴.md)
 ___
 ##### 2026-07-06 21:39:41 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: Broadcom 與 Apple 擴大晶片合作至 2031 年Broadcom（ $AVGO ）宣布與 Apple（ $AAPL ）簽訂新多年長期協議，將雙方技術合作延長至 2031 年。Broadcom 將為 Apple 多代產品開發並供應客製…
@@ -383,7 +418,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8A%95%E8%B5%84%E8%80%85%E8%8B%A5%E6%9C%9F%E5%BE%85%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%A7%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%E6%88%90%E4%B8%BA%E5%85%B6%E8%82%A1%E4%BB%B7%E5%A4%8D%E8%8B%8F%E5%90%8E%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%82%AC%E5%8C%96%E5%89%82%EF%BC%8C%E9%82%A3%E5%A4%9A%E5%8D%8A%E4%BC%9A%E5%A4%A7%E5%A4%B1%E6%89%80%E6%9C%9B%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23Applehttps%3A%2F%2Ft.co%2FDlRnDArYCq+https%3A%2F%2Ft.co%2FWp2m7ZHLEU)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [复苏](复苏.md), [投资](投资.md), [投资者](投资者.md), [苹果](苹果.md)
+[发布](发布.md), [复苏](复苏.md), [投资](投资.md), [苹果](苹果.md)
 ___
 ##### 2025-09-07 01:57:54 UTC ~ AI Will
 > RT @FinanceYF5: Apple 首席执行官Tim Cook在不到两分钟的时间内说了八次“谢谢”！太不可思议了！ https://t.co/7r8zpJdvWm
@@ -404,7 +439,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%88%B6%E9%80%A0%E5%95%86Oppo%E6%8C%96%E8%B5%B0Apple+Watch%E5%9B%A2%E9%98%9F%E4%B8%80%E5%90%8D%E9%AB%98%E8%96%AA%E5%91%98%E5%B7%A5%EF%BC%8C%E5%B9%B6%E6%80%82%E6%81%BF%E4%BB%96%E4%B8%BA%E6%96%B0%E8%81%8C%E4%BD%8D%E7%AA%83%E5%8F%96%E8%8B%B9%E6%9E%9C%E7%9A%84%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86%E3%80%82+https%3A%2F%2Ft.co%2FyE6343FSze)
 ##### Other Words/Names of Interest in the Above Tweet
-[巨头](巨头.md), [指控](指控.md), [科技](科技.md), [苹果](苹果.md)
+[巨头](巨头.md), [指控](指控.md), [科技](科技.md), [窃取](窃取.md), [苹果](苹果.md)
 ___
 ##### 2025-08-15 09:59:49 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 在经历长达一年的法律斗争后，苹果终于得以在美国市场恢复推出智能手表血氧追踪功能。#南洋商报 #Apple #智能手表https://t.co/LyeHVsmfdM https://t.co/U3aHTtYInF
@@ -418,7 +453,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E2%80%A2%E5%93%88%E6%92%92%E9%9F%A6%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%86%8D%E6%AC%A1%E5%87%8F%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%A1%E7%A5%A8%E3%80%91%E6%B2%83%E4%BC%A6%E2%80%A2%E5%B7%B4%E8%8F%B2%E7%89%B9%28Warren+Buffett%29%E6%97%97%E4%B8%8B%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E2%80%A2%E5%93%88%E6%92%92%E9%9F%A6%28Berkshire+Hathaway%29%E5%9C%A8%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E6%81%A2%E5%A4%8D%E6%8A%9B%E5%94%AE%E8%8B%B9%E6%9E%9C%28Apple%29%E8%82%A1%E7%A5%A8%EF%BC%8C%E5%87%8F%E6%8C%81%E8%82%A1%E4%BB%BD%E4%BB%B7%E5%80%BC%E8%B6%8540%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BF%99%E4%BD%8D%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E6%8A%95%E8%B5%84%E8%80%85%E7%BB%A7%E7%BB%AD%E7%BC%A9%E5%87%8F%E5%85%B6%E6%9C%80%E8%B5%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[季度](季度.md), [巴菲特](巴菲特.md), [恢复](恢复.md), [投资](投资.md), [投资者](投资者.md), [抛售](抛售.md), [股份](股份.md), [苹果](苹果.md)
+[季度](季度.md), [巴菲特](巴菲特.md), [恢复](恢复.md), [投资](投资.md), [抛售](抛售.md), [股份](股份.md), [苹果](苹果.md)
 ___
 ##### 2025-08-15 05:26:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Apple Watch将重新提供血氧监测功能。https://t.co/TLMiGMpvlR
@@ -572,7 +607,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%9C%89%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%94%BF%E5%BA%9C%E5%AF%B9%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%EF%BC%8C%E4%B8%8E%E4%B8%AD%E8%B5%84%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E8%AE%A1%E5%88%92%E8%A1%A8%E7%A4%BA%E2%80%9C%E5%85%B3%E6%B3%A8%E2%80%9D%EF%BC%8C%E5%AF%BC%E8%87%B4%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E8%82%A1%E4%BB%B7%E5%9C%A8%E7%BE%8E%E5%B8%82%E7%9B%98%E5%89%8D%E5%BA%94%E5%A3%B0%E6%9A%B4%E8%B7%8C%E4%BA%86%E5%B0%86%E8%BF%912%25%E3%80%82+https%3A%2F%2Ft.co%2Fh6yBx7Gl3D)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [关注](关注.md), [导致](导致.md), [巨头](巨头.md), [暴跌](暴跌.md), [特朗普](特朗普.md), [知情](知情.md), [知情人士](知情人士.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md), [透露](透露.md), [阿里巴巴](阿里巴巴.md)
+[人工智能](人工智能.md), [关注](关注.md), [导致](导致.md), [巨头](巨头.md), [特朗普](特朗普.md), [知情](知情.md), [知情人士](知情人士.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md), [跌](跌.md), [透露](透露.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-05-17 08:01:24 UTC ~ Geek
 > RT @geekbb: 正在看 Apple 2025 科幻新剧《杀戮人机》，电影开场机器人就黑进控制中心解放自我，当它评价"某些人类很混蛋，另一些还不错"时，我联想到自己使用 AI 的情景，该不会也在暗地里给我们建立用户画像吧……我用飞牛部署了 CloudSaver，搜索新…
@@ -600,7 +635,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+Epic+vs+Apple+%E7%9A%84%E8%AF%89%E8%AE%BC%EF%BC%8C%E6%8C%81%E7%BB%AD%E4%BA%86%E8%BF%91%E4%BA%94%E5%B9%B4%EF%BC%8C%E5%85%B6%E4%B8%AD%E8%B7%8C%E5%AE%95%E8%B5%B7%E4%BC%8F%EF%BC%8C%E7%AE%80%E7%9B%B4%E5%8F%AF%E4%BB%A5%E5%86%99%E4%B8%80%E6%9C%AC%E4%B9%A6%E4%BA%86%E3%80%82%E6%9C%80%E8%BF%91%E6%96%B0%E7%9A%84%E8%A3%81%E5%86%B3%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%8C%E5%88%A4%E5%AE%9A+Apple+%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E5%88%A4%E5%86%B3%E3%80%825+%E6%9C%88+2+%E6%97%A5%EF%BC%8C%E6%88%91%E7%9A%84+Apple+%E5%BC%80%E5%8F%91%E8%80%85%E8%B4%A6%E5%8F%B7%E7%AB%8B%E5%88%BB%E6%94%B6%E5%88%B0%E4%BA%86%E4%B8%80%E5%B0%81%E9%82%AE%E4%BB%B6%EF%BC%8C%E5%A4%A7%E6%84%8F%E6%98%AF%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%8C%BA+App+Store+%E8%A7%A3%E9%99%A4%E4%BA%86%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[反垄断](反垄断.md), [垄断](垄断.md), [开发](开发.md), [持续](持续.md), [美国](美国.md), [裁决](裁决.md), [诉讼](诉讼.md), [账号](账号.md), [除了](除了.md)
+[反垄断](反垄断.md), [垄断](垄断.md), [开发](开发.md), [持续](持续.md), [美国](美国.md), [裁决](裁决.md), [诉讼](诉讼.md), [账号](账号.md), [跌](跌.md), [除了](除了.md)
 ___
 ##### 2025-04-23 15:47:04 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 这是欧盟加强对大型科技平台监管的最新举措。#南洋商报 #Apple #Metahttps://t.co/RIEO9yHPVy https://t.co/X2QBx0dadW
@@ -635,7 +670,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8F%97%E5%85%B3%E7%A8%8E%E5%BD%B1%E5%93%8D%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%9C%A8%E7%9B%98%E5%90%8E%E4%BA%A4%E6%98%93%E4%B8%AD%E4%B8%80%E5%BA%A6%E5%A4%A7%E8%B7%8C7.9%25%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DonaldTrump+%23Tariffs+%23%E8%8B%B9%E6%9E%9C+%23Applehttps%3A%2F%2Ft.co%2FcXAmesnd8C+https%3A%2F%2Ft.co%2F2133ysCM19)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [关税](关税.md), [影响](影响.md), [税](税.md), [苹果](苹果.md)
+[交易](交易.md), [关税](关税.md), [影响](影响.md), [税](税.md), [苹果](苹果.md), [跌](跌.md)
 ___
 ##### 2025-04-01 06:59:42 UTC ~ Rayy — Open Network for Sharing Economy
 > RT @tisoga: 再一次被 AI Coding 的能力震惊到了 🤯这是我花了 1 个多小时使用 @devv_ai Coding Agent 为自己创建的一个健康 &amp; 锻炼记录分析工具，支持的功能：1. 连接 Whoop、Apple Health、Garmin，导入…
@@ -698,7 +733,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40hjc4869%3A+%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%88%E8%81%8A%E5%88%B0Mac%E8%B7%91LLM%E6%98%AF%E8%A1%8C%E4%B8%BA%E8%89%BA%E6%9C%AF%EF%BC%8C%E5%9B%A0%E4%B8%BAApple%E6%9C%80%E8%BF%91%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%B9%E4%B8%80%E4%BA%9B%E9%9D%9E%E5%B8%B8%E4%B8%8D%E5%AE%9E%E9%99%85%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%28%E5%AE%98%E7%BD%91%E5%A3%B0%E7%A7%B0%E6%94%AF%E6%8C%81%26gt%3B600B+LLM%29%EF%BC%8C%E8%BF%98%E6%9C%89%E4%B8%80%E7%BE%A4KOL%E7%9C%9F%E7%9A%84%E5%87%BA%E6%9D%A5%E6%B5%8BDS+671B%E8%B7%91%E5%87%BA%E5%B0%86%E8%BF%9120t%2Fs%E4%BD%86%E6%98%AF%E5%AE%9E%E9%99%85%E6%83%85%E5%86%B5%E5%91%A2%EF%BC%9F%E5%88%9A%E5%BC%80%E5%A7%8B%E7%A1%AE%E5%AE%9E%E5%8F%AF%E4%BB%A5%E6%8E%A5%E8%BF%9120+t%2Fs%EF%BC%8C%E4%BD%86reasoning%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [Mac](Mac.md), [情况](情况.md), [支持](支持.md), [行为](行为.md)
+[LLM](LLM.md), [Mac](Mac.md), [场景](场景.md), [情况](情况.md), [支持](支持.md), [行为](行为.md)
 ___
 ##### 2025-03-11 09:16:52 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 这项更新计划的消息曝光，正值苹果刚推出新款iPad Air和MacBook Air之际。#Apple #苹果 #南洋商报  https://t.co/i5RZNrP3jV https://t.co/AKhfoYNx7M
@@ -747,7 +782,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E9%80%89%E6%8B%A9%E5%85%B6%E4%BD%9C%E4%B8%BA%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%87%BAiPhone%E7%9A%84Apple+Intelligence%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%9F%E8%83%BD%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%B7%B2%E6%8F%90%E4%BA%A4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%AE%A1%E6%89%B9%E3%80%82+https%3A%2F%2Ft.co%2FolWMBWw1BA)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [人工智能](人工智能.md), [审批](审批.md), [推出](推出.md), [监管](监管.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
+[iPhone](iPhone.md), [人工智能](人工智能.md), [审批](审批.md), [推出](推出.md), [涨](涨.md), [监管](监管.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
 ___
 ##### 2025-02-08 07:35:03 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 彭博社报道，苹果公司（Apple）计划在未来几天内发布期待已久的新款 iPhone SE，希望通过更新平价机型来刺激销量，并吸引Android 用户换机。https://t.co/pFltL5VQ8f https://t.co/O8qeCsJ…
@@ -796,7 +831,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE2025%E5%B9%B4%E8%87%B3%E4%BB%8A%E8%82%A1%E4%BB%B7%E7%B4%AF%E6%B6%A8%E7%BA%A65%25%EF%BC%8C2024%E5%B9%B4%E8%82%A1%E4%BB%B7%E6%94%80%E6%B6%A8171%25%E3%80%82%23Nvidia+%23%E8%8B%B1%E4%BC%9F%E8%BE%BE+%23Apple+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+https%3A%2F%2Ft.co%2FxiLgJN6PiE+https%3A%2F%2Ft.co%2FBocHluOMRh)
 ##### Other Words/Names of Interest in the Above Tweet
-[英伟达](英伟达.md)
+[涨](涨.md), [英伟达](英伟达.md)
 ___
 ##### 2025-01-22 01:36:55 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 根据市场调研机构Counterpoint Research的最新报告，苹果公司（Apple）2024年第四季度在中国市场的iPhone销量大幅下滑18.2%，在其美国以外最大的市场遭遇重大挫折。https://t.co/mQX8byxH9d…
@@ -810,7 +845,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%A4%A9%E9%A3%8E%E8%AF%81%E5%88%B8%E5%88%86%E6%9E%90%E5%B8%88%E9%83%AD%E6%98%8E%E9%8C%A410%E6%97%A5%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%B8%82%E5%8D%A0%E6%AD%A3%E5%9C%A8%E7%BC%A9%E5%87%8F%EF%BC%8C%E5%8E%9F%E5%9B%A0%E6%98%AFiPhone%E5%87%BA%E8%B4%A7%E9%87%8F%E4%B8%8B%E6%BB%91%E3%80%82%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%90%8C%E6%97%A5%E8%82%A1%E4%BB%B7%E6%94%B6%E8%B7%8C2.4%25%E3%80%82https%3A%2F%2Ft.co%2FuN1gO8YfMz+https%3A%2F%2Ft.co%2Fp6weCwDp7e)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [下滑](下滑.md), [分析](分析.md), [分析师](分析师.md), [苹果](苹果.md)
+[iPhone](iPhone.md), [下滑](下滑.md), [分析](分析.md), [分析师](分析师.md), [苹果](苹果.md), [跌](跌.md)
 ___
 ##### 2025-01-05 17:16:39 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国候任总统特朗普（Donald Trump）将于2025年1月20日正式就职。近日，有消息称苹果（Apple）总执行长库克（Tim Cook）将向特朗普的就职典礼捐赠100万美元（约450万令吉） https://t.co/3uSfTavL…
@@ -831,7 +866,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%A7%91%E6%8A%80%E5%B7%A8%E6%93%98%E8%8B%B9%E6%9E%9C%EF%BC%88Apple%EF%BC%89%E4%B8%8B%E8%B7%8C2.6%25%EF%BC%8C%E6%8B%96%E7%B4%AF%E8%82%A1%E5%B8%82%E8%A1%A8%E7%8E%B0%EF%BC%8C%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E7%BE%8E%E8%82%A1+%23%E7%BE%8E%E5%9B%BD%E8%82%A1%E5%B8%82+%23%E8%8B%B9%E6%9E%9C+%23Apple+https%3A%2F%2Ft.co%2FDZmve7gYHx+https%3A%2F%2Ft.co%2Fii5zoNrq4c)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [拖累](拖累.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md)
+[拖累](拖累.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [跌](跌.md)
 ___
 ##### 2024-12-27 22:43:02 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 分析师也称，#苹果 将迎来前所未有的换机潮。#Apple #iphone #AI #南洋商报  https://t.co/i6gMbgDSbp https://t.co/ApNdBrzqqa
@@ -971,7 +1006,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone16%E5%94%AE%E5%83%B9%E4%B8%8D%E8%AE%8A%EF%BC%8C%E5%85%A8%E6%A9%9F%E5%9E%8B%E6%90%AD%E8%BC%89%E7%94%9F%E6%88%90%E5%BC%8FAI%E3%80%91%E6%96%B0%E6%A9%9F%E5%9E%8B%E9%83%BD%E6%90%AD%E8%BC%89%E4%BA%86%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%9C%8D%E5%8B%99%E3%80%8CApple+Intelligence%E3%80%8D%EF%BC%8C%E5%BA%AB%E5%85%8B%E5%BC%B7%E8%AA%BF%E3%80%8CiPhone16%E6%98%AF%E7%82%BA%E4%BA%86Apple+Intelligence%E8%80%8C%E5%BE%9E%E9%A0%AD%E9%96%8B%E5%A7%8B%E8%A8%AD%E8%A8%88%E7%9A%84%E3%80%8D%E3%80%82%E6%9C%89%E5%88%86%E6%9E%90%E8%AA%8D%E7%82%BAiPhone16%E5%9C%A8%E4%B8%AD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [分析](分析.md)
+[iPhone](iPhone.md), [分析](分析.md), [設計](設計.md)
 ___
 ##### 2024-09-05 03:46:09 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 根据日经新闻报道，苹果公司2025年起iPhone将全面采用有机发光二极体显示器，不再使用液晶显示器。#Apple #iphone #OLEDScreen #lcdscreen #南洋商报 https://t.co/EfOp4EhRLL ht…
@@ -1188,7 +1223,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E3%80%90%23%E8%8B%B9%E6%9E%9CQ1%E9%94%80%E9%87%8F%E8%B6%85%E9%A2%84%E6%9C%9F+%E4%B8%AD%E5%9B%BD%F0%9F%87%A8%F0%9F%87%B3%E5%B8%82%E5%9C%BA%E4%BE%9D%E6%97%A7%E4%B8%8B%E8%B7%8C%E3%80%91%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88%23Apple%EF%BC%891%E6%97%A5%E5%85%AC%E5%B8%832024%E7%AC%AC%E4%B8%80%E5%AD%A3%E8%B4%A2%E6%8A%A5%EF%BC%8C%E6%98%BE%E7%A4%BA%E5%9C%A8%E6%96%B0%E4%B8%80%E4%BB%A3+%23iPhone+%E7%9A%84%E6%8E%A8%E5%8A%A8%E4%B8%8B%EF%BC%8C%E9%94%80%E5%94%AE%E8%A1%A8%E7%8E%B0%E4%BC%98%E4%BA%8E%E5%8D%8E%E5%B0%94%E8%A1%97%E9%A2%84%E6%9C%9F%EF%BC%8C%E4%B8%94%E8%90%A5%E6%94%B6%E4%B9%9F%E7%9D%BD%E8%BF%9D%E4%B8%80%E5%B9%B4%E9%87%8D%E8%BF%94%E6%88%90%E9%95%BF%E8%B6%8B%E5%8A%BF%E3%80%82%E4%BD%86%E6%9C%80%E5%85%B3%E9%94%AE%E7%9A%84+%23%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%94%80%E9%87%8F%E4%BB%8D%E7%84%B6%E7%96%B2%E8%BD%AF%EF%BC%8C%E8%BF%9C%E4%B8%8D%E5%8F%8A%E5%88%86%E6%9E%90%E5%B8%88%E9%A2%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [下跌](下跌.md), [关键](关键.md), [分析](分析.md), [分析师](分析师.md), [推动](推动.md), [显示](显示.md), [苹果](苹果.md), [营收](营收.md), [趋势](趋势.md), [销售](销售.md), [销量](销量.md), [预期](预期.md)
+[iPhone](iPhone.md), [关键](关键.md), [分析](分析.md), [分析师](分析师.md), [推动](推动.md), [显示](显示.md), [苹果](苹果.md), [营收](营收.md), [趋势](趋势.md), [跌](跌.md), [销售](销售.md), [销量](销量.md), [预期](预期.md)
 ___
 ##### 2024-01-30 23:39:35 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 首批Apple Vision Pro将于周五到货。这款头戴式设备在本月初开始预售，首批很快售罄。苹果公司尚未披露已售出多少台。未来几年苹果公司面临的主要挑战是，如何让主流消费者对这种迄今为止仍主要局限于小众游戏圈的新型设备产生兴趣。https…
@@ -1251,14 +1286,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Dan+Gallagher%E8%AE%A4%E4%B8%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E9%94%99%E8%BF%87AI%E7%83%AD%E6%BD%AE%E5%B8%A6%E6%9D%A5%E7%9A%84%E4%B8%8A%E6%B6%A8%E8%A1%8C%E6%83%85%EF%BC%8C%E8%80%8C%E9%83%A8%E5%88%86Apple+Watch%E5%81%9C%E5%94%AE%E4%BB%A4%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E5%A2%9E%E9%95%BF%E5%89%8D%E6%99%AF%E9%9D%A2%E4%B8%B4%E6%9B%B4%E5%A4%9A%E6%8C%91%E6%88%98%E3%80%82%E8%8B%B9%E6%9E%9C%E8%82%A1%E7%A5%A8%E8%A1%A8%E7%8E%B0%E4%BB%8A%E5%B9%B4%E9%80%8A%E4%BA%8E%E5%85%B6%E4%BB%96%E2%80%9C%E4%B8%83%E9%9B%84%E2%80%9D%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E5%A4%B4%E6%88%B4%E5%BC%8F%E8%AE%BE%E5%A4%87Vision+Pr%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [增长](增长.md), [头戴式设备](头戴式设备.md), [挑战](挑战.md), [热潮](热潮.md), [苹果](苹果.md), [虚拟现实](虚拟现实.md), [行情](行情.md), [面临](面临.md)
+[增长](增长.md), [头戴式设备](头戴式设备.md), [挑战](挑战.md), [涨](涨.md), [热潮](热潮.md), [苹果](苹果.md), [虚拟现实](虚拟现实.md), [行情](行情.md), [面临](面临.md)
 ___
 ##### 2023-12-14 04:53:16 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 苹果公司（Apple）股价13日收盘大涨1.7%至197.96美元，刷新历史纪录，今年来已累计飙涨52%，市值暴增约1兆美元，达到3.08兆美元。https://t.co/Zu5hzSjXLy https://t.co/HsrLyd4v8q
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%E8%82%A1%E4%BB%B713%E6%97%A5%E6%94%B6%E7%9B%98%E5%A4%A7%E6%B6%A81.7%25%E8%87%B3197.96%E7%BE%8E%E5%85%83%EF%BC%8C%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%EF%BC%8C%E4%BB%8A%E5%B9%B4%E6%9D%A5%E5%B7%B2%E7%B4%AF%E8%AE%A1%E9%A3%99%E6%B6%A852%25%EF%BC%8C%E5%B8%82%E5%80%BC%E6%9A%B4%E5%A2%9E%E7%BA%A61%E5%85%86%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BE%BE%E5%88%B03.08%E5%85%86%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FZu5hzSjXLy+https%3A%2F%2Ft.co%2FHsrLyd4v8q)
 ##### Other Words/Names of Interest in the Above Tweet
-[市值](市值.md), [收盘](收盘.md), [累计](累计.md), [纪录](纪录.md), [苹果](苹果.md)
+[市值](市值.md), [收盘](收盘.md), [涨](涨.md), [累计](累计.md), [纪录](纪录.md), [苹果](苹果.md)
 ___
 ##### 2023-12-12 05:15:52 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【中國企業也在向越南轉移】有分析認為到2025年，iPad和Apple Watch的約20%、無線耳機「AirPods」的約65%將在越南生産。立訊、比亞迪等中國企業紛紛在越南投資。1～11月中國直接投資的批准額增至上年同期的約2倍………
@@ -1335,7 +1370,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%23%E8%8B%B9%E6%9E%9C%EF%BC%88%23Apple%EF%BC%89%E8%82%A1%E4%BB%B7%E5%91%A8%E4%B8%80%E9%97%AD%E5%B8%82%E6%97%B6%EF%BC%8C%E4%B8%8A%E6%B6%A81.6%25%E8%87%B3183.79%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A6850%E4%BB%A4%E5%90%89%EF%BC%89%EF%BC%8C%E5%88%9B%E4%B8%8B%E5%8E%BB%E5%B9%B41%E6%9C%88%E4%BB%A5%E6%9D%A5%E7%9A%84%E6%96%B0%E9%AB%98%E9%97%AD%E5%B8%82%E4%BB%B7%EF%BC%8C%E5%B8%82%E5%80%BC%E8%BE%BE2.89%E5%85%86%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A613.35%E5%85%86%E4%BB%A4%E5%90%89%EF%BC%89%EF%BC%8C%E5%86%8D%E5%BA%A6%E9%80%BC%E8%BF%913%E5%85%86%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A613.86%E5%85%86%E4%BB%A4%E5%90%89%EF%BC%89%E7%9A%84%E6%95%B4%E6%95%B0%E5%A4%A7%E5%85%B3%E3%80%82+https%3A%2F%2Ft.co%2F1h%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [市值](市值.md), [苹果](苹果.md)
+[市值](市值.md), [涨](涨.md), [苹果](苹果.md)
 ___
 ##### 2023-06-07 06:37:12 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【苹果第四次挑战用户界面革命，但有死角】村山恵一：“这将是计算机历史上一个新时代的开端”，发布“Apple Vision Pro”的苹果CEO库克这样宣言。这将是该公司第四次发起改变人机交互方式的挑战。现在世界刚好处于明显改变人类与电脑关…
@@ -1419,7 +1454,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%B6%85%E7%BA%A7%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%EF%BC%88Apple%EF%BC%89%E6%98%9F%E6%9C%9F%E5%9B%9B%EF%BC%882%E6%9C%882%E6%97%A5%EF%BC%89%E7%9B%98%E5%90%8E%E5%AE%A3%E5%B8%83%E7%9A%84%E5%A4%9A%E4%B8%AA%E4%B8%9A%E5%8A%A1%E7%BA%BF%E8%90%A5%E4%B8%9A%E9%A2%9D%E3%80%81%E7%9B%88%E5%88%A9%E5%92%8C%E9%94%80%E5%94%AE%E6%88%90%E7%BB%A9%E9%83%BD%E6%9C%AA%E8%BE%BE%E6%A0%87%E3%80%82%E9%9B%86%E5%9B%A2%E8%90%A5%E4%B8%9A%E9%A2%9D%E5%B0%B1%E4%B8%8B%E9%99%8D%E8%B6%85%E8%BF%875%EF%BC%85%EF%BC%8C%E5%87%80%E5%88%A9%E6%9B%B4%E6%98%AF%E8%B7%8C%E4%BA%86%E4%B8%80%E6%88%90%EF%BC%8C%E5%AF%BC%E8%87%B4%E8%AF%A5%E8%82%A1%E5%9C%A8%E5%BB%B6%E9%95%BF%E7%9A%84%E7%9B%98%E5%90%8E%E4%BA%A4%E6%98%93%E4%B8%AD%E4%B8%8B%E6%8C%AB3.22%EF%BC%85%EF%BC%8C%E6%8A%A5145.96%E7%BE%8E%E5%85%83%E3%80%82https%3A%2F%2Ft.co%2FzEUghDIFPj)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [导致](导致.md), [巨头](巨头.md), [延长](延长.md), [盈利](盈利.md), [科技](科技.md), [苹果](苹果.md), [超过](超过.md), [销售](销售.md)
+[交易](交易.md), [导致](导致.md), [巨头](巨头.md), [延长](延长.md), [盈利](盈利.md), [科技](科技.md), [苹果](苹果.md), [超过](超过.md), [跌](跌.md), [销售](销售.md)
 ___
 ##### 2023-01-31 07:07:33 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国劳动关系委员会（NLRB）认为，苹果（Apple）高管所发表的言论、制定的规则已经扼杀了工会的组建，明显违反《国家劳动关系法》。 https://t.co/C7GONyIdAA https://t.co/wymDZPM3jG
@@ -1517,7 +1552,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B9%E6%9E%9C%EF%BC%88Apple%EF%BC%89%E6%9E%9C%E7%84%B6%E6%B2%A1%E6%9C%89%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%A4%B1%E6%9C%9B%EF%BC%8C%E5%9C%A8%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%889%E6%9C%887%E6%97%A5%EF%BC%89%E4%B8%BE%E5%8A%9E%E7%9A%84%E5%B9%B4%E5%BA%A6iPhone%E5%8F%91%E5%B8%83%E6%B4%BB%E5%8A%A8%E4%BC%9A%EF%BC%8C%E6%8E%A8%E5%87%BA%E4%BA%86%E5%85%A8%E6%96%B0%E7%9A%84iPhone+14%E5%92%8C%E6%96%B0%E6%AC%BEAirPods+Pro%E8%80%B3%E6%9C%BA%E3%80%82%E4%B8%8D%E4%BB%85%E5%A6%82%E6%AD%A4%EF%BC%8C%E6%9B%B4%E8%AE%A9%E8%AE%B8%E5%A4%9A%E7%B2%89%E4%B8%9D%E5%92%8C%E5%B8%82%E5%9C%BA%E4%BA%BA%E5%A3%AB%E6%84%9F%E5%88%B0%E6%84%8F%E5%A4%96%E7%9A%84%E6%98%AF%EF%BC%8CiPhone%E7%AB%9F%E7%84%B6%E6%B2%A1%E6%9C%89%E6%B6%A8%E4%BB%B7%E3%80%82https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [不仅](不仅.md), [发布](发布.md), [巨头](巨头.md), [推出](推出.md), [涨价](涨价.md), [科技](科技.md), [苹果](苹果.md)
+[iPhone](iPhone.md), [不仅](不仅.md), [发布](发布.md), [巨头](巨头.md), [推出](推出.md), [涨](涨.md), [科技](科技.md), [苹果](苹果.md)
 ___
 ##### 2022-09-01 05:19:41 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 现在不是入手时髦iPhone、AirPods Pro或任何一款Apple Watch的时候，但是购入一台MacBook Air的好时机。针对市面上的苹果设备，我们的专栏作家Joanna Stern列出了一年一度的可买/别买清单。https://…

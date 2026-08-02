@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/NAND) for definition
 ### Tweets containing NAND
 
 ___
+##### 2026-07-29 05:40:46 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: $SKHY 2026年第二季財報重點2026年市場展望  - DRAM 需求成長：年增中段 +20%  - NAND 需求成長：年增高段十幾 %業務亮點  - 與 10 家客戶簽訂長期供貨協議  - 智慧型手機與 PC 銷售因記憶體供…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%24SKHY+2026%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%B2%A1%E5%A0%B1%E9%87%8D%E9%BB%9E2026%E5%B9%B4%E5%B8%82%E5%A0%B4%E5%B1%95%E6%9C%9B++-+DRAM+%E9%9C%80%E6%B1%82%E6%88%90%E9%95%B7%EF%BC%9A%E5%B9%B4%E5%A2%9E%E4%B8%AD%E6%AE%B5+%2B20%25++-+NAND+%E9%9C%80%E6%B1%82%E6%88%90%E9%95%B7%EF%BC%9A%E5%B9%B4%E5%A2%9E%E9%AB%98%E6%AE%B5%E5%8D%81%E5%B9%BE+%25%E6%A5%AD%E5%8B%99%E4%BA%AE%E9%BB%9E++-+%E8%88%87+10+%E5%AE%B6%E5%AE%A2%E6%88%B6%E7%B0%BD%E8%A8%82%E9%95%B7%E6%9C%9F%E4%BE%9B%E8%B2%A8%E5%8D%94%E8%AD%B0++-+%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%A9%9F%E8%88%87+PC+%E9%8A%B7%E5%94%AE%E5%9B%A0%E8%A8%98%E6%86%B6%E9%AB%94%E4%BE%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [記憶體](記憶體.md), [需求](需求.md)
+___
+##### 2026-07-27 14:42:49 UTC ~ 杰克船长宏观策略
+> RT @macrotradecn: 长鑫只是第一张牌。往下翻——长江存储、宇树科技、燧原科技、上海微电子、蓝箭航天、强脑科技。不是一家公司上市，是一个时代的资产排队走上牌桌。长鑫敲锣是DRAM。长江在后面排队——NAND闪存，全球第五，232层量产。宇树——中国版波士顿动力…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E9%95%BF%E9%91%AB%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%89%8C%E3%80%82%E5%BE%80%E4%B8%8B%E7%BF%BB%E2%80%94%E2%80%94%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E3%80%81%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E3%80%81%E4%B8%8A%E6%B5%B7%E5%BE%AE%E7%94%B5%E5%AD%90%E3%80%81%E8%93%9D%E7%AE%AD%E8%88%AA%E5%A4%A9%E3%80%81%E5%BC%BA%E8%84%91%E7%A7%91%E6%8A%80%E3%80%82%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E8%B5%84%E4%BA%A7%E6%8E%92%E9%98%9F%E8%B5%B0%E4%B8%8A%E7%89%8C%E6%A1%8C%E3%80%82%E9%95%BF%E9%91%AB%E6%95%B2%E9%94%A3%E6%98%AFDRAM%E3%80%82%E9%95%BF%E6%B1%9F%E5%9C%A8%E5%90%8E%E9%9D%A2%E6%8E%92%E9%98%9F%E2%80%94%E2%80%94NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%EF%BC%8C232%E5%B1%82%E9%87%8F%E4%BA%A7%E3%80%82%E5%AE%87%E6%A0%91%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E7%89%88%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [mac](mac.md), [上海](上海.md), [存储](存储.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长鑫](长鑫.md)
+___
+##### 2026-07-22 03:37:10 UTC ~ 全球货币 Global Money
+> RT @GlobalMoney: 东京。黄仁勋品尝威士忌。根据肢体语言，配上 $SMCI 惊人订单，英伟达 $NVDA 财报不会暴雷。 英伟达刚要求三星，将NAND产量，增加相当于苹果全年NAND消费量水平。7月5日，一位硅谷创业者@NobelDing预测：“伯里正做空AI存储…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GlobalMoney%3A+%E4%B8%9C%E4%BA%AC%E3%80%82%E9%BB%84%E4%BB%81%E5%8B%8B%E5%93%81%E5%B0%9D%E5%A8%81%E5%A3%AB%E5%BF%8C%E3%80%82%E6%A0%B9%E6%8D%AE%E8%82%A2%E4%BD%93%E8%AF%AD%E8%A8%80%EF%BC%8C%E9%85%8D%E4%B8%8A+%24SMCI+%E6%83%8A%E4%BA%BA%E8%AE%A2%E5%8D%95%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE+%24NVDA+%E8%B4%A2%E6%8A%A5%E4%B8%8D%E4%BC%9A%E6%9A%B4%E9%9B%B7%E3%80%82+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%88%9A%E8%A6%81%E6%B1%82%E4%B8%89%E6%98%9F%EF%BC%8C%E5%B0%86NAND%E4%BA%A7%E9%87%8F%EF%BC%8C%E5%A2%9E%E5%8A%A0%E7%9B%B8%E5%BD%93%E4%BA%8E%E8%8B%B9%E6%9E%9C%E5%85%A8%E5%B9%B4NAND%E6%B6%88%E8%B4%B9%E9%87%8F%E6%B0%B4%E5%B9%B3%E3%80%827%E6%9C%885%E6%97%A5%EF%BC%8C%E4%B8%80%E4%BD%8D%E7%A1%85%E8%B0%B7%E5%88%9B%E4%B8%9A%E8%80%85%40NobelDing%E9%A2%84%E6%B5%8B%EF%BC%9A%E2%80%9C%E4%BC%AF%E9%87%8C%E6%AD%A3%E5%81%9A%E7%A9%BAAI%E5%AD%98%E5%82%A8%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [创业者](创业者.md), [品尝](品尝.md), [威士忌](威士忌.md), [存储](存储.md), [根据](根据.md), [水平](水平.md), [硅](硅.md), [硅谷](硅谷.md), [英伟达](英伟达.md), [苹果](苹果.md), [订单](订单.md), [预测](预测.md), [黄仁勋](黄仁勋.md)
+___
+##### 2026-07-21 23:08:48 UTC ~ TechNews 科技新報
+> RT @technews_tw: #科技早報 #AI 浪潮帶動伺服器需求爆發！#TrendForce 最新報告指出，2026 年 NAND Flash 遭遇供不應求，缺口高達 4% 至 5%。 https://t.co/bSUDPvaKOa
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E7%A7%91%E6%8A%80%E6%97%A9%E5%A0%B1+%23AI+%E6%B5%AA%E6%BD%AE%E5%B8%B6%E5%8B%95%E4%BC%BA%E6%9C%8D%E5%99%A8%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC%EF%BC%81%23TrendForce+%E6%9C%80%E6%96%B0%E5%A0%B1%E5%91%8A%E6%8C%87%E5%87%BA%EF%BC%8C2026+%E5%B9%B4+NAND+Flash+%E9%81%AD%E9%81%87%E4%BE%9B%E4%B8%8D%E6%87%89%E6%B1%82%EF%BC%8C%E7%BC%BA%E5%8F%A3%E9%AB%98%E9%81%94+4%25+%E8%87%B3+5%25%E3%80%82+https%3A%2F%2Ft.co%2FbSUDPvaKOa)
+##### Other Words/Names of Interest in the Above Tweet
+[伺服器](伺服器.md), [指出](指出.md), [科技](科技.md), [缺口](缺口.md), [遭遇](遭遇.md), [需求](需求.md)
+___
+##### 2026-07-21 10:41:06 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: TrendForce: 供給增速將超前需求成長，2H27 NAND Flash緊缺壓力可望獲得紓解根據TrendForce最新2026年7月NAND Flash市場報告，2026年因AI需求爆發性成長，NAND… https://t.co/bh8…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+TrendForce%3A+%E4%BE%9B%E7%B5%A6%E5%A2%9E%E9%80%9F%E5%B0%87%E8%B6%85%E5%89%8D%E9%9C%80%E6%B1%82%E6%88%90%E9%95%B7%EF%BC%8C2H27+NAND+Flash%E7%B7%8A%E7%BC%BA%E5%A3%93%E5%8A%9B%E5%8F%AF%E6%9C%9B%E7%8D%B2%E5%BE%97%E7%B4%93%E8%A7%A3%E6%A0%B9%E6%93%9ATrendForce%E6%9C%80%E6%96%B02026%E5%B9%B47%E6%9C%88NAND+Flash%E5%B8%82%E5%A0%B4%E5%A0%B1%E5%91%8A%EF%BC%8C2026%E5%B9%B4%E5%9B%A0AI%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC%E6%80%A7%E6%88%90%E9%95%B7%EF%BC%8CNAND%E2%80%A6+https%3A%2F%2Ft.co%2Fbh8%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[需求](需求.md)
+___
 ##### 2026-07-14 13:00:44 UTC ~ TechNews 科技新報
 > RT @technews_tw: 日本鎧俠下戰帖！執行長強勢宣示，將不惜代價重返全球 NAND Flash 第一寶座。 #鎧俠 #NAND #記憶體 https://t.co/qiGYEKOG1g
 
@@ -14,7 +49,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [日本](日本.md), [記憶體](記憶體.md), [鎧俠](鎧俠.md)
 ___
-##### 2026-07-10 03:08:12 UTC ~ Macro_Lin｜市场观察
+##### 2026-07-10 03:08:12 UTC ~ Macro_Lin
 > RT @LinQingV: NAND这边的扩产节奏已经比大多数人预期的要快了。韩媒今天几篇报道给出了具体细节。SK海力士下半年重启大连二厂，装V8（238层）产线，月产能目标3到5万片，2027上半年完成。三星西安厂V6到V8（236层）的转换3月底已经做完，目前在量产。…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LinQingV%3A+NAND%E8%BF%99%E8%BE%B9%E7%9A%84%E6%89%A9%E4%BA%A7%E8%8A%82%E5%A5%8F%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E9%A2%84%E6%9C%9F%E7%9A%84%E8%A6%81%E5%BF%AB%E4%BA%86%E3%80%82%E9%9F%A9%E5%AA%92%E4%BB%8A%E5%A4%A9%E5%87%A0%E7%AF%87%E6%8A%A5%E9%81%93%E7%BB%99%E5%87%BA%E4%BA%86%E5%85%B7%E4%BD%93%E7%BB%86%E8%8A%82%E3%80%82SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%87%8D%E5%90%AF%E5%A4%A7%E8%BF%9E%E4%BA%8C%E5%8E%82%EF%BC%8C%E8%A3%85V8%EF%BC%88238%E5%B1%82%EF%BC%89%E4%BA%A7%E7%BA%BF%EF%BC%8C%E6%9C%88%E4%BA%A7%E8%83%BD%E7%9B%AE%E6%A0%873%E5%88%B05%E4%B8%87%E7%89%87%EF%BC%8C2027%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%AE%8C%E6%88%90%E3%80%82%E4%B8%89%E6%98%9F%E8%A5%BF%E5%AE%89%E5%8E%82V6%E5%88%B0V8%EF%BC%88236%E5%B1%82%EF%BC%89%E7%9A%84%E8%BD%AC%E6%8D%A23%E6%9C%88%E5%BA%95%E5%B7%B2%E7%BB%8F%E5%81%9A%E5%AE%8C%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%9C%A8%E9%87%8F%E4%BA%A7%E3%80%82%E2%80%A6)
@@ -75,7 +110,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E4%BB%B7%E6%A0%BC1%E5%B9%B4%E8%B7%8C4%E6%88%90%E3%80%91%E5%85%B7%E6%9C%89%E4%BB%A3%E8%A1%A8%E6%80%A7%E7%9A%84%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87DRAM%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%88%AA%E8%87%B34%E6%9C%88%E8%BF%9E%E7%BB%AD12%E4%B8%AA%E6%9C%88%E4%B8%8B%E6%BB%91%E3%80%82NAND%E5%9E%8B%E9%97%AA%E5%AD%98%E6%96%B9%E9%9D%A2%EF%BC%8C%E2%80%9CTLC+256GB%E2%80%9D%E4%BA%A7%E5%93%814%EF%BD%9E6%E6%9C%88%E5%90%8C%E6%AF%94%E4%B8%8B%E8%B7%8C44%25%EF%BC%8C%E6%8C%81%E7%BB%AD%E8%B5%B0%E4%BD%8E%E3%80%82%E5%9C%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%EF%BC%8C%E5%BE%88%E5%A4%9A%E8%A7%82%E7%82%B9%E8%AE%A4%E4%B8%BA%E5%BA%93%E5%AD%98%E6%B0%B4%E5%B9%B3%E5%B0%86%E5%9C%A87%EF%BD%9E9%E6%9C%88%E5%87%BA%E7%8E%B0%E6%94%B9%E5%96%84%EF%BC%8C%E4%BD%86%E6%9C%89%E5%A3%B0%E9%9F%B3%E8%AE%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [下滑](下滑.md), [下跌](下跌.md), [价格](价格.md), [半导体](半导体.md), [存储](存储.md), [库存](库存.md), [截至](截至.md), [持续](持续.md), [水平](水平.md), [芯片](芯片.md), [行业](行业.md), [连续](连续.md)
+[DRAM](DRAM.md), [下滑](下滑.md), [价格](价格.md), [半导体](半导体.md), [存储](存储.md), [库存](库存.md), [截至](截至.md), [持续](持续.md), [水平](水平.md), [芯片](芯片.md), [行业](行业.md), [跌](跌.md), [连续](连续.md)
 ___
 ##### 2022-10-19 06:29:00 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【苹果暂缓采购长江存储NAND闪存的计划】据日经亚洲与多位相关人士采访，苹果一直计划在iPhone上采用长江存储科技生产的“NAND型闪存”，但由于地缘政治风险加大和受到美国当局批判，苹果改变了方针。 苹果和长江存储科技对此均未发表评论……
@@ -131,4 +166,4 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%80%81%E6%AC%BENOR%E9%97%AA%E5%AD%98%E6%B6%A8%E4%BB%B7%E4%BA%86%E3%80%91%E4%BC%81%E4%B8%9A%E7%9A%84%E6%8A%95%E8%B5%84%E9%87%8D%E5%BF%83%E4%BB%8E%E5%B8%82%E5%9C%BA%E8%90%8E%E7%BC%A9%E7%9A%84NOR%E5%9E%8B%E8%BD%AC%E5%90%91%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1%E5%B7%A8%E5%A4%A7%E7%9A%84NAND%E5%9E%8B%EF%BC%8C%E4%BD%86%E8%BF%91%E6%9D%A5NOR%E5%9E%8B%E9%97%AA%E5%AD%98%E4%BB%B7%E6%A0%BC2%E5%B9%B4%E5%8D%8A%E4%BB%A5%E6%9D%A5%E8%BD%AC%E4%B8%BA%E4%B8%8A%E6%B6%A8%E3%80%82%E8%99%BD%E7%84%B6%E5%AE%B9%E9%87%8F%E5%B0%8F%EF%BC%8C%E4%BD%86%E4%BD%BF%E7%94%A8NOR%E9%97%AA%E5%AD%98%E5%85%B3%E6%8E%89%E7%94%B5%E6%BA%90%EF%BC%8C%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E4%B9%9F%E4%B8%8D%E4%BC%9A%E4%B8%A2%E5%A4%B1%EF%BC%8C%E8%80%90%E7%83%AD%E6%80%A7%E4%B9%9F%E9%AB%98%E4%BA%8ENAND%E5%9E%8B%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [价格](价格.md), [存储](存储.md), [投资](投资.md), [数据](数据.md), [涨价](涨价.md), [萎缩](萎缩.md), [规模](规模.md)
+[价格](价格.md), [存储](存储.md), [投资](投资.md), [数据](数据.md), [涨](涨.md), [萎缩](萎缩.md), [规模](规模.md)

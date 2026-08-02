@@ -10,6 +10,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [頻寬](../hanzi-cards/頻寬.md) | bandwidth (Taiwan) |
 | [带宽](../hanzi-cards/带宽.md)/[帶寬](../hanzi-cards/帶寬.md) | bandwidth |
 | [电池](../hanzi-cards/电池.md)/[電池](../hanzi-cards/電池.md) | battery |
+| [像素](../hanzi-cards/像素.md) | pixel (pinyin: xiàngsù) |
+| [帧](../hanzi-cards/帧.md)/[幀](../hanzi-cards/幀.md) | frame (pinyin: zhēn) |
+| [场景](../hanzi-cards/场景.md) | scene; scenario (pinyin: chǎngjǐng) |
 ## 2. Computing
 |  |  |
 | ----- | :---: |

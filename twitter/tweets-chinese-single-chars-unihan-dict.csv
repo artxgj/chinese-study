@@ -76,6 +76,7 @@ U+4E8E,于,yú,"于,於",于,"in, on, at; go to; surname"
 U+4E8F,亏,kuī,"亏,虧",亏,"lose, fail; damage; deficient"
 U+4E91,云,yún,"云,雲",云,"say, speak; clouds"
 U+4E92,互,hù,,,"mutually, reciprocally"
+U+4E93,亓,qí,,,"(archaic form) his, her, its, their; that"
 U+4E94,五,wǔ,,,five; surname
 U+4E95,井,jǐng,,,"well, mine shaft, pit; surname; 22nd lunar mansion, determinative star μ Geminorum (Tejat); hexagram ䷯"
 U+4E98,亘,gèn,,,"extend across, through; from"
@@ -368,6 +369,7 @@ U+517C,兼,jiān,,,"unite, combine; connect; and"
 U+517D,兽,shòu,獸,,"beast, animal; bestial"
 U+5180,冀,jì,,,hope for; wish; Hebei province
 U+5185,内,nèi,"內,内",内,inside
+U+5186,円,yuán,,,yen
 U+5188,冈,gāng,岡,,ridge or crest of hill
 U+5189,冉,rǎn,,,tender; weak; proceed gradually
 U+518A,冊,cè,,册,"book, volume"
@@ -534,6 +536,7 @@ U+5315,匕,bǐ,,,"spoon, ladle; knife, dirk"
 U+5316,化,huà,,,"change, convert, reform; -ize"
 U+5317,北,běi,,,north; northern; northward
 U+5319,匙,chí,,,spoon; surname
+U+531D,匝,zā,,,full circle; encircle
 U+5320,匠,jiàng,,,"craftsman, artisan; workman"
 U+5321,匡,kuāng,,,"correct, restore, revise"
 U+5323,匣,xiá,,,"small box, case, coffer"
@@ -777,6 +780,7 @@ U+5507,唇,chún,,,lips
 U+550F,唏,xī,,,weep or sob; grieve
 U+5510,唐,táng,,,Tang dynasty; Chinese
 U+5511,唑,zuò,,,(chem.) azole
+U+5514,唔,wú,,,"hold in mouth; bite; (Cant.) not, negation"
 U+5520,唠,láo,嘮,,"chat, jaw, gossip, talk"
 U+5522,唢,suǒ,嗩,,flute-like musical instrument
 U+5524,唤,huàn,喚,,call
@@ -881,6 +885,7 @@ U+5630,嘰,jī,,叽,sigh in disapproval; take small
 U+5631,嘱,zhǔ,"嘱,囑",嘱,"order, tell, instruct, leave word"
 U+5632,嘲,cháo,,,"ridicule, deride, scorn, jeer at"
 U+5634,嘴,zuǐ,,,"mouth, lips"
+U+5636,嘶,sī,,,"neighing of a horse; gravel voiced, husky throated; (Cant.) to hiccough"
 U+5639,嘹,liáo,,,used describe clarity of voice; resonant
 U+563B,嘻,xī,,,"mirthful, happy; interjection"
 U+563F,嘿,hēi,,,"be silent, be quiet"
@@ -1288,6 +1293,7 @@ U+5BA2,客,kè,,,"guest, traveller; customer"
 U+5BA3,宣,xuān,,,"declare, announce, proclaim"
 U+5BA4,室,shì,,,"room, home, house, chamber; 13th lunar mansion, determinative star α Pegasi (Markab)"
 U+5BA5,宥,yòu,,,"forgive, pardon, indulge"
+U+5BA6,宦,huàn,,,"officialdom, government official"
 U+5BAA,宪,xiàn,憲,,"constitution, statute, law"
 U+5BAB,宫,gōng,宮,,palace
 U+5BAE,宮,gōng,,宫,"palace, temple, dwelling, enclose"
@@ -1602,6 +1608,7 @@ U+5F36,弶,jiàng,,,a snare
 U+5F37,強,qiáng,,强,"strong, powerful, energetic"
 U+5F39,弹,dàn,"弹,彈",弹,"pellet, bullet, shot, shell"
 U+5F3A,强,qiáng,"強,强",强,"strong, powerful, energetic"
+U+5F3C,弼,bì,,,"aid, assist, help; correct"
 U+5F48,彈,dàn,,弹,"pellet, bullet, shot, shell"
 U+5F4C,彌,mí,,弥,"extensive, full; fill; complete"
 U+5F4E,彎,wān,,弯,"bend, curve"
@@ -1873,6 +1880,7 @@ U+6233,戳,chuō,,,"prick, stab; stamp, seal, chop"
 U+6234,戴,dài,,,wear on top; support
 U+6236,戶,hù,,户,"door; family, household"
 U+6237,户,hù,"戶,户",户,door; family
+U+6238,戸,hù,,,door; family
 U+623F,房,fáng,,,"house, building; room; 4th lunar mansion, determinative star π Scorpii"
 U+6240,所,suǒ,,,"place, location; numerary adjunct"
 U+6241,扁,biǎn,,,"flat; tablet, signboard"
@@ -2987,6 +2995,7 @@ U+6EB6,溶,róng,,,"to melt, dissolve; overflowing with"
 U+6EB7,溷,hùn,,,"privy, latrine; turbid, dirty"
 U+6EBA,溺,nì,,,drown; submerge in water; indulge
 U+6EBC,溼,shī,,,"damp, moist; dampness, moisture"
+U+6EBD,溽,rù,,,"moist, humid, muggy"
 U+6EC1,滁,chú,,,district in Anhui province
 U+6EC2,滂,pāng,,,torrential; voluminous
 U+6EC4,滄,cāng,,沧,"blue, dark green; cold"
@@ -3209,6 +3218,7 @@ U+7168,煨,wēi,,,"to stew, simmer"
 U+7169,煩,fán,,烦,"bother, vex, trouble; troublesome"
 U+716E,煮,zhǔ,,,cook
 U+7172,煲,bāo,,,to heat; to boil a saucepan
+U+7178,煸,biān,,,to stir-fry before broiling or stewing
 U+717D,煽,shān,,,"stir up, incite, agitate, provoke"
 U+7184,熄,xī,,,"put out, extinguish, quash"
 U+718A,熊,xióng,,,a bear; brilliant; bright; surname
@@ -3242,6 +3252,7 @@ U+71E7,燧,suì,,,"flintstone; beacon, signal fire; torch"
 U+71ED,燭,zhú,,烛,"candle, taper; to shine, illuminate"
 U+71EE,燮,xiè,,,"harmonize, blend; adjust"
 U+71FB,燻,xūn,,,"smoke, fog, vapor; smoke, cure"
+U+71FF,燿,yào,,,"shine, dazzle; brilliant, radiant"
 U+7206,爆,bào,,,"crackle, pop, burst, explode"
 U+720D,爍,shuò,,烁,"shine, glitter, sparkle"
 U+7210,爐,lú,,炉,"fireplace, stove, oven, furnace"
@@ -3249,6 +3260,7 @@ U+721B,爛,làn,,烂,"rotten, spoiled, decayed"
 U+722A,爪,zhǎo,,,"claw, nail, talon; animal feet"
 U+722C,爬,pá,,,"crawl, creep; climb; scramble"
 U+722D,爭,zhēng,,争,"to dispute, fight, contend, strive"
+U+7230,爰,yuán,,,"lead on to; therefore, then"
 U+7231,爱,ài,愛,,"love, be fond of, like"
 U+7232,爲,wèi,,为,"do, handle, govern, act; be"
 U+7235,爵,jué,,,feudal title or rank
@@ -3324,6 +3336,7 @@ U+7301,猁,lì,,,a kind of monkey
 U+730E,猎,liè,獵,,hunt; field sports
 U+7315,猕,mí,"猕,獼",猕,macacus monkey
 U+7316,猖,chāng,,,"mad, wild, reckless, unruly"
+U+7317,猗,yī,,,exclamation of admiration
 U+7319,猙,zhēng,,狰,"fierce-looking, ferocious"
 U+731B,猛,měng,,,"violent, savage, cruel; bold"
 U+731C,猜,cāi,,,"guess, conjecture, suppose; feel"
@@ -3615,6 +3628,7 @@ U+76E7,盧,lú,,卢,"cottage, hut; surname; black"
 U+76EA,盪,dàng,,荡,to toss about; to swing; to rock
 U+76EE,目,mù,,,"eye; look, see; division, topic; Kangxi radical 109"
 U+76EF,盯,dīng,,,"rivet gaze upon, keep eyes on"
+U+76F1,盱,xū,,,wide open eyes; to gaze in astonishment
 U+76F2,盲,máng,,,"blind; unperceptive, shortsighted"
 U+76F4,直,zhí,,,"straight, erect, vertical"
 U+76F8,相,xiāng,,,"mutual, reciprocal, each other"
@@ -3625,6 +3639,7 @@ U+7701,省,shěng,,,"province; save, economize"
 U+7708,眈,dān,,,"gloat, stare at; to delay, to loiter, to hinder"
 U+7709,眉,méi,,,eyebrows; upper margin of book
 U+770B,看,kàn,,,"look, see; examine, scrutinize"
+U+7719,眙,yí,,,to gaze at
 U+771E,眞,zhēn,,,"real, actual, true, genuine"
 U+771F,真,zhēn,,,"real, actual, true, genuine"
 U+7720,眠,mián,,,"close eyes, sleep; hibernate"
@@ -3646,6 +3661,7 @@ U+775B,睛,jīng,,,eyeball; pupil of eye
 U+775C,睜,zhēng,,睁,to open the eyes; stare
 U+775E,睞,lài,,睐,squint at; sidelong glance
 U+7761,睡,shuì,,,"sleep, doze"
+U+7762,睢,suī,,,"gaze at, stare at; uninhibited"
 U+7763,督,dū,,,"supervise, oversee, direct"
 U+7766,睦,mù,,,"friendly, amiable, peaceful"
 U+776B,睫,jié,,,eyelashes
@@ -3669,6 +3685,7 @@ U+77AD,瞭,liào liǎo,瞭,"了,瞭","bright, clear; clear-sighted"
 U+77B0,瞰,kàn,,,"watch, spy; overlook; look down"
 U+77B3,瞳,tóng,,,pupil of eye
 U+77BB,瞻,zhān,,,look; look out for; respect
+U+77BF,瞿,qú,,,surname
 U+77C7,矇,méng,,蒙,"stupid, ignorant; blind"
 U+77CD,矍,jué,,,look about in fright or alarm
 U+77D7,矗,chù,,,"straight, upright, erect, lofty"
@@ -4211,6 +4228,7 @@ U+7EFC,综,zōng,綜,,arrange threads for weaving
 U+7EFD,绽,zhàn,綻,,"ripped seam, rend, crack"
 U+7EFF,绿,lǜ,"綠,緑",,green; chlorine
 U+7F00,缀,zhuì,綴,,"patch together, link, connect"
+U+7F02,缂,kè,緙,,the woof of a woven item
 U+7F04,缄,jiān,緘,,"seal, close; bind; letter"
 U+7F05,缅,miǎn,緬,,"distant, remote; think of"
 U+7F06,缆,lǎn,纜,,"hawser, heavy-duty rope, cable"
@@ -4428,6 +4446,7 @@ U+8155,腕,wàn,,,wrist
 U+8165,腥,xīng,,,"raw meat; rank, strong-smelling"
 U+8166,腦,nǎo,,脑,brain
 U+8169,腩,nǎn,,,(Cant.) fatty meat on a cow's belly; abdomen; to boil meat
+U+816B,腫,zhǒng,,肿,swell; swollen; swelling
 U+816E,腮,sāi,,,lower part of face; jaw; gills of a fish
 U+8170,腰,yāo,,,waist; kidney
 U+8171,腱,jiàn,,,tendons
@@ -5095,6 +5114,7 @@ U+8B49,證,zhèng,,证,"proof, evidence; testify, verify"
 U+8B58,識,shí shì,,识,"recognize, understand, know"
 U+8B5A,譚,tán,,谭,surname; to talk
 U+8B5C,譜,pǔ,,谱,"register, list, table; musical score"
+U+8B5F,譟,zào,,𬤨,"clamor, noise, din; slander"
 U+8B66,警,jǐng,,,"guard, watch; alert, alarm"
 U+8B6C,譬,pì,,,"metaphor, simile, example"
 U+8B6F,譯,yì,,译,translate; decode; encode
@@ -5211,6 +5231,7 @@ U+8C31,谱,pǔ,譜,,"list, table; musical score"
 U+8C32,谲,jué,譎,,"cunning, crafty, sly, wily"
 U+8C34,谴,qiǎn,譴,,"reprimand, scold, abuse"
 U+8C35,谵,zhān,譫,,talkative; incoherent talk
+U+8C36,谶,chèn,讖,,"prophecy, hint, omen"
 U+8C37,谷,gǔ,"穀,谷",谷,"valley, gorge, ravine; Kangxi radical 150"
 U+8C41,豁,huō,,,"open up, clear; exempt"
 U+8C46,豆,dòu,,,"beans, peas; bean-shaped; Kangxi radical 151"
@@ -5242,6 +5263,7 @@ U+8CA9,販,fàn,,贩,"peddler, hawker, street merchant"
 U+8CAA,貪,tān,,贪,"greedy, covet; covetous"
 U+8CAB,貫,guàn,,贯,a string of 1000 coins; to go through
 U+8CAC,責,zé,,责,"one's responsibility, duty"
+U+8CB3,貳,èr,,贰,accounting numeral for two
 U+8CB4,貴,guì,,贵,"expensive, costly, valuable"
 U+8CB6,貶,biǎn,,贬,"decrease, lower; censure, criticize"
 U+8CB7,買,mǎi,,"买,𧹒","buy, purchase; bribe, persuade"
@@ -5640,6 +5662,7 @@ U+90D1,郑,zhèng,"郑,鄭",郑,state in today's Henan; surname
 U+90D3,郓,yùn,鄆,,surname; an ancient town's name
 U+90DD,郝,hǎo,,,surname; place in modern Shanxi
 U+90E1,郡,jùn,,,administrative division
+U+90E2,郢,yǐng,,,ancient city in Hubei
 U+90E8,部,bù,,,"part, division, section"
 U+90ED,郭,guō,,,outer part (of a city); surname
 U+90EF,郯,tán,,,a county in Shandong
@@ -5842,6 +5865,7 @@ U+9489,钉,dīng,釘,,"nail, spike; pursue closely"
 U+948A,钊,zhāo,釗,,"endeavor, strive; encourage; cut"
 U+948C,钌,liǎo,釕,,"ruthenium (element 44, Ru)"
 U+948D,钍,tǔ,釷,,"thorium (element 90, Th)"
+U+948E,钎,qiān,釺,,tool for boring holes
 U+9492,钒,fán,釩,,"vanadium (element 23, V)"
 U+9493,钓,diào,釣,,"fish; fishhook; tempt, lure"
 U+9495,钕,nǚ,釹,,"neodymium (element 60, Nd)"
@@ -6014,6 +6038,7 @@ U+9601,阁,gé,閣,,"chamber, pavilion; cabinet"
 U+9602,阂,hé,閡,,blocked or separated; to prevent
 U+9605,阅,yuè,"閱,閲",,"examine, inspect, review, read"
 U+9606,阆,làng,閬,,"high door; high gate; high, lofty"
+U+9608,阈,yù,閾,,"threshold; separated, confined"
 U+9609,阉,yān,閹,,castrate; eunuch
 U+960E,阎,yán,閻,,village gate; surname
 U+9610,阐,chǎn,闡,,"explain, clarify, elucidate"
@@ -6177,6 +6202,7 @@ U+97E7,韧,rèn,韌,,"strong and pliable, resilient"
 U+97E9,韩,hán,韓,,fence; surname; Korea
 U+97EC,韬,tāo,韜,,"sheath, scabbard, bow case"
 U+97ED,韭,jiǔ,,,"scallion, leek; Kangxi radical 179"
+U+97EE,韮,jiǔ,,,"scallion, leek"
 U+97F3,音,yīn,,,"sound, tone, pitch, pronunciation; Kangxi radical 180"
 U+97F5,韵,yùn,"韵,韻",韵,rhyme; vowel
 U+97F6,韶,sháo,,,music of the emperor Shun; beautiful
@@ -6405,6 +6431,7 @@ U+9ABC,骼,gé,,,bone; skeleton; corpse
 U+9AC1,髁,kē,,,"thigh bone, hipbone; kneecap"
 U+9AC5,髅,lóu,髏,,skull; skeleton
 U+9ACB,髋,kuān,髖,,hipbone; hip
+U+9AD2,髒,zāng,,脏,dirty; firm; fat
 U+9AD3,髓,suǐ,,,"bone marrow; essences, substances"
 U+9AD4,體,tǐ,,体,"body; group, class, body, unit"
 U+9AD8,高,gāo,,,"high, tall; lofty, elevated; Kangxi radical 189"
@@ -6489,6 +6516,7 @@ U+9CB6,鲶,nián,鯰,,sheat
 U+9CB7,鲷,diāo,鯛,,"Pagrosomus major, porgy"
 U+9CB8,鲸,jīng,鯨,,whale
 U+9CC0,鳀,tí,鯷,,anchovy
+U+9CC3,鳃,sāi,鰓,,fish gills
 U+9CC4,鳄,è,"鰐,鱷",,alligator
 U+9CC5,鳅,qiū,鰍,,loach
 U+9CCC,鳌,áo,鰲,,huge sea turtle
@@ -6506,6 +6534,7 @@ U+9CE1,鳡,gǎn,鱤,,
 U+9CE5,鳥,niǎo,,鸟,bird; Kangxi radical 196
 U+9CF3,鳳,fèng,,凤,male phoenix; symbol of joy
 U+9CF4,鳴,míng,,鸣,cry of bird or animal; make sound
+U+9CFD,鳽,jiān,,𫛚,
 U+9D09,鴉,yā,,鸦,"crow, raven; Corvus species (various)"
 U+9D15,鴕,tuó,,鸵,ostrich; Struthio camelus
 U+9D1B,鴛,yuān,,鸳,male mandarin duck (Aix galericulata)
@@ -6527,6 +6556,7 @@ U+9D70,鵰,diāo,,𫛲,"eagle, vulture; Aquila species (various)"
 U+9D72,鵲,què,,鹊,magpie; Pica species (various)
 U+9D87,鶇,dōng,,鸫,thrush; Turdus species (various)
 U+9D98,鶘,hú,,鹕,pelican
+U+9D9A,鶚,è,,鹗,"osprey, fishhawk; Pandion haliaetus"
 U+9DA9,鶩,wù,,鹜,duck
 U+9DAF,鶯,yīng,,莺,"oriole, green finch; Sylvia species (various)"
 U+9DB4,鶴,hè,,鹤,crane; Grus species (various)
@@ -6619,6 +6649,7 @@ U+9F10,鼐,nài,,,incense tripod
 U+9F13,鼓,gǔ,,,"drum; beat, top, strike; Kangxi radical 207"
 U+9F20,鼠,shǔ,,,"rat, mouse; Kangxi radical 208"
 U+9F2C,鼬,yòu,,,"weasel, Mustela itatsi"
+U+9F2F,鼯,wú,,,flying squirrel
 U+9F3B,鼻,bí,,,nose; first; Kangxi radical 209
 U+9F3E,鼾,hān,,,snore loudly
 U+9F4A,齊,qí,,齐,"even, uniform, of equal length; Kangxi radical 210"

@@ -83,7 +83,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+TikTok%E6%80%BB%E6%89%A7%E8%A1%8C%E9%95%BF%E5%91%A8%E5%8F%97%E8%B5%84%E5%B0%86%E8%8E%B7%E5%BE%97%E8%91%A3%E4%BA%8B%E9%83%A8%E5%B8%AD%E4%BD%8D%EF%BC%8C%E4%BB%96%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BF%90%E8%90%A5TikTok%E7%9A%84%E5%85%A8%E7%90%83%E4%B8%9A%E5%8A%A1%E3%80%82%E4%BB%96%E7%9A%84%E5%89%AF%E6%89%8B%E4%BA%9A%E5%BD%93%E6%99%AE%E9%9B%B7%E7%91%9F%E5%B0%86%E6%8B%85%E4%BB%BB%E8%BF%99%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8%E7%9A%84%E6%80%BB%E6%89%A7%E8%A1%8C%E9%95%BF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23TikTok+%23%E6%8A%95%E8%B5%84%E8%80%85https%3A%2F%2Ft.co%2FRxSnHyuhZQ+https%3A%2F%2Ft.c%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[周受资](周受资.md), [执行](执行.md), [投资](投资.md), [投资者](投资者.md), [美国](美国.md), [获得](获得.md)
+[周受资](周受资.md), [执行](执行.md), [投资](投资.md), [美国](美国.md), [获得](获得.md)
 ___
 ##### 2026-01-22 06:23:59 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 加拿大联邦法院星期三（1月21日）裁定，推翻政府要求关闭TikTok加拿大业务的命令，允许这款短视频应用暂时继续运营，并要求渥太华重新审查相关案件。 https://t.co/xGcvvvmJKn
@@ -153,14 +153,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E5%B0%87%E7%A7%BB%E4%BA%A4%E7%BE%8E%E4%BC%81%E8%81%AF%E5%90%88%E9%AB%94%E4%B8%BB%E5%B0%8E%E9%81%8B%E7%87%9F%E3%80%91%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE9%E6%9C%8822%E6%97%A5%E7%99%BC%E4%BD%88%E4%BA%86%E7%9B%B8%E9%97%9C%E6%B6%88%E6%81%AF%E3%80%82%E6%93%9A%E7%A8%B1%EF%BC%8CTikTok%E7%9A%84%E6%AF%8D%E5%85%AC%E5%8F%B8%E3%80%81%E4%B8%AD%E5%9C%8B%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E5%B0%87%E5%89%9D%E9%9B%A2%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%EF%BC%8C%E7%A7%BB%E4%BA%A4%E7%B5%A6%E7%94%B1%E7%BE%8E%E5%9C%8B%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1%E4%BD%94%E5%8D%8A%E6%95%B8%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%90%88%E8%B3%87%E5%85%AC%E5%8F%B8%E3%80%82%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%9C%83%E6%8C%81%E8%82%A1%E6%88%96%E6%B3%A8%E8%B3%87%E3%80%82%E4%BD%9C%E7%82%BA%E6%A0%B8%E5%BF%83%E6%8A%80%E8%A1%93%E7%9A%84%E6%BC%94%E7%AE%97%E6%B3%95%E4%BB%8D%E7%94%B1%E4%B8%AD%E6%96%B9%E4%BB%A5%E6%8E%88%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[字節跳動](字節跳動.md), [核心](核心.md), [美國](美國.md)
+[字節跳動](字節跳動.md), [核心](核心.md), [算法](算法.md), [美國](美國.md)
 ___
 ##### 2025-09-23 06:27:38 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 有中国官方背景的自媒体称，中国和字节跳动没有卖掉TikTok美国业务，中国企业在中国政府的强力支持下，维护了自身合理合法权益，也保护了国家安全，没有造成算法等核心技术的知识产权流失。 https://t.co/PpoG0a5kw3
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E8%83%8C%E6%99%AF%E7%9A%84%E8%87%AA%E5%AA%92%E4%BD%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%B2%A1%E6%9C%89%E5%8D%96%E6%8E%89TikTok%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9A%84%E5%BC%BA%E5%8A%9B%E6%94%AF%E6%8C%81%E4%B8%8B%EF%BC%8C%E7%BB%B4%E6%8A%A4%E4%BA%86%E8%87%AA%E8%BA%AB%E5%90%88%E7%90%86%E5%90%88%E6%B3%95%E6%9D%83%E7%9B%8A%EF%BC%8C%E4%B9%9F%E4%BF%9D%E6%8A%A4%E4%BA%86%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%EF%BC%8C%E6%B2%A1%E6%9C%89%E9%80%A0%E6%88%90%E7%AE%97%E6%B3%95%E7%AD%89%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E7%9A%84%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E6%B5%81%E5%A4%B1%E3%80%82+https%3A%2F%2Ft.co%2FPpoG0a5kw3)
 ##### Other Words/Names of Interest in the Above Tweet
-[字节跳动](字节跳动.md), [技术](技术.md), [支持](支持.md), [核心](核心.md), [美国](美国.md)
+[字节跳动](字节跳动.md), [技术](技术.md), [支持](支持.md), [核心](核心.md), [算法](算法.md), [美国](美国.md)
 ___
 ##### 2025-09-21 04:50:46 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中美元首通话后，短视频应用TikTok交易取得进展，北京星期六（9月20日）呼吁华盛顿“切实履行相应承诺”，推动中美经贸关系稳定、健康、可持续发展。 https://t.co/hQ4hb79ZZa
@@ -230,7 +230,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23CWSJ%E5%A4%B4%E6%9D%A1+%E6%A0%B9%E6%8D%AE%E5%8D%8F%E8%AE%AE%EF%BC%8CTikTok%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%E5%B0%86%E7%94%B1%E4%B8%80%E4%B8%AA%E5%8C%85%E6%8B%AC%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8%E3%80%81Silver+Lake%E5%92%8CAndreessen+Horowitz%E5%9C%A8%E5%86%85%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E8%B4%A2%E5%9B%A2%E6%8E%A7%E5%88%B6%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B0%86%E6%8C%81%E6%9C%89%E7%BA%A680%25%E7%9A%84%E8%82%A1%E4%BB%BD%E3%80%82%E8%BF%99%E4%B8%80%E6%96%B0%E7%9A%84%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93%E5%B0%86%E8%AE%BE%E7%AB%8B%E7%94%B1%E7%BE%8E%E6%96%B9%E4%B8%BB%E5%AF%BC%E7%9A%84%E8%91%A3%E4%BA%8B%E4%BC%9A%EF%BC%8C%E4%B8%94%E5%85%B6%E4%B8%AD%E4%B8%80%E5%90%8D%E6%88%90%E5%91%98%E7%94%B1%E7%BE%8E%E5%9B%BD%E6%94%BF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[主导](主导.md), [包括](包括.md), [协议](协议.md), [投资](投资.md), [投资者](投资者.md), [控制](控制.md), [根据](根据.md), [甲骨文](甲骨文.md), [美国](美国.md), [股份](股份.md), [设立](设立.md)
+[主导](主导.md), [包括](包括.md), [协议](协议.md), [投资](投资.md), [控制](控制.md), [根据](根据.md), [甲骨文](甲骨文.md), [美国](美国.md), [股份](股份.md), [设立](设立.md)
 ___
 ##### 2025-09-17 03:29:52 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【美政府將TikTok美國業務出售期限延長至12月】出售期限延長三個月至12月16日。中美就出售美國業務達成框架協議，需要確保手續所需時間。按照法律規定，總統只能將出售期限最多延長90天且僅限一次，而川普此次已是第四次延長…… htt…
@@ -258,7 +258,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E4%B8%AD%E5%AE%98%E5%91%98%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BE%E8%A1%8C%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%EF%BC%8C%E5%B9%B6%E8%BE%BE%E6%88%90%E6%B6%B5%E7%9B%96+TikTok%E5%9C%A8%E5%86%85%E7%9A%84%E8%B4%B8%E6%98%93%E6%A1%86%E6%9E%B6%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%8A%A0%E4%B8%8A%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%8D%B3%E5%B0%86%E9%80%9A%E8%AF%9D%EF%BC%8C%E5%88%A9%E5%A5%BD%E5%B8%82%E5%9C%BA%E6%83%85%E7%BB%AA%EF%BC%8C%E7%BE%8E%E8%82%A1%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B0%E5%91%A8%E4%B8%80%E6%99%AE%E9%81%8D%E6%94%B6%E6%B6%A8%EF%BC%8C%E6%A0%87%E6%99%AE%E5%92%8C%E7%BA%B3%E6%8C%87%E5%9D%87%E5%88%9B%E6%94%B6%E7%9B%98%E6%96%B0%E9%AB%98%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23nysehttps%3A%2F%2Ft.co%2FF7Mf8yAhPx+https%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [收盘](收盘.md), [标普](标普.md), [涵盖](涵盖.md), [西班牙](西班牙.md), [贸易](贸易.md), [达成](达成.md)
+[协议](协议.md), [收盘](收盘.md), [标普](标普.md), [涨](涨.md), [涵盖](涵盖.md), [西班牙](西班牙.md), [贸易](贸易.md), [达成](达成.md)
 ___
 ##### 2025-09-16 04:16:30 UTC ~ 中國新聞社
 > RT @CNS1952: 【中美就妥善解決TikTok問題達成基本框架共識】中國商務部國際貿易談判代表兼副部長李成鋼15日表示，中美雙方就以合作方式妥善解決TikTok問題、減少投資障礙、促進有關經貿合作等達成了基本框架共識。… https://t.co/RC4EgSaKaI
@@ -314,7 +314,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E8%8E%B7%E5%BE%97%E6%9B%B4%E5%B9%BF%E6%B3%9B%E6%94%AF%E6%8C%81%E4%BB%A5%E5%8F%8A%E7%BE%8E%E4%B8%AD%E7%BB%8F%E6%B5%8E%E5%AF%B9%E5%B3%99%E5%87%BA%E7%8E%B0%E7%BC%93%E5%92%8C%E8%BF%B9%E8%B1%A1%E7%9A%84%E6%8E%A8%E5%8A%A8%E4%B8%8B%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E6%94%B6%E7%9B%98%E5%9D%87%E4%B8%8A%E6%B6%A8%EF%BC%8CAlphabet%E5%B8%82%E5%80%BC%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B43%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%B4%9D%E6%A3%AE%E7%89%B9%E8%A1%A8%E7%A4%BA%EF%BC%8C%E7%BE%8E%E4%B8%AD%E5%8F%8C%E6%96%B9%E5%B0%B1TikTok%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%83%E9%97%AE%E9%A2%98%E2%80%9C%E5%B7%B2%E6%9C%89%E6%A1%86%E6%9E%B6%E2%80%9D%EF%BC%8C%E4%B8%AD%E6%A6%82%E8%82%A1ETF%E8%A7%A6%E5%8F%8A%E5%A4%9A%E5%B9%B4%E6%96%B0%E9%AB%98%E3%80%82https%3A%2F%2Ft%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [市值](市值.md), [广泛](广泛.md), [推动](推动.md), [支持](支持.md), [收盘](收盘.md), [科技](科技.md), [突破](突破.md), [美国](美国.md), [获得](获得.md)
+[市值](市值.md), [广泛](广泛.md), [推动](推动.md), [支持](支持.md), [收盘](收盘.md), [涨](涨.md), [科技](科技.md), [突破](突破.md), [美国](美国.md), [获得](获得.md)
 ___
 ##### 2025-09-15 15:49:47 UTC ~ 中國新聞社
 > RT @CNS1952: 中國商務部國際貿易談判代表兼副部長李成鋼9月15日說，過去兩天，中美雙方在西班牙馬德里舉行會談。雙方積極落實中美兩國元首通話重要共識，充分發揮中美經貿磋商機製作用，在相互尊重、平等協商的基礎上，就TikTok等雙方關注的經貿問題進行了坦誠、深入、建設性…
@@ -454,7 +454,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%B5%B7%E5%88%9D%E6%98%AF%E8%9B%8B%E4%BB%B7%E4%B8%8A%E6%B6%A8%E3%80%81%E7%BA%B8%E7%AE%B1%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D%E3%80%81%E8%88%9E%E6%B1%A0%E7%A9%BA%E7%A9%BA%E5%A6%82%E4%B9%9F%E3%80%82%E7%8E%B0%E5%9C%A8%E5%88%99%E6%98%AF%E4%BD%8E%E8%85%B0%E7%89%9B%E4%BB%94%E8%A3%A4%E3%80%81%E5%BF%AB%E9%97%AA%E6%97%8F%E2%80%94%E2%80%94%E7%94%9A%E8%87%B3%E6%98%AFLady+Gaga%E5%9C%A8%E6%B5%81%E8%A1%8C%E4%B9%90%E5%9D%9B%E7%9A%84%E5%9B%9E%E5%BD%92%E3%80%82TikTok%E4%B8%80%E4%BB%A3%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9B%B0%E5%A2%83%E8%BF%B9%E8%B1%A1%E7%9A%84%E8%8C%83%E5%9B%B4%E5%B7%B2%E7%BB%8F%E6%89%A9%E5%A4%A7%E5%88%B0%EF%BC%8C%E5%97%AF%EF%BC%8C%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E4%BA%8B%E7%89%A9%E3%80%82https%3A%2F%2Ft.co%2F8RuWq2x8NK)
 ##### Other Words/Names of Interest in the Above Tweet
-[上涨](上涨.md), [扩大](扩大.md), [美国](美国.md), [需求](需求.md)
+[扩大](扩大.md), [涨](涨.md), [美国](美国.md), [需求](需求.md)
 ___
 ##### 2025-05-19 18:13:58 UTC ~ 
 > RT @imxiaohu: GenSpark推出全球首个 Agentic AI下载代理只需一句话，AI会立即搜索、自动下载、并自动整理文件支持下载任何文件：PDF、图像、视频、音乐、各种办公文档等 最多支持一次性下载20张图像、数十篇论文和批量下载TikTok视频等…
@@ -538,7 +538,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E5%91%A8%E4%BA%94%E7%AD%BE%E7%BD%B2%E4%BA%86%E4%B8%80%E9%A1%B9%E8%A1%8C%E6%94%BF%E4%BB%A4%EF%BC%8C%E5%B0%86%E9%92%88%E5%AF%B9TikTok%E7%9A%84%E7%A6%81%E4%BB%A4%E5%BB%B6%E6%9C%9F75%E5%A4%A9%EF%BC%8C%E4%BB%A5%E6%95%B2%E5%AE%9A%E6%BD%9C%E5%9C%A8%E4%BA%A4%E6%98%93%E7%9A%84%E7%BB%86%E8%8A%82%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%98%E5%91%98%E6%9C%AC%E5%91%A8%E4%B8%80%E7%9B%B4%E5%9C%A8%E8%AE%A8%E8%AE%BA%E4%B8%80%E9%A1%B9%E5%8D%8F%E8%AE%AE%E6%A1%86%E6%9E%B6%EF%BC%8C%E8%AF%A5%E6%A1%86%E6%9E%B6%E5%B0%86%E6%8A%8ATikTok%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%E5%88%86%E6%8B%86%E5%87%BA%E6%9D%A5%EF%BC%8C%E6%88%90%E4%B8%BA%E4%B8%80%E5%AE%B6%E7%94%B1%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E6%8B%A5%E6%9C%89%E5%92%8C%E8%BF%90%E8%90%A5%E3%80%81%E4%B8%94%E7%BE%8E%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E6%8C%81%E5%A4%9A%E6%95%B0%E8%82%A1%E6%9D%83%E7%9A%84%E6%96%B0%E5%85%AC%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[一直](一直.md), [交易](交易.md), [分拆](分拆.md), [协议](协议.md), [投资](投资.md), [投资者](投资者.md), [潜在](潜在.md), [特朗普](特朗普.md), [知情](知情.md), [知情人士](知情人士.md), [签署](签署.md), [美国](美国.md), [透露](透露.md), [针对](针对.md)
+[一直](一直.md), [交易](交易.md), [分拆](分拆.md), [协议](协议.md), [投资](投资.md), [潜在](潜在.md), [特朗普](特朗普.md), [知情](知情.md), [知情人士](知情人士.md), [签署](签署.md), [美国](美国.md), [透露](透露.md), [针对](针对.md)
 ___
 ##### 2025-04-06 05:02:32 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 有消息称，特朗普原与TikTok母公司字节跳动几乎就要达成协议，但北京在他对中国加征高额关税后拒绝放行，导致交易陷入僵局。受访中国学者认为，特朗普将TikTok交易与关税议题捆绑的做法难以取信于北京，也使双方达成协议的可能性进一步降低。 https:…
@@ -552,7 +552,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%BB%99%E6%8A%95%E8%B5%84%E8%80%85%E6%9B%B4%E5%A4%9A%E6%97%B6%E9%97%B4%E4%BB%A5%E5%AF%BB%E6%B1%82%E8%BE%BE%E6%88%90%E4%B8%80%E9%A1%B9%E5%A4%8D%E6%9D%82%E4%BA%A4%E6%98%93%EF%BC%8C%E4%BB%8E%E8%80%8C%E7%BB%B4%E6%8C%81TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%BF%90%E8%90%A5%E3%80%82%E4%BD%86%E7%BE%8E%E4%B8%AD%E8%B4%B8%E6%98%93%E6%88%98%E5%8D%87%E7%BA%A7%E7%BB%99%E8%B0%88%E5%88%A4%E5%A2%9E%E6%B7%BB%E4%BA%86%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84%E4%BB%A3%E8%A1%A8%E5%91%8A%E8%AF%89%E7%99%BD%E5%AE%AB%EF%BC%8C%E5%9C%A8%E5%8F%8C%E6%96%B9%E5%B0%B1%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4%E4%B9%8B%E5%89%8D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BC%9A%E6%89%B9%E5%87%86%E4%BB%BB%E4%BD%95%E5%8D%8F%E8%AE%AE%E3%80%82https%3A%2F%2Ft.co%2F9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[不确定性](不确定性.md), [交易](交易.md), [关税](关税.md), [升级](升级.md), [协议](协议.md), [字节跳动](字节跳动.md), [批准](批准.md), [投资](投资.md), [投资者](投资者.md), [特朗普](特朗普.md), [知情](知情.md), [知情人士](知情人士.md), [税](税.md), [维持](维持.md), [美国](美国.md), [谈判](谈判.md), [贸易](贸易.md), [达成](达成.md), [进行](进行.md)
+[不确定性](不确定性.md), [交易](交易.md), [关税](关税.md), [升级](升级.md), [协议](协议.md), [字节跳动](字节跳动.md), [批准](批准.md), [投资](投资.md), [特朗普](特朗普.md), [知情](知情.md), [知情人士](知情人士.md), [税](税.md), [维持](维持.md), [美国](美国.md), [谈判](谈判.md), [贸易](贸易.md), [达成](达成.md), [进行](进行.md)
 ___
 ##### 2025-04-05 05:05:08 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国总统特朗普再给予TikTok“不卖就禁”法律75天宽限期后，母公司字节跳动称，与美国政府未达成任何协议，双方在很多关键问题上仍存分歧。 https://t.co/nKKchb2oBN
@@ -727,14 +727,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%A0%B9%E6%8D%AE%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E5%9C%A8%E5%88%B6%E5%AE%9A%E7%9A%84%E6%8B%AF%E6%95%91TikTok%E8%AE%A1%E5%88%92%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B8%8C%E6%9C%9B%E8%BD%AF%E4%BB%B6%E5%85%AC%E5%8F%B8%E7%94%B2%E9%AA%A8%E6%96%87%E5%92%8C%E5%85%B6%E4%BB%96%E5%A4%96%E9%83%A8%E6%8A%95%E8%B5%84%E8%80%85%E6%9C%89%E6%95%88%E6%8E%A7%E5%88%B6TikTok%E7%9A%84%E5%85%A8%E7%90%83%E8%BF%90%E8%90%A5%E3%80%82https%3A%2F%2Ft.co%2FlhrBQM02iY+https%3A%2F%2Ft.co%2F5Pef4sVo39)
 ##### Other Words/Names of Interest in the Above Tweet
-[投资](投资.md), [投资者](投资者.md), [控制](控制.md), [根据](根据.md), [特朗普](特朗普.md), [甲骨文](甲骨文.md), [计划](计划.md)
+[投资](投资.md), [控制](控制.md), [根据](根据.md), [特朗普](特朗普.md), [甲骨文](甲骨文.md), [计划](计划.md)
 ___
 ##### 2025-01-26 00:55:44 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 根据特朗普政府正在制定的拯救TikTok计划，他们希望软件公司甲骨文和其他外部投资者有效控制TikTok的全球运营。 https://t.co/cCc30GKclx
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%A0%B9%E6%8D%AE%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E5%9C%A8%E5%88%B6%E5%AE%9A%E7%9A%84%E6%8B%AF%E6%95%91TikTok%E8%AE%A1%E5%88%92%EF%BC%8C%E4%BB%96%E4%BB%AC%E5%B8%8C%E6%9C%9B%E8%BD%AF%E4%BB%B6%E5%85%AC%E5%8F%B8%E7%94%B2%E9%AA%A8%E6%96%87%E5%92%8C%E5%85%B6%E4%BB%96%E5%A4%96%E9%83%A8%E6%8A%95%E8%B5%84%E8%80%85%E6%9C%89%E6%95%88%E6%8E%A7%E5%88%B6TikTok%E7%9A%84%E5%85%A8%E7%90%83%E8%BF%90%E8%90%A5%E3%80%82+https%3A%2F%2Ft.co%2FcCc30GKclx)
 ##### Other Words/Names of Interest in the Above Tweet
-[投资](投资.md), [投资者](投资者.md), [控制](控制.md), [根据](根据.md), [特朗普](特朗普.md), [甲骨文](甲骨文.md), [计划](计划.md)
+[投资](投资.md), [控制](控制.md), [根据](根据.md), [特朗普](特朗普.md), [甲骨文](甲骨文.md), [计划](计划.md)
 ___
 ##### 2025-01-24 17:57:05 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 欧盟委员会已要求脸书、TikTok、X等社交媒体巨头参加测试，以评估它们在下个月德国大选前是否采取足够措施打击虚假信息。 https://t.co/8XIDftxYpS
@@ -1238,21 +1238,21 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E6%9C%AC%E5%91%A8%E7%83%AD%E8%AF%BB+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%AF%B9%E8%87%AA%E8%BA%AB%E4%BC%B0%E5%80%BC3000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BF%99%E6%98%AF%E5%85%B6%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E4%B9%8B%E4%B8%80%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB%E5%AF%B9TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%89%8D%E9%80%94%E5%8F%AF%E8%83%BD%E6%9B%B4%E6%9C%89%E5%88%A9%E3%80%82+https%3A%2F%2Ft.co%2FTOetqccxzm+https%3A%2F%2Ft.co%2FTOetqccxzm)
 ##### Other Words/Names of Interest in the Above Tweet
-[估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [特朗普](特朗普.md), [美国](美国.md)
+[估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
 ##### 2024-11-18 09:44:09 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #独家 TikTok母公司字节跳动对自身估值3000亿美元，这是其历史最高估值之一。投资者认为，特朗普重返白宫对TikTok在美国的前途可能更有利。 https://t.co/TOetqccxzm https://t.co/TOetqccxzm
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E7%8B%AC%E5%AE%B6+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%AF%B9%E8%87%AA%E8%BA%AB%E4%BC%B0%E5%80%BC3000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%BF%99%E6%98%AF%E5%85%B6%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E4%B9%8B%E4%B8%80%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB%E5%AF%B9TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%89%8D%E9%80%94%E5%8F%AF%E8%83%BD%E6%9B%B4%E6%9C%89%E5%88%A9%E3%80%82+https%3A%2F%2Ft.co%2FTOetqccxzm+https%3A%2F%2Ft.co%2FTOetqccxzm)
 ##### Other Words/Names of Interest in the Above Tweet
-[估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [特朗普](特朗普.md), [美国](美国.md)
+[估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
 ##### 2024-11-17 20:27:26 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: TikTok母公司字节跳动近期通过股票回购计划，向投资者提出每股180.7美元的回购价，估值约为3000亿美元（约4031亿新元）。#字节跳动 https://t.co/zhUKyLwUOk
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+TikTok%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E8%BF%91%E6%9C%9F%E9%80%9A%E8%BF%87%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E8%AE%A1%E5%88%92%EF%BC%8C%E5%90%91%E6%8A%95%E8%B5%84%E8%80%85%E6%8F%90%E5%87%BA%E6%AF%8F%E8%82%A1180.7%E7%BE%8E%E5%85%83%E7%9A%84%E5%9B%9E%E8%B4%AD%E4%BB%B7%EF%BC%8C%E4%BC%B0%E5%80%BC%E7%BA%A6%E4%B8%BA3000%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A64031%E4%BA%BF%E6%96%B0%E5%85%83%EF%BC%89%E3%80%82%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8+https%3A%2F%2Ft.co%2FzhUKyLwUOk)
 ##### Other Words/Names of Interest in the Above Tweet
-[估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [提出](提出.md), [计划](计划.md)
+[估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [提出](提出.md), [计划](计划.md)
 ___
 ##### 2024-10-10 02:36:47 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【美國14個州和地區起訴TikTok】美國14個州和地區的總檢察長10月8日以TikTok正在損害年輕人的精神衛生為由，起訴了運營公司。在具體的APP功能方面，認為濾鏡會導致年輕人對自己的外貌產生負面看法，將之視為問題……https:/…
@@ -1553,7 +1553,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%AD%E5%9B%BD%E9%97%AE%E9%A2%98%E7%89%B9%E5%88%AB%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%8A%A0%E6%8B%89%E6%A0%BC%E5%B0%94%E8%AF%B4%EF%BC%8C%E5%A6%82%E6%9E%9CTikTok%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%87%BA%E5%94%AE%E8%BF%99%E4%B8%AA%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8%EF%BC%8C%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E4%BB%8E%E4%B8%AD%E8%8E%B7%E7%9B%8A%EF%BC%8C%E5%9B%A0%E4%B8%BA%E8%BF%99%E4%B9%88%E5%81%9A%E5%8F%AF%E4%BB%A5%E6%B6%88%E9%99%A4%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9A%84%E6%BA%90%E5%A4%B4%E3%80%82https%3A%2F%2Ft.co%2FWx2q05HnK5)
 ##### Other Words/Names of Interest in the Above Tweet
-[不确定性](不确定性.md), [众议院](众议院.md), [出售](出售.md), [委员会](委员会.md), [字节跳动](字节跳动.md), [投资](投资.md), [投资者](投资者.md), [消除](消除.md), [美国](美国.md)
+[不确定性](不确定性.md), [众议院](众议院.md), [出售](出售.md), [委员会](委员会.md), [字节跳动](字节跳动.md), [投资](投资.md), [消除](消除.md), [美国](美国.md)
 ___
 ##### 2024-03-19 05:53:52 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 任何诉讼都可能引发多个法律问题，但核心问题是，一旦进入法庭争端，就要由法官来权衡这项禁令的国家安全目标与美国宪法赋予TikTok及其用户的第一修正案权利。https://t.co/x7d5esgeHz https://t.co/x7d5esgeHz
@@ -1700,7 +1700,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E2%80%9C%E4%B8%80%E6%97%A6%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81TikTok%E6%B3%95%E6%A1%88%E8%90%BD%E5%9C%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E9%99%A4%E4%BA%86%E4%BE%9D%E6%8D%AE%E6%9C%89%E5%85%B3%E8%A7%84%E5%AE%9A%E9%99%90%E5%88%B6%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%87%BA%E5%94%AETikTok%E7%9A%84%E7%AE%97%E6%B3%95%E5%A4%96%EF%BC%8C%E4%B9%9F%E5%8F%AF%E8%83%BD%E9%87%87%E5%8F%96%E5%85%B6%E4%BB%96%E6%8A%A5%E5%A4%8D%E6%8E%AA%E6%96%BD%EF%BC%8C%E4%BD%86%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%A4%A7%E5%8F%AF%E8%83%BD%E5%9B%A0%E4%B8%BA%E6%9B%BFTikTok%E5%87%BA%E5%A4%B4%E8%80%8C%E6%8D%9F%E5%AE%B3%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%A4%96%E5%BC%80%E6%94%BE%E5%A4%A7%E5%B1%80%E3%80%82%E2%80%9Dhttps%3A%2F%2Ft.co%2Fa1mW0l6yRW)
 ##### Other Words/Names of Interest in the Above Tweet
-[出售](出售.md), [制裁](制裁.md), [字节跳动](字节跳动.md), [措施](措施.md), [法案](法案.md), [美国](美国.md), [采取](采取.md), [限制](限制.md), [除了](除了.md)
+[出售](出售.md), [制裁](制裁.md), [字节跳动](字节跳动.md), [措施](措施.md), [法案](法案.md), [算法](算法.md), [美国](美国.md), [采取](采取.md), [限制](限制.md), [除了](除了.md)
 ___
 ##### 2024-03-09 08:57:02 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国司法部说，要求中国互联网巨企字节跳动剥离短视频应用TikTok的法案，将给予政府更坚定的法律立场。https://t.co/ExFIPiiZo9
@@ -2043,7 +2043,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%B8%8A%E5%B8%82%E7%9A%84%E6%9C%AC%E5%9C%B0%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%86%AC%E6%B5%B7%E9%9B%86%E5%9B%A2%E7%9A%84%E8%82%A1%E4%BB%B7%E9%9A%94%E5%A4%9C%E9%A3%99%E5%8D%87%E5%B0%86%E8%BF%9112%EF%BC%85%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%EF%BC%9A%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E8%BF%99%E4%B8%80%E4%B8%A4%E5%A4%A9%E5%8F%91%E5%B8%83%E6%96%B0%E6%B3%95%E8%A7%84%EF%BC%8C%E8%AE%A9%E5%83%8FTikTok%E8%BF%99%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E5%B9%B3%E5%8F%B0%E6%9B%B4%E9%9A%BE%E6%95%B4%E5%90%88%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E5%8A%9F%E8%83%BD%E3%80%82%E5%9C%A8%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E9%A2%86%E5%9F%9F%EF%BC%8CTikTok%E6%98%AF%E5%86%AC%E6%B5%B7%E9%9B%86%E5%9B%A2%E6%9C%AC%E5%8C%BA%E5%9F%9F%E7%9A%84%E4%B8%BB%E8%A6%81%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%EF%BC%8C%E6%96%B0%E6%B6%88%E6%81%AF%E6%9B%9D%E5%85%89%E5%90%8E%EF%BC%8C%E5%B8%82%E5%9C%BA%E6%8A%95%E8%B5%84%E8%80%85%E6%99%AE%E9%81%8D%E8%AE%A4%E4%B8%BA%E5%86%AC%E6%B5%B7%E9%9B%86%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[印度](印度.md), [发布](发布.md), [平台](平台.md), [投资](投资.md), [投资者](投资者.md), [整合](整合.md), [社交媒体](社交媒体.md), [科技](科技.md), [竞争](竞争.md), [美国](美国.md), [领域](领域.md), [飙升](飙升.md)
+[印度](印度.md), [发布](发布.md), [平台](平台.md), [投资](投资.md), [整合](整合.md), [社交媒体](社交媒体.md), [科技](科技.md), [竞争](竞争.md), [美国](美国.md), [领域](领域.md), [飙升](飙升.md)
 ___
 ##### 2023-09-22 15:39:38 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 在塞内加尔政府上个月封禁TikTok后不久，这款全球下载量最高的应用程序的高管们在非洲多地面临着更多酝酿中的麻烦。索马里也曾呼吁禁用TikTok。肯尼亚议会也在考虑取缔它。https://t.co/jvRUSuMek1

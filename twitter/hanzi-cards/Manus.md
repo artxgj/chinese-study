@@ -215,7 +215,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40oran_ge%3A+Manus+%E7%81%AB%E4%BA%86%EF%BC%8C%E8%BF%99%E4%B8%AA%E7%81%AB%E7%88%86%E7%A8%8B%E5%BA%A6%E7%AB%9F%E7%84%B6%E7%9B%B4%E6%8E%A5%E5%87%BA%E5%9C%88%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E6%8A%96%E9%9F%B3%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E5%A4%AE%E5%AA%92%EF%BC%8C%E7%81%AB%E5%88%B0%E4%BA%86%E5%88%B8%E5%95%86%E7%A0%94%E7%A9%B6%E5%91%98%E6%8B%BF5%E4%B8%87%E7%8E%B0%E9%87%91%E6%B1%82%E4%B8%AA%E8%B0%83%E7%A0%94%EF%BC%8C%E7%81%AB%E5%88%B0%E9%97%B2%E9%B1%BC%E4%B8%80%E4%B8%AA%E9%82%80%E8%AF%B7%E7%A0%81%E9%83%BD%E8%A6%815%E4%B8%87%E3%80%82%E4%B9%9F%E8%AE%B8%E6%98%AF%E5%9B%A0%E4%B8%BA+DeepSeek+%E7%81%AB%E7%88%86%E5%9C%A8%E5%85%88%EF%BC%8C%E5%A4%A7%E4%BC%97%E5%AF%B9%E6%8A%80%E6%9C%AF%E7%9A%84%E7%83%AD%E6%83%85%E5%8F%98%E5%BE%97%E5%BC%82%E5%B8%B8%E9%AB%98%E6%B6%A8%EF%BC%8C%E5%90%8C%E6%97%B6%E5%8F%88%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%9B%A2%E9%98%9F%E4%BD%9C%E5%93%81%EF%BC%8C%E8%87%AA%E7%84%B6%E5%B0%B1%E6%89%BF%E8%BD%BD%E4%BA%86%E4%B8%80%E4%BA%9B%E6%83%85%E6%80%80%E4%B8%8E%E5%B8%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [大众](大众.md), [异常](异常.md), [技术](技术.md), [直接](直接.md), [程度](程度.md), [金](金.md)
+[DeepSeek](DeepSeek.md), [大众](大众.md), [异常](异常.md), [技术](技术.md), [涨](涨.md), [直接](直接.md), [程度](程度.md), [金](金.md)
 ___
 ##### 2025-03-06 17:17:26 UTC ~ Orange AI
 > RT @oran_ge: Manus 测试1:列出收盘同花顺的收盘点评作为参考。 1.做出今日榜单总结 2.列出明天板块方向 3.做出短线策略 4.完成一套A股股神秘籍，发到公众号参考。完整报告：https://t.co/efuJyroLL5 https://t…

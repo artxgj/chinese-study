@@ -16,6 +16,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [杨振宁](../hanzi-cards/杨振宁.md)/[楊振寧](../hanzi-cards/楊振寧.md) | Yang Chen-Ning, 1957 Nobel Prize Winner in Physics |
 | [姚期智](../hanzi-cards/姚期智.md) | Andrew Chi-Chih Yao, 1996 Knuth Prize and 2000 Turing Award |
 | [丘成桐](../hanzi-cards/丘成桐.md) | Shing-Tung Yau, first ethnic Chinese Fields medalist |
+| [王虹](../hanzi-cards/王虹.md) | Wáng Hóng, 2026 Fields Medalist |
+| [邓煜](../hanzi-cards/邓煜.md)/[鄧煜](../hanzi-cards/鄧煜.md) | Dèng Yù, 2026 Fields Medalist |
 | [王赓武](../hanzi-cards/王赓武.md) | Wang Gungwu, historian, sinologist, and author |
 | [梁文锋](../hanzi-cards/梁文锋.md) | Liang Wenfeng, DeepSeek founder |
 | [杨植麟](../hanzi-cards/杨植麟.md) | Yang Zhilin, Moonshot AI founder |
@@ -23,6 +25,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [任正非](../hanzi-cards/任正非.md) | Ren Zhengfei |
 | [孟晚舟](../hanzi-cards/孟晚舟.md) | Meng Wanzhou |
 | [张汝京](../hanzi-cards/张汝京.md) | Richard Chang Ru-gin, founder of SMIC |
+| [朱一明](../hanzi-cards/朱一明.md) | Zhū Yīmíng, founder of CXMT |
 | [張雪](../hanzi-cards/張雪.md) | Zhang Xue, founder of ZXMOTO |
 | [孙中山](../hanzi-cards/孙中山.md)/[孫中山](../hanzi-cards/孫中山.md) | Sun Yat Sen |
 | [习近平](../hanzi-cards/习近平.md)/[習近平](../hanzi-cards/習近平.md) | Xi Jinping |
@@ -49,6 +52,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [邓紫棋](../hanzi-cards/邓紫棋.md) | G.E.M. |
 | [扎哈罗娃](../hanzi-cards/扎哈罗娃.md) | Zakharova (Maria) |
 | [杜特蒂](../hanzi-cards/杜特蒂.md) | Duterte |
+| [沃兹尼克](../hanzi-cards/沃兹尼克.md) | Wozniak (Steve) |
 | [贝多芬](../hanzi-cards/贝多芬.md) | Beethoven |
 | [莎翁](../hanzi-cards/莎翁.md) | Shakespeare |
 | [梵高](../hanzi-cards/梵高.md) | Van Gogh |

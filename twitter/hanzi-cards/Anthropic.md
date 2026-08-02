@@ -7,19 +7,96 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2026-07-31 11:01:47 UTC ~ Fuck Anthropic
+> RT @FuckAnthropic: what？不是吧？是我眼瞎了吧？太假了吧？Deepseek V4 Flash 在 Terminal Bench 2.1 和 DeepSWE 这两个重磅评测集上把 GLM 5.2 按在地上摩擦？？倒反天罡吧？大家快测一测，我收集收集真实反馈！…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FuckAnthropic%3A+what%EF%BC%9F%E4%B8%8D%E6%98%AF%E5%90%A7%EF%BC%9F%E6%98%AF%E6%88%91%E7%9C%BC%E7%9E%8E%E4%BA%86%E5%90%A7%EF%BC%9F%E5%A4%AA%E5%81%87%E4%BA%86%E5%90%A7%EF%BC%9FDeepseek+V4+Flash+%E5%9C%A8+Terminal+Bench+2.1+%E5%92%8C+DeepSWE+%E8%BF%99%E4%B8%A4%E4%B8%AA%E9%87%8D%E7%A3%85%E8%AF%84%E6%B5%8B%E9%9B%86%E4%B8%8A%E6%8A%8A+GLM+5.2+%E6%8C%89%E5%9C%A8%E5%9C%B0%E4%B8%8A%E6%91%A9%E6%93%A6%EF%BC%9F%EF%BC%9F%E5%80%92%E5%8F%8D%E5%A4%A9%E7%BD%A1%E5%90%A7%EF%BC%9F%E5%A4%A7%E5%AE%B6%E5%BF%AB%E6%B5%8B%E4%B8%80%E6%B5%8B%EF%BC%8C%E6%88%91%E6%94%B6%E9%9B%86%E6%94%B6%E9%9B%86%E7%9C%9F%E5%AE%9E%E5%8F%8D%E9%A6%88%EF%BC%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[GLM](GLM.md), [摩擦](摩擦.md), [收集](收集.md)
+___
+##### 2026-07-31 10:56:55 UTC ~ Fuck Anthropic
+> RT @FuckAnthropic: 做了对比分析，综合看，DeepSeek V4 Flash-0731 大致是一个 Opus 4.7 - 4.8 之间水平的模型，以极小激活规模进入了前沿 Agent 模型竞争区间，用约 1/12～1/60 的 token 成本进入前沿 Age…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FuckAnthropic%3A+%E5%81%9A%E4%BA%86%E5%AF%B9%E6%AF%94%E5%88%86%E6%9E%90%EF%BC%8C%E7%BB%BC%E5%90%88%E7%9C%8B%EF%BC%8CDeepSeek+V4+Flash-0731+%E5%A4%A7%E8%87%B4%E6%98%AF%E4%B8%80%E4%B8%AA+Opus+4.7+-+4.8+%E4%B9%8B%E9%97%B4%E6%B0%B4%E5%B9%B3%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%BB%A5%E6%9E%81%E5%B0%8F%E6%BF%80%E6%B4%BB%E8%A7%84%E6%A8%A1%E8%BF%9B%E5%85%A5%E4%BA%86%E5%89%8D%E6%B2%BF+Agent+%E6%A8%A1%E5%9E%8B%E7%AB%9E%E4%BA%89%E5%8C%BA%E9%97%B4%EF%BC%8C%E7%94%A8%E7%BA%A6+1%2F12%EF%BD%9E1%2F60+%E7%9A%84+token+%E6%88%90%E6%9C%AC%E8%BF%9B%E5%85%A5%E5%89%8D%E6%B2%BF+Age%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [分析](分析.md), [成本](成本.md), [模型](模型.md), [水平](水平.md), [竞争](竞争.md), [规模](规模.md)
+___
+##### 2026-07-31 10:32:56 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 人工智能公司Anthropic星期四承认，其人工智能（AI）模型在原本应与现实世界系统隔离的测试过程中，未经授权进入三家外部机构的系统，再次引发外界对先进AI模型安全风险的关注。 https://t.co/a4TsOmXcjg
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E6%98%9F%E6%9C%9F%E5%9B%9B%E6%89%BF%E8%AE%A4%EF%BC%8C%E5%85%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%A8%A1%E5%9E%8B%E5%9C%A8%E5%8E%9F%E6%9C%AC%E5%BA%94%E4%B8%8E%E7%8E%B0%E5%AE%9E%E4%B8%96%E7%95%8C%E7%B3%BB%E7%BB%9F%E9%9A%94%E7%A6%BB%E7%9A%84%E6%B5%8B%E8%AF%95%E8%BF%87%E7%A8%8B%E4%B8%AD%EF%BC%8C%E6%9C%AA%E7%BB%8F%E6%8E%88%E6%9D%83%E8%BF%9B%E5%85%A5%E4%B8%89%E5%AE%B6%E5%A4%96%E9%83%A8%E6%9C%BA%E6%9E%84%E7%9A%84%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%86%8D%E6%AC%A1%E5%BC%95%E5%8F%91%E5%A4%96%E7%95%8C%E5%AF%B9%E5%85%88%E8%BF%9BAI%E6%A8%A1%E5%9E%8B%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%E7%9A%84%E5%85%B3%E6%B3%A8%E3%80%82+https%3A%2F%2Ft.co%2Fa4TsOmXcjg)
+##### Other Words/Names of Interest in the Above Tweet
+[人工智能](人工智能.md), [先进](先进.md), [关注](关注.md), [引发](引发.md), [授权](授权.md), [机构](机构.md), [模型](模型.md), [系统](系统.md), [隔离](隔离.md), [风险](风险.md)
+___
+##### 2026-07-31 03:28:35 UTC ~ FinGraph财经图集
+> RT @fingraph66: 亚马逊第二财季营收同比增长20%至2006亿美元，超出市场预期的1970亿美元，其核心增长引擎亚马逊网络服务(AWS)的营收增速更是达到37%，录得422亿美元，同样高于406亿美元的预期。净利润则在对人工智能公司Anthropic的投资收益提振…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fingraph66%3A+%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%AC%AC%E4%BA%8C%E8%B4%A2%E5%AD%A3%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF20%25%E8%87%B32006%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E8%B6%85%E5%87%BA%E5%B8%82%E5%9C%BA%E9%A2%84%E6%9C%9F%E7%9A%841970%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%85%B6%E6%A0%B8%E5%BF%83%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%28AWS%29%E7%9A%84%E8%90%A5%E6%94%B6%E5%A2%9E%E9%80%9F%E6%9B%B4%E6%98%AF%E8%BE%BE%E5%88%B037%25%EF%BC%8C%E5%BD%95%E5%BE%97422%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%90%8C%E6%A0%B7%E9%AB%98%E4%BA%8E406%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E9%A2%84%E6%9C%9F%E3%80%82%E5%87%80%E5%88%A9%E6%B6%A6%E5%88%99%E5%9C%A8%E5%AF%B9%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8Anthropic%E7%9A%84%E6%8A%95%E8%B5%84%E6%94%B6%E7%9B%8A%E6%8F%90%E6%8C%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[亚马逊](亚马逊.md), [人工智能](人工智能.md), [净利润](净利润.md), [利润](利润.md), [增长](增长.md), [引擎](引擎.md), [投资](投资.md), [提振](提振.md), [收益](收益.md), [核心](核心.md), [营收](营收.md), [预期](预期.md)
+___
+##### 2026-07-30 03:58:11 UTC ~ 思维怪怪
+> RT @0xLogicrw: Kimi K3 发布后，市场开始下调 Anthropic 的上市估值预期。Stock Analysis 基于未上市股权交易平台 Hiive 的数据估算，Anthropic 当前隐含估值约为 8386 亿美元。这比公司 5 月融资时的 9650…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%400xLogicrw%3A+Kimi+K3+%E5%8F%91%E5%B8%83%E5%90%8E%EF%BC%8C%E5%B8%82%E5%9C%BA%E5%BC%80%E5%A7%8B%E4%B8%8B%E8%B0%83+Anthropic+%E7%9A%84%E4%B8%8A%E5%B8%82%E4%BC%B0%E5%80%BC%E9%A2%84%E6%9C%9F%E3%80%82Stock+Analysis+%E5%9F%BA%E4%BA%8E%E6%9C%AA%E4%B8%8A%E5%B8%82%E8%82%A1%E6%9D%83%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0+Hiive+%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BC%B0%E7%AE%97%EF%BC%8CAnthropic+%E5%BD%93%E5%89%8D%E9%9A%90%E5%90%AB%E4%BC%B0%E5%80%BC%E7%BA%A6%E4%B8%BA+8386+%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E8%BF%99%E6%AF%94%E5%85%AC%E5%8F%B8+5+%E6%9C%88%E8%9E%8D%E8%B5%84%E6%97%B6%E7%9A%84+9650%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [交易](交易.md), [估值](估值.md), [发布](发布.md), [平台](平台.md), [数据](数据.md), [融资](融资.md), [预期](预期.md)
+___
+##### 2026-07-30 03:02:11 UTC ~ 華爾街電視 Wall St TV
+> RT @WallStTV: Kimi K3发布后，一场AI路线之争突然席卷硅谷。黄仁勋公开力挺开放权重，扎克伯格警告超级智能不能被少数机构垄断；Anthropic首席执行官阿莫迪则点名中国，主张继续封锁高端芯片、打击走私和工业化模型蒸馏。这场争论背后是三场战争：谁控制未来的智能…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40WallStTV%3A+Kimi+K3%E5%8F%91%E5%B8%83%E5%90%8E%EF%BC%8C%E4%B8%80%E5%9C%BAAI%E8%B7%AF%E7%BA%BF%E4%B9%8B%E4%BA%89%E7%AA%81%E7%84%B6%E5%B8%AD%E5%8D%B7%E7%A1%85%E8%B0%B7%E3%80%82%E9%BB%84%E4%BB%81%E5%8B%8B%E5%85%AC%E5%BC%80%E5%8A%9B%E6%8C%BA%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%EF%BC%8C%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E8%AD%A6%E5%91%8A%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E8%A2%AB%E5%B0%91%E6%95%B0%E6%9C%BA%E6%9E%84%E5%9E%84%E6%96%AD%EF%BC%9BAnthropic%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%98%BF%E8%8E%AB%E8%BF%AA%E5%88%99%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD%EF%BC%8C%E4%B8%BB%E5%BC%A0%E7%BB%A7%E7%BB%AD%E5%B0%81%E9%94%81%E9%AB%98%E7%AB%AF%E8%8A%AF%E7%89%87%E3%80%81%E6%89%93%E5%87%BB%E8%B5%B0%E7%A7%81%E5%92%8C%E5%B7%A5%E4%B8%9A%E5%8C%96%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E3%80%82%E8%BF%99%E5%9C%BA%E4%BA%89%E8%AE%BA%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%89%E5%9C%BA%E6%88%98%E4%BA%89%EF%BC%9A%E8%B0%81%E6%8E%A7%E5%88%B6%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%99%BA%E8%83%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [发布](发布.md), [垄断](垄断.md), [封锁](封锁.md), [打击](打击.md), [执行](执行.md), [控制](控制.md), [机构](机构.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [芯片](芯片.md), [蒸馏](蒸馏.md), [走私](走私.md), [首席执行官](首席执行官.md), [黄仁勋](黄仁勋.md)
+___
+##### 2026-07-29 05:14:57 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 啊这？OpenAI、Anthropic、谷歌等公司的 1178 名员工，发布联名声明，呼吁美国政府牵头开展国际行动，让各国和各 AI 公司，能够同步放慢研发进度。他们认为，过快的 AI 发展，最终可能会远快于社会的适应速度，带来不可控。不过联名成…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E5%95%8A%E8%BF%99%EF%BC%9FOpenAI%E3%80%81Anthropic%E3%80%81%E8%B0%B7%E6%AD%8C%E7%AD%89%E5%85%AC%E5%8F%B8%E7%9A%84+1178+%E5%90%8D%E5%91%98%E5%B7%A5%EF%BC%8C%E5%8F%91%E5%B8%83%E8%81%94%E5%90%8D%E5%A3%B0%E6%98%8E%EF%BC%8C%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%89%B5%E5%A4%B4%E5%BC%80%E5%B1%95%E5%9B%BD%E9%99%85%E8%A1%8C%E5%8A%A8%EF%BC%8C%E8%AE%A9%E5%90%84%E5%9B%BD%E5%92%8C%E5%90%84+AI+%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%83%BD%E5%A4%9F%E5%90%8C%E6%AD%A5%E6%94%BE%E6%85%A2%E7%A0%94%E5%8F%91%E8%BF%9B%E5%BA%A6%E3%80%82%E4%BB%96%E4%BB%AC%E8%AE%A4%E4%B8%BA%EF%BC%8C%E8%BF%87%E5%BF%AB%E7%9A%84+AI+%E5%8F%91%E5%B1%95%EF%BC%8C%E6%9C%80%E7%BB%88%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%BF%9C%E5%BF%AB%E4%BA%8E%E7%A4%BE%E4%BC%9A%E7%9A%84%E9%80%82%E5%BA%94%E9%80%9F%E5%BA%A6%EF%BC%8C%E5%B8%A6%E6%9D%A5%E4%B8%8D%E5%8F%AF%E6%8E%A7%E3%80%82%E4%B8%8D%E8%BF%87%E8%81%94%E5%90%8D%E6%88%90%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [发布](发布.md), [呼吁](呼吁.md), [牵头](牵头.md), [研发](研发.md), [美国](美国.md), [谷歌](谷歌.md), [速度](速度.md)
+___
+##### 2026-07-24 20:20:47 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 黄仁勋说：“如果一切最后都集中在单一模型上，形成单一攻击点和单一故障来源，我认为世界将变得脆弱得多。”#南洋商报 #AI #China #USA #KimiK3 #OpenAI #Anthropichttps://t.co/pxgF1TC…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%B4%EF%BC%9A%E2%80%9C%E5%A6%82%E6%9E%9C%E4%B8%80%E5%88%87%E6%9C%80%E5%90%8E%E9%83%BD%E9%9B%86%E4%B8%AD%E5%9C%A8%E5%8D%95%E4%B8%80%E6%A8%A1%E5%9E%8B%E4%B8%8A%EF%BC%8C%E5%BD%A2%E6%88%90%E5%8D%95%E4%B8%80%E6%94%BB%E5%87%BB%E7%82%B9%E5%92%8C%E5%8D%95%E4%B8%80%E6%95%85%E9%9A%9C%E6%9D%A5%E6%BA%90%EF%BC%8C%E6%88%91%E8%AE%A4%E4%B8%BA%E4%B8%96%E7%95%8C%E5%B0%86%E5%8F%98%E5%BE%97%E8%84%86%E5%BC%B1%E5%BE%97%E5%A4%9A%E3%80%82%E2%80%9D%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23AI+%23China+%23USA+%23KimiK3+%23OpenAI+%23Anthropichttps%3A%2F%2Ft.co%2FpxgF1TC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [OpenAI](OpenAI.md), [故障](故障.md), [模型](模型.md), [脆弱](脆弱.md), [黄仁勋](黄仁勋.md)
+___
+##### 2026-07-24 20:19:09 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 包括Anthropic的Claude和OpenAI的ChatGPT在内的美国企业，投入了数千亿美元推动人工智能能力的前沿发展，而中国则走上了一条截然不同的发展道路。#南洋商报 #AI #China #MoonshotAI #KimiK3 h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%8C%85%E6%8B%ACAnthropic%E7%9A%84Claude%E5%92%8COpenAI%E7%9A%84ChatGPT%E5%9C%A8%E5%86%85%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%EF%BC%8C%E6%8A%95%E5%85%A5%E4%BA%86%E6%95%B0%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8E%A8%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%83%BD%E5%8A%9B%E7%9A%84%E5%89%8D%E6%B2%BF%E5%8F%91%E5%B1%95%EF%BC%8C%E8%80%8C%E4%B8%AD%E5%9B%BD%E5%88%99%E8%B5%B0%E4%B8%8A%E4%BA%86%E4%B8%80%E6%9D%A1%E6%88%AA%E7%84%B6%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8F%91%E5%B1%95%E9%81%93%E8%B7%AF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23AI+%23China+%23MoonshotAI+%23KimiK3+h%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [Kimi](Kimi.md), [OpenAI](OpenAI.md), [人工智能](人工智能.md), [包括](包括.md), [推动](推动.md), [美国](美国.md)
+___
+##### 2026-07-22 18:20:59 UTC ~ 外汇交易员
+> RT @fxtrader: AMD与Anthropic签署重大芯片与投资协议。AMD将向Anthropic投资50亿美元，作为芯片交易的一部分。而Anthropic将于2027年上半年开始购买多达2吉瓦的AMD 最新一代芯片（名为Instinct MI450）。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+AMD%E4%B8%8EAnthropic%E7%AD%BE%E7%BD%B2%E9%87%8D%E5%A4%A7%E8%8A%AF%E7%89%87%E4%B8%8E%E6%8A%95%E8%B5%84%E5%8D%8F%E8%AE%AE%E3%80%82AMD%E5%B0%86%E5%90%91Anthropic%E6%8A%95%E8%B5%8450%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BD%9C%E4%B8%BA%E8%8A%AF%E7%89%87%E4%BA%A4%E6%98%93%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%E3%80%82%E8%80%8CAnthropic%E5%B0%86%E4%BA%8E2027%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%BC%80%E5%A7%8B%E8%B4%AD%E4%B9%B0%E5%A4%9A%E8%BE%BE2%E5%90%89%E7%93%A6%E7%9A%84AMD+%E6%9C%80%E6%96%B0%E4%B8%80%E4%BB%A3%E8%8A%AF%E7%89%87%EF%BC%88%E5%90%8D%E4%B8%BAInstinct+MI450%EF%BC%89%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [交易](交易.md), [协议](协议.md), [投资](投资.md), [签署](签署.md), [芯片](芯片.md), [购买](购买.md)
+___
+##### 2026-07-21 09:40:57 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 硅谷和华盛顿正在争论一个关乎数以十亿美元计利益的问题：是否应该允许美国公司使用中国的AI模型？OpenAI和Anthropic的高管正就低成本AI（尤其是中国开发出来的强大新模型）的兴起发出警告。https://t.co/OWzNHoXl5b
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%A1%85%E8%B0%B7%E5%92%8C%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%AD%A3%E5%9C%A8%E4%BA%89%E8%AE%BA%E4%B8%80%E4%B8%AA%E5%85%B3%E4%B9%8E%E6%95%B0%E4%BB%A5%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%A1%E5%88%A9%E7%9B%8A%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%9A%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E5%85%81%E8%AE%B8%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%9A%84AI%E6%A8%A1%E5%9E%8B%EF%BC%9FOpenAI%E5%92%8CAnthropic%E7%9A%84%E9%AB%98%E7%AE%A1%E6%AD%A3%E5%B0%B1%E4%BD%8E%E6%88%90%E6%9C%ACAI%EF%BC%88%E5%B0%A4%E5%85%B6%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%8F%91%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%BA%E5%A4%A7%E6%96%B0%E6%A8%A1%E5%9E%8B%EF%BC%89%E7%9A%84%E5%85%B4%E8%B5%B7%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%E3%80%82https%3A%2F%2Ft.co%2FOWzNHoXl5b)
+##### Other Words/Names of Interest in the Above Tweet
+[OpenAI](OpenAI.md), [允许](允许.md), [兴起](兴起.md), [开发](开发.md), [成本](成本.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [美国](美国.md)
+___
 ##### 2026-07-19 02:19:46 UTC ~ 链研社｜AI First🔶💧
 > RT @lianyanshe: DeepSeek 证明了便宜也能有高毛利GLM 证明了中国模型能赚钱KIMI 证明了中国模型也能卖高价美国云产商的资本开支有大部分来自 Anthropic 和 OpenAI 两家的订单。- 最早是Anthropic和 OpenAI 两…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lianyanshe%3A+DeepSeek+%E8%AF%81%E6%98%8E%E4%BA%86%E4%BE%BF%E5%AE%9C%E4%B9%9F%E8%83%BD%E6%9C%89%E9%AB%98%E6%AF%9B%E5%88%A9GLM+%E8%AF%81%E6%98%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E8%83%BD%E8%B5%9A%E9%92%B1KIMI+%E8%AF%81%E6%98%8E%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%A8%A1%E5%9E%8B%E4%B9%9F%E8%83%BD%E5%8D%96%E9%AB%98%E4%BB%B7%E7%BE%8E%E5%9B%BD%E4%BA%91%E4%BA%A7%E5%95%86%E7%9A%84%E8%B5%84%E6%9C%AC%E5%BC%80%E6%94%AF%E6%9C%89%E5%A4%A7%E9%83%A8%E5%88%86%E6%9D%A5%E8%87%AA+Anthropic+%E5%92%8C+OpenAI+%E4%B8%A4%E5%AE%B6%E7%9A%84%E8%AE%A2%E5%8D%95%E3%80%82-+%E6%9C%80%E6%97%A9%E6%98%AFAnthropic%E5%92%8C+OpenAI+%E4%B8%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [GLM](GLM.md), [OpenAI](OpenAI.md), [来自](来自.md), [模型](模型.md), [美国](美国.md), [订单](订单.md), [赚钱](赚钱.md)
+[DeepSeek](DeepSeek.md), [GLM](GLM.md), [OpenAI](OpenAI.md), [来自](来自.md), [模型](模型.md), [美国](美国.md), [订单](订单.md), [资本开支](资本开支.md), [赚钱](赚钱.md)
 ___
 ##### 2026-07-18 00:02:53 UTC ~ GeLun Ding
 > RT @gelunding: Kimi发布K3模型，刚刚引发了全球股市震荡。周四，美国几乎所有AI概念股集体暴跌，周五，亚洲AI相关股票也遭到大规模抛售。Moonshot的K3让投资者开始质疑两件事：第一，美国前沿AI实验室如OpenAI和Anthropic凭什么能支撑1万…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40gelunding%3A+Kimi%E5%8F%91%E5%B8%83K3%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%88%9A%E5%88%9A%E5%BC%95%E5%8F%91%E4%BA%86%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1%E3%80%82%E5%91%A8%E5%9B%9B%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89AI%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%EF%BC%8C%E5%91%A8%E4%BA%94%EF%BC%8C%E4%BA%9A%E6%B4%B2AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E4%B9%9F%E9%81%AD%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%9B%E5%94%AE%E3%80%82Moonshot%E7%9A%84K3%E8%AE%A9%E6%8A%95%E8%B5%84%E8%80%85%E5%BC%80%E5%A7%8B%E8%B4%A8%E7%96%91%E4%B8%A4%E4%BB%B6%E4%BA%8B%EF%BC%9A%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%B2%BFAI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A6%82OpenAI%E5%92%8CAnthropic%E5%87%AD%E4%BB%80%E4%B9%88%E8%83%BD%E6%94%AF%E6%92%911%E4%B8%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Kimi](Kimi.md), [OpenAI](OpenAI.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [投资者](投资者.md), [抛售](抛售.md), [暴跌](暴跌.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [震荡](震荡.md)
+[Kimi](Kimi.md), [OpenAI](OpenAI.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
 ___
 ##### 2026-07-17 18:55:01 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能（AI）初创公司月之暗面发布新一代大模型Kimi K3，是全球目前规模最大的开源模型，据称性能已接近美国AI公司Anthropic的前沿模型Fable。 https://t.co/UHgPqoApWB https://t.co/4jfvR…
@@ -28,7 +105,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Kimi](Kimi.md), [人工智能](人工智能.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [模型](模型.md), [美国](美国.md), [规模](规模.md)
 ___
-##### 2026-07-17 10:11:08 UTC ~ Macro_Lin｜市场观察
+##### 2026-07-17 10:11:08 UTC ~ Macro_Lin
 > RT @LinQingV: 如果Kimi-K3的表现真的如这个排行榜所示，那就是在继续证明一件事情：模型训练侧没什么护城河，各frontier AI labs的竞争只会白热化，单个公司维持不了持续碾压的优势。那OAI跟Anthropic的估值故事未来会怎么样来叙述？
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LinQingV%3A+%E5%A6%82%E6%9E%9CKimi-K3%E7%9A%84%E8%A1%A8%E7%8E%B0%E7%9C%9F%E7%9A%84%E5%A6%82%E8%BF%99%E4%B8%AA%E6%8E%92%E8%A1%8C%E6%A6%9C%E6%89%80%E7%A4%BA%EF%BC%8C%E9%82%A3%E5%B0%B1%E6%98%AF%E5%9C%A8%E7%BB%A7%E7%BB%AD%E8%AF%81%E6%98%8E%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%83%85%EF%BC%9A%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83%E4%BE%A7%E6%B2%A1%E4%BB%80%E4%B9%88%E6%8A%A4%E5%9F%8E%E6%B2%B3%EF%BC%8C%E5%90%84frontier+AI+labs%E7%9A%84%E7%AB%9E%E4%BA%89%E5%8F%AA%E4%BC%9A%E7%99%BD%E7%83%AD%E5%8C%96%EF%BC%8C%E5%8D%95%E4%B8%AA%E5%85%AC%E5%8F%B8%E7%BB%B4%E6%8C%81%E4%B8%8D%E4%BA%86%E6%8C%81%E7%BB%AD%E7%A2%BE%E5%8E%8B%E7%9A%84%E4%BC%98%E5%8A%BF%E3%80%82%E9%82%A3OAI%E8%B7%9FAnthropic%E7%9A%84%E4%BC%B0%E5%80%BC%E6%95%85%E4%BA%8B%E6%9C%AA%E6%9D%A5%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7%E6%9D%A5%E5%8F%99%E8%BF%B0%EF%BC%9F)
@@ -129,7 +206,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Cerebras%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E9%80%BE%E4%B8%80%E5%80%8D%E3%80%82%E8%BF%99%E4%B8%BA%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85%E7%9A%84AI%E4%BC%81%E4%B8%9AIPO%E5%A4%A7%E5%B9%B4%E6%8B%89%E5%BC%80%E4%BA%86%E5%BA%8F%E5%B9%95%E3%80%82%E5%B8%82%E5%9C%BA%E5%AF%B9Cerebras%E8%82%A1%E7%A5%A8%E7%9A%84%E8%BF%BD%E6%8D%A7%EF%BC%8C%E6%8A%98%E5%B0%84%E5%87%BA%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9AI%E9%A2%86%E5%9F%9F%E7%9A%84%E7%8B%82%E7%83%AD%E3%80%82OpenAI%E5%92%8CAnthropic%E6%AD%A3%E8%80%83%E8%99%91%E5%9C%A8%E4%BB%8A%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%BF%9B%E8%A1%8CIPO%E3%80%82SpaceX%E8%AE%A1%E5%88%92%E4%BA%8E6%E6%9C%88%E6%8C%82%E7%89%8C%E4%B8%8A%E5%B8%82%E3%80%82ht%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [备受](备受.md), [投资](投资.md), [投资者](投资者.md), [考虑](考虑.md), [计划](计划.md), [进行](进行.md), [追捧](追捧.md), [逾](逾.md), [领域](领域.md), [飙升](飙升.md)
+[OpenAI](OpenAI.md), [备受](备受.md), [投资](投资.md), [考虑](考虑.md), [计划](计划.md), [进行](进行.md), [追捧](追捧.md), [逾](逾.md), [领域](领域.md), [飙升](飙升.md)
 ___
 ##### 2026-05-08 04:25:52 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【馬斯克與Anthropic聯手對OpenAI形成包圍圈】由馬斯克領導的SpaceX將把數據中心「Colossus 1」整體出租給Anthropic。馬斯克和Anthropic的CEO達里奧·阿莫代伊都與OpenAI的CEO薩姆·奧爾特曼…
@@ -269,7 +346,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%9C%AC%E5%91%A8%E7%9A%84%E7%A7%91%E6%8A%80%E8%82%A1%E8%B7%8C%E5%8A%BF%E5%B7%B2%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%B8%89%E5%A4%A9%EF%BC%8C%E5%85%B6%E6%A0%B9%E6%BA%90%E5%9C%A8%E4%BA%8E%E5%87%A0%E4%B8%AA%E6%9C%88%E5%89%8D%E5%87%BA%E7%8E%B0%E7%9A%84%E4%B8%80%E7%B1%BB%E6%96%B0%E5%9E%8BAI%E6%99%BA%E8%83%BD%E4%BD%93%E3%80%82%E8%BF%99%E4%BA%9B%E2%80%9C%E9%95%BF%E6%97%B6%E8%BF%90%E8%A1%8C%E2%80%9D%E7%9A%84%E6%99%BA%E8%83%BD%E4%BD%93%E8%83%BD%E5%8A%9B%E4%B9%9F%E4%BB%8D%E5%9C%A8%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%BC%BA%E3%80%82%E5%91%A8%E5%9B%9B%EF%BC%8CAnthropic%E5%8F%91%E5%B8%83%E4%BA%86%E5%BC%95%E5%8F%91%E6%AD%A4%E6%AC%A1%E6%8A%9B%E5%94%AE%E7%9A%84%E6%8A%80%E6%9C%AF%E7%9A%84%E5%8D%87%E7%BA%A7%E7%89%88%E3%80%82%E4%BC%81%E4%B8%9A%E9%9C%80%E8%A6%81%E4%BA%88%E4%BB%A5%E5%85%B3%E6%B3%A8%E3%80%82https%3A%2F%2Ft.co%2FH1M2qWBQrB)
 ##### Other Words/Names of Interest in the Above Tweet
-[关注](关注.md), [升级](升级.md), [发布](发布.md), [引发](引发.md), [技术](技术.md), [抛售](抛售.md), [根源](根源.md), [科技](科技.md)
+[关注](关注.md), [升级](升级.md), [发布](发布.md), [引发](引发.md), [技术](技术.md), [抛售](抛售.md), [根源](根源.md), [科技](科技.md), [跌](跌.md)
 ___
 ##### 2026-02-06 08:00:11 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: OpenAI周四发布新的人工智能平台Frontier，该平台可以帮助公司构建、部署和监督AI智能体。发布Frontier的一个目的是帮助OpenAI吸引更多企业客户，该公司正在与Anthropic、谷歌和其他对手争夺企业客户。https://t.…
@@ -297,7 +374,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E5%BF%A7%E5%BF%83AI%E5%86%B2%E5%87%BB%E8%BD%AF%E4%BB%B6%E5%92%8C%E5%88%86%E6%9E%90%E5%85%AC%E5%8F%B8%EF%BC%8C%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E3%80%91Anthropic%E6%8E%A8%E5%87%BA%E7%9A%84%E6%96%B0%E6%B3%95%E5%BE%8B%E5%B7%A5%E5%85%B7%E5%AF%BC%E8%87%B4%E5%8C%85%E6%8B%AC%E6%A0%87%E6%99%AE%E5%85%A8%E7%90%83%E5%92%8CIntuit%E5%9C%A8%E5%86%85%E7%9A%84%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C%E3%80%82https%3A%2F%2Ft.co%2FUykq42SXI5+https%3A%2F%2Ft.co%2F9fLVUaJBw9)
 ##### Other Words/Names of Interest in the Above Tweet
-[下跌](下跌.md), [冲击](冲击.md), [分析](分析.md), [包括](包括.md), [导致](导致.md), [工具](工具.md), [推出](推出.md), [标普](标普.md)
+[冲击](冲击.md), [分析](分析.md), [包括](包括.md), [导致](导致.md), [工具](工具.md), [推出](推出.md), [标普](标普.md), [跌](跌.md)
 ___
 ##### 2026-02-04 04:49:55 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 引爆这轮抛售的导火索是Anthropic推出的名为“Claude Cowork”的新工具，该工具针对企业内部法务和文档处理引入了强大的自动化功能。#南洋商报 #Anthropic #软件 #nysehttps://t.co/Ydmw6uJ…

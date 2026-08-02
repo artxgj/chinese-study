@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2026-07-22 04:31:22 UTC ~ 余温
+> RT @gkxspace: Kimi K3 和 Qwen3.8 前后发新模型，都说自己仅落后 Fable5，K3 套餐现在抢都抢不到，千问还是随便买，我干脆买来测一测到底有没有那么强！！！结果让我很震惊，某些情况下国产模型做的比 Fable5 还好，并且 Qwen3.8 同…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40gkxspace%3A+Kimi+K3+%E5%92%8C+Qwen3.8+%E5%89%8D%E5%90%8E%E5%8F%91%E6%96%B0%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%83%BD%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BB%85%E8%90%BD%E5%90%8E+Fable5%EF%BC%8CK3+%E5%A5%97%E9%A4%90%E7%8E%B0%E5%9C%A8%E6%8A%A2%E9%83%BD%E6%8A%A2%E4%B8%8D%E5%88%B0%EF%BC%8C%E5%8D%83%E9%97%AE%E8%BF%98%E6%98%AF%E9%9A%8F%E4%BE%BF%E4%B9%B0%EF%BC%8C%E6%88%91%E5%B9%B2%E8%84%86%E4%B9%B0%E6%9D%A5%E6%B5%8B%E4%B8%80%E6%B5%8B%E5%88%B0%E5%BA%95%E6%9C%89%E6%B2%A1%E6%9C%89%E9%82%A3%E4%B9%88%E5%BC%BA%EF%BC%81%EF%BC%81%EF%BC%81%E7%BB%93%E6%9E%9C%E8%AE%A9%E6%88%91%E5%BE%88%E9%9C%87%E6%83%8A%EF%BC%8C%E6%9F%90%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E5%9B%BD%E4%BA%A7%E6%A8%A1%E5%9E%8B%E5%81%9A%E7%9A%84%E6%AF%94+Fable5+%E8%BF%98%E5%A5%BD%EF%BC%8C%E5%B9%B6%E4%B8%94+Qwen3.8+%E5%90%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Kimi](Kimi.md), [千问](千问.md), [情况](情况.md), [模型](模型.md)
+___
 ##### 2026-07-18 05:29:02 UTC ~ 香港老雷
 > RT @btcmos: 中国主流AI实验室/公司估值排名与未来预期排名：排名第一的依然是DeepSeek排名第二的是Moonshot排名第三的是阿里Qwen当前估值：基于技术实力、团队、生态，商业化潜力、市场空间等综合因素的内在价值判断。比如：智谱AI的GLM-…
 
@@ -108,7 +115,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B8%AF%E8%82%A1%E5%A4%A7%E6%B6%A8%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%E5%B0%86%E5%90%91%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%86%E5%9F%9F%E6%8A%95%E8%B5%84%E9%80%BE530%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B9%B6%E5%8F%91%E5%B8%83%E4%BA%86%E6%96%B0%E6%A8%A1%E5%9E%8BQwen3-Max%E3%80%82%E6%AD%A4%E5%A4%96%EF%BC%8C%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E5%87%AF%E8%A5%BF%C2%B7%E4%BC%8D%E5%BE%B7%E6%97%97%E4%B8%8B%E5%9F%BA%E9%87%91%E6%AD%A3%E9%87%8D%E6%96%B0%E5%BB%BA%E4%BB%93%E8%BF%99%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E3%80%82+https%3A%2F%2Ft.co%2FBiTyMo9F82)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [发布](发布.md), [基金](基金.md), [投资](投资.md), [模型](模型.md), [科技](科技.md), [逾](逾.md), [金](金.md), [阿里巴巴](阿里巴巴.md), [领域](领域.md)
+[人工智能](人工智能.md), [发布](发布.md), [基金](基金.md), [投资](投资.md), [模型](模型.md), [涨](涨.md), [科技](科技.md), [逾](逾.md), [金](金.md), [阿里巴巴](阿里巴巴.md), [领域](领域.md)
 ___
 ##### 2025-07-26 19:17:31 UTC ~ karminski-牙医
 > RT @karminski3: Qwen 刚刚又发布了Qwen3-MT！——一个翻译大模型这个模型也是基于Qwen3 后训练的，主打多语言翻译，支持92种语言。并且提供了术语干预、领域提示和翻译记忆等高级翻译功能。从公开的数据来看应该是MoE模型，那可能就是用 Qwen3-…

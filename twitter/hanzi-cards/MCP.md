@@ -217,6 +217,13 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [工具](工具.md), [执行](执行.md), [按照](按照.md), [提供](提供.md), [搜索](搜索.md), [模型](模型.md)
 ___
+##### 2025-04-15 08:18:09 UTC ~ SimbaLee
+> RT @lipeng0820: 💡ffmpeg 最棒的GUI 外壳 —— ff·Works上一篇推文提到了用Warp里的AI操作视频编解码工具ffmpeg，有朋友问有没有MCP方案，真有想法👍估计应该有大神在开发中了，耐心等等！在此之前，如果还是习惯带用户界面的转码工具…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lipeng0820%3A+%F0%9F%92%A1ffmpeg+%E6%9C%80%E6%A3%92%E7%9A%84GUI+%E5%A4%96%E5%A3%B3+%E2%80%94%E2%80%94+ff%C2%B7Works%E4%B8%8A%E4%B8%80%E7%AF%87%E6%8E%A8%E6%96%87%E6%8F%90%E5%88%B0%E4%BA%86%E7%94%A8Warp%E9%87%8C%E7%9A%84AI%E6%93%8D%E4%BD%9C%E8%A7%86%E9%A2%91%E7%BC%96%E8%A7%A3%E7%A0%81%E5%B7%A5%E5%85%B7ffmpeg%EF%BC%8C%E6%9C%89%E6%9C%8B%E5%8F%8B%E9%97%AE%E6%9C%89%E6%B2%A1%E6%9C%89MCP%E6%96%B9%E6%A1%88%EF%BC%8C%E7%9C%9F%E6%9C%89%E6%83%B3%E6%B3%95%F0%9F%91%8D%E4%BC%B0%E8%AE%A1%E5%BA%94%E8%AF%A5%E6%9C%89%E5%A4%A7%E7%A5%9E%E5%9C%A8%E5%BC%80%E5%8F%91%E4%B8%AD%E4%BA%86%EF%BC%8C%E8%80%90%E5%BF%83%E7%AD%89%E7%AD%89%EF%BC%81%E5%9C%A8%E6%AD%A4%E4%B9%8B%E5%89%8D%EF%BC%8C%E5%A6%82%E6%9E%9C%E8%BF%98%E6%98%AF%E4%B9%A0%E6%83%AF%E5%B8%A6%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E7%9A%84%E8%BD%AC%E7%A0%81%E5%B7%A5%E5%85%B7%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[工具](工具.md), [开发](开发.md), [操作](操作.md), [方案](方案.md)
+___
 ##### 2025-04-14 05:24:05 UTC ~ AIGCLINK
 > RT @aigclink: MCP生态牛B，基于MCP让穿戴设备通过语音指令执行实际操作！比如，你可以说 "嘿，Omi，创建一个GitHub issue"，它就会自动帮你完成在GitHub上创建 issue操作，解放双手相当于它把你的生活和开发工作流连接起来，你只需要…
 
@@ -299,7 +306,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%BE%88%E6%97%A9%E5%89%8D%EF%BC%8C%E6%88%91%E4%BB%AC%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%88%A9%E7%94%A8+AI+%E5%BF%AB%E9%80%9F%E6%8A%93%E5%8F%96%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E8%BF%9B%E8%A1%8C%E6%8F%90%E9%97%AE%E5%92%8C%E7%90%86%E8%A7%A3%EF%BC%8C%E4%BD%86%E9%A2%87%E4%B8%BA%E7%B9%81%E7%90%90%E4%B8%94%E6%8A%80%E6%9C%AF%E5%B0%8F%E7%99%BD%E9%9A%BE%E4%BB%A5%E4%B8%8A%E6%89%8B%E3%80%82%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%BA%86%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7+sitemcp+%E5%90%8E%EF%BC%8C%E8%BF%99%E4%B8%80%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E5%B0%86%E5%8F%98%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%AE%80%E5%8D%95%E3%80%82%E5%AE%83%E8%83%BD%E4%B8%80%E9%94%AE%E6%8A%93%E5%8F%96%E6%95%B4%E4%B8%AA%E7%BD%91%E7%AB%99%E5%86%85%E5%AE%B9%E5%B9%B6%E5%B0%86%E5%85%B6%E8%BD%AC%E5%8C%96%E4%B8%BA+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%86%8D%E6%90%AD%E9%85%8D+Claude%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [服务器](服务器.md), [进行](进行.md)
+[Claude](Claude.md), [场景](场景.md), [工具](工具.md), [开源](开源.md), [技术](技术.md), [服务器](服务器.md), [进行](进行.md)
 ___
 ##### 2025-04-10 03:43:53 UTC ~ Orange AI
 > RT @oran_ge: Google 宣布推出 Agent2Agent 协议 (A2A)，这是一种开放协议，让 Agents 可以相互协作，而不受底层框架或供应商的限制。A2A 属于对 Anthropic 的模型上下文协议 (MCP) 的一种补充 https://t.…
@@ -444,7 +451,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+Blender+MCP+%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%EF%BC%8C%E4%B8%8D%E6%98%AF%E5%BB%BA%E6%A8%A1%E5%BB%BA%E4%B8%8D%E5%A5%BD%E5%90%97%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E8%B0%83%E7%94%A8+polyhaven+%E7%9A%84+1500+%E4%B8%AA%E8%B5%84%E4%BA%A7%E5%BA%93%E4%BA%86%E7%9B%B4%E6%8E%A5%E4%BB%8E%E8%B5%84%E4%BA%A7%E5%BA%93%E6%8B%89%E7%B4%A0%E6%9D%90%E6%8B%BC%E8%A3%85%EF%BC%8C%E6%AF%94%E5%8E%9F%E6%9D%A5%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%9B%B4%E5%BF%AB%E8%80%8C%E4%B8%94%E6%95%88%E6%9E%9C%E6%9B%B4%E5%A5%BD%E4%BB%85%E7%94%A8%E6%96%87%E5%AD%97%E5%88%9B%E5%BB%BA%E6%B5%B7%E6%BB%A9%E5%9C%BA%E6%99%AF%EF%BC%8CClaude+%E8%87%AA%E5%8A%A8%E6%8B%89%E5%8F%96HDRI%E3%80%81%E7%BA%B9%E7%90%86%E5%92%8C%E6%A8%A1%E5%9E%8Bhttps%3A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [模型](模型.md), [直接](直接.md), [资产](资产.md)
+[Claude](Claude.md), [场景](场景.md), [模型](模型.md), [直接](直接.md), [资产](资产.md)
 ___
 ##### 2025-03-17 15:25:06 UTC ~ 歸藏(guizang.ai)
 > RT @op7418: 我现在的内容搜集和学习路径已经变了想写个 MCP 的教程和介绍直接 Gemini Deep Research 搜索整理成文档然后再用我的提示词变成可视化页面辅助阅读和理解，知识消化速度大幅提升里面的可视化内容还能在写文档的时候当配图 ht…
@@ -500,7 +507,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40GitHub_Daily%3A+%E5%8F%91%E7%8E%B0%E4%B8%80%E4%B8%AA%E9%80%9A%E8%BF%87+MCP+%E5%AE%9E%E7%8E%B0+Claude+%E7%9B%B4%E6%8E%A5%E6%93%8D%E6%8E%A7+Blender+%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9ABlenderMCP%E3%80%82%E5%8F%AA%E9%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%8C%E5%8D%B3%E5%8F%AF%E8%AE%A9+Claude+%E6%8E%A7%E5%88%B6+Blender+%E8%87%AA%E5%8A%A8%E8%BF%9B%E8%A1%8C+3D+%E5%BB%BA%E6%A8%A1%E3%80%81%E5%9C%BA%E6%99%AF%E5%88%9B%E5%BB%BA%E5%92%8C%E6%A8%A1%E5%9E%8B%E6%93%8D%E4%BD%9C%EF%BC%8C%E5%AE%9E%E7%8E%B0+AI%E8%BE%85%E5%8A%A9%E7%9A%843D%E5%86%85%E5%AE%B9%E5%88%9B%E4%BD%9C%E3%80%82%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [实现](实现.md), [开源](开源.md), [控制](控制.md), [操作](操作.md), [模型](模型.md), [直接](直接.md), [进行](进行.md), [项目](项目.md)
+[Claude](Claude.md), [场景](场景.md), [实现](实现.md), [开源](开源.md), [控制](控制.md), [操作](操作.md), [模型](模型.md), [直接](直接.md), [进行](进行.md), [项目](项目.md)
 ___
 ##### 2025-03-05 16:52:36 UTC ~ GitHubDaily
 > RT @GitHub_Daily: 分享一个网站集成了 100+ 主流 MCP 服务的列表：Composio MCP Server。涵盖了人工智能、市场营销、生产力管理、设计创意、数据分析、文件管理等等不同领域。链接：https://t.co/MOlXqtVkC4同…

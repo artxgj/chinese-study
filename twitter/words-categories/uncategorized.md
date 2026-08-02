@@ -88,8 +88,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [反应堆](../hanzi-cards/反应堆.md) | reactor |
 | [考古学家](../hanzi-cards/考古学家.md) | archaeologist |
 | [曲线](../hanzi-cards/曲线.md) | curve |
-| [设计](../hanzi-cards/设计.md) | design |
-| [冬至](../hanzi-cards/冬至.md) | Winter Solstice |
+| [设计](../hanzi-cards/设计.md)/[設計](../hanzi-cards/設計.md) | design |
 | [气球](../hanzi-cards/气球.md) | balloon |
 | [冰山](../hanzi-cards/冰山.md) | iceberg |
 | [水族馆](../hanzi-cards/水族馆.md) | aquarium |
@@ -149,14 +148,10 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [实现](../hanzi-cards/实现.md) | realize; fulfill; carry out; bring about |
 | [肆虐](../hanzi-cards/肆虐.md) | to wreak havoc; to devastate |
 | [版权](../hanzi-cards/版权.md) | copyright |
-| [制裁](../hanzi-cards/制裁.md) | sanctions |
-| [最高法院](../hanzi-cards/最高法院.md) | Supreme Court |
 | [爆炸](../hanzi-cards/爆炸.md) | explosion; explode; detonate |
 | [反弹](../hanzi-cards/反弹.md) | rebound |
 | [躲过](../hanzi-cards/躲过.md) | dodge |
 | [资源](../hanzi-cards/资源.md)/[資源](../hanzi-cards/資源.md) | resource |
-| [众议院](../hanzi-cards/众议院.md) | House of Representatives |
-| [参议院](../hanzi-cards/参议院.md) | Senate |
 | [攀升](../hanzi-cards/攀升.md) | climb |
 | [走私](../hanzi-cards/走私.md) | smuggle |
 | [赌场](../hanzi-cards/赌场.md) | casino |
@@ -250,7 +245,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [充电](../hanzi-cards/充电.md) | charge (a battery) |
 | [樱花](../hanzi-cards/樱花.md)/[櫻花](../hanzi-cards/櫻花.md) | cherry blossom; oriental cherry |
 | [权衡](../hanzi-cards/权衡.md) | weigh (a matter); balance (pros and cons) |
-| [金砖](../hanzi-cards/金砖.md) | BRICS; gold bar (or brick) |
 | [审理](../hanzi-cards/审理.md) | try; hear; adjudicate |
 | [行业](../hanzi-cards/行业.md) | industry |
 | [潜水员](../hanzi-cards/潜水员.md) | diver; frogman |
@@ -628,8 +622,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [邮政](../hanzi-cards/邮政.md) | postal service |
 | [睡蓮](../hanzi-cards/睡蓮.md) | Water Lily |
 | [暮春](../hanzi-cards/暮春.md) | late spring (the third month of the lunar year) |
-| [黃金](../hanzi-cards/黃金.md) | gold; precious (thihg); valuable |
-| [白銀](../hanzi-cards/白銀.md) | silver |
 | [低估](../hanzi-cards/低估.md) | underestimate; underrate |
 | [舒適](../hanzi-cards/舒適.md) | comfortable; cozy; snug |
 | [土崩](../hanzi-cards/土崩.md) | landslide |
@@ -675,7 +667,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [桃之夭夭](../hanzi-cards/桃之夭夭.md) | The peach trees are in full blossom |
 | [皑皑](../hanzi-cards/皑皑.md) | (literary) white as snow; pure white |
 | [杏花](../hanzi-cards/杏花.md) | apricot |
-| [觀賞](../hanzi-cards/觀賞.md) | to look at something with pleasure; ornamental |
+| [观赏](../hanzi-cards/观赏.md)/[觀賞](../hanzi-cards/觀賞.md) | view and admire; enjoy the sight of; (pinyin: guānshǎng) |
 | [粉色](../hanzi-cards/粉色.md) | pink |
 | [觸摸](../hanzi-cards/觸摸.md) | touch; feel |
 | [文脈](../hanzi-cards/文脈.md) | context; unity and coherence in writing |
@@ -721,3 +713,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [震荡](../hanzi-cards/震荡.md) | shake; shock; vibrate; quake; vibe (like vibe coding) |
 | [脆弱](../hanzi-cards/脆弱.md) | fragile; frail; weak |
 | [馳騁](../hanzi-cards/馳騁.md) | gallop |
+| [参考](../hanzi-cards/参考.md) | reference |
+| [推荐](../hanzi-cards/推荐.md)/[推薦](../hanzi-cards/推薦.md) | recommendation; to recommend; (pinyin: tuījiàn) |
+| [窃取](../hanzi-cards/窃取.md)/[竊取](../hanzi-cards/竊取.md) | usurp; steal; grab; misappropriate; (pinyin: qièqǔ) |
+| [营销](../hanzi-cards/营销.md) | (verb) market; marketing |
