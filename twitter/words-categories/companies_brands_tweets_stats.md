@@ -32,13 +32,13 @@
 | [雪佛龙](../hanzi-cards/雪佛龙.md)/[雪佛龍](../hanzi-cards/雪佛龍.md) | Chevron | CVX | 17 |
 | [花旗集团](../hanzi-cards/花旗集团.md) | Citigroup | C | 39 |
 | [可口可乐](../hanzi-cards/可口可乐.md) | Coca-Cola | K | 22 |
-| [长鑫](../hanzi-cards/长鑫.md)/[長鑫](../hanzi-cards/長鑫.md) | CXMT |  "pre-IPO" | 62 |
+| [长鑫](../hanzi-cards/长鑫.md)/[長鑫](../hanzi-cards/長鑫.md) | CXMT |  "688825.SS" | 62 |
 | [第一三共](../hanzi-cards/第一三共.md) | Daiichi Sankyo | DSNKY/DSKYF | 6 |
 | [达能](../hanzi-cards/达能.md) | Danone | DANOY | 6 |
 | [云深处科技](../hanzi-cards/云深处科技.md) | DEEP Robotics | (private) | 1 |
 | [深度求索](../hanzi-cards/深度求索.md)/[DeepSeek](../hanzi-cards/DeepSeek.md) | DeepSeek | (private) | 664 |
 | [电装](../hanzi-cards/电装.md) | Denso | DNZOY | 16 |
-| [鼎泰丰](../hanzi-cards/鼎泰丰.md) | Din Tai Fung | privately-held | 2 |
+| [鼎泰丰](../hanzi-cards/鼎泰丰.md) | Din Tai Fung | (private) | 2 |
 | [迪奥](../hanzi-cards/迪奥.md) | Dior | CHDRY | 10 |
 | [迪士尼](../hanzi-cards/迪士尼.md) | Disney | DIS | 123 |
 | [大疆](../hanzi-cards/大疆.md) | DJI | (private) | 17 |
@@ -116,7 +116,7 @@
 | [彪马](../hanzi-cards/彪马.md) | Puma | PUMSY | 3 |
 | [千问](../hanzi-cards/千问.md)/[千問](../hanzi-cards/千問.md) | Qwen | Alibaba's series of LLMs | 31 |
 | [瑞萨电子](../hanzi-cards/瑞萨电子.md) | Renesas Electronics | RNECY | 11 |
-| [小红书](../hanzi-cards/小红书.md)/[小紅書](../hanzi-cards/小紅書.md) | RedNote | private | 56 |
+| [小红书](../hanzi-cards/小红书.md)/[小紅書](../hanzi-cards/小紅書.md) | RedNote | (private) | 56 |
 | [力拓](../hanzi-cards/力拓.md) | Rio Tinto Group | RIO | 7 |
 | [罗姆](../hanzi-cards/罗姆.md)/[羅姆](../hanzi-cards/羅姆.md) | ROHM | ROHCY/ROHCF | 21 |
 | [三星](../hanzi-cards/三星.md) | Samsung | SSNLF | 323 |
@@ -129,7 +129,7 @@
 | [希音](../hanzi-cards/希音.md) | Shein | (private) | 51 |
 | [资生堂](../hanzi-cards/资生堂.md) | Shiseido | SSDOY | 13 |
 | [西门子](../hanzi-cards/西门子.md)/[西門子](../hanzi-cards/西門子.md) | Siemens | SIEGY | 15 |
-| [希克斯](../hanzi-cards/希克斯.md) | SIIX | Tokyo Stock Exchange | 1 |
+| [希克斯](../hanzi-cards/希克斯.md) | SIIX | 7613.T | 1 |
 | [海力士](../hanzi-cards/海力士.md) | SK Hynix | SKHY | 100 |
 | [中芯国际](../hanzi-cards/中芯国际.md)/[中芯國際](../hanzi-cards/中芯國際.md) | SMIC | 0981.HK | 51 |
 | [软银](../hanzi-cards/软银.md)/[軟銀](../hanzi-cards/軟銀.md) | SoftBank | SFTBF | 138 |
