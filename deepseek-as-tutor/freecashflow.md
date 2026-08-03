@@ -11,15 +11,14 @@
 ---
 ## Definitions of Key Terms | 关键术语含义
 
-| Term (英文)                               | 中文术语     | Meaning (含义)                                                                                                                                                                                                                                          |
-| --------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Free Cash Flow (FCF)                    | 自由现金流    | Cash generated from operations minus Capital Expenditures. The cash left for all investors (debt + equity).   经营现金流减去资本性支出。留给所有投资者（债权人和股东）的剩余现金。                                                                                                      |
-| Working Capital (WC)                    | 营运资本     | Current Assets minus Current Liabilities. Represents short-term liquidity used in day-to-day operations.   流动资产减流动负债。代表日常运营所用的短期流动性。                                                                                                                  |
-| Capital Expenditure (CAPEX)             | 资本性支出    | Funds used to acquire, upgrade, or maintain physical assets (PP&E).   用于购买、升级或维护实物资产（不动产、厂房及设备）的资金。                                                                                                                                                   |
-| Cash Flow (CF)                          | 现金流      | The broad net amount of cash moving in and out of a business (Operating, Investing, and Financing activities).   进出企业的现金净额总和（含经营、投资、筹资活动）。                                                                                                            |
-| Discounted Cash Flow (DCF)              | 折现现金流    | A valuation method that estimates the value of an investment using projected future FCFs discounted back to present value.   一种估值方法，使用预测的未来FCF并折现回现值来估算投资价值。                                                                                          |
-| Weighted Average Cost of Capital (WACC) | 加权平均资本成本 | The minimum required rate of return a company must earn on its existing assets. The average cost of debt and equity financing, weighted by their proportions. Used as the discount rate in DCF.   公司对其现有资产必须获得的最低必要回报率。债务和股权融资按其比例加权的平均成本。在DCF中用作折现率。 |
-
+| <span style="white-space: nowrap;">Term (英文)</span> | 中文术语 | Meaning (含义) |
+| :--- | :--- | :--- |
+| Free Cash Flow (FCF) | 自由现金流 | Cash generated from operations minus Capital Expenditures. The cash left for all investors (debt + equity).<br><br>经营现金流减去资本性支出。留给所有投资者（债权人和股东）的剩余现金。 |
+| Working Capital (WC) | 营运资本 | Current Assets minus Current Liabilities. Represents short-term liquidity used in day-to-day operations.<br><br>流动资产减流动负债。代表日常运营所用的短期流动性。 |
+| Capital Expenditure (CAPEX) | 资本性支出 | Funds used to acquire, upgrade, or maintain physical assets (PP&E).<br><br>用于购买、升级或维护实物资产（不动产、厂房及设备）的资金。 |
+| Cash Flow (CF) | 现金流 | The broad net amount of cash moving in and out of a business (Operating, Investing, and Financing activities).<br><br>进出企业的现金净额总和（含经营、投资、筹资活动）。 |
+| Discounted Cash Flow (DCF) | 折现现金流 | A valuation method that estimates the value of an investment using projected future FCFs discounted back to present value.<br><br>一种估值方法，使用预测的未来FCF并折现回现值来估算投资价值。 |
+| Weighted Average Cost of Capital (WACC) | 加权平均资本成本 | The minimum required rate of return a company must earn on its existing assets. The average cost of debt and equity financing, weighted by their proportions. Used as the discount rate in DCF.<br><br>公司对其现有资产必须获得的最低必要回报率。债务和股权融资按其比例加权的平均成本。在DCF中用作折现率。 |
 ---
 
 ## Relationships with FCF | FCF与这些术语的关系
