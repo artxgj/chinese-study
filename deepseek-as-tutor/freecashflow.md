@@ -62,4 +62,5 @@
 ## Summary Formula | 总结公式链
 
 FCF = (Net Income + Depreciation - ΔWC) - CAPEX
+
 DCF Value = Σ (FCF_t / (1 + WACC)^t)
