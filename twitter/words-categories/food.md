@@ -141,3 +141,5 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [煎](../hanzi-cards/煎.md) | fry; pan-fry |
 | [芝麻](../hanzi-cards/芝麻.md) | sesame |
 | [肥肠](../hanzi-cards/肥肠.md) | pork intestines; (pinyin: féicháng) |
+| [醋](../hanzi-cards/醋.md) | vinegar; (pinyin: cù; poj: chhò)͘ |
+| [酱](../hanzi-cards/酱.md)/[醬](../hanzi-cards/醬.md) | sauce; paste (sesame paste); preserve or jam; (pinyin: jiàng; poj: chiùⁿ) |
