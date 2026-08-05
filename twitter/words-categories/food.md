@@ -15,6 +15,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [糖](../hanzi-cards/糖.md) | sugar; sweets; candy; carbohydrate; (pinyin: táng; poj: thn̂g) |
 | [辣椒](../hanzi-cards/辣椒.md) | hot pepper; chili |
 | [香菜](../hanzi-cards/香菜.md) | coriander; cilantro |
+| [甜](../hanzi-cards/甜.md) | sweet; honeyed; sugary; (pinyin: tián; poj: tiⁿ) |
 | [酸](../hanzi-cards/酸.md) | sour; tart; (chemistry) acid; (pinyin: suān; poj: sng) |
 | [醋](../hanzi-cards/醋.md) | vinegar; (pinyin: cù; poj: chhò)͘ |
 | [酱](../hanzi-cards/酱.md)/[醬](../hanzi-cards/醬.md) | sauce; paste (sesame paste); preserve or jam; (pinyin: jiàng; poj: chiùⁿ) |
@@ -115,6 +116,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [番茄](../hanzi-cards/番茄.md) | tomato |
 | [南瓜](../hanzi-cards/南瓜.md) | pumpkin; cushaw |
 | [苦瓜](../hanzi-cards/苦瓜.md) | bitter melon; bitter gourd |
+| [冬瓜](../hanzi-cards/冬瓜.md) | winter melon |
+| [黄瓜](../hanzi-cards/黄瓜.md)/[黃瓜](../hanzi-cards/黃瓜.md) | cucumber; (pinyin: huángguā; poj: n̂g-koe) |
 | [罗汉果](../hanzi-cards/罗汉果.md) | mangosteen |
 | [榴梿](../hanzi-cards/榴梿.md)/[榴莲](../hanzi-cards/榴莲.md)/[榴蓮](../hanzi-cards/榴蓮.md) | durian |
 | [菠萝蜜](../hanzi-cards/菠萝蜜.md) | jackfruit |
@@ -136,8 +139,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [椰菜](../hanzi-cards/椰菜.md) | cauliflower; broccoli; calabrese |
 | [包菜](../hanzi-cards/包菜.md) | cabbage |
 | [芽菜](../hanzi-cards/芽菜.md) | bean sprouts |
-| [冬瓜](../hanzi-cards/冬瓜.md) | winter melon |
-| [黄瓜](../hanzi-cards/黄瓜.md)/[黃瓜](../hanzi-cards/黃瓜.md) | cucumber; (pinyin: huángguā; poj: n̂g-koe) |
 ## miscellaneous
 |  |  |
 | ----- | :---: |

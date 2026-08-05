@@ -6,6 +6,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 ## 1. Civilization and Culture
 |  |  |
 | ----- | :---: |
+| [三星堆](../hanzi-cards/三星堆.md) | Sānxīngduī, an archeaological site and major Bronze Age culture in Guanghan, Sichuan, China. |
 | [甲骨文](../hanzi-cards/甲骨文.md) | Oracle bones |
 | [儒家](../hanzi-cards/儒家.md) | Confucianists; Confucian school |
 | [马年](../hanzi-cards/马年.md)/[馬年](../hanzi-cards/馬年.md) | Year of the Horse |
