@@ -11,6 +11,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [道琼斯指数](../hanzi-cards/道琼斯指数.md) | Dow Jones Index |
 | [韩国综合股价指数](../hanzi-cards/韩国综合股价指数.md) | Korea Composite Stock Price Index (KOSPI) |
 | [综合指数](../hanzi-cards/综合指数.md) | composite index |
+| [费城半导体指数](../hanzi-cards/费城半导体指数.md)/[費城半導體指數](../hanzi-cards/費城半導體指數.md) | Philadelphia Semiconductor Index |
 ## 2. Investment Vehicles
 |  |  |
 | ----- | :---: |
