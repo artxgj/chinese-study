@@ -51,6 +51,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [谷爱凌](../hanzi-cards/谷爱凌.md) | Gu Ailing |
 | [杨紫琼](../hanzi-cards/杨紫琼.md) | Michelle Yeoh |
 | [邓紫棋](../hanzi-cards/邓紫棋.md) | G.E.M. |
+| [普京](../hanzi-cards/普京.md) | Vladimir Putin |
+| [拉夫罗夫](../hanzi-cards/拉夫罗夫.md) | Sergey Lavrov |
 | [扎哈罗娃](../hanzi-cards/扎哈罗娃.md) | Zakharova (Maria) |
 | [杜特蒂](../hanzi-cards/杜特蒂.md) | Duterte |
 | [沃兹尼克](../hanzi-cards/沃兹尼克.md) | Wozniak (Steve) |

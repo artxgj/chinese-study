@@ -27,6 +27,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [牛郎织女](../hanzi-cards/牛郎织女.md) | The Cowherd and the Weaver Girl (Altair and Vega) |
 | [炎黃子孫](../hanzi-cards/炎黃子孫.md) | descendants of Yan Di and Huang Di -- the Chinese people |
 | [西游记](../hanzi-cards/西游记.md)/[西遊記](../hanzi-cards/西遊記.md) | Journey to the West (classic novel) |
+| [红楼梦](../hanzi-cards/红楼梦.md)/[紅樓夢](../hanzi-cards/紅樓夢.md) | Dream of the Red Chamber (classic novel) |
+| [水浒传](../hanzi-cards/水浒传.md) | Water Margin (classic novel) |
 | [百家姓](../hanzi-cards/百家姓.md) | The Book of Family Names |
 | [大雁塔](../hanzi-cards/大雁塔.md) | Giant Wild Goose Pagoda |
 | [故宫](../hanzi-cards/故宫.md) | Imperial Palace; Forbidden City; palace of a former dynasty |
