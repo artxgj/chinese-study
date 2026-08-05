@@ -1735,7 +1735,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Google%E5%89%AF%E6%80%BB%E8%A3%81Brian+Rakowski%E5%9C%A8%E6%9C%AC%E6%9C%88%E5%88%9D%E7%9A%84Pixel+7%E5%8F%91%E8%A1%A8%E4%BC%9A%E4%B8%8A%E6%89%8D%E6%9A%97%E9%85%B8%E8%8B%B9%E6%9E%9C%EF%BC%8C%E8%AF%B4Pixel%E6%98%AF%E6%89%8B%E6%9C%BA%E7%9A%84%E5%88%9B%E6%96%B0%E8%80%85%EF%BC%8C%E4%B8%8D%E5%B0%91%E5%8A%9F%E8%83%BD%E8%A2%AB%E5%AF%B9%E6%89%8B%E8%8B%B9%E6%9E%9C%E4%BB%BF%E6%95%88%EF%BC%8C%E8%A8%80%E7%8A%B9%E5%9C%A8%E8%80%B3%EF%BC%8CGoogle%E7%A4%BE%E7%BE%A4%E5%9B%A2%E9%98%9F%E5%8D%B4%E8%A2%AB%E6%8A%93%E5%8C%85%E7%94%A8iPhone%E5%9C%A8%E6%8E%A8%E7%89%B9%E5%8F%91%E6%96%87%E3%80%82+https%3A%2F%2Ft.co%2FlnoD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[推特](推特.md), [苹果](苹果.md)
+[推特](推特.md), [苹果](苹果.md), [酸](酸.md)
 ___
 ##### 2022-10-19 06:40:11 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【拆解iPhone14：4纳米半导体，零件最贵】iPhone14 Pro Max的零部件总成本为501美元，比13 Pro Max高出约2成，但在美国等市场没有提高价格，给利润率带来压力。美国的主要部件在成本中占到32%，中国占……ht…

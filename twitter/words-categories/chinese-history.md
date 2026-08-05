@@ -21,8 +21,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [宋朝](../hanzi-cards/宋朝.md)/[宋代](../hanzi-cards/宋代.md) | Song Dynasty |
 | [南宋](../hanzi-cards/南宋.md) | Southern Song |
 | [明清](../hanzi-cards/明清.md) | Ming and Qing dynasty |
-| [明代](../hanzi-cards/明代.md) | Ming Dynasty |
-| [清代](../hanzi-cards/清代.md) | Qing Dynasty |
+| [明朝](../hanzi-cards/明朝.md)/[明代](../hanzi-cards/明代.md) | Ming Dynasty |
+| [清代](../hanzi-cards/清代.md)/[清朝](../hanzi-cards/清朝.md) | Qing Dynasty |
 ## 2. Three Kingdoms
 |  |  |
 | ----- | :---: |

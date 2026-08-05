@@ -92,7 +92,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [气球](../hanzi-cards/气球.md) | balloon |
 | [冰山](../hanzi-cards/冰山.md) | iceberg |
 | [水族馆](../hanzi-cards/水族馆.md) | aquarium |
-| [盐](../hanzi-cards/盐.md)/[鹽](../hanzi-cards/鹽.md) | salt |
 | [早期阶段](../hanzi-cards/早期阶段.md) | early stage; initial stage |
 | [获得](../hanzi-cards/获得.md) | gain; obtain; acquire; win; achieve |
 | [趋势](../hanzi-cards/趋势.md) | trend |

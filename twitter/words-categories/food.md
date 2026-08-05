@@ -3,11 +3,28 @@
 To learn how the words are used in context, read the tweets by clicking or tapping on the Chinese words. For a complete 
 list of the curated words, check it out [here](../words_tweets_stats.md).
 
-## Condiments
+## Culinary
 |  |  |
 | ----- | :---: |
+| [葱](../hanzi-cards/葱.md)/[蔥](../hanzi-cards/蔥.md) | scallion; green onion; (pinyin: cōng, poj: chhang) |
+| [姜](../hanzi-cards/姜.md)/[薑](../hanzi-cards/薑.md) | ginger; surname; (pinyin: jiāng; poj:  kiuⁿ) |
+| [蒜](../hanzi-cards/蒜.md) | garlic; (pinyin: suàn; poj: soàn/sǹg) |
+| [盐](../hanzi-cards/盐.md)/[鹽](../hanzi-cards/鹽.md) | salt; (pinyin: yán, poj: iâm) |
+| [胡椒](../hanzi-cards/胡椒.md) | pepper; (pinyin: hújiāo; poj: hô͘-chio) |
+| [胡椒粒](../hanzi-cards/胡椒粒.md) | peppercorn |
+| [糖](../hanzi-cards/糖.md) | sugar; sweets; candy; carbohydrate; (pinyin: táng; poj: thn̂g) |
+| [辣椒](../hanzi-cards/辣椒.md) | hot pepper; chili |
+| [香菜](../hanzi-cards/香菜.md) | coriander; cilantro |
+| [酸](../hanzi-cards/酸.md) | sour; tart; (chemistry) acid; (pinyin: suān; poj: sng) |
+| [醋](../hanzi-cards/醋.md) | vinegar; (pinyin: cù; poj: chhò)͘ |
+| [酱](../hanzi-cards/酱.md)/[醬](../hanzi-cards/醬.md) | sauce; paste (sesame paste); preserve or jam; (pinyin: jiàng; poj: chiùⁿ) |
 | [酱油](../hanzi-cards/酱油.md) | soy sauce |
 | [油菜籽](../hanzi-cards/油菜籽.md) | rapeseed |
+| [红烧](../hanzi-cards/红烧.md)/[紅燒](../hanzi-cards/紅燒.md) | braise in soy sauce |
+| [水煮](../hanzi-cards/水煮.md) | boiled; poached |
+| [煎](../hanzi-cards/煎.md) | fry; pan-fry |
+| [烤](../hanzi-cards/烤.md) | roast; bake; broil; grill; toast; (pinyin: kǎo; poj: khóⁿ/khó |
+| [炖](../hanzi-cards/炖.md)/[燉](../hanzi-cards/燉.md) | to stew; to heat up; (pinyin: dùn; poj: tūn) |
 ## Desserts
 |  |  |
 | ----- | :---: |
@@ -118,12 +135,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [蔬菜](../hanzi-cards/蔬菜.md) | vegetables; greens; greenstuff |
 | [椰菜](../hanzi-cards/椰菜.md) | cauliflower; broccoli; calabrese |
 | [包菜](../hanzi-cards/包菜.md) | cabbage |
-| [香菜](../hanzi-cards/香菜.md) | coriander; cilantro |
 | [芽菜](../hanzi-cards/芽菜.md) | bean sprouts |
-| [胡椒](../hanzi-cards/胡椒.md) | pepper |
-| [胡椒粒](../hanzi-cards/胡椒粒.md) | peppercorn |
-| [辣椒](../hanzi-cards/辣椒.md) | hot pepper; chili |
 | [冬瓜](../hanzi-cards/冬瓜.md) | winter melon |
+| [黄瓜](../hanzi-cards/黄瓜.md)/[黃瓜](../hanzi-cards/黃瓜.md) | cucumber; (pinyin: huángguā; poj: n̂g-koe) |
 ## miscellaneous
 |  |  |
 | ----- | :---: |
@@ -136,10 +150,5 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [筷子](../hanzi-cards/筷子.md) | chopsticks |
 | [汤匙](../hanzi-cards/汤匙.md) | soup spoon; table spoon |
 | [叉](../hanzi-cards/叉.md) | fork |
-| [红烧](../hanzi-cards/红烧.md)/[紅燒](../hanzi-cards/紅燒.md) | braise in soy sauce |
-| [水煮](../hanzi-cards/水煮.md) | boiled; poached |
-| [煎](../hanzi-cards/煎.md) | fry; pan-fry |
 | [芝麻](../hanzi-cards/芝麻.md) | sesame |
 | [肥肠](../hanzi-cards/肥肠.md) | pork intestines; (pinyin: féicháng) |
-| [醋](../hanzi-cards/醋.md) | vinegar; (pinyin: cù; poj: chhò)͘ |
-| [酱](../hanzi-cards/酱.md)/[醬](../hanzi-cards/醬.md) | sauce; paste (sesame paste); preserve or jam; (pinyin: jiàng; poj: chiùⁿ) |
