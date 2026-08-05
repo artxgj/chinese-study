@@ -42,6 +42,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [榨菜](../hanzi-cards/榨菜.md) | pickled mustard tuber |
 | [泡菜](../hanzi-cards/泡菜.md) | kimchi |
 | [烧猪](../hanzi-cards/烧猪.md) | lechon; roast pig |
+| [东坡肉](../hanzi-cards/东坡肉.md)/[東坡肉](../hanzi-cards/東坡肉.md) | Dongpo pork |
 | [肉骨茶](../hanzi-cards/肉骨茶.md) | bak-kut-teh; pork ribs soup |
 | [五花肉](../hanzi-cards/五花肉.md) | pork belly |
 | [排骨](../hanzi-cards/排骨.md) | spareribs; pork ribs |
