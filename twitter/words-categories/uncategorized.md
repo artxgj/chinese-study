@@ -719,3 +719,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [毫米](../hanzi-cards/毫米.md) | millimeter |
 | [窥](../hanzi-cards/窥.md)/[窺](../hanzi-cards/窺.md) | peep; peek; pry; glimpse ; (pinyin: kuī) |
 | [挖泥船](../hanzi-cards/挖泥船.md) | dredger; (pinyin: wāníchuán) |
+| [盾构机](../hanzi-cards/盾构机.md)/[盾構機](../hanzi-cards/盾構機.md) | tunnel boring machine; (pinyin: dùngòujī) |

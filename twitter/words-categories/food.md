@@ -20,6 +20,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [醋](../hanzi-cards/醋.md) | vinegar; (pinyin: cù; poj: chhò)͘ |
 | [酱](../hanzi-cards/酱.md)/[醬](../hanzi-cards/醬.md) | sauce; paste (sesame paste); preserve or jam; (pinyin: jiàng; poj: chiùⁿ) |
 | [酱油](../hanzi-cards/酱油.md) | soy sauce |
+| [咸虾酱](../hanzi-cards/咸虾酱.md) | salted shrimp paste |
 | [油菜籽](../hanzi-cards/油菜籽.md) | rapeseed |
 | [红烧](../hanzi-cards/红烧.md)/[紅燒](../hanzi-cards/紅燒.md) | braise in soy sauce |
 | [水煮](../hanzi-cards/水煮.md) | boiled; poached |
@@ -90,7 +91,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [爆炒腰花](../hanzi-cards/爆炒腰花.md) | stir-fried kidney |
 | [臭豆腐](../hanzi-cards/臭豆腐.md) | stinky tofu |
 | [豆腐](../hanzi-cards/豆腐.md) | tofu |
-| [咸虾酱](../hanzi-cards/咸虾酱.md) | salted shrimp paste |
+| [虾仁](../hanzi-cards/虾仁.md)/[蝦仁](../hanzi-cards/蝦仁.md) | shrimp meat; shelled shrimp; (pinyin: xiārén ; poj: hê-lîn) |
+| [肥肠](../hanzi-cards/肥肠.md) | pork intestines; (pinyin: féicháng) |
 | [油条](../hanzi-cards/油条.md) | deep-fried twisted dough sticks |
 | [麻花](../hanzi-cards/麻花.md) | fried dough twist |
 | [披萨](../hanzi-cards/披萨.md) | pizza |
@@ -146,10 +148,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [叫菜](../hanzi-cards/叫菜.md) | order food |
 | [菜单](../hanzi-cards/菜单.md) | menu |
 | [菜谱](../hanzi-cards/菜谱.md) | menu; cookbook; recipe |
-| [鲁菜](../hanzi-cards/鲁菜.md) | Shandong cuisine |
+| [鲁菜](../hanzi-cards/鲁菜.md)/[魯菜](../hanzi-cards/魯菜.md) | Shandong cuisine |
 | [菜刀](../hanzi-cards/菜刀.md) | kitchen knife; cleaver |
 | [筷子](../hanzi-cards/筷子.md) | chopsticks |
 | [汤匙](../hanzi-cards/汤匙.md) | soup spoon; table spoon |
 | [叉](../hanzi-cards/叉.md) | fork |
 | [芝麻](../hanzi-cards/芝麻.md) | sesame |
-| [肥肠](../hanzi-cards/肥肠.md) | pork intestines; (pinyin: féicháng) |

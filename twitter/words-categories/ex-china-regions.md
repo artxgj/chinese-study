@@ -91,6 +91,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [卡帕多奇亚](../hanzi-cards/卡帕多奇亚.md) | Cappadocia |
 | [北极](../hanzi-cards/北极.md) | Arctic/North Pole |
 | [南极](../hanzi-cards/南极.md) | Antarctica |
+| [非洲](../hanzi-cards/非洲.md) | Africa |
+| [中东](../hanzi-cards/中东.md)/[中東](../hanzi-cards/中東.md) | Middle East |
+| [泰米尔纳德](../hanzi-cards/泰米尔纳德.md) | Tamil Nadu |
 ## 5. Cities
 |  |  |
 | ----- | :---: |
@@ -98,6 +101,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [马尼拉](../hanzi-cards/马尼拉.md)/[馬尼拉](../hanzi-cards/馬尼拉.md) | Manila |
 | [宿务](../hanzi-cards/宿务.md) | Cebu |
 | [槟城](../hanzi-cards/槟城.md) | Penang |
+| [曼谷](../hanzi-cards/曼谷.md) | Bangkok |
 | [广岛](../hanzi-cards/广岛.md)/[廣島](../hanzi-cards/廣島.md) | Hiroshima |
 | [长崎](../hanzi-cards/长崎.md)/[長崎](../hanzi-cards/長崎.md) | Nagasaki |
 | [莫斯科](../hanzi-cards/莫斯科.md) | Moscow |

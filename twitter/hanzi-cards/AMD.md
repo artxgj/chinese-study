@@ -514,14 +514,14 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6%E5%90%91%E4%B8%AD%E6%9D%B1%E5%87%BA%E5%8F%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E8%AD%A6%E6%83%95%E6%B5%81%E5%90%91%E4%B8%AD%E5%9C%8B%E3%80%91%E6%93%9A%E6%82%89%E9%87%9D%E5%B0%8D%E8%8B%B1%E5%81%89%E9%81%94%E5%92%8CAMD%E7%AD%89%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E6%AD%A3%E5%9C%A8%E6%8E%A8%E9%81%B2%E7%99%BC%E6%94%BE%E5%B0%8D%E4%B8%AD%E6%9D%B1%E7%9A%84%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FR4p09KXMac)
 ##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [半導體](半導體.md), [美國](美國.md), [英偉達](英偉達.md), [限制](限制.md)
+[Mac](Mac.md), [中東](中東.md), [半導體](半導體.md), [美國](美國.md), [英偉達](英偉達.md), [限制](限制.md)
 ___
 ##### 2024-05-31 04:18:07 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 知情人士透露，美国官员已放慢了发给英伟达（#Nvidia）和超微（#AMD）等芯片制造商向中东地区大批出口人工智能（AI）加速器的许可证。 https://t.co/b1j0kA56Wr https://t.co/UXOhv3Y9h7
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%AE%98%E5%91%98%E5%B7%B2%E6%94%BE%E6%85%A2%E4%BA%86%E5%8F%91%E7%BB%99%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%88%23Nvidia%EF%BC%89%E5%92%8C%E8%B6%85%E5%BE%AE%EF%BC%88%23AMD%EF%BC%89%E7%AD%89%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86%E5%90%91%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E5%A4%A7%E6%89%B9%E5%87%BA%E5%8F%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%8A%A0%E9%80%9F%E5%99%A8%E7%9A%84%E8%AE%B8%E5%8F%AF%E8%AF%81%E3%80%82+https%3A%2F%2Ft.co%2Fb1j0kA56Wr+https%3A%2F%2Ft.co%2FUXOhv3Y9h7)
 ##### Other Words/Names of Interest in the Above Tweet
-[人工智能](人工智能.md), [加速器](加速器.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [超微](超微.md), [透露](透露.md)
+[中东](中东.md), [人工智能](人工智能.md), [加速器](加速器.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [超微](超微.md), [透露](透露.md)
 ___
 ##### 2024-05-25 22:15:55 UTC ~ 亚洲金融 Asia Finance
 > RT @AsiaFinance: 硅谷科技巨头，疯狂砸钱“准并购”AI初创公司：获取技术、施加影响，还规避反垄断。而人工智能(AI)概念股，除了NVDA、SMCI和SOXL等一线热门，其它如ARM、AMD和AVGO等二线热门，可能还有上涨空间。每一位成长型投资者，都应仔细研究这…

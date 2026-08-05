@@ -370,7 +370,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40maide89699220%3A+DeepSeek%E8%BF%9B%E5%86%9B%E4%B8%AD%E4%B8%9C%EF%BC%81%E4%B8%8E%E7%9F%B3%E6%B2%B9%E5%B7%A8%E5%A4%B4%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E8%81%94%E6%89%8B%E8%BF%90%E8%90%A5%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%EF%BC%8C%E5%B8%8C%E6%9C%9B%E9%82%A3%E4%BA%9B%E8%AF%B4%E4%B8%8D%E7%94%A8DeepSeek%E7%9A%84%E5%9B%BD%E5%AE%B6%E8%83%BD%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0%E3%80%82+https%3A%2F%2Ft.co%2FiokeT005cH)
 ##### Other Words/Names of Interest in the Above Tweet
-[巨头](巨头.md), [数据](数据.md), [石油](石油.md), [进军](进军.md)
+[中东](中东.md), [巨头](巨头.md), [数据](数据.md), [石油](石油.md), [进军](进军.md)
 ___
 ##### 2025-02-12 02:20:20 UTC ~ New China 中文
 > RT @XinhuaChinese: “如果你变成了人，你最想干什么？”“用血肉之躯感受一场暴雨”“熬夜读一本纸质书到天亮”“去菜市场为一棵青菜讨价还价”……DeepSeek的回答让人一愣，看着看着就落泪了……“原来活着，就是最大的神迹。”愿屏幕前的你好好活着，好好爱自己！…
