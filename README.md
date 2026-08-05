@@ -13,4 +13,4 @@ Classical Chinese poetry
 
 
 ### DeepSeek
-Practice writing simple questions in Chinese to DeepSeek for help with expanding my vocabulary.
+Practice writing simple questions in Chinese to DeepSeek for help with expanding my vocabulary and improve my reading skills.
