@@ -1,7 +1,7 @@
 ## Chinese Language study materials
 
 ### No AI, write code to extract and generate text.
-Collections of names, vocabulary words, tweets in Chinese text, and Chinese poetry that serve as materials for learning how to read Chinese text written in traditional Chinese characters and simplified Chinese characters.
+Collections of names, vocabulary words from tweets written in Chinese text, serve as materials for reading practice and vocabulary expansion.
 
 Sources:
 1. Twitter (X) accounts that publish tweets in Chinese.
@@ -11,6 +11,7 @@ Sources:
 ### Typewritten Markdown
 Classical Chinese poetry
 
-
 ### DeepSeek
-Practice writing simple questions in Chinese to DeepSeek for help with expanding my vocabulary and improve my reading skills.
+Practice writing simple questions in Chinese to query DeepSeek about various topics. DeepSeek's answers are used for reading practice and vocabulary expansion. 
+
+**Note**: Translation tools, the Pleco app, and Wiktionary have been tremendously helpful with reading improvement and vocabulary expansion.
