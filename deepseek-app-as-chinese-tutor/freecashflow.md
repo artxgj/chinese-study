@@ -1,4 +1,4 @@
-# Breakdown of Free Cash Flow's (FCF) importance and its relationships with key financial terms.
+# Breakdown of Free Cash Flow's importance and its relationships with key financial terms.
 
 ---
 
