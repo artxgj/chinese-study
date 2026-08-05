@@ -1,6 +1,6 @@
 ## Chinese Language study materials
 
-### No AI, write code to extract and generate code.
+### No AI, write code to extract and generate text.
 Collections of names, vocabulary words, tweets in Chinese text, and Chinese poetry that serve as materials for learning how to read Chinese text written in traditional Chinese characters and simplified Chinese characters.
 
 Sources:
