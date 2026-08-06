@@ -1,8 +1,8 @@
 ### 1. 什么是 ADC？| What is ADC?
 
-中文：ADC（模数转换器）将连续变化的模拟信号（电压/电流）转换为离散的数字二进制代码，是连接真实物理世界与数字芯片的“翻译官”。
+ADC（模数转换器）将连续变化的模拟信号（电压/电流）转换为离散的数字二进制代码，是连接真实物理世界与数字芯片的“翻译官”。
 
-English: An ADC converts continuously varying analog signals (voltage/current) into discrete binary digital codes. It acts as the "interpreter" between the physical analog world and digital processors.
+An ADC converts continuously varying analog signals (voltage/current) into discrete binary digital codes. It acts as the "interpreter" between the physical analog world and digital processors.
 
 ---
 
@@ -17,9 +17,9 @@ English: An ADC converts continuously varying analog signals (voltage/current) i
 
 ### 3. 数码相机中的 ADC 信号链 | ADC Signal Chain in Digital Camera
 
-中文：光线 → CMOS/CCD传感器（光子转电子，产生模拟电压）→ 相关双采样（CDS，消除复位噪声）→ ADC（将模拟电压量化为数字数值） → ISP处理器（去马赛克、降噪、压缩）→ 存储卡（RAW/JPEG）。ADC直接输出的原始数据就是 RAW文件（未经ISP修改）。
+光线 → CMOS/CCD传感器（光子转电子，产生模拟电压）→ 相关双采样（CDS，消除复位噪声）→ ADC（将模拟电压量化为数字数值） → ISP处理器（去马赛克、降噪、压缩）→ 存储卡（RAW/JPEG）。ADC直接输出的原始数据就是 RAW文件（未经ISP修改）。
 
-English: Light → CMOS/CCD sensor (photons to electrons, generating analog voltage) → Correlated Double Sampling (CDS, removes reset noise) → ADC (quantifies analog voltage into digital numbers) → ISP (demosaicing, denoising, compression) → Memory card (RAW/JPEG). The raw data directly from the ADC is exactly the RAW file (unmodified by ISP).
+Light → CMOS/CCD sensor (photons to electrons, generating analog voltage) → Correlated Double Sampling (CDS, removes reset noise) → ADC (quantifies analog voltage into digital numbers) → ISP (demosaicing, denoising, compression) → Memory card (RAW/JPEG). The raw data directly from the ADC is exactly the RAW file (unmodified by ISP).
 
 ---
 
@@ -39,21 +39,21 @@ English: Light → CMOS/CCD sensor (photons to electrons, generating analog volt
 
 · 动态范围 (Dynamic Range)
 
-  中文：ADC位深决定动态范围的理论上限。14-bit ADC 最大约 84 dB；若仅12-bit，高光或暗部细节会被截断（Clipped），浪费传感器性能。
+  ADC位深决定动态范围的理论上限。14-bit ADC 最大约 84 dB；若仅12-bit，高光或暗部细节会被截断（Clipped），浪费传感器性能。
 
-  English: Bit depth caps the theoretical maximum dynamic range. A 14-bit ADC offers ~84 dB; if only 12-bit, highlight and shadow details are permanently clipped, wasting the sensor's potential.
+  Bit depth caps the theoretical maximum dynamic range. A 14-bit ADC offers ~84 dB; if only 12-bit, highlight and shadow details are permanently clipped, wasting the sensor's potential.
 
 · 暗部噪点与 ISO 无关性 (Shadow Noise & ISO Invariance)
 
-  中文：片上ADC的超低读取噪声，允许后期将暗部大幅提亮（+5EV）而不产生严重彩色噪点，这正是现代相机“ISO无关性”的核心技术基础。
+  片上ADC的超低读取噪声，允许后期将暗部大幅提亮（+5EV）而不产生严重彩色噪点，这正是现代相机“ISO无关性”的核心技术基础。
 
-  English: The ultra-low read noise of on-chip ADCs allows pushing shadows by +5EV in post-processing with minimal chroma noise. This is the technical foundation of "ISO Invariance" in modern cameras.
+  The ultra-low read noise of on-chip ADCs allows pushing shadows by +5EV in post-processing with minimal chroma noise. This is the technical foundation of "ISO Invariance" in modern cameras.
 
 
 ---
 
 ### 6. 总结 | Summary
 
-中文：ADC虽是小元件，却是数码相机的核心“数字听诊器”。现代影像画质的飞跃，不只在像素数提升，更在于ADC从“片外”演进到“片内列并行”——这项变革直接带来了高感纯净度和惊人动态范围的突破。
+ADC虽是小元件，却是数码相机的核心“数字听诊器”。现代影像画质的飞跃，不只在像素数提升，更在于ADC从“片外”演进到“片内列并行”——这项变革直接带来了高感纯净度和惊人动态范围的突破。
 
-English: Though tiny, the ADC is the core "digital stethoscope" of a digital camera. The real leap in modern imaging isn't just about more megapixels, but the evolution from off-chip to on-chip column-parallel ADC — a revolution that delivers clean high-ISO performance and exceptional dynamic range.
+Though tiny, the ADC is the core "digital stethoscope" of a digital camera. The real leap in modern imaging isn't just about more megapixels, but the evolution from off-chip to on-chip column-parallel ADC — a revolution that delivers clean high-ISO performance and exceptional dynamic range.
