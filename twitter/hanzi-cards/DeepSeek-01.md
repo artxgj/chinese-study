@@ -1332,7 +1332,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E8%82%A1%E5%91%A8%E4%BA%8C%E5%8F%8D%E5%BC%B9%EF%BC%8C%E6%94%B6%E5%A4%8D%E4%BA%86DeepSeek%E5%BC%95%E5%8F%91%E7%9A%84%E4%B8%8EAI%E7%9B%B8%E5%85%B3%E7%9A%84%E8%82%A1%E7%A5%A8%E6%9A%B4%E8%B7%8C%E5%90%8E%E7%9A%84%E9%83%A8%E5%88%86%E5%A4%B1%E5%9C%B0%E3%80%82%E4%BB%A5%E7%A7%91%E6%8A%80%E8%82%A1%E4%B8%BA%E4%B8%BB%E7%9A%84%E7%BA%B3%E6%8C%87%E4%B8%8A%E6%B6%A82%25%EF%BC%8C%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E4%B8%8A%E6%B6%A80.9%25%EF%BC%8C%E9%81%93%E6%8C%87%E4%B8%8A%E6%B6%A80.3%25%E3%80%82%E4%B8%80%E4%BA%9B%E5%91%A8%E4%B8%80%E9%81%AD%E5%8F%97%E9%87%8D%E5%88%9B%E7%9A%84%E8%82%A1%E7%A5%A8%E5%91%A8%E4%BA%8C%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8%EF%BC%8C%E4%B8%8D%E8%BF%87%E6%B6%A8%E5%B9%85%E4%B8%8D%E8%B6%B3%E4%BB%A5%E5%BC%A5%E8%A1%A5%E6%97%A9%E4%BA%9B%E6%97%B6%E5%80%99%E7%9A%84%E8%B7%8C%E5%B9%85%E3%80%82Nvidia%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[反弹](反弹.md), [大幅](大幅.md), [引发](引发.md), [标普](标普.md), [涨](涨.md), [相关](相关.md), [科技](科技.md), [美国](美国.md), [跌](跌.md), [遭受](遭受.md), [重创](重创.md), [飙升](飙升.md)
+[反弹](反弹.md), [大幅](大幅.md), [引发](引发.md), [标普](标普.md), [涨](涨.md), [相关](相关.md), [科技](科技.md), [纳指](纳指.md), [美国](美国.md), [跌](跌.md), [道指](道指.md), [遭受](遭受.md), [重创](重创.md), [飙升](飙升.md)
 ___
 ##### 2025-01-29 04:20:23 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 这款开源多模态模型被设计为高效且多功能的模型，擅长生成逼真图像、执行复杂视觉推理等多种视觉任务。#南洋商报 #DeepSeek #AIhttps://t.co/VOm7P2X8sw https://t.co/yygPAC7oGj
@@ -1514,7 +1514,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%A7%91%E6%8A%80%E8%82%A1%E5%91%A8%E4%B8%80%E9%87%8D%E6%8C%AB%EF%BC%8C%E6%AD%A4%E5%89%8D%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8DeepSeek%E4%BB%A5%E8%BF%9C%E4%BD%8E%E4%BA%8E%E7%A1%85%E8%B0%B7%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E7%9A%84%E6%88%90%E6%9C%AC%E8%AE%AD%E7%BB%83%E5%87%BA%E4%BA%86%E4%B8%80%E7%A7%8D%E5%85%88%E8%BF%9B%E7%9A%84AI%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%BC%95%E5%8F%91%E8%BF%91%E6%9C%9FAI%E6%A6%82%E5%BF%B5%E8%82%A1%E6%B6%A8%E5%8A%BF%E7%AA%81%E7%84%B6%E9%80%86%E8%BD%AC%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C17%25%E3%80%82%E6%AD%A4%E4%B8%BE%E4%BB%A4%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%915%2C890%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E7%BA%B3%E6%8C%87%E4%B8%8B%E8%B7%8C3.1%25%E3%80%82%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E4%B8%8B%E8%B7%8C1.5%25%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[先进](先进.md), [市值](市值.md), [引发](引发.md), [成本](成本.md), [标普](标普.md), [模型](模型.md), [此举](此举.md), [涨](涨.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [竞争](竞争.md), [英伟达](英伟达.md), [跌](跌.md)
+[先进](先进.md), [市值](市值.md), [引发](引发.md), [成本](成本.md), [标普](标普.md), [模型](模型.md), [此举](此举.md), [涨](涨.md), [硅](硅.md), [硅谷](硅谷.md), [科技](科技.md), [竞争](竞争.md), [纳指](纳指.md), [英伟达](英伟达.md), [跌](跌.md)
 ___
 ##### 2025-01-28 02:29:14 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 中国人工智能（AI）新创日前发布DeepSeek V3以及DeepSeek R1等大型语言模型（LLM），迅速在美国走红，27日更一举超越ChatGpt登上美国区苹果App Store免费榜上首位，引发全球关注。https://t.co/l…

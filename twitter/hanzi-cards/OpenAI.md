@@ -649,7 +649,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%8F%97%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9OpenAI%E7%9A%84%E6%8A%95%E8%B5%84%E4%BA%A4%E6%98%93%E6%8E%A8%E5%8A%A8%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E5%91%A8%E4%B8%80%E5%9D%87%E5%88%9B%E4%B8%8B%E6%96%B0%E7%BA%AA%E5%BD%95%E3%80%82%E7%BA%B3%E6%8C%87%E9%A2%86%E6%B6%A80.7%25%EF%BC%8C%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E4%B8%8A%E6%B6%A80.4%25%E3%80%82%E9%81%93%E6%8C%87%E5%BE%AE%E6%B6%A80.1%25%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A83.9%25%E3%80%82https%3A%2F%2Ft.co%2FmTg0h5YgU1)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [投资](投资.md), [推动](推动.md), [标普](标普.md), [涨](涨.md), [纪录](纪录.md), [美国](美国.md), [英伟达](英伟达.md)
+[交易](交易.md), [投资](投资.md), [推动](推动.md), [标普](标普.md), [涨](涨.md), [纪录](纪录.md), [纳指](纳指.md), [美国](美国.md), [英伟达](英伟达.md), [道指](道指.md)
 ___
 ##### 2025-09-19 03:47:37 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 微软表示，其耗资33亿美元在威斯康星州打造的数据中心将于2026年初投入运行，最初将用于训练OpenAI的模型。该公司还将追加40亿美元投资再建一座巨型数据中心。https://t.co/GL0l3zGbhP

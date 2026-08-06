@@ -258,7 +258,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E4%B8%AD%E5%AE%98%E5%91%98%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E4%B8%BE%E8%A1%8C%E7%BB%8F%E8%B4%B8%E4%BC%9A%E8%B0%88%EF%BC%8C%E5%B9%B6%E8%BE%BE%E6%88%90%E6%B6%B5%E7%9B%96+TikTok%E5%9C%A8%E5%86%85%E7%9A%84%E8%B4%B8%E6%98%93%E6%A1%86%E6%9E%B6%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%8A%A0%E4%B8%8A%E7%BE%8E%E4%B8%AD%E5%85%83%E9%A6%96%E5%8D%B3%E5%B0%86%E9%80%9A%E8%AF%9D%EF%BC%8C%E5%88%A9%E5%A5%BD%E5%B8%82%E5%9C%BA%E6%83%85%E7%BB%AA%EF%BC%8C%E7%BE%8E%E8%82%A1%E4%B8%BB%E8%A6%81%E6%8C%87%E6%95%B0%E5%91%A8%E4%B8%80%E6%99%AE%E9%81%8D%E6%94%B6%E6%B6%A8%EF%BC%8C%E6%A0%87%E6%99%AE%E5%92%8C%E7%BA%B3%E6%8C%87%E5%9D%87%E5%88%9B%E6%94%B6%E7%9B%98%E6%96%B0%E9%AB%98%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23nysehttps%3A%2F%2Ft.co%2FF7Mf8yAhPx+https%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[协议](协议.md), [收盘](收盘.md), [标普](标普.md), [涨](涨.md), [涵盖](涵盖.md), [西班牙](西班牙.md), [贸易](贸易.md), [达成](达成.md)
+[协议](协议.md), [收盘](收盘.md), [标普](标普.md), [涨](涨.md), [涵盖](涵盖.md), [纳指](纳指.md), [西班牙](西班牙.md), [贸易](贸易.md), [达成](达成.md)
 ___
 ##### 2025-09-16 04:16:30 UTC ~ 中國新聞社
 > RT @CNS1952: 【中美就妥善解決TikTok問題達成基本框架共識】中國商務部國際貿易談判代表兼副部長李成鋼15日表示，中美雙方就以合作方式妥善解決TikTok問題、減少投資障礙、促進有關經貿合作等達成了基本框架共識。… https://t.co/RC4EgSaKaI

@@ -243,7 +243,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Alphabet%E5%90%914%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E8%BF%88%E8%BF%9B%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%81AMD%E7%AD%89AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E5%A4%A7%E8%B7%8C%E3%80%82%E5%88%86%E6%9E%90%E5%B8%88%E6%8C%87%E5%87%BA%EF%BC%8C%E8%B0%B7%E6%AD%8C%E8%BF%9B%E5%86%9B%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%9A%84%E9%A2%86%E5%9C%B0%E2%80%9C%E8%A7%A6%E5%8A%A8%E4%BA%86%E4%B8%80%E7%A7%8D%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8%E7%9A%84%E6%81%90%E6%83%A7%E2%80%9D%E3%80%82%E6%8A%95%E8%B5%84%E8%80%85%E5%B0%86%E8%B5%84%E9%87%91%E6%8A%95%E5%85%A5%E5%88%B0%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E5%85%B6%E4%BB%96%E9%A2%86%E5%9F%9F%EF%BC%8C%E9%81%93%E6%8C%87%E4%B8%8A%E6%B6%A8664%E7%82%B9%EF%BC%8C%E5%88%9B%E4%B8%8B8%E6%9C%88%E4%BB%A5%E6%9D%A5%E7%9A%84%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0%E3%80%82https%3A%2F%2Ft.co%2FA2%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [指出](指出.md), [最佳](最佳.md), [涨](涨.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [跌](跌.md), [进军](进军.md), [金](金.md), [领域](领域.md)
+[分析](分析.md), [分析师](分析师.md), [市值](市值.md), [投资](投资.md), [指出](指出.md), [最佳](最佳.md), [涨](涨.md), [相关](相关.md), [英伟达](英伟达.md), [谷歌](谷歌.md), [跌](跌.md), [进军](进军.md), [道指](道指.md), [金](金.md), [领域](领域.md)
 ___
 ##### 2025-11-21 16:45:49 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苏姿丰带领AMD向AI转向的决定让该公司的规模在三年间几乎扩大到原来的四倍。如今，AMD将推出最新一代AI芯片MI450，目标是与终极巨头英伟达展开较量。https://t.co/AV6hJcO0X1
@@ -444,7 +444,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%9C%A8%E5%96%9C%E5%BF%A7%E5%8F%82%E5%8D%8A%E7%9A%84%E6%9C%80%E6%96%B0%E4%BC%81%E4%B8%9A%E8%B4%A2%E6%8A%A5%E5%85%AC%E5%B8%83%E5%90%8E%EF%BC%8C%E7%BA%B3%E6%8C%87%E4%BB%8E%E5%89%8D%E4%B8%80%E4%BA%A4%E6%98%93%E6%97%A5%E5%88%9A%E5%88%9A%E5%88%9B%E4%B8%8B%E7%9A%84%E7%BA%AA%E5%BD%95%E9%AB%98%E7%82%B9%E5%9B%9E%E8%90%BD%E3%80%82%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E5%95%86AMD%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C11%25%EF%BC%8C%E8%80%8C%E8%B0%B7%E6%AD%8C%E6%AF%8D%E5%85%AC%E5%8F%B8Alphabet%E7%9A%84%E5%BC%BA%E5%8A%B2%E8%B4%A2%E6%8A%A5%E6%8E%A8%E5%8A%A8%E5%85%B6%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8%EF%BC%9B10%E5%B9%B4%E6%9C%9F%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%B0%8F%E5%B9%85%E4%B8%8B%E9%99%8D%E3%80%82+https%3A%2F%2Ft.co%2FQxm4feCUgM+htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [国债](国债.md), [强劲](强劲.md), [推动](推动.md), [收益](收益.md), [收益率](收益率.md), [涨](涨.md), [纪录](纪录.md), [美国](美国.md), [芯片](芯片.md), [谷歌](谷歌.md), [跌](跌.md)
+[交易](交易.md), [国债](国债.md), [强劲](强劲.md), [推动](推动.md), [收益](收益.md), [收益率](收益率.md), [涨](涨.md), [纪录](纪录.md), [纳指](纳指.md), [美国](美国.md), [芯片](芯片.md), [谷歌](谷歌.md), [跌](跌.md)
 ___
 ##### 2024-10-16 07:32:18 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 英伟达和AMD股价周二跌幅扩大，此前阿斯麦警告称，更广泛的芯片市场仍面临压力。但是，炙手可热的人工智能芯片公司的投资者们有必要担心吗？ https://t.co/ICZt8dvpjR https://t.co/ICZt8dvpjR

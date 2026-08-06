@@ -11,12 +11,12 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [西周](../hanzi-cards/西周.md) | Western Zhou |
 | [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
 | [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |
-| [汉朝](../hanzi-cards/汉朝.md)/[漢朝](../hanzi-cards/漢朝.md) | Han Dynasty |
-| [汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
+| [汉朝](../hanzi-cards/汉朝.md)/[漢朝](../hanzi-cards/漢朝.md)/[汉代](../hanzi-cards/汉代.md)/[漢代](../hanzi-cards/漢代.md) | Han Dynasty |
 | [西汉](../hanzi-cards/西汉.md)/[西漢](../hanzi-cards/西漢.md) | Western Han Dynasty |
 | [东汉](../hanzi-cards/东汉.md)/[東漢](../hanzi-cards/東漢.md) | Eastern Han Dynasty |
+| [西晋](../hanzi-cards/西晋.md) | Western Jin |
 | [南北朝](../hanzi-cards/南北朝.md) | Northern and Southern Dynasty |
-| [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang dynasty |
+| [隋唐](../hanzi-cards/隋唐.md) | Sui and Tang Dynasty |
 | [唐朝](../hanzi-cards/唐朝.md)/[唐代](../hanzi-cards/唐代.md) | Tang Dynasty |
 | [宋朝](../hanzi-cards/宋朝.md)/[宋代](../hanzi-cards/宋代.md) | Song Dynasty |
 | [南宋](../hanzi-cards/南宋.md) | Southern Song |

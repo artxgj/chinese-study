@@ -1727,7 +1727,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8A%A5%E9%81%93%E6%8C%87%E5%87%BA%EF%BC%8C%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%93%81%E7%89%8C%E7%BA%B7%E7%BA%B7%E6%8E%A8%E5%87%BAAI%E6%89%8B%E6%9C%BA%EF%BC%8C%E6%9C%89%E6%9C%9B%E5%8A%A0%E9%80%9F%E7%94%A8%E6%88%B7%E6%8D%A2%E6%9C%BA%E5%91%A8%E6%9C%9F%E3%80%82%23iPhone+%23%E6%89%8B%E6%9C%BA+%23%E4%B8%AD%E5%9B%BD+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5https%3A%2F%2Ft.co%2FbN1ZoyiWrl+https%3A%2F%2Ft.co%2F7EwV5mLwB0)
 ##### Other Words/Names of Interest in the Above Tweet
-[品牌](品牌.md), [指出](指出.md), [推出](推出.md), [有望](有望.md)
+[品牌](品牌.md), [指出](指出.md), [推出](推出.md), [有望](有望.md), [道指](道指.md)
 ___
 ##### 2024-11-26 02:10:16 UTC ~ 日經中文網
 > RT @rijingzhongwen: 【拆解iPhone16Pro：零部件成本上升】蘋果的「16 Pro」的零部件成本為568美元，比「15 Pro」增加了6%，零部件成本佔美國銷售價格的比重(成本率)為57%，但價格沒有變化。另一方面，谷歌Pixel的零部件成本為406美元…

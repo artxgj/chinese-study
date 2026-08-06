@@ -6,9 +6,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 ## 1. Stock Market Indices
 |  |  |
 | ----- | :---: |
-| [纳斯达克](../hanzi-cards/纳斯达克.md)/[納斯達克](../hanzi-cards/納斯達克.md) | NASDAQ |
+| [纳斯达克](../hanzi-cards/纳斯达克.md)/[納斯達克](../hanzi-cards/納斯達克.md)/[纳指](../hanzi-cards/纳指.md)/[納指](../hanzi-cards/納指.md) | NASDAQ |
 | [标准与普尔](../hanzi-cards/标准与普尔.md)/[标普](../hanzi-cards/标普.md)/[標普](../hanzi-cards/標普.md) | Standard and Poor (S&P) |
-| [道琼斯指数](../hanzi-cards/道琼斯指数.md) | Dow Jones Index |
+| [道琼斯指数](../hanzi-cards/道琼斯指数.md)/[道指](../hanzi-cards/道指.md) | Dow Jones Index |
 | [韩国综合股价指数](../hanzi-cards/韩国综合股价指数.md) | Korea Composite Stock Price Index (KOSPI) |
 | [综合指数](../hanzi-cards/综合指数.md) | composite index |
 | [费城半导体指数](../hanzi-cards/费城半导体指数.md)/[費城半導體指數](../hanzi-cards/費城半導體指數.md) | Philadelphia Semiconductor Index |
@@ -74,7 +74,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [退市](../hanzi-cards/退市.md) | delist |
 | [市值](../hanzi-cards/市值.md) | market value; market cap |
 | [独角兽](../hanzi-cards/独角兽.md) | unicorn |
-| [融资](../hanzi-cards/融资.md) | raise funds |
+| [融资](../hanzi-cards/融资.md)/[融資](../hanzi-cards/融資.md) | raise funds (e.g., raise a round of funds); (money raised through) financing; capitalize; (pinyin : róngzī) |
 | [投向](../hanzi-cards/投向.md) | investment orientation |
 | [筹集](../hanzi-cards/筹集.md) | to collect; to raise (funds) |
 | [套利](../hanzi-cards/套利.md) | arbitrage |
