@@ -115,7 +115,3 @@ SMPTE timecode is the formal “grammar and dictionary” – the standard that 
 Linear Timecode (LTC) is the “sound wave” that speaks that language – the physical audio signal that carries the SMPTE data.
 
 Without LTC, SMPTE codes cannot be dynamically transmitted between devices; without the SMPTE standard, LTC is just meaningless noise; and Timecode is the overarching term that encompasses all of these.
-
----
-
-以上即為完整的中英雙語詳解。若您還需要更深入的技術細節（如位元結構、幀率轉換公式），歡迎再提出，我很樂意補充。
