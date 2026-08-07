@@ -59,14 +59,19 @@ LTC is the “carrier signal” for SMPTE timecode. It encodes the binary data i
 | 中文定位      | 最高層級的抽象概念        | 具體的標準規範（內容）                 | 具體的傳輸介質（載體）                     |
 | 英文定位      | Abstract Concept | Content / Standard (What)   | Physical Carrier / Medium (How) |
 | 主要功能      | 標示媒體檔案的絕對位置      | 定義幀率、丟幀規則與格式                | 將 SMPTE 碼轉為可傳輸的音頻信號             |
-| Primary Function | Marks absolute position in media | Defines frame rate, drop‑frame rules, and bit structure | Converts SMPTE code into transmittable audio signal |
 | 讀取條件      | 靜態數據（如檔案屬性）      | 需靠 LTC 或 VITC 傳輸才能存在        | 必須在播放/運行中才能產生信號                 |
-| Reading Condition | Static data (e.g., file metadata) | Exists only when carried by LTC or VITC | Must be in playback/motion to generate signal |
 | 傳輸媒介      | 無（僅為數值）          | 無（僅為協議）                     | 類比音頻線、數位音頻線 (AES/EBU)           |
-| Transmission Medium | None (just numeric value) | None (just protocol) | Analog audio cables, digital audio (AES/EBU) |
 | 對應形式      | 例如：Frame 12345   | 例如：01:02:03:04 (Drop‑Frame) | 例如：時碼音軌上的方波聲音                   |
-| Example Form | e.g., Frame 12345 | e.g., 01:02:03:04 (Drop‑Frame) | e.g., square‑wave sound on a timecode track |
 
+<br>
+
+| | | |                                                     |
+| - | - | - |-----------------------------------------------------|
+| English Positioning | Highest‑level abstraction | Concrete standard (the what) | Concrete transmission medium (the how)              |
+| Primary Function | Marks absolute position in media | Defines frame rate, drop‑frame rules, and bit structure | Converts SMPTE code into transmittable audio signal |
+| Reading Condition | Static data (e.g., file metadata) | Exists only when carried by LTC or VITC | Must be in playback/motion to generate signal       |
+| Transmission Medium | None (just numeric value) | None (just protocol) | Analog audio cables, digital audio (AES/EBU)        |
+| Example Form | e.g., Frame 12345 | e.g., 01:02:03:04 (Drop‑Frame) | e.g., square‑wave sound on a timecode track         |
 ---
 
 ### 4. 進階補充：VITC 與 LTC 的對比 (Advanced: VITC vs. LTC)
