@@ -109,8 +109,11 @@ Timecode 是「語言的概念」，SMPTE 是「正式的文法與字典」，�
 
 ##### English
 Timecode is the conceptual “language” – a generic label for position.
+
 SMPTE timecode is the formal “grammar and dictionary” – the standard that defines frame rates, drop‑frame rules, and bit structure.
+
 Linear Timecode (LTC) is the “sound wave” that speaks that language – the physical audio signal that carries the SMPTE data.
+
 Without LTC, SMPTE codes cannot be dynamically transmitted between devices; without the SMPTE standard, LTC is just meaningless noise; and Timecode is the overarching term that encompasses all of these.
 
 ---
