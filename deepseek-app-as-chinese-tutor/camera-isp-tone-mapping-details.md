@@ -44,14 +44,14 @@ Tone Mapping algorithms fall into two main categories, often used in hybrid form
 在行動裝置 ISP 中，為了節省功耗，硬體通常以 **分段線性（Piecewise Linear, PWL）** 查找表（LUT）來實作曲線，而非複雜的浮點數運算。常見的曲線設計邏輯包含：
 
 - **S-Curve（S 型曲線）**： 壓縮暗部與亮部，拉伸中間調（Mid-tone）以提升視覺銳利度。
-- **Reinhard 基調映射**： _L_d = L_w / (1 + L_w)_，簡單有效，但適應性較差。
+- **Reinhard 基調映射**： $L_d = L_w / (1 + L_w)$，簡單有效，但適應性較差。
 - **基於直方圖均衡（Histogram Equalization）**： 根據像素分佈累積密度函數（CDF）動態調整曲線斜率，特別適用於逆光場景（Backlight）處理。
 
 #### English:
 In mobile ISP hardware, to save power, curves are typically implemented via **Piecewise Linear (PWL) Look-Up Tables (LUTs)** rather than complex floating-point units. Common curve design logics include:
 
 - **S-Curve**: Compresses shadows and highlights while stretching the mid-tones to boost visual sharpness.
-- **Reinhard Mapping**: _L_d = L_w / (1 + L_w)_. Simple and effective but lacks adaptability.
+- **Reinhard Mapping**: $L_d = L_w / (1 + L_w)$. Simple and effective but lacks adaptability.
 - **Histogram Equalization-based**: Dynamically adjusts curve slopes based on the Cumulative Distribution Function (CDF) of pixel distribution, particularly effective for backlight scene processing.
 
 ---
