@@ -2,7 +2,7 @@ Here is a comprehensive, bilingual (English + Chinese) deep dive into **Analog G
 
 ---
 
-=== 1. Analog Gain (模擬增益)
+### 1. Analog Gain (模擬增益)
 
 - **Definition (English)**: Amplification of the electrical signal (voltage) coming directly from the image sensor’s photodiodes before the Analog-to-Digital Converter (ADC) performs the conversion.
 - **Definition (中文)**: 在類比數位轉換器（ADC）進行轉換之前，對影像感光元件光電二極體產生的電訊號（電壓）進行的放大。
@@ -15,7 +15,7 @@ Here is a comprehensive, bilingual (English + Chinese) deep dive into **Analog G
 
 ---
 
-=== 2. Digital Gain (數位增益)
+### 2. Digital Gain (數位增益)
 
 - **Definition (English)**: Amplification of the numerical pixel values after the signal has been converted into digital bits (RAW data) by the ADC.
 - **Definition (中文)**: 訊號經過ADC轉換為數位位元（RAW數據）之後，對數值像素進行的放大。
@@ -28,7 +28,7 @@ Here is a comprehensive, bilingual (English + Chinese) deep dive into **Analog G
 
 ---
 
-=== 3. SNR – Signal-to-Noise Ratio (信噪比)
+### 3. SNR – Signal-to-Noise Ratio (信噪比)
 
 - **Definition (English)**: The ratio of the power of the meaningful image signal to the power of the background noise. Mathematically: SNR = Signal Power / Noise Power (often expressed in dB or stops).
 - **Definition (中文)**: 有效影像訊號功率與背景噪聲功率的比值。數學式：SNR = 訊號功率 / 噪聲功率（常用分貝dB或檔位表示）。
@@ -49,7 +49,7 @@ Here is a comprehensive, bilingual (English + Chinese) deep dive into **Analog G
 
 ---
 
-=== 4. Dynamic Range (動態範圍)
+### 4. Dynamic Range (動態範圍)
 
 - **Definition (English)**: The camera’s ability to capture the widest possible range of luminance levels, from the brightest non-saturating highlight to the darkest shadow above the noise floor. DR = Max Signal (Saturation Capacity) / Noise Floor (Read Noise).
 - **Definition (中文)**: 相機捕捉最寬亮度範圍的能力——從不飽和的最亮高光，到高於噪聲底限的最暗陰影。DR = 最大訊號（飽和容量）/ 噪聲底限（讀出噪聲）。
