@@ -29,9 +29,9 @@ PTP 採用主從（Master‑Slave）階層架構。主時鐘（Grandmaster）作
 
 從端利用四個時間戳計算：
 
-&middot; 平均延遲：$$\text{Delay} = \frac{(t_2 - t_1) + (t_4 - t_3)}{2}$$
+&middot; 平均延遲： $$\text{Offset} = \frac{(t_2 - t_1) - (t_4 - t_3)}{2}$$
 
-&middot; 時鐘偏移：$$\text{Offset} = \frac{(t_2 - t_1) - (t_4 - t_3)}{2}$$
+&middot; 時鐘偏移： $$\text{Offset} = \frac{(t_2 - t_1) - (t_4 - t_3)}{2}$$
   之後從端將本地時鐘調整為「主時鐘時間 + Offset」，即可達到同步。
 
 
