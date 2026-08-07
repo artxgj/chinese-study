@@ -169,7 +169,7 @@ In mobile devices and IoT sensors, readout power consumption is critical. Common
 · Adaptive Frame Rate: Automatically reduces the readout frame rate (e.g., from 30fps to 5fps) in static scenes.<br>
 · Region-of-Interest (ROI) Readout: Reads out only specific blocks of the frame (e.g., face detection areas), drastically reducing the amount of readout data.<br>
 · Dynamic Voltage and Frequency Scaling (DVFS): Dynamically adjusts the clock frequency and voltage of the ADC and interface based on the number of rows being read.
-notes
+
 ---
 
 ### 8. 總結與未來趨勢<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Conclusion and Future Trends
