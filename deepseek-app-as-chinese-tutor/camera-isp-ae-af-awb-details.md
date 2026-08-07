@@ -38,7 +38,7 @@ AE的終極目標是**獲得正確亮度的影像**，即讓畫面亮度逼近�
 
 #### English
 
-The ultimate goal of AE is to obtain an image with correct luminance, making the scene brightness approach a target value (usually 18% neutral gray).
+The ultimate goal of AE is to **obtain an image with correct luminance**, making the scene brightness approach a target value (usually 18% neutral gray).
 
 - **Core Control Parameters (Exposure Triangle)**:
   - **Shutter Speed**: Controls the duration of light intake (affects motion blur).
@@ -52,15 +52,15 @@ The ultimate goal of AE is to obtain an image with correct luminance, making the
 
 ---
 
-3. AF (自動對焦 / Automatic Focus)
+### 3. AF (自動對焦 / Automatic Focus)
 
 #### 中文
 
-AF的目標是確保主體清晰銳利，即讓感測器平面精確落在鏡頭的焦平面上。
+AF的目標是**確保主體清晰銳利**，即讓感測器平面精確落在鏡頭的焦平面上。
 
 - **三大對焦技術 (Three Major Technologies)**：
   - **對比度偵測 (CDAF / Contrast Detection)**：傳統反差對焦。透過移動鏡頭，尋找畫面中邊緣對比度（高頻訊號）最高的位置。精準但來回搜尋速度慢，容易「拉風箱」。
-  - **相位偵測 (PDAF / Phase Detection)**：主流相位對焦。在感測器畫素上嵌入遮蔽式光電二極體（Split PD），捕捉左右兩個視差影像。透過計算兩者之間的相位差 (Phase Shift) 與方向，直接計算出鏡頭所需的移動距離與方向，實現「一次到位」的快速對焦。
+  - **相位偵測 (PDAF / Phase Detection)**：主流相位對焦。在感測器畫素上嵌入遮蔽式光電二極體（Split PD），捕捉左右兩個視差影像。透過計算兩者之間的**相位差 (Phase Shift)** 與方向，直接計算出鏡頭所需的移動距離與方向，實現「一次到位」的快速對焦。
   - **混合式對焦 (Hybrid AF)**：結合PDAF的高速與CDAF的高精度。先以PDAF快速驅動鏡頭至近焦點附近，再切換CDAF進行微調。
 - **對焦策略 (Focus Strategy)**：
   - **爬山演算法 (Hill-Climbing)**：在CDAF中用於判斷對比度峰值。
@@ -73,7 +73,7 @@ The goal of AF is to ensure the subject is sharp and clear, meaning the sensor p
 
 - **Three Major Focusing Technologies**:
   - **Contrast Detection (CDAF)**: Traditional contrast AF. Moves the lens to find the peak position of edge contrast (high-frequency signals). It is accurate but slow due to back-and-forth searching (hunting).
-  - **Phase Detection (PDAF)**: Mainstream phase AF. Embeds shielded split photodiodes (Split PD) in pixels to capture left and right parallax images. By calculating the phase shift and direction between them, it directly computes the required lens movement distance and direction, achieving "one-shot" fast focusing.
+  - **Phase Detection (PDAF)**: Mainstream phase AF. Embeds shielded split photodiodes (Split PD) in pixels to capture left and right parallax images. By calculating the **phase shift** and direction between them, it directly computes the required lens movement distance and direction, achieving "one-shot" fast focusing.
   - **Hybrid AF**: Combines the speed of PDAF and the accuracy of CDAF. It uses PDAF to quickly drive the lens near the focal point, then switches to CDAF for fine-tuning.
 - **Focus Strategy**:
   - **Hill-Climbing Algorithm**: Used in CDAF to determine the contrast peak.
@@ -93,19 +93,19 @@ AWB的核心是**色彩恆常性 (Color Constancy)**，即在不同色溫光源�
   - **灰世界假設 (Gray World Assumption)**：假設自然場景的平均反射率是灰階的（即RGB平均值相等）。此法適用於色彩豐富的場景，但遇到大面積單色（如藍天、綠葉）時會失效。
   - **完美反射假設 (Perfect Reflector / White Patch)**：假設畫面中最亮的點即為白色，以此作為參考進行增益調整。適合處理高光場景，但對極亮光源敏感。
   - **色溫估計法 (Color Temperature Estimation)**：將影像投影至色溫座標（如K值），根據落點判斷目前光源（如日光5500K、鎢絲燈2800K、陰影7000K），查表或內插取得對應增益。
-- **現代AI-AWB**：透過大數據訓練深度網路，直接學習影像畫素分佈與光源類別的對應關係，能有效處理混合光源（如室內日光燈+窗外陽光）的複雜情況，避免面部膚色蠟黃或死白。
+- **現代AI-AWB**：透過大數據訓練深度網路，直接學習影像畫素分佈與光源類別的對應關係，能有效處理**混合光源**（如室內日光燈+窗外陽光）的複雜情況，避免面部膚色蠟黃或死白。
 - **統計窗口 (Statistics Window)**：ISP會排除過暗或過飽和的畫素，專門提取中灰色塊進行統計，以提高AWB準確性。
 
 #### English
 
-The core of AWB is Color Constancy—restoring white objects to true white under different color temperature light sources, eliminating the color cast caused by ambient light.
+The core of AWB is **Color Constancy**—restoring white objects to true white under different color temperature light sources, eliminating the color cast caused by ambient light.
 
 - **Core Principle**: Adjusts the gain values of the RGB channels so that the "gray" areas in the image satisfy the balance condition of R=G=B.
 - **Mainstream Algorithms**:
   - **Gray World Assumption**: Assumes the average reflectance of natural scenes is gray (i.e., average RGB values are equal). This works well for colorful scenes but fails in large uniform-color areas (e.g., blue skies, green leaves).
   - **Perfect Reflector (White Patch)**: Assumes the brightest point in the frame is white and uses it as a reference for gain adjustment. Suitable for highlight scenes but sensitive to extremely bright light sources.
   - **Color Temperature Estimation**: Projects the image onto a color temperature coordinate (e.g., Kelvin values). Based on the landing point, it determines the current light source (e.g., Daylight 5500K, Tungsten 2800K, Shade 7000K) and looks up a table or interpolates to obtain the corresponding gains.
-- **Modern AI-AWB**: Uses deep networks trained on big data to directly learn the mapping between pixel distribution and illumination categories. It effectively handles complex mixed lighting (e.g., indoor fluorescent + outdoor sunlight), preventing facial skin tones from turning sallow or pale.
+- **Modern AI-AWB**: Uses deep networks trained on big data to directly learn the mapping between pixel distribution and illumination categories. It effectively handles complex **mixed lighting** (e.g., indoor fluorescent + outdoor sunlight), preventing facial skin tones from turning sallow or pale.
 - **Statistics Window**: The ISP excludes overly dark or saturated pixels to specifically extract neutral gray blocks for statistics, significantly improving AWB accuracy.
 
 ---
@@ -134,8 +134,8 @@ In the actual ISP pipeline, the 3A do not work in silos:
 
 #### 中文
 
-傳統的3A演算法依賴於手工設計的特徵與統計模型（Hand-crafted features）。進入2026年，隨著端側AI算力爆發，端到端學習型3A (End-to-End Learning-based 3A) 已成為主流。廠商不再獨立調試AE/AF/AWB，而是訓練單一大型神經網路，直接將Raw Data映射為最佳的「曝光/對焦/白平衡」參數組，實現「場景感知」的智慧相機，大幅提升抓拍成功率與色彩美學。
+傳統的3A演算法依賴於手工設計的特徵與統計模型（Hand-crafted features）。進入2026年，隨著端側AI算力爆發，**端到端學習型3A (End-to-End Learning-based 3A)** 已成為主流。廠商不再獨立調試AE/AF/AWB，而是訓練單一大型神經網路，直接將Raw Data映射為最佳的「曝光/對焦/白平衡」參數組，實現「場景感知」的智慧相機，大幅提升抓拍成功率與色彩美學。
 
 #### English
 
-Traditional 3A algorithms rely on hand-crafted features and statistical models. Entering 2026, with the explosion of on-device AI computing power, End-to-End Learning-based 3A has become mainstream. Manufacturers no longer debug AE/AF/AWB independently; instead, they train a single large neural network to directly map Raw Data to the optimal set of "Exposure/Focus/White Balance" parameters. This enables "scene-aware" smart cameras, drastically improving the success rate of snapshots and color aesthetics.
+Traditional 3A algorithms rely on hand-crafted features and statistical models. Entering 2026, with the explosion of on-device AI computing power, **End-to-End Learning-based 3A** has become mainstream. Manufacturers no longer debug AE/AF/AWB independently; instead, they train a single large neural network to directly map Raw Data to the optimal set of "Exposure/Focus/White Balance" parameters. This enables "scene-aware" smart cameras, drastically improving the success rate of snapshots and color aesthetics.
