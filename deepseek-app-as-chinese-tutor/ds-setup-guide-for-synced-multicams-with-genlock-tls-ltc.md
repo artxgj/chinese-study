@@ -95,11 +95,11 @@ Enable the camera's "Display Output" to burn the Timecode onto the SDI return fe
 &nbsp;&nbsp;If Genlock is set to 59.94 Hz but LTC is set to 23.98 fps, the camera will reject synchronization. Solution：Ensure the Genlock's "division factor" corresponds to the LTC frame rate.
 
 · 陷阱 2（Pitfall 2）：終端阻抗（Improper Termination）<br>
-&nbsp;&nbsp;若使用類比訊號串接（Daisy-chain）而非 DA，請務必將線路「末端」的攝影機打開 75-ohm Termination 開關，否則會產生回波反射導致畫面抖動。
+&nbsp;&nbsp;若使用類比訊號串接（Daisy-chain）而非 DA，請務必將線路「末端」的攝影機打開 75-ohm Termination 開關，否則會產生回波反射導致畫面抖動。<br>
 &nbsp;&nbsp;If using analog daisy-chaining instead of a DA, be sure to turn on the 75-ohm Termination switch on the last camera in the chain. Otherwise, echo reflections will cause picture jitter.
 
-· 陷阱 3（Pitfall 3）：LTC 音量過大（LTC Audio Level Too High）
-&nbsp;&nbsp;若將 LTC 誤入 Audio In，且未衰減（Attenuation），會造成音頻破音與時間碼解碼失敗。LTC 標準電平為 0 dBu ~ +4 dBu。
+· 陷阱 3（Pitfall 3）：LTC 音量過大（LTC Audio Level Too High）<br>
+&nbsp;&nbsp;若將 LTC 誤入 Audio In，且未衰減（Attenuation），會造成音頻破音與時間碼解碼失敗。LTC 標準電平為 0 dBu ~ +4 dBu。<br>
 &nbsp;&nbsp;If LTC is accidentally fed into Audio In without attenuation, it will cause audio clipping and timecode decoding failure. The standard LTC level is 0 dBu ~ +4 dBu.
 
 ---
