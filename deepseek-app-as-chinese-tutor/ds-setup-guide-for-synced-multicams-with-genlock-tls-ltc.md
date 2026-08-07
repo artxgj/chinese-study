@@ -17,16 +17,13 @@ This comprehensive guide covers the entire workflow from core principles, physic
 Q1：這三個訊號分別負責什麼？<br>
 Q1: What do these three signals do respectively?
 
-· Genlock (同步鎖相)：確保所有攝影機的畫格邊緣完全對齊。它是「骨架」，讓視訊切換器（Switcher）能在無撕裂（Glitch-free）的情況下進行即時切換。
-
+· Genlock (同步鎖相)：確保所有攝影機的畫格邊緣完全對齊。它是「骨架」，讓視訊切換器（Switcher）能在無撕裂（Glitch-free）的情況下進行即時切換。<br>
 · Genlock：Ensures the frame edges of all cameras are perfectly aligned. It acts as the "skeleton," allowing the video switcher to perform real-time cuts without glitches.
 
 · Tri-level Sync (三級同步)：這是高畫質（HD）與高速格率專用的 Genlock 訊號類型（取代舊式 Black Burst）。它提供極精確的畫格起始點，適合 1080p/4K 及慢動作（HFR）系統。
+· Tri-level Sync：This is the specific HD and high-frame-rate Genlock signal type (replacing old Black Bur<br>st). It provides extremely precise frame-starting points, suitable for 1080p/4K and High Frame Rate (HFR) systems.
 
-· Tri-level Sync：This is the specific HD and high-frame-rate Genlock signal type (replacing old Black Burst). It provides extremely precise frame-starting points, suitable for 1080p/4K and High Frame Rate (HFR) systems.
-
-· Linear Timecode (LTC / 線性時間碼)：這是一條獨立的音頻等級類比訊號，負責讓所有攝影機的時間戳（時：分：秒：格）完全一致，確保後期剪輯時所有素材能「一秒對齊」。
-
+· Linear Timecode (LTC / 線性時間碼)：這是一條獨立的音頻等級類比訊號，負責讓所有攝影機的時間戳（時：分：秒：格）完全一致，確保後期剪輯時所有素材能「一秒對齊」。<br>
 · Linear Timecode (LTC)：This is a separate audio-level analog signal responsible for making the timestamps (Hour:Min:Sec:Frame) identical across all cameras, ensuring all clips align perfectly in post-production.
 
 ---
@@ -94,16 +91,16 @@ Enable the camera's "Display Output" to burn the Timecode onto the SDI return fe
 ### 第五部分：常見陷阱與除錯 / Part 5: Common Pitfalls & Troubleshooting
 
 · 陷阱 1（Pitfall 1）：格率牴觸（Frame Rate Mismatch）<br>
-&nbsp;若 Genlock 設定為 59.94 Hz，但 LTC 設定為 23.98 fps，攝影機會拒絕同步。解法：確認 Genlock 的「分頻係數」對應 LTC。<br>
-&nbsp;If Genlock is set to 59.94 Hz but LTC is set to 23.98 fps, the camera will reject synchronization. Solution：Ensure the Genlock's "division factor" corresponds to the LTC frame rate.
+&nbsp;&nbsp;若 Genlock 設定為 59.94 Hz，但 LTC 設定為 23.98 fps，攝影機會拒絕同步。解法：確認 Genlock 的「分頻係數」對應 LTC。<br>
+&nbsp;&nbsp;If Genlock is set to 59.94 Hz but LTC is set to 23.98 fps, the camera will reject synchronization. Solution：Ensure the Genlock's "division factor" corresponds to the LTC frame rate.
 
 · 陷阱 2（Pitfall 2）：終端阻抗（Improper Termination）<br>
-&nbsp;若使用類比訊號串接（Daisy-chain）而非 DA，請務必將線路「末端」的攝影機打開 75-ohm Termination 開關，否則會產生回波反射導致畫面抖動。
-&nbsp;If using analog daisy-chaining instead of a DA, be sure to turn on the 75-ohm Termination switch on the last camera in the chain. Otherwise, echo reflections will cause picture jitter.
+&nbsp;&nbsp;若使用類比訊號串接（Daisy-chain）而非 DA，請務必將線路「末端」的攝影機打開 75-ohm Termination 開關，否則會產生回波反射導致畫面抖動。
+&nbsp;&nbsp;If using analog daisy-chaining instead of a DA, be sure to turn on the 75-ohm Termination switch on the last camera in the chain. Otherwise, echo reflections will cause picture jitter.
 
 · 陷阱 3（Pitfall 3）：LTC 音量過大（LTC Audio Level Too High）
-&nbsp;若將 LTC 誤入 Audio In，且未衰減（Attenuation），會造成音頻破音與時間碼解碼失敗。LTC 標準電平為 0 dBu ~ +4 dBu。
-&nbsp;If LTC is accidentally fed into Audio In without attenuation, it will cause audio clipping and timecode decoding failure. The standard LTC level is 0 dBu ~ +4 dBu.
+&nbsp;&nbsp;若將 LTC 誤入 Audio In，且未衰減（Attenuation），會造成音頻破音與時間碼解碼失敗。LTC 標準電平為 0 dBu ~ +4 dBu。
+&nbsp;&nbsp;If LTC is accidentally fed into Audio In without attenuation, it will cause audio clipping and timecode decoding failure. The standard LTC level is 0 dBu ~ +4 dBu.
 
 ---
 
