@@ -69,6 +69,7 @@
 ### 📐 阶段 8：几何校正与电子防抖 (Geometric Correction & EIS - Electronic Image Stabilization)
 
 **中文**：依据陀螺仪旋转矩阵，对图像进行网格形变（Mesh Warp） 或仿射变换，裁切边缘以补偿抖动。此步骤与畸变校正（Distortion Correction） 及滚动快门校正（Rolling Shutter Correction） 合并在同一硬件引擎中，确保广角视频不歪斜。
+
 **English**：Using gyro rotation matrices, applies Mesh Warp or Affine transformation, cropping borders to compensate shakes. This is fused with Distortion Correction and Rolling Shutter Correction in one HW engine to ensure wide-angle videos stay straight.
 
 ---
@@ -76,6 +77,7 @@
 ### 📦 阶段 9：缩放、裁剪与格式转换 (Scaling, Cropping & Format Conversion)
 
 **中文**：将处理后的YUV（通常为YUV422或YUV420）经由多相滤波器（Polyphase） 缩放到目标录制分辨率（如4K→1080p）。同时执行色调映射（HDR→SDR） 和色彩空间转换（BT.709 ↔ BT.2020），准备送入编码器。
+
 **English**：Uses Polyphase filters to scale processed YUV (usually YUV422/420) to target recording resolution (e.g., 4K→1080p). Simultaneously applies HDR→SDR tone mapping and color space conversion (BT.709 ↔ BT.2020) before feeding the encoder.
 
 ---
@@ -83,6 +85,7 @@
 ### 🎞️ 阶段 10：视频编码与码率控制 (Video Encoding & Rate Control - VBR/CBR)
 
 **中文**：YUV帧送入硬件编码器（H.264/H.265/AV1）。码率控制（RC） 根据运动复杂度动态分配QP（量化参数），采用CBR（恒定码率） 保证网络直播稳定性，或 VBR（可变码率） 提升存储效率。I/P/B帧参考逻辑在此完成。
+
 **English**：YUV frames are fed into HW encoder (H.264/H.265/AV1). Rate Control (RC) dynamically assigns QPs based on motion complexity, using CBR for livestream stability or VBR for storage efficiency. I/P/B frame reference logic is finalized here.
 
 ---
@@ -90,6 +93,7 @@
 ### 🗂️ 阶段 11：封装与文件写入 (Muxing & File Writing - MP4/MOV)
 
 **中文**：编码后的ES流（基本码流）与音频流、元数据（时间码、GPS、旋转角度）复用封装为 MP4/MOV 容器。此过程同步写入存储（UFS/SSD），并生成 moov 头文件以供快速播放。
+
 **English**：Encoded ES streams are multiplexed with audio tracks, metadata (timecode, GPS, rotation) into MP4/MOV containers. This is synchronously written to storage (UFS/SSD) with moov atoms generated for quick playback.
 
 ---
@@ -97,6 +101,7 @@
 ### 🎬 阶段 12：后处理与特效渲染 (Post-Processing & Effects Rendering) —— 应用层
 
 **中文（录制完成后或实时预览）**：视频文件解码回YUV/RGB后，应用层叠加美颜（磨皮/瘦脸）、滤镜（LUT映射）、动态贴纸或色彩分级。此阶段由GPU/NPU加速，非ISP原生路径，但决定最终“观感”。
+
 **English (Post-recording or preview)**：After decoding file back to YUV/RGB, app layers apply Beautification (smoothing/slimming)、Filters (LUT mapping)、Dynamic stickers or Color Grading. This is GPU/NPU accelerated, not ISP-native, but determines final "cinematic look".
 
 ---
