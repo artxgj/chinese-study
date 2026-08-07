@@ -125,4 +125,4 @@ Enable the camera's "Display Output" to burn the Timecode onto the SDI return fe
 
 把 **Tri-level Sync** 當作「心臟跳動的節拍器」，確保每台攝影機在同一毫秒睜開眼睛；把 **LTC** 當作「日記本的頁碼」，確保剪接師能找到同一頁。兩者缺一不可，且務必透過 DA 分配，嚴守 75 歐姆阻抗規範。
 
-Treat Tri-level Genlock as the "metronome" forcing every camera to open its shutter at the exact same millisecond, and treat LTC as the "page numbers" for your editor to locate frames. Both are mandatory. Always distribute via a DA and strictly adhere to 75-ohm termination rules to avoid signal reflections. When both are locked, you achieve true Frame-Accurate multi-camera production.
+Treat **Tri-level Genlock** as the "metronome" forcing every camera to open its shutter at the exact same millisecond, and treat **LTC** as the "page numbers" for your editor to locate frames. Both are mandatory. Always distribute via a DA and strictly adhere to 75-ohm termination rules to avoid signal reflections. When both are locked, you achieve true **Frame-Accurate** multi-camera production.
