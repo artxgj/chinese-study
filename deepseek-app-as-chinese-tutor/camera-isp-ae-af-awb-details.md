@@ -12,11 +12,11 @@
 
 #### 中文
 
-ISP (Image Signal Processor) 是相機系統的「大腦」，負責將CMOS感測器輸出的原始電訊號（Raw Data）轉換為人眼可見的優質影像。在ISP流程中，AE、AF、AWB 被合稱為「3A」，它們是決定照片基礎品質（亮度、清晰度、色彩真實性）的三大支柱。三者並非獨立運作，而是透過統計單元（Statistics Engine）緊密耦合，形成閉環控制系統。
+ISP (Image Signal Processor) 是相機系統的「大腦」，負責將CMOS感測器輸出的原始電訊號（Raw Data）轉換為人眼可見的優質影像。在ISP流程中，**AE**、**AF**、**AWB** 被合稱為「3A」，它們是決定照片基礎品質（亮度、清晰度、色彩真實性）的三大支柱。三者並非獨立運作，而是透過統計單元（Statistics Engine）緊密耦合，形成閉環控制系統。
 
 #### English
 
-The ISP (Image Signal Processor) acts as the "brain" of the camera system, converting the raw electrical signals (Raw Data) from the CMOS sensor into high-quality images visible to the human eye. Within the ISP pipeline, AE, AF, and AWB are collectively known as the "3A." They are the three pillars determining the fundamental quality of a photo—brightness, sharpness, and color accuracy. These three are not independent; they are tightly coupled through a Statistics Engine, forming a closed-loop control system.
+The ISP (Image Signal Processor) acts as the "brain" of the camera system, converting the raw electrical signals (Raw Data) from the CMOS sensor into high-quality images visible to the human eye. Within the ISP pipeline, **AE**, **AF**, and **AWB** are collectively known as the "3A." They are the three pillars determining the fundamental quality of a photo—brightness, sharpness, and color accuracy. These three are not independent; they are tightly coupled through a Statistics Engine, forming a closed-loop control system.
 
 ---
 
@@ -24,7 +24,7 @@ The ISP (Image Signal Processor) acts as the "brain" of the camera system, conve
 
 #### 中文
 
-AE的終極目標是獲得正確亮度的影像，即讓畫面亮度逼近目標值（通常為18%中性灰）。
+AE的終極目標是**獲得正確亮度的影像**，即讓畫面亮度逼近目標值（通常為18%中性灰）。
 
 - 核心控制參數 (Exposure Triangle)：
   - 快門速度 (Shutter Speed)：控制感測器進光時間長短（影響動態模糊）。
