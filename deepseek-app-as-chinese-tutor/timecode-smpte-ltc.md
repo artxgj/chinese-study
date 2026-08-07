@@ -56,8 +56,7 @@ LTC is the “carrier signal” for SMPTE timecode. It encodes the binary data i
 
 | 項目 (Item) | Timecode (時間碼)   | SMPTE Timecode (SMPTE 時間碼)  | Linear Timecode (LTC)           |
 | --------- | ---------------- | --------------------------- | ------------------------------- |
-| 中文定位      | 最高層級的抽象概念        | 具體的標準規範（內容）                 | 具體的傳輸介質（載體）                     |
-| 英文定位      | Abstract Concept | Content / Standard (What)   | Physical Carrier / Medium (How) |
+|       | 最高層級的抽象概念        | 具體的標準規範（內容）                 | 具體的傳輸介質（載體）                     |
 | 主要功能      | 標示媒體檔案的絕對位置      | 定義幀率、丟幀規則與格式                | 將 SMPTE 碼轉為可傳輸的音頻信號             |
 | 讀取條件      | 靜態數據（如檔案屬性）      | 需靠 LTC 或 VITC 傳輸才能存在        | 必須在播放/運行中才能產生信號                 |
 | 傳輸媒介      | 無（僅為數值）          | 無（僅為協議）                     | 類比音頻線、數位音頻線 (AES/EBU)           |
@@ -65,9 +64,9 @@ LTC is the “carrier signal” for SMPTE timecode. It encodes the binary data i
 
 <br>
 
-| | | |                                                     |
+| Item | Timecode   | SMPTE Timecode  | Linear Timecode (LTC)           |
 | - | - | - |-----------------------------------------------------|
-| English Positioning | Highest‑level abstraction | Concrete standard (the what) | Concrete transmission medium (the how)              |
+|  | Highest‑level Abstraction | Concrete Standard (The What) | Concrete Transmission Medium (The How)              |
 | Primary Function | Marks absolute position in media | Defines frame rate, drop‑frame rules, and bit structure | Converts SMPTE code into transmittable audio signal |
 | Reading Condition | Static data (e.g., file metadata) | Exists only when carried by LTC or VITC | Must be in playback/motion to generate signal       |
 | Transmission Medium | None (just numeric value) | None (just protocol) | Analog audio cables, digital audio (AES/EBU)        |
