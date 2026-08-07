@@ -67,22 +67,22 @@ Based on the timing differences between pixel exposure and readout, there are tw
 #### 中文
 為了提升影像品質，現代感測器整合了以下讀出技術：
 
-(1) 相關雙重取樣（CDS – Correlated Double Sampling）
+##### (1) 相關雙重取樣（CDS – Correlated Double Sampling）
 
 · **原理**：對同一個畫素的「重設電壓」與「信號電壓」進行兩次採樣並相減。<br>
 · **效果**：有效消除低頻雜訊（如1/f雜訊、熱雜訊）及源極隨耦器的臨界電壓變異，大幅降低固定圖樣雜訊（FPN）。
 
-(2) 高動態範圍讀出（HDR Readout）
+##### (2) 高動態範圍讀出（HDR Readout）
 
 · **多曝光合成（Multi-Exposure）**：依次讀出長、短不同曝光時間的畫素資料，於數位域合成為高動態範圍影像。<br>
 · **雙轉換增益（DCG – Dual Conversion Gain）**：透過切換FD電容，於同一幀內讀出低增益（高容量）與高增益（低容量）信號，無需延遲即可擴展動態範圍（常見於Sony STARVIS系列）。
 
-(3) 像素合併（Pixel Binning）
+##### (3) 像素合併（Pixel Binning）
 
 · **原理**：將相鄰的2x2或4x4畫素的電荷在讀出前進行類比合併（或數位相加）。<br>
 · **效果**：提升信噪比（SNR）達3~6dB，同時有效降低解析度以換取更快的讀出幀率（多用於低光預覽或4K錄影）。
 
-(4) 子採樣 / 跳行讀出（Sub-sampling / Skipping）
+##### (4) 子採樣 / 跳行讀出（Sub-sampling / Skipping）
 
 · **原理**：僅讀出陣列中特定的行或列，跳過其他畫素。<br>
 · **效果**：大幅提升幀率，但易產生摩爾紋（Aliasing），現多被「像素合併」取代。
@@ -90,22 +90,22 @@ Based on the timing differences between pixel exposure and readout, there are tw
 #### English
 To enhance image quality, modern sensors integrate the following readout techniques:
 
-(1) Correlated Double Sampling (CDS)
+##### (1) Correlated Double Sampling (CDS)
 
 · **Principle**: Performs two samples on the same pixel—the "reset voltage" and the "signal voltage"—and subtracts them.<br>
 · **Effect**: Effectively eliminates low-frequency noise (e.g., 1/f noise, thermal noise) and threshold variations of the Source Follower, significantly reducing Fixed Pattern Noise (FPN).
 
-(2) HDR Readout (High Dynamic Range)
+##### (2) HDR Readout (High Dynamic Range)
 
 · **Multi-Exposure Synthesis**: Sequentially reads out long and short exposure pixel data, combining them in the digital domain to produce an HDR image.<br>
 · **Dual Conversion Gain (DCG)**: Switches the FD capacitance to read out both low-gain (high capacity) and high-gain (low capacity) signals within the same frame, extending dynamic range without temporal lag (commonly found in Sony STARVIS series).
 
-(3) Pixel Binning
+##### (3) Pixel Binning
 
 · **Principle**: Combines the charges of adjacent pixels (e.g., 2x2 or 4x4) either in the analog domain (before ADC) or digitally (after ADC).<br>
 · **Effect**: Boosts the Signal-to-Noise Ratio (SNR) by 3~6dB while effectively reducing resolution to achieve faster readout frame rates (widely used in low-light previews or 4K video recording).
 
-(4) Sub-sampling / Skipping
+##### (4) Sub-sampling / Skipping
 
 · **Principle**: Reads out only specific rows and columns from the array, skipping the rest.<br>
 · **Effect**: Dramatically increases frame rate but is prone to aliasing (Moiré patterns). It is now largely replaced by pixel binning.
