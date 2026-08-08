@@ -98,12 +98,12 @@ $$y_{校正} = y(1 + k_1 r^2 + k_2 r^4 + k_3 r^6) + [p_1 (r^2 + 2y^2) + 2p_2 xy]
 | **Principle** | Detects chessboard corners; solves via Zhang’s method (closed-form). | Detects active/passive marker centroids; uses bundle adjustment with known distances. |
 | **Objective** | Intrinsics + Extrinsics for a fixed stereo pair.                     | **Dynamic Calibration** to track moving rigid bodies in a large volume.                   |
 
-| **<span style="white-space: nowrap;">特點</span>** | **標準電腦視覺**                 | **動作捕捉系統（如 Vicon, OptiTrack）**            |
+| **特點** | **標準電腦視覺**                 | **動作捕捉系統 (如 Vicon, OptiTrack)**            |
 |--------------------------------------------------| ---------------------- | ------------------------------------- |
-| **標靶**                                           | **棋盤格** 或 **ChArUco** 板（平面）。   | **L 型框架**（靜態）與 **T 型/Wand 校準棒**（動態）。          |
-| **材質**                                           | 印刷紙張貼於平面硬板上。           | 精密加工碳纖維材質，貼有反光標記點。                    |
-| **原理**                                           | 偵測棋盤格角點；透過張正友法（封閉解）求解。 | 偵測主動式（LED）或被動式（反光）標記質心；利用已知距離進行光束法平差。 |
-| **目標**                                           | 獲取固定立體視覺對的內參與外參。       | **動態校準**，以在大型空間中追蹤移動物體（剛體）。               |
+| **標靶**  | **棋盤格** 或 **ChArUco** 板（平面）。   | **L 型框架**（靜態）與 **T 型/Wand 校準棒**（動態）。          |
+| **材質**  | 印刷紙張貼於平面硬板上。           | 精密加工碳纖維材質，貼有反光標記點。                    |
+| **原理**  | 偵測棋盤格角點；透過張正友法（封閉解）求解。 | 偵測主動式（LED）或被動式（反光）標記質心；利用已知距離進行光束法平差。 |
+| **目標**  | 獲取固定立體視覺對的內參與外參。       | **動態校準**，以在大型空間中追蹤移動物體（剛體）。               |
 
 ---
 
