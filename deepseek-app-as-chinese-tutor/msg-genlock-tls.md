@@ -271,11 +271,12 @@ Tri-Level Sync (三電平)：
 
 ### 六、總結 │ Summary
 
-#### 中文 English
-MSG 是廣播系統的「時間心臟」，產生所有設備所需的參考同步信號。 MSG is the "timekeeper" of a broadcast system, generating reference sync signals for all devices.
-Genlock 是讓所有設備鎖定到 MSG 參考信號的機制與技術。 Genlock is the mechanism and technique that locks all devices to the MSG's reference signal.
-Tri-Level Sync 是 HD 系統使用的同步信號格式，比傳統黑場更精確、更穩健。 Tri-Level Sync is the sync signal format used in HD systems—more precise and robust than traditional black burst.
-三者共同構成專業影音系統的同步基礎架構，確保多設備間的無縫協作。 Together, they form the synchronization infrastructure of professional AV systems, ensuring seamless collaboration across multiple devices.
+| 中文                                            | English                                                                                                                                     |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| MSG 是廣播系統的「時間心臟」，產生所有設備所需的參考同步信號。             | MSG is the "timekeeper" of a broadcast system, generating reference sync signals for all devices.                                           |
+| Genlock 是讓所有設備鎖定到 MSG 參考信號的機制與技術。             | Genlock is the mechanism and technique that locks all devices to the MSG's reference signal.                                                |
+| Tri-Level Sync 是 HD 系統使用的同步信號格式，比傳統黑場更精確、更穩健。 | Tri-Level Sync is the sync signal format used in HD systems—more precise and robust than traditional black burst.                           |
+| 三者共同構成專業影音系統的同步基礎架構，確保多設備間的無縫協作。              | Together, they form the synchronization infrastructure of professional AV systems, ensuring seamless collaboration across multiple devices. |
 
 ---
 
