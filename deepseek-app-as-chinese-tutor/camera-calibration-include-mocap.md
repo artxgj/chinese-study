@@ -47,8 +47,8 @@ $$s \begin{bmatrix} u \\\\ v \\\\ 1 \end{bmatrix} = A \begin{bmatrix} R | t \end
 其中：
 
 - $s$ 是任意尺度係數。
-- $A$ 是內參矩陣（相機內部屬性）。
-- $[R|t]$ 是外參矩陣（從世界座標到相機座標的旋轉與平移）。
+- $A$ 是**內參矩陣**（相機內部屬性）。
+- $[R|t]$ 是**外參矩陣**（從世界座標到相機座標的旋轉與平移）。
 
 **內參矩陣** $A$:
 
@@ -112,13 +112,13 @@ $$y_{校正} = y(1 + k_1 r^2 + k_2 r^4 + k_3 r^6) + [p_1 (r^2 + 2y^2) + 2p_2 xy]
 ##### English:
 Mocap calibration is strictly divided into two distinct phases:
 
-Phase 1: Static Calibration (Floor / L-Frame)
+##### Phase 1: Static Calibration (Floor / L-Frame)
 
 - The L-frame is placed at the origin of the capture volume.
 - It defines the **World Origin (0,0,0)** and the orientation of the X, Y, and Z axes (usually Z-up).
 - Cameras capture the L-frame to establish the global reference frame and compute coarse extrinsic parameters.
 
-Phase 2: Dynamic Calibration (Wanding / Residual Reduction)
+##### Phase 2: Dynamic Calibration (Wanding / Residual Reduction)
 
 - An operator walks through the entire capture volume waving a **Wand** (a rigid rod of precisely known length, e.g., 500mm).
 - The system tracks the two markers on the wand. Because the distance between them is known, the software triangulates the 3D positions across all camera views.
@@ -127,13 +127,13 @@ Phase 2: Dynamic Calibration (Wanding / Residual Reduction)
 ##### 中文：
 動作捕捉校準嚴格分為兩個不同階段：
 
-第一階段：靜態校準（地面 / L 型框架）
+##### 第一階段：靜態校準（地面 / L 型框架）
 
 - 將 L 型框架放置於捕捉空間的原點。
 - 它定義了**世界原點 (0,0,0)** 以及 X、Y、Z 軸的方向（通常 Z 軸向上）。
 - 相機拍攝 L 型框架以建立全球參考座標系，並計算粗略的外參。
 
-第二階段：動態校準（揮棒校準 / 殘差優化）
+##### 第二階段：動態校準（揮棒校準 / 殘差優化）
 
 - 操作人員在整個捕捉空間內走動並揮舞 **T 型/Wand 校準棒**（已知精確長度的剛性桿，如 500mm）。
 - 系統追蹤校準棒上的兩個標記點。由於兩點間的距離已知，軟體能透過所有相機視角三角化出 3D 位置。
