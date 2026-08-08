@@ -23,7 +23,7 @@ Camera calibration is the process of estimating the parameters of a camera model
 ##### English:
 The standard geometric model is the **Pinhole Camera Model**. The projection of a 3D world point $P(X, Y, Z)$ onto a 2D image point $p(u, v)$ is defined as:
 
-$$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = A \begin{bmatrix} R | t \end{bmatrix} \begin{bmatrix} X \\ Y \\ Z \\ 1 \end{bmatrix}$$
+$$s \begin{bmatrix} u \\\\ v \\\\ 1 \end{bmatrix} = A \begin{bmatrix} R | t \end{bmatrix} \begin{bmatrix} X \\\\ Y \\\\ Z \\\\ 1 \end{bmatrix}$$
 
 Where:
 
@@ -33,7 +33,7 @@ Where:
 
 **The Intrinsic Matrix** $A$:
 
-$$A = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix}$$
+$$A = \begin{bmatrix} f_x & \gamma & c_x \\\\ 0 & f_y & c_y \\\\ 0 & 0 & 1 \end{bmatrix}$$
 
 - $f_x, f_y$: Focal lengths in pixel units (scaled by sensor pixel size).
 - $c_x, c_y$: Principal point (usually the image center).
@@ -42,7 +42,7 @@ $$A = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmat
 ##### 中文：
 標準的幾何模型是針孔相機模型。將 $3D$ 空間點 $P(X, Y, Z)$ 投影至 2D 影像點 $p(u, v)$ 的公式為：
 
-$$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = A \begin{bmatrix} R | t \end{bmatrix} \begin{bmatrix} X \\ Y \\ Z \\ 1 \end{bmatrix}$$
+$$s \begin{bmatrix} u \\\\ v \\\\ 1 \end{bmatrix} = A \begin{bmatrix} R | t \end{bmatrix} \begin{bmatrix} X \\\\ Y \\\\ Z \\\\ 1 \end{bmatrix}$$
 
 其中：
 
@@ -52,7 +52,7 @@ $$s \begin{bmatrix} u \\ v \\ 1 \end{bmatrix} = A \begin{bmatrix} R | t \end{bma
 
 **內參矩陣** $A$:
 
-$$A = \begin{bmatrix} f_x & \gamma & c_x \\ 0 & f_y & c_y \\ 0 & 0 & 1 \end{bmatrix}$$
+$$A = \begin{bmatrix} f_x & \gamma & c_x \\\\ 0 & f_y & c_y \\\\ 0 & 0 & 1 \end{bmatrix}$$
 
 - $f_x, f_y$：以像素為單位的焦距（由感光元件像素尺寸換算）。
 - $c_x, c_y$：主點（通常為影像中心）。
