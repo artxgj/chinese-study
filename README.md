@@ -15,6 +15,7 @@ Classical Chinese poetry
 ### DeepSeek
 
 DeepSeek content in this repo are bilingual.
+- DeepSeek refers to DeepSeek's iOS app.
 - The queries were written in Chinese. The queries were opportunities to practice writing in Chinese.
 - The technology-related content have not yet been fully-verified. The bilingual technical terms appear to be consistent.
   
