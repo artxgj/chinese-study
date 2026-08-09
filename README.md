@@ -13,6 +13,10 @@ Sources:
 Classical Chinese poetry
 
 ### DeepSeek
-Practice writing simple questions in Chinese to query DeepSeek about various topics. DeepSeek's answers are used for reading practice and vocabulary expansion. 
 
+DeepSeek content in this repo are bilingual.
+- The queries were written in Chinese. The queries were opportunities to practice writing in Chinese.
+- The technology-related content have not yet been fully-verified. The bilingual technical terms appear to be consistent.
+  
+---
 **Note**: Translation tools, the Pleco app, and Wiktionary have been tremendously helpful with reading improvement and vocabulary expansion.
