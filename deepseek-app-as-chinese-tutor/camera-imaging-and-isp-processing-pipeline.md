@@ -154,7 +154,7 @@ The processed YUV image data is written to system memory (DDR) via an internal h
                           \/
 +----------------------------------------------------------------------+
 |  ✨ 阶段 5：ISP 后端增强 / Stage 5: Post-ISP                          |
-|  [ 降噪(NR) → 锐化(Sharp) → AI 语义分割与差异化调优(AI Segmentation) ] |
+|  [ 降噪(NR) → 锐化(Sharp) → AI 语义分割与差异化调优 ]                  |
 |  功能：像素级分区降噪与美化 / Pixel-level zone-based NR & enhancement  |
 +----------------------------------------------------------------------+
                           ||
@@ -171,10 +171,10 @@ The processed YUV image data is written to system memory (DDR) via an internal h
 ### 🧩 补充：精简全流程“一句话成图” / 🧩 Supplement: Concise One-Sentence Full Pipeline
 
 #### 中文：
-自然光 → 镜头（自动对焦 + 光圈 + 红外截止）→ 传感器（光电转换 → CDS 降噪 → PGA 放大 → ADC 量化成 RAW）→ ISP 前端（黑电平校准 → 坏点校正 → 镜头阴影补偿）→ ISP 核心（HDR 多帧融合 → 去马赛克 → 白平衡 → CCM 色彩校正 → Gamma/色调映射 → RGB 转 YUV 色域）→ ISP 后端（降噪 → 锐化 → AI 语义分区差异化调优）→ 编码压缩（JPEG 照片 / H.264/H.265 视频）→ 存储至 UFS 闪存 或 通过 DSI/DP 实时显示。
+自然光 → 镜头（自动对焦 + 光圈 + 红外截止）→ 传感器（光电转换 → CDS 降噪 → PGA 放大 → ADC 量化成 RAW）→ ISP 前端（黑电平校准 → 坏点校正 → 镜头阴影补偿）→ ISP 核心（HDR 多帧融合 → 去马赛克 → 白平衡 → CCM 色彩校正 → Gamma/色调映射 → RGB 转 YUV 色域）→ ISP 后端（AI 语义分区引导 → 自适应降噪 + 分区锐化 + 差异化色调调优）→ 编码压缩（JPEG 照片 / H.264/H.265 视频）→ 存储至 UFS 闪存 或 通过 DSI/DP 实时显示。
 
 #### English：
-Natural light → Lens (AF + Aperture + IR Cut) → Sensor (Photoelectric conversion → CDS → PGA → ADC to RAW) → ISP Front-End (Black level → Defect correction → Lens shading compensation) → ISP Core (HDR multi-frame merging → Demosaicing → AWB → CCM color correction → Gamma/Tone mapping → RGB to YUV conversion) → ISP Back-End (Denoising → Sharpening → AI semantic zone-based differential tuning) → Encoding compression (JPEG for photos / H.264/H.265 for video) → Stored to UFS flash or displayed in real-time via DSI/DP.
+Natural light → Lens (AF + Aperture + IR Cut) → Sensor (Photoelectric conversion → CDS → PGA → ADC to RAW) → ISP Front-End (Black level → Defect correction → Lens shading compensation) → ISP Core (HDR multi-frame merging → Demosaicing → AWB → CCM color correction → Gamma/Tone mapping → RGB to YUV conversion) → ISP Back-End (AI semantic zone guidance → Adaptive denoising + Zone-specific sharpening + Differential tone tuning) → Encoding compression (JPEG for photos / H.264/H.265 for video) → Stored to UFS flash or displayed in real-time via DSI/DP.
 
 ---
 
