@@ -129,9 +129,9 @@ The processed YUV image data is massive in size. For photos, the ISP passes it t
                           ||
                           \/
 +------------------------------------------------------+
-|  ⚡ 阶段 2：感光元件 / Stage 2: Image Sensor          |
+|  ⚡ 阶段 2：感光元件 / Stage 2: Image Sensor           |
 |  [ 光电效应(Photo) → 拜耳滤波(Bayer) → ADC(量化) ]    |
-|  输出：RAW 数字信号 / Output: RAW Digital Signal       |
+|  输出：RAW 数字信号 / Output: RAW Digital Signal      |
 +------------------------------------------------------+
                           ||
                           \/
@@ -149,11 +149,11 @@ The processed YUV image data is massive in size. For photos, the ISP passes it t
 +------------------------------------------------------+
                           ||
                           \/
-+------------------------------------------------------+
-|  ✨ 阶段 5：ISP 后端增强 / Stage 5: Post-ISP          |
++----------------------------------------------------------------------+
+|  ✨ 阶段 5：ISP 后端增强 / Stage 5: Post-ISP                          |
 |  [ 降噪(NR) → 锐化(Sharp) → AI 语义分割与差异化调优(AI Segmentation) ] |
-|  功能：像素级分区降噪与美化 / Pixel-level zone-based NR & enhancement |
-+------------------------------------------------------+
+|  功能：像素级分区降噪与美化 / Pixel-level zone-based NR & enhancement  |
++----------------------------------------------------------------------+
                           ||
                           \/
 +------------------------------------------------------+
