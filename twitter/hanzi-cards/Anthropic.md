@@ -297,7 +297,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8EAnthropic%E7%A8%B13%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%B0%8D%E8%87%AA%E8%BA%AB%E6%A8%A1%E5%9E%8B%E9%80%B2%E8%A1%8C%E8%92%B8%E9%A4%BE%E3%80%91%E8%92%B8%E9%A4%BE%E6%98%AF%E5%88%A9%E7%94%A8%E6%9B%B4%E9%AB%98%E7%B4%9AAI%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%BC%B8%E5%87%BA%E6%95%B8%E6%93%9A%E4%BE%86%E8%A8%93%E7%B7%B4%E5%85%B6%E4%BB%96%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8A%80%E8%A1%93%E3%80%82Anthropic%E6%8C%87%E5%87%BA%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%ADDeepSeek%E3%80%81Moonshot+AI%E3%80%81MiniMax%E5%8F%AF%E8%83%BD%E5%90%88%E8%A8%88%E5%89%B5%E5%BB%BA%E4%BA%86%E7%B4%842.4%E8%90%AC%E5%80%8B%E5%95%8F%E9%A1%8C%E5%B8%B3%E6%88%B6%EF%BC%8C%E4%B8%A6%E8%88%87An%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [指出](指出.md), [數據](數據.md), [模型](模型.md)
+[DeepSeek](DeepSeek.md), [指出](指出.md), [數據](數據.md), [模型](模型.md), [輸出](輸出.md)
 ___
 ##### 2026-02-28 02:01:19 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国总统特朗普指示联邦机构“立即”停止使用人工智能（AI）初创公司Anthropic PBC的产品，这标志着这个美国AI巨头与五角大楼之间关于技术安全保障的争端白热化。 https://t.co/xDHhbVM6Su
@@ -402,7 +402,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%903%E5%80%8BAI%E5%8F%83%E5%8A%A0%E6%97%A5%E6%9C%AC%E9%AB%98%E8%80%83%EF%BC%8C%E8%AA%B0%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%EF%BC%9F%E3%80%91%E5%BE%9E%E8%BC%B8%E5%85%A5%E9%A1%8C%E7%9B%AE%E5%88%B0%E8%BC%B8%E5%87%BA%E7%AD%94%E6%A1%88%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%92%8CAnthropic%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%9C%80%E5%BF%AB4%E5%88%86%E9%90%98%E5%B7%A6%E5%8F%B3%E5%8D%B3%E5%8F%AF%E5%AE%8C%E6%88%901%E5%80%8B%E7%A7%91%E7%9B%AE%E7%9A%84%E7%AD%94%E9%A1%8C%E3%80%82OpenAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AD%94%E9%A1%8C%E6%99%82%E9%96%93%E6%98%AF%E5%89%8D%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%842%EF%BD%9E3%E5%80%8D%E3%80%82%E4%B8%89%E5%80%8BAI%E6%A8%A1%E5%9E%8B%E5%9D%87%E6%93%85%E9%95%B7%E7%90%86%E7%A7%91%E7%A7%91%E7%9B%AE%EF%BC%8C%E5%9C%A8%E8%AA%9E%E6%96%87%E5%92%8C%E5%9C%B0%E7%90%86%E7%A7%91%E7%9B%AE%E4%B8%8A%E7%9A%84%E5%A4%B1%E5%88%86%E8%BC%83%E7%82%BA%E6%98%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[OpenAI](OpenAI.md), [日本](日本.md), [模型](模型.md), [谷歌](谷歌.md), [高考](高考.md)
+[OpenAI](OpenAI.md), [日本](日本.md), [模型](模型.md), [谷歌](谷歌.md), [輸出](輸出.md), [高考](高考.md)
 ___
 ##### 2026-01-21 02:27:44 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国人工智能（AI）开发商Anthropic首席执行官（CEO）阿莫代说，向中国出售先进的AI晶片是一个错误，具有“令人难以置信的国家安全影响”，并形容此举如同向朝鲜出售核武器。 https://t.co/x8Y6CXbWtt

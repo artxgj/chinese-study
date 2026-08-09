@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-08-04 22:36:33 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 部分投資者低估AI推理對內存擴展與存儲優化的需求。CXL內存池化可跨CPU/GPU等統一尋址、調度與訪問，支撐大規模高並發大模型訓練推理。現有架構受插槽與單條容量限制，參數與激活值需頻繁在HBM-DRAM-SSD間遷移，導致延遲放大、頻寬浪費與資源分…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E9%83%A8%E5%88%86%E6%8A%95%E8%B3%87%E8%80%85%E4%BD%8E%E4%BC%B0AI%E6%8E%A8%E7%90%86%E5%B0%8D%E5%85%A7%E5%AD%98%E6%93%B4%E5%B1%95%E8%88%87%E5%AD%98%E5%84%B2%E5%84%AA%E5%8C%96%E7%9A%84%E9%9C%80%E6%B1%82%E3%80%82CXL%E5%85%A7%E5%AD%98%E6%B1%A0%E5%8C%96%E5%8F%AF%E8%B7%A8CPU%2FGPU%E7%AD%89%E7%B5%B1%E4%B8%80%E5%B0%8B%E5%9D%80%E3%80%81%E8%AA%BF%E5%BA%A6%E8%88%87%E8%A8%AA%E5%95%8F%EF%BC%8C%E6%94%AF%E6%92%90%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%AB%98%E4%B8%A6%E7%99%BC%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E6%8E%A8%E7%90%86%E3%80%82%E7%8F%BE%E6%9C%89%E6%9E%B6%E6%A7%8B%E5%8F%97%E6%8F%92%E6%A7%BD%E8%88%87%E5%96%AE%E6%A2%9D%E5%AE%B9%E9%87%8F%E9%99%90%E5%88%B6%EF%BC%8C%E5%8F%83%E6%95%B8%E8%88%87%E6%BF%80%E6%B4%BB%E5%80%BC%E9%9C%80%E9%A0%BB%E7%B9%81%E5%9C%A8HBM-DRAM-SSD%E9%96%93%E9%81%B7%E7%A7%BB%EF%BC%8C%E5%B0%8E%E8%87%B4%E5%BB%B6%E9%81%B2%E6%94%BE%E5%A4%A7%E3%80%81%E9%A0%BB%E5%AF%AC%E6%B5%AA%E8%B2%BB%E8%88%87%E8%B3%87%E6%BA%90%E5%88%86%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [HBM](HBM.md), [低估](低估.md), [參數](參數.md), [存儲](存儲.md), [推理](推理.md), [模型](模型.md), [資源](資源.md), [限制](限制.md), [需求](需求.md), [頻寬](頻寬.md)
+___
 ##### 2026-07-22 03:55:51 UTC ~ 汉尼拔火罐
 > RT @Hnbhger17: 过去一周，中国AI突然掀桌子：1.Kimi K3 性能世界第一，成本为三分之一。在48小时内GPU全满，暂停注册。2. https://t.co/ZdLYog4Z2H （原智谱）开始运营1 G瓦的数据中心，100％中国芯，单体世界最大。3.…
 
@@ -69,13 +76,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QingQ77%3A+%E4%B8%80%E4%B8%AA+macOS+%E7%BB%88%E7%AB%AF%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%9C%A8+Apple+Silicon+%E4%B8%8A%E6%9C%AC%E5%9C%B0%E8%B7%91%E8%AF%AD%E9%9F%B3%E8%BD%AC%E6%96%87%E5%AD%97+%2B+%E4%B8%AD%E8%8B%B1%E7%BF%BB%E8%AF%91%E3%80%82%E9%BA%A6%E5%85%8B%E9%A3%8E%E6%88%96%E4%BC%9A%E8%AE%AE%E9%9F%B3%E9%A2%91%E8%BF%9B%E5%8E%BB%EF%BC%8C%E5%AE%9E%E6%97%B6%E5%AD%97%E5%B9%95%E5%92%8C%E7%BF%BB%E8%AF%91%E5%87%BA%E6%9D%A5%EF%BC%8C%E5%85%A8%E7%A8%8B%E4%B8%8D%E8%81%94%E7%BD%91%E3%80%82https%3A%2F%2Ft.co%2FeFZRZ6EDQ7Apple+GPU+%E6%9C%AC%E5%9C%B0%E8%B7%91%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E8%81%94%E7%BD%91%E3%80%82%E6%B5%81%E5%BC%8F+AS%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [mac](mac.md), [工具](工具.md), [麦](麦.md)
-___
-##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
-> RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40H3gletK%3A+%E6%88%91%E7%9A%84mac+mini%E4%B8%8D%E7%9F%A5%E9%81%93%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%A8%E5%A4%A9%E5%BC%80%E5%A7%8BGPU%E8%B4%9F%E8%BD%BD%E4%B8%80%E7%9B%B4%E5%A4%84%E5%9C%A850%25%EF%BC%8C%E9%87%8D%E5%90%AF%E5%AE%8C%E4%B9%8B%E5%90%8E%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%90%AF%E5%8A%A8%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%A4%9A%E3%80%82%E4%B9%8B%E5%89%8D%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BD%9C%EF%BC%8C%E9%9D%99%E6%80%81%E8%B4%9F%E8%BD%BD%E4%B9%9F%E5%BA%94%E8%AF%A5%E5%8F%AA%E6%9C%892%25%E5%B7%A6%E5%8F%B3%E3%80%82)
-##### Other Words/Names of Interest in the Above Tweet
-[mac](mac.md), [一直](一直.md), [启动](启动.md)
 ___
 ##### 2026-05-11 06:02:28 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 芯片制造商利润激增正促使投资者蜂拥买入CPU、GPU和内存芯片公司的股票。https://t.co/SP3B6g6TNu
@@ -313,7 +313,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40aigclink%3A+%E9%85%B7%EF%BC%8C%E6%B8%85%E5%8D%8E%E5%9B%A2%E9%98%9F%E5%88%9A%E5%88%9A%E6%94%BE%E5%87%BA%E4%BA%86%E6%A8%A1%E5%9E%8B%E6%8E%A8%E7%90%86%E5%BC%95%E6%93%8E%EF%BC%9A%E8%B5%A4%E5%85%94Chitu%EF%BC%8CDeepSeek%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E9%99%8D%E4%B8%80%E5%8D%8A%EF%BC%8C%E6%80%A7%E8%83%BD%E7%BF%BB%E7%95%AA%E5%9C%A8A800+%E9%9B%86%E7%BE%A4%E4%B8%8A%EF%BC%8C%E7%94%A8%E8%B5%A4%E5%85%94%E5%BC%95%E6%93%8E%E9%83%A8%E7%BD%B2DeepSeek-671B%E6%BB%A1%E8%A1%80%E7%89%88%E6%8E%A8%E7%90%86%E6%9C%8D%E5%8A%A1%EF%BC%8C%E6%AF%94vLLM%E9%83%A8%E7%BD%B2%E6%96%B9%E6%A1%88%EF%BC%8CGPU%E6%95%B0%E9%87%8F%E4%B8%8D%E4%BB%85%E5%87%8F%E5%B0%91%E4%BA%8650%25%EF%BC%8C%E8%BE%93%E5%87%BA%E9%80%9F%E5%BA%A6%E6%8F%90%E5%8D%87%E4%BA%863.15%E5%80%8D%E6%94%AF%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [LLM](LLM.md), [不仅](不仅.md), [引擎](引擎.md), [成本](成本.md), [推理](推理.md), [方案](方案.md), [模型](模型.md), [翻番](翻番.md), [速度](速度.md)
+[DeepSeek](DeepSeek.md), [LLM](LLM.md), [不仅](不仅.md), [引擎](引擎.md), [成本](成本.md), [推理](推理.md), [方案](方案.md), [模型](模型.md), [翻番](翻番.md), [输出](输出.md), [速度](速度.md)
 ___
 ##### 2025-03-03 12:01:22 UTC ~ karminski-牙医
 > RT @karminski3: CUDA 的护城河还能持续多长时间？图片是 Vulkan 和 CUDA 在 4070 显卡上的token生成速度性能对比。可以看到有些项目仅有10%左右的差距了。（当然目前只是推理，训练还不行）顺便，Vulkan 是用于与 GPU 进行交…

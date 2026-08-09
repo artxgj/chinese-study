@@ -23,6 +23,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [夜鷺](../hanzi-cards/夜鷺.md) | Black-crowned Night Heron |
 | [绿鹭](../hanzi-cards/绿鹭.md) | Striated Heron (pinyin: lǜlù) |
 | [池鷺](../hanzi-cards/池鷺.md) | Chinese pond Heron (pinyin: chílù) |
+| [夜鷺](../hanzi-cards/夜鷺.md) | Night Heron (pinyin: yèlù) |
 | [黑脸琵鹭](../hanzi-cards/黑脸琵鹭.md) | Black-faced Spoonbill (pinyin: hēiliǎnpílù) |
 | [鹮](../hanzi-cards/鹮.md) | spoonbill; ibis; (pinyin: huán) |
 | [朱鹮](../hanzi-cards/朱鹮.md) | Crested Ibis (pinyin: zhūhuán) |
@@ -78,7 +79,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [企鹅](../hanzi-cards/企鹅.md)/[企鵝](../hanzi-cards/企鵝.md) | Penguin (pinyin: qǐ'é) |
 | [猫头鹰](../hanzi-cards/猫头鹰.md)/[貓頭鷹](../hanzi-cards/貓頭鷹.md)/[鴞](../hanzi-cards/鴞.md)/[鴞](../hanzi-cards/鴞.md) | Owl (pinyin: māotóuyīng/xiāo |
 | [雪鴞](../hanzi-cards/雪鴞.md)/[雪鴞](../hanzi-cards/雪鴞.md) | Snowy owl (pinyin: xuěxiāo) |
+| [鹈鹕](../hanzi-cards/鹈鹕.md)/[鵜鶘](../hanzi-cards/鵜鶘.md) | Pelican (pinyin: tíhú) |
 | [白鵜鶘](../hanzi-cards/白鵜鶘.md) | Great White Pelican (pinyin: báitíhú) |
+| [水雉](../hanzi-cards/水雉.md) | Pheasant-tailed Jacana; (pinyin: shuǐzhì) |
 | [鴿](../hanzi-cards/鴿.md)/[鸽](../hanzi-cards/鸽.md) | pigeon; dove; (pinyin: gē) |
 | [鹌鹑](../hanzi-cards/鹌鹑.md) | quail (pinyin: ānchun) |
 | [孔雀](../hanzi-cards/孔雀.md) | Peacock |

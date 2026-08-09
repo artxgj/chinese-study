@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/NAND) for definition
 ### Tweets containing NAND
 
 ___
+##### 2026-08-08 12:38:43 UTC ~ rick awsb ($people, $people)
+> RT @rickawsb: HBF不是更便宜的HBMHBF，是在hbm和ssd之间插入一个新的层。解决的是hbm不够，和ssd太“慢”的问题但 HBF 仍然是 NAND Flash，这一点决定了其适合存模型权重存储。Weights 基本属于 Write Once…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rickawsb%3A+HBF%E4%B8%8D%E6%98%AF%E6%9B%B4%E4%BE%BF%E5%AE%9C%E7%9A%84HBMHBF%EF%BC%8C%E6%98%AF%E5%9C%A8hbm%E5%92%8Cssd%E4%B9%8B%E9%97%B4%E6%8F%92%E5%85%A5%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%B1%82%E3%80%82%E8%A7%A3%E5%86%B3%E7%9A%84%E6%98%AFhbm%E4%B8%8D%E5%A4%9F%EF%BC%8C%E5%92%8Cssd%E5%A4%AA%E2%80%9C%E6%85%A2%E2%80%9D%E7%9A%84%E9%97%AE%E9%A2%98%E4%BD%86+HBF+%E4%BB%8D%E7%84%B6%E6%98%AF+NAND+Flash%EF%BC%8C%E8%BF%99%E4%B8%80%E7%82%B9%E5%86%B3%E5%AE%9A%E4%BA%86%E5%85%B6%E9%80%82%E5%90%88%E5%AD%98%E6%A8%A1%E5%9E%8B%E6%9D%83%E9%87%8D%E5%AD%98%E5%82%A8%E3%80%82Weights+%E5%9F%BA%E6%9C%AC%E5%B1%9E%E4%BA%8E+Write+Once%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [存储](存储.md), [模型](模型.md)
+___
+##### 2026-08-05 10:20:19 UTC ~ TechNews 科技新報
+> RT @technews_tw: 三星首度公開 zHBM 與 zNAND-O 概念模型！ #三星揭開三大記憶體新架構 韓國三星於 FMS 2026 大會展示其最新的 AI 記憶體產品組合與技術路線圖，首度公開 zHBM 與 zNAND-O 概念模型，並推出業界首款層數超過 40…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%B8%89%E6%98%9F%E9%A6%96%E5%BA%A6%E5%85%AC%E9%96%8B+zHBM+%E8%88%87+zNAND-O+%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B%EF%BC%81+%23%E4%B8%89%E6%98%9F%E6%8F%AD%E9%96%8B%E4%B8%89%E5%A4%A7%E8%A8%98%E6%86%B6%E9%AB%94%E6%96%B0%E6%9E%B6%E6%A7%8B+%E9%9F%93%E5%9C%8B%E4%B8%89%E6%98%9F%E6%96%BC+FMS+2026+%E5%A4%A7%E6%9C%83%E5%B1%95%E7%A4%BA%E5%85%B6%E6%9C%80%E6%96%B0%E7%9A%84+AI+%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E5%93%81%E7%B5%84%E5%90%88%E8%88%87%E6%8A%80%E8%A1%93%E8%B7%AF%E7%B7%9A%E5%9C%96%EF%BC%8C%E9%A6%96%E5%BA%A6%E5%85%AC%E9%96%8B+zHBM+%E8%88%87+zNAND-O+%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B8%A6%E6%8E%A8%E5%87%BA%E6%A5%AD%E7%95%8C%E9%A6%96%E6%AC%BE%E5%B1%A4%E6%95%B8%E8%B6%85%E9%81%8E+40%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [三星](三星.md), [推出](推出.md), [模型](模型.md), [記憶體](記憶體.md), [韓國](韓國.md)
+___
+##### 2026-08-05 00:53:22 UTC ~ Leonard
+> RT @Leoskie_L: TL;DRSNDK 的真正故事，已經不只是 NAND 需求暴增，而是 NAND 正從「儲存」往 AI 的主動記憶體層移動。HBF 的出現，讓這個 thesis 從 SSD offload 又往前推了一層。NVL72 的 HBM 只有約 13…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Leoskie_L%3A+TL%3BDRSNDK+%E7%9A%84%E7%9C%9F%E6%AD%A3%E6%95%85%E4%BA%8B%EF%BC%8C%E5%B7%B2%E7%B6%93%E4%B8%8D%E5%8F%AA%E6%98%AF+NAND+%E9%9C%80%E6%B1%82%E6%9A%B4%E5%A2%9E%EF%BC%8C%E8%80%8C%E6%98%AF+NAND+%E6%AD%A3%E5%BE%9E%E3%80%8C%E5%84%B2%E5%AD%98%E3%80%8D%E5%BE%80+AI+%E7%9A%84%E4%B8%BB%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94%E5%B1%A4%E7%A7%BB%E5%8B%95%E3%80%82HBF+%E7%9A%84%E5%87%BA%E7%8F%BE%EF%BC%8C%E8%AE%93%E9%80%99%E5%80%8B+thesis+%E5%BE%9E+SSD+offload+%E5%8F%88%E5%BE%80%E5%89%8D%E6%8E%A8%E4%BA%86%E4%B8%80%E5%B1%A4%E3%80%82NVL72+%E7%9A%84+HBM+%E5%8F%AA%E6%9C%89%E7%B4%84+13%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [記憶體](記憶體.md), [需求](需求.md)
+___
+##### 2026-08-04 03:59:00 UTC ~ TechNews 科技新報
+> RT @technews_tw: 記憶體支出兩年暴增 9 倍！ #記憶體吃掉七成資本支出 瑞銀預估，雲端巨頭 HBM、DDR 與 NAND 資本支出將由 2025 年 728 億美元、2026 年 3,357 億美元，衝上 2027 年 7,613 億美元，記憶體占整體資本支出…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%A8%98%E6%86%B6%E9%AB%94%E6%94%AF%E5%87%BA%E5%85%A9%E5%B9%B4%E6%9A%B4%E5%A2%9E+9+%E5%80%8D%EF%BC%81+%23%E8%A8%98%E6%86%B6%E9%AB%94%E5%90%83%E6%8E%89%E4%B8%83%E6%88%90%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA+%E7%91%9E%E9%8A%80%E9%A0%90%E4%BC%B0%EF%BC%8C%E9%9B%B2%E7%AB%AF%E5%B7%A8%E9%A0%AD+HBM%E3%80%81DDR+%E8%88%87+NAND+%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%B0%87%E7%94%B1+2025+%E5%B9%B4+728+%E5%84%84%E7%BE%8E%E5%85%83%E3%80%812026+%E5%B9%B4+3%2C357+%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E8%A1%9D%E4%B8%8A+2027+%E5%B9%B4+7%2C613+%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E5%8D%A0%E6%95%B4%E9%AB%94%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[HBM](HBM.md), [支出](支出.md), [記憶體](記憶體.md), [銀](銀.md)
+___
+##### 2026-08-04 01:07:41 UTC ~ Unclestocknotes
+> RT @Unclestocknotes: 這三張圖是預測普通DRAM和NAND的預測突然爆炸市場原本比較容易理解的故事是：AI伺服器增加/HBM容量提升/高階DRAM需求上升/企業級SSD受益。J.P. Morgan預估：#DRAM , 2025年1430億美元，202…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Unclestocknotes%3A+%E9%80%99%E4%B8%89%E5%BC%B5%E5%9C%96%E6%98%AF%E9%A0%90%E6%B8%AC%E6%99%AE%E9%80%9ADRAM%E5%92%8CNAND%E7%9A%84%E9%A0%90%E6%B8%AC%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%B8%82%E5%A0%B4%E5%8E%9F%E6%9C%AC%E6%AF%94%E8%BC%83%E5%AE%B9%E6%98%93%E7%90%86%E8%A7%A3%E7%9A%84%E6%95%85%E4%BA%8B%E6%98%AF%EF%BC%9AAI%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%A2%9E%E5%8A%A0%2FHBM%E5%AE%B9%E9%87%8F%E6%8F%90%E5%8D%87%2F%E9%AB%98%E9%9A%8EDRAM%E9%9C%80%E6%B1%82%E4%B8%8A%E5%8D%87%2F%E4%BC%81%E6%A5%AD%E7%B4%9ASSD%E5%8F%97%E7%9B%8A%E3%80%82J.P.+Morgan%E9%A0%90%E4%BC%B0%EF%BC%9A%23DRAM+%2C+2025%E5%B9%B41430%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C202%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [HBM](HBM.md), [伺服器](伺服器.md), [爆炸](爆炸.md), [需求](需求.md)
+___
 ##### 2026-07-29 05:40:46 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: $SKHY 2026年第二季財報重點2026年市場展望  - DRAM 需求成長：年增中段 +20%  - NAND 需求成長：年增高段十幾 %業務亮點  - 與 10 家客戶簽訂長期供貨協議  - 智慧型手機與 PC 銷售因記憶體供…
 

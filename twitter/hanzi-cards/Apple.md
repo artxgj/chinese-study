@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Apple) for definition
 ### Tweets containing Apple
 
 ___
+##### 2026-08-09 08:09:13 UTC ~ Max For AI
+> RT @MaxForAI: 🔥突发：千问AI功能上线苹果国行版Mac8月8日， $AAPL 官网显示，国行版本的Mac电脑的Apple智能目前已可以接入阿里巴巴Qwen模型进行工作。此前据上海证券报7月15日报道， @Alibaba_Qwen 将作为AI能力集成至App…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MaxForAI%3A+%F0%9F%94%A5%E7%AA%81%E5%8F%91%EF%BC%9A%E5%8D%83%E9%97%AEAI%E5%8A%9F%E8%83%BD%E4%B8%8A%E7%BA%BF%E8%8B%B9%E6%9E%9C%E5%9B%BD%E8%A1%8C%E7%89%88Mac8%E6%9C%888%E6%97%A5%EF%BC%8C+%24AAPL+%E5%AE%98%E7%BD%91%E6%98%BE%E7%A4%BA%EF%BC%8C%E5%9B%BD%E8%A1%8C%E7%89%88%E6%9C%AC%E7%9A%84Mac%E7%94%B5%E8%84%91%E7%9A%84Apple%E6%99%BA%E8%83%BD%E7%9B%AE%E5%89%8D%E5%B7%B2%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%85%A5%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Qwen%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E5%B7%A5%E4%BD%9C%E3%80%82%E6%AD%A4%E5%89%8D%E6%8D%AE%E4%B8%8A%E6%B5%B7%E8%AF%81%E5%88%B8%E6%8A%A57%E6%9C%8815%E6%97%A5%E6%8A%A5%E9%81%93%EF%BC%8C+%40Alibaba_Qwen+%E5%B0%86%E4%BD%9C%E4%B8%BAAI%E8%83%BD%E5%8A%9B%E9%9B%86%E6%88%90%E8%87%B3App%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [Qwen](Qwen.md), [上海](上海.md), [千问](千问.md), [接入](接入.md), [显示](显示.md), [模型](模型.md), [苹果](苹果.md), [进行](进行.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2026-08-08 20:05:43 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 苹果官方网站7日突然大举招聘一整套Apple零售团队，从高级经理、经理、技术专家、销售、创意、营运人员、Genius售后服务，到后台营运及人力规划。#南洋商报 #苹果 #APPLE #AppleStore https://t.co/lUjr…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E7%BD%91%E7%AB%997%E6%97%A5%E7%AA%81%E7%84%B6%E5%A4%A7%E4%B8%BE%E6%8B%9B%E8%81%98%E4%B8%80%E6%95%B4%E5%A5%97Apple%E9%9B%B6%E5%94%AE%E5%9B%A2%E9%98%9F%EF%BC%8C%E4%BB%8E%E9%AB%98%E7%BA%A7%E7%BB%8F%E7%90%86%E3%80%81%E7%BB%8F%E7%90%86%E3%80%81%E6%8A%80%E6%9C%AF%E4%B8%93%E5%AE%B6%E3%80%81%E9%94%80%E5%94%AE%E3%80%81%E5%88%9B%E6%84%8F%E3%80%81%E8%90%A5%E8%BF%90%E4%BA%BA%E5%91%98%E3%80%81Genius%E5%94%AE%E5%90%8E%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%88%B0%E5%90%8E%E5%8F%B0%E8%90%A5%E8%BF%90%E5%8F%8A%E4%BA%BA%E5%8A%9B%E8%A7%84%E5%88%92%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23APPLE+%23AppleStore+https%3A%2F%2Ft.co%2FlUjr%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[技术](技术.md), [招聘](招聘.md), [苹果](苹果.md), [规划](规划.md), [销售](销售.md)
+___
+##### 2026-08-08 12:31:59 UTC ~ 外汇交易员
+> RT @fxtrader: 苹果官方确认，中国大陆版本的Apple智能使用阿里巴巴的千问模型，且用户的每次请求均会发送至千问，并非类似ChatGPT式的端侧小模型和云端分层协作。“你的请求及选择发送的附件会发送至千问以回应你的请求。”“若启用来自阿里巴巴的千问扩展，阿里巴…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%E8%8B%B9%E6%9E%9C%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%89%88%E6%9C%AC%E7%9A%84Apple%E6%99%BA%E8%83%BD%E4%BD%BF%E7%94%A8%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E5%8D%83%E9%97%AE%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B8%94%E7%94%A8%E6%88%B7%E7%9A%84%E6%AF%8F%E6%AC%A1%E8%AF%B7%E6%B1%82%E5%9D%87%E4%BC%9A%E5%8F%91%E9%80%81%E8%87%B3%E5%8D%83%E9%97%AE%EF%BC%8C%E5%B9%B6%E9%9D%9E%E7%B1%BB%E4%BC%BCChatGPT%E5%BC%8F%E7%9A%84%E7%AB%AF%E4%BE%A7%E5%B0%8F%E6%A8%A1%E5%9E%8B%E5%92%8C%E4%BA%91%E7%AB%AF%E5%88%86%E5%B1%82%E5%8D%8F%E4%BD%9C%E3%80%82%E2%80%9C%E4%BD%A0%E7%9A%84%E8%AF%B7%E6%B1%82%E5%8F%8A%E9%80%89%E6%8B%A9%E5%8F%91%E9%80%81%E7%9A%84%E9%99%84%E4%BB%B6%E4%BC%9A%E5%8F%91%E9%80%81%E8%87%B3%E5%8D%83%E9%97%AE%E4%BB%A5%E5%9B%9E%E5%BA%94%E4%BD%A0%E7%9A%84%E8%AF%B7%E6%B1%82%E3%80%82%E2%80%9D%E2%80%9C%E8%8B%A5%E5%90%AF%E7%94%A8%E6%9D%A5%E8%87%AA%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E7%9A%84%E5%8D%83%E9%97%AE%E6%89%A9%E5%B1%95%EF%BC%8C%E9%98%BF%E9%87%8C%E5%B7%B4%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[千问](千问.md), [来自](来自.md), [模型](模型.md), [确认](确认.md), [苹果](苹果.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2026-08-05 10:29:25 UTC ~ TechNews 科技新報
+> RT @technews_tw: 供應鏈大師碰壁？ #傳蘋果向長鑫存儲喊降價遭拒 蘋果（Apple）近期為降低成本，曾將中國長鑫存儲（CXMT）納入新供應鏈評估，並就 LPDDR5X 等行動動態隨機存取記憶體（DRAM）供應單價展開議價，韓媒報導指蘋果在追加降價的談判上碰壁。……
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%BE%9B%E6%87%89%E9%8F%88%E5%A4%A7%E5%B8%AB%E7%A2%B0%E5%A3%81%EF%BC%9F+%23%E5%82%B3%E8%98%8B%E6%9E%9C%E5%90%91%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E5%96%8A%E9%99%8D%E5%83%B9%E9%81%AD%E6%8B%92+%E8%98%8B%E6%9E%9C%EF%BC%88Apple%EF%BC%89%E8%BF%91%E6%9C%9F%E7%82%BA%E9%99%8D%E4%BD%8E%E6%88%90%E6%9C%AC%EF%BC%8C%E6%9B%BE%E5%B0%87%E4%B8%AD%E5%9C%8B%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%EF%BC%88CXMT%EF%BC%89%E7%B4%8D%E5%85%A5%E6%96%B0%E4%BE%9B%E6%87%89%E9%8F%88%E8%A9%95%E4%BC%B0%EF%BC%8C%E4%B8%A6%E5%B0%B1+LPDDR5X+%E7%AD%89%E8%A1%8C%E5%8B%95%E5%8B%95%E6%85%8B%E9%9A%A8%E6%A9%9F%E5%AD%98%E5%8F%96%E8%A8%98%E6%86%B6%E9%AB%94%EF%BC%88DRAM%EF%BC%89%E4%BE%9B%E6%87%89%E5%96%AE%E5%83%B9%E5%B1%95%E9%96%8B%E8%AD%B0%E5%83%B9%EF%BC%8C%E9%9F%93%E5%AA%92%E5%A0%B1%E5%B0%8E%E6%8C%87%E8%98%8B%E6%9E%9C%E5%9C%A8%E8%BF%BD%E5%8A%A0%E9%99%8D%E5%83%B9%E7%9A%84%E8%AB%87%E5%88%A4%E4%B8%8A%E7%A2%B0%E5%A3%81%E3%80%82%E2%80%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[CXMT](CXMT.md), [DRAM](DRAM.md), [供應鏈](供應鏈.md), [存儲](存儲.md), [成本](成本.md), [碰](碰.md), [蘋果](蘋果.md), [記憶體](記憶體.md), [長鑫](長鑫.md), [降低](降低.md)
+___
 ##### 2026-07-31 03:30:35 UTC ~ Intl Econ Observe
 > RT @IEObserve: Apple 預估Q3營收增速會從本季的16%下滑到9-11%，主要原因除了匯率逆風外，iPhone 和 Mac 出貨將受到先進製程SoC供應不足限制，而且毛利率預估將因為記憶體成本增加明顯下滑至47-48%。Tim Cook表示，主要限制來自製…
 

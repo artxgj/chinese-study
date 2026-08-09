@@ -28,7 +28,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [AMD](AMD.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [輝達](輝達.md), [黃仁勳](黃仁勳.md)
 ___
-##### 2026-06-02 05:51:24 UTC ~ 空空|上Gate玩事件合约
+##### 2026-06-02 05:51:24 UTC ~ 空空|Gate美股0费率
 > RT @btcoindown: 黄仁勋在GTC Taipei主题演讲上掏出了RTX Spark。据说这科芯片就像Windows95改变PC一样，有了RTX Spark，你只需要提问，PC就会完成工作。这颗由英伟达与联发科联合开发、台积电3nm工艺制造的SoC，把20核G…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcoindown%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8GTC+Taipei%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E4%B8%8A%E6%8E%8F%E5%87%BA%E4%BA%86RTX+Spark%E3%80%82%E6%8D%AE%E8%AF%B4%E8%BF%99%E7%A7%91%E8%8A%AF%E7%89%87%E5%B0%B1%E5%83%8FWindows95%E6%94%B9%E5%8F%98PC%E4%B8%80%E6%A0%B7%EF%BC%8C%E6%9C%89%E4%BA%86RTX+Spark%EF%BC%8C%E4%BD%A0%E5%8F%AA%E9%9C%80%E8%A6%81%E6%8F%90%E9%97%AE%EF%BC%8CPC%E5%B0%B1%E4%BC%9A%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%E3%80%82%E8%BF%99%E9%A2%97%E7%94%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E8%81%94%E5%8F%91%E7%A7%91%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%B0%E7%A7%AF%E7%94%B53nm%E5%B7%A5%E8%89%BA%E5%88%B6%E9%80%A0%E7%9A%84SoC%EF%BC%8C%E6%8A%8A20%E6%A0%B8G%E2%80%A6)

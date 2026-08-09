@@ -7,6 +7,69 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Kimi) for definition
 ### Tweets containing Kimi
 
 ___
+##### 2026-08-08 22:26:47 UTC ~ 何頻
+> RT @MJTVHoPin: Kimi K3突破測試沙盒，自行連上公開互聯網中國Moonshot AI最新開源權重模型 Kimi K3 在第三方網絡安全測試中，成功繞過原本用來隔離模型的「sandbox（沙盒）」環境，並自行連上公開互聯網取得外部資訊。Reuters 8月7…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MJTVHoPin%3A+Kimi+K3%E7%AA%81%E7%A0%B4%E6%B8%AC%E8%A9%A6%E6%B2%99%E7%9B%92%EF%BC%8C%E8%87%AA%E8%A1%8C%E9%80%A3%E4%B8%8A%E5%85%AC%E9%96%8B%E4%BA%92%E8%81%AF%E7%B6%B2%E4%B8%AD%E5%9C%8BMoonshot+AI%E6%9C%80%E6%96%B0%E9%96%8B%E6%BA%90%E6%AC%8A%E9%87%8D%E6%A8%A1%E5%9E%8B+Kimi+K3+%E5%9C%A8%E7%AC%AC%E4%B8%89%E6%96%B9%E7%B6%B2%E7%B5%A1%E5%AE%89%E5%85%A8%E6%B8%AC%E8%A9%A6%E4%B8%AD%EF%BC%8C%E6%88%90%E5%8A%9F%E7%B9%9E%E9%81%8E%E5%8E%9F%E6%9C%AC%E7%94%A8%E4%BE%86%E9%9A%94%E9%9B%A2%E6%A8%A1%E5%9E%8B%E7%9A%84%E3%80%8Csandbox%EF%BC%88%E6%B2%99%E7%9B%92%EF%BC%89%E3%80%8D%E7%92%B0%E5%A2%83%EF%BC%8C%E4%B8%A6%E8%87%AA%E8%A1%8C%E9%80%A3%E4%B8%8A%E5%85%AC%E9%96%8B%E4%BA%92%E8%81%AF%E7%B6%B2%E5%8F%96%E5%BE%97%E5%A4%96%E9%83%A8%E8%B3%87%E8%A8%8A%E3%80%82Reuters+8%E6%9C%887%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[模型](模型.md), [突破](突破.md), [開源](開源.md)
+___
+##### 2026-08-07 14:54:54 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Kimi K3于7月16日发布，参数规模达2.8万亿，为目前全球参数最大的开源模型。虽然成功突破沙盒，但测试数据显示其实际攻击能力并不突出。#南洋商报 #AI #KimiK3 #MoonshotAI #月之暗面 https://t.co/4…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Kimi+K3%E4%BA%8E7%E6%9C%8816%E6%97%A5%E5%8F%91%E5%B8%83%EF%BC%8C%E5%8F%82%E6%95%B0%E8%A7%84%E6%A8%A1%E8%BE%BE2.8%E4%B8%87%E4%BA%BF%EF%BC%8C%E4%B8%BA%E7%9B%AE%E5%89%8D%E5%85%A8%E7%90%83%E5%8F%82%E6%95%B0%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E3%80%82%E8%99%BD%E7%84%B6%E6%88%90%E5%8A%9F%E7%AA%81%E7%A0%B4%E6%B2%99%E7%9B%92%EF%BC%8C%E4%BD%86%E6%B5%8B%E8%AF%95%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%E5%85%B6%E5%AE%9E%E9%99%85%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B%E5%B9%B6%E4%B8%8D%E7%AA%81%E5%87%BA%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23AI+%23KimiK3+%23MoonshotAI+%23%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+https%3A%2F%2Ft.co%2F4%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[参数](参数.md), [发布](发布.md), [开源](开源.md), [数据](数据.md), [显示](显示.md), [月之暗面](月之暗面.md), [模型](模型.md), [突出](突出.md), [突破](突破.md), [规模](规模.md)
+___
+##### 2026-08-05 10:41:15 UTC ~ AB Kuai.Dong
+> RT @_FORAB: Kimi 的投资额度被抢疯了。科创板日报确认，月之暗面 Kimi 的 G 轮融资已启动，本轮也被视为 Pre-IPO，估值达 500 亿美元。知情人士透露，有几家机构愿出资 5000 万美元以上，希望投进该轮，甚至有最高出资 1 亿美元的，但由于额度…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+Kimi+%E7%9A%84%E6%8A%95%E8%B5%84%E9%A2%9D%E5%BA%A6%E8%A2%AB%E6%8A%A2%E7%96%AF%E4%BA%86%E3%80%82%E7%A7%91%E5%88%9B%E6%9D%BF%E6%97%A5%E6%8A%A5%E7%A1%AE%E8%AE%A4%EF%BC%8C%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+%E7%9A%84+G+%E8%BD%AE%E8%9E%8D%E8%B5%84%E5%B7%B2%E5%90%AF%E5%8A%A8%EF%BC%8C%E6%9C%AC%E8%BD%AE%E4%B9%9F%E8%A2%AB%E8%A7%86%E4%B8%BA+Pre-IPO%EF%BC%8C%E4%BC%B0%E5%80%BC%E8%BE%BE+500+%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E6%9C%89%E5%87%A0%E5%AE%B6%E6%9C%BA%E6%9E%84%E6%84%BF%E5%87%BA%E8%B5%84+5000+%E4%B8%87%E7%BE%8E%E5%85%83%E4%BB%A5%E4%B8%8A%EF%BC%8C%E5%B8%8C%E6%9C%9B%E6%8A%95%E8%BF%9B%E8%AF%A5%E8%BD%AE%EF%BC%8C%E7%94%9A%E8%87%B3%E6%9C%89%E6%9C%80%E9%AB%98%E5%87%BA%E8%B5%84+1+%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%EF%BC%8C%E4%BD%86%E7%94%B1%E4%BA%8E%E9%A2%9D%E5%BA%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[估值](估值.md), [启动](启动.md), [投资](投资.md), [月之暗面](月之暗面.md), [机构](机构.md), [知情](知情.md), [知情人士](知情人士.md), [确认](确认.md), [融资](融资.md), [透露](透露.md)
+___
+##### 2026-08-05 00:47:51 UTC ~ karminski-牙医
+> RT @karminski3: 俺上电视啦! 聊聊 kimi-k3 这么猛为什么还要开源 上周有幸接受了深圳卫视-科创最前沿栏目的采访, 主要聊了聊 Kimi-K3 这次取得如此牛的成绩背后的意义. 以及SOTA级别的模型就这样开放权重了, 不怕别人抄吗?在我来看是真不…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E4%BF%BA%E4%B8%8A%E7%94%B5%E8%A7%86%E5%95%A6%21+%E8%81%8A%E8%81%8A+kimi-k3+%E8%BF%99%E4%B9%88%E7%8C%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E8%A6%81%E5%BC%80%E6%BA%90+%E4%B8%8A%E5%91%A8%E6%9C%89%E5%B9%B8%E6%8E%A5%E5%8F%97%E4%BA%86%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86-%E7%A7%91%E5%88%9B%E6%9C%80%E5%89%8D%E6%B2%BF%E6%A0%8F%E7%9B%AE%E7%9A%84%E9%87%87%E8%AE%BF%2C+%E4%B8%BB%E8%A6%81%E8%81%8A%E4%BA%86%E8%81%8A+Kimi-K3+%E8%BF%99%E6%AC%A1%E5%8F%96%E5%BE%97%E5%A6%82%E6%AD%A4%E7%89%9B%E7%9A%84%E6%88%90%E7%BB%A9%E8%83%8C%E5%90%8E%E7%9A%84%E6%84%8F%E4%B9%89.+%E4%BB%A5%E5%8F%8ASOTA%E7%BA%A7%E5%88%AB%E7%9A%84%E6%A8%A1%E5%9E%8B%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%E4%BA%86%2C+%E4%B8%8D%E6%80%95%E5%88%AB%E4%BA%BA%E6%8A%84%E5%90%97%3F%E5%9C%A8%E6%88%91%E6%9D%A5%E7%9C%8B%E6%98%AF%E7%9C%9F%E4%B8%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开源](开源.md), [模型](模型.md), [深圳](深圳.md), [采访](采访.md)
+___
+##### 2026-08-05 00:43:38 UTC ~ 高飞
+> RT @maide89699220: 老美为何留不住AI天才？苹果高管亲自挖人、硅谷百万年薪全拒绝，杨植麟毅然回国创办月之暗面，造出爆火全网的Kimi  K3，用2.8万亿参数开源模型惊艳全球，真正把自己的顶尖技术扎根在故土。 https://t.co/WXhJ3YBoko
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40maide89699220%3A+%E8%80%81%E7%BE%8E%E4%B8%BA%E4%BD%95%E7%95%99%E4%B8%8D%E4%BD%8FAI%E5%A4%A9%E6%89%8D%EF%BC%9F%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%E4%BA%B2%E8%87%AA%E6%8C%96%E4%BA%BA%E3%80%81%E7%A1%85%E8%B0%B7%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E5%85%A8%E6%8B%92%E7%BB%9D%EF%BC%8C%E6%9D%A8%E6%A4%8D%E9%BA%9F%E6%AF%85%E7%84%B6%E5%9B%9E%E5%9B%BD%E5%88%9B%E5%8A%9E%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%EF%BC%8C%E9%80%A0%E5%87%BA%E7%88%86%E7%81%AB%E5%85%A8%E7%BD%91%E7%9A%84Kimi++K3%EF%BC%8C%E7%94%A82.8%E4%B8%87%E4%BA%BF%E5%8F%82%E6%95%B0%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%83%8A%E8%89%B3%E5%85%A8%E7%90%83%EF%BC%8C%E7%9C%9F%E6%AD%A3%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A1%B6%E5%B0%96%E6%8A%80%E6%9C%AF%E6%89%8E%E6%A0%B9%E5%9C%A8%E6%95%85%E5%9C%9F%E3%80%82+https%3A%2F%2Ft.co%2FWXhJ3YBoko)
+##### Other Words/Names of Interest in the Above Tweet
+[参数](参数.md), [开源](开源.md), [技术](技术.md), [月之暗面](月之暗面.md), [杨植麟](杨植麟.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [苹果](苹果.md), [顶尖](顶尖.md)
+___
+##### 2026-08-03 08:16:06 UTC ~ 美研芒格君
+> RT @Kay2289123: 历史永远在重演。开源模型千问、Kimi、DeepSeek 越来越强，大部分人都是在比较和争吵哪个模型更厉害，谁是第一，谁蒸馏了谁？聪明钱早就已经发现，开源模型让拥有算力的供应商从卖算力到卖智能，相同成本利润上升，提前布局。在 Kimi 发…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Kay2289123%3A+%E5%8E%86%E5%8F%B2%E6%B0%B8%E8%BF%9C%E5%9C%A8%E9%87%8D%E6%BC%94%E3%80%82%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E5%8D%83%E9%97%AE%E3%80%81Kimi%E3%80%81DeepSeek+%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BC%BA%EF%BC%8C%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9C%A8%E6%AF%94%E8%BE%83%E5%92%8C%E4%BA%89%E5%90%B5%E5%93%AA%E4%B8%AA%E6%A8%A1%E5%9E%8B%E6%9B%B4%E5%8E%89%E5%AE%B3%EF%BC%8C%E8%B0%81%E6%98%AF%E7%AC%AC%E4%B8%80%EF%BC%8C%E8%B0%81%E8%92%B8%E9%A6%8F%E4%BA%86%E8%B0%81%EF%BC%9F%E8%81%AA%E6%98%8E%E9%92%B1%E6%97%A9%E5%B0%B1%E5%B7%B2%E7%BB%8F%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E8%AE%A9%E6%8B%A5%E6%9C%89%E7%AE%97%E5%8A%9B%E7%9A%84%E4%BE%9B%E5%BA%94%E5%95%86%E4%BB%8E%E5%8D%96%E7%AE%97%E5%8A%9B%E5%88%B0%E5%8D%96%E6%99%BA%E8%83%BD%EF%BC%8C%E7%9B%B8%E5%90%8C%E6%88%90%E6%9C%AC%E5%88%A9%E6%B6%A6%E4%B8%8A%E5%8D%87%EF%BC%8C%E6%8F%90%E5%89%8D%E5%B8%83%E5%B1%80%E3%80%82%E5%9C%A8+Kimi+%E5%8F%91%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [利润](利润.md), [千问](千问.md), [布局](布局.md), [开源](开源.md), [成本](成本.md), [模型](模型.md), [蒸馏](蒸馏.md), [越来越](越来越.md)
+___
+##### 2026-08-02 09:31:16 UTC ~ Max Lv
+> RT @m0d8ye: 看到有人用纯 C 在 CPU 上实现了 Kimi K3，8GB 内存下，性能 33 s/token，注意单位别看错了…https://t.co/BgeVyHeCeI
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40m0d8ye%3A+%E7%9C%8B%E5%88%B0%E6%9C%89%E4%BA%BA%E7%94%A8%E7%BA%AF+C+%E5%9C%A8+CPU+%E4%B8%8A%E5%AE%9E%E7%8E%B0%E4%BA%86+Kimi+K3%EF%BC%8C8GB+%E5%86%85%E5%AD%98%E4%B8%8B%EF%BC%8C%E6%80%A7%E8%83%BD+33+s%2Ftoken%EF%BC%8C%E6%B3%A8%E6%84%8F%E5%8D%95%E4%BD%8D%E5%88%AB%E7%9C%8B%E9%94%99%E4%BA%86%E2%80%A6https%3A%2F%2Ft.co%2FBgeVyHeCeI)
+##### Other Words/Names of Interest in the Above Tweet
+[实现](实现.md)
+___
+##### 2026-08-02 04:24:08 UTC ~ SuSu_酥酥👅
+> RT @NFT_Chen: DeepSeek和Kimi真正干的，不是“倾销模型”，而是把AI从“巨头收租生意”变成了“全民生产资料”！他们开源的不只是权重，更是一整套让全世界受益的贡献：1️⃣ 发明并开源GRPO等关键训练方法，直接推动推理模型爆发2️⃣ 把test…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40NFT_Chen%3A+DeepSeek%E5%92%8CKimi%E7%9C%9F%E6%AD%A3%E5%B9%B2%E7%9A%84%EF%BC%8C%E4%B8%8D%E6%98%AF%E2%80%9C%E5%80%BE%E9%94%80%E6%A8%A1%E5%9E%8B%E2%80%9D%EF%BC%8C%E8%80%8C%E6%98%AF%E6%8A%8AAI%E4%BB%8E%E2%80%9C%E5%B7%A8%E5%A4%B4%E6%94%B6%E7%A7%9F%E7%94%9F%E6%84%8F%E2%80%9D%E5%8F%98%E6%88%90%E4%BA%86%E2%80%9C%E5%85%A8%E6%B0%91%E7%94%9F%E4%BA%A7%E8%B5%84%E6%96%99%E2%80%9D%EF%BC%81%E4%BB%96%E4%BB%AC%E5%BC%80%E6%BA%90%E7%9A%84%E4%B8%8D%E5%8F%AA%E6%98%AF%E6%9D%83%E9%87%8D%EF%BC%8C%E6%9B%B4%E6%98%AF%E4%B8%80%E6%95%B4%E5%A5%97%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E5%8F%97%E7%9B%8A%E7%9A%84%E8%B4%A1%E7%8C%AE%EF%BC%9A1%EF%B8%8F%E2%83%A3+%E5%8F%91%E6%98%8E%E5%B9%B6%E5%BC%80%E6%BA%90GRPO%E7%AD%89%E5%85%B3%E9%94%AE%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95%EF%BC%8C%E7%9B%B4%E6%8E%A5%E6%8E%A8%E5%8A%A8%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%E7%88%86%E5%8F%912%EF%B8%8F%E2%83%A3+%E6%8A%8Atest%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [关键](关键.md), [巨头](巨头.md), [开源](开源.md), [推动](推动.md), [推理](推理.md), [模型](模型.md), [爆发](爆发.md), [生产](生产.md), [直接](直接.md)
+___
+##### 2026-08-02 03:53:14 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 美国知名外卖平台DoorDash因在内部系统测试中国人工智能（AI）模型Kimi K2.6，被美国众议院两大委员会发函，要求提供更多相关信息以配合安全调查。 https://t.co/C7gkWkrmAm https://t.co/Ww28HTRqHs
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E7%9F%A5%E5%90%8D%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0DoorDash%E5%9B%A0%E5%9C%A8%E5%86%85%E9%83%A8%E7%B3%BB%E7%BB%9F%E6%B5%8B%E8%AF%95%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E6%A8%A1%E5%9E%8BKimi+K2.6%EF%BC%8C%E8%A2%AB%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%A4%E5%A4%A7%E5%A7%94%E5%91%98%E4%BC%9A%E5%8F%91%E5%87%BD%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%9A%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF%E4%BB%A5%E9%85%8D%E5%90%88%E5%AE%89%E5%85%A8%E8%B0%83%E6%9F%A5%E3%80%82+https%3A%2F%2Ft.co%2FC7gkWkrmAm+https%3A%2F%2Ft.co%2FWw28HTRqHs)
+##### Other Words/Names of Interest in the Above Tweet
+[人工智能](人工智能.md), [众议院](众议院.md), [委员会](委员会.md), [平台](平台.md), [提供](提供.md), [模型](模型.md), [相关](相关.md), [系统](系统.md), [美国](美国.md), [调查](调查.md), [配合](配合.md)
+___
 ##### 2026-07-31 10:14:39 UTC ~ 思维怪怪
 > RT @0xLogicrw: 在长程软件工程基准 DeepSWE 上，DeepSeek-V4-Flash 正式版拿到 54.4 分，接近 Claude Opus 4.8 的 59 分，远高于 V4-Pro-Preview 此前的 8 分。这个成绩低于 Kimi K3 的 6…
 
@@ -19,7 +82,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40szygls%3A+Ai%E7%9C%9F%E5%BC%BA%E5%A4%A7%EF%BC%8C%E5%85%B6%E5%AE%9E%E9%99%85%E4%BD%9C%E7%94%A8%E6%AD%A3%E5%9C%A8%E5%85%B7%E8%B1%A1%E5%8C%96Kimi+K3%E5%AE%9E%E5%9C%A8%E5%A4%AA%E5%BC%BA%E4%BA%86%EF%BC%9A+%E4%B8%80%E5%BA%A73100%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E9%85%92%E5%BA%97%E3%80%82+190%E4%B8%AA%E6%88%BF%E9%97%B4%E7%9A%84%E6%89%80%E6%9C%89%E7%AE%A1%E9%81%93%E3%80%81%E7%94%B5%E7%BA%BF%E3%80%81%E9%A3%8E%E7%AE%A1%E3%80%81%E6%B6%88%E9%98%B2%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%85%A8%E9%83%A8%E6%8F%90%E5%89%8D%E5%BB%BA%E6%A8%A1%E5%8D%8F%E8%B0%83%E5%AE%8C%E6%AF%95%E3%80%82+%E4%BB%A5%E5%89%8D%EF%BC%9A3%E4%B8%AA%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C6%E5%91%A8%EF%BC%8C%E8%8A%B1%E8%B4%B9%E7%BA%A64.7%E4%B8%87%E7%BE%8E%E5%85%83%E3%80%82+%E7%8E%B0%E5%9C%A8%EF%BC%9A1%E4%B8%AA%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A1%AE%E8%AE%A4AI%E8%BE%93%E5%87%BA%EF%BC%8C9%E5%A4%A9%EF%BC%8C%E6%80%BB%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[确认](确认.md), [管道](管道.md), [系统](系统.md)
+[确认](确认.md), [管道](管道.md), [系统](系统.md), [输出](输出.md)
 ___
 ##### 2026-07-31 02:26:57 UTC ~ Jasper Wei
 > RT @Jasper_Wei1: Kimi 的插件确实牛逼，精准抓住了男人用AI的尽头是炒股接入Wind据我所知目前是独一份的，国内做投研的都知道wind数据的含金量就这套东西自己用来做小型量化系统，做投研分析系统一点问题没有，Kimi帮你解决了关键的数据问题 http…
@@ -33,7 +96,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40huxlab%3A+%E6%88%91%E9%9D%A0%EF%BC%8CKimi+K3%E5%AE%9E%E5%9C%A8%E5%A4%AA%E5%BC%BA%E4%BA%86%EF%BC%9A%E4%B8%80%E5%BA%A73100%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E9%85%92%E5%BA%97%E3%80%82190%E4%B8%AA%E6%88%BF%E9%97%B4%E7%9A%84%E6%89%80%E6%9C%89%E7%AE%A1%E9%81%93%E3%80%81%E7%94%B5%E7%BA%BF%E3%80%81%E9%A3%8E%E7%AE%A1%E3%80%81%E6%B6%88%E9%98%B2%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%85%A8%E9%83%A8%E6%8F%90%E5%89%8D%E5%BB%BA%E6%A8%A1%E5%8D%8F%E8%B0%83%E5%AE%8C%E6%AF%95%E3%80%82%E4%BB%A5%E5%89%8D%EF%BC%9A3%E4%B8%AA%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C6%E5%91%A8%EF%BC%8C%E8%8A%B1%E8%B4%B9%E7%BA%A64.7%E4%B8%87%E7%BE%8E%E5%85%83%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%9A1%E4%B8%AA%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A1%AE%E8%AE%A4AI%E8%BE%93%E5%87%BA%EF%BC%8C9%E5%A4%A9%EF%BC%8C%E6%80%BB%E5%85%B1%E7%BA%A61.05%E4%B8%87%E7%BE%8E%E5%85%83%E3%80%82%E6%96%B9%E6%B3%95%E5%BE%88%E7%AE%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[确认](确认.md), [管道](管道.md), [系统](系统.md)
+[确认](确认.md), [管道](管道.md), [系统](系统.md), [输出](输出.md)
 ___
 ##### 2026-07-30 04:12:30 UTC ~ 硅谷101
 > RT @thevalley101: “但我愿意支持一把”：美团领投月之暗面近期Kimi K3的发布，再次把月之暗面推到聚光灯下。但在2023年美团龙珠领投月之暗面A1轮时，这支年轻团队并不是市场上最热门的项目，估值也低于同期不少大模型公司。真正的争议在于：Scaling……

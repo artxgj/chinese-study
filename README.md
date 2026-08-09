@@ -2,6 +2,7 @@
 
 ### No AI, write code to extract and generate text.
 Collections of names, vocabulary words from tweets written in Chinese text, serve as materials for reading practice and vocabulary expansion.
+- Twitter/X's Download Limit: 140 characters **per tweet**.
 
 Sources:
 1. Twitter (X) accounts that publish tweets in Chinese.

@@ -7,6 +7,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-08-06 03:15:23 UTC ~ SemiLLM
+> RT @SemiLLM: $SNDK 去年12月建仓，230美元。SNDK将于周三盘后公布财报，周度期权隐含波动率为224点双向波动。因此，可能看到股价上涨至1651或下跌至1203。看到AI双重利好对 $AMD 财报的影响了吧。这种情况，仍可能发生在SNDK身上，尽管他们可能…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40SemiLLM%3A+%24SNDK+%E5%8E%BB%E5%B9%B412%E6%9C%88%E5%BB%BA%E4%BB%93%EF%BC%8C230%E7%BE%8E%E5%85%83%E3%80%82SNDK%E5%B0%86%E4%BA%8E%E5%91%A8%E4%B8%89%E7%9B%98%E5%90%8E%E5%85%AC%E5%B8%83%E8%B4%A2%E6%8A%A5%EF%BC%8C%E5%91%A8%E5%BA%A6%E6%9C%9F%E6%9D%83%E9%9A%90%E5%90%AB%E6%B3%A2%E5%8A%A8%E7%8E%87%E4%B8%BA224%E7%82%B9%E5%8F%8C%E5%90%91%E6%B3%A2%E5%8A%A8%E3%80%82%E5%9B%A0%E6%AD%A4%EF%BC%8C%E5%8F%AF%E8%83%BD%E7%9C%8B%E5%88%B0%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8%E8%87%B31651%E6%88%96%E4%B8%8B%E8%B7%8C%E8%87%B31203%E3%80%82%E7%9C%8B%E5%88%B0AI%E5%8F%8C%E9%87%8D%E5%88%A9%E5%A5%BD%E5%AF%B9+%24AMD+%E8%B4%A2%E6%8A%A5%E7%9A%84%E5%BD%B1%E5%93%8D%E4%BA%86%E5%90%A7%E3%80%82%E8%BF%99%E7%A7%8D%E6%83%85%E5%86%B5%EF%BC%8C%E4%BB%8D%E5%8F%AF%E8%83%BD%E5%8F%91%E7%94%9F%E5%9C%A8SNDK%E8%BA%AB%E4%B8%8A%EF%BC%8C%E5%B0%BD%E7%AE%A1%E4%BB%96%E4%BB%AC%E5%8F%AF%E8%83%BD%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[LLM](LLM.md), [因此](因此.md), [影响](影响.md), [情况](情况.md), [期权](期权.md), [波动](波动.md), [涨](涨.md), [跌](跌.md)
+___
+##### 2026-08-06 03:11:09 UTC ~ Followin 华语 - 热点风向标🫡
+> RT @followin_io_zh: AMD这份财报最有意思的地方，是它几乎把能超预期的都超了，股价却在盘后跌了8%。因为市场现在看的，已经不是AMD有没有增长，而是增长什么时候能变成更高的毛利和现金流。营收115.4亿美元，同比增长50%；调整后EPS… https…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40followin_io_zh%3A+AMD%E8%BF%99%E4%BB%BD%E8%B4%A2%E6%8A%A5%E6%9C%80%E6%9C%89%E6%84%8F%E6%80%9D%E7%9A%84%E5%9C%B0%E6%96%B9%EF%BC%8C%E6%98%AF%E5%AE%83%E5%87%A0%E4%B9%8E%E6%8A%8A%E8%83%BD%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E9%83%BD%E8%B6%85%E4%BA%86%EF%BC%8C%E8%82%A1%E4%BB%B7%E5%8D%B4%E5%9C%A8%E7%9B%98%E5%90%8E%E8%B7%8C%E4%BA%868%25%E3%80%82%E5%9B%A0%E4%B8%BA%E5%B8%82%E5%9C%BA%E7%8E%B0%E5%9C%A8%E7%9C%8B%E7%9A%84%EF%BC%8C%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AFAMD%E6%9C%89%E6%B2%A1%E6%9C%89%E5%A2%9E%E9%95%BF%EF%BC%8C%E8%80%8C%E6%98%AF%E5%A2%9E%E9%95%BF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E5%8F%98%E6%88%90%E6%9B%B4%E9%AB%98%E7%9A%84%E6%AF%9B%E5%88%A9%E5%92%8C%E7%8E%B0%E9%87%91%E6%B5%81%E3%80%82%E8%90%A5%E6%94%B6115.4%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF50%25%EF%BC%9B%E8%B0%83%E6%95%B4%E5%90%8EEPS%E2%80%A6+https%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[增长](增长.md), [现金流](现金流.md), [营收](营收.md), [跌](跌.md), [金](金.md), [预期](预期.md)
+___
+##### 2026-08-05 07:08:12 UTC ~ 美股大数据
+> RT @StockWe_Com: 马斯克再赌什么？市场开重新审视马斯克的未来故事跟随 $AMD 之后， $SPCX 盘后同样出现超7%的下跌。但相比AMD的“预期差”，SpaceX面对的是另一种问题。市场现在关注的不是SpaceX有没有未来，而是这个未来需要投入多少…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40StockWe_Com%3A+%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%8D%E8%B5%8C%E4%BB%80%E4%B9%88%EF%BC%9F%E5%B8%82%E5%9C%BA%E5%BC%80%E9%87%8D%E6%96%B0%E5%AE%A1%E8%A7%86%E9%A9%AC%E6%96%AF%E5%85%8B%E7%9A%84%E6%9C%AA%E6%9D%A5%E6%95%85%E4%BA%8B%E8%B7%9F%E9%9A%8F+%24AMD+%E4%B9%8B%E5%90%8E%EF%BC%8C+%24SPCX+%E7%9B%98%E5%90%8E%E5%90%8C%E6%A0%B7%E5%87%BA%E7%8E%B0%E8%B6%857%25%E7%9A%84%E4%B8%8B%E8%B7%8C%E3%80%82%E4%BD%86%E7%9B%B8%E6%AF%94AMD%E7%9A%84%E2%80%9C%E9%A2%84%E6%9C%9F%E5%B7%AE%E2%80%9D%EF%BC%8CSpaceX%E9%9D%A2%E5%AF%B9%E7%9A%84%E6%98%AF%E5%8F%A6%E4%B8%80%E7%A7%8D%E9%97%AE%E9%A2%98%E3%80%82%E5%B8%82%E5%9C%BA%E7%8E%B0%E5%9C%A8%E5%85%B3%E6%B3%A8%E7%9A%84%E4%B8%8D%E6%98%AFSpaceX%E6%9C%89%E6%B2%A1%E6%9C%89%E6%9C%AA%E6%9D%A5%EF%BC%8C%E8%80%8C%E6%98%AF%E8%BF%99%E4%B8%AA%E6%9C%AA%E6%9D%A5%E9%9C%80%E8%A6%81%E6%8A%95%E5%85%A5%E5%A4%9A%E5%B0%91%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[关注](关注.md), [审视](审视.md), [跌](跌.md), [预期](预期.md)
+___
+##### 2026-08-05 06:42:49 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: $AMD | AMD 2026 年第二季財報：營收：$115 億美元（年增 50%） | GAAP 每股盈餘：$1.38 | 調整後每股盈餘：$1.66業務亮點：- 受 AI 與資料中心需求帶動，創下單季營收與獲利紀錄。- 資料中心業務佔公…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%24AMD+%7C+AMD+2026+%E5%B9%B4%E7%AC%AC%E4%BA%8C%E5%AD%A3%E8%B2%A1%E5%A0%B1%EF%BC%9A%E7%87%9F%E6%94%B6%EF%BC%9A%24115+%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%88%E5%B9%B4%E5%A2%9E+50%25%EF%BC%89+%7C+GAAP+%E6%AF%8F%E8%82%A1%E7%9B%88%E9%A4%98%EF%BC%9A%241.38+%7C+%E8%AA%BF%E6%95%B4%E5%BE%8C%E6%AF%8F%E8%82%A1%E7%9B%88%E9%A4%98%EF%BC%9A%241.66%E6%A5%AD%E5%8B%99%E4%BA%AE%E9%BB%9E%EF%BC%9A-+%E5%8F%97+AI+%E8%88%87%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E9%9C%80%E6%B1%82%E5%B8%B6%E5%8B%95%EF%BC%8C%E5%89%B5%E4%B8%8B%E5%96%AE%E5%AD%A3%E7%87%9F%E6%94%B6%E8%88%87%E7%8D%B2%E5%88%A9%E7%B4%80%E9%8C%84%E3%80%82-+%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E6%A5%AD%E5%8B%99%E4%BD%94%E5%85%AC%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[營收](營收.md), [需求](需求.md)
+___
+##### 2026-08-05 02:02:50 UTC ~ 美股大数据
+> RT @StockWe_Com: AMD输了什么？财报是明牌，预期才是暗牌AMD交出了一份不错的成绩单，但市场用7%的跌幅告诉所有人：对于高预期AI公司来说，超过预期只是起点，真正推动股价上涨的，是能不能再次提高市场对于未来增长的想象。从公开数据来看，AMD二季度表…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40StockWe_Com%3A+AMD%E8%BE%93%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%9F%E8%B4%A2%E6%8A%A5%E6%98%AF%E6%98%8E%E7%89%8C%EF%BC%8C%E9%A2%84%E6%9C%9F%E6%89%8D%E6%98%AF%E6%9A%97%E7%89%8CAMD%E4%BA%A4%E5%87%BA%E4%BA%86%E4%B8%80%E4%BB%BD%E4%B8%8D%E9%94%99%E7%9A%84%E6%88%90%E7%BB%A9%E5%8D%95%EF%BC%8C%E4%BD%86%E5%B8%82%E5%9C%BA%E7%94%A87%25%E7%9A%84%E8%B7%8C%E5%B9%85%E5%91%8A%E8%AF%89%E6%89%80%E6%9C%89%E4%BA%BA%EF%BC%9A%E5%AF%B9%E4%BA%8E%E9%AB%98%E9%A2%84%E6%9C%9FAI%E5%85%AC%E5%8F%B8%E6%9D%A5%E8%AF%B4%EF%BC%8C%E8%B6%85%E8%BF%87%E9%A2%84%E6%9C%9F%E5%8F%AA%E6%98%AF%E8%B5%B7%E7%82%B9%EF%BC%8C%E7%9C%9F%E6%AD%A3%E6%8E%A8%E5%8A%A8%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%EF%BC%8C%E6%98%AF%E8%83%BD%E4%B8%8D%E8%83%BD%E5%86%8D%E6%AC%A1%E6%8F%90%E9%AB%98%E5%B8%82%E5%9C%BA%E5%AF%B9%E4%BA%8E%E6%9C%AA%E6%9D%A5%E5%A2%9E%E9%95%BF%E7%9A%84%E6%83%B3%E8%B1%A1%E3%80%82%E4%BB%8E%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE%E6%9D%A5%E7%9C%8B%EF%BC%8CAMD%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%A1%A8%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[增长](增长.md), [季度](季度.md), [成绩单](成绩单.md), [推动](推动.md), [提高](提高.md), [数据](数据.md), [涨](涨.md), [超过](超过.md), [跌](跌.md), [预期](预期.md)
+___
+##### 2026-08-05 01:58:23 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: AMD股价盘后大跌超过8%，尽管该公司财季销售额创下历史新高。此前，SpaceX首席执行官马斯克表示，该公司将不再购买AMD的芯片。https://t.co/8VJeWuK52V
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+AMD%E8%82%A1%E4%BB%B7%E7%9B%98%E5%90%8E%E5%A4%A7%E8%B7%8C%E8%B6%85%E8%BF%878%25%EF%BC%8C%E5%B0%BD%E7%AE%A1%E8%AF%A5%E5%85%AC%E5%8F%B8%E8%B4%A2%E5%AD%A3%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E4%B8%8B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8CSpaceX%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%B0%86%E4%B8%8D%E5%86%8D%E8%B4%AD%E4%B9%B0AMD%E7%9A%84%E8%8A%AF%E7%89%87%E3%80%82https%3A%2F%2Ft.co%2F8VJeWuK52V)
+##### Other Words/Names of Interest in the Above Tweet
+[执行](执行.md), [芯片](芯片.md), [购买](购买.md), [超过](超过.md), [跌](跌.md), [销售](销售.md), [销售额](销售额.md), [首席执行官](首席执行官.md)
+___
 ##### 2026-07-30 05:11:46 UTC ~ Sober 期权坤哥
 > RT @soberoption: 美股正在上演一场残酷的"轮动屠杀"。芯片股连续暴跌，闪迪从高点腰斩，美光AMD一天跌8%，费半指数两天崩掉近10%。但苹果市值突破5万亿美元，可口可乐创历史新高。市场在告诉你：AI的故事没问题，但估值的故事出问题了。钱没有离开美股，…
 

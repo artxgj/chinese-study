@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
+##### 2026-08-09 08:03:55 UTC ~ 智享
+> RT @CycleDecoded: 以为 OpenAI 那种高门槛的 Deep Research 离普通人很远？LangChain 官方直接把底裤都给扒出来了。LangChain 开源的 open_deep_research，说白了就是完全开源复刻了顶尖 AI 机构的“深度…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CycleDecoded%3A+%E4%BB%A5%E4%B8%BA+OpenAI+%E9%82%A3%E7%A7%8D%E9%AB%98%E9%97%A8%E6%A7%9B%E7%9A%84+Deep+Research+%E7%A6%BB%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BE%88%E8%BF%9C%EF%BC%9FLangChain+%E5%AE%98%E6%96%B9%E7%9B%B4%E6%8E%A5%E6%8A%8A%E5%BA%95%E8%A3%A4%E9%83%BD%E7%BB%99%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%E3%80%82LangChain+%E5%BC%80%E6%BA%90%E7%9A%84+open_deep_research%EF%BC%8C%E8%AF%B4%E7%99%BD%E4%BA%86%E5%B0%B1%E6%98%AF%E5%AE%8C%E5%85%A8%E5%BC%80%E6%BA%90%E5%A4%8D%E5%88%BB%E4%BA%86%E9%A1%B6%E5%B0%96+AI+%E6%9C%BA%E6%9E%84%E7%9A%84%E2%80%9C%E6%B7%B1%E5%BA%A6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[开源](开源.md), [机构](机构.md), [直接](直接.md), [门槛](门槛.md), [顶尖](顶尖.md)
+___
+##### 2026-08-05 10:21:47 UTC ~ TechNews 科技新報
+> RT @technews_tw: 尋求禁制令！蘋果尋求法院核發初步禁制令，要求 OpenAI 不得繼續開發基於蘋果技術的產品。 #蘋果 #OpenAI #商業機密 https://t.co/UhaI4ejZuZ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E5%B0%8B%E6%B1%82%E7%A6%81%E5%88%B6%E4%BB%A4%EF%BC%81%E8%98%8B%E6%9E%9C%E5%B0%8B%E6%B1%82%E6%B3%95%E9%99%A2%E6%A0%B8%E7%99%BC%E5%88%9D%E6%AD%A5%E7%A6%81%E5%88%B6%E4%BB%A4%EF%BC%8C%E8%A6%81%E6%B1%82+OpenAI+%E4%B8%8D%E5%BE%97%E7%B9%BC%E7%BA%8C%E9%96%8B%E7%99%BC%E5%9F%BA%E6%96%BC%E8%98%8B%E6%9E%9C%E6%8A%80%E8%A1%93%E7%9A%84%E7%94%A2%E5%93%81%E3%80%82+%23%E8%98%8B%E6%9E%9C+%23OpenAI+%23%E5%95%86%E6%A5%AD%E6%A9%9F%E5%AF%86+https%3A%2F%2Ft.co%2FUhaI4ejZuZ)
+##### Other Words/Names of Interest in the Above Tweet
+[初步](初步.md), [蘋果](蘋果.md), [開發](開發.md)
+___
+##### 2026-08-05 03:11:18 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: OpenAI就苹果公司关于其窃取商业机密的指控予以强硬回击，称这家iPhone制造商在员工离职后未能妥善保护文件，并否认其从苹果公司挖来的员工参与了此类盗窃行为。https://t.co/G7vaYGaNn3
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E5%B0%B1%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%85%B3%E4%BA%8E%E5%85%B6%E7%AA%83%E5%8F%96%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86%E7%9A%84%E6%8C%87%E6%8E%A7%E4%BA%88%E4%BB%A5%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%87%BB%EF%BC%8C%E7%A7%B0%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%9C%A8%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%90%8E%E6%9C%AA%E8%83%BD%E5%A6%A5%E5%96%84%E4%BF%9D%E6%8A%A4%E6%96%87%E4%BB%B6%EF%BC%8C%E5%B9%B6%E5%90%A6%E8%AE%A4%E5%85%B6%E4%BB%8E%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8C%96%E6%9D%A5%E7%9A%84%E5%91%98%E5%B7%A5%E5%8F%82%E4%B8%8E%E4%BA%86%E6%AD%A4%E7%B1%BB%E7%9B%97%E7%AA%83%E8%A1%8C%E4%B8%BA%E3%80%82https%3A%2F%2Ft.co%2FG7vaYGaNn3)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [否认](否认.md), [指控](指控.md), [文件](文件.md), [离职](离职.md), [窃取](窃取.md), [苹果](苹果.md), [行为](行为.md)
+___
 ##### 2026-07-30 03:59:33 UTC ~ qinbafrank
 > RT @qinbafrank: OpenAI的ARR正在大幅度缩小与Authropic的差距，这应该是今天最值得关注的新闻。看CNBC的报道OpenAI首席财务官SarahFriar在周三Openai内部员工会上明确表示，7月的年化经常性收入（ARR）已超过整个第二季度（Q2）…
 
@@ -474,7 +495,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%903%E5%80%8BAI%E5%8F%83%E5%8A%A0%E6%97%A5%E6%9C%AC%E9%AB%98%E8%80%83%EF%BC%8C%E8%AA%B0%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%EF%BC%9F%E3%80%91%E5%BE%9E%E8%BC%B8%E5%85%A5%E9%A1%8C%E7%9B%AE%E5%88%B0%E8%BC%B8%E5%87%BA%E7%AD%94%E6%A1%88%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%92%8CAnthropic%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%9C%80%E5%BF%AB4%E5%88%86%E9%90%98%E5%B7%A6%E5%8F%B3%E5%8D%B3%E5%8F%AF%E5%AE%8C%E6%88%901%E5%80%8B%E7%A7%91%E7%9B%AE%E7%9A%84%E7%AD%94%E9%A1%8C%E3%80%82OpenAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AD%94%E9%A1%8C%E6%99%82%E9%96%93%E6%98%AF%E5%89%8D%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%842%EF%BD%9E3%E5%80%8D%E3%80%82%E4%B8%89%E5%80%8BAI%E6%A8%A1%E5%9E%8B%E5%9D%87%E6%93%85%E9%95%B7%E7%90%86%E7%A7%91%E7%A7%91%E7%9B%AE%EF%BC%8C%E5%9C%A8%E8%AA%9E%E6%96%87%E5%92%8C%E5%9C%B0%E7%90%86%E7%A7%91%E7%9B%AE%E4%B8%8A%E7%9A%84%E5%A4%B1%E5%88%86%E8%BC%83%E7%82%BA%E6%98%8E%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [日本](日本.md), [模型](模型.md), [谷歌](谷歌.md), [高考](高考.md)
+[Anthropic](Anthropic.md), [日本](日本.md), [模型](模型.md), [谷歌](谷歌.md), [輸出](輸出.md), [高考](高考.md)
 ___
 ##### 2026-01-15 21:12:55 UTC ~ FTChinese
 > RT @FTChinese: 【苹果在AI竞赛中按兵不动，欲在谷歌与OpenAI之间充当“造王者”】苹果为使用Gemini模型而达成的数十亿美元交易，折射出对基础设施支出的谨慎态度。https://t.co/NlP1xm5BVp https://t.co/Yh4k5aorVo
@@ -873,7 +894,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AxtonLiu%3A+%E5%BF%AB%E6%9D%A5%E7%9C%8B%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80%EF%BC%81+%E6%88%91%E7%94%A8+Make+%E9%9A%8F%E6%89%8B%E5%81%9A%E4%BA%86%E4%B8%AA+Deep+Research+%E5%B7%A5%E4%BD%9C%E6%B5%81%EF%BC%8C+%E5%88%86%E5%88%86%E9%92%9F%E7%A7%92%E6%9D%80+OpenAI+%EF%BC%81+%E7%9C%8B%E7%9C%8B%E8%BE%93%E5%87%BA%E8%B4%A8%E9%87%8F%E7%A9%B6%E7%AB%9F%E5%A4%9A%E7%82%B8%E8%A3%82%EF%BC%9F%F0%9F%91%87%EF%BC%88%E9%93%BE%E6%8E%A5%E6%94%BE%E5%9B%9E%E5%A4%8D%E5%8C%BA%EF%BC%89PS.+%E5%8F%8D%E6%AD%A3%E5%A4%A7%E5%AE%B6%E5%A4%A9%E5%A4%A9%E9%83%BD%E5%9C%A8%E2%80%9C%E8%B6%85%E8%B6%8A%E2%80%9DGPT-4.5+%E5%92%8C+Deep+Research%EF%BC%8C%E4%BB%8A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[科技](科技.md)
+[科技](科技.md), [输出](输出.md)
 ___
 ##### 2025-03-21 19:41:58 UTC ~ Orange AI
 > RT @oran_ge: 就在刚刚，腾讯发布了自家的深度思考模型混元T1正式版。能力对齐 R1 ，使用创新架构，推理速度飞快。模型特点：- 性能强悍，混元 T1 在多项评测指标中都达到 DeepSeek R1 和 OpenAI o1 同样的水平- 使用了 Hybrid…
@@ -1111,7 +1132,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E5%BE%AE%E8%BD%AF%E5%85%AC%E5%8F%B8%E5%92%8COpenAI%E6%8D%AE%E6%8A%A5%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E6%9C%89%E5%85%B3%E7%9A%84%E4%B8%80%E4%B8%AA%E7%BB%84%E7%BB%87%EF%BC%8C%E6%98%AF%E5%90%A6%E4%BB%A5%E6%9C%AA%E7%BB%8F%E6%8E%88%E6%9D%83%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E5%8F%96%E5%BE%97OpenAI%E6%8A%80%E6%9C%AF%E8%BE%93%E5%87%BA%E7%9A%84%E6%95%B0%E6%8D%AE%E3%80%82+https%3A%2F%2Ft.co%2FImU1fkHbkN)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [人工智能](人工智能.md), [微软](微软.md), [技术](技术.md), [授权](授权.md), [数据](数据.md), [深度求索](深度求索.md), [美国](美国.md), [调查](调查.md)
+[DeepSeek](DeepSeek.md), [人工智能](人工智能.md), [微软](微软.md), [技术](技术.md), [授权](授权.md), [数据](数据.md), [深度求索](深度求索.md), [美国](美国.md), [调查](调查.md), [输出](输出.md)
 ___
 ##### 2025-01-29 16:12:34 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 业界也指DeepSeek握有大量英伟达H100高阶芯片，形同直接挑战美国出口管制规定。#DeepSeek #OpenAI #Nvidia #芯片 #南洋商报 https://t.co/n24gQagkWF https://t.co/a2Ag3…

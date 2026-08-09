@@ -7,6 +7,83 @@ Search [wiktionary](https://en.wiktionary.org/wiki/HBM) for definition
 ### Tweets containing HBM
 
 ___
+##### 2026-08-08 12:38:43 UTC ~ rick awsb ($people, $people)
+> RT @rickawsb: HBF不是更便宜的HBMHBF，是在hbm和ssd之间插入一个新的层。解决的是hbm不够，和ssd太“慢”的问题但 HBF 仍然是 NAND Flash，这一点决定了其适合存模型权重存储。Weights 基本属于 Write Once…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rickawsb%3A+HBF%E4%B8%8D%E6%98%AF%E6%9B%B4%E4%BE%BF%E5%AE%9C%E7%9A%84HBMHBF%EF%BC%8C%E6%98%AF%E5%9C%A8hbm%E5%92%8Cssd%E4%B9%8B%E9%97%B4%E6%8F%92%E5%85%A5%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%B1%82%E3%80%82%E8%A7%A3%E5%86%B3%E7%9A%84%E6%98%AFhbm%E4%B8%8D%E5%A4%9F%EF%BC%8C%E5%92%8Cssd%E5%A4%AA%E2%80%9C%E6%85%A2%E2%80%9D%E7%9A%84%E9%97%AE%E9%A2%98%E4%BD%86+HBF+%E4%BB%8D%E7%84%B6%E6%98%AF+NAND+Flash%EF%BC%8C%E8%BF%99%E4%B8%80%E7%82%B9%E5%86%B3%E5%AE%9A%E4%BA%86%E5%85%B6%E9%80%82%E5%90%88%E5%AD%98%E6%A8%A1%E5%9E%8B%E6%9D%83%E9%87%8D%E5%AD%98%E5%82%A8%E3%80%82Weights+%E5%9F%BA%E6%9C%AC%E5%B1%9E%E4%BA%8E+Write+Once%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[NAND](NAND.md), [存储](存储.md), [模型](模型.md)
+___
+##### 2026-08-06 06:47:54 UTC ~ 美股大数据
+> RT @StockWe_Com: 手握HBM王牌，海力士为何快被美光追平?第二季度DRAM市场份额出来后，表面赢家还是三星，但真正让华尔街意外的，是美光已经追到了海力士身后。… https://t.co/O2jfkw9JTF
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40StockWe_Com%3A+%E6%89%8B%E6%8F%A1HBM%E7%8E%8B%E7%89%8C%EF%BC%8C%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B8%BA%E4%BD%95%E5%BF%AB%E8%A2%AB%E7%BE%8E%E5%85%89%E8%BF%BD%E5%B9%B3%3F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6DRAM%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E5%87%BA%E6%9D%A5%E5%90%8E%EF%BC%8C%E8%A1%A8%E9%9D%A2%E8%B5%A2%E5%AE%B6%E8%BF%98%E6%98%AF%E4%B8%89%E6%98%9F%EF%BC%8C%E4%BD%86%E7%9C%9F%E6%AD%A3%E8%AE%A9%E5%8D%8E%E5%B0%94%E8%A1%97%E6%84%8F%E5%A4%96%E7%9A%84%EF%BC%8C%E6%98%AF%E7%BE%8E%E5%85%89%E5%B7%B2%E7%BB%8F%E8%BF%BD%E5%88%B0%E4%BA%86%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%BA%AB%E5%90%8E%E3%80%82%E2%80%A6+https%3A%2F%2Ft.co%2FO2jfkw9JTF)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [三星](三星.md), [份额](份额.md), [季度](季度.md), [海力士](海力士.md), [美光](美光.md)
+___
+##### 2026-08-05 10:20:19 UTC ~ TechNews 科技新報
+> RT @technews_tw: 三星首度公開 zHBM 與 zNAND-O 概念模型！ #三星揭開三大記憶體新架構 韓國三星於 FMS 2026 大會展示其最新的 AI 記憶體產品組合與技術路線圖，首度公開 zHBM 與 zNAND-O 概念模型，並推出業界首款層數超過 40…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E4%B8%89%E6%98%9F%E9%A6%96%E5%BA%A6%E5%85%AC%E9%96%8B+zHBM+%E8%88%87+zNAND-O+%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B%EF%BC%81+%23%E4%B8%89%E6%98%9F%E6%8F%AD%E9%96%8B%E4%B8%89%E5%A4%A7%E8%A8%98%E6%86%B6%E9%AB%94%E6%96%B0%E6%9E%B6%E6%A7%8B+%E9%9F%93%E5%9C%8B%E4%B8%89%E6%98%9F%E6%96%BC+FMS+2026+%E5%A4%A7%E6%9C%83%E5%B1%95%E7%A4%BA%E5%85%B6%E6%9C%80%E6%96%B0%E7%9A%84+AI+%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E5%93%81%E7%B5%84%E5%90%88%E8%88%87%E6%8A%80%E8%A1%93%E8%B7%AF%E7%B7%9A%E5%9C%96%EF%BC%8C%E9%A6%96%E5%BA%A6%E5%85%AC%E9%96%8B+zHBM+%E8%88%87+zNAND-O+%E6%A6%82%E5%BF%B5%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B8%A6%E6%8E%A8%E5%87%BA%E6%A5%AD%E7%95%8C%E9%A6%96%E6%AC%BE%E5%B1%A4%E6%95%B8%E8%B6%85%E9%81%8E+40%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[NAND](NAND.md), [三星](三星.md), [推出](推出.md), [模型](模型.md), [記憶體](記憶體.md), [韓國](韓國.md)
+___
+##### 2026-08-05 03:13:33 UTC ~ 美股大数据
+> RT @StockWe_Com: 英伟达下一代AI芯片或减少HBM配置，存储股还能抄底吗？很多人最近抄底存储股，押注的是超跌之后的行业反转。但需要注意，你买到的可能只是一次价格修复，而不一定是新一轮盈利加速。过去一年，存储板块最大的上涨逻辑，并不是手机和PC需求恢复…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40StockWe_Com%3A+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8B%E4%B8%80%E4%BB%A3AI%E8%8A%AF%E7%89%87%E6%88%96%E5%87%8F%E5%B0%91HBM%E9%85%8D%E7%BD%AE%EF%BC%8C%E5%AD%98%E5%82%A8%E8%82%A1%E8%BF%98%E8%83%BD%E6%8A%84%E5%BA%95%E5%90%97%EF%BC%9F%E5%BE%88%E5%A4%9A%E4%BA%BA%E6%9C%80%E8%BF%91%E6%8A%84%E5%BA%95%E5%AD%98%E5%82%A8%E8%82%A1%EF%BC%8C%E6%8A%BC%E6%B3%A8%E7%9A%84%E6%98%AF%E8%B6%85%E8%B7%8C%E4%B9%8B%E5%90%8E%E7%9A%84%E8%A1%8C%E4%B8%9A%E5%8F%8D%E8%BD%AC%E3%80%82%E4%BD%86%E9%9C%80%E8%A6%81%E6%B3%A8%E6%84%8F%EF%BC%8C%E4%BD%A0%E4%B9%B0%E5%88%B0%E7%9A%84%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AF%E4%B8%80%E6%AC%A1%E4%BB%B7%E6%A0%BC%E4%BF%AE%E5%A4%8D%EF%BC%8C%E8%80%8C%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E6%96%B0%E4%B8%80%E8%BD%AE%E7%9B%88%E5%88%A9%E5%8A%A0%E9%80%9F%E3%80%82%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%EF%BC%8C%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%8A%E6%B6%A8%E9%80%BB%E8%BE%91%EF%BC%8C%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%89%8B%E6%9C%BA%E5%92%8CPC%E9%9C%80%E6%B1%82%E6%81%A2%E5%A4%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [存储](存储.md), [恢复](恢复.md), [押注](押注.md), [涨](涨.md), [盈利](盈利.md), [芯片](芯片.md), [英伟达](英伟达.md), [行业](行业.md), [跌](跌.md), [逻辑](逻辑.md), [需求](需求.md)
+___
+##### 2026-08-05 00:53:22 UTC ~ Leonard
+> RT @Leoskie_L: TL;DRSNDK 的真正故事，已經不只是 NAND 需求暴增，而是 NAND 正從「儲存」往 AI 的主動記憶體層移動。HBF 的出現，讓這個 thesis 從 SSD offload 又往前推了一層。NVL72 的 HBM 只有約 13…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Leoskie_L%3A+TL%3BDRSNDK+%E7%9A%84%E7%9C%9F%E6%AD%A3%E6%95%85%E4%BA%8B%EF%BC%8C%E5%B7%B2%E7%B6%93%E4%B8%8D%E5%8F%AA%E6%98%AF+NAND+%E9%9C%80%E6%B1%82%E6%9A%B4%E5%A2%9E%EF%BC%8C%E8%80%8C%E6%98%AF+NAND+%E6%AD%A3%E5%BE%9E%E3%80%8C%E5%84%B2%E5%AD%98%E3%80%8D%E5%BE%80+AI+%E7%9A%84%E4%B8%BB%E5%8B%95%E8%A8%98%E6%86%B6%E9%AB%94%E5%B1%A4%E7%A7%BB%E5%8B%95%E3%80%82HBF+%E7%9A%84%E5%87%BA%E7%8F%BE%EF%BC%8C%E8%AE%93%E9%80%99%E5%80%8B+thesis+%E5%BE%9E+SSD+offload+%E5%8F%88%E5%BE%80%E5%89%8D%E6%8E%A8%E4%BA%86%E4%B8%80%E5%B1%A4%E3%80%82NVL72+%E7%9A%84+HBM+%E5%8F%AA%E6%9C%89%E7%B4%84+13%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[NAND](NAND.md), [記憶體](記憶體.md), [需求](需求.md)
+___
+##### 2026-08-04 22:36:33 UTC ~ 駿HaYaO
+> RT @QQ_Timmy: 部分投資者低估AI推理對內存擴展與存儲優化的需求。CXL內存池化可跨CPU/GPU等統一尋址、調度與訪問，支撐大規模高並發大模型訓練推理。現有架構受插槽與單條容量限制，參數與激活值需頻繁在HBM-DRAM-SSD間遷移，導致延遲放大、頻寬浪費與資源分…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QQ_Timmy%3A+%E9%83%A8%E5%88%86%E6%8A%95%E8%B3%87%E8%80%85%E4%BD%8E%E4%BC%B0AI%E6%8E%A8%E7%90%86%E5%B0%8D%E5%85%A7%E5%AD%98%E6%93%B4%E5%B1%95%E8%88%87%E5%AD%98%E5%84%B2%E5%84%AA%E5%8C%96%E7%9A%84%E9%9C%80%E6%B1%82%E3%80%82CXL%E5%85%A7%E5%AD%98%E6%B1%A0%E5%8C%96%E5%8F%AF%E8%B7%A8CPU%2FGPU%E7%AD%89%E7%B5%B1%E4%B8%80%E5%B0%8B%E5%9D%80%E3%80%81%E8%AA%BF%E5%BA%A6%E8%88%87%E8%A8%AA%E5%95%8F%EF%BC%8C%E6%94%AF%E6%92%90%E5%A4%A7%E8%A6%8F%E6%A8%A1%E9%AB%98%E4%B8%A6%E7%99%BC%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%A8%93%E7%B7%B4%E6%8E%A8%E7%90%86%E3%80%82%E7%8F%BE%E6%9C%89%E6%9E%B6%E6%A7%8B%E5%8F%97%E6%8F%92%E6%A7%BD%E8%88%87%E5%96%AE%E6%A2%9D%E5%AE%B9%E9%87%8F%E9%99%90%E5%88%B6%EF%BC%8C%E5%8F%83%E6%95%B8%E8%88%87%E6%BF%80%E6%B4%BB%E5%80%BC%E9%9C%80%E9%A0%BB%E7%B9%81%E5%9C%A8HBM-DRAM-SSD%E9%96%93%E9%81%B7%E7%A7%BB%EF%BC%8C%E5%B0%8E%E8%87%B4%E5%BB%B6%E9%81%B2%E6%94%BE%E5%A4%A7%E3%80%81%E9%A0%BB%E5%AF%AC%E6%B5%AA%E8%B2%BB%E8%88%87%E8%B3%87%E6%BA%90%E5%88%86%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [GPU](GPU.md), [低估](低估.md), [參數](參數.md), [存儲](存儲.md), [推理](推理.md), [模型](模型.md), [資源](資源.md), [限制](限制.md), [需求](需求.md), [頻寬](頻寬.md)
+___
+##### 2026-08-04 04:17:46 UTC ~ animajoe0917
+> RT @JoeAnima: 今天好多人关注英伟达这代对HBM需求可能要降低，多方辩论起来，可能大家忽略了一个重要点，就是目前英伟达内部机柜都是铜互连，对HBM需求是有技术上限的。英伟达2027年NVL576对光互联的需求量，可能比华为950DT 8192卡规模更大——英伟达全…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40JoeAnima%3A+%E4%BB%8A%E5%A4%A9%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%85%B3%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BF%99%E4%BB%A3%E5%AF%B9HBM%E9%9C%80%E6%B1%82%E5%8F%AF%E8%83%BD%E8%A6%81%E9%99%8D%E4%BD%8E%EF%BC%8C%E5%A4%9A%E6%96%B9%E8%BE%A9%E8%AE%BA%E8%B5%B7%E6%9D%A5%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%A4%A7%E5%AE%B6%E5%BF%BD%E7%95%A5%E4%BA%86%E4%B8%80%E4%B8%AA%E9%87%8D%E8%A6%81%E7%82%B9%EF%BC%8C%E5%B0%B1%E6%98%AF%E7%9B%AE%E5%89%8D%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%86%85%E9%83%A8%E6%9C%BA%E6%9F%9C%E9%83%BD%E6%98%AF%E9%93%9C%E4%BA%92%E8%BF%9E%EF%BC%8C%E5%AF%B9HBM%E9%9C%80%E6%B1%82%E6%98%AF%E6%9C%89%E6%8A%80%E6%9C%AF%E4%B8%8A%E9%99%90%E7%9A%84%E3%80%82%E8%8B%B1%E4%BC%9F%E8%BE%BE2027%E5%B9%B4NVL576%E5%AF%B9%E5%85%89%E4%BA%92%E8%81%94%E7%9A%84%E9%9C%80%E6%B1%82%E9%87%8F%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%AF%94%E5%8D%8E%E4%B8%BA950DT+8192%E5%8D%A1%E8%A7%84%E6%A8%A1%E6%9B%B4%E5%A4%A7%E2%80%94%E2%80%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%85%A8%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[关注](关注.md), [华为](华为.md), [技术](技术.md), [英伟达](英伟达.md), [规模](规模.md), [铜](铜.md), [降低](降低.md), [需求](需求.md)
+___
+##### 2026-08-04 03:59:00 UTC ~ TechNews 科技新報
+> RT @technews_tw: 記憶體支出兩年暴增 9 倍！ #記憶體吃掉七成資本支出 瑞銀預估，雲端巨頭 HBM、DDR 與 NAND 資本支出將由 2025 年 728 億美元、2026 年 3,357 億美元，衝上 2027 年 7,613 億美元，記憶體占整體資本支出…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%A8%98%E6%86%B6%E9%AB%94%E6%94%AF%E5%87%BA%E5%85%A9%E5%B9%B4%E6%9A%B4%E5%A2%9E+9+%E5%80%8D%EF%BC%81+%23%E8%A8%98%E6%86%B6%E9%AB%94%E5%90%83%E6%8E%89%E4%B8%83%E6%88%90%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA+%E7%91%9E%E9%8A%80%E9%A0%90%E4%BC%B0%EF%BC%8C%E9%9B%B2%E7%AB%AF%E5%B7%A8%E9%A0%AD+HBM%E3%80%81DDR+%E8%88%87+NAND+%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E5%B0%87%E7%94%B1+2025+%E5%B9%B4+728+%E5%84%84%E7%BE%8E%E5%85%83%E3%80%812026+%E5%B9%B4+3%2C357+%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E8%A1%9D%E4%B8%8A+2027+%E5%B9%B4+7%2C613+%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E5%8D%A0%E6%95%B4%E9%AB%94%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[NAND](NAND.md), [支出](支出.md), [記憶體](記憶體.md), [銀](銀.md)
+___
+##### 2026-08-04 01:07:41 UTC ~ Unclestocknotes
+> RT @Unclestocknotes: 這三張圖是預測普通DRAM和NAND的預測突然爆炸市場原本比較容易理解的故事是：AI伺服器增加/HBM容量提升/高階DRAM需求上升/企業級SSD受益。J.P. Morgan預估：#DRAM , 2025年1430億美元，202…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Unclestocknotes%3A+%E9%80%99%E4%B8%89%E5%BC%B5%E5%9C%96%E6%98%AF%E9%A0%90%E6%B8%AC%E6%99%AE%E9%80%9ADRAM%E5%92%8CNAND%E7%9A%84%E9%A0%90%E6%B8%AC%E7%AA%81%E7%84%B6%E7%88%86%E7%82%B8%E5%B8%82%E5%A0%B4%E5%8E%9F%E6%9C%AC%E6%AF%94%E8%BC%83%E5%AE%B9%E6%98%93%E7%90%86%E8%A7%A3%E7%9A%84%E6%95%85%E4%BA%8B%E6%98%AF%EF%BC%9AAI%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%A2%9E%E5%8A%A0%2FHBM%E5%AE%B9%E9%87%8F%E6%8F%90%E5%8D%87%2F%E9%AB%98%E9%9A%8EDRAM%E9%9C%80%E6%B1%82%E4%B8%8A%E5%8D%87%2F%E4%BC%81%E6%A5%AD%E7%B4%9ASSD%E5%8F%97%E7%9B%8A%E3%80%82J.P.+Morgan%E9%A0%90%E4%BC%B0%EF%BC%9A%23DRAM+%2C+2025%E5%B9%B41430%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C202%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [NAND](NAND.md), [伺服器](伺服器.md), [爆炸](爆炸.md), [需求](需求.md)
+___
+##### 2026-08-02 13:18:11 UTC ~ qinbafrank
+> RT @qinbafrank: 看到有说英伟达Rubin上的HBM要减配了，实际情况是什么？应该不是已经开始交付并逐步放量的标准Vera Rubin NVL72减配，而是英伟达计划27年下半年推出的rubin升级版Rubin Ultra版配置规格还没确定下来，多家机构认为相比英…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40qinbafrank%3A+%E7%9C%8B%E5%88%B0%E6%9C%89%E8%AF%B4%E8%8B%B1%E4%BC%9F%E8%BE%BERubin%E4%B8%8A%E7%9A%84HBM%E8%A6%81%E5%87%8F%E9%85%8D%E4%BA%86%EF%BC%8C%E5%AE%9E%E9%99%85%E6%83%85%E5%86%B5%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E5%BA%94%E8%AF%A5%E4%B8%8D%E6%98%AF%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E4%BA%A4%E4%BB%98%E5%B9%B6%E9%80%90%E6%AD%A5%E6%94%BE%E9%87%8F%E7%9A%84%E6%A0%87%E5%87%86Vera+Rubin+NVL72%E5%87%8F%E9%85%8D%EF%BC%8C%E8%80%8C%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A1%E5%88%9227%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E6%8E%A8%E5%87%BA%E7%9A%84rubin%E5%8D%87%E7%BA%A7%E7%89%88Rubin+Ultra%E7%89%88%E9%85%8D%E7%BD%AE%E8%A7%84%E6%A0%BC%E8%BF%98%E6%B2%A1%E7%A1%AE%E5%AE%9A%E4%B8%8B%E6%9D%A5%EF%BC%8C%E5%A4%9A%E5%AE%B6%E6%9C%BA%E6%9E%84%E8%AE%A4%E4%B8%BA%E7%9B%B8%E6%AF%94%E8%8B%B1%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[升级](升级.md), [情况](情况.md), [推出](推出.md), [机构](机构.md), [英伟达](英伟达.md), [计划](计划.md), [逐步](逐步.md)
+___
+##### 2026-08-02 03:06:41 UTC ~ Diamond Rapids
+> RT @diamondrapids: “先在俄亥俄州（或亚利桑那州）的前端晶圆厂，以先进逻辑制程为 SK 海力士代工 HBM4 的逻辑基础裸片；再将这些裸片与 SK 海力士自制的 DRAM 核心晶粒一并送往、由李锡熙统帅的英特尔后端先进封装部门，利用 EMIB…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40diamondrapids%3A+%E2%80%9C%E5%85%88%E5%9C%A8%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%EF%BC%88%E6%88%96%E4%BA%9A%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E%EF%BC%89%E7%9A%84%E5%89%8D%E7%AB%AF%E6%99%B6%E5%9C%86%E5%8E%82%EF%BC%8C%E4%BB%A5%E5%85%88%E8%BF%9B%E9%80%BB%E8%BE%91%E5%88%B6%E7%A8%8B%E4%B8%BA+SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%BB%A3%E5%B7%A5+HBM4+%E7%9A%84%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80%E8%A3%B8%E7%89%87%EF%BC%9B%E5%86%8D%E5%B0%86%E8%BF%99%E4%BA%9B%E8%A3%B8%E7%89%87%E4%B8%8E+SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%87%AA%E5%88%B6%E7%9A%84+DRAM+%E6%A0%B8%E5%BF%83%E6%99%B6%E7%B2%92%E4%B8%80%E5%B9%B6%E9%80%81%E5%BE%80%E3%80%81%E7%94%B1%E6%9D%8E%E9%94%A1%E7%86%99%E7%BB%9F%E5%B8%85%E7%9A%84%E8%8B%B1%E7%89%B9%E5%B0%94%E5%90%8E%E7%AB%AF%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E9%83%A8%E9%97%A8%EF%BC%8C%E5%88%A9%E7%94%A8+EMIB%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DRAM](DRAM.md), [亚利桑那](亚利桑那.md), [先进](先进.md), [封装](封装.md), [晶圆](晶圆.md), [核心](核心.md), [海力士](海力士.md), [英特尔](英特尔.md), [逻辑](逻辑.md), [锡](锡.md)
+___
 ##### 2026-07-31 03:10:20 UTC ~ Tigris 会讲课教授是好老师
 > RT @tig88411109: 存储半导体高位大跌虽然有基本面的顾虑，但主要是去杠杆。这是前提。如何预测解读？很多财经媒体网红的最大逻辑在于事后诸葛亮，股价跌了就是AI泡沫了，存储崩了…实际上这轮下跌和存储价格/HBM价格毛利长协价都没什么关系。主要是去杠杆。这里力度…
 

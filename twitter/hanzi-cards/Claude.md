@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2026-08-02 03:13:23 UTC ~ WquGuru
+> RT @wquguru: 一个顶尖的Agent，离不开“抄、用、调”三个字，抄顶尖的Codex的用户体验、用顶尖的PI或者Claude Agent… https://t.co/RfT7cRN1gV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40wquguru%3A+%E4%B8%80%E4%B8%AA%E9%A1%B6%E5%B0%96%E7%9A%84Agent%EF%BC%8C%E7%A6%BB%E4%B8%8D%E5%BC%80%E2%80%9C%E6%8A%84%E3%80%81%E7%94%A8%E3%80%81%E8%B0%83%E2%80%9D%E4%B8%89%E4%B8%AA%E5%AD%97%EF%BC%8C%E6%8A%84%E9%A1%B6%E5%B0%96%E7%9A%84Codex%E7%9A%84%E7%94%A8%E6%88%B7%E4%BD%93%E9%AA%8C%E3%80%81%E7%94%A8%E9%A1%B6%E5%B0%96%E7%9A%84PI%E6%88%96%E8%80%85Claude+Agent%E2%80%A6+https%3A%2F%2Ft.co%2FRfT7cRN1gV)
+##### Other Words/Names of Interest in the Above Tweet
+[顶尖](顶尖.md)
+___
+##### 2026-08-02 00:22:47 UTC ~ Max For AI
+> RT @MaxForAI: DeepSeek真正可怕的，已经不只是Token便宜。Artificial Analysis最新数据显示，在同一套AI综合能力评测中：DeepSeek V4 Flash 0731的平均任务成本只有0.03美元，综合指数50。Claude Fa…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40MaxForAI%3A+DeepSeek%E7%9C%9F%E6%AD%A3%E5%8F%AF%E6%80%95%E7%9A%84%EF%BC%8C%E5%B7%B2%E7%BB%8F%E4%B8%8D%E5%8F%AA%E6%98%AFToken%E4%BE%BF%E5%AE%9C%E3%80%82Artificial+Analysis%E6%9C%80%E6%96%B0%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA%EF%BC%8C%E5%9C%A8%E5%90%8C%E4%B8%80%E5%A5%97AI%E7%BB%BC%E5%90%88%E8%83%BD%E5%8A%9B%E8%AF%84%E6%B5%8B%E4%B8%AD%EF%BC%9ADeepSeek+V4+Flash+0731%E7%9A%84%E5%B9%B3%E5%9D%87%E4%BB%BB%E5%8A%A1%E6%88%90%E6%9C%AC%E5%8F%AA%E6%9C%890.03%E7%BE%8E%E5%85%83%EF%BC%8C%E7%BB%BC%E5%90%88%E6%8C%87%E6%95%B050%E3%80%82Claude+Fa%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [成本](成本.md), [数据](数据.md), [显示](显示.md), [综合指数](综合指数.md)
+___
 ##### 2026-07-31 10:14:39 UTC ~ 思维怪怪
 > RT @0xLogicrw: 在长程软件工程基准 DeepSWE 上，DeepSeek-V4-Flash 正式版拿到 54.4 分，接近 Claude Opus 4.8 的 59 分，远高于 V4-Pro-Preview 此前的 8 分。这个成绩低于 Kimi K3 的 6…
 
@@ -271,7 +285,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+DeepSeek+%E7%9A%84%E6%96%B0%E7%89%88+V3+%E5%9C%A8%E9%9D%9E%E6%80%9D%E8%80%83%2F%E6%8E%A8%E7%90%86%E6%A8%A1%E5%9E%8B%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%BA%8C%EF%BC%8C%E4%BB%85%E6%AC%A1%E4%BA%8ESonnet+3.7%E3%80%82%E4%BB%B7%E6%A0%BC%E6%AF%94+Claude+3.7+Sonnet+%E8%BE%93%E5%85%A5%E4%BE%BF%E5%AE%9C%E4%BA%86+21+%E5%80%8D%EF%BC%8C%E8%BE%93%E5%87%BA%E4%BE%BF%E5%AE%9C%E4%BA%86+53+%E5%80%8D%E2%80%A6%E2%80%A6%E6%88%91%E7%9A%84%E8%9E%8D%E5%90%88%E6%80%AA%E6%A8%A1%E5%9E%8B%E9%87%8D%E7%BB%84%EF%BC%8C%E5%89%8D%E7%BD%AE+DeepSeek+R1+%E6%88%96+QwQ+32B+%E6%80%9D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [价格](价格.md), [推理](推理.md), [模型](模型.md)
+[DeepSeek](DeepSeek.md), [价格](价格.md), [推理](推理.md), [模型](模型.md), [输出](输出.md)
 ___
 ##### 2025-03-25 05:42:08 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek V3 更新，前端代码能力相比上一代大幅增强，可以解锁很多 Claude 3.7 的玩法这三张图是我分别用三个模型跑出来的结果，Claude 3.7 的设计感还是好一些图1 DeepSeek V3 图2 DeepSeek V3 0…

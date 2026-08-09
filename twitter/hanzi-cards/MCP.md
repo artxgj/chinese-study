@@ -7,6 +7,11 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2026-08-02 03:08:55 UTC ~ 𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞
+> RT @TaNGSoFT: MCP 不是第六圈年轮我们的框架确立了五圈：prompt → context → harness → loop → graph，是共存的、从未退场。那最新更新的MCP 是什么关系？MCP不是接在 graph 后面的第六圈。理由很简单：五圈…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40TaNGSoFT%3A+MCP+%E4%B8%8D%E6%98%AF%E7%AC%AC%E5%85%AD%E5%9C%88%E5%B9%B4%E8%BD%AE%E6%88%91%E4%BB%AC%E7%9A%84%E6%A1%86%E6%9E%B6%E7%A1%AE%E7%AB%8B%E4%BA%86%E4%BA%94%E5%9C%88%EF%BC%9Aprompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph%EF%BC%8C%E6%98%AF%E5%85%B1%E5%AD%98%E7%9A%84%E3%80%81%E4%BB%8E%E6%9C%AA%E9%80%80%E5%9C%BA%E3%80%82%E9%82%A3%E6%9C%80%E6%96%B0%E6%9B%B4%E6%96%B0%E7%9A%84MCP+%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%EF%BC%9FMCP%E4%B8%8D%E6%98%AF%E6%8E%A5%E5%9C%A8+graph+%E5%90%8E%E9%9D%A2%E7%9A%84%E7%AC%AC%E5%85%AD%E5%9C%88%E3%80%82%E7%90%86%E7%94%B1%E5%BE%88%E7%AE%80%E5%8D%95%EF%BC%9A%E4%BA%94%E5%9C%88%E2%80%A6)
+___
 ##### 2026-06-14 02:02:22 UTC ~ Geek
 > RT @geekbb: 监控 AI agent 进程（Claude Code、Codex、MCP 服务器等）的内存、CPU 和磁盘占用，检测泄漏/僵尸进程，并用你自己的 AI CLI 给出清理建议。https://t.co/tARu9S8p4I https://t.co/w…
 

@@ -72,7 +72,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [金枪鱼](../hanzi-cards/金枪鱼.md) | tuna |
 | [鲣鱼](../hanzi-cards/鲣鱼.md) | oceanic bonito; skipjack (tuna) |
 | [鳗鱼](../hanzi-cards/鳗鱼.md) | eel |
-| [鳝鱼](../hanzi-cards/鳝鱼.md) | eel |
+| [鳝鱼](../hanzi-cards/鳝鱼.md)/[鱔魚](../hanzi-cards/鱔魚.md) | eel |
 | [石斑鱼](../hanzi-cards/石斑鱼.md) | grouper |
 | [龙趸](../hanzi-cards/龙趸.md) | giant grouper |
 | [扁鱼](../hanzi-cards/扁鱼.md) | Flatfish |
@@ -84,6 +84,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [蓝鳍金枪鱼](../hanzi-cards/蓝鳍金枪鱼.md) | Bluefin Tuna |
 | [鰤鱼](../hanzi-cards/鰤鱼.md) | yellowtail |
 | [錦鯉](../hanzi-cards/錦鯉.md) | koi |
+| [鲤鱼](../hanzi-cards/鲤鱼.md)/[鯉魚](../hanzi-cards/鯉魚.md) | carp |
 | [蟹](../hanzi-cards/蟹.md) | crab |
 | [蛤蜊](../hanzi-cards/蛤蜊.md) | clam |
 | [铁锅炖](../hanzi-cards/铁锅炖.md) | iron pot stew |
@@ -100,6 +101,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [红薯](../hanzi-cards/红薯.md) | sweet potato |
 | [马铃薯](../hanzi-cards/马铃薯.md) | potato; white potato |
 | [槟榔芋](../hanzi-cards/槟榔芋.md) | taro |
+| [塔帕斯](../hanzi-cards/塔帕斯.md) | tapas |
 ## Drinks
 |  |  |
 | ----- | :---: |
@@ -121,12 +123,14 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [苦瓜](../hanzi-cards/苦瓜.md) | bitter melon; bitter gourd |
 | [冬瓜](../hanzi-cards/冬瓜.md) | winter melon |
 | [黄瓜](../hanzi-cards/黄瓜.md)/[黃瓜](../hanzi-cards/黃瓜.md) | cucumber; (pinyin: huángguā; poj: n̂g-koe) |
+| [丝瓜](../hanzi-cards/丝瓜.md) | Luffa; (pinyin: sīguā) |
 | [罗汉果](../hanzi-cards/罗汉果.md) | mangosteen |
 | [榴梿](../hanzi-cards/榴梿.md)/[榴莲](../hanzi-cards/榴莲.md)/[榴蓮](../hanzi-cards/榴蓮.md) | durian |
 | [菠萝蜜](../hanzi-cards/菠萝蜜.md) | jackfruit |
 | [凤梨](../hanzi-cards/凤梨.md) | pineapple |
 | [石榴](../hanzi-cards/石榴.md) | pomegranate |
 | [龙果](../hanzi-cards/龙果.md) | dragon fruit |
+| [芒果](../hanzi-cards/芒果.md) | mango |
 ## Snacks
 |  |  |
 | ----- | :---: |

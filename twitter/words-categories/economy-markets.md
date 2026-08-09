@@ -50,6 +50,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [发展中国家](../hanzi-cards/发展中国家.md) | developing country |
 | [英国脱欧](../hanzi-cards/英国脱欧.md) | Brexit |
 | [养老金](../hanzi-cards/养老金.md) | pension funds |
+| [输出](../hanzi-cards/输出.md)/[輸出](../hanzi-cards/輸出.md) | output; export; send out |
 | [布伦特](../hanzi-cards/布伦特.md)/[布倫特](../hanzi-cards/布倫特.md) | Brent (as in Brent Crude) |
 | [纽约原油](../hanzi-cards/纽约原油.md)/[紐約原油](../hanzi-cards/紐約原油.md) | New York Crude Oil |
 | [主权财富基金](../hanzi-cards/主权财富基金.md) | sovereign wealth fund |

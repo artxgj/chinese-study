@@ -8,6 +8,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2022-06-06 15:19:52 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 预计苹果公司不会在今年的全球开发者大会上发布一款头盔，但可能会发布新版MacBook Air笔记本电脑。另外，在投资者对电子设备销售放缓、通胀上升和新冠疫情抬头感到担忧之际，这家iPhone制造商将利用此次大会高调展示在软件开发方面的雄心壮志。h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E9%A2%84%E8%AE%A1%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%8D%E4%BC%9A%E5%9C%A8%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%85%A8%E7%90%83%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A%E4%B8%8A%E5%8F%91%E5%B8%83%E4%B8%80%E6%AC%BE%E5%A4%B4%E7%9B%94%EF%BC%8C%E4%BD%86%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88MacBook+Air%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E3%80%82%E5%8F%A6%E5%A4%96%EF%BC%8C%E5%9C%A8%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E9%94%80%E5%94%AE%E6%94%BE%E7%BC%93%E3%80%81%E9%80%9A%E8%83%80%E4%B8%8A%E5%8D%87%E5%92%8C%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E6%8A%AC%E5%A4%B4%E6%84%9F%E5%88%B0%E6%8B%85%E5%BF%A7%E4%B9%8B%E9%99%85%EF%BC%8C%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E5%B0%86%E5%88%A9%E7%94%A8%E6%AD%A4%E6%AC%A1%E5%A4%A7%E4%BC%9A%E9%AB%98%E8%B0%83%E5%B1%95%E7%A4%BA%E5%9C%A8%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E6%96%B9%E9%9D%A2%E7%9A%84%E9%9B%84%E5%BF%83%E5%A3%AE%E5%BF%97%E3%80%82h%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [发布](发布.md), [开发](开发.md), [投资](投资.md), [担忧](担忧.md), [放缓](放缓.md), [新冠](新冠.md), [疫情](疫情.md), [苹果](苹果.md), [通胀](通胀.md), [销售](销售.md), [预计](预计.md)
+___
+##### 2022-05-27 06:19:59 UTC ~ 日經中文網
+> RT @rijingzhongwen: 【由日本生产苹果手机，如何？】中山淳史：以日本熊本为中心画一个1500公里同心圆，有生产全世界大部分iPhone手机的鸿海、和硕联合科技等的工厂的上海、昆山、郑州都在圈内。换言之，iPhone的生产基地建在日本熊本也应该不足为奇……ht…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%94%B1%E6%97%A5%E6%9C%AC%E7%94%9F%E4%BA%A7%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%EF%BC%8C%E5%A6%82%E4%BD%95%EF%BC%9F%E3%80%91%E4%B8%AD%E5%B1%B1%E6%B7%B3%E5%8F%B2%EF%BC%9A%E4%BB%A5%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%94%BB%E4%B8%80%E4%B8%AA1500%E5%85%AC%E9%87%8C%E5%90%8C%E5%BF%83%E5%9C%86%EF%BC%8C%E6%9C%89%E7%94%9F%E4%BA%A7%E5%85%A8%E4%B8%96%E7%95%8C%E5%A4%A7%E9%83%A8%E5%88%86iPhone%E6%89%8B%E6%9C%BA%E7%9A%84%E9%B8%BF%E6%B5%B7%E3%80%81%E5%92%8C%E7%A1%95%E8%81%94%E5%90%88%E7%A7%91%E6%8A%80%E7%AD%89%E7%9A%84%E5%B7%A5%E5%8E%82%E7%9A%84%E4%B8%8A%E6%B5%B7%E3%80%81%E6%98%86%E5%B1%B1%E3%80%81%E9%83%91%E5%B7%9E%E9%83%BD%E5%9C%A8%E5%9C%88%E5%86%85%E3%80%82%E6%8D%A2%E8%A8%80%E4%B9%8B%EF%BC%8CiPhone%E7%9A%84%E7%94%9F%E4%BA%A7%E5%9F%BA%E5%9C%B0%E5%BB%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%86%8A%E6%9C%AC%E4%B9%9F%E5%BA%94%E8%AF%A5%E4%B8%8D%E8%B6%B3%E4%B8%BA%E5%A5%87%E2%80%A6%E2%80%A6ht%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[上海](上海.md), [日本](日本.md), [生产](生产.md), [科技](科技.md), [苹果](苹果.md), [郑州](郑州.md), [鸿海](鸿海.md)
+___
+##### 2022-05-25 10:34:06 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 受到中国封城措施的影响，苹果今年至少有一款新旗舰iPhone的开发已落后原定计划。https://t.co/tSSaMvKTwI
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8F%97%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%B0%81%E5%9F%8E%E6%8E%AA%E6%96%BD%E7%9A%84%E5%BD%B1%E5%93%8D%EF%BC%8C%E8%8B%B9%E6%9E%9C%E4%BB%8A%E5%B9%B4%E8%87%B3%E5%B0%91%E6%9C%89%E4%B8%80%E6%AC%BE%E6%96%B0%E6%97%97%E8%88%B0iPhone%E7%9A%84%E5%BC%80%E5%8F%91%E5%B7%B2%E8%90%BD%E5%90%8E%E5%8E%9F%E5%AE%9A%E8%AE%A1%E5%88%92%E3%80%82https%3A%2F%2Ft.co%2FtSSaMvKTwI)
+##### Other Words/Names of Interest in the Above Tweet
+[开发](开发.md), [影响](影响.md), [措施](措施.md), [至少](至少.md), [苹果](苹果.md), [计划](计划.md)
+___
+##### 2022-05-24 09:34:56 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 尽管苹果公司要求鸿海配合布局非中国大陆的产能，但由于大陆仍是鸿海组装iPhone最大地区，为因应下半年iPhone 14新机生产人力需求，苹果同步要求鸿海提前两个月展开旗下富士康大陆郑州厂招工。https://t.co/pD7NFTADy8
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%B0%BD%E7%AE%A1%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%A6%81%E6%B1%82%E9%B8%BF%E6%B5%B7%E9%85%8D%E5%90%88%E5%B8%83%E5%B1%80%E9%9D%9E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%9A%84%E4%BA%A7%E8%83%BD%EF%BC%8C%E4%BD%86%E7%94%B1%E4%BA%8E%E5%A4%A7%E9%99%86%E4%BB%8D%E6%98%AF%E9%B8%BF%E6%B5%B7%E7%BB%84%E8%A3%85iPhone%E6%9C%80%E5%A4%A7%E5%9C%B0%E5%8C%BA%EF%BC%8C%E4%B8%BA%E5%9B%A0%E5%BA%94%E4%B8%8B%E5%8D%8A%E5%B9%B4iPhone+14%E6%96%B0%E6%9C%BA%E7%94%9F%E4%BA%A7%E4%BA%BA%E5%8A%9B%E9%9C%80%E6%B1%82%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%90%8C%E6%AD%A5%E8%A6%81%E6%B1%82%E9%B8%BF%E6%B5%B7%E6%8F%90%E5%89%8D%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%B1%95%E5%BC%80%E6%97%97%E4%B8%8B%E5%AF%8C%E5%A3%AB%E5%BA%B7%E5%A4%A7%E9%99%86%E9%83%91%E5%B7%9E%E5%8E%82%E6%8B%9B%E5%B7%A5%E3%80%82https%3A%2F%2Ft.co%2FpD7NFTADy8)
+##### Other Words/Names of Interest in the Above Tweet
+[富士康](富士康.md), [布局](布局.md), [生产](生产.md), [组装](组装.md), [苹果](苹果.md), [郑州](郑州.md), [配合](配合.md), [需求](需求.md), [鸿海](鸿海.md)
+___
+##### 2022-05-23 04:27:20 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 据分析人士称，包括iPhone、iPad和MacBook笔记本电脑在内的苹果产品中，超过90%是由代工企业在中国生产的。现在，由于中国严格的防疫政策以及其他一些原因，苹果公司寻求在中国以外扩大生产。而作为美国市值最大的公司，苹果公司此举可能影响到…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AE%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%E7%A7%B0%EF%BC%8C%E5%8C%85%E6%8B%ACiPhone%E3%80%81iPad%E5%92%8CMacBook%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%9C%A8%E5%86%85%E7%9A%84%E8%8B%B9%E6%9E%9C%E4%BA%A7%E5%93%81%E4%B8%AD%EF%BC%8C%E8%B6%85%E8%BF%8790%25%E6%98%AF%E7%94%B1%E4%BB%A3%E5%B7%A5%E4%BC%81%E4%B8%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%9F%E4%BA%A7%E7%9A%84%E3%80%82%E7%8E%B0%E5%9C%A8%EF%BC%8C%E7%94%B1%E4%BA%8E%E4%B8%AD%E5%9B%BD%E4%B8%A5%E6%A0%BC%E7%9A%84%E9%98%B2%E7%96%AB%E6%94%BF%E7%AD%96%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E4%B8%80%E4%BA%9B%E5%8E%9F%E5%9B%A0%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%AF%BB%E6%B1%82%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BB%A5%E5%A4%96%E6%89%A9%E5%A4%A7%E7%94%9F%E4%BA%A7%E3%80%82%E8%80%8C%E4%BD%9C%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E7%9A%84%E5%85%AC%E5%8F%B8%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A4%E4%B8%BE%E5%8F%AF%E8%83%BD%E5%BD%B1%E5%93%8D%E5%88%B0%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [严格](严格.md), [分析](分析.md), [包括](包括.md), [市值](市值.md), [影响](影响.md), [扩大](扩大.md), [政策](政策.md), [此举](此举.md), [生产](生产.md), [美国](美国.md), [苹果](苹果.md), [超过](超过.md)
+___
+##### 2022-05-14 07:40:02 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 据知情人士透露，苹果公司正在测试未来的iPhone机型，这些机型将用更流行的USB-C充电端口取代当前的Lightning端口，此举可能有助于该公司满足即将生效的欧洲法规。https://t.co/BkLuX36gtw https://t.c…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%8D%AE%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95%E6%9C%AA%E6%9D%A5%E7%9A%84iPhone%E6%9C%BA%E5%9E%8B%EF%BC%8C%E8%BF%99%E4%BA%9B%E6%9C%BA%E5%9E%8B%E5%B0%86%E7%94%A8%E6%9B%B4%E6%B5%81%E8%A1%8C%E7%9A%84USB-C%E5%85%85%E7%94%B5%E7%AB%AF%E5%8F%A3%E5%8F%96%E4%BB%A3%E5%BD%93%E5%89%8D%E7%9A%84Lightning%E7%AB%AF%E5%8F%A3%EF%BC%8C%E6%AD%A4%E4%B8%BE%E5%8F%AF%E8%83%BD%E6%9C%89%E5%8A%A9%E4%BA%8E%E8%AF%A5%E5%85%AC%E5%8F%B8%E6%BB%A1%E8%B6%B3%E5%8D%B3%E5%B0%86%E7%94%9F%E6%95%88%E7%9A%84%E6%AC%A7%E6%B4%B2%E6%B3%95%E8%A7%84%E3%80%82https%3A%2F%2Ft.co%2FBkLuX36gtw+https%3A%2F%2Ft.c%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[充电](充电.md), [取代](取代.md), [此举](此举.md), [知情](知情.md), [知情人士](知情人士.md), [苹果](苹果.md), [透露](透露.md)
+___
 ##### 2022-05-13 16:33:39 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 全球最大的iPhone组装商富士康董事长刘扬伟表示，富士康在中国的大部分工厂一直在闭环体系中运行，公司相关团队还花了非常多心力在安排员工食宿和跟当地政府的沟通。https://t.co/BVgqW4oCRl
 

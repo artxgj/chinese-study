@@ -7,7 +7,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 |  |  |
 | ----- | :---: |
 | [夏朝](../hanzi-cards/夏朝.md) | Xia Dynasty |
-| [商朝](../hanzi-cards/商朝.md) | Shang Dynasty |
+| [商朝](../hanzi-cards/商朝.md)/[商代](../hanzi-cards/商代.md) | Shang Dynasty |
 | [西周](../hanzi-cards/西周.md) | Western Zhou |
 | [战国](../hanzi-cards/战国.md)/[戰國](../hanzi-cards/戰國.md) | Warring States Period |
 | [秦朝](../hanzi-cards/秦朝.md)/[秦代](../hanzi-cards/秦代.md) | Qin Dynasty |

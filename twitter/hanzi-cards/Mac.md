@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2026-08-09 07:53:33 UTC ~ Amto
+> RT @XAMTO_AI: 买完 Mac 别急着到处找软件下载！GitHub 上这个高星项目，把各类高质量的 macOS 应用全给整理好了，而且分类做得非常细。目前这个项目在 GitHub 上已经积累了 十万 Star！它采用 MIT 开源协议，基本可以说是目前全网比较全、…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XAMTO_AI%3A+%E4%B9%B0%E5%AE%8C+Mac+%E5%88%AB%E6%80%A5%E7%9D%80%E5%88%B0%E5%A4%84%E6%89%BE%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%EF%BC%81GitHub+%E4%B8%8A%E8%BF%99%E4%B8%AA%E9%AB%98%E6%98%9F%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%8A%8A%E5%90%84%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84+macOS+%E5%BA%94%E7%94%A8%E5%85%A8%E7%BB%99%E6%95%B4%E7%90%86%E5%A5%BD%E4%BA%86%EF%BC%8C%E8%80%8C%E4%B8%94%E5%88%86%E7%B1%BB%E5%81%9A%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%BB%86%E3%80%82%E7%9B%AE%E5%89%8D%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%9C%A8+GitHub+%E4%B8%8A%E5%B7%B2%E7%BB%8F%E7%A7%AF%E7%B4%AF%E4%BA%86+%E5%8D%81%E4%B8%87+Star%EF%BC%81%E5%AE%83%E9%87%87%E7%94%A8+MIT+%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%9F%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AF%E7%9B%AE%E5%89%8D%E5%85%A8%E7%BD%91%E6%AF%94%E8%BE%83%E5%85%A8%E3%80%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [协议](协议.md), [开源](开源.md), [项目](项目.md)
+___
+##### 2026-08-02 13:27:23 UTC ~ Geek
+> RT @geekbb: 让大疆第一代 4G 模块在 macOS 上无需虚拟机即可完成短信收发、eSIM Profile 管理、AT 指令调试和 USB 4G 上网。https://t.co/gHrCGmSFss https://t.co/KihCic6FHv
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E8%AE%A9%E5%A4%A7%E7%96%86%E7%AC%AC%E4%B8%80%E4%BB%A3+4G+%E6%A8%A1%E5%9D%97%E5%9C%A8+macOS+%E4%B8%8A%E6%97%A0%E9%9C%80%E8%99%9A%E6%8B%9F%E6%9C%BA%E5%8D%B3%E5%8F%AF%E5%AE%8C%E6%88%90%E7%9F%AD%E4%BF%A1%E6%94%B6%E5%8F%91%E3%80%81eSIM+Profile+%E7%AE%A1%E7%90%86%E3%80%81AT+%E6%8C%87%E4%BB%A4%E8%B0%83%E8%AF%95%E5%92%8C+USB+4G+%E4%B8%8A%E7%BD%91%E3%80%82https%3A%2F%2Ft.co%2FgHrCGmSFss+https%3A%2F%2Ft.co%2FKihCic6FHv)
+##### Other Words/Names of Interest in the Above Tweet
+[大疆](大疆.md), [短信](短信.md)
+___
+##### 2026-08-02 13:14:21 UTC ~ Geek
+> RT @geekbb: 原生 macOS 菜单栏监控，各模块直接显示读数，有趋势的指标画 sparkline，点一下弹出详细面板。隐私是硬要求：零遥测，唯一可能发出的网络请求是手动点“检查更新”，默认不自动查。省资源：电池下降低采样频率，空闲占用约 24 MB；菜单栏固…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E5%8E%9F%E7%94%9F+macOS+%E8%8F%9C%E5%8D%95%E6%A0%8F%E7%9B%91%E6%8E%A7%EF%BC%8C%E5%90%84%E6%A8%A1%E5%9D%97%E7%9B%B4%E6%8E%A5%E6%98%BE%E7%A4%BA%E8%AF%BB%E6%95%B0%EF%BC%8C%E6%9C%89%E8%B6%8B%E5%8A%BF%E7%9A%84%E6%8C%87%E6%A0%87%E7%94%BB+sparkline%EF%BC%8C%E7%82%B9%E4%B8%80%E4%B8%8B%E5%BC%B9%E5%87%BA%E8%AF%A6%E7%BB%86%E9%9D%A2%E6%9D%BF%E3%80%82%E9%9A%90%E7%A7%81%E6%98%AF%E7%A1%AC%E8%A6%81%E6%B1%82%EF%BC%9A%E9%9B%B6%E9%81%A5%E6%B5%8B%EF%BC%8C%E5%94%AF%E4%B8%80%E5%8F%AF%E8%83%BD%E5%8F%91%E5%87%BA%E7%9A%84%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82%E6%98%AF%E6%89%8B%E5%8A%A8%E7%82%B9%E2%80%9C%E6%A3%80%E6%9F%A5%E6%9B%B4%E6%96%B0%E2%80%9D%EF%BC%8C%E9%BB%98%E8%AE%A4%E4%B8%8D%E8%87%AA%E5%8A%A8%E6%9F%A5%E3%80%82%E7%9C%81%E8%B5%84%E6%BA%90%EF%BC%9A%E7%94%B5%E6%B1%A0%E4%B8%8B%E9%99%8D%E4%BD%8E%E9%87%87%E6%A0%B7%E9%A2%91%E7%8E%87%EF%BC%8C%E7%A9%BA%E9%97%B2%E5%8D%A0%E7%94%A8%E7%BA%A6+24+MB%EF%BC%9B%E8%8F%9C%E5%8D%95%E6%A0%8F%E5%9B%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[显示](显示.md), [检查](检查.md), [电池](电池.md), [直接](直接.md), [菜](菜.md), [菜单](菜单.md), [资源](资源.md), [趋势](趋势.md), [降低](降低.md), [隐私](隐私.md), [面板](面板.md)
+___
 ##### 2026-07-27 14:42:49 UTC ~ 杰克船长宏观策略
 > RT @macrotradecn: 长鑫只是第一张牌。往下翻——长江存储、宇树科技、燧原科技、上海微电子、蓝箭航天、强脑科技。不是一家公司上市，是一个时代的资产排队走上牌桌。长鑫敲锣是DRAM。长江在后面排队——NAND闪存，全球第五，232层量产。宇树——中国版波士顿动力…
 
@@ -97,13 +118,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E4%B8%BA%E4%BB%80%E4%B9%88+Apple+%E7%BB%99+macOS+27+%E4%B9%9F%E5%8A%A0%E4%BA%86%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%EF%BC%9F%E8%BF%99%E4%B8%AA%E4%BA%A4%E4%BA%92%E5%9C%A8+macOS+%E4%B8%8A%E9%9D%9E%E5%B8%B8%E9%9A%BE%E7%94%A8%E5%95%8A%E2%80%A6%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8F%AF%E8%83%BD%EF%BC%9A%E8%A7%A6%E6%91%B8%E5%B1%8F%E7%89%88%E6%9C%AC%E7%9A%84+Mac+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FayhHJ3LumQ)
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [Mac](Mac.md), [触摸屏](触摸屏.md)
-___
-##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
-> RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40H3gletK%3A+%E6%88%91%E7%9A%84mac+mini%E4%B8%8D%E7%9F%A5%E9%81%93%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%A8%E5%A4%A9%E5%BC%80%E5%A7%8BGPU%E8%B4%9F%E8%BD%BD%E4%B8%80%E7%9B%B4%E5%A4%84%E5%9C%A850%25%EF%BC%8C%E9%87%8D%E5%90%AF%E5%AE%8C%E4%B9%8B%E5%90%8E%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%90%AF%E5%8A%A8%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%A4%9A%E3%80%82%E4%B9%8B%E5%89%8D%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BD%9C%EF%BC%8C%E9%9D%99%E6%80%81%E8%B4%9F%E8%BD%BD%E4%B9%9F%E5%BA%94%E8%AF%A5%E5%8F%AA%E6%9C%892%25%E5%B7%A6%E5%8F%B3%E3%80%82)
-##### Other Words/Names of Interest in the Above Tweet
-[GPU](GPU.md), [一直](一直.md), [启动](启动.md)
 ___
 ##### 2026-06-13 00:32:32 UTC ~ 小弟调调
 > RT @jaywcjlove: Zipora v1.7 发布，原生解压缩 macOS 工具 本次更新：新增支持解压加密RAR压缩包，并修复编辑压缩包时原有密码丢失的问题。👉 https://t.co/HnyCNkW9kU https://t.co/J177rv98ty
