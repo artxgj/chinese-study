@@ -59,7 +59,7 @@ Convert sensor raw (Bayer/Raw) data through a series of hardware/algorithmic sta
 | **色彩校正矩阵 (CCM)**                                  | 将传感器色彩空间转换至标准 sRGB         | Convert sensor color space to standard sRGB.               | AWB 后色彩偏移补偿，常与 AWB 联动。Compensates color shift after AWB, often coupled with AWB.               |
 | **Gamma 校正**                                      | 非线性映射，适配人眼感知               | Non-linear mapping to match human visual perception.       | 不影响 3A，但影响 AE 统计的亮度权重。Does not affect 3A, but influences luminance weighting in AE statistics. |
 | **对比度/饱和度**                                       | 调整视觉冲击力                    | Adjust visual impact (contrast & saturation).              | 部分 AE 策略会微调对比度以优化曝光。Some AE strategies fine-tune contrast for exposure optimization.           |
-| **边缘增强 & 降噪 (Edge Sharpening & Noise Reduction)** | 锐化细节，抑制噪声                  | Sharpen details and suppress noise.                        | AF 依赖高频统计，锐度影响对焦判定。AF relies on high-frequency statistics; sharpness affects focus decision.   |
+| **边缘增强 & 降噪 (Edge Enhancement & Noise Reduction)** | 锐化细节，抑制噪声                  | Sharpen details and suppress noise.                        | AF 依赖高频统计，锐度影响对焦判定。AF relies on high-frequency statistics; sharpness affects focus decision.   |
 | **色彩空间转换 (Color Space Conversion)**               | RGB → YUV (或 JPEG/RAW)     | RGB → YUV (or to JPEG/RAW).                                | 输出给 3A 统计模块作为下一帧输入。Output is fed to 3A statistics module for next frame.                       |
 
 ---
