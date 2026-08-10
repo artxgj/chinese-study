@@ -21,10 +21,10 @@ Here is a comprehensive, bilingual (English + Chinese) deep dive into **Analog G
 - **Definition (中文)**: 訊號經過ADC轉換為數位位元（RAW數據）之後，對數值像素進行的放大。
 - **How it works**: It is purely mathematical multiplication (e.g., multiplying every pixel value by 1.4). It amplifies the signal, the read noise, and the quantization noise equally.
 - **Impact on Image**: Increases brightness artificially. It does not increase the actual amount of captured light. It visibly amplifies banding noise and shadow artifacts, drastically reducing shadow quality.
-- **Camera relation**: Used for "Expanded" / "Extended" ISO settings (e.g., ISO 50, 102400, or "Lo/Hi" ISOs). Also used when you push exposure sliders in post-processing (Lightroom/Capture One).
+- **Camera relation**: Used for **"Expanded" / "Extended"** ISO settings (e.g., ISO 50, 102400, or "Lo/Hi" ISOs). Also used when you push exposure sliders in post-processing (Lightroom/Capture One).
 - **運作原理**: 純數學乘法運算（例如將每個像素值乘以1.4）。會等比例放大訊號、讀出噪聲 以及 量化噪聲。
 - **影像影響**: 人為提升亮度，不會增加實際捕捉的光子量。會明顯放大條紋噪聲和陰影偽影，嚴重降低陰影畫質。
-- **相機關聯**: 用於「擴展」/「延伸」ISO（如 ISO 50, 102400，或 Lo/Hi 檔位）。也等於你在後期軟體中拉高曝光滑塊。
+- **相機關聯**: 用於 **「擴展」/「延伸」ISO**（如 ISO 50, 102400，或 Lo/Hi 檔位）。也等於你在後期軟體中拉高曝光滑塊。
 
 ---
 
@@ -70,10 +70,10 @@ Here is a comprehensive, bilingual (English + Chinese) deep dive into **Analog G
 
 | Feature (項目)             | Analog Gain (模擬增益)                                                                     | Digital Gain (數位增益)                                                                                                              |
 | ------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| Stage (階段)               | Before ADC (ADC前)                                                                      | After ADC (ADC後)                                                                                                                 |
-| Noise amplified? (放大噪聲?) | Amplifies read noise, but improves SNR relative to ADC noise. (放大讀出噪聲，但提升相對於ADC噪聲的SNR) | Amplifies read noise and quantization noise equally. SNR unchanged or worse. (等倍放大讀出噪聲和量化噪聲，SNR不變或更差)                            |
-| Effect on DR (對DR影響)     | Decreases DR (higher ISO = lower DR). (降低DR，ISO越高DR越低)                                 | Maintains RAW DR mathematically, but effective shadow DR plummets. (數學上RAW DR不變，但有效陰影DR驟降)                                       |
-| Best use case (最佳用法)     | "Push" brightness in-camera to reduce shadow noise. (機內提升亮度以減少陰影噪聲)                    | Only use when you've run out of native analog ISO and must capture the shot (or in post-production). (僅在原生模擬ISO用盡且必須拍下時使用，或後期微調) |
+| **Stage (階段)**               | Before ADC (ADC前)                                                                      | After ADC (ADC後)                                                                                                                 |
+| **Noise amplified? (放大噪聲?)** | Amplifies read noise, but improves SNR relative to ADC noise. (放大讀出噪聲，但提升相對於ADC噪聲的SNR) | Amplifies read noise and quantization noise equally. SNR unchanged or worse. (等倍放大讀出噪聲和量化噪聲，SNR不變或更差)                            |
+| **Effect on DR (對DR影響)**     | Decreases DR (higher ISO = lower DR). (降低DR，ISO越高DR越低)                                 | Maintains RAW DR mathematically, but effective shadow DR plummets. (數學上RAW DR不變，但有效陰影DR驟降)                                       |
+| **Best use case (最佳用法)**     | "Push" brightness in-camera to reduce shadow noise. (機內提升亮度以減少陰影噪聲)                    | Only use when you've run out of native analog ISO and must capture the shot (or in post-production). (僅在原生模擬ISO用盡且必須拍下時使用，或後期微調) |
 
 ---
 

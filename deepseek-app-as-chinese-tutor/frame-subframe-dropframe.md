@@ -13,10 +13,13 @@
 
 幀率（Frame Rate）以 fps（frames per second，每秒幀數）表示。常見的幀率包括：
 
-- **24 fps**：電影標準
-- **25 fps**：PAL 電視標準（歐洲、澳洲等地）
-- **29.97 fps**：NTSC 彩色電視標準（美國、加拿大、墨西哥等）
-- **30 fps**：部分 ATSC 廣播標準
+&bull; **24 fps**：電影標準
+
+&bull; **25 fps**：PAL 電視標準（歐洲、澳洲等地）
+
+&bull; **29.97 fps**：NTSC 彩色電視標準（美國、加拿大、墨西哥等）
+
+&bull; **30 fps**：部分 ATSC 廣播標準
 
 在 SMPTE 時間碼中，每一幀都被賦予一個獨特的地址標籤，格式為 `HH:MM:SS:FF`（小時:分鐘:秒:幀）。這個標籤讓剪輯師、音效師和視覺特效團隊能夠在多台攝影機和錄音設備之間保持同步。
 
@@ -30,10 +33,13 @@ Each frame represents a still image. When a sequence of frames is played back at
 
 Frame rate is expressed in fps (frames per second). Common frame rates include:
 
-- **24 fps**: Film standard
-- **25 fps**: PAL television standard (Europe, Australia, etc.)
-- **29.97 fps**: NTSC color television standard (US, Canada, Mexico, etc.)
-- **30 fps**: Some ATSC broadcast standards.
+&bull; **24 fps**: Film standard
+
+&bull; **25 fps**: PAL television standard (Europe, Australia, etc.)
+
+&bull; **29.97 fps**: NTSC color television standard (US, Canada, Mexico, etc.)
+
+&bull; **30 fps**: Some ATSC broadcast standards.
 
 In SMPTE timecode, every frame is assigned a unique address label in the format `HH:MM:SS:FF` (hours:minutes:seconds:frames). This label allows editors, sound mixers, and VFX teams to stay synchronized across multiple cameras and audio recorders.
 
@@ -95,8 +101,8 @@ In professional post-production, subframe-level resolution enables precise synch
 
 當 NTSC 彩色電視導入時，為了避免與色彩副載波（color subcarrier）產生干擾，幀率從精確的 30 fps 降為 29.97 fps。
 
-- **30 fps Non-Drop Frame（不丟格）** 以 1:1 的比例為每一幀計數。一小時共有：30 × 60 × 60 = 108,000 幀。
-- 但 **29.97 fps** 的實際影片在一小時內只有：29.97 × 60 × 60 = 107,892 幀。
+&bull; **30 fps Non-Drop Frame（不丟格）** 以 1:1 的比例為每一幀計數。一小時共有：30 × 60 × 60 = 108,000 幀。
+&bull; 但 **29.97 fps** 的實際影片在一小時內只有：29.97 × 60 × 60 = 107,892 幀。
 
 這導致了 **108 幀的差異**，相當於 Non-Drop Frame 時間碼在運行了 1 小時後，會比真實時鐘快 **3.6 秒**（108 ÷ 30 = 3.6 秒）。對於需要精確計時（如廣播節目排程）的應用來說，這是一個嚴重的問題。
 
@@ -106,8 +112,9 @@ Drop Frame **並非真的丟棄任何影像幀**，而是**跳過某些 frame �
 
 #### 丟格規則：
 
-- 每分鐘的開頭跳過 frame 編號 0 和 1
-- 但**每第 10 分鐘**（即 00、10、20、30、40、50 分）**不跳過**
+&bull; 每分鐘的開頭跳過 frame 編號 0 和 1
+
+&bull; 但**每第 10 分鐘**（即 00、10、20、30、40、50 分）**不跳過**
 
 這樣的設計使得 Drop Frame 時間碼在節目播出的時間長度內能與真實時鐘保持同步。
 
@@ -139,8 +146,9 @@ Drop Frame **並非真的丟棄任何影像幀**，而是**跳過某些 frame �
 
 When NTSC color television was introduced, the frame rate was slowed from exactly 30 fps to 29.97 fps to avoid interference with the color subcarrier.
 
-- **30 fps Non-Drop Frame** counts every frame in a 1:1 ratio. One hour contains: 30 × 60 × 60 = 108,000 frames.
-- But actual video at **29.97** fps contains only: 29.97 × 60 × 60 = 107,892 frames in one hour.
+&bull; **30 fps Non-Drop Frame** counts every frame in a 1:1 ratio. One hour contains: 30 × 60 × 60 = 108,000 frames.
+
+&bull; But actual video at **29.97** fps contains only: 29.97 × 60 × 60 = 107,892 frames in one hour.
 
 This results in a **difference of 108 frames**, meaning that after 1 hour of running, Non-Drop Frame timecode is **3.6 seconds** ahead of real clock time (108 ÷ 30 = 3.6 seconds). For applications requiring precise timing (such as broadcast scheduling), this is a serious problem.
 
@@ -150,8 +158,9 @@ Drop Frame **does not actually drop any video frames — it skips certain frame 
 
 #### Drop Rules:
 
-- Skip frame numbers 0 and 1 at the start of every minute
-- **Except every 10th minute** (i.e., minutes 00, 10, 20, 30, 40, 50) — **do not skip**
+&bull; Skip frame numbers 0 and 1 at the start of every minute
+
+&bull; **Except every 10th minute** (i.e., minutes 00, 10, 20, 30, 40, 50) — **do not skip**
 
 This design keeps Drop Frame timecode synchronized with real clock time over the duration of a program.
 

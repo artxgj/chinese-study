@@ -284,12 +284,12 @@ Simply put: Genlock means "everyone follows the same conductor"; Frame Lock mean
 
 | Key Point       | Description                                                                       |
 | --------------- | --------------------------------------------------------------------------------- |
-| Full Name       | Generator Locking                                                                 |
-| Essence         | Synchronizing multiple video devices' clocks to a unified reference signal        |
-| Core Technology | Phase-Locked Loop (PLL)                                                           |
-| Signal Forms    | Black Burst or Tri-Level Sync                                                     |
-| Main Purpose    | Avoiding tearing, jumps, and async issues when switching between multiple cameras |
-| Key Distinction | Timecode handles "naming," Genlock handles "rhythm"                               |
+| **Full Name**       | Generator Locking                                                                 |
+| **Essence**         | Synchronizing multiple video devices' clocks to a unified reference signal        |
+| **Core Technology** | Phase-Locked Loop (PLL)                                                           |
+| **Signal Forms**    | Black Burst or Tri-Level Sync                                                     |
+| **Main Purpose**    | Avoiding tearing, jumps, and async issues when switching between multiple cameras |
+| **Key Distinction** | Timecode handles "naming," Genlock handles "rhythm"                               |
 
 ---
 

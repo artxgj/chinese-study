@@ -14,15 +14,19 @@
 
 MSG 的關鍵功能包括：
 
-- 同步到不同的輸入頻率（GPS 的 1Hz 信號到各種視訊幀率）
-- 無縫參考源切換
-- 保持模式（Holdover Mode）——參考源失效時仍能維持穩定輸出
-- 可編程 DPLL 迴路頻寬以過濾抖動
-- 同時產生整數與非整數幀率的同步信號
-- 產生黑場（Black Burst）複合視訊信號與 HD 三電平同步（Tri-Level Sync）輸出
-- 可調整各輸出的延遲或提前量，以補償配線延遲差異
+&bull; 同步到不同的輸入頻率（GPS 的 1Hz 信號到各種視訊幀率）
 
-以 Miranda MSG-5300HD 為例，它是一個模組化多格式主同步產生器，基本單元提供 2 個黑場輸出和 4 個三電平同步輸出（最多可擴充至 8 個）。每個輸出都可以獨立設定時序，解析度高達 6.7ns。
+&bull; 無縫參考源切換
+
+&bull; 保持模式（Holdover Mode）——參考源失效時仍能維持穩定輸出
+
+&bull; 可編程 DPLL 迴路頻寬以過濾抖動
+
+&bull; 產生黑場（Black Burst）複合視訊信號與 HD 三電平同步（Tri-Level Sync）輸出
+
+&bull; 可調整各輸出的延遲或提前量，以補償配線延遲差異
+
+以 **Miranda MSG-5300HD** 為例，它是一個模組化多格式主同步產生器，基本單元提供 2 個黑場輸出和 4 個三電平同步輸出（最多可擴充至 8 個）。每個輸出都可以獨立設定時序，解析度高達 6.7ns。
 
 ---
 
@@ -34,15 +38,21 @@ In a typical broadcast studio or post-production facility, all devices—includi
 
 Key features of an MSG include:
 
-- Ability to synchronize to different input frequencies (from GPS 1Hz signals to various video frame rates)
-- Seamless reference switching
-- Holdover mode—maintains stable output even when the reference fails
-- Programmable DPLL loop bandwidth to filter jitter
-- Simultaneous generation of integer and non-integer frame rate sync signals
-- Generation of black burst composite video signals and HD tri-level sync outputs
-- Adjustable delay/advance of each sync output to compensate for cable delay differences
+&bull; Ability to synchronize to different input frequencies (from GPS 1Hz signals to various video frame rates)
 
-Take the Miranda MSG-5300HD as an example: it is a modular multi-format master sync generator. The base unit provides 2 black burst outputs and 4 tri-level sync outputs (expandable up to 8). Each output can be independently timed with a resolution as fine as 6.7ns.
+&bull; Seamless reference switching
+
+&bull; Holdover mode—maintains stable output even when the reference fails
+
+&bull; Programmable DPLL loop bandwidth to filter jitter
+
+&bull; Simultaneous generation of integer and non-integer frame rate sync signals
+
+&bull; Generation of black burst composite video signals and HD tri-level sync outputs
+
+&bull; Adjustable delay/advance of each sync output to compensate for cable delay differences
+
+Take the **Miranda MSG-5300HD** as an example: it is a modular multi-format master sync generator. The base unit provides 2 black burst outputs and 4 tri-level sync outputs (expandable up to 8). Each output can be independently timed with a resolution as fine as 6.7ns.
 
 ---
 
@@ -82,11 +92,15 @@ When all devices are synchronized to the same MSG, they are said to be "**Genloc
 
 三電平同步則解決了這個問題：
 
-- 它與雙電平同步具有相同的消隱電平（位於 0V/接地）
-- 但同步脈衝同時包含**負向**和**正向**兩個元素
-- 信號從 0V 開始 → 下降到 -300mV → 上升到 +300mV → 回到 0V
-- 這使得信號保持**對稱平衡**，DC 分量為零
-- 時序擷取點位於信號**跨越消隱電平的零點**，不再受振幅變化的影響
+&bull; 它與雙電平同步具有相同的消隱電平（位於 0V/接地）
+
+&bull; 但同步脈衝同時包含**負向**和**正向**兩個元素
+
+&bull; 信號從 0V 開始 → 下降到 -300mV → 上升到 +300mV → 回到 0V
+
+&bull; 這使得信號保持**對稱平衡**，DC 分量為零
+
+&bull; 時序擷取點位於信號**跨越消隱電平的零點**，不再受振幅變化的影響
 
 這使得三電平同步成為一個**更穩健（robust）** 的信號，抖動更小，非常適合高資料速率和嚴格抖動要求的 HD 系統。
 
@@ -102,11 +116,15 @@ Traditional **Bi-Level Sync**—the format used by black burst signals—has two
 
 Tri-Level Sync solves this problem:
 
-- It has the same blanking level as bi-level sync (at ground/0V)
-- But the sync pulse contains **both a negative and a positive** element
-- The signal goes from 0V → drops to -300mV → rises to +300mV → returns to 0V
-- This keeps the signal **symmetrically balanced**, resulting in zero DC content
-- The timing pickoff point is at the **zero-crossing point** where the signal crosses blanking, no longer subject to amplitude variation
+&bull; It has the same blanking level as bi-level sync (at ground/0V)
+
+&bull; But the sync pulse contains **both a negative and a positive** element
+
+&bull; The signal goes from 0V → drops to -300mV → rises to +300mV → returns to 0V
+
+&bull; This keeps the signal **symmetrically balanced**, resulting in zero DC content
+
+&bull; The timing pickoff point is at the **zero-crossing point** where the signal crosses blanking, no longer subject to amplitude variation
 
 This makes Tri-Level Sync a **much more robust signal** with less jitter, ideal for high data rate and tight jitter requirement HD systems.
 
@@ -271,18 +289,21 @@ Tri-Level Sync (三電平)：
 
 ### 六、總結 │ Summary
 
-| 中文                                            | English                                                                                                                                     |
-| --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MSG** 是廣播系統的「時間心臟」，產生所有設備所需的參考同步信號。             | **MSG** is the "timekeeper" of a broadcast system, generating reference sync signals for all devices.                                           |
-| **Genlock** 是讓所有設備鎖定到 MSG 參考信號的機制與技術。             | **Genlock** is the mechanism and technique that locks all devices to the MSG's reference signal.                                                |
+| 中文                                           | English                                                                                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **MSG** 是廣播系統的「時間心臟」，產生所有設備所需的參考同步信號。            | **MSG** is the "timekeeper" of a broadcast system, generating reference sync signals for all devices.                                           |
+| **Genlock** 是讓所有設備鎖定到 MSG 參考信號的機制與技術。            | **Genlock** is the mechanism and technique that locks all devices to the MSG's reference signal.                                                |
 | **Tri-Level Sync** 是 HD 系統使用的同步信號格式，比傳統黑場更精確、更穩健。 | **Tri-Level Sync** is the sync signal format used in HD systems—more precise and robust than traditional black burst.                           |
-| 三者共同構成專業影音系統的**同步基礎架構**，確保多設備間的無縫協作。              | Together, they form the **synchronization infrastructure** of professional AV systems, ensuring seamless collaboration across multiple devices. |
+| 三者共同構成專業影音系統的**同步基礎架構**，確保多設備間的無縫協作。             | Together, they form the **synchronization infrastructure** of professional AV systems, ensuring seamless collaboration across multiple devices. |
 
 ---
 
 ### 七、參考標準 │ Reference Standards
 
-- **SMPTE 274M** – 1920×1080 影像信號格式
-- **SMPTE 296M** – 1280×720 影像信號格式
-- **SMPTE 240** – 模擬 HDTV 標準（引入 Tri-Level Sync）
-- **ITU-R BT.1358** – 三電平同步信號規範
+&bull; **SMPTE 274M** – 1920×1080 影像信號格式
+
+&bull; **SMPTE 296M** – 1280×720 影像信號格式
+
+&bull; **SMPTE 240** – 模擬 HDTV 標準（引入 Tri-Level Sync）
+
+&bull; **ITU-R BT.1358** – 三電平同步信號規範
