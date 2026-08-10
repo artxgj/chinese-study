@@ -62,7 +62,7 @@ In engineering practice, it is often expressed in decibels (dB):
 
 $$\text{SNR}_{\text{dB}} = 20 \times \log_{10}\left(\frac{\mu}{\sigma}\right)$$
 
-_(Note: In optics, if measuring the power of light, $10 \times \log_{10}$ is used. For pixel amplitude/gray levels, $20 \times \log_{10}$ is the standard convention.)_
+_(Note: In optics, if measuring the power of light,_ $10 \times \log_{10}$ _is used. For pixel amplitude/gray levels,_ $20 \times \log_{10}$ _is the standard convention.)_
 
 ---
 
@@ -72,12 +72,14 @@ _(Note: In optics, if measuring the power of light, $10 \times \log_{10}$ is use
 此兩者的關係不僅僅是數學上的「分母與分子」，更體現了物理極限：
 
 1\. **泊松統計極限 (訊號相依雜訊)**：因為光子的散粒雜訊遵循泊松分佈（變異數 = $\mu$），因此理想的 SNR 實際上等於訊號的平方根：
+   
    $$\text{SNR}_{\text{理想}} = \frac{\mu}{\sqrt{\mu}} = \sqrt{\mu}$$
 
 
 &nbsp;&nbsp;&nbsp;**這代表訊號越強（曝光越充足），SNR 越高**，且 SNR 與雜訊的平方根成反比。要讓 SNR 提高一倍，你必須將收集到的光子數量（訊號）增加四倍。
 
 2\. **雜訊加成性 (Additive Nature)**：總雜訊功率（變異數）是各類獨立雜訊源（熱雜訊、讀出雜訊、量化雜訊）的總和：
+   
    $$\sigma_{\text{總}}^2 = \sigma_{\text{讀出}}^2 + \sigma_{\text{熱}}^2 + \sigma_{\text{光子}}^2 + \dots$$
 
 
@@ -89,12 +91,14 @@ _(Note: In optics, if measuring the power of light, $10 \times \log_{10}$ is use
 The relationship is not just a mathematical "denominator versus numerator"; it reflects profound physical limits:
 
 1\. **Poisson Statistics Limit (Signal-Dependent Noise)**: Since photon shot noise follows a Poisson distribution (variance = $\mu), the ideal SNR is actually the square root of the signal:
+   
    $$\text{SNR}_{\text{ideal}} = \frac{\mu}{\sqrt{\mu}} = \sqrt{\mu}$$
 
 
    **This means the stronger the signal (the more sufficient the exposure), the higher the SNR**. Furthermore, SNR is inversely related to the square root of the noise. To double the SNR, you must increase the number of collected photons (signal) by a factor of four.
 
 2\. **Additive Nature of Noise**: The total noise power (variance) is the sum of the variances of independent noise sources (thermal, read-out, quantization):
+   
    $$\sigma_{\text{Total}}^2 = \sigma_{\text{Read}}^2 + \sigma_{\text{Thermal}}^2 + \sigma_{\text{Photon}}^2 + \dots$$
 
 
