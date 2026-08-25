@@ -1,309 +1,310 @@
-## Master Sync Generator (MSG) 详解：與 Genlock 及 Tri-Level Sync 的關係
+# Part 1: Prompt Repetition and Translation
 
-## Master Sync Generator (MSG) Explained: Relationship with Genlock and Tri-Level Sync
+**English (original):**  
+Deep dive into the details of the Master Sync Generator and how it works. Explain its relationship with genlock and tri-level sync, how do these three work together?
 
----
+**中文意译 (essence‑based translation):**  
+请深入解析主同步发生器（Master Sync Generator）的详细工作原理，并阐述其与genlock（发生器锁定）及tri-level sync（三电平同步）三者之间的协作关系与内在联系。
 
-### 一、Master Sync Generator (MSG) 主同步產生器
 
-#### 中文說明
+# Part 2: Master Sync Generator, Genlock, and Tri-Level Sync — Deep Dive
 
-**主同步產生器（Master Sync Generator，簡稱 MSG）** 是廣播電視與專業影音系統中的「心跳」與「時間心臟」。它是一個超高精度的時鐘源，負責產生並分配標準的參考同步信號給系統中的所有設備。
+## English Section
 
-在一個典型的廣播攝影棚或後期製作設施中，所有設備——包括攝影機、視訊切換台、LED 處理器、媒體伺服器——都依賴 MSG 提供的同步信號來協調運作。MSG 可以鎖定到外部參考源（如 GPS 信號、另一個 MSG，或從其他攝影棚恢復的主同步時鐘），透過數位鎖相迴路（DPLL）清除相位雜訊，然後合成所需的時鐘頻率並將其嵌入標準視訊信號中，再透過 BNC 電纜分配給所有設備。
-
-MSG 的關鍵功能包括：
-
-&bull; 同步到不同的輸入頻率（GPS 的 1Hz 信號到各種視訊幀率）
-
-&bull; 無縫參考源切換
-
-&bull; 保持模式（Holdover Mode）——參考源失效時仍能維持穩定輸出
-
-&bull; 可編程 DPLL 迴路頻寬以過濾抖動
-
-&bull; 產生黑場（Black Burst）複合視訊信號與 HD 三電平同步（Tri-Level Sync）輸出
-
-&bull; 可調整各輸出的延遲或提前量，以補償配線延遲差異
-
-以 **Miranda MSG-5300HD** 為例，它是一個模組化多格式主同步產生器，基本單元提供 2 個黑場輸出和 4 個三電平同步輸出（最多可擴充至 8 個）。每個輸出都可以獨立設定時序，解析度高達 6.7ns。
+### Abstract
+A Master Sync Generator (MSG) is the precision "heartbeat" of a professional video facility, producing the reference signals that keep all connected equipment perfectly synchronized. This section explains how the MSG operates, the role of genlock as the synchronization technique, and the nature of tri-level sync as the high‑definition reference signal. We then examine how these three elements work together in a broadcast environment, supported by a detailed text diagram of the signal flow.
 
 ---
 
-#### English Explanation
+### 1. What Is a Master Sync Generator (MSG)?
 
-A **Master Sync Generator (MSG)** is the "heartbeat" and "timekeeper" of a broadcast television or professional AV system. It is an ultra-precise clock source responsible for generating and distributing standard reference synchronization signals to all equipment in the facility.
+A **Master Sync Generator** is a precision multiformat video signal generator that serves as the primary source of synchronization and timing reference for an entire broadcast, studio, or post‑production facility. It produces multiple reference signals simultaneously, including:
 
-In a typical broadcast studio or post-production facility, all devices—including cameras, video switchers, LED processors, and media servers—rely on the MSG's sync signals to coordinate their operation. The MSG can lock to external reference sources (such as GPS signals, another MSG, or recovered master sync clocks from other studios), clean the selected reference from phase noise using a Digital Phase Locked Loop (DPLL), synthesize the required clock frequencies, embed them into standard video synchronization signals, and distribute them to all equipment via BNC cables.
+- **Black burst** (bi‑level sync) – used for standard‑definition (SD) equipment.
+- **HD tri‑level sync** – used for high‑definition (HD) and 3G‑SDI systems.
+- **Time code** (LTC, VITC) and **network time** (NTP, PTP).
+- **Test patterns** in various digital and analog formats.
 
-Key features of an MSG include:
+The MSG can operate in two primary modes:
+- **Master (free‑running)** – generates its own stable timing from an internal oven‑controlled crystal oscillator (OCXO).
+- **Slave (genlock)** – locks its output to an external reference signal, such as another MSG, a GPS/GLONASS receiver, or a 10 MHz continuous wave signal.
 
-&bull; Ability to synchronize to different input frequencies (from GPS 1Hz signals to various video frame rates)
-
-&bull; Seamless reference switching
-
-&bull; Holdover mode—maintains stable output even when the reference fails
-
-&bull; Programmable DPLL loop bandwidth to filter jitter
-
-&bull; Simultaneous generation of integer and non-integer frame rate sync signals
-
-&bull; Generation of black burst composite video signals and HD tri-level sync outputs
-
-&bull; Adjustable delay/advance of each sync output to compensate for cable delay differences
-
-Take the **Miranda MSG-5300HD** as an example: it is a modular multi-format master sync generator. The base unit provides 2 black burst outputs and 4 tri-level sync outputs (expandable up to 8). Each output can be independently timed with a resolution as fine as 6.7ns.
+High‑end MSGs (e.g., Tektronix SPG8000, Grass Valley SPG8000A, AV‑IQ MSG‑5300) offer multiple independently timed outputs, hot‑swappable power supplies, and advanced features like **Stay GenLock®** to prevent synchronization shocks when the external reference is temporarily lost [1][5].
 
 ---
 
-### 二、Genlock（同步鎖相／ Generator Locking）
+### 2. What Is Genlock?
 
-#### 中文說明
+**Genlock** (short for *generator locking*) is the technique of synchronizing multiple video sources to a single, shared timing reference. The goal is to ensure that every camera, recorder, switcher, and display in a facility starts each frame at the exact same moment.
 
-**Genlock（Generator Locking，同步鎖相）** 是一種讓多個視訊來源同步於單一參考源或參考信號的技術。其核心目標是確保多個輸入之間具有一致的時序，從而實現無縫的視訊切換。
+In practice, genlock works as follows:
 
-Genlock 的工作原理是：透過一個參考信號（Reference Signal），使所有設備「鎖定」到統一的時間基準，從而保證影像幀與掃描信號的一致性，防止畫面抖動、延遲或相位漂移。
+1. A **sync generator** (often the MSG) produces a continuous reference signal.
+2. All other devices are connected to this reference signal via dedicated genlock inputs.
+3. Each device locks its internal timing to the incoming reference, aligning its horizontal and vertical sync pulses.
 
-在廣播系統中，Genlock 參考信號通常以 **黑場信號（Black Burst）** 的形式傳送——這是一個不攜帶圖像資訊的複合視訊信號，只包含垂直同步、水平同步和色同步（Color Burst）分量。
-
-當所有設備都同步到同一個 MSG 時，這些設備就被稱為「**Genlocked**」（同步鎖相）。在這種狀態下，視訊切換台可以在不同信號源之間切換而不會出現畫面撕裂、滾動條或不穩定的切換延遲。
-
----
-
-#### English Explanation
-
-**Genlock (Generator Locking)** is a technique for synchronizing multiple video sources based on a single reference source or reference signal. Its core goal is to ensure consistent timing across multiple inputs, enabling seamless video switching.
-
-The working principle of genlock is: through a reference signal, all devices are "locked" to a unified time base, ensuring consistency between video frames and scan signals, preventing picture抖动, delay, or phase drift.
-
-In broadcast systems, the genlock reference signal is typically delivered as a **Black Burst** signal—a composite video signal that carries no picture information, containing only vertical sync, horizontal sync, and color burst components.
-
-When all devices are synchronized to the same MSG, they are said to be "**Genlocked**". In this state, a video switcher can cut between different sources without frame tearing, roll bars, or unstable switching delays.
+Without genlock, even tiny clock drifts between devices can cause visible artifacts when switching between sources — frames may start mid‑scan, audio may desync, and cuts may roll or glitch. Genlock eliminates these issues by providing a common "timing plane" for the entire system [2][6].
 
 ---
 
-### 三、Tri-Level Sync（三電平同步）
+### 3. What Is Tri‑Level Sync?
 
-#### 中文說明
+**Tri‑level sync** is an analog synchronization signal used primarily in high‑definition (HD) and 3G‑SDI video systems. Unlike traditional bi‑level (black burst) sync, which has two voltage levels (sync tip and blanking), a tri‑level sync pulse has three distinct levels:
 
-**三電平同步（Tri-Level Sync）** 是一種模擬視訊同步脈衝，主要用於鎖定高畫質（HD）視訊信號。它由 SMPTE（電影與電視工程師協會）在 SMPTE 240 模擬 HDTV 標準中引入。
+- It starts at **0 V** (blanking level).
+- Drops to a **negative voltage** (typically –300 mV).
+- Rises to a **positive voltage** (typically +300 mV).
+- Returns to **0 V**.
 
-傳統的 **雙電平同步（Bi-Level Sync）** ——也就是黑場信號所使用的格式——有兩個電平：同步脈衝頂端（Sync Tip）和消隱電平（Blanking Level）。這種方式會將不希望有的 DC 分量引入視訊信號中。
+This three‑level waveform provides several advantages for HD systems:
 
-三電平同步則解決了這個問題：
+- **Higher frequency** – improves timing accuracy and reduces jitter.
+- **Better noise immunity** – the symmetrical pulse shape is easier for PLLs (phase‑locked loops) to lock onto.
+- **SMPTE standardization** – tri‑level sync is defined by SMPTE 296M and 274M for HD formats.
 
-&bull; 它與雙電平同步具有相同的消隱電平（位於 0V/接地）
-
-&bull; 但同步脈衝同時包含**負向**和**正向**兩個元素
-
-&bull; 信號從 0V 開始 → 下降到 -300mV → 上升到 +300mV → 回到 0V
-
-&bull; 這使得信號保持**對稱平衡**，DC 分量為零
-
-&bull; 時序擷取點位於信號**跨越消隱電平的零點**，不再受振幅變化的影響
-
-這使得三電平同步成為一個**更穩健（robust）** 的信號，抖動更小，非常適合高資料速率和嚴格抖動要求的 HD 系統。
-
-在 HD 系統中，三電平同步已取代黑場成為首選的 Genlock 參考信號。SD 系統使用黑場（雙電平），HD 系統使用三電平同步。
+Tri‑level sync is gradually replacing black burst as the primary reference in modern HD and 4K facilities, though many MSGs still support both formats for backward compatibility with legacy SD equipment [2].
 
 ---
 
-#### English Explanation
+### 4. How Do These Three Work Together?
 
-**Tri-Level Sync** is an analog video synchronization pulse primarily used for locking high-definition (HD) video signals. It was introduced by SMPTE (Society of Motion Picture and Television Engineers) in the SMPTE 240 analog HDTV standard.
+The relationship between the Master Sync Generator, genlock, and tri‑level sync can be understood as a **hierarchical system**:
 
-Traditional **Bi-Level Sync**—the format used by black burst signals—has two levels: sync tip and blanking level. This approach introduces unwanted DC components into the video signal.
+| Component                 | Role                                                         |
+| ------------------------- | ------------------------------------------------------------ |
+| **Master Sync Generator** | The **source** — produces the reference signals (black burst and/or tri‑level sync). |
+| **Genlock**               | The **technique** — the method by which all other devices lock their timing to the MSG's signals. |
+| **Tri‑Level Sync**        | The **signal format** — the specific waveform used as the genlock reference in HD systems. |
 
-Tri-Level Sync solves this problem:
+**In operation:**
 
-&bull; It has the same blanking level as bi-level sync (at ground/0V)
-
-&bull; But the sync pulse contains **both a negative and a positive** element
-
-&bull; The signal goes from 0V → drops to -300mV → rises to +300mV → returns to 0V
-
-&bull; This keeps the signal **symmetrically balanced**, resulting in zero DC content
-
-&bull; The timing pickoff point is at the **zero-crossing point** where the signal crosses blanking, no longer subject to amplitude variation
-
-This makes Tri-Level Sync a **much more robust signal** with less jitter, ideal for high data rate and tight jitter requirement HD systems.
-
-In HD systems, Tri-Level Sync has replaced black burst as the preferred genlock reference signal. SD systems use black burst (bi-level), while HD systems use tri-level sync.
+1. The **Master Sync Generator** generates a stable tri‑level sync signal (and optionally black burst for SD equipment).
+2. This signal is distributed to all cameras, switchers, recorders, and other genlock‑capable devices via a dedicated sync distribution amplifier.
+3. Each device uses **genlock** to phase‑lock its internal clock to the incoming tri‑level sync, ensuring every frame starts at precisely the same moment.
+4. The MSG may itself be **genlocked** to an even more accurate external reference, such as a GPS/GLONASS receiver, to maintain absolute time alignment across multiple facilities.
 
 ---
 
-### 四、三者關係總覽 │ The Relationship Overview
+### 5. Text Diagram of the Signal Flow
 
-| 概念 | Concept | 說明 | Explanation |
-| :--- | :--- | :--- | :--- |
-| **MSG（主同步產生器）** | MSG | 系統中的「時間心臟」，產生並分配參考信號 | The "timekeeper" of the system—generates and distributes reference signals |
-| **Genlock（同步鎖相）** | Genlock | 一種「機制／技術」——讓所有設備鎖定到 MSG 的參考信號 | A "mechanism/technique"—locks all devices to the MSG's reference signal |
-| **Tri-Level Sync（三電平同步）** | Tri-Level Sync | 一種「信號格式」——MSG 用來傳送 HD 參考信號的具體波形 | A "signal format"—the specific waveform used by MSG to deliver HD reference signals |
+*(All lines are indented with 4 spaces to preserve monospace alignment and avoid inner backticks.)*
 
-**簡單來說：**
-
-**MSG 是「產生者」**（產生參考信號）→ **Tri-Level Sync 是「語言」**（HD 系統使用的信號格式）→ **Genlock 是「動作」**（設備鎖定到該信號的過程）
-
-**In simple terms:**
-
-**MSG is the "producer"** (generates reference signals) → **Tri-Level Sync is the "language"** (the signal format used in HD systems) → **Genlock is the "action"** (the process of devices locking to that signal)
-
----
-
-### 五、信號波形草圖 │ Signal Waveform Sketches
-
-#### 草圖 1：Bi-Level Sync（雙電平同步／黑場 Black Burst）
-
-```
-電壓
-  ↑
-  │                                    ┌──────────────┐
-  │                                    │              │
-  │    ┌──────────────────────────────┐│   視訊區間    │
-  │    │         視訊區間             ││   (Active    │
- 0V ├────┼──────────────────────────────┼│   Video)     │
-  │    │                              ││              │
-  │    │                              │└──────────────┘
-  │    │                              │
-  │    │         ┌────┐               │
-  │    │         │    │               │
--300mV├────┼─────────┼────┼───────────────┼──────────────────→ 時間
-  │    │         │    │               │
-  │    │         └────┘               │
-  │    │     同步脈衝頂端              │
-  │    │     (Sync Tip)               │
-  │    │                              │
-  └────┴──────────────────────────────┴──────────────────
-       
-        Bi-Level Sync = 兩個電平：0V（消隱）和 -300mV（同步脈衝頂端）
-        Bi-Level Sync = Two levels: 0V (blanking) and -300mV (sync tip)
-```
-
----
-
-#### 草圖 2：Tri-Level Sync（三電平同步）
-
-```
-電壓
-  ↑
-+300mV ─────┼──────────────┐
-  │          │              │  ┌──────┐
-  │          │              │  │      │
-  │          │              │  │      │
- 0V ────────┼──────────────┼──┼──────┼───────────────→ 時間
-  │          │              │  │      │
-  │          │              │  │      │
-  │          │              │  └──────┘
--300mV ─────┼──────────────┘
-  │          │
-  │          │
-  │    ┌─────┘
-  │    │
-  └────┴─────────────────────────────────────────────
-
-        Tri-Level Sync = 三個電平：0V → -300mV → +300mV → 0V
-        零點（Zero-Crossing Point）為時序擷取點
-        Tri-Level Sync = Three levels: 0V → -300mV → +300mV → 0V
-        Zero-crossing point is the timing pickoff point
-```
+        ┌─────────────────────────────────────────────────────────────────────────────┐
+        │                    MASTER SYNC GENERATOR (MSG)                             │
+        │  ┌─────────────────────────────────────────────────────────────────────┐   │
+        │  │         Internal OCXO (High‑Stability Clock)                       │   │
+        │  └───────────────────────────────┬─────────────────────────────────────┘   │
+        │                                  │                                         │
+        │                                  ▼                                         │
+        │  ┌─────────────────────────────────────────────────────────────────────┐   │
+        │  │              Sync Pulse Generator & Format Converter               │   │
+        │  └───────────────┬─────────────────────────────┬───────────────────────┘   │
+        │                  │                             │                           │
+        │                  ▼                             ▼                           │
+        │  ┌──────────────────────────┐  ┌──────────────────────────────────────┐   │
+        │  │   Black Burst Outputs    │  │   Tri‑Level Sync Outputs (HD)       │   │
+        │  │   (Bi‑Level, for SD)     │  │   (SMPTE 296M/274M compliant)       │   │
+        │  └───────────┬──────────────┘  └───────────────┬──────────────────────┘   │
+        └──────────────┼─────────────────────────────────┼────────────────────────────┘
+                       │                                 │
+                       │         GENLOCK REFERENCE       │
+                       │         SIGNAL DISTRIBUTION     │
+                       ▼                                 ▼
+        ┌─────────────────────────────────────────────────────────────────────────────┐
+        │                     SYNC DISTRIBUTION AMPLIFIER                            │
+        │   (Fan‑out to multiple destinations with equal delay)                      │
+        └───────┬─────────────────────────────────────────────────┬───────────────────┘
+                │                                                 │
+                ▼                                                 ▼
+        ┌───────────────────┐                           ┌───────────────────┐
+        │   Camera #1       │                           │   Camera #2       │
+        │  (Genlock Input)  │                           │  (Genlock Input)  │
+        │                   │                           │                   │
+        │  ┌─────────────┐  │                           │  ┌─────────────┐  │
+        │  │  PLL locks  │  │                           │  │  PLL locks  │  │
+        │  │  to tri‑    │  │                           │  │  to tri‑    │  │
+        │  │  level sync │  │                           │  │  level sync │  │
+        │  └─────────────┘  │                           │  └─────────────┘  │
+        └───────────────────┘                           └───────────────────┘
+                │                                                 │
+                └──────────────────┬──────────────────────────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │   Vision Switcher   │
+                        │  (Genlock Input)    │
+                        │                     │
+                        │  ┌───────────────┐  │
+                        │  │  Seamless     │  │
+                        │  │  Cuts between │  │
+                        │  │  sources      │  │
+                        │  └───────────────┘  │
+                        └─────────────────────┘
 
 ---
 
-#### 草圖 3：Bi-Level vs Tri-Level 比較
+### 6. Advanced Concepts
 
-```
-Bi-Level Sync (雙電平)：
-────────────────────────────────────────────────────
-電壓
-  │     ┌──────────────┐
-  │     │              │
- 0V ────┼──────────────┼─────────────────────────
-  │     │              │
-  │     │    ┌────┐    │
--300mV──┼────┼────┼────┼─────────────────────────
-  │     │    └────┘    │
-  │     └──────────────┘
-  └──────────────────────────────────────────────→ 時間
-        ↑ 有 DC 分量問題 (DC offset issue)
+**Stay GenLock® / Holdover Recovery** – When the external reference is temporarily lost, the MSG maintains its output frequency and phase using its internal oscillator. When the reference returns, the MSG slowly re‑aligns rather than "jamming" back abruptly, avoiding synchronization shock [1].
 
+**GPS/GLONASS Locking** – Many MSGs can lock to GPS/GLONASS satellite signals, providing an ultra‑stable frequency reference and precise time‑of‑day for time code outputs. This is essential for multi‑facility operations where absolute time alignment is required [5].
 
-Tri-Level Sync (三電平)：
-────────────────────────────────────────────────────
-電壓
-+300mV ─┼──────┐
-  │     │      │  ┌──┐
-  │     │      │  │  │
- 0V ────┼──────┼──┼──┼─────────────────────────
-  │     │      │  │  │               ← 零點為時序參考
-  │     │      │  └──┘                 (Zero-crossing 
--300mV ─┼──────┘                         = timing ref)
-  │     │
-  └─────┴──────────────────────────────────────→ 時間
-        ↑ 對稱平衡，DC 分量為零 (Symmetric, zero DC)
-```
+**Infinite Genlock Timing Range** – Some MSGs offer infinite adjustment range for horizontal and vertical timing, allowing them to lock to references with widely varying phases [3].
 
 ---
 
-#### 草圖 4：廣播系統中的 MSG、Genlock 與 Tri-Level Sync
+## Chinese Section (中文部分)
 
-```
-                      ┌─────────────────────────────────────┐
-                      │                                     │
-                      │     Master Sync Generator (MSG)     │
-                      │       主同步產生器                   │
-                      │                                     │
-                      │  ┌──────────┐  ┌───────────────┐   │
-                      │  │ Black    │  │  Tri-Level    │   │
-                      │  │ Burst    │  │  Sync Output  │   │
-                      │  │ 輸出     │  │  輸出 (HD)    │   │
-                      │  │ (SD)     │  │               │   │
-                      │  └────┬─────┘  └───────┬───────┘   │
-                      │       │                │           │
-                      └───────┼────────────────┼───────────┘
-                              │                │
-                    (SD 設備)  │        (HD 設備) │
-                              │                │
-                              ▼                ▼
-                     ┌─────────────────────────────────────┐
-                     │                                     │
-                     │     各設備透過 Genlock 機制          │
-                     │     鎖定到 MSG 的參考信號           │
-                     │   All devices Genlocked to MSG      │
-                     │                                     │
-                     │  ┌─────┐  ┌─────┐  ┌──────────┐    │
-                     │  │攝影機│  │切換台│  │LED處理器 │    │
-                     │  │Cam. │  │Swit.│  │LED Proc. │    │
-                     │  └─────┘  └─────┘  └──────────┘    │
-                     │                                     │
-                     └─────────────────────────────────────┘
-                                    │
-                                    ▼
-                          ┌─────────────────┐
-                          │  同步播出 / 切換  │
-                          │  無畫面撕裂      │
-                          │  Seamless Playout│
-                          └─────────────────┘
-```
+### 摘要
+主同步发生器（Master Sync Generator，简称MSG）是专业视频系统的"心跳"，负责产生让所有设备保持精确同步的参考信号。本节将解释MSG的工作原理、genlock作为同步技术的角色，以及tri-level sync作为高清参考信号的特性，并通过详细的文本示意图展示三者在广播环境中的协作关系。
 
 ---
 
-### 六、總結 │ Summary
+### 1. 什么是主同步发生器（MSG）？
 
-| 中文                                           | English                                                                                                                                     |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| **MSG** 是廣播系統的「時間心臟」，產生所有設備所需的參考同步信號。            | **MSG** is the "timekeeper" of a broadcast system, generating reference sync signals for all devices.                                           |
-| **Genlock** 是讓所有設備鎖定到 MSG 參考信號的機制與技術。            | **Genlock** is the mechanism and technique that locks all devices to the MSG's reference signal.                                                |
-| **Tri-Level Sync** 是 HD 系統使用的同步信號格式，比傳統黑場更精確、更穩健。 | **Tri-Level Sync** is the sync signal format used in HD systems—more precise and robust than traditional black burst.                           |
-| 三者共同構成專業影音系統的**同步基礎架構**，確保多設備間的無縫協作。             | Together, they form the **synchronization infrastructure** of professional AV systems, ensuring seamless collaboration across multiple devices. |
+**主同步发生器**是一台精密的多格式视频信号发生器，用作整个广播、演播室或后期制作设施的主同步与定时参考源。它同时产生多种参考信号，包括：
+
+- **黑场信号（bi-level sync）** – 用于标清（SD）设备。
+- **HD三电平同步（tri-level sync）** – 用于高清（HD）和3G-SDI系统。
+- **时间码**（LTC、VITC）和**网络时间**（NTP、PTP）。
+- **测试图案** – 多种数字和模拟格式。
+
+MSG可工作在两种主要模式下：
+- **主模式（自由运行）** – 依靠内部恒温晶振（OCXO）产生自身稳定的定时信号。
+- **从模式（genlock）** – 将其输出锁定到外部参考信号，如另一台MSG、GPS/GLONASS接收器或10 MHz连续波信号。
+
+高端MSG（如Tektronix SPG8000、Grass Valley SPG8000A、AV-IQ MSG-5300）提供多个独立定时的输出、热插拔电源，以及**Stay GenLock®** 等高级功能，在外部参考信号暂时丢失时防止同步冲击 [1][5]。
 
 ---
 
-### 七、參考標準 │ Reference Standards
+### 2. 什么是Genlock？
 
-&bull; **SMPTE 274M** – 1920×1080 影像信號格式
+**Genlock**（发生器锁定的缩写）是一种将多个视频源同步到单个共享定时参考的技术。其目标是确保设施中的每台摄像机、录像机、切换器和显示器都在完全相同的时刻开始每一帧。
 
-&bull; **SMPTE 296M** – 1280×720 影像信號格式
+在实际应用中，genlock的工作方式如下：
 
-&bull; **SMPTE 240** – 模擬 HDTV 標準（引入 Tri-Level Sync）
+1. **同步发生器**（通常是MSG）产生连续的参考信号。
+2. 所有其他设备通过专用genlock输入连接到该参考信号。
+3. 每台设备将其内部定时锁定到输入的参考信号，对齐其水平和垂直同步脉冲。
 
-&bull; **ITU-R BT.1358** – 三電平同步信號規範
+如果没有genlock，即使设备之间微小的时钟漂移也会在切换信号源时产生可见的伪影——帧可能从屏幕中间开始显示、音频可能失 sync、切换时可能滚动或出现毛刺。Genlock通过为整个系统提供共同的"定时平面"来消除这些问题 [2][6]。
+
+---
+
+### 3. 什么是三电平同步（Tri-Level Sync）？
+
+**三电平同步**是一种主要用于高清（HD）和3G-SDI视频系统的模拟同步信号。与只有两个电平（同步头和消隐电平）的传统双电平（黑场）同步不同，三电平同步脉冲具有三个不同的电平：
+
+- 从 **0 V**（消隐电平）开始。
+- 下降到 **负电压**（通常为 –300 mV）。
+- 上升到 **正电压**（通常为 +300 mV）。
+- 回到 **0 V**。
+
+这种三电平波形为HD系统提供了多项优势：
+
+- **频率更高** – 提高定时精度并减少抖动。
+- **抗噪性更好** – 对称的脉冲形状使锁相环（PLL）更容易锁定。
+- **SMPTE标准化** – 三电平同步由SMPTE 296M和274M为HD格式定义。
+
+三电平同步正在逐渐取代黑场信号，成为现代HD和4K设施中的主要参考信号，不过许多MSG仍同时支持两种格式，以兼容标清 legacy 设备 [2]。
+
+---
+
+### 4. 三者如何协同工作？
+
+主同步发生器、genlock和三电平同步之间的关系可以理解为一个**层级系统**：
+
+| 组件                             | 角色                                                     |
+| -------------------------------- | -------------------------------------------------------- |
+| **主同步发生器（MSG）**          | **信号源** — 产生参考信号（黑场和/或三电平同步）。       |
+| **Genlock**                      | **技术方法** — 所有其他设备将其定时锁定到MSG信号的方式。 |
+| **三电平同步（Tri-Level Sync）** | **信号格式** — HD系统中用作genlock参考的特定波形。       |
+
+**在实际运作中：**
+
+1. **主同步发生器**产生稳定的三电平同步信号（并可选择为SD设备产生黑场信号）。
+2. 该信号通过专用的同步分配放大器分发到所有摄像机、切换器、录像机和其他支持genlock的设备。
+3. 每台设备使用**genlock**将其内部时钟锁相到输入的三电平同步信号，确保每一帧都在完全相同的时刻开始。
+4. MSG本身也可以**genlock**到更精确的外部参考，如GPS/GLONASS接收器，以在多个设施之间保持绝对时间对齐。
+
+---
+
+### 5. 信号流程文本示意图
+
+*(所有行缩进4个空格以保持等宽对齐，避免内部反引号。)*
+
+        ┌─────────────────────────────────────────────────────────────────────────────┐
+        │                      主同步发生器（MSG）                                   │
+        │  ┌─────────────────────────────────────────────────────────────────────┐   │
+        │  │         内部恒温晶振（高稳定性时钟）                                │   │
+        │  └───────────────────────────────┬─────────────────────────────────────┘   │
+        │                                  │                                         │
+        │                                  ▼                                         │
+        │  ┌─────────────────────────────────────────────────────────────────────┐   │
+        │  │              同步脉冲发生器与格式转换器                             │   │
+        │  └───────────────┬─────────────────────────────┬───────────────────────┘   │
+        │                  │                             │                           │
+        │                  ▼                             ▼                           │
+        │  ┌──────────────────────────┐  ┌──────────────────────────────────────┐   │
+        │  │   黑场输出（双电平）     │  │   三电平同步输出（HD）               │   │
+        │  │   （用于标清设备）       │  │   （符合SMPTE 296M/274M）            │   │
+        │  └───────────┬──────────────┘  └───────────────┬──────────────────────┘   │
+        └──────────────┼─────────────────────────────────┼────────────────────────────┘
+                       │                                 │
+                       │        GENLOCK 参考信号         │
+                       │        信号分配                  │
+                       ▼                                 ▼
+        ┌─────────────────────────────────────────────────────────────────────────────┐
+        │                     同步分配放大器                                         │
+        │   （扇出到多个目标，延时一致）                                              │
+        └───────┬─────────────────────────────────────────────────┬───────────────────┘
+                │                                                 │
+                ▼                                                 ▼
+        ┌───────────────────┐                           ┌───────────────────┐
+        │   摄像机 #1       │                           │   摄像机 #2       │
+        │  （Genlock输入）  │                           │  （Genlock输入）  │
+        │                   │                           │                   │
+        │  ┌─────────────┐  │                           │  ┌─────────────┐  │
+        │  │  PLL锁定    │  │                           │  │  PLL锁定    │  │
+        │  │  到三电平   │  │                           │  │  到三电平   │  │
+        │  │  同步信号   │  │                           │  │  同步信号   │  │
+        │  └─────────────┘  │                           │  └─────────────┘  │
+        └───────────────────┘                           └───────────────────┘
+                │                                                 │
+                └──────────────────┬──────────────────────────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │   视频切换台        │
+                        │  （Genlock输入）    │
+                        │                     │
+                        │  ┌───────────────┐  │
+                        │  │  信号源之间   │  │
+                        │  │  无缝切换     │  │
+                        │  └───────────────┘  │
+                        └─────────────────────┘
+
+---
+
+### 6. 高级概念
+
+**Stay GenLock® / 保持恢复** – 当外部参考信号暂时丢失时，MSG利用其内部振荡器维持输出频率和相位。当参考信号恢复时，MSG缓慢重新对齐而不是突然"跳回"，避免同步冲击 [1]。
+
+**GPS/GLONASS锁定** – 许多MSG可以锁定到GPS/GLONASS卫星信号，提供超稳定的频率参考和精确的当日时间，用于时间码输出。这对于需要绝对时间对齐的多设施运营至关重要 [5]。
+
+**无限Genlock定时范围** – 某些MSG提供水平和垂直定时的无限调节范围，使其能够锁定到相位变化很大的参考信号 [3]。
+
+
+## References / 参考文献
+
+[1] Live‑Production.tv – "SPG8000 Master Sync / Master Clock Reference Generator Datasheet" – https://www.live-production.tv
+
+[2] Wikipedia – "Genlock" – https://en.wikipedia.org/wiki/Genlock
+
+[3] AV‑IQ – "MSG‑5300 Master Sync Generator Datasheet" – http://cdn-docs.av-iq.com
+
+[4] B&H Photo Video – "Link Electronics Master Sync Generator" – https://www.bhphotovideo.com
+
+[5] Telestream – "SPG8000A Master Sync / Master Clock Reference Generator Datasheet" – https://www.telestream.net
+
+[6] Resi.io – "What is Genlock? A Beginners Guide" – http://resi.io/blog/what-is-genlock/
