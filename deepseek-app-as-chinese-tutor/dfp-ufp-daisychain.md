@@ -1,137 +1,264 @@
-DeepSeek: 沒問題！您說得對，之前的總結表格英文解釋確實比較精簡。現在我將完整重新整理一份終極版輸出，並將表格內的英文解釋擴充為詳細的完整敘述，讓中英雙語 equally 詳盡。
+### Part 1: Prompt Repetition
+
+**Original prompt:**  
+> Provide a comprehensive technical explanation of USB's DFP and UFP functions, their history, and how they affected daisy-chaining. Draw diagrams to illustrate, use Monospaced-fonts, to align boundaries of boxes, make sure text-labels fit inside the diagram's ascii boxes.
 
 ---
 
-## USB DFP 與 UFP 終極詳解（中英雙語完整版）
+### Part 2: Essence in Concise, Colloquial Chinese
 
-## Ultimate Bilingual Guide to USB DFP and UFP
-
----
-
-### 第一部分：核心定義（Part 1: Core Definitions）
-
-#### 中文：
-
-- **DFP（Downstream Facing Port／下行埠）**：指主機（Host）或集線器（Hub）上負責向下游設備傳輸資料與供應電力的連接埠。在 USB-C 實體層中，DFP 透過內部 **Rp 上拉電阻** 向纜線宣告自己是「供電來源（Source）」。
-- **UFP（Upstream Facing Port／上行埠）**：指周邊設備（Device）或集線器（Hub）上負責連接主機或上游設備的連接埠。UFP 透過 **Rd 下拉電阻** 宣告自己是「受電端（Sink）」，被動接受來自 DFP 的電力與數據。
-
-#### English：
-
-- **DFP (Downstream Facing Port)**：Refers to the port on a Host or Hub that is responsible for transmitting data and supplying power to downstream devices. At the USB-C physical layer, the DFP uses an internal **Rp pull-up resistor** to advertise itself as the "Power Source" to the cable.
-- **UFP (Upstream Facing Port)**：Refers to the port on a Peripheral Device or Hub that connects to the host or upstream device. The UFP uses an **Rd pull-down resistor** to declare itself as the "Power Sink," passively receiving both power and data from the DFP.
+> 請詳細解釋 USB 的 DFP 和 UFP 功能的技術原理、它們的歷史演進，以及它們如何影響菊花鏈（daisy-chaining）的實現。請繪製等寬字體的 ASCII 圖表來說明，確保文字標籤能完整放入圖表框線內。
 
 ---
 
-### 第二部分：基本點對點連接文字流程圖（Part 2: Basic Point-to-Point Flow Diagram）
+### Part 3: Bilingual Response
 
-此圖展示最單純的「筆電 → 外接螢幕」連線：
-（This diagram shows the simplest "Laptop → Monitor" connection：）
+#### CHINESE SECTION
+
+**摘要**
+
+DFP（Downstream Facing Port，下行埠）和 UFP（Upstream Facing Port，上行埠）是 USB Type-C 規格中引入的術語，用於取代傳統的「主機」（Host）和「裝置」（Device）概念 [1]。DFP 是數據傳輸中的主機端（如電腦），而 UFP 是裝置端（如隨身碟）[2]。它們隨著 USB Type-C 規格 1.0 版於 **2014 年 8 月** 發布而誕生，目的是為了支持 Type-C 連接器的可正反插、更高功率傳輸（USB PD）以及數據與電源角色的動態獨立切換 [3][4]。
+
+其核心工作原理是透過 **CC（Configuration Channel）引腳**上的電阻進行識別：DFP 的 CC 引腳有上拉電阻（Rp），UFP 有下拉電阻（Rd，固定值 5.1kΩ）[5]。當兩者連接時，DFP 檢測到 Rd 下拉電阻，識別到 UFP 裝置，隨後打開 VBUS 電源供電 [6]。**菊花鏈（Daisy Chaining）** 則依賴於 **DRP（Dual Role Port，雙角色埠）** 的動態角色切換能力 [7]。在菊花鏈中，中間設備（如顯示器）對上游扮演 UFP（裝置），對下游扮演 DFP（主機），從而實現多設備串聯 [8]。
+
+---
+
+**細節**
+
+**1. 定義：什麼是 DFP、UFP 和 DRP？**
+
+在 USB Type-C 的語境下，數據角色（Data Role）被重新定義 [1]：
+
+| 術語    | 全稱                   | 角色                       | 典型設備                     |
+| :------ | :--------------------- | :------------------------- | :--------------------------- |
+| **DFP** | Downstream Facing Port | 主機（Host）／電源提供者   | 電腦、充電器、集線器的下行埠 |
+| **UFP** | Upstream Facing Port   | 裝置（Device）／電源消耗者 | 隨身碟、鍵盤、滑鼠           |
+| **DRP** | Dual Role Port         | 可動態切換為 DFP 或 UFP    | 筆記型電腦、新款手機         |
+
+DFP 是數據流向下游的埠，負責發起數據傳輸，並在默認情況下提供 VBUS 電源 [2]。UFP 是數據流向上游的埠，接收來自 DFP 的數據，並從 VBUS 取電 [3]。DRP 則可以在連接時根據對端設備動態切換角色 [4]。
+
+**2. 歷史：何時納入標準？為何增加？**
+
+DFP 和 UFP 這兩個術語是伴隨著 **USB Type-C 規格**一同出現的。USB Type-C 規格 1.0 版於 **2014 年 8 月 11 日** 正式發布 [5]。它們被引入是為了支持 Type-C 帶來的新特性 [6]：
+
+- **角色動態切換**：在 USB Type-C 之前，主機和裝置的角色是固定的。Type-C 允許數據角色（Data Role）和電源角色（Power Role）**獨立運作與協商**，一個裝置可以在不同連接情境中扮演不同角色 [7]。
+- **支援 USB PD**：USB Power Delivery 協議允許動態調整電壓和電流，DFP/UFP/DRP 的定義為這種靈活的電源管理提供了基礎 [8]。
+- **適應新連接器**：Type-C 連接器的對稱性（正反插）和多功能性（支援替代模式）需要更靈活的角色定義。
+
+**3. 運作原理：硬體檢測與軟體協商**
+
+DFP 和 UFP 的識別與角色分配通過硬體和軟體協同完成。
+
+**3.1 硬體檢測（CC 引腳電阻機制）**
+
+USB Type-C 連接器有兩個 CC 引腳（CC1 和 CC2）[1]。DFP 在 CC 引腳上提供**上拉電阻（Rp）**，而 UFP 提供**下拉電阻（Rd，固定值 5.1kΩ）**[2]。
+
+- **連接檢測**：未連接時，DFP 的 VBUS 無輸出。當 DFP 和 UFP 通過線纜連接時，CC 引腳相連。DFP 檢測到 CC 引腳上的電壓被 UFP 的 Rd 下拉電阻拉低，從而識別到 UFP 設備連接 [3]。
+- **方向檢測**：通過檢測哪個 CC 引腳（CC1 或 CC2）被拉低，系統判斷線纜的插入方向，並據此切換高速數據線（TX/RX）[4]。
+- **電源供應**：一旦檢測到有效的 UFP 連接，DFP 打開 VBUS 開關，輸出電源給 UFP [5]。
+
+**3.2 軟體協商（USB PD 協議）**
+
+對於更複雜的場景（如角色互換、電壓協商），則需要 USB PD 協議。通過 CC 引腳上的雙向通訊，DFP 和 UFP 可以交換能力資訊，並動態改變數據角色（**DR_Swap**，Data Role Swap）或電源角色（**PR_Swap**，Power Role Swap）[6]。
+
+**4. 菊花鏈（Daisy Chaining）與 DFP/UFP 的動態角色**
+
+菊花鏈是指將多個設備（如顯示器）以串聯方式連接的拓撲結構 [7]。在 USB Type-C 環境中，實現菊花鏈的關鍵在於：
+
+- 設備的埠必須是 **DRP（雙角色埠）**。
+- 通常需要支援 **DisplayPort 替代模式（Alt Mode）** 或 **Thunderbolt** [8]。
+- 中間設備必須能夠**同時扮演 UFP 和 DFP**：對上游是裝置（UFP），對下游是主機（DFP）。
+
+**角色動態分配流程**：
+
+1. **上游埠**：連接到主機（如筆記型電腦）的埠，扮演 **UFP** 角色，從主機接收視頻數據和電力。
+2. **下游埠**：用於連接下一台設備（如第二台顯示器）的埠，扮演 **DFP** 角色，將視頻數據轉發出去，並為下游設備供電。
+
+**示例**：筆記型電腦（DRP，作為 DFP）→ 顯示器 1（上游埠為 UFP，下游埠為 DFP）→ 顯示器 2（上游埠為 UFP）。顯示器 1 在這裡充當「中繼」或「集線器」的角色。
+
+---
+
+**圖示**
+
+**圖 1：DFP 與 UFP 的 CC 引腳電阻檢測機制**
 
 ```
-  ┌─────────────────┐          USB Type-C 纜線          ┌────────────────────┐
-  │   筆電 (Host)    │  ════════════════════════════>   │   外接螢幕 (Device) │
-  │                  │                                  │                    │
-  │  [ DFP 下行埠 ]  │     電力與數據流向 (Power+Data)   │  [ UFP 上行埠 ]    │
-  │  (Rp 上拉電阻)   │                                  │  (Rd 下拉電阻)     │
-  │  角色：供電來源   │                                  │  角色：受電設備     │
-  └─────────────────┘                                  └────────────────────┘
+  +---------------------------+          +-----------------------------+
+  |        DFP (Host)         |          |        UFP (Device)          |
+  |                           |          |                             |
+  |  +--------+  +--------+  |          |  +--------+  +--------+     |
+  |  |  CC1   |  |  CC2   |  |          |  |  CC1   |  |  CC2   |     |
+  |  |  (Rp)  |  |  (Rp)  |  |          |  |  (Rd)  |  |  (Rd)  |     |
+  |  +----+---+  +----+---+  |          |  +----+---+  +----+---+     |
+  |       |           |      |          |       |           |         |
+  |       +-----------+      |          |       +-----------+         |
+  |               |          |          |               |             |
+  |           VBUS (Off)     |          |           VBUS (Sink)       |
+  |               |          |          |               |             |
+  +---------------+----------+          +---------------+-------------+
+                  |                                  |
+                  +--------- Type-C Cable -----------+
+                               |
+                        CC pin connected,
+                        DFP detects Rd,
+                        enables VBUS
+```
+
+**圖 2：菊花鏈中的 DFP/UFP 角色動態分配**
+
+```
+  +-------------+          +---------------------------+          +---------------------+
+  |    Laptop   |          |       Monitor 1           |          |      Monitor 2      |
+  |   (DRP)     |          |    (DRP with DP Alt)      |          |   (DRP with DP Alt) |
+  |             |          |                           |          |                     |
+  |  +-------+  |          |  +---------+ +---------+  |          |  +---------+        |
+  |  |Port A |  |          |  |Upstream | |Downstream|  |          |  |Upstream |        |
+  |  |(as    |  |          |  |(UFP)    | |(DFP)    |  |          |  |(UFP)    |        |
+  |  | DFP)  |--|----------|->|         | |         |--|--------->|  |         |        |
+  |  +-------+  |          |  +---------+ +---------+  |          |  +---------+        |
+  |             |          |                           |          |                     |
+  +-------------+          +---------------------------+          +---------------------+
+        |                             |                                    |
+        |  1. Laptop acts as DFP      |  2. Monitor 1 upstream = UFP      |  4. Monitor 2 upstream = UFP
+        |     (Host)                  |     (Device to laptop)             |     (Device to Monitor 1)
+        |                             |  3. Monitor 1 downstream = DFP     |
+        |                             |     (Host to Monitor 2)            |
+        |                             |                                    |
+        +---------- Data/Video/Power Flow --------------------------------+
 ```
 
 ---
 
-### 第三部分：DFP / UFP 與 Daisy-chaining（菊鏈串接）的深度關係
+#### ENGLISH SECTION
 
-（Part 3: The Deep Relationship between DFP/UFP and Daisy-chaining）
+**Abstract**
 
-#### 中文詳解：
+DFP (Downstream Facing Port) and UFP (Upstream Facing Port) are terms introduced with the USB Type-C specification to replace the traditional "Host" and "Device" concepts [1]. A DFP is the host side in data transfer (e.g., a computer), while a UFP is the device side (e.g., a USB flash drive) [2]. They were introduced alongside the USB Type-C specification, Release 1.0, published in **August 2014**, to accommodate new features like reversible plug orientation, higher power delivery (USB PD), and dynamic independent switching of data and power roles [3][4].
 
-- **傳統 USB（USB 2.0 / 3.2）**：**完全無關**。傳統 USB 採用「星狀拓撲（Star Topology）」。若想連接多台設備，必須透過**集線器（Hub）** 進行輻射狀擴充。DFP 與 UFP 在這裡只是單純的主從關係，不支援「一進一出」的線性串接，因此無法實現菊鏈。
-- **現代高速 USB（USB4 / Thunderbolt 3/4 或支援 DP Alt Mode 的顯示器）**：高度相關。在這類協議中，DFP 與 UFP 是實現菊鏈的核心關鍵。
-  - 可菊鏈的設備（如高階擴充座或螢幕）通常配備**兩個 USB-C 實體埠**：一個設定為 **UFP**（接收來自上游主機的訊號），另一個設定為 **DFP**（轉發訊號給下游下一台設備）。
-  - **運作本質**：數據先從主機的 DFP 發出，進入第一台設備的 UFP（接收），經內部晶片**重建／中繼（Re-timer / Re-driver）** 訊號後，再從該設備的 DFP 輸出，串聯到第二台設備的 UFP。如此形成鏈狀。
-
-#### English Detailed Explanation：
-
-- **Legacy USB (USB 2.0 / 3.2)：Completely unrelated**. Legacy USB adopts a **Star Topology**. To connect multiple devices, you must rely on a Hub for radial expansion. Here, DFP and UFP are merely simple host-to-device roles and do not support a "one-in, one-out" linear sequence, meaning Daisy-chaining is not achievable.
-- **Modern High-Speed USB (USB4 / Thunderbolt 3/4 or DP Alt Mode monitors)**：Highly relevant. In these protocols, DFP and UFP are the core pillars of implementing Daisy-chaining.
-  - Daisy-chainable devices (e.g., high-end docks or monitors) typically have **two physical USB-C ports**：one configured as a **UFP** (receiving the signal from the upstream host), and the other as a **DFP** (forwarding the signal downstream to the next device).
-  - **Operational essence**：Data is sent from the Host's DFP, enters the first device's UFP (reception), gets **reconstructed / relayed (via Re-timer / Re-driver)** by the internal chip, and then exits through that same device's DFP to chain into the next device's UFP. This forms a daisy-chain topology.
+Their operation is based on resistor detection on the **CC (Configuration Channel) pins**: a DFP has a pull-up resistor (Rp) on its CC pins, while a UFP has a pull-down resistor (Rd, fixed at 5.1kΩ) [5]. When connected, the DFP detects the Rd pull-down resistor, recognizes the UFP device, and then enables VBUS power [6]. **Daisy chaining** relies on devices with **DRP (Dual Role Port)** capability for dynamic role switching [7]. In a daisy chain, an intermediate device (like a monitor) acts as a UFP (device) to the upstream host and as a DFP (host) to the downstream device [8].
 
 ---
 
-### 第四部分：菊鏈與集線器拓撲對比文字圖（Part 4: Text Diagram Comparing Daisy-chain vs. Hub Topology）
+**Details**
 
-**圖 A：成功的菊鏈串接（線性拓撲）－ 適用 USB4 / Thunderbolt** <br>
-（Figure A: Successful Daisy-chain (Linear Topology) – Applicable to USB4 / Thunderbolt）
+**1. Definition: What are DFP, UFP, and DRP?**
+
+In the context of USB Type-C, the Data Role is redefined [1]:
+
+| Term    | Full Name              | Role                   | Typical Devices                           |
+| :------ | :--------------------- | :--------------------- | :---------------------------------------- |
+| **DFP** | Downstream Facing Port | Host / Power Source    | Computers, chargers, hub downstream ports |
+| **UFP** | Upstream Facing Port   | Device / Power Sink    | USB flash drives, keyboards, mice         |
+| **DRP** | Dual Role Port         | Dynamically DFP or UFP | Laptops, modern smartphones               |
+
+A DFP is the port through which data flows downstream, initiating data transactions and sourcing VBUS power by default [2]. A UFP is the port through which data flows upstream, receiving data from the DFP and sinking power from VBUS [3]. A DRP can dynamically switch its role based on the connected device [4].
+
+**2. History: When and Why Were They Added?**
+
+The terms DFP and UFP were introduced with the **USB Type-C specification** [5]. USB Type-C specification, Release 1.0, was published on **August 11, 2014** [5]. They were added to support new features brought by Type-C [6]:
+
+- **Dynamic Role Switching**: Before Type-C, host and device roles were fixed. Type-C allows Data Role and Power Role to be **negotiated independently**, enabling a device to act differently depending on the connection context [7].
+- **Support for USB PD**: USB Power Delivery allows dynamic voltage and current adjustment. The DFP/UFP/DRP definitions provide the foundation for this flexible power management [8].
+- **Adaptation to the New Connector**: The symmetry (reversible plug) and multi-functionality (support for Alternate Modes) of the Type-C connector required more flexible role definitions.
+
+**3. How Do They Work? Hardware Detection and Software Negotiation**
+
+The identification and role assignment of DFP and UFP are achieved through a combination of hardware and software.
+
+**3.1 Hardware Detection (CC Pin Resistor Mechanism)**
+
+The USB Type-C connector has two CC pins (CC1 and CC2) [1]. A DFP provides a **pull-up resistor (Rp)** on its CC pins, while a UFP provides a **pull-down resistor (Rd, fixed at 5.1kΩ)** [2].
+
+- **Connection Detection**: When disconnected, the DFP's VBUS has no output. When a DFP and UFP are connected via a cable, the CC pins are linked. The DFP detects that the voltage on its CC pin is pulled low by the UFP's Rd resistor, indicating a UFP device is attached [3].
+- **Orientation Detection**: By detecting which CC pin (CC1 or CC2) is pulled low, the system determines the cable's orientation and switches the high-speed data lines (TX/RX) accordingly [4].
+- **Power Delivery**: Once a valid UFP connection is detected, the DFP turns on the VBUS switch to provide power to the UFP [5].
+
+**3.2 Software Negotiation (USB PD Protocol)**
+
+For more complex scenarios like role swaps or voltage negotiation, the USB PD protocol is used. Through bidirectional communication over the CC pins, the DFP and UFP can exchange capability information and dynamically change their Data Role (**DR_Swap**, Data Role Swap) or Power Role (**PR_Swap**, Power Role Swap) [6].
+
+**4. Daisy Chaining and Dynamic DFP/UFP Roles**
+
+Daisy chaining is a topology where multiple devices (e.g., monitors) are connected in series [7]. In a USB Type-C environment, the key requirements are:
+
+- Devices' ports must be **DRP (Dual Role Ports)**.
+- Typically need to support **DisplayPort Alternate Mode (Alt Mode)** or **Thunderbolt** [8].
+- Intermediate devices must be able to **act as both UFP and DFP simultaneously**: UFP to the upstream, DFP to the downstream.
+
+**Dynamic Role Assignment Flow**:
+
+1. **Upstream Port**: The port connected to the host (e.g., a laptop) acts as a **UFP**, receiving video data and power from the host.
+2. **Downstream Port**: The port used to connect to the next device (e.g., a second monitor) acts as a **DFP**, forwarding the video data and providing power to the downstream device.
+
+**Example**: Laptop (DRP, acting as DFP) → Monitor 1 (upstream port as UFP, downstream port as DFP) → Monitor 2 (upstream port as UFP). Monitor 1 acts as a "repeater" or "hub".
+
+---
+
+**Diagrams**
+
+**Figure 1: DFP and UFP CC Pin Resistor Detection Mechanism**
 
 ```
-    [主機]          [設備 A - 中繼]        [設備 B - 終端]
-    Host            Device A (Repeater)    Device B (Endpoint)
-
-  ┌────────┐      ┌──────────────────┐     ┌────────┐
-  │ DFP    │─────>│ UFP (接收)  DFP  │────>│ UFP    │
-  │(來源)  │      │ (Rx)      (Tx)   │     │(純接收)│
-  └────────┘      └──────────────────┘     └────────┘
-    ║                    ║                     ║
-    ╚═════ 鏈狀延伸 ══════╩═══════ 鏈狀延伸 ════╝
-          (線性串接，每個設備只占用一個上游埠)
+  +---------------------------+          +-----------------------------+
+  |        DFP (Host)         |          |        UFP (Device)          |
+  |                           |          |                             |
+  |  +--------+  +--------+  |          |  +--------+  +--------+     |
+  |  |  CC1   |  |  CC2   |  |          |  |  CC1   |  |  CC2   |     |
+  |  |  (Rp)  |  |  (Rp)  |  |          |  |  (Rd)  |  |  (Rd)  |     |
+  |  +----+---+  +----+---+  |          |  +----+---+  +----+---+     |
+  |       |           |      |          |       |           |         |
+  |       +-----------+      |          |       +-----------+         |
+  |               |          |          |               |             |
+  |           VBUS (Off)     |          |           VBUS (Sink)       |
+  |               |          |          |               |             |
+  +---------------+----------+          +---------------+-------------+
+                  |                                  |
+                  +--------- Type-C Cable -----------+
+                               |
+                        CC pin connected,
+                        DFP detects Rd,
+                        enables VBUS
 ```
 
-**圖 B：傳統集線器星狀拓撲（非菊鏈）－ 適用 USB 2.0 / 3.2** <br>
-（Figure B: Traditional Hub Star Topology – Not Daisy-chaining）
+**Figure 2: Dynamic DFP/UFP Role Assignment in Daisy Chaining**
 
 ```
-                      ┌──────────┐
-                      │ 主機 DFP │
-                      └────┬─────┘
-                           │
-                      ┌────┴─────┐
-                      │ USB Hub  │ (內含多個 DFP)
-                      └────┬─────┘
-              ┌─────────┬───┴───┬─────────┐
-              │         │       │         │
-           ┌──┴──┐  ┌───┴──┐ ┌──┴──┐  ┌───┴──┐
-           │設備A │  │設備B │ │設備C │  │設備D │
-           │ UFP │  │ UFP │ │ UFP │  │ UFP │
-           └─────┘  └──────┘ └─────┘  └──────┘
-          (此為放射狀，所有設備並列，無法線性串聯)
+  +-------------+          +---------------------------+          +---------------------+
+  |    Laptop   |          |       Monitor 1           |          |      Monitor 2      |
+  |   (DRP)     |          |    (DRP with DP Alt)      |          |   (DRP with DP Alt) |
+  |             |          |                           |          |                     |
+  |  +-------+  |          |  +---------+ +---------+  |          |  +---------+        |
+  |  |Port A |  |          |  |Upstream | |Downstream|  |          |  |Upstream |        |
+  |  |(as    |  |          |  |(UFP)    | |(DFP)    |  |          |  |(UFP)    |        |
+  |  | DFP)  |--|----------|->|         | |         |--|--------->|  |         |        |
+  |  +-------+  |          |  +---------+ +---------+  |          |  +---------+        |
+  |             |          |                           |          |                     |
+  +-------------+          +---------------------------+          +---------------------+
+        |                             |                                    |
+        |  1. Laptop acts as DFP      |  2. Monitor 1 upstream = UFP      |  4. Monitor 2 upstream = UFP
+        |     (Host)                  |     (Device to laptop)             |     (Device to Monitor 1)
+        |                             |  3. Monitor 1 downstream = DFP     |
+        |                             |     (Host to Monitor 2)            |
+        |                             |                                    |
+        +---------- Data/Video/Power Flow --------------------------------+
 ```
 
 ---
 
-### 第五部分：進階概念－DRP（雙角色埠）與協議協商
+### Part 4: References
 
-（Part 5: Advanced Concept – DRP (Dual Role Port) and Protocol Negotiation）
+[1] Infineon Technologies. (2024). USB Type-C and USB-PD FAQs. *Infineon Community*. Available at: https://community.infineon.com/t5/Knowledge-Base-Articles/USB-Type-C-and-USB-PD-FAQs/ta-p/679219
 
-#### 中文：
-USB-C 規範中還有一種 **DRP（Dual Role Port）**。DRP 埠可以動態切換自身為 DFP 或 UFP。舉例來說，當兩台筆電透過 USB-C 對接時，它們會利用 **USB PD（Power Delivery）通訊協定** 進行角色協商，決定誰擔任「主機（DFP）」、誰擔任「設備（UFP）」。這大大增加了連接的靈活度，且是 USB4 實現動態菊鏈的基礎。
+[2] Microchip Technology. (2025). USB Type-C® Nomenclature and Features. *Microchip Developer Help*. Available at: https://developerhelp.microchip.com/xwiki/bin/view/applications/usb/typec-features/
 
-#### English：
-The USB-C specification also defines a **DRP (Dual Role Port)**. A DRP can dynamically toggle its role between being a DFP and a UFP. For instance, when two laptops are connected via USB-C, they will leverage the **USB PD (Power Delivery) protocol** to negotiate and decide which one acts as the "Host (DFP)" and which acts as the "Device (UFP)". This greatly enhances connection flexibility and is the foundational mechanism for dynamic daisy-chaining in USB4.
+[3] Texas Instruments. (n.d.). JAJSJU4 Data Sheet – TPS25850-Q1. *ti.com*. Available at: https://www.ti.com/document-viewer/ja-jp/TPS25850-Q1/datasheet/
 
----
+[4] 中国电子技术论坛. (2018). TYPE-C接口的工作原理图文详解. *chinaaet.com*. Available at: http://m.chinaaet.com/article/3000093562
 
-### 第六部分：強化版完整總結表格（含詳細中英雙語解釋）
+[5] Granite River Labs. (2022). USB Type-C Power Delivery 的角色交换功能. *graniteriverlabs.com.cn*. Available at: https://www.graniteriverlabs.com.cn/technical-blog/application-notes-usbc-role-swap/
 
-（Part 6: Enhanced Comprehensive Summary Table with Detailed Bilingual Explanations）
+[6] USB-IF. (2014). USB Type-C Cable and Connector Specification, Release 1.0. *usb.org*.
 
-| 比較項目 (Item)                     | DFP（下行埠）                                                 | UFP（上行埠）                                                | 與 Daisy-chaining 的關聯性與詳細解說 (Relevance to Daisy-chaining & Detailed Explanation)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 硬體電阻 (Hardware Resistor)        | Rp（上拉電阻 / Pull-up）                                       | Rd（下拉電阻 / Pull-down）                                    | 中文：這是初始握手的硬體標記。DFP 的 Rp 告訴纜線「我有電可給」；UFP 的 Rd 告訴纜線「我需要電」。此物理層區分不直接決定菊鏈，但卻是角色偵測的第一步。 English：This is the hardware strapping for the initial handshake. The Rp on DFP tells the cable "I can provide power," while the Rd on UFP tells it "I need power." This physical layer distinction does not directly determine daisy-chaining, but it is the first step in role detection.                                                                                                                                                                                                                      |
-| 協議角色 (Protocol Role)            | 主機／供電者 (Host / Source)                                   | 設備／受電者 (Device / Sink)                                  | 中文：DFP 負責主導匯流排、發起數據傳輸；UFP 被動回應主機指令。在菊鏈中，中間節點的內部晶片必須同時具備「模擬 UFP 接收」與「模擬 DFP 發送」的能力，才能中繼數據。 English：The DFP governs the bus and initiates data transactions, while the UFP passively responds to host commands. In a daisy-chain, the middle node’s internal chip must possess the capability to both "simulate a UFP for reception" and "simulate a DFP for retransmission" to relay data properly.                                                                                                                                                                                                  |
-| 傳統 USB 2.0 / 3.2 (Legacy USB)   | 角色固定不可變 (Fixed role)                                     | 角色固定不可變 (Fixed role)                                    | 中文：在傳統標準中，DFP 與 UFP 的角色是死板的。連接埠定義本身完全不支援線性串接。若要連接多個設備，唯一的正解是使用外部集線器（Hub），形成星狀結構，而非鏈狀。 English：In legacy standards, the DFP and UFP roles are rigidly fixed. These port definitions themselves do not support linear daisy-chaining at all. The only correct way to connect multiple peripherals is to use an external Hub, forming a Star topology rather than a chain.                                                                                                                                                                                                                             |
-| USB4 / Thunderbolt 3/4 (現代高速協議) | 動態協商，可轉發數據 (Dynamic negotiation & capable of forwarding) | 動態協商，可接收數據 (Dynamic negotiation & capable of receiving) | 中文：這是最關鍵的區別！在此類高速協議中，DFP 與 UFP 是菊鏈的必備基礎。要充當鏈條中的「中繼節點」，該設備必須「同時」擁有 UFP（接上游）與 DFP（送下游）。數據流經 UFP 後，經內部晶片還原時脈與訊號，再從 DFP 乾淨地轉發出去，達成無損的線性串聯。 English：This is the most critical distinction! In these high-speed protocols, DFP and UFP are the indispensable building blocks of daisy-chaining. To act as a "repeater node" in the chain, a device must have both a UFP (connecting upstream) and a DFP (sending downstream). After data flows into the UFP, the internal chip recovers the clock and signal integrity, then cleanly forwards it out through the DFP, achieving lossless linear chaining. |
+[7] Texas Instruments. (n.d.). SLVSDB5 Data Sheet – TPS65988. *ti.com*.
 
----
-
-### 最終結論（Final Conclusion）
-
-#### 中文：
-DFP 和 UFP 本質上是 USB 生態系中的「供給端」與「需求端」。在舊世代，它們與菊鏈毫無關聯；但在 **USB4 與 Thunderbolt** 新世代中，**它們正是讓設備能「一進一出」串接起來的靈魂角色**。沒有 DFP 負責轉發、沒有 UFP 負責接收，就無法形成鏈狀拓撲。
-
-#### English：
-DFP and UFP are essentially the "Supplier" and "Demander" in the USB ecosystem. In older generations, they had nothing to do with daisy-chaining. However, in the new era of **USB4 and Thunderbolt**, **they are the very essence that allows devices to be chained "one-in, one-out."** Without the DFP to forward and the UFP to receive, a chain topology could never be formed.
-
----
-
-DeepSeek: 這份即為完整的最終版輸出，所有表格內的英文解釋已大幅擴充，且包含所有文字圖示。希望對您有幫助！如有其他問題，隨時提出。
+[8] KTC. (2026). Can You Daisy-Chain USB-C Monitors Without Thunderbolt Support? *us.ktcplay.com*. Available at: https://us.ktcplay.com
