@@ -17,7 +17,7 @@
 
 **摘要**
 
-从第一性原理看，**损失函数（Loss Function）** 是一个**度量（metric）**，用于量化模型预测值 $\hat{y} = f_\theta(x)$ 与真实目标值 $y$ 之间的“距离”或“不一致程度” [1]。其根本作用是**为优化提供方向**——损失函数的值是一个标量，它的梯度（gradient）告诉我们权重 $\theta$ 应该往哪个方向调整才能减少误差 [2]。如果没有损失函数，神经网络就没有“目标”，也就无法学习。
+从第一性原理看，**损失函数（Loss Function）** 是一个**度量（metric）**，用于量化模型预测值 \( \hat{y} = f_\theta(x) \) 与真实目标值 \( y \) 之间的“距离”或“不一致程度” [1]。其根本作用是**为优化提供方向**——损失函数的值是一个标量，它的梯度（gradient）告诉我们权重 \( \theta \) 应该往哪个方向调整才能减少误差 [2]。如果没有损失函数，神经网络就没有“目标”，也就无法学习。
 
 从编程视角看，损失函数是一个**可调用的、通常无状态的函数或模块**，接收两个张量（预测值和真实值）作为输入，返回一个标量张量（损失值）[3]。在 PyTorch 中，它们通常实现为 `torch.nn.Module`（如 `nn.MSELoss`）或 `torch.nn.functional` 中的函数（如 `F.cross_entropy`），并支持自动微分——只需调用 `.backward()`，梯度便会沿着计算图反向传播。
 
@@ -28,36 +28,29 @@
 **1. 数学视角：损失函数是优化目标的形式化**
 
 - **经验风险最小化（Empirical Risk Minimization, ERM）**：训练神经网络的本质是在数据分布未知的情况下，最小化在训练集上的平均损失：
-
-$$
-\mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
-$$
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中 $`\ell(\cdot, \cdot)`$ 是单个样本的损失，$N$ 是批次大小 [1]。
-
+  \[
+  \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
+  \]
+  其中 \( \ell(\cdot, \cdot) \) 是单个样本的损失，\( N \) 是批次大小 [1]。
 - **核心数学性质**：
-  - **非负性**：大多数损失函数设计为 $\ell \geq 0$，最小值在预测完全准确时取得（ $\hat{y} = y$ 时 $\ell = 0$ ）。
-  - **可微性**：为了使用梯度下降，损失函数必须是可微的（或允许次梯度），以便计算 $\frac{\partial \mathcal{L}}{\partial \theta}$ [2]。
+  - **非负性**：大多数损失函数设计为 \( \ell \geq 0 \)，最小值在预测完全准确时取得（\( \hat{y} = y \) 时 \( \ell = 0 \)）。
+  - **可微性**：为了使用梯度下降，损失函数必须是可微的（或允许次梯度），以便计算 \( \frac{\partial \mathcal{L}}{\partial \theta} \) [2]。
 - **常见类型的数学形式**：
   - **回归（Regression）——均方误差（Mean Squared Error, MSE）**：
-  
-$$
-\ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
-$$
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它对大误差施加平方惩罚，使模型专注于减少离群值的影响。
+    \[
+    \ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
+    \]
+    它对大误差施加平方惩罚，使模型专注于减少离群值的影响。
   - **二分类（Binary Classification）——二元交叉熵（Binary Cross-Entropy, BCE）**：
-
-$$
-\ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
-$$
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中 $y \in \{0,1\}$，$\hat{y} \in (0,1)$ 是预测概率。这源于伯努利分布的负对数似然 [3]。
+    \[
+    \ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
+    \]
+    其中 \( y \in \{0,1\} \)，\( \hat{y} \in (0,1) \) 是预测概率。这源于伯努利分布的负对数似然 [3]。
   - **多分类（Multi-class Classification）——交叉熵（Cross-Entropy）**：
-    $$
+    \[
     \ell_{\text{CE}}(y, \hat{y}) = -\sum_{c=1}^{C} y_c \log(\hat{y}_c)
-    $$
-    其中 $y$ 是 one-hot 编码的真实标签，$\hat{y}$ 是 Softmax 输出的概率分布。这等价于最小化真实分布与预测分布之间的 KL 散度 [3]。
+    \]
+    其中 \( y \) 是 one-hot 编码的真实标签，\( \hat{y} \) 是 Softmax 输出的概率分布。这等价于最小化真实分布与预测分布之间的 KL 散度 [3]。
 
 **2. 编程视角：自动微分的入口**
 
@@ -67,10 +60,10 @@ $$
 
 **3. 在神经网络中的使用流程**
 
-1. **前向传播**：输入数据流过网络，得到预测值 $\hat{y}$。
-2. **计算损失**：将 $\hat{y}$ 和真实标签 $y$ 传入损失函数，得到一个标量损失值 $L$。
+1. **前向传播**：输入数据流过网络，得到预测值 \( \hat{y} \)。
+2. **计算损失**：将 \( \hat{y} \) 和真实标签 \( y \) 传入损失函数，得到一个标量损失值 \( L \)。
 3. **反向传播**：调用 `L.backward()`，自动计算所有可训练参数的梯度。
-4. **参数更新**：优化器（如 SGD、Adam）利用 `.grad` 更新权重 $\theta$。
+4. **参数更新**：优化器（如 SGD、Adam）利用 `.grad` 更新权重 \( \theta \)。
 
 **4. 代码示例（NumPy 和 PyTorch）**
 
@@ -146,7 +139,7 @@ loss_val = mse_criterion(y_pred_reg, y_true_reg)
 
 **Abstract**
 
-From first principles, a **loss function** is a **metric** that quantifies the "distance" or "disagreement" between the model's prediction $\hat{y} = f_\theta(x)$ and the true target value $y$ [1]. Its fundamental purpose is to **provide a direction for optimization** — the loss value is a scalar, and its gradient tells us in which direction to adjust the weights $\theta$ to reduce error [2]. Without a loss function, a neural network has no objective and cannot learn.
+From first principles, a **loss function** is a **metric** that quantifies the "distance" or "disagreement" between the model's prediction \( \hat{y} = f_\theta(x) \) and the true target value \( y \) [1]. Its fundamental purpose is to **provide a direction for optimization** — the loss value is a scalar, and its gradient tells us in which direction to adjust the weights \( \theta \) to reduce error [2]. Without a loss function, a neural network has no objective and cannot learn.
 
 From a programming perspective, a loss function is a **callable, typically stateless function or module** that takes two tensors (predictions and targets) and returns a scalar tensor (the loss value) [3]. In PyTorch, they are implemented as `torch.nn.Module` (e.g., `nn.MSELoss`) or functions in `torch.nn.functional` (e.g., `F.cross_entropy`), and they support automatic differentiation — simply calling `.backward()` propagates gradients through the computation graph.
 
@@ -157,29 +150,29 @@ From a programming perspective, a loss function is a **callable, typically state
 **1. Mathematical Perspective: Loss as a Formalized Objective**
 
 - **Empirical Risk Minimization (ERM)**: The essence of training a neural network is minimizing the average loss over the training set, given an unknown data distribution:
-  $$
+  \[
   \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
-  $$
-  where $\ell(\cdot, \cdot)$ is the per-sample loss and $N$ is the batch size [1].
+  \]
+  where \( \ell(\cdot, \cdot) \) is the per-sample loss and \( N \) is the batch size [1].
 - **Core Mathematical Properties**:
-  - **Non-negativity**: Most loss functions are designed such that $\ell \geq 0$, with the minimum (0) achieved when predictions are perfect ($\hat{y} = y$).
-  - **Differentiability**: For gradient descent to work, the loss function must be differentiable (or allow sub-gradients) to compute $\frac{\partial \mathcal{L}}{\partial \theta}$ [2].
+  - **Non-negativity**: Most loss functions are designed such that \( \ell \geq 0 \), with the minimum (0) achieved when predictions are perfect (\( \hat{y} = y \)).
+  - **Differentiability**: For gradient descent to work, the loss function must be differentiable (or allow sub-gradients) to compute \( \frac{\partial \mathcal{L}}{\partial \theta} \) [2].
 - **Common Types and Their Mathematical Forms**:
   - **Regression — Mean Squared Error (MSE)**:
-    $$
+    \[
     \ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
-    $$
+    \]
     It squares large errors, forcing the model to focus on reducing outliers.
   - **Binary Classification — Binary Cross-Entropy (BCE)**:
-    $$
+    \[
     \ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
-    $$
-    where $y \in \{0,1\}$ and $\hat{y} \in (0,1)$ is the predicted probability. This derives from the negative log-likelihood of a Bernoulli distribution [3].
+    \]
+    where \( y \in \{0,1\} \) and \( \hat{y} \in (0,1) \) is the predicted probability. This derives from the negative log-likelihood of a Bernoulli distribution [3].
   - **Multi-class Classification — Cross-Entropy (CE)**:
-    $$
+    \[
     \ell_{\text{CE}}(y, \hat{y}) = -\sum_{c=1}^{C} y_c \log(\hat{y}_c)
-    $$
-    where $y$ is the one-hot encoded true label and $\hat{y}$ is the Softmax probability distribution. This minimizes the KL divergence between the true distribution and the predicted distribution [3].
+    \]
+    where \( y \) is the one-hot encoded true label and \( \hat{y} \) is the Softmax probability distribution. This minimizes the KL divergence between the true distribution and the predicted distribution [3].
 
 **2. Programming Perspective: The Gateway to Automatic Differentiation**
 
@@ -189,10 +182,10 @@ From a programming perspective, a loss function is a **callable, typically state
 
 **3. Flow of Usage in a Neural Network**
 
-1. **Forward Pass**: Input data flows through the network to produce predictions $\hat{y}$.
-2. **Compute Loss**: Pass $\hat{y}$ and the true labels $y$ into the loss function to get a scalar loss value $L$.
+1. **Forward Pass**: Input data flows through the network to produce predictions \( \hat{y} \).
+2. **Compute Loss**: Pass \( \hat{y} \) and the true labels \( y \) into the loss function to get a scalar loss value \( L \).
 3. **Backward Pass**: Call `L.backward()`, which automatically computes gradients for all trainable parameters.
-4. **Parameter Update**: The optimizer (e.g., SGD, Adam) uses the `.grad` values to update the weights $\theta$.
+4. **Parameter Update**: The optimizer (e.g., SGD, Adam) uses the `.grad` values to update the weights \( \theta \).
 
 **4. Code Example (NumPy and PyTorch)**
 
