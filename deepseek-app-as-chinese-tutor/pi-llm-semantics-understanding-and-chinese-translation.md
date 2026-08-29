@@ -88,7 +88,7 @@ $$
 | ---- | ------------------------------------- | ------------------------------------------------------------ |
 | 1    | **線性代數（Linear Algebra）**        | 理解向量、矩陣乘法、點積（這些是 Attention 的核心運算）。    |
 | 2    | **微積分（Calculus）**                | 理解梯度下降（Gradient Descent）和反向傳播（Backpropagation）——模型如何從錯誤中學習。 |
-| 3    | **機率論（Probability Theory）**      | 理解 softmax、條件機率（$P(y_t \mid y_{\lt t})$）、最大似然估計（MLE）。 |
+| 3    | **機率論（Probability Theory）**      | 理解 softmax、條件機率 （ $P(y_t \mid y_{\lt t})$ ）、最大似然估計（MLE）。 |
 | 4    | **資訊理論（Information Theory）**    | 理解交叉熵損失（Cross-Entropy Loss）、KL 散度（衡量機率分布差異）。 |
 | 5    | **統計學（Statistics）**              | 理解分佈假設（distributional hypothesis）、取樣策略（Sampling）。 |
 | 6    | **最佳化理論（Optimization Theory）** | 理解 Adam 優化器、學習率排程、收斂性分析。                   |
