@@ -152,3 +152,4 @@ To study and implement these concepts, you need a foundation in **linear algebra
 [5] rohitg00. (2026). ai-engineering-from-scratch: Linear Algebra Intuition. GitHub. Available at: https://github.com/rohitg00/ai-engineering-from-scratch/blob/main/phases/01-math-foundations/01-linear-algebra-intuition/docs/en.md 
 
 [6] MachineLearningMastery.com. (2026). Build Semantic Search with LLM Embeddings. Available at: https://machinelearningmastery.com/build-semantic-search-with-llm-embeddings/
+

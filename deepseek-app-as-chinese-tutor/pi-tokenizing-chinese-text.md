@@ -1,4 +1,4 @@
-### Part 1: Prompt Repetition
+### ÷Part 1: Prompt Repetition
 
 **Original prompt:**  
 > Tokenizing Chinese text is challenging, I have no idea how to rank tokens. A 词 is usually a compound of 字. For example, if I am interested in 江南, the following tweet contains the 江南 that I want: “人间仙境！暮色中的江西上饶葛仙村度假区，宛若一幅温柔的江南夜画。（来源：葛仙村度假区）”. However, 江南 also appears in this tweet, but 江 is actually part of 大江： 「十五的月亮十六圆！你想要的大圆月亮高清美图来了！

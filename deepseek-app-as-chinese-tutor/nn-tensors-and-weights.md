@@ -17,7 +17,7 @@
 
 **摘要**
 
-從第一性原理看，**張量（Tensor）** 是「多維數值陣列」的統一數學抽象。其嚴格定義為一個 \( n \) 階多維陣列 \( \mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n} \)，其中 \( d_i \) 是第 \( i \) 個維度的長度 [1]。**權重（Weights）** 則是神經網路中**可學習的線性變換參數**，在數學上表現為一個矩陣（或更高階張量），負責將輸入空間映射到輸出空間。兩者的關係是：**所有權重都是張量，但不是所有張量都是權重**（輸入資料與中間激活值也是張量，但不屬於權重）[2]。在神經網路中，張量負責承載所有數值資料（輸入 \( X \)、權重 \( W \)、偏置 \( b \)、梯度 \( dW \)），而權重張量則透過**前向傳播**（仿射變換 \( Z = WX + b \)）實現線性映射，並在**反向傳播**中接收梯度以更新自身 [3]。從程式視角來看，張量是具體的資料結構（如 `torch.Tensor`），而權重則是帶有「可學習」標記的張量（如 `torch.nn.Parameter`），框架會自動追蹤其計算圖並計算梯度。
+從第一性原理看，**張量（Tensor）** 是「多維數值陣列」的統一數學抽象。其嚴格定義為一個 $n$ 階多維陣列 $\mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n}$，其中 $d_i$ 是第 $i$ 個維度的長度 [1]。**權重（Weights）** 則是神經網路中**可學習的線性變換參數**，在數學上表現為一個矩陣（或更高階張量），負責將輸入空間映射到輸出空間。兩者的關係是：**所有權重都是張量，但不是所有張量都是權重**（輸入資料與中間激活值也是張量，但不屬於權重）[2]。在神經網路中，張量負責承載所有數值資料（輸入 $X$、權重 $W$、偏置 $b$、梯度 $dW$），而權重張量則透過**前向傳播**（仿射變換 $Z = WX + b$）實現線性映射，並在**反向傳播**中接收梯度以更新自身 [3]。從程式視角來看，張量是具體的資料結構（如 `torch.Tensor`），而權重則是帶有「可學習」標記的張量（如 `torch.nn.Parameter`），框架會自動追蹤其計算圖並計算梯度。
 
 ---
 
@@ -25,36 +25,36 @@
 
 **1. 張量的數學定義與功能**
 
-在數學上，張量是純量、向量與矩陣的統一推廣。一個 \( n \) 階張量定義為：
+在數學上，張量是純量、向量與矩陣的統一推廣。一個 $n$ 階張量定義為：
 
-\[
+$$
 \mathcal{T} = (t_{i_1, i_2, \dots, i_n}) \quad \text{其中} \quad 1 \le i_k \le d_k
-\]
+$$
 
-或等價地表示為 \( \mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n} \)，其中 \( n \) 稱為張量的**階數（Order）**或**秩（Rank）**，\( d_k \) 是第 \( k \) 維的長度 [1]。
+或等價地表示為 $\mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n}$，其中 $n$ 稱為張量的**階數（Order）**或**秩（Rank）**，$d_k$ 是第 $k$ 維的長度 [1]。
 
-- **純量**：\( n=0 \)，\( \mathcal{T} \in \mathbb{R} \)。
-- **向量**：\( n=1 \)，\( \mathcal{T} \in \mathbb{R}^{d_1} \)。
-- **矩陣**：\( n=2 \)，\( \mathcal{T} \in \mathbb{R}^{d_1 \times d_2} \)。
-- **高階張量**：\( n \ge 3 \)，如三維張量用於彩色影像（高度、寬度、RGB 通道）。
+- **純量**：$n=0$，$\mathcal{T} \in \mathbb{R}$。
+- **向量**：$n=1$，$\mathcal{T} \in \mathbb{R}^{d_1}$。
+- **矩陣**：$n=2$，$\mathcal{T} \in \mathbb{R}^{d_1 \times d_2}$。
+- **高階張量**：$n \ge 3$，如三維張量用於彩色影像（高度、寬度、RGB 通道）。
 
 **功能**：張量是神經網路中**所有數值資料的通用容器**，負責儲存輸入資料、中間激活值、梯度以及模型參數。它僅定義了資料的「形狀」和「數值」，本身不具備學習能力。
 
 **2. 權重的數學定義與功能**
 
-**權重（Weights, \( W \)）** 是神經網路中連接強度的參數化表示。在一個全連接層中，假設輸入維度為 \( d_{in} \)，輸出維度為 \( d_{out} \)，則權重為一個 2 階張量（矩陣）[2]：
+**權重（Weights, $W$）** 是神經網路中連接強度的參數化表示。在一個全連接層中，假設輸入維度為 $d_{in}$，輸出維度為 $d_{out}$，則權重為一個 2 階張量（矩陣）[2]：
 
-\[
+$$
 W \in \mathbb{R}^{d_{out} \times d_{in}}, \quad b \in \mathbb{R}^{d_{out}}
-\]
+$$
 
-其中 \( b \) 是**偏置（Bias）**。它們共同定義了一個**仿射變換（Affine Transformation）**（線性映射）：
+其中 $b$ 是**偏置（Bias）**。它們共同定義了一個**仿射變換（Affine Transformation）**（線性映射）：
 
-\[
+$$
 Z = W \cdot X + b
-\]
+$$
 
-其中 \( X \in \mathbb{R}^{d_{in}} \) 是輸入張量，\( Z \in \mathbb{R}^{d_{out}} \) 是輸出張量。矩陣 \( W \) 的每個元素 \( w_{ij} \) 代表第 \( j \) 個輸入特徵對第 \( i \) 個輸出神經元的影響強度。
+其中 $X \in \mathbb{R}^{d_{in}}$ 是輸入張量，$Z \in \mathbb{R}^{d_{out}}$ 是輸出張量。矩陣 $W$ 的每個元素 $w_{ij}$ 代表第 $j$ 個輸入特徵對第 $i$ 個輸出神經元的影響強度。
 
 **功能**：權重是模型的「知識」載體，其核心功能是**對輸入進行線性變換**。透過訓練，權重不斷調整以最小化損失函數，從而讓模型「學習」資料中的模式。
 
@@ -62,13 +62,13 @@ Z = W \cdot X + b
 
 兩者的關係是**泛化與特化**的關係：
 - **張量（泛化）**：張量是「儲存櫃」，規定了數值的排列方式（shape）、資料型別（dtype）和記憶體佈局（device）。
-- **權重（特化）**：權重是「儲存櫃中被標記為可學習的抽屜」。在自動微分框架中，權重是帶有 `requires_grad=True` 標記的張量 [2]。這個標記告訴框架：「這個張量是模型的參數，請在反向傳播時計算其梯度並用於更新」。因此，**權重是張量的子集**——所有權重都是張量，但輸入資料（\( X \)）和中間激活值（\( A \)）雖然也是張量，卻不是權重。
+- **權重（特化）**：權重是「儲存櫃中被標記為可學習的抽屜」。在自動微分框架中，權重是帶有 `requires_grad=True` 標記的張量 [2]。這個標記告訴框架：「這個張量是模型的參數，請在反向傳播時計算其梯度並用於更新」。因此，**權重是張量的子集**——所有權重都是張量，但輸入資料（$X$）和中間激活值（$A$）雖然也是張量，卻不是權重。
 
 **4. 神經網路中的使用流程**
 
-1. **前向傳播**：輸入張量 \( X \)（形狀 `[batch, d_in]`）與權重張量 \( W \)（形狀 `[d_out, d_in]`）進行矩陣乘法 \( Z = X \cdot W^T + b \)，產生輸出張量 \( Z \)（形狀 `[batch, d_out]`）[3]。
-2. **反向傳播**：計算損失函數 \( L \) 對權重的梯度 \( \frac{\partial L}{\partial W} \)（本身也是一個張量，形狀與 \( W \) 相同）。
-3. **更新**：優化器（如 SGD）利用梯度更新權重：\( W_{new} = W_{old} - \eta \cdot \nabla W \)，其中 \( \eta \) 是學習率。
+1. **前向傳播**：輸入張量 $X$（形狀 `[batch, d_in]`）與權重張量 $W$（形狀 `[d_out, d_in]`）進行矩陣乘法 $Z = X \cdot W^T + b$，產生輸出張量 $Z$（形狀 `[batch, d_out]`）[3]。
+2. **反向傳播**：計算損失函數 $L$ 對權重的梯度 $\frac{\partial L}{\partial W}$（本身也是一個張量，形狀與 $W$ 相同）。
+3. **更新**：優化器（如 SGD）利用梯度更新權重：$W_{new} = W_{old} - \eta \cdot \nabla W$，其中 $\eta$ 是學習率。
 
 **5. 程式視角：張量與權重的實現**
 
@@ -122,7 +122,7 @@ print("權重梯度 W.grad (也是張量):", layer.weight.grad)
 | 數學主題             | 具體內容                                         | 與張量／權重的關聯                                           |
 | :------------------- | :----------------------------------------------- | :----------------------------------------------------------- |
 | **線性代數（核心）** | 向量空間、矩陣乘法、轉置、內積、特徵值、線性變換 | 權重是線性變換的矩陣表示；神經網路本質上是矩陣乘法的堆疊 [1]。 |
-| **多變數微積分**     | 偏導數、梯度、鏈式法則                           | 反向傳播是鏈式法則的應用；梯度 \( \frac{\partial L}{\partial W} \) 是損失對權重中每個元素的偏導數 [3]。 |
+| **多變數微積分**     | 偏導數、梯度、鏈式法則                           | 反向傳播是鏈式法則的應用；梯度 $\frac{\partial L}{\partial W}$ 是損失對權重中每個元素的偏導數 [3]。 |
 | **最佳化理論**       | 梯度下降、隨機梯度下降（SGD）、學習率調度        | 理解權重「如何」被更新，以及學習率對收斂的影響。             |
 | **機率與統計**       | 期望值、變異數、常態分佈                         | 權重初始化的數學原理（如 Xavier 初始化）用以避免梯度消失或爆炸。 |
 
@@ -132,7 +132,7 @@ print("權重梯度 W.grad (也是張量):", layer.weight.grad)
 
 **Abstract**
 
-From first principles, a **tensor** is the unified mathematical abstraction for "multidimensional numerical arrays." Formally, an \( n \)-th order tensor is defined as \( \mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n} \), where \( d_i \) is the length of the \( i \)-th dimension [1]. **Weights**, on the other hand, are the **learnable linear transformation parameters** of a neural network—they are a specific *type* of tensor that mathematically represent the affine mapping from inputs to outputs. The relationship is: **all weights are tensors, but not all tensors are weights** (e.g., input data and activations are tensors but not weights) [2]. In a neural network, tensors carry all numerical data (inputs \( X \), weights \( W \), biases \( b \), gradients \( dW \)), while weight tensors participate in **forward propagation** (affine transformation \( Z = WX + b \)) and receive gradients during **backpropagation** to update themselves [3]. From a programming perspective, a tensor is a concrete data structure (e.g., `torch.Tensor`), while a weight is a tensor explicitly marked as "learnable" (e.g., `torch.nn.Parameter`), with the framework automatically tracking its computational graph and gradients.
+From first principles, a **tensor** is the unified mathematical abstraction for "multidimensional numerical arrays." Formally, an $n$-th order tensor is defined as $\mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n}$, where $d_i$ is the length of the $i$-th dimension [1]. **Weights**, on the other hand, are the **learnable linear transformation parameters** of a neural network—they are a specific *type* of tensor that mathematically represent the affine mapping from inputs to outputs. The relationship is: **all weights are tensors, but not all tensors are weights** (e.g., input data and activations are tensors but not weights) [2]. In a neural network, tensors carry all numerical data (inputs $X$, weights $W$, biases $b$, gradients $dW$), while weight tensors participate in **forward propagation** (affine transformation $Z = WX + b$) and receive gradients during **backpropagation** to update themselves [3]. From a programming perspective, a tensor is a concrete data structure (e.g., `torch.Tensor`), while a weight is a tensor explicitly marked as "learnable" (e.g., `torch.nn.Parameter`), with the framework automatically tracking its computational graph and gradients.
 
 ---
 
@@ -140,36 +140,36 @@ From first principles, a **tensor** is the unified mathematical abstraction for 
 
 **1. Mathematical Definition and Function of Tensors**
 
-Mathematically, a tensor is a unified generalization of scalars, vectors, and matrices. An \( n \)-th order tensor is defined as:
+Mathematically, a tensor is a unified generalization of scalars, vectors, and matrices. An $n$-th order tensor is defined as:
 
-\[
+$$
 \mathcal{T} = (t_{i_1, i_2, \dots, i_n}) \quad \text{where} \quad 1 \le i_k \le d_k
-\]
+$$
 
-Equivalently, \( \mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n} \), where \( n \) is the **order** or **rank** of the tensor, and \( d_k \) is the size of the \( k \)-th dimension [1].
+Equivalently, $\mathcal{T} \in \mathbb{R}^{d_1 \times d_2 \times \dots \times d_n}$, where $n$ is the **order** or **rank** of the tensor, and $d_k$ is the size of the $k$-th dimension [1].
 
-- **Scalar**: \( n=0 \), \( \mathcal{T} \in \mathbb{R} \).
-- **Vector**: \( n=1 \), \( \mathcal{T} \in \mathbb{R}^{d_1} \).
-- **Matrix**: \( n=2 \), \( \mathcal{T} \in \mathbb{R}^{d_1 \times d_2} \).
-- **Higher-order tensors**: \( n \ge 3 \), e.g., a 3D tensor for color images (height, width, RGB channels).
+- **Scalar**: $n=0$, $\mathcal{T} \in \mathbb{R}$.
+- **Vector**: $n=1$, $\mathcal{T} \in \mathbb{R}^{d_1}$.
+- **Matrix**: $n=2$, $\mathcal{T} \in \mathbb{R}^{d_1 \times d_2}$.
+- **Higher-order tensors**: $n \ge 3$, e.g., a 3D tensor for color images (height, width, RGB channels).
 
 **Function**: Tensors are the **universal containers for all numerical data** in a neural network, storing input data, intermediate activations, gradients, and model parameters. They define only the "shape" and "values" of data and do not inherently possess learning capabilities.
 
 **2. Mathematical Definition and Function of Weights**
 
-**Weights (\( W \))** are the parameterized representations of connection strengths in a neural network [2]. In a fully connected layer with input dimension \( d_{in} \) and output dimension \( d_{out} \), the weight is a 2nd-order tensor (matrix):
+**Weights ($W$)** are the parameterized representations of connection strengths in a neural network [2]. In a fully connected layer with input dimension $d_{in}$ and output dimension $d_{out}$, the weight is a 2nd-order tensor (matrix):
 
-\[
+$$
 W \in \mathbb{R}^{d_{out} \times d_{in}}, \quad b \in \mathbb{R}^{d_{out}}
-\]
+$$
 
-where \( b \) is the **bias**. Together, they define an **affine transformation** (linear mapping):
+where $b$ is the **bias**. Together, they define an **affine transformation** (linear mapping):
 
-\[
+$$
 Z = W \cdot X + b
-\]
+$$
 
-where \( X \in \mathbb{R}^{d_{in}} \) is the input tensor and \( Z \in \mathbb{R}^{d_{out}} \) is the output tensor. Each element \( w_{ij} \) of \( W \) represents the influence of the \( j \)-th input feature on the \( i \)-th output neuron.
+where $X \in \mathbb{R}^{d_{in}}$ is the input tensor and $Z \in \mathbb{R}^{d_{out}}$ is the output tensor. Each element $w_{ij}$ of $W$ represents the influence of the $j$-th input feature on the $i$-th output neuron.
 
 **Function**: Weights are the "knowledge" carriers of the model. Their core function is to **perform a linear transformation on the input**. Through training, weights are continuously adjusted to minimize the loss function, enabling the model to learn patterns from data.
 
@@ -177,13 +177,13 @@ where \( X \in \mathbb{R}^{d_{in}} \) is the input tensor and \( Z \in \mathbb{R
 
 The relationship is one of **generalization vs. specialization**:
 - **Tensor (Generalization)**: A tensor is a "storage cabinet" that defines the arrangement of values (shape), data type (dtype), and memory layout (device).
-- **Weight (Specialization)**: A weight is a "drawer inside the cabinet that is marked as learnable." In automatic differentiation frameworks, a weight is a tensor with the `requires_grad=True` flag [2]. This flag signals the framework: "This tensor is a model parameter; compute its gradient during backpropagation and use it for updates." Therefore, **weights are a subset of tensors**—all weights are tensors, but input data (\( X \)) and intermediate activations (\( A \)), though also tensors, are not weights.
+- **Weight (Specialization)**: A weight is a "drawer inside the cabinet that is marked as learnable." In automatic differentiation frameworks, a weight is a tensor with the `requires_grad=True` flag [2]. This flag signals the framework: "This tensor is a model parameter; compute its gradient during backpropagation and use it for updates." Therefore, **weights are a subset of tensors**—all weights are tensors, but input data ($X$) and intermediate activations ($A$), though also tensors, are not weights.
 
 **4. How They Are Used in a Neural Network**
 
-1. **Forward Propagation**: Input tensor \( X \) (shape `[batch, d_in]`) and weight tensor \( W \) (shape `[d_out, d_in]`) perform matrix multiplication \( Z = X \cdot W^T + b \), producing the output tensor \( Z \) (shape `[batch, d_out]`) [3].
-2. **Backpropagation**: The gradient of the loss \( L \) with respect to the weights \( \frac{\partial L}{\partial W} \) is computed (itself a tensor with the same shape as \( W \)).
-3. **Update**: The optimizer (e.g., SGD) updates the weights: \( W_{new} = W_{old} - \eta \cdot \nabla W \), where \( \eta \) is the learning rate.
+1. **Forward Propagation**: Input tensor $X$ (shape `[batch, d_in]`) and weight tensor $W$ (shape `[d_out, d_in]`) perform matrix multiplication $Z = X \cdot W^T + b$, producing the output tensor $Z$ (shape `[batch, d_out]`) [3].
+2. **Backpropagation**: The gradient of the loss $L$ with respect to the weights $\frac{\partial L}{\partial W}$ is computed (itself a tensor with the same shape as $W$).
+3. **Update**: The optimizer (e.g., SGD) updates the weights: $W_{new} = W_{old} - \eta \cdot \nabla W$, where $\eta$ is the learning rate.
 
 **5. Programming Perspective: Implementation of Tensors and Weights**
 
@@ -237,7 +237,7 @@ print("Weight Gradient W.grad (also a tensor):", layer.weight.grad)
 | Math Topic                   | Specific Content                                             | Connection to Tensors / Weights                              |
 | :--------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | **Linear Algebra (Core)**    | Vector spaces, matrix multiplication, transpose, inner products, eigenvalues, linear transformations | Weights are matrix representations of linear transformations; neural networks are stacks of matrix multiplications [1]. |
-| **Multivariable Calculus**   | Partial derivatives, gradient, chain rule                    | Backpropagation is the application of the chain rule; \( \frac{\partial L}{\partial W} \) is the partial derivative of the loss with respect to every element of the weight tensor [3]. |
+| **Multivariable Calculus**   | Partial derivatives, gradient, chain rule                    | Backpropagation is the application of the chain rule; $\frac{\partial L}{\partial W}$ is the partial derivative of the loss with respect to every element of the weight tensor [3]. |
 | **Optimization Theory**      | Gradient descent, Stochastic Gradient Descent (SGD), learning rate schedules | Understand *how* weights are updated and why the learning rate is critical for convergence. |
 | **Probability & Statistics** | Expectation, variance, normal distribution                   | The mathematical basis for weight initialization (e.g., Xavier initialization) to prevent vanishing/exploding gradients. |
 

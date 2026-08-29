@@ -33,24 +33,24 @@
 **2. 遍歷性與破產的數學本質**
 
 假設一個財富的乘法增長過程：
-\[
+$$
 W_{t+1} = R_t \cdot W_t
-\]
-其中 \( R_t \) 是每一期的隨機乘數。
+$$
+其中 $R_t$ 是每一期的隨機乘數。
 
-- **集合平均增長因子**：\( E[R] = \sum_{i} p_i R_i \)
-- **時間平均增長因子**：\( G = \left( \prod_{t=1}^{T} R_t \right)^{1/T} \)
+- **集合平均增長因子**：$E[R] = \sum_{i} p_i R_i$
+- **時間平均增長因子**：$G = \left( \prod_{t=1}^{T} R_t \right)^{1/T}$
 
-當 \( T \to \infty \) 時，時間平均的增長率為：
-\[
+當 $T \to \infty$ 時，時間平均的增長率為：
+$$
 \gamma = \lim_{T \to \infty} \frac{1}{T} \sum_{t=1}^{T} \ln(R_t) = E[\ln(R)]
-\]
+$$
 
 由於對數函數是凹函數，根據**詹森不等式（Jensen's inequality）** [1]：
-\[
+$$
 E[\ln(R)] \leq \ln(E[R])
-\]
-因此，**時間平均永遠小於或等於集合平均**。若存在破產的可能性（即某個 \( R_i = 0 \)），則 \( E[\ln(R)] = -\infty \)，時間平均宣告必然破產，即使集合平均 \( E[R] \) 仍然是正的 [2]。
+$$
+因此，**時間平均永遠小於或等於集合平均**。若存在破產的可能性（即某個 $R_i = 0$），則 $E[\ln(R)] = -\infty$，時間平均宣告必然破產，即使集合平均 $E[R]$ 仍然是正的 [2]。
 
 **3. 簡單範例：+50% / -40% 賭局**
 
@@ -59,22 +59,22 @@ E[\ln(R)] \leq \ln(E[R])
 - 有 50% 機率損失財富的 40%（乘數 = 0.6）。
 
 **步驟 1：計算集合平均（期望值）**
-\[
+$$
 E[R] = 0.5 \times 1.5 + 0.5 \times 0.6 = 0.75 + 0.30 = 1.05
-\]
+$$
 換句話說，每一期的期望報酬為 **+5%**。這聽起來是個好交易。
 
 **步驟 2：計算時間平均（幾何平均）**
-\[
+$$
 G = \left( 1.5^{0.5} \times 0.6^{0.5} \right) = \sqrt{1.5 \times 0.6} = \sqrt{0.9} \approx 0.9487
-\]
+$$
 這意味著時間平均增長因子約為 0.9487，即每期**平均虧損約 5.13%**。
 
 **步驟 3：隨時間推移的實際後果**
-假設初始財富為 100 單位。經過 \( T \) 期後，最可能的財富路徑遵循幾何平均：
-\[
+假設初始財富為 100 單位。經過 $T$ 期後，最可能的財富路徑遵循幾何平均：
+$$
 W_T \approx 100 \times (0.9487)^T
-\]
+$$
 - 經過 10 期：約 59 單位。
 - 經過 20 期：約 35 單位。
 - 經過 50 期：約 7 單位。
@@ -83,8 +83,8 @@ W_T \approx 100 \times (0.9487)^T
 
 **步驟 4：引入「破產」的極端案例**
 如果我們將賭局修改為：有 99% 機率獲得 +5%（乘數 1.05），但有 1% 的機率損失全部財產（乘數 0）：
-- 集合平均：\( 0.99 \times 1.05 + 0.01 \times 0 = 1.0395 \)（還是正的）。
-- 時間平均：\( E[\ln(R)] = 0.99 \times \ln(1.05) + 0.01 \times (-\infty) = -\infty \)。
+- 集合平均：$0.99 \times 1.05 + 0.01 \times 0 = 1.0395$（還是正的）。
+- 時間平均：$E[\ln(R)] = 0.99 \times \ln(1.05) + 0.01 \times (-\infty) = -\infty$。
 
 只要破產機率不為零，時間平均就是負無窮大。**單一個體只要活得夠久，必定破產** [3]。
 
@@ -116,24 +116,24 @@ The **time average** cares about what "you" experience over the long run (geomet
 **2. The Mathematics of Ergodicity and Ruin**
 
 Consider a multiplicative wealth process:
-\[
+$$
 W_{t+1} = R_t \cdot W_t
-\]
-where \( R_t \) is the random multiplier at period \( t \).
+$$
+where $R_t$ is the random multiplier at period $t$.
 
-- **Ensemble Average Growth Factor**: \( E[R] = \sum_{i} p_i R_i \)
-- **Time Average Growth Factor**: \( G = \left( \prod_{t=1}^{T} R_t \right)^{1/T} \)
+- **Ensemble Average Growth Factor**: $E[R] = \sum_{i} p_i R_i$
+- **Time Average Growth Factor**: $G = \left( \prod_{t=1}^{T} R_t \right)^{1/T}$
 
-As \( T \to \infty \), the time-averaged growth rate is:
-\[
+As $T \to \infty$, the time-averaged growth rate is:
+$$
 \gamma = \lim_{T \to \infty} \frac{1}{T} \sum_{t=1}^{T} \ln(R_t) = E[\ln(R)]
-\]
+$$
 
 By **Jensen's inequality** (since \(\ln\) is concave) [1]:
-\[
+$$
 E[\ln(R)] \leq \ln(E[R])
-\]
-Thus, **the time average is always less than or equal to the ensemble average**. If there is any probability of ruin (i.e., \( R_i = 0 \)), then \( E[\ln(R)] = -\infty \), guaranteeing eventual ruin even if \( E[R] \) is positive [2].
+$$
+Thus, **the time average is always less than or equal to the ensemble average**. If there is any probability of ruin (i.e., $R_i = 0$), then $E[\ln(R)] = -\infty$, guaranteeing eventual ruin even if $E[R]$ is positive [2].
 
 **3. Simple Illustration: The +50% / -40% Gamble**
 
@@ -142,22 +142,22 @@ Consider a gamble repeated each period:
 - 50% chance to lose 40% of wealth (multiplier = 0.6).
 
 **Step 1: Calculate the Ensemble Average (Expected Value)**
-\[
+$$
 E[R] = 0.5 \times 1.5 + 0.5 \times 0.6 = 0.75 + 0.30 = 1.05
-\]
+$$
 In other words, the expected return per period is **+5%**. This looks like a good deal.
 
 **Step 2: Calculate the Time Average (Geometric Mean)**
-\[
+$$
 G = \left( 1.5^{0.5} \times 0.6^{0.5} \right) = \sqrt{1.5 \times 0.6} = \sqrt{0.9} \approx 0.9487
-\]
+$$
 This means the time-averaged growth factor is approximately 0.9487, translating to an **average loss of about 5.13%** per period.
 
 **Step 3: The Actual Outcome Over Time**
-Starting with wealth \( W_0 = 100 \), after \( T \) periods, the most probable wealth path follows the geometric mean:
-\[
+Starting with wealth $W_0 = 100$, after $T$ periods, the most probable wealth path follows the geometric mean:
+$$
 W_T \approx 100 \times (0.9487)^T
-\]
+$$
 - After 10 periods: ~59 units.
 - After 20 periods: ~35 units.
 - After 50 periods: ~7 units.
@@ -166,8 +166,8 @@ Wealth drifts toward zero. This is the non-ergodicity trap: **the ensemble avera
 
 **Step 4: Introducing the "Ruin" Extreme**
 If we modify the gamble to: 99% chance of +5% (multiplier 1.05), but 1% chance of losing *everything* (multiplier 0):
-- Ensemble average: \( 0.99 \times 1.05 + 0.01 \times 0 = 1.0395 \) (still positive).
-- Time average: \( E[\ln(R)] = 0.99 \times \ln(1.05) + 0.01 \times (-\infty) = -\infty \).
+- Ensemble average: $0.99 \times 1.05 + 0.01 \times 0 = 1.0395$ (still positive).
+- Time average: $E[\ln(R)] = 0.99 \times \ln(1.05) + 0.01 \times (-\infty) = -\infty$.
 
 As long as the probability of ruin is non-zero, the time average is negative infinity. **A single individual playing long enough is guaranteed to go broke** [3].
 
