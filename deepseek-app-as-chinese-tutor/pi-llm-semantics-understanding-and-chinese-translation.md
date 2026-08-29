@@ -60,7 +60,7 @@ $$
 翻譯生成時，模型最大化條件機率：
 
 $$
-P(y_1, y_2, ..., y_t \mid X) = \prod_{i=1}^{t} P(y_i \mid y_{<i}, X)
+P(y_1, y_2, ..., y_t \mid X) = \prod_{i=1}^{t} P(y_i \mid y_{\lt i}, X)
 $$
 
 其中 $X$ 是英文編碼向量，$y$ 是生成的中文 token。每次選擇機率最高的下一個字（或透過束搜尋 Beam Search 優化整體序列）。
@@ -69,7 +69,7 @@ $$
 指令微調使用交叉熵損失進行優化：
 
 $$
-\mathcal{L}_{SFT} = -\mathbb{E}_{(x,y) \sim \mathcal{D}} \sum_{t} \log P_\theta(y_t \mid x, y_{<t})
+\mathcal{L}_{SFT} = -\mathbb{E}_{(x,y) \sim \mathcal{D}} \sum_{t} \log P_\theta(y_t \mid x, y_{\lt t})
 $$
 
 人類標註員偏好簡潔翻譯，此損失會提高簡潔回答的機率。RLHF 階段則引入獎勵最大化目標與 KL 約束：
@@ -88,7 +88,7 @@ $$
 | ---- | ------------------------------------- | ------------------------------------------------------------ |
 | 1    | **線性代數（Linear Algebra）**        | 理解向量、矩陣乘法、點積（這些是 Attention 的核心運算）。    |
 | 2    | **微積分（Calculus）**                | 理解梯度下降（Gradient Descent）和反向傳播（Backpropagation）——模型如何從錯誤中學習。 |
-| 3    | **機率論（Probability Theory）**      | 理解 softmax、條件機率（$P(y_t \mid y_{<t})$）、最大似然估計（MLE）。 |
+| 3    | **機率論（Probability Theory）**      | 理解 softmax、條件機率（$P(y_t \mid y_{\lt t})$）、最大似然估計（MLE）。 |
 | 4    | **資訊理論（Information Theory）**    | 理解交叉熵損失（Cross-Entropy Loss）、KL 散度（衡量機率分布差異）。 |
 | 5    | **統計學（Statistics）**              | 理解分佈假設（distributional hypothesis）、取樣策略（Sampling）。 |
 | 6    | **最佳化理論（Optimization Theory）** | 理解 Adam 優化器、學習率排程、收斂性分析。                   |
@@ -146,16 +146,15 @@ $$
 During translation generation, the model maximizes the conditional probability of the target sequence:
 
 $$
-P(y_1, y_2, ..., y_t \mid X) = \prod_{i=1}^{t} P(y_i \mid y_{<i}, X)
+P(y_1, y_2, ..., y_t \mid X) = \prod_{i=1}^{t} P(y_i \mid y_{\lt i}, X)
 $$
 
 where $X$ is the encoded English vector and $y$ are the generated Chinese tokens. It picks the next token with the highest probability (or uses Beam Search for optimal sequence selection).
 
 **3. The Math of Conciseness** [3]  
 Supervised Fine-Tuning (SFT) uses Cross-Entropy Loss to maximize the probability of human-approved responses:
-
 $$
-\mathcal{L}_{SFT} = -\mathbb{E}_{(x,y) \sim \mathcal{D}} \sum_{t} \log P_\theta(y_t \mid x, y_{<t})
+\mathcal{L}_{SFT} = -\mathbb{E}_{(x,y) \sim \mathcal{D}} \sum_{t} \log P_\theta(y_t \mid x, y_{\lt t})
 $$
 
 Human annotators prefer concise translations, so this loss increases the probability of shorter outputs. In RLHF, a reward model $r$ scores translations highly if they are both informative and short, driving optimization via the objective:
@@ -174,7 +173,7 @@ The KL term acts as a safety rope to prevent the model from drifting too far fro
 | ----- | ------------------------------ | ------------------------------------------------------------ |
 | 1     | **Linear Algebra**             | Understanding vectors, matrix multiplication, and dot products (the core of Attention). |
 | 2     | **Calculus**                   | Understanding Gradient Descent and Backpropagation—how the model learns from errors. |
-| 3     | **Probability Theory**         | Understanding softmax, conditional probability $P(y_t \mid y_{<t})$, and Maximum Likelihood Estimation (MLE). |
+| 3     | **Probability Theory**         | Understanding softmax, conditional probability $P(y_t \mid y_{\lt t})$, and Maximum Likelihood Estimation (MLE). |
 | 4     | **Information Theory**         | Understanding Cross-Entropy Loss and KL Divergence (measuring differences between probability distributions). |
 | 5     | **Statistics**                 | Understanding the distributional hypothesis, sampling strategies, and bias-variance tradeoff. |
 | 6     | **Optimization Theory**        | Understanding Adam optimizers, learning rate scheduling, and convergence analysis. |
