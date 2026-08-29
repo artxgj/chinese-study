@@ -28,28 +28,28 @@
 **1. 数学视角：损失函数是优化目标的形式化**
 
 - **经验风险最小化（Empirical Risk Minimization, ERM）**：训练神经网络的本质是在数据分布未知的情况下，最小化在训练集上的平均损失：
-  \[
+  $$
   \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
-  \]
+  $$
   其中 $\ell(\cdot, \cdot)$ 是单个样本的损失，$N$ 是批次大小 [1]。
 - **核心数学性质**：
   - **非负性**：大多数损失函数设计为 $\ell \geq 0$，最小值在预测完全准确时取得（$\hat{y} = y$ 时 $\ell = 0$）。
   - **可微性**：为了使用梯度下降，损失函数必须是可微的（或允许次梯度），以便计算 $\frac{\partial \mathcal{L}}{\partial \theta}$ [2]。
 - **常见类型的数学形式**：
   - **回归（Regression）——均方误差（Mean Squared Error, MSE）**：
-    \[
+    $$
     \ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
-    \]
+    $$
     它对大误差施加平方惩罚，使模型专注于减少离群值的影响。
   - **二分类（Binary Classification）——二元交叉熵（Binary Cross-Entropy, BCE）**：
-    \[
+    $$
     \ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
-    \]
+    $$
     其中 $y \in \{0,1\}$，$\hat{y} \in (0,1)$ 是预测概率。这源于伯努利分布的负对数似然 [3]。
   - **多分类（Multi-class Classification）——交叉熵（Cross-Entropy）**：
-    \[
+    $$
     \ell_{\text{CE}}(y, \hat{y}) = -\sum_{c=1}^{C} y_c \log(\hat{y}_c)
-    \]
+    $$
     其中 $y$ 是 one-hot 编码的真实标签，$\hat{y}$ 是 Softmax 输出的概率分布。这等价于最小化真实分布与预测分布之间的 KL 散度 [3]。
 
 **2. 编程视角：自动微分的入口**
@@ -150,28 +150,28 @@ From a programming perspective, a loss function is a **callable, typically state
 **1. Mathematical Perspective: Loss as a Formalized Objective**
 
 - **Empirical Risk Minimization (ERM)**: The essence of training a neural network is minimizing the average loss over the training set, given an unknown data distribution:
-  \[
+  $$
   \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
-  \]
+  $$
   where $\ell(\cdot, \cdot)$ is the per-sample loss and $N$ is the batch size [1].
 - **Core Mathematical Properties**:
   - **Non-negativity**: Most loss functions are designed such that $\ell \geq 0$, with the minimum (0) achieved when predictions are perfect ($\hat{y} = y$).
   - **Differentiability**: For gradient descent to work, the loss function must be differentiable (or allow sub-gradients) to compute $\frac{\partial \mathcal{L}}{\partial \theta}$ [2].
 - **Common Types and Their Mathematical Forms**:
   - **Regression — Mean Squared Error (MSE)**:
-    \[
+    $$
     \ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
-    \]
+    $$
     It squares large errors, forcing the model to focus on reducing outliers.
   - **Binary Classification — Binary Cross-Entropy (BCE)**:
-    \[
+    $$
     \ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
-    \]
+    $$
     where $y \in \{0,1\}$ and $\hat{y} \in (0,1)$ is the predicted probability. This derives from the negative log-likelihood of a Bernoulli distribution [3].
   - **Multi-class Classification — Cross-Entropy (CE)**:
-    \[
+    $$
     \ell_{\text{CE}}(y, \hat{y}) = -\sum_{c=1}^{C} y_c \log(\hat{y}_c)
-    \]
+    $$
     where $y$ is the one-hot encoded true label and $\hat{y}$ is the Softmax probability distribution. This minimizes the KL divergence between the true distribution and the predicted distribution [3].
 
 **2. Programming Perspective: The Gateway to Automatic Differentiation**
