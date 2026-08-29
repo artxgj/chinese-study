@@ -28,24 +28,31 @@
 **1. 数学视角：损失函数是优化目标的形式化**
 
 - **经验风险最小化（Empirical Risk Minimization, ERM）**：训练神经网络的本质是在数据分布未知的情况下，最小化在训练集上的平均损失：
-  $$
-  \mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
-  $$
-  其中 $\ell(\cdot, \cdot)$ 是单个样本的损失，$N$ 是批次大小 [1]。
+
+$$
+\mathcal{L}(\theta) = \frac{1}{N} \sum_{i=1}^{N} \ell(f_\theta(x_i), y_i)
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中 $`\ell(\cdot, \cdot)`$ 是单个样本的损失，$N$ 是批次大小 [1]。
+
 - **核心数学性质**：
-  - **非负性**：大多数损失函数设计为 $\ell \geq 0$，最小值在预测完全准确时取得（$\hat{y} = y$ 时 $\ell = 0$）。
+  - **非负性**：大多数损失函数设计为 $\ell \geq 0$，最小值在预测完全准确时取得（ $\hat{y} = y$ 时 $\ell = 0$ ）。
   - **可微性**：为了使用梯度下降，损失函数必须是可微的（或允许次梯度），以便计算 $\frac{\partial \mathcal{L}}{\partial \theta}$ [2]。
 - **常见类型的数学形式**：
   - **回归（Regression）——均方误差（Mean Squared Error, MSE）**：
-    $$
-    \ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
-    $$
-    它对大误差施加平方惩罚，使模型专注于减少离群值的影响。
+  
+$$
+\ell_{\text{MSE}}(y, \hat{y}) = (y - \hat{y})^2
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;它对大误差施加平方惩罚，使模型专注于减少离群值的影响。
   - **二分类（Binary Classification）——二元交叉熵（Binary Cross-Entropy, BCE）**：
-    $$
-    \ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
-    $$
-    其中 $y \in \{0,1\}$，$\hat{y} \in (0,1)$ 是预测概率。这源于伯努利分布的负对数似然 [3]。
+
+$$
+\ell_{\text{BCE}}(y, \hat{y}) = -[y \log(\hat{y}) + (1-y) \log(1-\hat{y})]
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中 $y \in \{0,1\}$，$\hat{y} \in (0,1)$ 是预测概率。这源于伯努利分布的负对数似然 [3]。
   - **多分类（Multi-class Classification）——交叉熵（Cross-Entropy）**：
     $$
     \ell_{\text{CE}}(y, \hat{y}) = -\sum_{c=1}^{C} y_c \log(\hat{y}_c)
