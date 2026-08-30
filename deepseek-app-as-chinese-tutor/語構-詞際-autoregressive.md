@@ -13,7 +13,7 @@
 ### 中文部分 (Chinese Section)
 
 **摘要**  
-“自回归”（Autoregressive）由“自己”和“回归”组成。非技术人员极少在日常对话中使用它，偶尔出现时，多半是比喻“某种模式不断重复自己”或“历史决定未来”。在学术上，它的核心定义是：**一个系统或过程，其当前状态依赖于自身过去的一个或多个状态**。数学上典型形式是 \(X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \varepsilon_t\)。在 AI 中，它是大语言模型逐词预测的底层机制；在统计中是时间序列分析（如 ARIMA）的基石；在物理、工程和气候科学中，它用来描述具有“记忆”或“惯性”的演化系统 [1][2]。
+“自回归”（Autoregressive）由“自己”和“回归”组成。非技术人员极少在日常对话中使用它，偶尔出现时，多半是比喻“某种模式不断重复自己”或“历史决定未来”。在学术上，它的核心定义是：**一个系统或过程，其当前状态依赖于自身过去的一个或多个状态**。数学上典型形式是 $X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \varepsilon_t$。在 AI 中，它是大语言模型逐词预测的底层机制；在统计中是时间序列分析（如 ARIMA）的基石；在物理、工程和气候科学中，它用来描述具有“记忆”或“惯性”的演化系统 [1][2]。
 
 **详细说明**
 
@@ -28,14 +28,16 @@
 
 **3. 数学视角：形式化定义**  
 最经典的自回归模型是 **AR(p)**（p阶自回归），其中 p 表示用过去 p 个时间点的值来预测当前值：
-\[
+
+$$
 X_t = c + \phi_1 X_{t-1} + \phi_2 X_{t-2} + \dots + \phi_p X_{t-p} + \varepsilon_t
-\]
-- \(X_t\)：当前值
-- \(c\)：常数项
-- \(\phi_i\)：自回归系数（衡量过去值的影响权重）
-- \(\varepsilon_t\)：白噪声（随机误差，假设均值为 0）  
-这本质上是一个**有记忆的线性差分方程**。还可以引入滞后算子 \(L\) 简写为 \(\Phi(L) X_t = \varepsilon_t\)。
+$$
+
+- $X_t$：当前值
+- $c$：常数项
+- $\phi_i$：自回归系数（衡量过去值的影响权重）
+- $\varepsilon_t$：白噪声（随机误差，假设均值为 0）  
+这本质上是一个**有记忆的线性差分方程**。还可以引入滞后算子 $L$ 简写为 $\Phi(L) X_t = \varepsilon_t$。
 
 **4. 统计学与计量经济学：时间序列的骨架**  
 - **ARIMA 模型**：将自回归与差分（消除趋势）和移动平均结合，成为预测 GDP、通胀、股票收益率的标配工具 [1]。  
@@ -43,7 +45,7 @@ X_t = c + \phi_1 X_{t-1} + \phi_2 X_{t-2} + \dots + \phi_p X_{t-p} + \varepsilon
 - **格兰杰因果检验**：用自回归的扩展版本来判断一个时间序列是否有助于预测另一个序列。
 
 **5. AI 与机器学习：生成模型的发动机**  
-- **大语言模型（LLM）**：GPT 系列本质上是自回归语言模型。生成文本时，每一步只预测下一个词元（Token），然后把新词元拼回输入，再预测下一个——如此循环，直到生成结束符 [3]。数学上，它最大化条件概率 \(P(x_t | x_{1:t-1})\)。  
+- **大语言模型（LLM）**：GPT 系列本质上是自回归语言模型。生成文本时，每一步只预测下一个词元（Token），然后把新词元拼回输入，再预测下一个——如此循环，直到生成结束符 [3]。数学上，它最大化条件概率 $P(x_t | x_{1:t-1})$。  
 - **图像/音频生成**：PixelRNN 和 WaveNet 都利用自回归逐像素或逐采样点生成数据。  
 - **训练与推理的区别**：训练时 Teacher Forcing 可以并行（用真实历史值），但推理时必须串行（自己生成的值作为下一步输入），导致“误差累积”和慢速生成。
 
@@ -67,7 +69,7 @@ X_t = c + \phi_1 X_{t-1} + \phi_2 X_{t-2} + \dots + \phi_p X_{t-p} + \varepsilon
 ### English Section
 
 **Abstract**  
-“Autoregressive” combines “auto” (self) and “regressive” (going back). Non‑technical people almost never use it in daily conversation; when they do, it is usually a loose metaphor for “patterns that repeat themselves” or “the past determining the future.” Formally, it means: **a system or process whose current state depends on one or more of its own past states**. Mathematically, it is \(X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \varepsilon_t\). In AI, it drives the token‑by‑token prediction of LLMs; in statistics, it underpins time‑series analysis (ARIMA); in physics, engineering, and climate science, it models systems with “memory” or “inertia” [1][2].
+“Autoregressive” combines “auto” (self) and “regressive” (going back). Non‑technical people almost never use it in daily conversation; when they do, it is usually a loose metaphor for “patterns that repeat themselves” or “the past determining the future.” Formally, it means: **a system or process whose current state depends on one or more of its own past states**. Mathematically, it is $X_t = c + \sum_{i=1}^p \phi_i X_{t-i} + \varepsilon_t$. In AI, it drives the token‑by‑token prediction of LLMs; in statistics, it underpins time‑series analysis (ARIMA); in physics, engineering, and climate science, it models systems with “memory” or “inertia” [1][2].
 
 **Detailed Explanation**
 
@@ -82,14 +84,16 @@ In strict academic terms, “autoregressive” means **a time series or dynamic 
 
 **3. Mathematical Perspective: Formalization**  
 The classic form is the **AR(p)** model (p‑th order autoregressive), where p denotes using the past p time points to predict the current value:
-\[
+
+$$
 X_t = c + \phi_1 X_{t-1} + \phi_2 X_{t-2} + \dots + \phi_p X_{t-p} + \varepsilon_t
-\]
-- \(X_t\): current value
-- \(c\): constant
-- \(\phi_i\): autoregressive coefficients (weights of past influence)
-- \(\varepsilon_t\): white noise (random error, mean zero)  
-This is essentially a **linear difference equation with memory**. It can be compactly written with the lag operator \(L\) as \(\Phi(L) X_t = \varepsilon_t\).
+$$
+
+- $X_t$: current value
+- $c$: constant
+- $\phi_i$: autoregressive coefficients (weights of past influence)
+- $\varepsilon_t$: white noise (random error, mean zero)  
+This is essentially a **linear difference equation with memory**. It can be compactly written with the lag operator $L$ as $\Phi(L) X_t = \varepsilon_t$.
 
 **4. Statistics & Econometrics: The Backbone of Time Series**  
 - **ARIMA models**: Combine autoregression with differencing (to remove trends) and moving averages – the standard toolkit for forecasting GDP, inflation, stock returns [1].  
@@ -97,7 +101,7 @@ This is essentially a **linear difference equation with memory**. It can be comp
 - **Granger causality tests**: Use extended autoregressive frameworks to test whether one time series helps predict another.
 
 **5. AI & Machine Learning: The Engine of Generative Models**  
-- **Large Language Models (LLMs)**: GPT‑series are fundamentally autoregressive language models. During generation, each step predicts only the next token, then appends it to the input and predicts again – looping until a stop token [3]. Mathematically, it maximizes \(P(x_t | x_{1:t-1})\).  
+- **Large Language Models (LLMs)**: GPT‑series are fundamentally autoregressive language models. During generation, each step predicts only the next token, then appends it to the input and predicts again – looping until a stop token [3]. Mathematically, it maximizes $P(x_t | x_{1:t-1})$.  
 - **Image/Audio generation**: PixelRNN and WaveNet leverage autoregression to generate data pixel‑by‑pixel or sample‑by‑sample.  
 - **Training vs. Inference**: During training, Teacher Forcing allows parallelism (using true past values). During inference, it is fully serial (using its own generated values as input), leading to “error accumulation” and slower generation.
 
