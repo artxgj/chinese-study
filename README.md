@@ -14,10 +14,7 @@ Classical Chinese poetry
 
 ### DeepSeek
 
-DeepSeek content in this repo are bilingual.
-- DeepSeek refers to DeepSeek's iOS app.
-- The queries were opportunities to practice writing in Chinese.
-- The technology-related content have not yet been fully-verified. The bilingual technical terms appear to be consistent.
+DeepSeek's iOS app generated the bilingual responses that are stored in this repo.
   
 ---
 **Note**: Translation tools, the Pleco app, and Wiktionary have been tremendously helpful with reading improvement and vocabulary expansion.
