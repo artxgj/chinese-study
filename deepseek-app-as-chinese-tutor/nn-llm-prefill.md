@@ -8,17 +8,7 @@
 
 > 你让我解释大模型推理里的“预填充”（Prefill）是什么，做这件事要花多少算力，以及现在有哪些优化技术来加速它。
 
-## 1. Prompt Repetition & Chinese Essence
-
-**Original Prompt (English):**  
-
-> Describe and explain pre-fill, the compute needed to accomplish this task, and techniques for pre-fill.
-
-**Chinese Essence (简明口语化):**  
-
-> 你让我解释大模型推理里的“预填充”（Prefill）是什么，做这件事要花多少算力，以及现在有哪些优化技术来加速它。
-
----
+## 
 
 ## 2. Bilingual Response (Revised)
 

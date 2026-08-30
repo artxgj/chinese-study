@@ -13,7 +13,7 @@
 ### 中文部分 (Chinese Section)
 
 **摘要**  
-解码就是模型“一个字一个字往外蹦”的循环过程——每次只看上一个字和前面所有字的“记忆摘要”（KV Cache），来猜下一个字。思维链则是让这个循环多跑很多圈：模型不直接给答案，而是先把中间推理步骤像打草稿一样逐字写出来，写完草稿再给结论。数学上，解码每一步的注意力计算复杂度是 \(O(t)\)（\(t\) 为当前总字数），所以生成 \(T\) 个词的总复杂度是 \(O(T^2)\)；思维链把 \(T\) 拉长，算力消耗会二次方级飙升。计算机科学上，解码是一个**内存带宽受限**的自回归循环，KV Cache 的搬运决定了速度；思维链只是把这个循环的“终止条件”延后了，但带来了更高的准确率与极高的资源代价。
+解码就是模型“一个字一个字往外蹦”的循环过程——每次只看上一个字和前面所有字的“记忆摘要”（KV Cache），来猜下一个字。思维链则是让这个循环多跑很多圈：模型不直接给答案，而是先把中间推理步骤像打草稿一样逐字写出来，写完草稿再给结论。数学上，解码每一步的注意力计算复杂度是 $O(t)$（$t$ 为当前总字数），所以生成 $T$ 个词的总复杂度是 $O(T^2)$；思维链把 $T$ 拉长，算力消耗会二次方级飙升。计算机科学上，解码是一个**内存带宽受限**的自回归循环，KV Cache 的搬运决定了速度；思维链只是把这个循环的“终止条件”延后了，但带来了更高的准确率与极高的资源代价。
 
 **详细说明**
 
@@ -27,18 +27,18 @@
 后台发生的事：模型强制自己把“草稿纸上的推理步骤”也当作“词语接龙”的内容，一个字一个词地先写出来。它不是在回答，而是在“自言自语”地把中间过程补齐。等这些中间词写完了，它才继续接“答案是 5”。所以，思维链本质上就是 **让解码循环多转好多圈**，先写草稿，再写结论。
 
 **3. 数学视角：解码的计算公式**  
-设当前已生成的总词元数为 \(t\)（包括输入和已生成的输出）。每一步解码处理 **一个新词元** \(x_t\)，利用缓存的 Key 和 Value 矩阵 \(K_{1:t-1}, V_{1:t-1}\)（形状为 \((t-1) \times d\)）。
-- 计算当前词元的 Query：\(q_t = x_t W_Q\)（形状 \(1 \times d\)）。
-- 计算注意力分数：\(A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right)\)。此处的矩阵乘法是 \(1 \times (t-1)\) 乘以 \((t-1) \times d\)，复杂度 **\(O(t)\)**。
-- 加权输出：\(o_t = A_t V_{1:t-1}\)，复杂度同样 \(O(t)\)。
-- 最后通过输出层预测下一个词：\(P(x_{t+1}) = \text{softmax}(o_t W_{out})\)。
+设当前已生成的总词元数为 $t$（包括输入和已生成的输出）。每一步解码处理 **一个新词元** $x_t$，利用缓存的 Key 和 Value 矩阵 $K_{1:t-1}, V_{1:t-1}$（形状为 $(t-1) \times d$）。
+- 计算当前词元的 Query：$q_t = x_t W_Q$（形状 $1 \times d$）。
+- 计算注意力分数：$A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right)$。此处的矩阵乘法是 $1 \times (t-1)$ 乘以 $(t-1) \times d$，复杂度 **$O(t)$**。
+- 加权输出：$o_t = A_t V_{1:t-1}$，复杂度同样 $O(t)$。
+- 最后通过输出层预测下一个词：$P(x_{t+1}) = \text{softmax}(o_t W_{out})$。
 
 **关键数学结论（思维链的代价）**：  
-生成 \(T\) 个输出词（包括思维链的中间词和最终答案）的总计算量约为：
-\[
+生成 $T$ 个输出词（包括思维链的中间词和最终答案）的总计算量约为：
+$$
 \text{Decode Cost} \propto \sum_{t=1}^{T} O(t) = O(T^2)
-\]
-如果不用思维链，\(T\) 可能就是 50（直接答案）；如果用思维链，\(T\) 可能膨胀到 500（中间步骤 + 答案）。因为总代价与 \(T^2\) 成正比，所以 **\(T\) 变 10 倍，解码总算力消耗变 100 倍**。这就是思维链“烧算力”的数学根源 [6]。
+$$
+如果不用思维链，$T$ 可能就是 50（直接答案）；如果用思维链，$T$ 可能膨胀到 500（中间步骤 + 答案）。因为总代价与 $T^2$ 成正比，所以 **$T$ 变 10 倍，解码总算力消耗变 100 倍**。这就是思维链“烧算力”的数学根源 [6]。
 
 **4. 计算机科学视角：解码的算法与瓶颈**  
 从 CS 角度看，解码（Decode）是一个 **自回归（Autoregressive）循环**：
@@ -53,7 +53,7 @@ while 未遇到 <EOS> 或未达最大长度:
     更新 KV_Cache（追加新的 k, v）
 ```
 这个循环有两个核心特征：
-- **内存带宽密集型**：每一步都需要从高带宽显存（HBM）中读取整个 \(K\) 和 \(V\) 缓存（大小随 \(t\) 线性增长）。GPU 的算力核心（Tensor Cores）经常“饿着”，因为数据搬来搬去的时间远大于计算时间 [5]。
+- **内存带宽密集型**：每一步都需要从高带宽显存（HBM）中读取整个 $K$ 和 $V$ 缓存（大小随 $t$ 线性增长）。GPU 的算力核心（Tensor Cores）经常“饿着”，因为数据搬来搬去的时间远大于计算时间 [5]。
 - **采样策略**：决定下一个词的不是单纯的数学公式，而是工程策略（如 Top-p、Temperature、Greedy Decoding），这些在算力上几乎免费，但极大影响“思考”质量。
 
 对于思维链，CS 视角只改动了一处：**循环的终止条件变晚了**。模型必须生成完所有中间推理词元，直到出现“最终答案”的标记才停止。在系统层面，这意味着更长的延迟（用户等得更久）、更大的显存占用（KV Cache 更大），以及更低的吞吐量。但这是值得的，因为思维链将复杂的“一步映射”分解为多步“局部映射”，显著提高了数学和逻辑任务的准确率 [2][7]。
@@ -63,7 +63,7 @@ while 未遇到 <EOS> 或未达最大长度:
 ### English Section
 
 **Abstract**  
-Decoding is the autoregressive "word-by-word" loop – at each step, the model looks at the most recent token and its "memory summary" (KV Cache) of all previous tokens to guess the next one. Chain-of-Thought simply runs this loop for many extra turns: instead of giving the final answer directly, the model writes out intermediate reasoning steps like a scratchpad, then delivers the conclusion. Mathematically, each decoding step costs \(O(t)\) attention compute (where \(t\) is current sequence length), so generating \(T\) tokens costs \(O(T^2)\) total; CoT enlarges \(T\), causing a quadratic explosion in compute. In computer science, decoding is a **memory-bandwidth-bound** autoregressive loop where KV Cache movement dictates speed; CoT merely postpones the loop's termination condition, trading massive compute for higher accuracy.
+Decoding is the autoregressive "word-by-word" loop – at each step, the model looks at the most recent token and its "memory summary" (KV Cache) of all previous tokens to guess the next one. Chain-of-Thought simply runs this loop for many extra turns: instead of giving the final answer directly, the model writes out intermediate reasoning steps like a scratchpad, then delivers the conclusion. Mathematically, each decoding step costs $O(t)$ attention compute (where $t$ is current sequence length), so generating $T$ tokens costs $O(T^2)$ total; CoT enlarges $T$, causing a quadratic explosion in compute. In computer science, decoding is a **memory-bandwidth-bound** autoregressive loop where KV Cache movement dictates speed; CoT merely postpones the loop's termination condition, trading massive compute for higher accuracy.
 
 **Detailed Explanation**
 
@@ -77,18 +77,18 @@ If you just output "5", that's plain decoding. But if you output "Subtract 5 to 
 Behind the scenes: the model is forced to treat the "scratchpad reasoning steps" as part of the word chain, writing them out token by token. It's not answering yet; it's "thinking out loud" to fill in the intermediate steps. Only after writing all these intermediate words does it output the final answer. So CoT is essentially **running the decoding loop for many extra cycles** – write scratchpad, then write conclusion.
 
 **3. Mathematical Perspective: The Formulas of Decoding**  
-Let the current total sequence length be \(t\) (including prompt and generated outputs). Each decoding step processes **one new token** \(x_t\), using the cached Key and Value matrices \(K_{1:t-1}, V_{1:t-1}\) (shapes \((t-1) \times d\)).
-- Compute Query for the current token: \(q_t = x_t W_Q\) (shape \(1 \times d\)).
-- Compute attention scores: \(A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right)\). This matrix multiplication is \(1 \times (t-1)\) times \((t-1) \times d\), complexity **\(O(t)\)**.
-- Weighted output: \(o_t = A_t V_{1:t-1}\), also \(O(t)\).
-- Finally, predict the next token via the output layer: \(P(x_{t+1}) = \text{softmax}(o_t W_{out})\).
+Let the current total sequence length be $t$ (including prompt and generated outputs). Each decoding step processes **one new token** $x_t$, using the cached Key and Value matrices $K_{1:t-1}, V_{1:t-1}$ (shapes $(t-1) \times d$).
+- Compute Query for the current token: $q_t = x_t W_Q$ (shape $1 \times d$).
+- Compute attention scores: $A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right)$. This matrix multiplication is $1 \times (t-1)$ times $(t-1) \times d$, complexity **$O(t)$**.
+- Weighted output: $o_t = A_t V_{1:t-1}$, also $O(t)$.
+- Finally, predict the next token via the output layer: $P(x_{t+1}) = \text{softmax}(o_t W_{out})$.
 
 **Key Mathematical Conclusion (The Cost of CoT)**:  
-Total compute for generating \(T\) output tokens (including CoT intermediates and final answer) is approximately:
-\[
+Total compute for generating $T$ output tokens (including CoT intermediates and final answer) is approximately:
+$$
 \text{Decode Cost} \propto \sum_{t=1}^{T} O(t) = O(T^2)
-\]
-Without CoT, \(T\) might be 50 (direct answer). With CoT, \(T\) could explode to 500 (intermediate steps + final). Since total cost scales with \(T^2\), **making \(T\) 10× longer makes total decoding compute 100× more expensive**. This is the mathematical root of CoT's "compute hunger" [6].
+$$
+Without CoT, $T$ might be 50 (direct answer). With CoT, $T$ could explode to 500 (intermediate steps + final). Since total cost scales with $T^2$, **making $T$ 10× longer makes total decoding compute 100× more expensive**. This is the mathematical root of CoT's "compute hunger" [6].
 
 **4. Computer Science Perspective: Algorithm and Bottlenecks**  
 From a CS standpoint, decoding is an **Autoregressive loop**:
@@ -103,7 +103,7 @@ while not <EOS> and not max_length:
     update KV_Cache (append new k, v)
 ```
 This loop has two core features:
-- **Memory-Bandwidth-Bound**: Each step requires reading the entire \(K\) and \(V\) cache (which grows linearly with \(t\)) from high-bandwidth VRAM. The GPU's compute cores often starve because moving data takes longer than computation [5].
+- **Memory-Bandwidth-Bound**: Each step requires reading the entire $K$ and $V$ cache (which grows linearly with $t$) from high-bandwidth VRAM. The GPU's compute cores often starve because moving data takes longer than computation [5].
 - **Sampling Strategy**: The next token is not determined by pure math but by engineering heuristics (Top-p, Temperature, Greedy Decoding). These are almost free in compute but critically affect "thinking" quality.
 
 For CoT, CS only changes **one thing**: the loop's **termination condition is delayed**. The model must generate all intermediate reasoning tokens until a "final answer" marker appears. At the system level, this means higher latency (users wait longer), higher VRAM usage (bigger KV Cache), and lower throughput. However, it's worth it, because CoT decomposes complex "one-step mapping" into multiple "local mappings," dramatically boosting accuracy on math and logic tasks [2][7].
