@@ -28,16 +28,18 @@
 
 **3. 数学视角：解码的计算公式**  
 设当前已生成的总词元数为 $t$（包括输入和已生成的输出）。每一步解码处理 **一个新词元** $x_t$，利用缓存的 Key 和 Value 矩阵 $K_{1:t-1}, V_{1:t-1}$（形状为 $(t-1) \times d$）。
-- 计算当前词元的 Query：$q_t = x_t W_Q$（形状 $1 \times d$）。
-- 计算注意力分数：$A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right)$。此处的矩阵乘法是 $1 \times (t-1)$ 乘以 $(t-1) \times d$，复杂度 **$O(t)$**。
-- 加权输出：$o_t = A_t V_{1:t-1}$，复杂度同样 $O(t)$。
-- 最后通过输出层预测下一个词：$P(x_{t+1}) = \text{softmax}(o_t W_{out})$。
+- 计算当前词元的 Query：$`q_t = x_t W_Q$（形状 $1 \times d`$）。
+- 计算注意力分数：$`A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right)`$。此处的矩阵乘法是 $1 \times (t-1)$ 乘以 $(t-1) \times d$，复杂度 **$O(t)$**。
+- 加权输出：$`o_t = A_t V_{1:t-1}`$，复杂度同样 $O(t)$。
+- 最后通过输出层预测下一个词：$`(x_{t+1}) = \text{softmax}(o_t W_{out})`$。
 
 **关键数学结论（思维链的代价）**：  
 生成 $T$ 个输出词（包括思维链的中间词和最终答案）的总计算量约为：
+
 $$
 \text{Decode Cost} \propto \sum_{t=1}^{T} O(t) = O(T^2)
 $$
+
 如果不用思维链，$T$ 可能就是 50（直接答案）；如果用思维链，$T$ 可能膨胀到 500（中间步骤 + 答案）。因为总代价与 $T^2$ 成正比，所以 **$T$ 变 10 倍，解码总算力消耗变 100 倍**。这就是思维链“烧算力”的数学根源 [6]。
 
 **4. 计算机科学视角：解码的算法与瓶颈**  
@@ -85,9 +87,11 @@ Let the current total sequence length be $t$ (including prompt and generated out
 
 **Key Mathematical Conclusion (The Cost of CoT)**:  
 Total compute for generating $T$ output tokens (including CoT intermediates and final answer) is approximately:
+
 $$
 \text{Decode Cost} \propto \sum_{t=1}^{T} O(t) = O(T^2)
 $$
+
 Without CoT, $T$ might be 50 (direct answer). With CoT, $T$ could explode to 500 (intermediate steps + final). Since total cost scales with $T^2$, **making $T$ 10× longer makes total decoding compute 100× more expensive**. This is the mathematical root of CoT's "compute hunger" [6].
 
 **4. Computer Science Perspective: Algorithm and Bottlenecks**  
