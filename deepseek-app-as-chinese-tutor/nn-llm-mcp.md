@@ -1,10 +1,12 @@
-## 1. Prompt Repetition & Chinese Essence
+## 1.1. Prompt Repetition & Chinese Essence
 
 **Original Prompt (English):**  
-> Response’s citation links are in the format of [reference: 111]. Replace them with a number that corresponds to sources in the References section. Fix the entire previous response.
+
+> Provide a comprehensive overview of the MCP protocol. Describe its architecture. How is it used?
 
 **Chinese Essence (简明口语化):**  
-> 你再次要求我把回答里的引用格式从 [reference: 数字] 改成纯数字编号并对应到参考文献列表，同时把整篇回答重新修正输出。我现在按这个要求，把 MCP 协议的完整介绍重新发一遍，所有引用均已改为数字编号。
+
+> 你让我全面介绍 MCP 协议：它是什么、架构怎么设计的、实际中怎么用。要讲清楚核心概念、组件、通信方式，以及开发者和应用怎么接入。
 
 ---
 
