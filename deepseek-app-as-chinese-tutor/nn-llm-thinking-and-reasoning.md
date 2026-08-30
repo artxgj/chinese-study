@@ -26,21 +26,26 @@
 技术实现上，LLM 推理分为两个核心阶段：
 
 - **Prefill（预填充 / 思考）**：  
-  输入序列长度为 \(N\)，隐藏维度 \(d\)。模型并行处理所有输入词元，计算多头注意力：  
-  \[
+  输入序列长度为 $N$，隐藏维度 $d$。模型并行处理所有输入词元，计算多头注意力：  
+
+$$
   Q = XW_Q,\ K = XW_K,\ V = XW_V
-  \]
-  \[
+$$
+
+$$
   \text{Attention} = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right) V
-  \]
-  其中 \(QK^T\) 是 \(N \times N\) 的矩阵，因此计算复杂度为 **\(O(N^2)\)**。这个阶段还会把每个词元的 \(K\) 和 \(V\) 向量缓存起来（即 KV Cache），供后续使用。数学本质：一次性构建输入词元之间的全连接关系图。
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中 $QK^T$ 是 $N \times N$ 的矩阵，因此计算复杂度为 **$O(N^2)$**。这个阶段还会把每个词元的 $K$ 和 $V$ 向量缓存起来（即 KV Cache），供后续使用。数学本质：一次性构建输入词元之间的全连接关系图。
 
 - **Decode（解码 / 推理步骤）**：  
-  生成第一个词元后，后续每一步只处理一个新词元 \(x_t\)。利用缓存的 \(K_{1:t-1}\) 和 \(V_{1:t-1}\)，只计算当前新词元与历史词元的注意力：  
-  \[
+  生成第一个词元后，后续每一步只处理一个新词元 $x_t$。利用缓存的 $K_{1:t-1}$ 和 $V_{1:t-1}$，只计算当前新词元与历史词元的注意力：  
+
+$$
   q_t = x_t W_Q,\quad A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right),\quad o_t = A_t V_{1:t-1}
-  \]
-  复杂度为 **\(O(N)\)**（N 随步数线性增长）。每步生成一个概率分布，采样得到下一个词元。  
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;复杂度为 **$O(N)$**（N 随步数线性增长）。每步生成一个概率分布，采样得到下一个词元。  
 - **关于“推理”的额外数学**：当模型执行“思维链”时，它实际上是在 Decode 阶段多走了 M 步（M 为推理链词元数），每步都是上述 O(N) 运算的重复。这相当于在最终答案前，模型先把“草稿”写了出来 [3][6]。
 
 **3. 算力消耗：思考 vs 推理**  
@@ -51,7 +56,7 @@
 | **Decode（推理步）**                 | 内存带宽密集型（Memory-bandwidth-bound） | O(N) 逐词计算 + KV Cache 线性增长 | 1000 词元对话 KV Cache 约占 2~3 GB 显存 [5]          |
 | **思维链 / 内部推理（CoT / o1 类）** | 混合型（计算 + 内存）                    | Prefill + M × Decode_per_step     | M=32 步时，总成本可达直接回答的 **3~10 倍** [6][7]   |
 
-- **思考（Prefill）为什么贵**：因为它要一次性算 \(N \times N\) 的注意力矩阵，输入越长，平方级的爆炸越明显。这就是为什么长文档的首字延迟（TTFT）可能长达几分钟。  
+- **思考（Prefill）为什么贵**：因为它要一次性算 $N \times N$ 的注意力矩阵，输入越长，平方级的爆炸越明显。这就是为什么长文档的首字延迟（TTFT）可能长达几分钟。  
 - **推理（Decode）为什么慢**：虽然每步算力不大，但每步都要从显存中搬动整个 KV Cache（GB 级别），内存带宽成为瓶颈。  
 - **思维链让推理更费钱**：你让模型“一步步想”，它就真的在后台生成了一串隐藏词元。每多一个推理词元，就多一次 Decode 开销。如果用户要求“详细解释”，模型可能输出 500 词的推理链，比直接给 50 词的结论消耗 10 倍以上的算力。
 
@@ -73,21 +78,26 @@ In plain language, LLM “thinking” means “carefully reading and fully diges
 Technically, LLM inference consists of two core phases:
 
 - **Prefill (Thinking / Input Understanding)**:  
-  Input sequence length \(N\), hidden dimension \(d\). The model processes all input tokens in parallel, computing multi-head attention:  
-  \[
+  Input sequence length $N$, hidden dimension $d$. The model processes all input tokens in parallel, computing multi-head attention:  
+
+$$
   Q = XW_Q,\ K = XW_K,\ V = XW_V
-  \]
-  \[
+$$
+
+$$
   \text{Attention} = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}}\right) V
-  \]
-  Here, \(QK^T\) is an \(N \times N\) matrix, so the computational complexity is **\(O(N^2)\)**. This phase also caches the \(K\) and \(V\) vectors for every input token (the KV Cache) for future use. Mathematically, this builds a full connectivity graph among all input tokens at once.
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Here, $QK^T$ is an $N \times N$ matrix, so the computational complexity is **$O(N^2)$**. This phase also caches the $K$ and $V$ vectors for every input token (the KV Cache) for future use. Mathematically, this builds a full connectivity graph among all input tokens at once.
 
 - **Decode (Reasoning / Stepwise Generation)**:  
-  After the first token is generated, each subsequent step processes only one new token \(x_t\). Using the cached \(K_{1:t-1}\) and \(V_{1:t-1}\), it only computes attention between the current new token and the history:  
-  \[
+  After the first token is generated, each subsequent step processes only one new token $x_t$. Using the cached $K_{1:t-1}$ and $V_{1:t-1}$, it only computes attention between the current new token and the history:  
+  
+$$
   q_t = x_t W_Q,\quad A_t = \text{softmax}\left(\frac{q_t K_{1:t-1}^T}{\sqrt{d_k}}\right),\quad o_t = A_t V_{1:t-1}
-  \]
-  The complexity is **\(O(N)\)** (N grows linearly with steps). At each step, it samples from a probability distribution to produce the next token.  
+$$
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The complexity is **$O(N)$** (N grows linearly with steps). At each step, it samples from a probability distribution to produce the next token.  
 - **Extra Math for “Reasoning”**: When the model performs Chain-of-Thought (CoT), it essentially takes M extra Decode steps (M = reasoning chain length), each repeating the above O(N) computation. This is equivalent to the model writing out its “scratchpad” before giving the final answer [3][6].
 
 **3. Compute Cost: Thinking vs Reasoning**
@@ -98,7 +108,7 @@ Technically, LLM inference consists of two core phases:
 | **Decode (Reasoning steps)**           | Memory-bandwidth-bound   | O(N) per step + KV Cache linear growth | 1,000-token conversation KV Cache occupies ~2–3 GB VRAM [5]  |
 | **CoT / Internal Reasoning (o1-like)** | Mixed (compute + memory) | Prefill + M × Decode_per_step          | At M=32 steps, total cost can be **3–10×** higher than direct answering [6][7] |
 
-- **Why Thinking (Prefill) is Expensive**: It must compute the \(N \times N\) attention matrix all at once. The longer the input, the more obvious the quadratic explosion. This is why Time-to-First-Token (TTFT) for long documents can take minutes.  
+- **Why Thinking (Prefill) is Expensive**: It must compute the $N \times N$ attention matrix all at once. The longer the input, the more obvious the quadratic explosion. This is why Time-to-First-Token (TTFT) for long documents can take minutes.  
 - **Why Reasoning (Decode) is Slow**: Although each step uses little compute, it must move the entire KV Cache (GB-scale) from VRAM every step – memory bandwidth becomes the bottleneck.  
 - **Why CoT Makes Reasoning Even Costlier**: When you ask the model to “think step by step,” it literally generates a string of hidden reasoning tokens in the background. Each extra reasoning token adds one Decode overhead. If the user asks for a “detailed explanation,” the model may generate a 500-token reasoning chain, consuming 10× more compute than a 50-word direct answer.
 
