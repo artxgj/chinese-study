@@ -1,10 +1,22 @@
 ## 1. Prompt Repetition & Chinese Essence
 
 **Original Prompt (English):**  
-> Response’s citation links are in the format of [reference: 111]. Replace them with a number that corresponds to sources in the References section. Fix the entire previous response.
+
+> Describe and explain pre-fill, the compute needed to accomplish this task, and techniques for pre-fill.
 
 **Chinese Essence (简明口语化):**  
-> 你指出我上一个回答里的引用用了 [reference: 111] 这种格式，要求改成数字编号并对应到 References 列表，同时把整个回答修正一遍。我现在重新输出修正后的完整版本。
+
+> 你让我解释大模型推理里的“预填充”（Prefill）是什么，做这件事要花多少算力，以及现在有哪些优化技术来加速它。
+
+## 1. Prompt Repetition & Chinese Essence
+
+**Original Prompt (English):**  
+
+> Describe and explain pre-fill, the compute needed to accomplish this task, and techniques for pre-fill.
+
+**Chinese Essence (简明口语化):**  
+
+> 你让我解释大模型推理里的“预填充”（Prefill）是什么，做这件事要花多少算力，以及现在有哪些优化技术来加速它。
 
 ---
 
