@@ -154,6 +154,7 @@ Tamarin‑C is a **fully integrated, open‑source debugging probe** designed sp
 
 [1] XJTAG – Technical Guide to JTAG. URL: https://www.xjtag.com/about-jtag/jtag-a-technical-overview/  
 [2] All About Circuits – Introduction to JTAG and the Test Access Port (TAP). URL: https://www.allaboutcircuits.com/technical-articles/introduction-to-jtag-test-access-port-tap/  
-[3] CCC 37C3 – Apple's iPhone 15: Under the C (Tamarin-C Presentation). URL: https://media.ccc.de/v/37c3-12114-apple_s_iphone_15_under_the_c  
+[3] CCC 37C3 – Apple's iPhone 15: Under the C (Tamarin-C Presentation). URL: https://media.ccc.de/v/37c3-12074-apple_s_iphone_15_under_the_c
+
 [4] GitHub – stacksmashing/tamarin-c. URL: https://github.com/stacksmashing/tamarin-c  
 [5] IEEE Standards Association – IEEE 1149.1-1990 Standard. URL: https://standards.ieee.org/standard/1149_1-1990.html
