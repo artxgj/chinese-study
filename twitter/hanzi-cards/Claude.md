@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2026-08-31 13:47:29 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 终于知道 Mac 都被谁扫了。信息报确认，ChatGPT 母公司 OpenAI，正大量扫货市面上的 Mac mini 和 Mac Studio，已达数万台，正迫切希望采购更多。而 Claude 的 Anthropic 则通过亚马逊 AWS，来租用 M…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93+Mac+%E9%83%BD%E8%A2%AB%E8%B0%81%E6%89%AB%E4%BA%86%E3%80%82%E4%BF%A1%E6%81%AF%E6%8A%A5%E7%A1%AE%E8%AE%A4%EF%BC%8CChatGPT+%E6%AF%8D%E5%85%AC%E5%8F%B8+OpenAI%EF%BC%8C%E6%AD%A3%E5%A4%A7%E9%87%8F%E6%89%AB%E8%B4%A7%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%9A%84+Mac+mini+%E5%92%8C+Mac+Studio%EF%BC%8C%E5%B7%B2%E8%BE%BE%E6%95%B0%E4%B8%87%E5%8F%B0%EF%BC%8C%E6%AD%A3%E8%BF%AB%E5%88%87%E5%B8%8C%E6%9C%9B%E9%87%87%E8%B4%AD%E6%9B%B4%E5%A4%9A%E3%80%82%E8%80%8C+Claude+%E7%9A%84+Anthropic+%E5%88%99%E9%80%9A%E8%BF%87%E4%BA%9A%E9%A9%AC%E9%80%8A+AWS%EF%BC%8C%E6%9D%A5%E7%A7%9F%E7%94%A8+M%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Anthropic](Anthropic.md), [Mac](Mac.md), [OpenAI](OpenAI.md), [亚马逊](亚马逊.md), [确认](确认.md)
+___
+##### 2026-08-11 14:09:09 UTC ~ TechNews 科技新報
+> RT @technews_tw: Claude 挑戰千禧年難題！雖然未解答黎曼猜想，卻將零點比例下限大幅提升至 67.2 %。 #Claude #黎曼猜想 #AI數學突破 https://t.co/I7w8NcWTNU
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+Claude+%E6%8C%91%E6%88%B0%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9B%A3%E9%A1%8C%EF%BC%81%E9%9B%96%E7%84%B6%E6%9C%AA%E8%A7%A3%E7%AD%94%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%EF%BC%8C%E5%8D%BB%E5%B0%87%E9%9B%B6%E9%BB%9E%E6%AF%94%E4%BE%8B%E4%B8%8B%E9%99%90%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%E8%87%B3+67.2+%25%E3%80%82+%23Claude+%23%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3+%23AI%E6%95%B8%E5%AD%B8%E7%AA%81%E7%A0%B4+https%3A%2F%2Ft.co%2FI7w8NcWTNU)
+##### Other Words/Names of Interest in the Above Tweet
+[大幅](大幅.md), [突破](突破.md)
+___
 ##### 2026-08-02 03:13:23 UTC ~ WquGuru
 > RT @wquguru: 一个顶尖的Agent，离不开“抄、用、调”三个字，抄顶尖的Codex的用户体验、用顶尖的PI或者Claude Agent… https://t.co/RfT7cRN1gV
 
@@ -28,7 +42,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [Kimi](Kimi.md), [正式](正式.md)
 ___
-##### 2026-07-30 23:08:21 UTC ~ 智享
+##### 2026-07-30 23:08:21 UTC ~ 海洋馆馆长
 > RT @CycleDecoded: DeepSeek R1 的“强逻辑大脑”加上 Claude 3.7 / Gemini 的“神级文笔”，这套缝合怪组合拳真有人做出来了！GitHub 上刚爆火的项目 DeepClaude（作者 ErlichLiu），目前已斩获 2.9k S…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CycleDecoded%3A+DeepSeek+R1+%E7%9A%84%E2%80%9C%E5%BC%BA%E9%80%BB%E8%BE%91%E5%A4%A7%E8%84%91%E2%80%9D%E5%8A%A0%E4%B8%8A+Claude+3.7+%2F+Gemini+%E7%9A%84%E2%80%9C%E7%A5%9E%E7%BA%A7%E6%96%87%E7%AC%94%E2%80%9D%EF%BC%8C%E8%BF%99%E5%A5%97%E7%BC%9D%E5%90%88%E6%80%AA%E7%BB%84%E5%90%88%E6%8B%B3%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81GitHub+%E4%B8%8A%E5%88%9A%E7%88%86%E7%81%AB%E7%9A%84%E9%A1%B9%E7%9B%AE+DeepClaude%EF%BC%88%E4%BD%9C%E8%80%85+ErlichLiu%EF%BC%89%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%96%A9%E8%8E%B7+2.9k+S%E2%80%A6)
@@ -49,7 +63,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Anthropic](Anthropic.md), [Kimi](Kimi.md), [OpenAI](OpenAI.md), [人工智能](人工智能.md), [包括](包括.md), [推动](推动.md), [美国](美国.md)
 ___
-##### 2026-06-29 06:29:27 UTC ~ 日經中文網
+##### 2026-06-29 06:29:27 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Anthropic或于本週恢復提供AI模型「Fable」】預計Anthropic繼尖端AI「Claude Mythos」之後，近期將恢復提供同等性能的「Fable」。中國企業也出現了先進模型，有聲音擔憂美國企業能否保持競爭優勢……ht…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic%E6%88%96%E4%BA%8E%E6%9C%AC%E9%80%B1%E6%81%A2%E5%BE%A9%E6%8F%90%E4%BE%9BAI%E6%A8%A1%E5%9E%8B%E3%80%8CFable%E3%80%8D%E3%80%91%E9%A0%90%E8%A8%88Anthropic%E7%B9%BC%E5%B0%96%E7%AB%AFAI%E3%80%8CClaude+Mythos%E3%80%8D%E4%B9%8B%E5%BE%8C%EF%BC%8C%E8%BF%91%E6%9C%9F%E5%B0%87%E6%81%A2%E5%BE%A9%E6%8F%90%E4%BE%9B%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E7%9A%84%E3%80%8CFable%E3%80%8D%E3%80%82%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%B9%9F%E5%87%BA%E7%8F%BE%E4%BA%86%E5%85%88%E9%80%B2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%9C%89%E8%81%B2%E9%9F%B3%E6%93%94%E6%86%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E8%83%BD%E5%90%A6%E4%BF%9D%E6%8C%81%E7%AB%B6%E7%88%AD%E5%84%AA%E5%8B%A2%E2%80%A6%E2%80%A6ht%E2%80%A6)
@@ -84,7 +98,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [模型](模型.md), [稳定](稳定.md), [竞争](竞争.md)
 ___
-##### 2026-03-03 05:13:39 UTC ~ 日經中文網
+##### 2026-03-03 05:13:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Anthropic超ChatGPT躍居美國免費APP首位】Anthropic的AI「Claude」在軟體開發自動化功能方面領先，同時還展現出拒絕AI被過度用於軍事並重視安全性的姿態。自年初到現在，免費用戶增長60％以上，每天的新註冊用戶…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic%E8%B6%85ChatGPT%E8%BA%8D%E5%B1%85%E7%BE%8E%E5%9C%8B%E5%85%8D%E8%B2%BBAPP%E9%A6%96%E4%BD%8D%E3%80%91Anthropic%E7%9A%84AI%E3%80%8CClaude%E3%80%8D%E5%9C%A8%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E8%87%AA%E5%8B%95%E5%8C%96%E5%8A%9F%E8%83%BD%E6%96%B9%E9%9D%A2%E9%A0%98%E5%85%88%EF%BC%8C%E5%90%8C%E6%99%82%E9%82%84%E5%B1%95%E7%8F%BE%E5%87%BA%E6%8B%92%E7%B5%95AI%E8%A2%AB%E9%81%8E%E5%BA%A6%E7%94%A8%E6%96%BC%E8%BB%8D%E4%BA%8B%E4%B8%A6%E9%87%8D%E8%A6%96%E5%AE%89%E5%85%A8%E6%80%A7%E7%9A%84%E5%A7%BF%E6%85%8B%E3%80%82%E8%87%AA%E5%B9%B4%E5%88%9D%E5%88%B0%E7%8F%BE%E5%9C%A8%EF%BC%8C%E5%85%8D%E8%B2%BB%E7%94%A8%E6%88%B6%E5%A2%9E%E9%95%B760%EF%BC%85%E4%BB%A5%E4%B8%8A%EF%BC%8C%E6%AF%8F%E5%A4%A9%E7%9A%84%E6%96%B0%E8%A8%BB%E5%86%8A%E7%94%A8%E6%88%B6%E2%80%A6)

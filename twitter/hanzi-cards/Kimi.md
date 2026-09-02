@@ -7,6 +7,27 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Kimi) for definition
 ### Tweets containing Kimi
 
 ___
+##### 2026-08-24 08:55:35 UTC ~ TechNews 科技新報
+> RT @technews_tw: AI 模型綜合排名躍升全球第六！月之暗面 Kimi K3 模型表現亮眼，性能超越 Google 與 SpaceXAI 模型。 #月之暗面 #KimiK3 #生成式AI #AI排名 https://t.co/bXuJCD31iO
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+AI+%E6%A8%A1%E5%9E%8B%E7%B6%9C%E5%90%88%E6%8E%92%E5%90%8D%E8%BA%8D%E5%8D%87%E5%85%A8%E7%90%83%E7%AC%AC%E5%85%AD%EF%BC%81%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+Kimi+K3+%E6%A8%A1%E5%9E%8B%E8%A1%A8%E7%8F%BE%E4%BA%AE%E7%9C%BC%EF%BC%8C%E6%80%A7%E8%83%BD%E8%B6%85%E8%B6%8A+Google+%E8%88%87+SpaceXAI+%E6%A8%A1%E5%9E%8B%E3%80%82+%23%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2+%23KimiK3+%23%E7%94%9F%E6%88%90%E5%BC%8FAI+%23AI%E6%8E%92%E5%90%8D+https%3A%2F%2Ft.co%2FbXuJCD31iO)
+##### Other Words/Names of Interest in the Above Tweet
+[月之暗面](月之暗面.md), [模型](模型.md)
+___
+##### 2026-08-24 03:14:44 UTC ~ 日经中文网/日經中文網
+> RT @rijingzhongwen: 【AI實力調查：中國Kimi第6】日經旗下媒體與美國Weights &amp; Biases聯合實施了生成式AI實力對比調查。Kimi K3的綜合得分超過了美國谷歌及SpaceXAI的模型。阿里雲、智譜華章科技等中國AI模型也躋身前列……htt…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AI%E5%AF%A6%E5%8A%9B%E8%AA%BF%E6%9F%A5%EF%BC%9A%E4%B8%AD%E5%9C%8BKimi%E7%AC%AC6%E3%80%91%E6%97%A5%E7%B6%93%E6%97%97%E4%B8%8B%E5%AA%92%E9%AB%94%E8%88%87%E7%BE%8E%E5%9C%8BWeights+%26amp%3B+Biases%E8%81%AF%E5%90%88%E5%AF%A6%E6%96%BD%E4%BA%86%E7%94%9F%E6%88%90%E5%BC%8FAI%E5%AF%A6%E5%8A%9B%E5%B0%8D%E6%AF%94%E8%AA%BF%E6%9F%A5%E3%80%82Kimi+K3%E7%9A%84%E7%B6%9C%E5%90%88%E5%BE%97%E5%88%86%E8%B6%85%E9%81%8E%E4%BA%86%E7%BE%8E%E5%9C%8B%E8%B0%B7%E6%AD%8C%E5%8F%8ASpaceXAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82%E9%98%BF%E9%87%8C%E9%9B%B2%E3%80%81%E6%99%BA%E8%AD%9C%E8%8F%AF%E7%AB%A0%E7%A7%91%E6%8A%80%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E6%A8%A1%E5%9E%8B%E4%B9%9F%E8%BA%8B%E8%BA%AB%E5%89%8D%E5%88%97%E2%80%A6%E2%80%A6htt%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[智譜](智譜.md), [模型](模型.md), [科技](科技.md), [美國](美國.md), [谷歌](谷歌.md)
+___
+##### 2026-08-12 08:49:07 UTC ~ TechNews 科技新報
+> RT @technews_tw: 曾獲蘋果與 Google 爭相網羅的 AI 天才楊植麟，創立月之暗面並打造出實力直逼美系頂尖水準的 Kimi 模型！ https://t.co/De1Ld2wQFV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%9B%BE%E7%8D%B2%E8%98%8B%E6%9E%9C%E8%88%87+Google+%E7%88%AD%E7%9B%B8%E7%B6%B2%E7%BE%85%E7%9A%84+AI+%E5%A4%A9%E6%89%8D%E6%A5%8A%E6%A4%8D%E9%BA%9F%EF%BC%8C%E5%89%B5%E7%AB%8B%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E4%B8%A6%E6%89%93%E9%80%A0%E5%87%BA%E5%AF%A6%E5%8A%9B%E7%9B%B4%E9%80%BC%E7%BE%8E%E7%B3%BB%E9%A0%82%E5%B0%96%E6%B0%B4%E6%BA%96%E7%9A%84+Kimi+%E6%A8%A1%E5%9E%8B%EF%BC%81+https%3A%2F%2Ft.co%2FDe1Ld2wQFV)
+##### Other Words/Names of Interest in the Above Tweet
+[打造](打造.md), [月之暗面](月之暗面.md), [模型](模型.md), [蘋果](蘋果.md)
+___
 ##### 2026-08-08 22:26:47 UTC ~ 何頻
 > RT @MJTVHoPin: Kimi K3突破測試沙盒，自行連上公開互聯網中國Moonshot AI最新開源權重模型 Kimi K3 在第三方網絡安全測試中，成功繞過原本用來隔離模型的「sandbox（沙盒）」環境，並自行連上公開互聯網取得外部資訊。Reuters 8月7…
 
@@ -245,7 +266,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [开发](开发.md), [杨植麟](杨植麟.md), [预算](预算.md)
 ___
-##### 2026-07-23 02:21:19 UTC ~ 日經中文網
+##### 2026-07-23 02:21:19 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Kimi讓美國AI面臨技術「大眾化」風險】美國的AI採取「封閉式」模式，希望通過向企業高價出售競爭對手沒有的最先進AI，再將利潤投入下一代AI研發，從而不斷擴大領先優勢。而中國AI 「Kimi K3」的出現，可能動搖這一商業模式………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Kimi%E8%AE%93%E7%BE%8E%E5%9C%8BAI%E9%9D%A2%E8%87%A8%E6%8A%80%E8%A1%93%E3%80%8C%E5%A4%A7%E7%9C%BE%E5%8C%96%E3%80%8D%E9%A2%A8%E9%9A%AA%E3%80%91%E7%BE%8E%E5%9C%8B%E7%9A%84AI%E6%8E%A1%E5%8F%96%E3%80%8C%E5%B0%81%E9%96%89%E5%BC%8F%E3%80%8D%E6%A8%A1%E5%BC%8F%EF%BC%8C%E5%B8%8C%E6%9C%9B%E9%80%9A%E9%81%8E%E5%90%91%E4%BC%81%E6%A5%AD%E9%AB%98%E5%83%B9%E5%87%BA%E5%94%AE%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E6%B2%92%E6%9C%89%E7%9A%84%E6%9C%80%E5%85%88%E9%80%B2AI%EF%BC%8C%E5%86%8D%E5%B0%87%E5%88%A9%E6%BD%A4%E6%8A%95%E5%85%A5%E4%B8%8B%E4%B8%80%E4%BB%A3AI%E7%A0%94%E7%99%BC%EF%BC%8C%E5%BE%9E%E8%80%8C%E4%B8%8D%E6%96%B7%E6%93%B4%E5%A4%A7%E9%A0%98%E5%85%88%E5%84%AA%E5%8B%A2%E3%80%82%E8%80%8C%E4%B8%AD%E5%9C%8BAI+%E3%80%8CKimi+K3%E3%80%8D%E7%9A%84%E5%87%BA%E7%8F%BE%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%8B%95%E6%90%96%E9%80%99%E4%B8%80%E5%95%86%E6%A5%AD%E6%A8%A1%E5%BC%8F%E2%80%A6%E2%80%A6%E2%80%A6)
@@ -467,13 +488,6 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
 ___
-##### 2026-07-17 23:54:09 UTC ~ Chong Wei 韦冲
-> RT @weichonginsight: 来自北京的月之暗面公司在7月16日发布了全新旗舰大模型 Kimi k3，是全球首个开源 3 万亿级大模型。100 万… https://t.co/V1OLN0ce7R
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40weichonginsight%3A+%E6%9D%A5%E8%87%AA%E5%8C%97%E4%BA%AC%E7%9A%84%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%85%AC%E5%8F%B8%E5%9C%A87%E6%9C%8816%E6%97%A5%E5%8F%91%E5%B8%83%E4%BA%86%E5%85%A8%E6%96%B0%E6%97%97%E8%88%B0%E5%A4%A7%E6%A8%A1%E5%9E%8B+Kimi+k3%EF%BC%8C%E6%98%AF%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E5%BC%80%E6%BA%90+3+%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%A4%A7%E6%A8%A1%E5%9E%8B%E3%80%82100+%E4%B8%87%E2%80%A6+https%3A%2F%2Ft.co%2FV1OLN0ce7R)
-##### Other Words/Names of Interest in the Above Tweet
-[北京](北京.md), [发布](发布.md), [开源](开源.md), [月之暗面](月之暗面.md), [来自](来自.md), [模型](模型.md)
-___
 ##### 2026-07-17 23:37:05 UTC ~ BlockBeats｜We're hiring!
 > RT @BlockBeatsAsia: Kimi为何能做出K3？月之暗面新成员杨新宇列出同行四宗罪🤥🤥① 傲慢：老牌团队认为AI战争已经结束，自己已经赢了，对未来和人才失去渴望。② 浮躁：年轻实验室基础不牢，只顾追赶前沿，追不上就匆忙转向其他赛道。③ 胆怯：一些团队经验…
 
@@ -530,7 +544,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Anthropic](Anthropic.md), [优势](优势.md), [估值](估值.md), [持续](持续.md), [模型](模型.md), [竞争](竞争.md), [维持](维持.md)
 ___
-##### 2026-03-19 00:41:43 UTC ~ 日經中文網
+##### 2026-03-19 00:41:43 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【中國AI「Kimi」：開源模型正在逼近最尖端】美國主要是以OpenAI為代表的閉源模型，中國則一直採用開源模型。開源和廉價的設計將推動中國AI在新興國家普及。月之暗面的「Kimi K2.5」因高性能而備受矚目，該公司的CEO指出，開源模…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8BAI%E3%80%8CKimi%E3%80%8D%EF%BC%9A%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%9C%A8%E9%80%BC%E8%BF%91%E6%9C%80%E5%B0%96%E7%AB%AF%E3%80%91%E7%BE%8E%E5%9C%8B%E4%B8%BB%E8%A6%81%E6%98%AF%E4%BB%A5OpenAI%E7%82%BA%E4%BB%A3%E8%A1%A8%E7%9A%84%E9%96%89%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%89%87%E4%B8%80%E7%9B%B4%E6%8E%A1%E7%94%A8%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%E3%80%82%E9%96%8B%E6%BA%90%E5%92%8C%E5%BB%89%E5%83%B9%E7%9A%84%E8%A8%AD%E8%A8%88%E5%B0%87%E6%8E%A8%E5%8B%95%E4%B8%AD%E5%9C%8BAI%E5%9C%A8%E6%96%B0%E8%88%88%E5%9C%8B%E5%AE%B6%E6%99%AE%E5%8F%8A%E3%80%82%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%9A%84%E3%80%8CKimi+K2.5%E3%80%8D%E5%9B%A0%E9%AB%98%E6%80%A7%E8%83%BD%E8%80%8C%E5%82%99%E5%8F%97%E7%9F%9A%E7%9B%AE%EF%BC%8C%E8%A9%B2%E5%85%AC%E5%8F%B8%E7%9A%84CEO%E6%8C%87%E5%87%BA%EF%BC%8C%E9%96%8B%E6%BA%90%E6%A8%A1%E2%80%A6)
@@ -544,7 +558,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [主导](主导.md), [发布](发布.md), [处理](处理.md), [开源](开源.md), [日趋](日趋.md), [月之暗面](月之暗面.md), [模型](模型.md), [激烈](激烈.md)
 ___
-##### 2026-01-26 01:27:34 UTC ~ 日經中文網
+##### 2026-01-26 01:27:34 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【DeepSeek衝擊一年，中國大語言模型超1500】DeepSeek在2025年1月給市場帶來衝擊。自那一年之後，中國的AI不斷增加。在美國企業的全球大語言模型排名中，Qwen（千問）、Kimi、MiniMax等中國AI上榜。美國的高科…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)

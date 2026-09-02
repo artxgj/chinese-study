@@ -7,12 +7,24 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2026-08-19 06:39:59 UTC ~ TechNews 科技新報
+> RT @technews_tw: macOS Tahoe 程式碼驚現 N109 代號！外界推測蘋果仍秘密開發第二代 Vision Pro 或新頭顯。 #VisionPro #蘋果頭顯 #macOS https://t.co/oOp1MFZ9Im
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+macOS+Tahoe+%E7%A8%8B%E5%BC%8F%E7%A2%BC%E9%A9%9A%E7%8F%BE+N109+%E4%BB%A3%E8%99%9F%EF%BC%81%E5%A4%96%E7%95%8C%E6%8E%A8%E6%B8%AC%E8%98%8B%E6%9E%9C%E4%BB%8D%E7%A7%98%E5%AF%86%E9%96%8B%E7%99%BC%E7%AC%AC%E4%BA%8C%E4%BB%A3+Vision+Pro+%E6%88%96%E6%96%B0%E9%A0%AD%E9%A1%AF%E3%80%82+%23VisionPro+%23%E8%98%8B%E6%9E%9C%E9%A0%AD%E9%A1%AF+%23macOS+https%3A%2F%2Ft.co%2FoOp1MFZ9Im)
+##### Other Words/Names of Interest in the Above Tweet
+[蘋果](蘋果.md), [開發](開發.md)
+___
 ##### 2026-08-09 07:53:33 UTC ~ Amto
 > RT @XAMTO_AI: 买完 Mac 别急着到处找软件下载！GitHub 上这个高星项目，把各类高质量的 macOS 应用全给整理好了，而且分类做得非常细。目前这个项目在 GitHub 上已经积累了 十万 Star！它采用 MIT 开源协议，基本可以说是目前全网比较全、…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XAMTO_AI%3A+%E4%B9%B0%E5%AE%8C+Mac+%E5%88%AB%E6%80%A5%E7%9D%80%E5%88%B0%E5%A4%84%E6%89%BE%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%EF%BC%81GitHub+%E4%B8%8A%E8%BF%99%E4%B8%AA%E9%AB%98%E6%98%9F%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%8A%8A%E5%90%84%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84+macOS+%E5%BA%94%E7%94%A8%E5%85%A8%E7%BB%99%E6%95%B4%E7%90%86%E5%A5%BD%E4%BA%86%EF%BC%8C%E8%80%8C%E4%B8%94%E5%88%86%E7%B1%BB%E5%81%9A%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%BB%86%E3%80%82%E7%9B%AE%E5%89%8D%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%9C%A8+GitHub+%E4%B8%8A%E5%B7%B2%E7%BB%8F%E7%A7%AF%E7%B4%AF%E4%BA%86+%E5%8D%81%E4%B8%87+Star%EF%BC%81%E5%AE%83%E9%87%87%E7%94%A8+MIT+%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%9F%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AF%E7%9B%AE%E5%89%8D%E5%85%A8%E7%BD%91%E6%AF%94%E8%BE%83%E5%85%A8%E3%80%81%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [Mac](Mac.md), [协议](协议.md), [开源](开源.md), [项目](项目.md)
+___
+##### 2026-08-03 11:32:22 UTC ~ HanziStroke | Chinese Characters
+> RT @Yark_Yao: 🧺 Doing Laundry 洗衣词汇🫧 洗衣机 xǐ yī jī — washing machine  ♨️ 烘干机 hōng gān jī — dryer  🧴 洗衣液 xǐ yī yè — laundry detergent  🌸…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Yark_Yao%3A+%F0%9F%A7%BA+Doing+Laundry+%E6%B4%97%E8%A1%A3%E8%AF%8D%E6%B1%87%F0%9F%AB%A7+%E6%B4%97%E8%A1%A3%E6%9C%BA+x%C7%90+y%C4%AB+j%C4%AB+%E2%80%94+washing+machine++%E2%99%A8%EF%B8%8F+%E7%83%98%E5%B9%B2%E6%9C%BA+h%C5%8Dng+g%C4%81n+j%C4%AB+%E2%80%94+dryer++%F0%9F%A7%B4+%E6%B4%97%E8%A1%A3%E6%B6%B2+x%C7%90+y%C4%AB+y%C3%A8+%E2%80%94+laundry+detergent++%F0%9F%8C%B8%E2%80%A6)
 ___
 ##### 2026-08-02 13:27:23 UTC ~ Geek
 > RT @geekbb: 让大疆第一代 4G 模块在 macOS 上无需虚拟机即可完成短信收发、eSIM Profile 管理、AT 指令调试和 USB 4G 上网。https://t.co/gHrCGmSFss https://t.co/KihCic6FHv
@@ -396,7 +408,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [客户](客户.md), [日本](日本.md), [美国](美国.md), [运河](运河.md)
 ___
-##### 2024-05-23 06:27:09 UTC ~ 日經中文網
+##### 2024-05-23 06:27:09 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【日本財務官：對競爭力下降抱有危機感】日本財務省財務官神田真人在G7財長和央行行長會議前接受日本經濟新聞採訪，就主要議題的烏克蘭重建資金來源，神田認為「應該由侵略者來支付」，呼籲由俄羅斯來承擔…… https://t.co/rfmack…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E8%B2%A1%E5%8B%99%E5%AE%98%EF%BC%9A%E5%B0%8D%E7%AB%B6%E7%88%AD%E5%8A%9B%E4%B8%8B%E9%99%8D%E6%8A%B1%E6%9C%89%E5%8D%B1%E6%A9%9F%E6%84%9F%E3%80%91%E6%97%A5%E6%9C%AC%E8%B2%A1%E5%8B%99%E7%9C%81%E8%B2%A1%E5%8B%99%E5%AE%98%E7%A5%9E%E7%94%B0%E7%9C%9F%E4%BA%BA%E5%9C%A8G7%E8%B2%A1%E9%95%B7%E5%92%8C%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%B7%E6%9C%83%E8%AD%B0%E5%89%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E%E6%8E%A1%E8%A8%AA%EF%BC%8C%E5%B0%B1%E4%B8%BB%E8%A6%81%E8%AD%B0%E9%A1%8C%E7%9A%84%E7%83%8F%E5%85%8B%E8%98%AD%E9%87%8D%E5%BB%BA%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90%EF%BC%8C%E7%A5%9E%E7%94%B0%E8%AA%8D%E7%82%BA%E3%80%8C%E6%87%89%E8%A9%B2%E7%94%B1%E4%BE%B5%E7%95%A5%E8%80%85%E4%BE%86%E6%94%AF%E4%BB%98%E3%80%8D%EF%BC%8C%E5%91%BC%E7%B1%B2%E7%94%B1%E4%BF%84%E7%BE%85%E6%96%AF%E4%BE%86%E6%89%BF%E6%93%94%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.co%2Frfmack%E2%80%A6)

@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2026-08-18 13:52:02 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 中国政府机构据报提前停用为其所定制的微软Windows 10操作系统。此举被视为北京进一步减少对外国科技的依赖。 https://t.co/kIFedlbkMi
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84%E6%8D%AE%E6%8A%A5%E6%8F%90%E5%89%8D%E5%81%9C%E7%94%A8%E4%B8%BA%E5%85%B6%E6%89%80%E5%AE%9A%E5%88%B6%E7%9A%84%E5%BE%AE%E8%BD%AFWindows+10%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%82%E6%AD%A4%E4%B8%BE%E8%A2%AB%E8%A7%86%E4%B8%BA%E5%8C%97%E4%BA%AC%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%87%8F%E5%B0%91%E5%AF%B9%E5%A4%96%E5%9B%BD%E7%A7%91%E6%8A%80%E7%9A%84%E4%BE%9D%E8%B5%96%E3%80%82+https%3A%2F%2Ft.co%2FkIFedlbkMi)
+##### Other Words/Names of Interest in the Above Tweet
+[依赖](依赖.md), [北京](北京.md), [微软](微软.md), [操作](操作.md), [机构](机构.md), [此举](此举.md), [科技](科技.md), [系统](系统.md)
+___
 ##### 2026-07-20 06:30:34 UTC ~ TechNews 科技新報
 > RT @technews_tw: #輝達 Windows AI PC 布局再加速！秋季上市的 RTX Spark 搶先釋出預覽版驅動程式與 CUDA 13.4，全面支援 Windows on Arm。 https://t.co/rGXxP1ojuT
 
@@ -28,7 +35,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [AMD](AMD.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [輝達](輝達.md), [黃仁勳](黃仁勳.md)
 ___
-##### 2026-06-02 05:51:24 UTC ~ 空空|Gate美股0费率
+##### 2026-06-02 05:51:24 UTC ~ 空空 | 美股合约首选Gate
 > RT @btcoindown: 黄仁勋在GTC Taipei主题演讲上掏出了RTX Spark。据说这科芯片就像Windows95改变PC一样，有了RTX Spark，你只需要提问，PC就会完成工作。这颗由英伟达与联发科联合开发、台积电3nm工艺制造的SoC，把20核G…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcoindown%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8GTC+Taipei%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E4%B8%8A%E6%8E%8F%E5%87%BA%E4%BA%86RTX+Spark%E3%80%82%E6%8D%AE%E8%AF%B4%E8%BF%99%E7%A7%91%E8%8A%AF%E7%89%87%E5%B0%B1%E5%83%8FWindows95%E6%94%B9%E5%8F%98PC%E4%B8%80%E6%A0%B7%EF%BC%8C%E6%9C%89%E4%BA%86RTX+Spark%EF%BC%8C%E4%BD%A0%E5%8F%AA%E9%9C%80%E8%A6%81%E6%8F%90%E9%97%AE%EF%BC%8CPC%E5%B0%B1%E4%BC%9A%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%E3%80%82%E8%BF%99%E9%A2%97%E7%94%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E8%81%94%E5%8F%91%E7%A7%91%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%B0%E7%A7%AF%E7%94%B53nm%E5%B7%A5%E8%89%BA%E5%88%B6%E9%80%A0%E7%9A%84SoC%EF%BC%8C%E6%8A%8A20%E6%A0%B8G%E2%80%A6)
@@ -222,7 +229,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [AMD](AMD.md), [北京](北京.md), [处理](处理.md), [微软](微软.md), [推出](推出.md), [操作](操作.md), [数据](数据.md), [服务器](服务器.md), [机构](机构.md), [系统](系统.md), [美国](美国.md), [英特尔](英特尔.md), [超微](超微.md), [逐步](逐步.md), [金](金.md), [金融](金融.md), [除了](除了.md)
 ___
-##### 2024-03-13 06:12:33 UTC ~ 日經中文網
+##### 2024-03-13 06:12:33 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【DRAM大單價格連續4個月上漲】DRAM的大宗交易價格2月環比上漲5％。2024年美國微軟的Windows 10操作系統將停止提供支持服務，預計會出現個人電腦更新需求。為了實現穩定採購，記憶體的買方接受了廠商的漲價要求……https:…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DRAM%E5%A4%A7%E5%96%AE%E5%83%B9%E6%A0%BC%E9%80%A3%E7%BA%8C4%E5%80%8B%E6%9C%88%E4%B8%8A%E6%BC%B2%E3%80%91DRAM%E7%9A%84%E5%A4%A7%E5%AE%97%E4%BA%A4%E6%98%93%E5%83%B9%E6%A0%BC2%E6%9C%88%E7%92%B0%E6%AF%94%E4%B8%8A%E6%BC%B25%EF%BC%85%E3%80%822024%E5%B9%B4%E7%BE%8E%E5%9C%8B%E5%BE%AE%E8%BB%9F%E7%9A%84Windows+10%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%B5%B1%E5%B0%87%E5%81%9C%E6%AD%A2%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8C%81%E6%9C%8D%E5%8B%99%EF%BC%8C%E9%A0%90%E8%A8%88%E6%9C%83%E5%87%BA%E7%8F%BE%E5%80%8B%E4%BA%BA%E9%9B%BB%E8%85%A6%E6%9B%B4%E6%96%B0%E9%9C%80%E6%B1%82%E3%80%82%E7%82%BA%E4%BA%86%E5%AF%A6%E7%8F%BE%E7%A9%A9%E5%AE%9A%E6%8E%A1%E8%B3%BC%EF%BC%8C%E8%A8%98%E6%86%B6%E9%AB%94%E7%9A%84%E8%B2%B7%E6%96%B9%E6%8E%A5%E5%8F%97%E4%BA%86%E5%BB%A0%E5%95%86%E7%9A%84%E6%BC%B2%E5%83%B9%E8%A6%81%E6%B1%82%E2%80%A6%E2%80%A6https%3A%E2%80%A6)
@@ -243,7 +250,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [微软](微软.md), [指出](指出.md), [支援](支援.md), [机构](机构.md), [科技](科技.md), [系统](系统.md), [美国](美国.md), [计划](计划.md)
 ___
-##### 2023-09-22 09:04:01 UTC ~ 日經中文網
+##### 2023-09-22 09:04:01 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【东京电玩展开幕，性能堪比PC的掌机引关注】此次除了软件之外，硬件也备受关注。尤其引人注目的是华硕的掌上游戏机“ROG Ally”。该机配备了微软的OS“Windows 11”和高性能半导体，号称性能与台式电脑不相上下。中国初创企业的掌上…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%9C%E4%BA%AC%E7%94%B5%E7%8E%A9%E5%B1%95%E5%BC%80%E5%B9%95%EF%BC%8C%E6%80%A7%E8%83%BD%E5%A0%AA%E6%AF%94PC%E7%9A%84%E6%8E%8C%E6%9C%BA%E5%BC%95%E5%85%B3%E6%B3%A8%E3%80%91%E6%AD%A4%E6%AC%A1%E9%99%A4%E4%BA%86%E8%BD%AF%E4%BB%B6%E4%B9%8B%E5%A4%96%EF%BC%8C%E7%A1%AC%E4%BB%B6%E4%B9%9F%E5%A4%87%E5%8F%97%E5%85%B3%E6%B3%A8%E3%80%82%E5%B0%A4%E5%85%B6%E5%BC%95%E4%BA%BA%E6%B3%A8%E7%9B%AE%E7%9A%84%E6%98%AF%E5%8D%8E%E7%A1%95%E7%9A%84%E6%8E%8C%E4%B8%8A%E6%B8%B8%E6%88%8F%E6%9C%BA%E2%80%9CROG+Ally%E2%80%9D%E3%80%82%E8%AF%A5%E6%9C%BA%E9%85%8D%E5%A4%87%E4%BA%86%E5%BE%AE%E8%BD%AF%E7%9A%84OS%E2%80%9CWindows+11%E2%80%9D%E5%92%8C%E9%AB%98%E6%80%A7%E8%83%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%EF%BC%8C%E5%8F%B7%E7%A7%B0%E6%80%A7%E8%83%BD%E4%B8%8E%E5%8F%B0%E5%BC%8F%E7%94%B5%E8%84%91%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B%E3%80%82%E4%B8%AD%E5%9B%BD%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E7%9A%84%E6%8E%8C%E4%B8%8A%E2%80%A6)
@@ -271,7 +278,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [巨头](巨头.md), [开发](开发.md), [微软](微软.md), [招募](招募.md), [招聘](招聘.md), [科技](科技.md), [程序](程序.md), [谨慎](谨慎.md), [速度](速度.md)
 ___
-##### 2022-01-04 02:26:24 UTC ~ 日經中文網
+##### 2022-01-04 02:26:24 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【丰田将对外销售自主车载操作系统】丰田正在开发车载操作系统“Arene”，可以说是Windows及iOS等的汽车版。Arene能够统一管理汽车加速和安全控制功能等，最早2025年实现实用化。丰田力争实现“平台”效应，掌握操作系统的行业标准…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%B0%E7%94%B0%E5%B0%86%E5%AF%B9%E5%A4%96%E9%94%80%E5%94%AE%E8%87%AA%E4%B8%BB%E8%BD%A6%E8%BD%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%91%E4%B8%B0%E7%94%B0%E6%AD%A3%E5%9C%A8%E5%BC%80%E5%8F%91%E8%BD%A6%E8%BD%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E2%80%9CArene%E2%80%9D%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AFWindows%E5%8F%8AiOS%E7%AD%89%E7%9A%84%E6%B1%BD%E8%BD%A6%E7%89%88%E3%80%82Arene%E8%83%BD%E5%A4%9F%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%92%8C%E5%AE%89%E5%85%A8%E6%8E%A7%E5%88%B6%E5%8A%9F%E8%83%BD%E7%AD%89%EF%BC%8C%E6%9C%80%E6%97%A92025%E5%B9%B4%E5%AE%9E%E7%8E%B0%E5%AE%9E%E7%94%A8%E5%8C%96%E3%80%82%E4%B8%B0%E7%94%B0%E5%8A%9B%E4%BA%89%E5%AE%9E%E7%8E%B0%E2%80%9C%E5%B9%B3%E5%8F%B0%E2%80%9D%E6%95%88%E5%BA%94%EF%BC%8C%E6%8E%8C%E6%8F%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86%E2%80%A6)

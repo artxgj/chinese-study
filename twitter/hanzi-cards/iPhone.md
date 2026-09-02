@@ -8,6 +8,97 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iPhone) for definition
 ### Tweets containing iPhone
 
 ___
+##### 2026-09-01 01:13:38 UTC ~ Star
+> RT @starbucks2018: 一睁眼，9.1开学季，苹果也换帅了。与库克的运营、供应链背景不同，特努斯是典型的“产品派”。Mac、iPad、AirPods、iPhone，他几乎参与了这些年苹果最重要的硬件产品线，最终执掌整个硬件工程部门。这次交接因此意味深长：苹果把权杖…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40starbucks2018%3A+%E4%B8%80%E7%9D%81%E7%9C%BC%EF%BC%8C9.1%E5%BC%80%E5%AD%A6%E5%AD%A3%EF%BC%8C%E8%8B%B9%E6%9E%9C%E4%B9%9F%E6%8D%A2%E5%B8%85%E4%BA%86%E3%80%82%E4%B8%8E%E5%BA%93%E5%85%8B%E7%9A%84%E8%BF%90%E8%90%A5%E3%80%81%E4%BE%9B%E5%BA%94%E9%93%BE%E8%83%8C%E6%99%AF%E4%B8%8D%E5%90%8C%EF%BC%8C%E7%89%B9%E5%8A%AA%E6%96%AF%E6%98%AF%E5%85%B8%E5%9E%8B%E7%9A%84%E2%80%9C%E4%BA%A7%E5%93%81%E6%B4%BE%E2%80%9D%E3%80%82Mac%E3%80%81iPad%E3%80%81AirPods%E3%80%81iPhone%EF%BC%8C%E4%BB%96%E5%87%A0%E4%B9%8E%E5%8F%82%E4%B8%8E%E4%BA%86%E8%BF%99%E4%BA%9B%E5%B9%B4%E8%8B%B9%E6%9E%9C%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E7%A1%AC%E4%BB%B6%E4%BA%A7%E5%93%81%E7%BA%BF%EF%BC%8C%E6%9C%80%E7%BB%88%E6%89%A7%E6%8E%8C%E6%95%B4%E4%B8%AA%E7%A1%AC%E4%BB%B6%E5%B7%A5%E7%A8%8B%E9%83%A8%E9%97%A8%E3%80%82%E8%BF%99%E6%AC%A1%E4%BA%A4%E6%8E%A5%E5%9B%A0%E6%AD%A4%E6%84%8F%E5%91%B3%E6%B7%B1%E9%95%BF%EF%BC%9A%E8%8B%B9%E6%9E%9C%E6%8A%8A%E6%9D%83%E6%9D%96%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [供应链](供应链.md), [因此](因此.md), [意味](意味.md), [苹果](苹果.md)
+___
+##### 2026-08-29 20:08:03 UTC ~ 李新宝
+> RT @lixinbao_X: iPhone 18史诗级预测：今年真正的主角，可能根本不是iPhone 18苹果已经官宣，北京时间9月10日凌晨1点举行秋季发布会，主题为“亮新篇，来耀眼”。但今年的产品线很可能和过去完全不同。目前较主流的爆料是：普通版iPhone…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+iPhone+18%E5%8F%B2%E8%AF%97%E7%BA%A7%E9%A2%84%E6%B5%8B%EF%BC%9A%E4%BB%8A%E5%B9%B4%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%BB%E8%A7%92%EF%BC%8C%E5%8F%AF%E8%83%BD%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AFiPhone+18%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%AE%98%E5%AE%A3%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B49%E6%9C%8810%E6%97%A5%E5%87%8C%E6%99%A81%E7%82%B9%E4%B8%BE%E8%A1%8C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%EF%BC%8C%E4%B8%BB%E9%A2%98%E4%B8%BA%E2%80%9C%E4%BA%AE%E6%96%B0%E7%AF%87%EF%BC%8C%E6%9D%A5%E8%80%80%E7%9C%BC%E2%80%9D%E3%80%82%E4%BD%86%E4%BB%8A%E5%B9%B4%E7%9A%84%E4%BA%A7%E5%93%81%E7%BA%BF%E5%BE%88%E5%8F%AF%E8%83%BD%E5%92%8C%E8%BF%87%E5%8E%BB%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%90%8C%E3%80%82%E7%9B%AE%E5%89%8D%E8%BE%83%E4%B8%BB%E6%B5%81%E7%9A%84%E7%88%86%E6%96%99%E6%98%AF%EF%BC%9A%E6%99%AE%E9%80%9A%E7%89%88iPhone%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[主角](主角.md), [北京](北京.md), [发布](发布.md), [苹果](苹果.md), [预测](预测.md)
+___
+##### 2026-08-29 02:58:55 UTC ~ 李新宝
+> RT @lixinbao_X: iPhone 18可能全线涨价，Pro Max起步价或直接冲到11999元今年想等 iPhone 18 的，预算可能真得往上提了。目前网传有两套定价预测，其中“激进版”涨幅非常明显：iPhone 18 标准版 256GB：涨约1000…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+iPhone+18%E5%8F%AF%E8%83%BD%E5%85%A8%E7%BA%BF%E6%B6%A8%E4%BB%B7%EF%BC%8CPro+Max%E8%B5%B7%E6%AD%A5%E4%BB%B7%E6%88%96%E7%9B%B4%E6%8E%A5%E5%86%B2%E5%88%B011999%E5%85%83%E4%BB%8A%E5%B9%B4%E6%83%B3%E7%AD%89+iPhone+18+%E7%9A%84%EF%BC%8C%E9%A2%84%E7%AE%97%E5%8F%AF%E8%83%BD%E7%9C%9F%E5%BE%97%E5%BE%80%E4%B8%8A%E6%8F%90%E4%BA%86%E3%80%82%E7%9B%AE%E5%89%8D%E7%BD%91%E4%BC%A0%E6%9C%89%E4%B8%A4%E5%A5%97%E5%AE%9A%E4%BB%B7%E9%A2%84%E6%B5%8B%EF%BC%8C%E5%85%B6%E4%B8%AD%E2%80%9C%E6%BF%80%E8%BF%9B%E7%89%88%E2%80%9D%E6%B6%A8%E5%B9%85%E9%9D%9E%E5%B8%B8%E6%98%8E%E6%98%BE%EF%BC%9AiPhone+18+%E6%A0%87%E5%87%86%E7%89%88+256GB%EF%BC%9A%E6%B6%A8%E7%BA%A61000%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[明显](明显.md), [涨](涨.md), [激进](激进.md), [直接](直接.md), [预测](预测.md), [预算](预算.md)
+___
+##### 2026-08-29 02:50:40 UTC ~ 李新宝
+> RT @lixinbao_X: 苹果史上最贵 iPhone 要来了：平均售价或达 1.7 万，新任 CEO 首秀就押注折叠屏据财联社报道，苹果秋季发布会已经定档 9 月 9 日，北京时间 9 月 10 日凌晨。这场发布会有两个大看点：一个是新任 CEO 约翰·特努斯…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+%E8%8B%B9%E6%9E%9C%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%B4%B5+iPhone+%E8%A6%81%E6%9D%A5%E4%BA%86%EF%BC%9A%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B7%E6%88%96%E8%BE%BE+1.7+%E4%B8%87%EF%BC%8C%E6%96%B0%E4%BB%BB+CEO+%E9%A6%96%E7%A7%80%E5%B0%B1%E6%8A%BC%E6%B3%A8%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%8D%AE%E8%B4%A2%E8%81%94%E7%A4%BE%E6%8A%A5%E9%81%93%EF%BC%8C%E8%8B%B9%E6%9E%9C%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E4%BC%9A%E5%B7%B2%E7%BB%8F%E5%AE%9A%E6%A1%A3+9+%E6%9C%88+9+%E6%97%A5%EF%BC%8C%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4+9+%E6%9C%88+10+%E6%97%A5%E5%87%8C%E6%99%A8%E3%80%82%E8%BF%99%E5%9C%BA%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E4%B8%A4%E4%B8%AA%E5%A4%A7%E7%9C%8B%E7%82%B9%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%98%AF%E6%96%B0%E4%BB%BB+CEO+%E7%BA%A6%E7%BF%B0%C2%B7%E7%89%B9%E5%8A%AA%E6%96%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[北京](北京.md), [发布](发布.md), [售价](售价.md), [押注](押注.md), [苹果](苹果.md)
+___
+##### 2026-08-29 02:46:04 UTC ~ 李新宝
+> RT @lixinbao_X: Apple Watch Ultra 4 曝光：可能更薄，还要塞进 Touch ID新一代 Apple Watch Ultra 4 有望在北京时间 9 月 10 日凌晨，与 iPhone 18 Pro、Apple Watch Series 12…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+Apple+Watch+Ultra+4+%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%9B%B4%E8%96%84%EF%BC%8C%E8%BF%98%E8%A6%81%E5%A1%9E%E8%BF%9B+Touch+ID%E6%96%B0%E4%B8%80%E4%BB%A3+Apple+Watch+Ultra+4+%E6%9C%89%E6%9C%9B%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4+9+%E6%9C%88+10+%E6%97%A5%E5%87%8C%E6%99%A8%EF%BC%8C%E4%B8%8E+iPhone+18+Pro%E3%80%81Apple+Watch+Series+12%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Apple](Apple.md), [北京](北京.md), [有望](有望.md)
+___
+##### 2026-08-27 02:59:19 UTC ~ 日经中文网/日經中文網
+> RT @rijingzhongwen: 【蘋果9月10日舉行新品發佈會，或推出折疊式iPhone】iPhone新機型的價格可能較現有機型大幅上漲……https://t.co/hAYDpB4EVf
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C9%E6%9C%8810%E6%97%A5%E8%88%89%E8%A1%8C%E6%96%B0%E5%93%81%E7%99%BC%E4%BD%88%E6%9C%83%EF%BC%8C%E6%88%96%E6%8E%A8%E5%87%BA%E6%8A%98%E7%96%8A%E5%BC%8FiPhone%E3%80%91iPhone%E6%96%B0%E6%A9%9F%E5%9E%8B%E7%9A%84%E5%83%B9%E6%A0%BC%E5%8F%AF%E8%83%BD%E8%BC%83%E7%8F%BE%E6%9C%89%E6%A9%9F%E5%9E%8B%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%BC%B2%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FhAYDpB4EVf)
+##### Other Words/Names of Interest in the Above Tweet
+[大幅](大幅.md), [推出](推出.md), [漲](漲.md), [蘋果](蘋果.md)
+___
+##### 2026-08-27 02:51:52 UTC ~ 日经中文网/日經中文網
+> RT @rijingzhongwen: 【苹果9月10日举行新品发布会，或推出折叠式iPhone】iPhone新机型的价格可能较现有机型大幅上涨……https://t.co/UlyDkmiptT
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C9%E6%9C%8810%E6%97%A5%E4%B8%BE%E8%A1%8C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%EF%BC%8C%E6%88%96%E6%8E%A8%E5%87%BA%E6%8A%98%E5%8F%A0%E5%BC%8FiPhone%E3%80%91iPhone%E6%96%B0%E6%9C%BA%E5%9E%8B%E7%9A%84%E4%BB%B7%E6%A0%BC%E5%8F%AF%E8%83%BD%E8%BE%83%E7%8E%B0%E6%9C%89%E6%9C%BA%E5%9E%8B%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FUlyDkmiptT)
+##### Other Words/Names of Interest in the Above Tweet
+[价格](价格.md), [发布](发布.md), [大幅](大幅.md), [折叠式](折叠式.md), [推出](推出.md), [涨](涨.md), [苹果](苹果.md)
+___
+##### 2026-08-24 09:00:33 UTC ~ TechNews 科技新報
+> RT @technews_tw: 預計九月登場引爆市場關注！蘋果首款摺疊 iPhone 蓄勢待發，重拾久違創新魅力。 #摺疊iPhone #蘋果新品 #智慧手機 https://t.co/oegnnETfql
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E9%A0%90%E8%A8%88%E4%B9%9D%E6%9C%88%E7%99%BB%E5%A0%B4%E5%BC%95%E7%88%86%E5%B8%82%E5%A0%B4%E9%97%9C%E6%B3%A8%EF%BC%81%E8%98%8B%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%91%BA%E7%96%8A+iPhone+%E8%93%84%E5%8B%A2%E5%BE%85%E7%99%BC%EF%BC%8C%E9%87%8D%E6%8B%BE%E4%B9%85%E9%81%95%E5%89%B5%E6%96%B0%E9%AD%85%E5%8A%9B%E3%80%82+%23%E6%91%BA%E7%96%8AiPhone+%23%E8%98%8B%E6%9E%9C%E6%96%B0%E5%93%81+%23%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F+https%3A%2F%2Ft.co%2FoegnnETfql)
+##### Other Words/Names of Interest in the Above Tweet
+[引爆](引爆.md), [蘋果](蘋果.md), [預計](預計.md)
+___
+##### 2026-08-18 13:52:40 UTC ~ FTChinese
+> RT @FTChinese: 【反垄断攻势开始冲击苹果1000亿美元的服务业务】法院裁决和App Store新规开始对这家iPhone制造商颇为赚钱的增长引擎造成压力。https://t.co/d7EsjpWu6C https://t.co/aaak96znWK
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40FTChinese%3A+%E3%80%90%E5%8F%8D%E5%9E%84%E6%96%AD%E6%94%BB%E5%8A%BF%E5%BC%80%E5%A7%8B%E5%86%B2%E5%87%BB%E8%8B%B9%E6%9E%9C1000%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E6%9C%8D%E5%8A%A1%E4%B8%9A%E5%8A%A1%E3%80%91%E6%B3%95%E9%99%A2%E8%A3%81%E5%86%B3%E5%92%8CApp+Store%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E5%AF%B9%E8%BF%99%E5%AE%B6iPhone%E5%88%B6%E9%80%A0%E5%95%86%E9%A2%87%E4%B8%BA%E8%B5%9A%E9%92%B1%E7%9A%84%E5%A2%9E%E9%95%BF%E5%BC%95%E6%93%8E%E9%80%A0%E6%88%90%E5%8E%8B%E5%8A%9B%E3%80%82https%3A%2F%2Ft.co%2Fd7EsjpWu6C+https%3A%2F%2Ft.co%2Faaak96znWK)
+##### Other Words/Names of Interest in the Above Tweet
+[冲击](冲击.md), [压力](压力.md), [反垄断](反垄断.md), [垄断](垄断.md), [增长](增长.md), [引擎](引擎.md), [攻势](攻势.md), [苹果](苹果.md), [裁决](裁决.md), [赚钱](赚钱.md)
+___
+##### 2026-08-17 13:06:24 UTC ~ TechNews 科技新報
+> RT @technews_tw: #記憶體 價格飆漲與日圓貶值，推升日本 iPhone 新機價格調漲約 1 成。 https://t.co/dPPwF3cYjd
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%A8%98%E6%86%B6%E9%AB%94+%E5%83%B9%E6%A0%BC%E9%A3%86%E6%BC%B2%E8%88%87%E6%97%A5%E5%9C%93%E8%B2%B6%E5%80%BC%EF%BC%8C%E6%8E%A8%E5%8D%87%E6%97%A5%E6%9C%AC+iPhone+%E6%96%B0%E6%A9%9F%E5%83%B9%E6%A0%BC%E8%AA%BF%E6%BC%B2%E7%B4%84+1+%E6%88%90%E3%80%82+https%3A%2F%2Ft.co%2FdPPwF3cYjd)
+##### Other Words/Names of Interest in the Above Tweet
+[日本](日本.md), [漲](漲.md), [記憶體](記憶體.md), [貶值](貶值.md)
+___
+##### 2026-08-13 08:57:29 UTC ~ 娜美知识库
+> RT @fhwofjow51260: iPhone 改定位居然可以这么简单：不用越狱、不用 Mac，导入一个模块就能搞定。这个开源项目 iOS Location Spoofer，利用代理软件的 HTTPS 解密能力，修改 Apple 返回给 iPhone 的 WiFi 和基…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fhwofjow51260%3A+iPhone+%E6%94%B9%E5%AE%9A%E4%BD%8D%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%9A%E4%B8%8D%E7%94%A8%E8%B6%8A%E7%8B%B1%E3%80%81%E4%B8%8D%E7%94%A8+Mac%EF%BC%8C%E5%AF%BC%E5%85%A5%E4%B8%80%E4%B8%AA%E6%A8%A1%E5%9D%97%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E3%80%82%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE+iOS+Location+Spoofer%EF%BC%8C%E5%88%A9%E7%94%A8%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6%E7%9A%84+HTTPS+%E8%A7%A3%E5%AF%86%E8%83%BD%E5%8A%9B%EF%BC%8C%E4%BF%AE%E6%94%B9+Apple+%E8%BF%94%E5%9B%9E%E7%BB%99+iPhone+%E7%9A%84+WiFi+%E5%92%8C%E5%9F%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Apple](Apple.md), [Mac](Mac.md), [iOS](iOS.md), [开源](开源.md), [项目](项目.md)
+___
+##### 2026-08-11 14:26:13 UTC ~ TechNews 科技新報
+> RT @technews_tw: Jefferies 大砍蘋果評等！全玻璃 iPhone 傳因良率過低喊卡，目標價創華爾街新低。 #蘋果 #iPhone #Jefferies https://t.co/r7whhAaqg8
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+Jefferies+%E5%A4%A7%E7%A0%8D%E8%98%8B%E6%9E%9C%E8%A9%95%E7%AD%89%EF%BC%81%E5%85%A8%E7%8E%BB%E7%92%83+iPhone+%E5%82%B3%E5%9B%A0%E8%89%AF%E7%8E%87%E9%81%8E%E4%BD%8E%E5%96%8A%E5%8D%A1%EF%BC%8C%E7%9B%AE%E6%A8%99%E5%83%B9%E5%89%B5%E8%8F%AF%E7%88%BE%E8%A1%97%E6%96%B0%E4%BD%8E%E3%80%82+%23%E8%98%8B%E6%9E%9C+%23iPhone+%23Jefferies+https%3A%2F%2Ft.co%2Fr7whhAaqg8)
+##### Other Words/Names of Interest in the Above Tweet
+[玻璃](玻璃.md), [蘋果](蘋果.md)
+___
+##### 2026-08-10 15:36:44 UTC ~ lumxss
+> RT @bkdgiffug: 改iPhone定位，以前要么插电脑、要么冒险越狱，普通人基本劝退。现在不用了—手机端直接操作，wloc这个开源项目让你网络定位秒切全球。🔗 https://t.co/a2efxDPYle https://t.co/SrbKFoCJlB
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40bkdgiffug%3A+%E6%94%B9iPhone%E5%AE%9A%E4%BD%8D%EF%BC%8C%E4%BB%A5%E5%89%8D%E8%A6%81%E4%B9%88%E6%8F%92%E7%94%B5%E8%84%91%E3%80%81%E8%A6%81%E4%B9%88%E5%86%92%E9%99%A9%E8%B6%8A%E7%8B%B1%EF%BC%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E5%9F%BA%E6%9C%AC%E5%8A%9D%E9%80%80%E3%80%82%E7%8E%B0%E5%9C%A8%E4%B8%8D%E7%94%A8%E4%BA%86%E2%80%94%E6%89%8B%E6%9C%BA%E7%AB%AF%E7%9B%B4%E6%8E%A5%E6%93%8D%E4%BD%9C%EF%BC%8Cwloc%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E8%AE%A9%E4%BD%A0%E7%BD%91%E7%BB%9C%E5%AE%9A%E4%BD%8D%E7%A7%92%E5%88%87%E5%85%A8%E7%90%83%E3%80%82%F0%9F%94%97+https%3A%2F%2Ft.co%2Fa2efxDPYle+https%3A%2F%2Ft.co%2FSrbKFoCJlB)
+##### Other Words/Names of Interest in the Above Tweet
+[冒险](冒险.md), [开源](开源.md), [操作](操作.md), [直接](直接.md), [项目](项目.md)
+___
 ##### 2026-08-08 02:06:08 UTC ~ TechNews 科技新報
 > RT @technews_tw: #DRAM 缺貨潮席捲半導體！#台積電 為蘋果 iPhone 18 Pro 打造的 2 奈米 A20 Pro 晶片進展順利，卻傳出因記憶體短缺，導致高達 10 億美元的晶片積壓廠內無法封裝。 https://t.co/5mI1hbTIxP
 
@@ -36,7 +127,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [影响](影响.md), [投资](投资.md), [热潮](热潮.md), [程度](程度.md), [美国](美国.md), [脆弱](脆弱.md), [购买](购买.md), [逐渐](逐渐.md)
 ___
-##### 2026-08-03 14:31:20 UTC ~ AirTouch
+##### 2026-08-03 14:31:20 UTC ~ 
 > RT @airtouch97: iPhone 现在已经可以不用电脑、不用尾插、不越狱改定位了。通过这样可以很轻松的开启满血版地图、高血压检测、wifi calling 等功能。很多人还不知道，其实只需要一个开源项目 + Shadowrocket，5 分钟就能完成配置。整个方…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40airtouch97%3A+iPhone+%E7%8E%B0%E5%9C%A8%E5%B7%B2%E7%BB%8F%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%94%A8%E7%94%B5%E8%84%91%E3%80%81%E4%B8%8D%E7%94%A8%E5%B0%BE%E6%8F%92%E3%80%81%E4%B8%8D%E8%B6%8A%E7%8B%B1%E6%94%B9%E5%AE%9A%E4%BD%8D%E4%BA%86%E3%80%82%E9%80%9A%E8%BF%87%E8%BF%99%E6%A0%B7%E5%8F%AF%E4%BB%A5%E5%BE%88%E8%BD%BB%E6%9D%BE%E7%9A%84%E5%BC%80%E5%90%AF%E6%BB%A1%E8%A1%80%E7%89%88%E5%9C%B0%E5%9B%BE%E3%80%81%E9%AB%98%E8%A1%80%E5%8E%8B%E6%A3%80%E6%B5%8B%E3%80%81wifi+calling+%E7%AD%89%E5%8A%9F%E8%83%BD%E3%80%82%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%BF%98%E4%B8%8D%E7%9F%A5%E9%81%93%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE+%2B+Shadowrocket%EF%BC%8C5+%E5%88%86%E9%92%9F%E5%B0%B1%E8%83%BD%E5%AE%8C%E6%88%90%E9%85%8D%E7%BD%AE%E3%80%82%E6%95%B4%E4%B8%AA%E6%96%B9%E2%80%A6)
@@ -244,7 +335,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [不仅](不仅.md), [发布](发布.md), [数据](数据.md), [核心](核心.md), [涵盖](涵盖.md), [系列](系列.md), [芯片](芯片.md), [苹果](苹果.md), [跌](跌.md), [零部件](零部件.md)
 ___
-##### 2026-07-04 18:21:02 UTC ~ 空空|Gate美股0费率
+##### 2026-07-04 18:21:02 UTC ~ 空空 | 美股合约首选Gate
 > RT @btcoindown: 华强北震撼首发iPhone 18 ProMax，还是得感谢印度啊，华强北再次领先全球。就是不知道能不能把价格打下来，让家人们都用上iPhone 18 https://t.co/0W4ogekfvH
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcoindown%3A+%E5%8D%8E%E5%BC%BA%E5%8C%97%E9%9C%87%E6%92%BC%E9%A6%96%E5%8F%91iPhone+18+ProMax%EF%BC%8C%E8%BF%98%E6%98%AF%E5%BE%97%E6%84%9F%E8%B0%A2%E5%8D%B0%E5%BA%A6%E5%95%8A%EF%BC%8C%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%86%8D%E6%AC%A1%E9%A2%86%E5%85%88%E5%85%A8%E7%90%83%E3%80%82%E5%B0%B1%E6%98%AF%E4%B8%8D%E7%9F%A5%E9%81%93%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8A%8A%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%EF%BC%8C%E8%AE%A9%E5%AE%B6%E4%BA%BA%E4%BB%AC%E9%83%BD%E7%94%A8%E4%B8%8AiPhone+18+https%3A%2F%2Ft.co%2F0W4ogekfvH)
@@ -412,7 +503,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [包括](包括.md), [华为](华为.md), [推出](推出.md), [瞄准](瞄准.md), [系列](系列.md), [设计](设计.md)
 ___
-##### 2026-04-16 04:30:43 UTC ~ 日經中文網
+##### 2026-04-16 04:30:43 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【OPPO首次在日本推出折疊屏手機Find N6】OPPO Find N6的建議零售價格為31萬8000日元（512GB，約合人民幣1萬3641元），這是OPPO售價最高的智慧手機。蘋果預計將在年內發售折疊屏iPhone，OPPO似乎有意…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90OPPO%E9%A6%96%E6%AC%A1%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%8E%A8%E5%87%BA%E6%8A%98%E7%96%8A%E5%B1%8F%E6%89%8B%E6%A9%9FFind+N6%E3%80%91OPPO+Find+N6%E7%9A%84%E5%BB%BA%E8%AD%B0%E9%9B%B6%E5%94%AE%E5%83%B9%E6%A0%BC%E7%82%BA31%E8%90%AC8000%E6%97%A5%E5%85%83%EF%BC%88512GB%EF%BC%8C%E7%B4%84%E5%90%88%E4%BA%BA%E6%B0%91%E5%B9%A31%E8%90%AC3641%E5%85%83%EF%BC%89%EF%BC%8C%E9%80%99%E6%98%AFOPPO%E5%94%AE%E5%83%B9%E6%9C%80%E9%AB%98%E7%9A%84%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E3%80%82%E8%98%8B%E6%9E%9C%E9%A0%90%E8%A8%88%E5%B0%87%E5%9C%A8%E5%B9%B4%E5%85%A7%E7%99%BC%E5%94%AE%E6%8A%98%E7%96%8A%E5%B1%8FiPhone%EF%BC%8COPPO%E4%BC%BC%E4%B9%8E%E6%9C%89%E6%84%8F%E2%80%A6)
@@ -606,7 +697,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Gemini](Gemini.md), [交易](交易.md), [市值](市值.md), [模型](模型.md), [突破](突破.md), [苹果](苹果.md), [谷歌](谷歌.md)
 ___
-##### 2026-01-07 03:09:01 UTC ~ 日經中文網
+##### 2026-01-07 03:09:01 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TDK將在中國工廠量産矽基負極手機電池】iPhone Air機身厚度僅5.6毫米，矽基負極電池已成為超薄手機不可或缺的配置。TDK在全球智慧手機電池市場上的份額排在首位，其研發與量産動向一直備受行業人士及投資者關注……  https…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TDK%E5%B0%87%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%B7%A5%E5%BB%A0%E9%87%8F%E7%94%A3%E7%9F%BD%E5%9F%BA%E8%B2%A0%E6%A5%B5%E6%89%8B%E6%A9%9F%E9%9B%BB%E6%B1%A0%E3%80%91iPhone+Air%E6%A9%9F%E8%BA%AB%E5%8E%9A%E5%BA%A6%E5%83%855.6%E6%AF%AB%E7%B1%B3%EF%BC%8C%E7%9F%BD%E5%9F%BA%E8%B2%A0%E6%A5%B5%E9%9B%BB%E6%B1%A0%E5%B7%B2%E6%88%90%E7%82%BA%E8%B6%85%E8%96%84%E6%89%8B%E6%A9%9F%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA%E7%9A%84%E9%85%8D%E7%BD%AE%E3%80%82TDK%E5%9C%A8%E5%85%A8%E7%90%83%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E9%9B%BB%E6%B1%A0%E5%B8%82%E5%A0%B4%E4%B8%8A%E7%9A%84%E4%BB%BD%E9%A1%8D%E6%8E%92%E5%9C%A8%E9%A6%96%E4%BD%8D%EF%BC%8C%E5%85%B6%E7%A0%94%E7%99%BC%E8%88%87%E9%87%8F%E7%94%A3%E5%8B%95%E5%90%91%E4%B8%80%E7%9B%B4%E5%82%99%E5%8F%97%E8%A1%8C%E6%A5%AD%E4%BA%BA%E5%A3%AB%E5%8F%8A%E6%8A%95%E8%B3%87%E8%80%85%E9%97%9C%E6%B3%A8%E2%80%A6%E2%80%A6++https%E2%80%A6)
@@ -662,14 +753,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [削减](削减.md), [发布](发布.md), [受欢迎](受欢迎.md), [有望](有望.md), [苹果](苹果.md), [透露](透露.md), [销售](销售.md)
 ___
-##### 2025-11-03 03:23:53 UTC ~ 日經中文網
+##### 2025-11-03 03:23:53 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【蘋果發虎威，避免關稅影響實現增長】蘋果公司7～9月營業收入比去年同期增長8%，美國蘋果公司對川普政府的遊説活動已開始取得成果。與iPhone相關的關稅影響因中美達成協定而正在緩和。而此前川普的關稅政策動搖了蘋果此前花時間構建的國際分工體…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E7%99%BC%E8%99%8E%E5%A8%81%EF%BC%8C%E9%81%BF%E5%85%8D%E9%97%9C%E7%A8%85%E5%BD%B1%E9%9F%BF%E5%AF%A6%E7%8F%BE%E5%A2%9E%E9%95%B7%E3%80%91%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B87%EF%BD%9E9%E6%9C%88%E7%87%9F%E6%A5%AD%E6%94%B6%E5%85%A5%E6%AF%94%E5%8E%BB%E5%B9%B4%E5%90%8C%E6%9C%9F%E5%A2%9E%E9%95%B78%25%EF%BC%8C%E7%BE%8E%E5%9C%8B%E8%98%8B%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B0%8D%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E7%9A%84%E9%81%8A%E8%AA%AC%E6%B4%BB%E5%8B%95%E5%B7%B2%E9%96%8B%E5%A7%8B%E5%8F%96%E5%BE%97%E6%88%90%E6%9E%9C%E3%80%82%E8%88%87iPhone%E7%9B%B8%E9%97%9C%E7%9A%84%E9%97%9C%E7%A8%85%E5%BD%B1%E9%9F%BF%E5%9B%A0%E4%B8%AD%E7%BE%8E%E9%81%94%E6%88%90%E5%8D%94%E5%AE%9A%E8%80%8C%E6%AD%A3%E5%9C%A8%E7%B7%A9%E5%92%8C%E3%80%82%E8%80%8C%E6%AD%A4%E5%89%8D%E5%B7%9D%E6%99%AE%E7%9A%84%E9%97%9C%E7%A8%85%E6%94%BF%E7%AD%96%E5%8B%95%E6%90%96%E4%BA%86%E8%98%8B%E6%9E%9C%E6%AD%A4%E5%89%8D%E8%8A%B1%E6%99%82%E9%96%93%E6%A7%8B%E5%BB%BA%E7%9A%84%E5%9C%8B%E9%9A%9B%E5%88%86%E5%B7%A5%E9%AB%94%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [川普](川普.md), [影響](影響.md), [收入](收入.md), [政策](政策.md), [美國](美國.md), [蘋果](蘋果.md), [達成](達成.md), [關稅](關稅.md)
 ___
-##### 2025-10-31 07:42:41 UTC ~ 日經中文網
+##### 2025-10-31 07:42:41 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone17熱銷，蘋果7～9月凈利潤增長86%】銷售額和每股利潤均超過市場預期。在盤前盤後交易中，股價一度上漲約4%…… https://t.co/JlDhjNnvKV
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone17%E7%86%B1%E9%8A%B7%EF%BC%8C%E8%98%8B%E6%9E%9C7%EF%BD%9E9%E6%9C%88%E5%87%88%E5%88%A9%E6%BD%A4%E5%A2%9E%E9%95%B786%25%E3%80%91%E9%8A%B7%E5%94%AE%E9%A1%8D%E5%92%8C%E6%AF%8F%E8%82%A1%E5%88%A9%E6%BD%A4%E5%9D%87%E8%B6%85%E9%81%8E%E5%B8%82%E5%A0%B4%E9%A0%90%E6%9C%9F%E3%80%82%E5%9C%A8%E7%9B%A4%E5%89%8D%E7%9B%A4%E5%BE%8C%E4%BA%A4%E6%98%93%E4%B8%AD%EF%BC%8C%E8%82%A1%E5%83%B9%E4%B8%80%E5%BA%A6%E4%B8%8A%E6%BC%B2%E7%B4%844%25%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.co%2FJlDhjNnvKV)
@@ -725,7 +816,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [强劲](强劲.md), [掀起](掀起.md), [推动](推动.md), [有望](有望.md), [疫情](疫情.md), [系列](系列.md), [苹果](苹果.md), [营收](营收.md)
 ___
-##### 2025-10-16 03:28:22 UTC ~ 日經中文網
+##### 2025-10-16 03:28:22 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【拆解iPhone Air】打開Air的機身外殼，最顯眼的是呈不規則形狀的電池。16 Plus的電池為長方形，而Air採用了不規則形狀的特殊封裝電池。「作為電池來説，這是一種很難製作的形狀」，電池負極材料採用了矽而不是傳統的石墨，使Air…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%8B%86%E8%A7%A3iPhone+Air%E3%80%91%E6%89%93%E9%96%8BAir%E7%9A%84%E6%A9%9F%E8%BA%AB%E5%A4%96%E6%AE%BC%EF%BC%8C%E6%9C%80%E9%A1%AF%E7%9C%BC%E7%9A%84%E6%98%AF%E5%91%88%E4%B8%8D%E8%A6%8F%E5%89%87%E5%BD%A2%E7%8B%80%E7%9A%84%E9%9B%BB%E6%B1%A0%E3%80%8216+Plus%E7%9A%84%E9%9B%BB%E6%B1%A0%E7%82%BA%E9%95%B7%E6%96%B9%E5%BD%A2%EF%BC%8C%E8%80%8CAir%E6%8E%A1%E7%94%A8%E4%BA%86%E4%B8%8D%E8%A6%8F%E5%89%87%E5%BD%A2%E7%8B%80%E7%9A%84%E7%89%B9%E6%AE%8A%E5%B0%81%E8%A3%9D%E9%9B%BB%E6%B1%A0%E3%80%82%E3%80%8C%E4%BD%9C%E7%82%BA%E9%9B%BB%E6%B1%A0%E4%BE%86%E8%AA%AC%EF%BC%8C%E9%80%99%E6%98%AF%E4%B8%80%E7%A8%AE%E5%BE%88%E9%9B%A3%E8%A3%BD%E4%BD%9C%E7%9A%84%E5%BD%A2%E7%8B%80%E3%80%8D%EF%BC%8C%E9%9B%BB%E6%B1%A0%E8%B2%A0%E6%A5%B5%E6%9D%90%E6%96%99%E6%8E%A1%E7%94%A8%E4%BA%86%E7%9F%BD%E8%80%8C%E4%B8%8D%E6%98%AF%E5%82%B3%E7%B5%B1%E7%9A%84%E7%9F%B3%E5%A2%A8%EF%BC%8C%E4%BD%BFAir%E2%80%A6)
@@ -893,7 +984,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [关税](关税.md), [涨](涨.md), [爆发](爆发.md), [税](税.md), [苹果](苹果.md), [预测](预测.md)
 ___
-##### 2025-09-10 06:15:37 UTC ~ 日經中文網
+##### 2025-09-10 06:15:37 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【史上最薄iPhone發佈，日本售價多少？】首次加入産品線的「Air」厚度為5.6毫米，為歷代iPhone中最薄。Air和其餘3款新機型在日本均僅支援eSIM。Air的日本售價為15萬9800日元起，其餘3款的同存儲容量機型的日本價格受日…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84iPhone%E7%99%BC%E4%BD%88%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E5%A4%9A%E5%B0%91%EF%BC%9F%E3%80%91%E9%A6%96%E6%AC%A1%E5%8A%A0%E5%85%A5%E7%94%A3%E5%93%81%E7%B7%9A%E7%9A%84%E3%80%8CAir%E3%80%8D%E5%8E%9A%E5%BA%A6%E7%82%BA5.6%E6%AF%AB%E7%B1%B3%EF%BC%8C%E7%82%BA%E6%AD%B7%E4%BB%A3iPhone%E4%B8%AD%E6%9C%80%E8%96%84%E3%80%82Air%E5%92%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E6%96%B0%E6%A9%9F%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%87%E5%83%85%E6%94%AF%E6%8F%B4eSIM%E3%80%82Air%E7%9A%84%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E7%82%BA15%E8%90%AC9800%E6%97%A5%E5%85%83%E8%B5%B7%EF%BC%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E7%9A%84%E5%90%8C%E5%AD%98%E5%84%B2%E5%AE%B9%E9%87%8F%E6%A9%9F%E5%9E%8B%E7%9A%84%E6%97%A5%E6%9C%AC%E5%83%B9%E6%A0%BC%E5%8F%97%E6%97%A5%E2%80%A6)
@@ -942,7 +1033,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [加州](加州.md), [升级](升级.md), [发布](发布.md), [推出](推出.md), [系列](系列.md), [苹果](苹果.md)
 ___
-##### 2025-09-10 04:04:13 UTC ~ 日經中文網
+##### 2025-09-10 04:04:13 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【史上最薄iPhone發佈，日本售價多少？】首次加入産品線的「Air」厚度為5.6毫米，是歷代iPhone中最薄。Air和其餘3款新機型在日本均僅支援eSIM。Air的日本售價為15萬9800日元起，其餘3款的同存儲容量機型的日本價格受日…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84iPhone%E7%99%BC%E4%BD%88%EF%BC%8C%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E5%A4%9A%E5%B0%91%EF%BC%9F%E3%80%91%E9%A6%96%E6%AC%A1%E5%8A%A0%E5%85%A5%E7%94%A3%E5%93%81%E7%B7%9A%E7%9A%84%E3%80%8CAir%E3%80%8D%E5%8E%9A%E5%BA%A6%E7%82%BA5.6%E6%AF%AB%E7%B1%B3%EF%BC%8C%E6%98%AF%E6%AD%B7%E4%BB%A3iPhone%E4%B8%AD%E6%9C%80%E8%96%84%E3%80%82Air%E5%92%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E6%96%B0%E6%A9%9F%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%87%E5%83%85%E6%94%AF%E6%8F%B4eSIM%E3%80%82Air%E7%9A%84%E6%97%A5%E6%9C%AC%E5%94%AE%E5%83%B9%E7%82%BA15%E8%90%AC9800%E6%97%A5%E5%85%83%E8%B5%B7%EF%BC%8C%E5%85%B6%E9%A4%983%E6%AC%BE%E7%9A%84%E5%90%8C%E5%AD%98%E5%84%B2%E5%AE%B9%E9%87%8F%E6%A9%9F%E5%9E%8B%E7%9A%84%E6%97%A5%E6%9C%AC%E5%83%B9%E6%A0%BC%E5%8F%97%E6%97%A5%E2%80%A6)
@@ -1047,7 +1138,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [分析](分析.md), [分析师](分析师.md), [苹果](苹果.md), [营收](营收.md), [预计](预计.md)
 ___
-##### 2025-07-30 01:31:39 UTC ~ 日經中文網
+##### 2025-07-30 01:31:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【面向美國的智慧手機出貨量：印度首次超過中國】在2025年4～6月出貨至美國的智慧手機中，44％由印度生産，首次超過中國位居第一。中國對美智慧手機出貨比例僅佔25％，較2024年同期的61％大幅下降。蘋果正在將iPhone的組裝從中國向印…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%9D%A2%E5%90%91%E7%BE%8E%E5%9C%8B%E7%9A%84%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%87%BA%E8%B2%A8%E9%87%8F%EF%BC%9A%E5%8D%B0%E5%BA%A6%E9%A6%96%E6%AC%A1%E8%B6%85%E9%81%8E%E4%B8%AD%E5%9C%8B%E3%80%91%E5%9C%A82025%E5%B9%B44%EF%BD%9E6%E6%9C%88%E5%87%BA%E8%B2%A8%E8%87%B3%E7%BE%8E%E5%9C%8B%E7%9A%84%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E4%B8%AD%EF%BC%8C44%EF%BC%85%E7%94%B1%E5%8D%B0%E5%BA%A6%E7%94%9F%E7%94%A3%EF%BC%8C%E9%A6%96%E6%AC%A1%E8%B6%85%E9%81%8E%E4%B8%AD%E5%9C%8B%E4%BD%8D%E5%B1%85%E7%AC%AC%E4%B8%80%E3%80%82%E4%B8%AD%E5%9C%8B%E5%B0%8D%E7%BE%8E%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%87%BA%E8%B2%A8%E6%AF%94%E4%BE%8B%E5%83%85%E4%BD%9425%EF%BC%85%EF%BC%8C%E8%BC%832024%E5%B9%B4%E5%90%8C%E6%9C%9F%E7%9A%8461%EF%BC%85%E5%A4%A7%E5%B9%85%E4%B8%8B%E9%99%8D%E3%80%82%E8%98%8B%E6%9E%9C%E6%AD%A3%E5%9C%A8%E5%B0%87iPhone%E7%9A%84%E7%B5%84%E8%A3%9D%E5%BE%9E%E4%B8%AD%E5%9C%8B%E5%90%91%E5%8D%B0%E2%80%A6)
@@ -1061,7 +1152,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [特朗普](特朗普.md), [美國](美國.md), [蘋果](蘋果.md)
 ___
-##### 2025-07-18 06:00:06 UTC ~ 日經中文網
+##### 2025-07-18 06:00:06 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【鏈接——iPhone神話在中國破滅】2024年iPhone中國出貨量同比減少2成，1年內減少900萬部。但蘋果仍難以擺脫依賴中國的窘境。原因是華為和小米等崛起，中國已成為全球手機技術的發源地。反觀蘋果，創新停滯、未能開拓新興市場，還面臨…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%8F%88%E6%8E%A5%E2%80%94%E2%80%94iPhone%E7%A5%9E%E8%A9%B1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%A0%B4%E6%BB%85%E3%80%912024%E5%B9%B4iPhone%E4%B8%AD%E5%9C%8B%E5%87%BA%E8%B2%A8%E9%87%8F%E5%90%8C%E6%AF%94%E6%B8%9B%E5%B0%912%E6%88%90%EF%BC%8C1%E5%B9%B4%E5%85%A7%E6%B8%9B%E5%B0%91900%E8%90%AC%E9%83%A8%E3%80%82%E4%BD%86%E8%98%8B%E6%9E%9C%E4%BB%8D%E9%9B%A3%E4%BB%A5%E6%93%BA%E8%84%AB%E4%BE%9D%E8%B3%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%AA%98%E5%A2%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%8F%AF%E7%82%BA%E5%92%8C%E5%B0%8F%E7%B1%B3%E7%AD%89%E5%B4%9B%E8%B5%B7%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E6%89%8B%E6%A9%9F%E6%8A%80%E8%A1%93%E7%9A%84%E7%99%BC%E6%BA%90%E5%9C%B0%E3%80%82%E5%8F%8D%E8%A7%80%E8%98%8B%E6%9E%9C%EF%BC%8C%E5%89%B5%E6%96%B0%E5%81%9C%E6%BB%AF%E3%80%81%E6%9C%AA%E8%83%BD%E9%96%8B%E6%8B%93%E6%96%B0%E8%88%88%E5%B8%82%E5%A0%B4%EF%BC%8C%E9%82%84%E9%9D%A2%E8%87%A8%E2%80%A6)
@@ -1082,7 +1173,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [印度](印度.md), [富士康](富士康.md), [打击](打击.md), [扩大](扩大.md), [技术](技术.md), [生产](生产.md), [苹果](苹果.md)
 ___
-##### 2025-07-02 01:21:43 UTC ~ 日經中文網
+##### 2025-07-02 01:21:43 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美股新高蘋果特斯拉卻掉隊，只因違逆川普？】標普500、納斯達克綜合指數近期均創新高。但蘋果、特斯拉的股價表現低迷。川普追求「生産回歸美國」，不認可蘋果讓印度替代中國生産iPhone。川普不喜歡在全球戰略中依靠中國的商業模式，而特斯拉最大…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98%E8%98%8B%E6%9E%9C%E7%89%B9%E6%96%AF%E6%8B%89%E5%8D%BB%E6%8E%89%E9%9A%8A%EF%BC%8C%E5%8F%AA%E5%9B%A0%E9%81%95%E9%80%86%E5%B7%9D%E6%99%AE%EF%BC%9F%E3%80%91%E6%A8%99%E6%99%AE500%E3%80%81%E7%B4%8D%E6%96%AF%E9%81%94%E5%85%8B%E7%B6%9C%E5%90%88%E6%8C%87%E6%95%B8%E8%BF%91%E6%9C%9F%E5%9D%87%E5%89%B5%E6%96%B0%E9%AB%98%E3%80%82%E4%BD%86%E8%98%8B%E6%9E%9C%E3%80%81%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E8%82%A1%E5%83%B9%E8%A1%A8%E7%8F%BE%E4%BD%8E%E8%BF%B7%E3%80%82%E5%B7%9D%E6%99%AE%E8%BF%BD%E6%B1%82%E3%80%8C%E7%94%9F%E7%94%A3%E5%9B%9E%E6%AD%B8%E7%BE%8E%E5%9C%8B%E3%80%8D%EF%BC%8C%E4%B8%8D%E8%AA%8D%E5%8F%AF%E8%98%8B%E6%9E%9C%E8%AE%93%E5%8D%B0%E5%BA%A6%E6%9B%BF%E4%BB%A3%E4%B8%AD%E5%9C%8B%E7%94%9F%E7%94%A3iPhone%E3%80%82%E5%B7%9D%E6%99%AE%E4%B8%8D%E5%96%9C%E6%AD%A1%E5%9C%A8%E5%85%A8%E7%90%83%E6%88%B0%E7%95%A5%E4%B8%AD%E4%BE%9D%E9%9D%A0%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%95%86%E6%A5%AD%E6%A8%A1%E5%BC%8F%EF%BC%8C%E8%80%8C%E7%89%B9%E6%96%AF%E6%8B%89%E6%9C%80%E5%A4%A7%E2%80%A6)
@@ -1393,7 +1484,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [传言](传言.md), [模型](模型.md), [苹果](苹果.md), [证实](证实.md)
 ___
-##### 2025-03-13 04:48:22 UTC ~ 日經中文網
+##### 2025-03-13 04:48:22 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【人形機器人的「iPhone時刻」快到了？】大約15年前，iPhone成為新的技術平臺，APP經濟圈因此繁榮起來。隨著生成式AI的發展，有觀點認為人形機器人也將迎來「iPhone時刻」。中美競爭激烈，中國有小鵬鵬行、宇樹科技；美國有App…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E7%9A%84%E3%80%8CiPhone%E6%99%82%E5%88%BB%E3%80%8D%E5%BF%AB%E5%88%B0%E4%BA%86%EF%BC%9F%E3%80%91%E5%A4%A7%E7%B4%8415%E5%B9%B4%E5%89%8D%EF%BC%8CiPhone%E6%88%90%E7%82%BA%E6%96%B0%E7%9A%84%E6%8A%80%E8%A1%93%E5%B9%B3%E8%87%BA%EF%BC%8CAPP%E7%B6%93%E6%BF%9F%E5%9C%88%E5%9B%A0%E6%AD%A4%E7%B9%81%E6%A6%AE%E8%B5%B7%E4%BE%86%E3%80%82%E9%9A%A8%E8%91%97%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%9A%84%E7%99%BC%E5%B1%95%EF%BC%8C%E6%9C%89%E8%A7%80%E9%BB%9E%E8%AA%8D%E7%82%BA%E4%BA%BA%E5%BD%A2%E6%A9%9F%E5%99%A8%E4%BA%BA%E4%B9%9F%E5%B0%87%E8%BF%8E%E4%BE%86%E3%80%8CiPhone%E6%99%82%E5%88%BB%E3%80%8D%E3%80%82%E4%B8%AD%E7%BE%8E%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88%EF%BC%8C%E4%B8%AD%E5%9C%8B%E6%9C%89%E5%B0%8F%E9%B5%AC%E9%B5%AC%E8%A1%8C%E3%80%81%E5%AE%87%E6%A8%B9%E7%A7%91%E6%8A%80%EF%BC%9B%E7%BE%8E%E5%9C%8B%E6%9C%89App%E2%80%A6)
@@ -1421,21 +1512,21 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [特朗普](特朗普.md), [苹果](苹果.md), [转换](转换.md), [迅速](迅速.md)
 ___
-##### 2025-02-26 05:26:08 UTC ~ 日經中文網
+##### 2025-02-26 05:26:08 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【蘋果對美投資避稅為先，iPhone生産不轉移】第一屆川普政府時期，蘋果曾宣佈擴大對美國投資，換來了iPhone被排除在對中國加徵關稅範圍之外。本次，又宣佈計劃4年內在美國投資超過5000億美元，但投資計劃並未提及iPhone……htt…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E5%B0%8D%E7%BE%8E%E6%8A%95%E8%B3%87%E9%81%BF%E7%A8%85%E7%82%BA%E5%85%88%EF%BC%8CiPhone%E7%94%9F%E7%94%A3%E4%B8%8D%E8%BD%89%E7%A7%BB%E3%80%91%E7%AC%AC%E4%B8%80%E5%B1%86%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E6%99%82%E6%9C%9F%EF%BC%8C%E8%98%8B%E6%9E%9C%E6%9B%BE%E5%AE%A3%E4%BD%88%E6%93%B4%E5%A4%A7%E5%B0%8D%E7%BE%8E%E5%9C%8B%E6%8A%95%E8%B3%87%EF%BC%8C%E6%8F%9B%E4%BE%86%E4%BA%86iPhone%E8%A2%AB%E6%8E%92%E9%99%A4%E5%9C%A8%E5%B0%8D%E4%B8%AD%E5%9C%8B%E5%8A%A0%E5%BE%B5%E9%97%9C%E7%A8%85%E7%AF%84%E5%9C%8D%E4%B9%8B%E5%A4%96%E3%80%82%E6%9C%AC%E6%AC%A1%EF%BC%8C%E5%8F%88%E5%AE%A3%E4%BD%88%E8%A8%88%E5%8A%834%E5%B9%B4%E5%85%A7%E5%9C%A8%E7%BE%8E%E5%9C%8B%E6%8A%95%E8%B3%87%E8%B6%85%E9%81%8E5000%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BD%86%E6%8A%95%E8%B3%87%E8%A8%88%E5%8A%83%E4%B8%A6%E6%9C%AA%E6%8F%90%E5%8F%8AiPhone%E2%80%A6%E2%80%A6htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [川普](川普.md), [美國](美國.md), [蘋果](蘋果.md), [計劃](計劃.md), [關稅](關稅.md)
 ___
-##### 2025-02-26 02:10:36 UTC ~ 日經中文網
+##### 2025-02-26 02:10:36 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【鏈接——iPhone神話在中國破滅】2024年iPhone在中國的出貨量同比減少2成，1年內減少900萬部。即便如此，蘋果仍難以擺脫依賴中國的窘境。原因是華為和小米等企業崛起，中國已成為全球智能手機技術的發源地。反觀蘋果，創新停滯、未能…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%8F%88%E6%8E%A5%E2%80%94%E2%80%94iPhone%E7%A5%9E%E8%A9%B1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%A0%B4%E6%BB%85%E3%80%912024%E5%B9%B4iPhone%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E8%B2%A8%E9%87%8F%E5%90%8C%E6%AF%94%E6%B8%9B%E5%B0%912%E6%88%90%EF%BC%8C1%E5%B9%B4%E5%85%A7%E6%B8%9B%E5%B0%91900%E8%90%AC%E9%83%A8%E3%80%82%E5%8D%B3%E4%BE%BF%E5%A6%82%E6%AD%A4%EF%BC%8C%E8%98%8B%E6%9E%9C%E4%BB%8D%E9%9B%A3%E4%BB%A5%E6%93%BA%E8%84%AB%E4%BE%9D%E8%B3%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%AA%98%E5%A2%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%8F%AF%E7%82%BA%E5%92%8C%E5%B0%8F%E7%B1%B3%E7%AD%89%E4%BC%81%E6%A5%AD%E5%B4%9B%E8%B5%B7%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%E6%8A%80%E8%A1%93%E7%9A%84%E7%99%BC%E6%BA%90%E5%9C%B0%E3%80%82%E5%8F%8D%E8%A7%80%E8%98%8B%E6%9E%9C%EF%BC%8C%E5%89%B5%E6%96%B0%E5%81%9C%E6%BB%AF%E3%80%81%E6%9C%AA%E8%83%BD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [小米](小米.md), [崛起](崛起.md), [擺脫](擺脫.md), [華為](華為.md), [蘋果](蘋果.md)
 ___
-##### 2025-02-26 00:29:53 UTC ~ 日經中文網
+##### 2025-02-26 00:29:53 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【蘋果要在印度擴大生產，能規避特朗普關稅嗎？】蘋果正在將iPhone供應鏈擴大到印度。據悉，最新的16系列5款機型均會在印度組裝。有分析師估算，印度生産的iPhone的比例目前為15%左右，2027年將提高至25%。但蘋果相關人士表示，「…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E8%A6%81%E5%9C%A8%E5%8D%B0%E5%BA%A6%E6%93%B4%E5%A4%A7%E7%94%9F%E7%94%A2%EF%BC%8C%E8%83%BD%E8%A6%8F%E9%81%BF%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%9C%E7%A8%85%E5%97%8E%EF%BC%9F%E3%80%91%E8%98%8B%E6%9E%9C%E6%AD%A3%E5%9C%A8%E5%B0%87iPhone%E4%BE%9B%E6%87%89%E9%8F%88%E6%93%B4%E5%A4%A7%E5%88%B0%E5%8D%B0%E5%BA%A6%E3%80%82%E6%93%9A%E6%82%89%EF%BC%8C%E6%9C%80%E6%96%B0%E7%9A%8416%E7%B3%BB%E5%88%975%E6%AC%BE%E6%A9%9F%E5%9E%8B%E5%9D%87%E6%9C%83%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%B5%84%E8%A3%9D%E3%80%82%E6%9C%89%E5%88%86%E6%9E%90%E5%B8%AB%E4%BC%B0%E7%AE%97%EF%BC%8C%E5%8D%B0%E5%BA%A6%E7%94%9F%E7%94%A3%E7%9A%84iPhone%E7%9A%84%E6%AF%94%E4%BE%8B%E7%9B%AE%E5%89%8D%E7%82%BA15%25%E5%B7%A6%E5%8F%B3%EF%BC%8C2027%E5%B9%B4%E5%B0%87%E6%8F%90%E9%AB%98%E8%87%B325%25%E3%80%82%E4%BD%86%E8%98%8B%E6%9E%9C%E7%9B%B8%E9%97%9C%E4%BA%BA%E5%A3%AB%E8%A1%A8%E7%A4%BA%EF%BC%8C%E3%80%8C%E2%80%A6)
@@ -1449,7 +1540,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [协议](协议.md), [印尼](印尼.md), [印度](印度.md), [条款](条款.md), [知情](知情.md), [知情人士](知情人士.md), [签署](签署.md), [苹果](苹果.md), [达成](达成.md)
 ___
-##### 2025-02-25 04:28:50 UTC ~ 日經中文網
+##### 2025-02-25 04:28:50 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【鏈接——iPhone16價格：中國全球最便宜，日本第3低】日本MM綜研對iPhone16在全球39個國家和地區的價格進行了對比。iPhone16繫列4款機型在日本平均比全球均價便宜約3.5萬日元（約合人民幣1719元）。從iPhone1…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%8F%88%E6%8E%A5%E2%80%94%E2%80%94iPhone16%E5%83%B9%E6%A0%BC%EF%BC%9A%E4%B8%AD%E5%9C%8B%E5%85%A8%E7%90%83%E6%9C%80%E4%BE%BF%E5%AE%9C%EF%BC%8C%E6%97%A5%E6%9C%AC%E7%AC%AC3%E4%BD%8E%E3%80%91%E6%97%A5%E6%9C%ACMM%E7%B6%9C%E7%A0%94%E5%B0%8DiPhone16%E5%9C%A8%E5%85%A8%E7%90%8339%E5%80%8B%E5%9C%8B%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8D%80%E7%9A%84%E5%83%B9%E6%A0%BC%E9%80%B2%E8%A1%8C%E4%BA%86%E5%B0%8D%E6%AF%94%E3%80%82iPhone16%E7%B9%AB%E5%88%974%E6%AC%BE%E6%A9%9F%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B9%B3%E5%9D%87%E6%AF%94%E5%85%A8%E7%90%83%E5%9D%87%E5%83%B9%E4%BE%BF%E5%AE%9C%E7%B4%843.5%E8%90%AC%E6%97%A5%E5%85%83%EF%BC%88%E7%B4%84%E5%90%88%E4%BA%BA%E6%B0%91%E5%B9%A31719%E5%85%83%EF%BC%89%E3%80%82%E5%BE%9EiPhone1%E2%80%A6)
@@ -1554,14 +1645,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [刺激](刺激.md), [发布](发布.md), [吸引](吸引.md), [苹果](苹果.md), [计划](计划.md), [销量](销量.md)
 ___
-##### 2025-02-06 06:33:00 UTC ~ 日經中文網
+##### 2025-02-06 06:33:00 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone神話在中國破滅】2024年iPhone在中國的出貨量同比減少2成，1年內減少900萬部。即便如此，蘋果仍難以擺脫依賴中國的窘境。原因是華為和小米等企業崛起，中國已成為全球智慧手機技術的發源地。反觀蘋果，創新停滯、未能開拓新興…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E7%A5%9E%E8%A9%B1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%A0%B4%E6%BB%85%E3%80%912024%E5%B9%B4iPhone%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E8%B2%A8%E9%87%8F%E5%90%8C%E6%AF%94%E6%B8%9B%E5%B0%912%E6%88%90%EF%BC%8C1%E5%B9%B4%E5%85%A7%E6%B8%9B%E5%B0%91900%E8%90%AC%E9%83%A8%E3%80%82%E5%8D%B3%E4%BE%BF%E5%A6%82%E6%AD%A4%EF%BC%8C%E8%98%8B%E6%9E%9C%E4%BB%8D%E9%9B%A3%E4%BB%A5%E6%93%BA%E8%84%AB%E4%BE%9D%E8%B3%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%AA%98%E5%A2%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%8F%AF%E7%82%BA%E5%92%8C%E5%B0%8F%E7%B1%B3%E7%AD%89%E4%BC%81%E6%A5%AD%E5%B4%9B%E8%B5%B7%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E6%8A%80%E8%A1%93%E7%9A%84%E7%99%BC%E6%BA%90%E5%9C%B0%E3%80%82%E5%8F%8D%E8%A7%80%E8%98%8B%E6%9E%9C%EF%BC%8C%E5%89%B5%E6%96%B0%E5%81%9C%E6%BB%AF%E3%80%81%E6%9C%AA%E8%83%BD%E9%96%8B%E6%8B%93%E6%96%B0%E8%88%88%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [小米](小米.md), [崛起](崛起.md), [擺脫](擺脫.md), [華為](華為.md), [蘋果](蘋果.md)
 ___
-##### 2025-02-06 00:51:26 UTC ~ 日經中文網
+##### 2025-02-06 00:51:26 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone神話在中國破滅】2024年iPhone在中國的出貨量同比減少2成，1年內減少900萬部。即便如此，蘋果仍難以擺脫依賴中國的窘境。原因是華為和小米等企業崛起，中國已成為全球智慧手機技術的發源地。反觀蘋果，創新停滯、未能開拓新興…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E7%A5%9E%E8%A9%B1%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%A0%B4%E6%BB%85%E3%80%912024%E5%B9%B4iPhone%E5%9C%A8%E4%B8%AD%E5%9C%8B%E7%9A%84%E5%87%BA%E8%B2%A8%E9%87%8F%E5%90%8C%E6%AF%94%E6%B8%9B%E5%B0%912%E6%88%90%EF%BC%8C1%E5%B9%B4%E5%85%A7%E6%B8%9B%E5%B0%91900%E8%90%AC%E9%83%A8%E3%80%82%E5%8D%B3%E4%BE%BF%E5%A6%82%E6%AD%A4%EF%BC%8C%E8%98%8B%E6%9E%9C%E4%BB%8D%E9%9B%A3%E4%BB%A5%E6%93%BA%E8%84%AB%E4%BE%9D%E8%B3%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%AA%98%E5%A2%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E8%8F%AF%E7%82%BA%E5%92%8C%E5%B0%8F%E7%B1%B3%E7%AD%89%E4%BC%81%E6%A5%AD%E5%B4%9B%E8%B5%B7%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%B7%B2%E6%88%90%E7%82%BA%E5%85%A8%E7%90%83%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E6%8A%80%E8%A1%93%E7%9A%84%E7%99%BC%E6%BA%90%E5%9C%B0%E3%80%82%E5%8F%8D%E8%A7%80%E8%98%8B%E6%9E%9C%EF%BC%8C%E5%89%B5%E6%96%B0%E5%81%9C%E6%BB%AF%E3%80%81%E6%9C%AA%E8%83%BD%E9%96%8B%E6%8B%93%E6%96%B0%E8%88%88%E2%80%A6)
@@ -1666,7 +1757,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [推出](推出.md), [推迟](推迟.md), [纳米](纳米.md), [芯片](芯片.md), [苹果](苹果.md)
 ___
-##### 2025-01-02 00:23:14 UTC ~ 日經中文網
+##### 2025-01-02 00:23:14 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【印度巨額補貼制造業，有成效但目標尚遠】出於對經濟安保風險的考量，很多跨國企業將生產基地從中國轉移到印度。為了振興制造業，印度政府的補貼支出金額不斷增加。蘋果2024年在印度實現了突破100億美元的iPhone產值，但距離目標仍然相差甚遠…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%B0%E5%BA%A6%E5%B7%A8%E9%A1%8D%E8%A3%9C%E8%B2%BC%E5%88%B6%E9%80%A0%E6%A5%AD%EF%BC%8C%E6%9C%89%E6%88%90%E6%95%88%E4%BD%86%E7%9B%AE%E6%A8%99%E5%B0%9A%E9%81%A0%E3%80%91%E5%87%BA%E6%96%BC%E5%B0%8D%E7%B6%93%E6%BF%9F%E5%AE%89%E4%BF%9D%E9%A2%A8%E9%9A%AA%E7%9A%84%E8%80%83%E9%87%8F%EF%BC%8C%E5%BE%88%E5%A4%9A%E8%B7%A8%E5%9C%8B%E4%BC%81%E6%A5%AD%E5%B0%87%E7%94%9F%E7%94%A2%E5%9F%BA%E5%9C%B0%E5%BE%9E%E4%B8%AD%E5%9C%8B%E8%BD%89%E7%A7%BB%E5%88%B0%E5%8D%B0%E5%BA%A6%E3%80%82%E7%82%BA%E4%BA%86%E6%8C%AF%E8%88%88%E5%88%B6%E9%80%A0%E6%A5%AD%EF%BC%8C%E5%8D%B0%E5%BA%A6%E6%94%BF%E5%BA%9C%E7%9A%84%E8%A3%9C%E8%B2%BC%E6%94%AF%E5%87%BA%E9%87%91%E9%A1%8D%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E8%98%8B%E6%9E%9C2024%E5%B9%B4%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%AF%A6%E7%8F%BE%E4%BA%86%E7%AA%81%E7%A0%B4100%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84iPhone%E7%94%A2%E5%80%BC%EF%BC%8C%E4%BD%86%E8%B7%9D%E9%9B%A2%E7%9B%AE%E6%A8%99%E4%BB%8D%E7%84%B6%E7%9B%B8%E5%B7%AE%E7%94%9A%E9%81%A0%E2%80%A6)
@@ -1771,7 +1862,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [品牌](品牌.md), [指出](指出.md), [推出](推出.md), [有望](有望.md), [道指](道指.md)
 ___
-##### 2024-11-26 02:10:16 UTC ~ 日經中文網
+##### 2024-11-26 02:10:16 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【拆解iPhone16Pro：零部件成本上升】蘋果的「16 Pro」的零部件成本為568美元，比「15 Pro」增加了6%，零部件成本佔美國銷售價格的比重(成本率)為57%，但價格沒有變化。另一方面，谷歌Pixel的零部件成本為406美元…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%8B%86%E8%A7%A3iPhone16Pro%EF%BC%9A%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E4%B8%8A%E5%8D%87%E3%80%91%E8%98%8B%E6%9E%9C%E7%9A%84%E3%80%8C16+Pro%E3%80%8D%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%82%BA568%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AF%94%E3%80%8C15+Pro%E3%80%8D%E5%A2%9E%E5%8A%A0%E4%BA%866%25%EF%BC%8C%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E4%BD%94%E7%BE%8E%E5%9C%8B%E9%8A%B7%E5%94%AE%E5%83%B9%E6%A0%BC%E7%9A%84%E6%AF%94%E9%87%8D%28%E6%88%90%E6%9C%AC%E7%8E%87%29%E7%82%BA57%25%EF%BC%8C%E4%BD%86%E5%83%B9%E6%A0%BC%E6%B2%92%E6%9C%89%E8%AE%8A%E5%8C%96%E3%80%82%E5%8F%A6%E4%B8%80%E6%96%B9%E9%9D%A2%EF%BC%8C%E8%B0%B7%E6%AD%8CPixel%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%82%BA406%E7%BE%8E%E5%85%83%E2%80%A6)
@@ -1792,14 +1883,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [存储](存储.md), [消费者](消费者.md), [竞争](竞争.md), [苹果](苹果.md), [诉讼](诉讼.md)
 ___
-##### 2024-11-14 04:22:53 UTC ~ 日經中文網
+##### 2024-11-14 04:22:53 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【從iPhone到EV，從鄭州看中國】藤野逸郎：鄭州曾是全球最大的iPhone生産地，富士康鄭州工廠曾有約35萬人就業，現在已降至十幾萬。而比亞迪鄭州工廠現在以「不到一分鐘一輛」的速度生産多款新能源車。「鄭州的産業正逐漸從單純的代工加工，…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%BE%9EiPhone%E5%88%B0EV%EF%BC%8C%E5%BE%9E%E9%84%AD%E5%B7%9E%E7%9C%8B%E4%B8%AD%E5%9C%8B%E3%80%91%E8%97%A4%E9%87%8E%E9%80%B8%E9%83%8E%EF%BC%9A%E9%84%AD%E5%B7%9E%E6%9B%BE%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84iPhone%E7%94%9F%E7%94%A3%E5%9C%B0%EF%BC%8C%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%84%AD%E5%B7%9E%E5%B7%A5%E5%BB%A0%E6%9B%BE%E6%9C%89%E7%B4%8435%E8%90%AC%E4%BA%BA%E5%B0%B1%E6%A5%AD%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%B7%B2%E9%99%8D%E8%87%B3%E5%8D%81%E5%B9%BE%E8%90%AC%E3%80%82%E8%80%8C%E6%AF%94%E4%BA%9E%E8%BF%AA%E9%84%AD%E5%B7%9E%E5%B7%A5%E5%BB%A0%E7%8F%BE%E5%9C%A8%E4%BB%A5%E3%80%8C%E4%B8%8D%E5%88%B0%E4%B8%80%E5%88%86%E9%90%98%E4%B8%80%E8%BC%9B%E3%80%8D%E7%9A%84%E9%80%9F%E5%BA%A6%E7%94%9F%E7%94%A3%E5%A4%9A%E6%AC%BE%E6%96%B0%E8%83%BD%E6%BA%90%E8%BB%8A%E3%80%82%E3%80%8C%E9%84%AD%E5%B7%9E%E7%9A%84%E7%94%A3%E6%A5%AD%E6%AD%A3%E9%80%90%E6%BC%B8%E5%BE%9E%E5%96%AE%E7%B4%94%E7%9A%84%E4%BB%A3%E5%B7%A5%E5%8A%A0%E5%B7%A5%EF%BC%8C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [加工](加工.md), [富士康](富士康.md), [比亞迪](比亞迪.md), [能源](能源.md), [速度](速度.md), [鄭州](鄭州.md)
 ___
-##### 2024-11-11 06:32:12 UTC ~ 日經中文網
+##### 2024-11-11 06:32:12 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【索尼4~9月凈利潤在新型感測器支撐下增長37%】索尼改善了新型半導體圖像感測器的良品率，趕上了正式向iPhone供貨。以圖像感測器為中心的半導體業務的營業利潤增至2.2倍，達到1290億日元，在全部6項業務中增長率最高……  htt…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%B4%A2%E5%B0%BC4~9%E6%9C%88%E5%87%88%E5%88%A9%E6%BD%A4%E5%9C%A8%E6%96%B0%E5%9E%8B%E6%84%9F%E6%B8%AC%E5%99%A8%E6%94%AF%E6%92%90%E4%B8%8B%E5%A2%9E%E9%95%B737%25%E3%80%91%E7%B4%A2%E5%B0%BC%E6%94%B9%E5%96%84%E4%BA%86%E6%96%B0%E5%9E%8B%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%9C%96%E5%83%8F%E6%84%9F%E6%B8%AC%E5%99%A8%E7%9A%84%E8%89%AF%E5%93%81%E7%8E%87%EF%BC%8C%E8%B6%95%E4%B8%8A%E4%BA%86%E6%AD%A3%E5%BC%8F%E5%90%91iPhone%E4%BE%9B%E8%B2%A8%E3%80%82%E4%BB%A5%E5%9C%96%E5%83%8F%E6%84%9F%E6%B8%AC%E5%99%A8%E7%82%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E5%8B%99%E7%9A%84%E7%87%9F%E6%A5%AD%E5%88%A9%E6%BD%A4%E5%A2%9E%E8%87%B32.2%E5%80%8D%EF%BC%8C%E9%81%94%E5%88%B01290%E5%84%84%E6%97%A5%E5%85%83%EF%BC%8C%E5%9C%A8%E5%85%A8%E9%83%A86%E9%A0%85%E6%A5%AD%E5%8B%99%E4%B8%AD%E5%A2%9E%E9%95%B7%E7%8E%87%E6%9C%80%E9%AB%98%E2%80%A6%E2%80%A6++htt%E2%80%A6)
@@ -1911,7 +2002,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [乐观](乐观.md), [供货](供货.md), [情况](情况.md), [摩根大通](摩根大通.md), [明显](明显.md), [涨](涨.md), [苹果](苹果.md), [预测](预测.md)
 ___
-##### 2024-09-29 01:46:39 UTC ~ 日經中文網
+##### 2024-09-29 01:46:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone16價格：中國全球最便宜，日本第3低】日本MM綜研對iPhone16在全球39個國家和地區的價格進行了對比。iPhone16系列4款機型在日本平均比全球均價便宜約3.5萬日元（約合人民幣1719元）。從iPhone16（12…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone16%E5%83%B9%E6%A0%BC%EF%BC%9A%E4%B8%AD%E5%9C%8B%E5%85%A8%E7%90%83%E6%9C%80%E4%BE%BF%E5%AE%9C%EF%BC%8C%E6%97%A5%E6%9C%AC%E7%AC%AC3%E4%BD%8E%E3%80%91%E6%97%A5%E6%9C%ACMM%E7%B6%9C%E7%A0%94%E5%B0%8DiPhone16%E5%9C%A8%E5%85%A8%E7%90%8339%E5%80%8B%E5%9C%8B%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8D%80%E7%9A%84%E5%83%B9%E6%A0%BC%E9%80%B2%E8%A1%8C%E4%BA%86%E5%B0%8D%E6%AF%94%E3%80%82iPhone16%E7%B3%BB%E5%88%974%E6%AC%BE%E6%A9%9F%E5%9E%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%B9%B3%E5%9D%87%E6%AF%94%E5%85%A8%E7%90%83%E5%9D%87%E5%83%B9%E4%BE%BF%E5%AE%9C%E7%B4%843.5%E8%90%AC%E6%97%A5%E5%85%83%EF%BC%88%E7%B4%84%E5%90%88%E4%BA%BA%E6%B0%91%E5%B9%A31719%E5%85%83%EF%BC%89%E3%80%82%E5%BE%9EiPhone16%EF%BC%8812%E2%80%A6)
@@ -1953,7 +2044,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [实现](实现.md), [苹果](苹果.md)
 ___
-##### 2024-09-11 04:08:29 UTC ~ 日經中文網
+##### 2024-09-11 04:08:29 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【蘋果能在AI手機上實現逆襲嗎？】生成式AI「ChatGPT」問世已過去近兩年，蘋果終於在新款iPhone上實際搭載了生成式AI功能。在引領當下市場的「生成式AI手機」方面，三星領跑。在涉足較晚的AI手機領域，蘋果能否建立生成式AI的新A…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E8%83%BD%E5%9C%A8AI%E6%89%8B%E6%A9%9F%E4%B8%8A%E5%AF%A6%E7%8F%BE%E9%80%86%E8%A5%B2%E5%97%8E%EF%BC%9F%E3%80%91%E7%94%9F%E6%88%90%E5%BC%8FAI%E3%80%8CChatGPT%E3%80%8D%E5%95%8F%E4%B8%96%E5%B7%B2%E9%81%8E%E5%8E%BB%E8%BF%91%E5%85%A9%E5%B9%B4%EF%BC%8C%E8%98%8B%E6%9E%9C%E7%B5%82%E6%96%BC%E5%9C%A8%E6%96%B0%E6%AC%BEiPhone%E4%B8%8A%E5%AF%A6%E9%9A%9B%E6%90%AD%E8%BC%89%E4%BA%86%E7%94%9F%E6%88%90%E5%BC%8FAI%E5%8A%9F%E8%83%BD%E3%80%82%E5%9C%A8%E5%BC%95%E9%A0%98%E7%95%B6%E4%B8%8B%E5%B8%82%E5%A0%B4%E7%9A%84%E3%80%8C%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%89%8B%E6%A9%9F%E3%80%8D%E6%96%B9%E9%9D%A2%EF%BC%8C%E4%B8%89%E6%98%9F%E9%A0%98%E8%B7%91%E3%80%82%E5%9C%A8%E6%B6%89%E8%B6%B3%E8%BC%83%E6%99%9A%E7%9A%84AI%E6%89%8B%E6%A9%9F%E9%A0%98%E5%9F%9F%EF%BC%8C%E8%98%8B%E6%9E%9C%E8%83%BD%E5%90%A6%E5%BB%BA%E7%AB%8B%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%9A%84%E6%96%B0A%E2%80%A6)
@@ -1974,7 +2065,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [华为](华为.md), [发布](发布.md), [售价](售价.md), [当天](当天.md), [新加坡](新加坡.md), [科技](科技.md), [系列](系列.md), [美国](美国.md), [苹果](苹果.md)
 ___
-##### 2024-09-10 04:23:18 UTC ~ 日經中文網
+##### 2024-09-10 04:23:18 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone16售價不變，全機型搭載生成式AI】新機型都搭載了生成式AI服務「Apple Intelligence」，庫克強調「iPhone16是為了Apple Intelligence而從頭開始設計的」。有分析認為iPhone16在中…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone16%E5%94%AE%E5%83%B9%E4%B8%8D%E8%AE%8A%EF%BC%8C%E5%85%A8%E6%A9%9F%E5%9E%8B%E6%90%AD%E8%BC%89%E7%94%9F%E6%88%90%E5%BC%8FAI%E3%80%91%E6%96%B0%E6%A9%9F%E5%9E%8B%E9%83%BD%E6%90%AD%E8%BC%89%E4%BA%86%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%9C%8D%E5%8B%99%E3%80%8CApple+Intelligence%E3%80%8D%EF%BC%8C%E5%BA%AB%E5%85%8B%E5%BC%B7%E8%AA%BF%E3%80%8CiPhone16%E6%98%AF%E7%82%BA%E4%BA%86Apple+Intelligence%E8%80%8C%E5%BE%9E%E9%A0%AD%E9%96%8B%E5%A7%8B%E8%A8%AD%E8%A8%88%E7%9A%84%E3%80%8D%E3%80%82%E6%9C%89%E5%88%86%E6%9E%90%E8%AA%8D%E7%82%BAiPhone16%E5%9C%A8%E4%B8%AD%E2%80%A6)
@@ -2008,97 +2099,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%AE%AF%E8%AE%BE%E5%A4%87%E5%B7%A8%E5%A4%B4%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%E5%BC%80%E5%90%AF%E9%A2%84%E8%AE%A2%EF%BC%8C%E4%BA%94%E5%B0%8F%E6%97%B6%E5%86%85%E9%A2%84%E7%BA%A6%E9%87%8F%E7%A0%B4100%E4%B8%87%E3%80%82%E8%BF%99%E6%AC%BE%E6%89%8B%E6%9C%BA%E5%AE%9A%E4%BA%8E9%E6%9C%8810%E6%97%A5%E5%8F%91%E5%B8%83%EF%BC%8C%E5%B0%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%90%8C%E5%A4%A9%E6%8E%A8%E5%87%BA%E7%9A%84iPhone+16%E7%AD%89%E6%96%B0%E6%AC%BE%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%AD%A3%E9%9D%A2%E5%AF%B9%E5%86%B3%E3%80%82https%3A%2F%2Ft.co%2Fp7rCiX052b)
 ##### Other Words/Names of Interest in the Above Tweet
 [华为](华为.md), [发布](发布.md), [巨头](巨头.md), [推出](推出.md), [美国](美国.md), [苹果](苹果.md)
-___
-##### 2024-09-07 04:38:11 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 美国苹果公司据报已批准腾讯旗下微信在最新旗舰机iPhone 16的版本更新，为双方争执不下的苹果税争议争取更多谈判时间。https://t.co/jrKgWwkmHl
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%8D%AE%E6%8A%A5%E5%B7%B2%E6%89%B9%E5%87%86%E8%85%BE%E8%AE%AF%E6%97%97%E4%B8%8B%E5%BE%AE%E4%BF%A1%E5%9C%A8%E6%9C%80%E6%96%B0%E6%97%97%E8%88%B0%E6%9C%BAiPhone+16%E7%9A%84%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%EF%BC%8C%E4%B8%BA%E5%8F%8C%E6%96%B9%E4%BA%89%E6%89%A7%E4%B8%8D%E4%B8%8B%E7%9A%84%E8%8B%B9%E6%9E%9C%E7%A8%8E%E4%BA%89%E8%AE%AE%E4%BA%89%E5%8F%96%E6%9B%B4%E5%A4%9A%E8%B0%88%E5%88%A4%E6%97%B6%E9%97%B4%E3%80%82https%3A%2F%2Ft.co%2FjrKgWwkmHl)
-##### Other Words/Names of Interest in the Above Tweet
-[争议](争议.md), [微信](微信.md), [批准](批准.md), [税](税.md), [美国](美国.md), [腾讯](腾讯.md), [苹果](苹果.md), [谈判](谈判.md)
-___
-##### 2024-09-05 03:46:09 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 根据日经新闻报道，苹果公司2025年起iPhone将全面采用有机发光二极体显示器，不再使用液晶显示器。#Apple #iphone #OLEDScreen #lcdscreen #南洋商报 https://t.co/EfOp4EhRLL ht…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E6%A0%B9%E6%8D%AE%E6%97%A5%E7%BB%8F%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B82025%E5%B9%B4%E8%B5%B7iPhone%E5%B0%86%E5%85%A8%E9%9D%A2%E9%87%87%E7%94%A8%E6%9C%89%E6%9C%BA%E5%8F%91%E5%85%89%E4%BA%8C%E6%9E%81%E4%BD%93%E6%98%BE%E7%A4%BA%E5%99%A8%EF%BC%8C%E4%B8%8D%E5%86%8D%E4%BD%BF%E7%94%A8%E6%B6%B2%E6%99%B6%E6%98%BE%E7%A4%BA%E5%99%A8%E3%80%82%23Apple+%23iphone+%23OLEDScreen+%23lcdscreen+%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+https%3A%2F%2Ft.co%2FEfOp4EhRLL+ht%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [显示](显示.md), [显示器](显示器.md), [根据](根据.md), [液晶](液晶.md), [苹果](苹果.md)
-___
-##### 2024-09-04 10:12:19 UTC ~ 日經中文網
-> RT @rijingzhongwen: 【蘋果開始在印度生產新一代iPhone高端機型】美國蘋果已開始在印度生產新一代iPhone，生產對象包括高端機型“iPhone Pro”繫列。不過，相關人士錶示，“未來幾年，印度的增長將主要局限於最終產品的組裝”，高附加值零部件的生產仍然…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E9%96%8B%E5%A7%8B%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E7%94%A2%E6%96%B0%E4%B8%80%E4%BB%A3iPhone%E9%AB%98%E7%AB%AF%E6%A9%9F%E5%9E%8B%E3%80%91%E7%BE%8E%E5%9C%8B%E8%98%8B%E6%9E%9C%E5%B7%B2%E9%96%8B%E5%A7%8B%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E7%94%A2%E6%96%B0%E4%B8%80%E4%BB%A3iPhone%EF%BC%8C%E7%94%9F%E7%94%A2%E5%B0%8D%E8%B1%A1%E5%8C%85%E6%8B%AC%E9%AB%98%E7%AB%AF%E6%A9%9F%E5%9E%8B%E2%80%9CiPhone+Pro%E2%80%9D%E7%B9%AB%E5%88%97%E3%80%82%E4%B8%8D%E9%81%8E%EF%BC%8C%E7%9B%B8%E9%97%9C%E4%BA%BA%E5%A3%AB%E9%8C%B6%E7%A4%BA%EF%BC%8C%E2%80%9C%E6%9C%AA%E4%BE%86%E5%B9%BE%E5%B9%B4%EF%BC%8C%E5%8D%B0%E5%BA%A6%E7%9A%84%E5%A2%9E%E9%95%B7%E5%B0%87%E4%B8%BB%E8%A6%81%E5%B1%80%E9%99%90%E6%96%BC%E6%9C%80%E7%B5%82%E7%94%A2%E5%93%81%E7%9A%84%E7%B5%84%E8%A3%9D%E2%80%9D%EF%BC%8C%E9%AB%98%E9%99%84%E5%8A%A0%E5%80%BC%E9%9B%B6%E9%83%A8%E4%BB%B6%E7%9A%84%E7%94%9F%E7%94%A2%E4%BB%8D%E7%84%B6%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [印度](印度.md), [美國](美國.md), [蘋果](蘋果.md), [零部件](零部件.md)
-___
-##### 2024-09-04 07:05:39 UTC ~ 日經中文網
-> RT @rijingzhongwen: 【iPhone全繫將用OLED，日本液晶面闆退場】蘋果將在2025年以後推出的所有iPhone上採用OLED面闆。JDI和夏普沒有量產智能手機用的OLED面闆。預計隨著老款iPhone結束銷售，日企對iPhone的液晶面闆供應將減為零………
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E5%85%A8%E7%B9%AB%E5%B0%87%E7%94%A8OLED%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%B6%B2%E6%99%B6%E9%9D%A2%E9%97%86%E9%80%80%E5%A0%B4%E3%80%91%E8%98%8B%E6%9E%9C%E5%B0%87%E5%9C%A82025%E5%B9%B4%E4%BB%A5%E5%BE%8C%E6%8E%A8%E5%87%BA%E7%9A%84%E6%89%80%E6%9C%89iPhone%E4%B8%8A%E6%8E%A1%E7%94%A8OLED%E9%9D%A2%E9%97%86%E3%80%82JDI%E5%92%8C%E5%A4%8F%E6%99%AE%E6%B2%92%E6%9C%89%E9%87%8F%E7%94%A2%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%E7%94%A8%E7%9A%84OLED%E9%9D%A2%E9%97%86%E3%80%82%E9%A0%90%E8%A8%88%E9%9A%A8%E8%91%97%E8%80%81%E6%AC%BEiPhone%E7%B5%90%E6%9D%9F%E9%8A%B7%E5%94%AE%EF%BC%8C%E6%97%A5%E4%BC%81%E5%B0%8DiPhone%E7%9A%84%E6%B6%B2%E6%99%B6%E9%9D%A2%E9%97%86%E4%BE%9B%E6%87%89%E5%B0%87%E6%B8%9B%E7%82%BA%E9%9B%B6%E2%80%A6%E2%80%A6%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[夏普](夏普.md), [推出](推出.md), [日本](日本.md), [液晶](液晶.md), [蘋果](蘋果.md), [預計](預計.md)
-___
-##### 2024-09-04 03:42:46 UTC ~ 日經中文網
-> RT @rijingzhongwen: 【iPhone全繫將用OLED，日本液晶面闆退場】蘋果將在2025年以後推出的所有iPhone上採用OLED面闆。JDI和夏普沒有量產智能手機用的OLED面闆。預計隨著老款iPhone結束銷售，日企對iPhone的液晶面闆供應將減為零………
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E5%85%A8%E7%B9%AB%E5%B0%87%E7%94%A8OLED%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%B6%B2%E6%99%B6%E9%9D%A2%E9%97%86%E9%80%80%E5%A0%B4%E3%80%91%E8%98%8B%E6%9E%9C%E5%B0%87%E5%9C%A82025%E5%B9%B4%E4%BB%A5%E5%BE%8C%E6%8E%A8%E5%87%BA%E7%9A%84%E6%89%80%E6%9C%89iPhone%E4%B8%8A%E6%8E%A1%E7%94%A8OLED%E9%9D%A2%E9%97%86%E3%80%82JDI%E5%92%8C%E5%A4%8F%E6%99%AE%E6%B2%92%E6%9C%89%E9%87%8F%E7%94%A2%E6%99%BA%E8%83%BD%E6%89%8B%E6%A9%9F%E7%94%A8%E7%9A%84OLED%E9%9D%A2%E9%97%86%E3%80%82%E9%A0%90%E8%A8%88%E9%9A%A8%E8%91%97%E8%80%81%E6%AC%BEiPhone%E7%B5%90%E6%9D%9F%E9%8A%B7%E5%94%AE%EF%BC%8C%E6%97%A5%E4%BC%81%E5%B0%8DiPhone%E7%9A%84%E6%B6%B2%E6%99%B6%E9%9D%A2%E9%97%86%E4%BE%9B%E6%87%89%E5%B0%87%E6%B8%9B%E7%82%BA%E9%9B%B6%E2%80%A6%E2%80%A6%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[夏普](夏普.md), [推出](推出.md), [日本](日本.md), [液晶](液晶.md), [蘋果](蘋果.md), [預計](預計.md)
-___
-##### 2024-09-03 06:43:01 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 据传苹果新款旗舰机iPhone 16可能无法使用微信，苹果和腾讯官方均回应称，没收到官方通知。https://t.co/PXYvfi99vQ
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%8D%AE%E4%BC%A0%E8%8B%B9%E6%9E%9C%E6%96%B0%E6%AC%BE%E6%97%97%E8%88%B0%E6%9C%BAiPhone+16%E5%8F%AF%E8%83%BD%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E5%BE%AE%E4%BF%A1%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%92%8C%E8%85%BE%E8%AE%AF%E5%AE%98%E6%96%B9%E5%9D%87%E5%9B%9E%E5%BA%94%E7%A7%B0%EF%BC%8C%E6%B2%A1%E6%94%B6%E5%88%B0%E5%AE%98%E6%96%B9%E9%80%9A%E7%9F%A5%E3%80%82https%3A%2F%2Ft.co%2FPXYvfi99vQ)
-##### Other Words/Names of Interest in the Above Tweet
-[微信](微信.md), [腾讯](腾讯.md), [苹果](苹果.md)
-___
-##### 2024-09-03 06:41:32 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 苹果已宣布要在大马时间9月10日凌晨举行秋季发表会，预计推出iPhone 16系列新机。没想到，华为昨（2日）突宣布要在同一天举行发表会，外界推测将推出史上首见的三折叠手机，此事让中国科技产业信心大振，科技媒体“雷科技”更评论，苹果将因此走下…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%B7%B2%E5%AE%A3%E5%B8%83%E8%A6%81%E5%9C%A8%E5%A4%A7%E9%A9%AC%E6%97%B6%E9%97%B49%E6%9C%8810%E6%97%A5%E5%87%8C%E6%99%A8%E4%B8%BE%E8%A1%8C%E7%A7%8B%E5%AD%A3%E5%8F%91%E8%A1%A8%E4%BC%9A%EF%BC%8C%E9%A2%84%E8%AE%A1%E6%8E%A8%E5%87%BAiPhone+16%E7%B3%BB%E5%88%97%E6%96%B0%E6%9C%BA%E3%80%82%E6%B2%A1%E6%83%B3%E5%88%B0%EF%BC%8C%E5%8D%8E%E4%B8%BA%E6%98%A8%EF%BC%882%E6%97%A5%EF%BC%89%E7%AA%81%E5%AE%A3%E5%B8%83%E8%A6%81%E5%9C%A8%E5%90%8C%E4%B8%80%E5%A4%A9%E4%B8%BE%E8%A1%8C%E5%8F%91%E8%A1%A8%E4%BC%9A%EF%BC%8C%E5%A4%96%E7%95%8C%E6%8E%A8%E6%B5%8B%E5%B0%86%E6%8E%A8%E5%87%BA%E5%8F%B2%E4%B8%8A%E9%A6%96%E8%A7%81%E7%9A%84%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA%EF%BC%8C%E6%AD%A4%E4%BA%8B%E8%AE%A9%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E4%BA%A7%E4%B8%9A%E4%BF%A1%E5%BF%83%E5%A4%A7%E6%8C%AF%EF%BC%8C%E7%A7%91%E6%8A%80%E5%AA%92%E4%BD%93%E2%80%9C%E9%9B%B7%E7%A7%91%E6%8A%80%E2%80%9D%E6%9B%B4%E8%AF%84%E8%AE%BA%EF%BC%8C%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%9B%A0%E6%AD%A4%E8%B5%B0%E4%B8%8B%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[产业](产业.md), [华为](华为.md), [因此](因此.md), [推出](推出.md), [科技](科技.md), [系列](系列.md), [苹果](苹果.md), [预计](预计.md)
-___
-##### 2024-08-30 04:35:29 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 以往是中国生产最新款高阶iPhone，印度供应商只能拿到低阶或旧款产品的订单。#南洋商报 #苹果 #apple #iphone #india https://t.co/lVVJae0Z05 https://t.co/jED5tUPyw5
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%BB%A5%E5%BE%80%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%94%9F%E4%BA%A7%E6%9C%80%E6%96%B0%E6%AC%BE%E9%AB%98%E9%98%B6iPhone%EF%BC%8C%E5%8D%B0%E5%BA%A6%E4%BE%9B%E5%BA%94%E5%95%86%E5%8F%AA%E8%83%BD%E6%8B%BF%E5%88%B0%E4%BD%8E%E9%98%B6%E6%88%96%E6%97%A7%E6%AC%BE%E4%BA%A7%E5%93%81%E7%9A%84%E8%AE%A2%E5%8D%95%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23apple+%23iphone+%23india+https%3A%2F%2Ft.co%2FlVVJae0Z05+https%3A%2F%2Ft.co%2FjED5tUPyw5)
-##### Other Words/Names of Interest in the Above Tweet
-[印度](印度.md), [生产](生产.md), [苹果](苹果.md), [订单](订单.md)
-___
-##### 2024-08-28 20:52:26 UTC ~ 联合早报 Lianhe Zaobao
-> RT @zaobaosg: 今年7月，包括美国苹果公司的iPhone手机在内的外国品牌智能手机在华销量同比增长2.7%。https://t.co/TDqKnh0VIQ
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E4%BB%8A%E5%B9%B47%E6%9C%88%EF%BC%8C%E5%8C%85%E6%8B%AC%E7%BE%8E%E5%9B%BD%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E7%9A%84iPhone%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%86%85%E7%9A%84%E5%A4%96%E5%9B%BD%E5%93%81%E7%89%8C%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%8D%8E%E9%94%80%E9%87%8F%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF2.7%25%E3%80%82https%3A%2F%2Ft.co%2FTDqKnh0VIQ)
-##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [品牌](品牌.md), [增长](增长.md), [美国](美国.md), [苹果](苹果.md), [销量](销量.md)
-___
-##### 2024-08-28 07:21:41 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 官网公布的活动主视觉为多种色彩叠加而成的苹果标志，外界推测可能与新机颜色有关。#南洋商报 #苹果 #APPLE #iPhone16 https://t.co/cAhZYjMQ71 https://t.co/2NxNboSTDi
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E5%AE%98%E7%BD%91%E5%85%AC%E5%B8%83%E7%9A%84%E6%B4%BB%E5%8A%A8%E4%B8%BB%E8%A7%86%E8%A7%89%E4%B8%BA%E5%A4%9A%E7%A7%8D%E8%89%B2%E5%BD%A9%E5%8F%A0%E5%8A%A0%E8%80%8C%E6%88%90%E7%9A%84%E8%8B%B9%E6%9E%9C%E6%A0%87%E5%BF%97%EF%BC%8C%E5%A4%96%E7%95%8C%E6%8E%A8%E6%B5%8B%E5%8F%AF%E8%83%BD%E4%B8%8E%E6%96%B0%E6%9C%BA%E9%A2%9C%E8%89%B2%E6%9C%89%E5%85%B3%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E8%8B%B9%E6%9E%9C+%23APPLE+%23iPhone16+https%3A%2F%2Ft.co%2FcAhZYjMQ71+https%3A%2F%2Ft.co%2F2NxNboSTDi)
-##### Other Words/Names of Interest in the Above Tweet
-[标志](标志.md), [苹果](苹果.md)
-___
-##### 2024-08-28 07:20:07 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 分析师在给投资者客户的报告中写道，亚洲供应链中越来越多的迹象表明，这次iPhone升级周期可能会是历史性的一次。全球大约有3亿部iPhone在四年多的时间里没有升级。 https://t.co/Zemu3tvNLr https://t.co/Ze…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%88%86%E6%9E%90%E5%B8%88%E5%9C%A8%E7%BB%99%E6%8A%95%E8%B5%84%E8%80%85%E5%AE%A2%E6%88%B7%E7%9A%84%E6%8A%A5%E5%91%8A%E4%B8%AD%E5%86%99%E9%81%93%EF%BC%8C%E4%BA%9A%E6%B4%B2%E4%BE%9B%E5%BA%94%E9%93%BE%E4%B8%AD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%EF%BC%8C%E8%BF%99%E6%AC%A1iPhone%E5%8D%87%E7%BA%A7%E5%91%A8%E6%9C%9F%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%98%AF%E5%8E%86%E5%8F%B2%E6%80%A7%E7%9A%84%E4%B8%80%E6%AC%A1%E3%80%82%E5%85%A8%E7%90%83%E5%A4%A7%E7%BA%A6%E6%9C%893%E4%BA%BF%E9%83%A8iPhone%E5%9C%A8%E5%9B%9B%E5%B9%B4%E5%A4%9A%E7%9A%84%E6%97%B6%E9%97%B4%E9%87%8C%E6%B2%A1%E6%9C%89%E5%8D%87%E7%BA%A7%E3%80%82+https%3A%2F%2Ft.co%2FZemu3tvNLr+https%3A%2F%2Ft.co%2FZe%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[供应链](供应链.md), [分析](分析.md), [分析师](分析师.md), [升级](升级.md), [客户](客户.md), [投资](投资.md), [越来越](越来越.md)
-___
-##### 2024-08-27 05:08:41 UTC ~ 华尔街日报中文网
-> RT @ChineseWSJ: 苹果公司已经发出9月9日活动的邀请函，预计届时将发布最新款iPhone，新手机将搭载AI驱动的新功能。 https://t.co/4t6hlpx3rQ https://t.co/4t6hlpx3rQ
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%87%BA9%E6%9C%889%E6%97%A5%E6%B4%BB%E5%8A%A8%E7%9A%84%E9%82%80%E8%AF%B7%E5%87%BD%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%B1%8A%E6%97%B6%E5%B0%86%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%AC%BEiPhone%EF%BC%8C%E6%96%B0%E6%89%8B%E6%9C%BA%E5%B0%86%E6%90%AD%E8%BD%BDAI%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%82+https%3A%2F%2Ft.co%2F4t6hlpx3rQ+https%3A%2F%2Ft.co%2F4t6hlpx3rQ)
-##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [届时](届时.md), [苹果](苹果.md), [预计](预计.md)
-___
-##### 2024-08-27 05:08:16 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 苹果公司（Apple Inc.）今天宣布，将于9月9日在美国加州古柏迪诺（Cupertino）举行秋季发表会，各界预期苹果会推出新款的智慧型手机iPhone系列。https://t.co/AWyL0Asy2U https://t.co/GiP…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple+Inc.%EF%BC%89%E4%BB%8A%E5%A4%A9%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%B0%86%E4%BA%8E9%E6%9C%889%E6%97%A5%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%8F%A4%E6%9F%8F%E8%BF%AA%E8%AF%BA%EF%BC%88Cupertino%EF%BC%89%E4%B8%BE%E8%A1%8C%E7%A7%8B%E5%AD%A3%E5%8F%91%E8%A1%A8%E4%BC%9A%EF%BC%8C%E5%90%84%E7%95%8C%E9%A2%84%E6%9C%9F%E8%8B%B9%E6%9E%9C%E4%BC%9A%E6%8E%A8%E5%87%BA%E6%96%B0%E6%AC%BE%E7%9A%84%E6%99%BA%E6%85%A7%E5%9E%8B%E6%89%8B%E6%9C%BAiPhone%E7%B3%BB%E5%88%97%E3%80%82https%3A%2F%2Ft.co%2FAWyL0Asy2U+https%3A%2F%2Ft.co%2FGiP%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[Apple](Apple.md), [加州](加州.md), [推出](推出.md), [系列](系列.md), [美国](美国.md), [苹果](苹果.md), [预期](预期.md)
 ____
 
 [Next Page](iPhone-01.md)

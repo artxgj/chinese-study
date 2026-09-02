@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2026-08-27 10:04:38 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 根据一项特殊的方案，Meta将仅支付和解金的70%，除非TikTok以及YouTube也同意为其未成年用户设置每天一小时的默认使用时长上限，并由这两家公司分别向这些州支付约53亿美元。只有在这两家公司同意上述条款的情况下，Meta才会支付其和解金…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%A0%B9%E6%8D%AE%E4%B8%80%E9%A1%B9%E7%89%B9%E6%AE%8A%E7%9A%84%E6%96%B9%E6%A1%88%EF%BC%8CMeta%E5%B0%86%E4%BB%85%E6%94%AF%E4%BB%98%E5%92%8C%E8%A7%A3%E9%87%91%E7%9A%8470%25%EF%BC%8C%E9%99%A4%E9%9D%9ETikTok%E4%BB%A5%E5%8F%8AYouTube%E4%B9%9F%E5%90%8C%E6%84%8F%E4%B8%BA%E5%85%B6%E6%9C%AA%E6%88%90%E5%B9%B4%E7%94%A8%E6%88%B7%E8%AE%BE%E7%BD%AE%E6%AF%8F%E5%A4%A9%E4%B8%80%E5%B0%8F%E6%97%B6%E7%9A%84%E9%BB%98%E8%AE%A4%E4%BD%BF%E7%94%A8%E6%97%B6%E9%95%BF%E4%B8%8A%E9%99%90%EF%BC%8C%E5%B9%B6%E7%94%B1%E8%BF%99%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%88%86%E5%88%AB%E5%90%91%E8%BF%99%E4%BA%9B%E5%B7%9E%E6%94%AF%E4%BB%98%E7%BA%A653%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E5%8F%AA%E6%9C%89%E5%9C%A8%E8%BF%99%E4%B8%A4%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%90%8C%E6%84%8F%E4%B8%8A%E8%BF%B0%E6%9D%A1%E6%AC%BE%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8CMeta%E6%89%8D%E4%BC%9A%E6%94%AF%E4%BB%98%E5%85%B6%E5%92%8C%E8%A7%A3%E9%87%91%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[和解](和解.md), [情况](情况.md), [支付](支付.md), [方案](方案.md), [条款](条款.md), [根据](根据.md), [特殊](特殊.md), [金](金.md)
+___
 ##### 2026-05-22 07:01:14 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: Meta、TikTok、Snap和YouTube就青少年伤害案达成和解协议，避免了全美各学区提起的逾1,200起合并诉讼中的首次庭审。https://t.co/DHDOAJVZec
 
@@ -127,7 +134,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [印尼](印尼.md), [印度](印度.md), [反垄断](反垄断.md), [垄断](垄断.md), [平台](平台.md), [收购](收购.md), [机构](机构.md), [电商](电商.md), [罚款](罚款.md)
 ___
-##### 2025-09-28 08:52:07 UTC ~ 日經中文網
+##### 2025-09-28 08:52:07 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【甲骨文創始人埃里森——靠對抗精神成世界首富】拉里・埃里森以81歲高齡成為世界首富，截至9月10日他的凈資産達到3930億美元，超過了好友馬斯克。蘋果創始人史蒂夫・賈伯斯是其摯友。由於和川普關係親密，埃里森還參與了收購TikTok的美國業…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%94%B2%E9%AA%A8%E6%96%87%E5%89%B5%E5%A7%8B%E4%BA%BA%E5%9F%83%E9%87%8C%E6%A3%AE%E2%80%94%E2%80%94%E9%9D%A0%E5%B0%8D%E6%8A%97%E7%B2%BE%E7%A5%9E%E6%88%90%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%E3%80%91%E6%8B%89%E9%87%8C%E3%83%BB%E5%9F%83%E9%87%8C%E6%A3%AE%E4%BB%A581%E6%AD%B2%E9%AB%98%E9%BD%A1%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E9%A6%96%E5%AF%8C%EF%BC%8C%E6%88%AA%E8%87%B39%E6%9C%8810%E6%97%A5%E4%BB%96%E7%9A%84%E5%87%88%E8%B3%87%E7%94%A3%E9%81%94%E5%88%B03930%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E8%B6%85%E9%81%8E%E4%BA%86%E5%A5%BD%E5%8F%8B%E9%A6%AC%E6%96%AF%E5%85%8B%E3%80%82%E8%98%8B%E6%9E%9C%E5%89%B5%E5%A7%8B%E4%BA%BA%E5%8F%B2%E8%92%82%E5%A4%AB%E3%83%BB%E8%B3%88%E4%BC%AF%E6%96%AF%E6%98%AF%E5%85%B6%E6%91%AF%E5%8F%8B%E3%80%82%E7%94%B1%E6%96%BC%E5%92%8C%E5%B7%9D%E6%99%AE%E9%97%9C%E4%BF%82%E8%A6%AA%E5%AF%86%EF%BC%8C%E5%9F%83%E9%87%8C%E6%A3%AE%E9%82%84%E5%8F%83%E8%88%87%E4%BA%86%E6%94%B6%E8%B3%BCTikTok%E7%9A%84%E7%BE%8E%E5%9C%8B%E6%A5%AD%E2%80%A6)
@@ -148,7 +155,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [交易](交易.md), [平台](平台.md), [投资](投资.md), [持续](持续.md), [斡旋](斡旋.md), [曙光](曙光.md), [科技](科技.md), [管制](管制.md), [贸易](贸易.md), [越来越](越来越.md)
 ___
-##### 2025-09-23 06:40:42 UTC ~ 日經中文網
+##### 2025-09-23 06:40:42 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok美國業務將移交美企聯合體主導運營】美國白宮9月22日發佈了相關消息。據稱，TikTok的母公司、中國字節跳動將剝離美國業務，移交給由美國董事會成員佔半數以上的合資公司。美國政府不會持股或注資。作為核心技術的演算法仍由中方以授…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E5%B0%87%E7%A7%BB%E4%BA%A4%E7%BE%8E%E4%BC%81%E8%81%AF%E5%90%88%E9%AB%94%E4%B8%BB%E5%B0%8E%E9%81%8B%E7%87%9F%E3%80%91%E7%BE%8E%E5%9C%8B%E7%99%BD%E5%AE%AE9%E6%9C%8822%E6%97%A5%E7%99%BC%E4%BD%88%E4%BA%86%E7%9B%B8%E9%97%9C%E6%B6%88%E6%81%AF%E3%80%82%E6%93%9A%E7%A8%B1%EF%BC%8CTikTok%E7%9A%84%E6%AF%8D%E5%85%AC%E5%8F%B8%E3%80%81%E4%B8%AD%E5%9C%8B%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E5%B0%87%E5%89%9D%E9%9B%A2%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%EF%BC%8C%E7%A7%BB%E4%BA%A4%E7%B5%A6%E7%94%B1%E7%BE%8E%E5%9C%8B%E8%91%A3%E4%BA%8B%E6%9C%83%E6%88%90%E5%93%A1%E4%BD%94%E5%8D%8A%E6%95%B8%E4%BB%A5%E4%B8%8A%E7%9A%84%E5%90%88%E8%B3%87%E5%85%AC%E5%8F%B8%E3%80%82%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%9C%83%E6%8C%81%E8%82%A1%E6%88%96%E6%B3%A8%E8%B3%87%E3%80%82%E4%BD%9C%E7%82%BA%E6%A0%B8%E5%BF%83%E6%8A%80%E8%A1%93%E7%9A%84%E6%BC%94%E7%AE%97%E6%B3%95%E4%BB%8D%E7%94%B1%E4%B8%AD%E6%96%B9%E4%BB%A5%E6%8E%88%E2%80%A6)
@@ -232,7 +239,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [主导](主导.md), [包括](包括.md), [协议](协议.md), [投资](投资.md), [控制](控制.md), [根据](根据.md), [甲骨文](甲骨文.md), [美国](美国.md), [股份](股份.md), [设立](设立.md)
 ___
-##### 2025-09-17 03:29:52 UTC ~ 日經中文網
+##### 2025-09-17 03:29:52 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美政府將TikTok美國業務出售期限延長至12月】出售期限延長三個月至12月16日。中美就出售美國業務達成框架協議，需要確保手續所需時間。按照法律規定，總統只能將出售期限最多延長90天且僅限一次，而川普此次已是第四次延長…… htt…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%B0%87TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E5%87%BA%E5%94%AE%E6%9C%9F%E9%99%90%E5%BB%B6%E9%95%B7%E8%87%B312%E6%9C%88%E3%80%91%E5%87%BA%E5%94%AE%E6%9C%9F%E9%99%90%E5%BB%B6%E9%95%B7%E4%B8%89%E5%80%8B%E6%9C%88%E8%87%B312%E6%9C%8816%E6%97%A5%E3%80%82%E4%B8%AD%E7%BE%8E%E5%B0%B1%E5%87%BA%E5%94%AE%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E9%81%94%E6%88%90%E6%A1%86%E6%9E%B6%E5%8D%94%E8%AD%B0%EF%BC%8C%E9%9C%80%E8%A6%81%E7%A2%BA%E4%BF%9D%E6%89%8B%E7%BA%8C%E6%89%80%E9%9C%80%E6%99%82%E9%96%93%E3%80%82%E6%8C%89%E7%85%A7%E6%B3%95%E5%BE%8B%E8%A6%8F%E5%AE%9A%EF%BC%8C%E7%B8%BD%E7%B5%B1%E5%8F%AA%E8%83%BD%E5%B0%87%E5%87%BA%E5%94%AE%E6%9C%9F%E9%99%90%E6%9C%80%E5%A4%9A%E5%BB%B6%E9%95%B790%E5%A4%A9%E4%B8%94%E5%83%85%E9%99%90%E4%B8%80%E6%AC%A1%EF%BC%8C%E8%80%8C%E5%B7%9D%E6%99%AE%E6%AD%A4%E6%AC%A1%E5%B7%B2%E6%98%AF%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%BB%B6%E9%95%B7%E2%80%A6%E2%80%A6+htt%E2%80%A6)
@@ -400,7 +407,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [潜在](潜在.md), [特朗普](特朗普.md), [甲骨文](甲骨文.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [透露](透露.md), [风险](风险.md)
 ___
-##### 2025-06-30 07:07:00 UTC ~ 日經中文網
+##### 2025-06-30 07:07:00 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok日本電商正式上線】日本休閒服裝企業WEGO、日清食品和美容健康器械企業雅萌等已計劃開店……https://t.co/Zfzlrpet7o
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E6%97%A5%E6%9C%AC%E9%9B%BB%E5%95%86%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%B7%9A%E3%80%91%E6%97%A5%E6%9C%AC%E4%BC%91%E9%96%92%E6%9C%8D%E8%A3%9D%E4%BC%81%E6%A5%ADWEGO%E3%80%81%E6%97%A5%E6%B8%85%E9%A3%9F%E5%93%81%E5%92%8C%E7%BE%8E%E5%AE%B9%E5%81%A5%E5%BA%B7%E5%99%A8%E6%A2%B0%E4%BC%81%E6%A5%AD%E9%9B%85%E8%90%8C%E7%AD%89%E5%B7%B2%E8%A8%88%E5%8A%83%E9%96%8B%E5%BA%97%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FZfzlrpet7o)
@@ -414,7 +421,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [字节跳动](字节跳动.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
-##### 2025-06-23 05:01:56 UTC ~ 日經中文網
+##### 2025-06-23 05:01:56 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Temu全面放開招募日本商家】平臺1月底以邀請制開始招募商家，目前已全面放開，商家可以自由申請。中國電商紛紛在日本擴大業務。阿里巴巴2024年秋季推出了面向日本市場的電商平臺「TAO（淘）」。TikTok也開始在日本招募商家………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Temu%E5%85%A8%E9%9D%A2%E6%94%BE%E9%96%8B%E6%8B%9B%E5%8B%9F%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%E3%80%91%E5%B9%B3%E8%87%BA1%E6%9C%88%E5%BA%95%E4%BB%A5%E9%82%80%E8%AB%8B%E5%88%B6%E9%96%8B%E5%A7%8B%E6%8B%9B%E5%8B%9F%E5%95%86%E5%AE%B6%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B7%B2%E5%85%A8%E9%9D%A2%E6%94%BE%E9%96%8B%EF%BC%8C%E5%95%86%E5%AE%B6%E5%8F%AF%E4%BB%A5%E8%87%AA%E7%94%B1%E7%94%B3%E8%AB%8B%E3%80%82%E4%B8%AD%E5%9C%8B%E9%9B%BB%E5%95%86%E7%B4%9B%E7%B4%9B%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%93%B4%E5%A4%A7%E6%A5%AD%E5%8B%99%E3%80%82%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B42024%E5%B9%B4%E7%A7%8B%E5%AD%A3%E6%8E%A8%E5%87%BA%E4%BA%86%E9%9D%A2%E5%90%91%E6%97%A5%E6%9C%AC%E5%B8%82%E5%A0%B4%E7%9A%84%E9%9B%BB%E5%95%86%E5%B9%B3%E8%87%BA%E3%80%8CTAO%EF%BC%88%E6%B7%98%EF%BC%89%E3%80%8D%E3%80%82TikTok%E4%B9%9F%E9%96%8B%E5%A7%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%8B%9B%E5%8B%9F%E5%95%86%E5%AE%B6%E2%80%A6%E2%80%A6%E2%80%A6)
@@ -470,7 +477,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [委员会](委员会.md), [指控](指控.md), [收入](收入.md), [监管](监管.md), [罚款](罚款.md), [证实](证实.md), [面临](面临.md)
 ___
-##### 2025-05-16 08:50:49 UTC ~ 日經中文網
+##### 2025-05-16 08:50:49 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【歐盟認定「TikTok違規」，廣告資訊披露不充分】《數位服務法》要求公開有關廣告資金來源的資訊。歐盟委員會認為TikTok的措施不夠充分……https://t.co/2LCSzpmpRK
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%AD%90%E7%9B%9F%E8%AA%8D%E5%AE%9A%E3%80%8CTikTok%E9%81%95%E8%A6%8F%E3%80%8D%EF%BC%8C%E5%BB%A3%E5%91%8A%E8%B3%87%E8%A8%8A%E6%8A%AB%E9%9C%B2%E4%B8%8D%E5%85%85%E5%88%86%E3%80%91%E3%80%8A%E6%95%B8%E4%BD%8D%E6%9C%8D%E5%8B%99%E6%B3%95%E3%80%8B%E8%A6%81%E6%B1%82%E5%85%AC%E9%96%8B%E6%9C%89%E9%97%9C%E5%BB%A3%E5%91%8A%E8%B3%87%E9%87%91%E4%BE%86%E6%BA%90%E7%9A%84%E8%B3%87%E8%A8%8A%E3%80%82%E6%AD%90%E7%9B%9F%E5%A7%94%E5%93%A1%E6%9C%83%E8%AA%8D%E7%82%BATikTok%E7%9A%84%E6%8E%AA%E6%96%BD%E4%B8%8D%E5%A4%A0%E5%85%85%E5%88%86%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F2LCSzpmpRK)
@@ -505,7 +512,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [保障](保障.md), [平台](平台.md), [数据](数据.md), [机构](机构.md), [监管](监管.md)
 ___
-##### 2025-04-27 02:43:39 UTC ~ 日經中文網
+##### 2025-04-27 02:43:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok電商擬2025年中期開通日本站】預計將在2025年中期開始利用短視頻銷售商品。計劃在日本開設電商服務「TikTokShop」，今後將正式開始招募開店者。由於在美國被政府要求出售業務，TikTok正在加快在日本等地擴展業務的步…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E9%9B%BB%E5%95%86%E6%93%AC2025%E5%B9%B4%E4%B8%AD%E6%9C%9F%E9%96%8B%E9%80%9A%E6%97%A5%E6%9C%AC%E7%AB%99%E3%80%91%E9%A0%90%E8%A8%88%E5%B0%87%E5%9C%A82025%E5%B9%B4%E4%B8%AD%E6%9C%9F%E9%96%8B%E5%A7%8B%E5%88%A9%E7%94%A8%E7%9F%AD%E8%A6%96%E9%A0%BB%E9%8A%B7%E5%94%AE%E5%95%86%E5%93%81%E3%80%82%E8%A8%88%E5%8A%83%E5%9C%A8%E6%97%A5%E6%9C%AC%E9%96%8B%E8%A8%AD%E9%9B%BB%E5%95%86%E6%9C%8D%E5%8B%99%E3%80%8CTikTokShop%E3%80%8D%EF%BC%8C%E4%BB%8A%E5%BE%8C%E5%B0%87%E6%AD%A3%E5%BC%8F%E9%96%8B%E5%A7%8B%E6%8B%9B%E5%8B%9F%E9%96%8B%E5%BA%97%E8%80%85%E3%80%82%E7%94%B1%E6%96%BC%E5%9C%A8%E7%BE%8E%E5%9C%8B%E8%A2%AB%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%87%BA%E5%94%AE%E6%A5%AD%E5%8B%99%EF%BC%8CTikTok%E6%AD%A3%E5%9C%A8%E5%8A%A0%E5%BF%AB%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%AD%89%E5%9C%B0%E6%93%B4%E5%B1%95%E6%A5%AD%E5%8B%99%E7%9A%84%E6%AD%A5%E2%80%A6)
@@ -617,14 +624,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [出售](出售.md), [协议](协议.md), [字节跳动](字节跳动.md), [特朗普](特朗普.md), [达成](达成.md)
 ___
-##### 2025-03-27 05:12:58 UTC ~ 日經中文網
+##### 2025-03-27 05:12:58 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【川普：若中國批準出售TikTok可降關稅】就中國短視頻分享應用TikTok美國業務的監管重新啟動期限，美國總統川普在3月26日的記者會上説：如果（收購方）尚未確定，我們就會延長期限。我們有權進行交易，如果希望，就可以延長……https…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%B7%9D%E6%99%AE%EF%BC%9A%E8%8B%A5%E4%B8%AD%E5%9C%8B%E6%89%B9%E6%BA%96%E5%87%BA%E5%94%AETikTok%E5%8F%AF%E9%99%8D%E9%97%9C%E7%A8%85%E3%80%91%E5%B0%B1%E4%B8%AD%E5%9C%8B%E7%9F%AD%E8%A6%96%E9%A0%BB%E5%88%86%E4%BA%AB%E6%87%89%E7%94%A8TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E7%9A%84%E7%9B%A3%E7%AE%A1%E9%87%8D%E6%96%B0%E5%95%9F%E5%8B%95%E6%9C%9F%E9%99%90%EF%BC%8C%E7%BE%8E%E5%9C%8B%E7%B8%BD%E7%B5%B1%E5%B7%9D%E6%99%AE%E5%9C%A83%E6%9C%8826%E6%97%A5%E7%9A%84%E8%A8%98%E8%80%85%E6%9C%83%E4%B8%8A%E8%AA%AC%EF%BC%9A%E5%A6%82%E6%9E%9C%EF%BC%88%E6%94%B6%E8%B3%BC%E6%96%B9%EF%BC%89%E5%B0%9A%E6%9C%AA%E7%A2%BA%E5%AE%9A%EF%BC%8C%E6%88%91%E5%80%91%E5%B0%B1%E6%9C%83%E5%BB%B6%E9%95%B7%E6%9C%9F%E9%99%90%E3%80%82%E6%88%91%E5%80%91%E6%9C%89%E6%AC%8A%E9%80%B2%E8%A1%8C%E4%BA%A4%E6%98%93%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%B8%8C%E6%9C%9B%EF%BC%8C%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%BB%B6%E9%95%B7%E2%80%A6%E2%80%A6https%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [交易](交易.md), [出售](出售.md), [啟動](啟動.md), [川普](川普.md), [確定](確定.md), [美國](美國.md), [關稅](關稅.md)
 ___
-##### 2025-03-24 02:51:22 UTC ~ 日經中文網
+##### 2025-03-24 02:51:22 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【白宮在挑選TikTok美國業務買家,有力候選是……】美國對TikTok的限制將於4月5日恢復執行，TikTok需要選擇撤出美國市場或出售其業務。負責談判的白宮有信心儘快選定買家，但中國政府是否會輕易同意仍不明朗。據報道，甲骨文正在考慮對…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%99%BD%E5%AE%AE%E5%9C%A8%E6%8C%91%E9%81%B8TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E8%B2%B7%E5%AE%B6%2C%E6%9C%89%E5%8A%9B%E5%80%99%E9%81%B8%E6%98%AF%E2%80%A6%E2%80%A6%E3%80%91%E7%BE%8E%E5%9C%8B%E5%B0%8DTikTok%E7%9A%84%E9%99%90%E5%88%B6%E5%B0%87%E6%96%BC4%E6%9C%885%E6%97%A5%E6%81%A2%E5%BE%A9%E5%9F%B7%E8%A1%8C%EF%BC%8CTikTok%E9%9C%80%E8%A6%81%E9%81%B8%E6%93%87%E6%92%A4%E5%87%BA%E7%BE%8E%E5%9C%8B%E5%B8%82%E5%A0%B4%E6%88%96%E5%87%BA%E5%94%AE%E5%85%B6%E6%A5%AD%E5%8B%99%E3%80%82%E8%B2%A0%E8%B2%AC%E8%AB%87%E5%88%A4%E7%9A%84%E7%99%BD%E5%AE%AE%E6%9C%89%E4%BF%A1%E5%BF%83%E5%84%98%E5%BF%AB%E9%81%B8%E5%AE%9A%E8%B2%B7%E5%AE%B6%EF%BC%8C%E4%BD%86%E4%B8%AD%E5%9C%8B%E6%94%BF%E5%BA%9C%E6%98%AF%E5%90%A6%E6%9C%83%E8%BC%95%E6%98%93%E5%90%8C%E6%84%8F%E4%BB%8D%E4%B8%8D%E6%98%8E%E6%9C%97%E3%80%82%E6%93%9A%E5%A0%B1%E9%81%93%EF%BC%8C%E7%94%B2%E9%AA%A8%E6%96%87%E6%AD%A3%E5%9C%A8%E8%80%83%E6%85%AE%E5%B0%8D%E2%80%A6)
@@ -764,7 +771,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [亿万富豪](亿万富豪.md), [合资企业](合资企业.md), [收购](收购.md), [特朗普](特朗普.md), [甲骨文](甲骨文.md), [科技](科技.md), [美国](美国.md)
 ___
-##### 2025-01-21 09:03:38 UTC ~ 日經中文網
+##### 2025-01-21 09:03:38 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美國給TikTok設置75天寬限期，要求獲得50％股權】川普稱，TikTok擁有1萬億美元的價值，但不和我交易就毫無價值。我認為我們應該獲得一半股權…… https://t.co/6iZaDa7DbM
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E7%B5%A6TikTok%E8%A8%AD%E7%BD%AE75%E5%A4%A9%E5%AF%AC%E9%99%90%E6%9C%9F%EF%BC%8C%E8%A6%81%E6%B1%82%E7%8D%B2%E5%BE%9750%EF%BC%85%E8%82%A1%E6%AC%8A%E3%80%91%E5%B7%9D%E6%99%AE%E7%A8%B1%EF%BC%8CTikTok%E6%93%81%E6%9C%891%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E7%9A%84%E5%83%B9%E5%80%BC%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%92%8C%E6%88%91%E4%BA%A4%E6%98%93%E5%B0%B1%E6%AF%AB%E7%84%A1%E5%83%B9%E5%80%BC%E3%80%82%E6%88%91%E8%AA%8D%E7%82%BA%E6%88%91%E5%80%91%E6%87%89%E8%A9%B2%E7%8D%B2%E5%BE%97%E4%B8%80%E5%8D%8A%E8%82%A1%E6%AC%8A%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.co%2F6iZaDa7DbM)
@@ -813,7 +820,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [提出](提出.md), [方案](方案.md), [特朗普](特朗普.md)
 ___
-##### 2025-01-20 05:18:11 UTC ~ 日經中文網
+##### 2025-01-20 05:18:11 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok恢復服務，川普要求與美國資本合資】要求外資企業在國內拓展業務時與本國資本合資的做法是中國採用的做法。在第一屆川普政府時期曾批評此舉可能導致智慧財産權外流…… https://t.co/Im5xqetRnV
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E6%81%A2%E5%BE%A9%E6%9C%8D%E5%8B%99%EF%BC%8C%E5%B7%9D%E6%99%AE%E8%A6%81%E6%B1%82%E8%88%87%E7%BE%8E%E5%9C%8B%E8%B3%87%E6%9C%AC%E5%90%88%E8%B3%87%E3%80%91%E8%A6%81%E6%B1%82%E5%A4%96%E8%B3%87%E4%BC%81%E6%A5%AD%E5%9C%A8%E5%9C%8B%E5%85%A7%E6%8B%93%E5%B1%95%E6%A5%AD%E5%8B%99%E6%99%82%E8%88%87%E6%9C%AC%E5%9C%8B%E8%B3%87%E6%9C%AC%E5%90%88%E8%B3%87%E7%9A%84%E5%81%9A%E6%B3%95%E6%98%AF%E4%B8%AD%E5%9C%8B%E6%8E%A1%E7%94%A8%E7%9A%84%E5%81%9A%E6%B3%95%E3%80%82%E5%9C%A8%E7%AC%AC%E4%B8%80%E5%B1%86%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E6%99%82%E6%9C%9F%E6%9B%BE%E6%89%B9%E8%A9%95%E6%AD%A4%E8%88%89%E5%8F%AF%E8%83%BD%E5%B0%8E%E8%87%B4%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A3%E6%AC%8A%E5%A4%96%E6%B5%81%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.co%2FIm5xqetRnV)
@@ -988,7 +995,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [字节跳动](字节跳动.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
-##### 2025-01-17 01:39:27 UTC ~ 日經中文網
+##### 2025-01-17 01:39:27 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【「TikTok難民」湧入小紅書】TikTok的美國用戶正在接連流入中國社交網站小紅書，有數據稱兩天內有超過70萬用戶新註冊。中國網友特意用英語發帖：歡迎加入小紅書。中國人很友好，不要害怕，想和大家交流……https://t.co/Z9…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E3%80%8CTikTok%E9%9B%A3%E6%B0%91%E3%80%8D%E6%B9%A7%E5%85%A5%E5%B0%8F%E7%B4%85%E6%9B%B8%E3%80%91TikTok%E7%9A%84%E7%BE%8E%E5%9C%8B%E7%94%A8%E6%88%B6%E6%AD%A3%E5%9C%A8%E6%8E%A5%E9%80%A3%E6%B5%81%E5%85%A5%E4%B8%AD%E5%9C%8B%E7%A4%BE%E4%BA%A4%E7%B6%B2%E7%AB%99%E5%B0%8F%E7%B4%85%E6%9B%B8%EF%BC%8C%E6%9C%89%E6%95%B8%E6%93%9A%E7%A8%B1%E5%85%A9%E5%A4%A9%E5%85%A7%E6%9C%89%E8%B6%85%E9%81%8E70%E8%90%AC%E7%94%A8%E6%88%B6%E6%96%B0%E8%A8%BB%E5%86%8A%E3%80%82%E4%B8%AD%E5%9C%8B%E7%B6%B2%E5%8F%8B%E7%89%B9%E6%84%8F%E7%94%A8%E8%8B%B1%E8%AA%9E%E7%99%BC%E5%B8%96%EF%BC%9A%E6%AD%A1%E8%BF%8E%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B4%85%E6%9B%B8%E3%80%82%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%BE%88%E5%8F%8B%E5%A5%BD%EF%BC%8C%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%EF%BC%8C%E6%83%B3%E5%92%8C%E5%A4%A7%E5%AE%B6%E4%BA%A4%E6%B5%81%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FZ9%E2%80%A6)
@@ -1100,7 +1107,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [担忧](担忧.md), [支持](支持.md), [最高法院](最高法院.md), [美国](美国.md)
 ___
-##### 2025-01-13 01:59:02 UTC ~ 日經中文網
+##### 2025-01-13 01:59:02 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美最高法院舉行辯論，或支援限制TikTok】美國聯邦最高法院就是否應阻止實施對TikTok進行限制的新法舉行了口頭辯論。多數法官對公司方面表現出嚴厲態度，認為最高法院會支援限制的觀點增強。新法預定於1月19日生效……https://t…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%88%89%E8%A1%8C%E8%BE%AF%E8%AB%96%EF%BC%8C%E6%88%96%E6%94%AF%E6%8F%B4%E9%99%90%E5%88%B6TikTok%E3%80%91%E7%BE%8E%E5%9C%8B%E8%81%AF%E9%82%A6%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%B0%B1%E6%98%AF%E5%90%A6%E6%87%89%E9%98%BB%E6%AD%A2%E5%AF%A6%E6%96%BD%E5%B0%8DTikTok%E9%80%B2%E8%A1%8C%E9%99%90%E5%88%B6%E7%9A%84%E6%96%B0%E6%B3%95%E8%88%89%E8%A1%8C%E4%BA%86%E5%8F%A3%E9%A0%AD%E8%BE%AF%E8%AB%96%E3%80%82%E5%A4%9A%E6%95%B8%E6%B3%95%E5%AE%98%E5%B0%8D%E5%85%AC%E5%8F%B8%E6%96%B9%E9%9D%A2%E8%A1%A8%E7%8F%BE%E5%87%BA%E5%9A%B4%E5%8E%B2%E6%85%8B%E5%BA%A6%EF%BC%8C%E8%AA%8D%E7%82%BA%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%9C%83%E6%94%AF%E6%8F%B4%E9%99%90%E5%88%B6%E7%9A%84%E8%A7%80%E9%BB%9E%E5%A2%9E%E5%BC%B7%E3%80%82%E6%96%B0%E6%B3%95%E9%A0%90%E5%AE%9A%E6%96%BC1%E6%9C%8819%E6%97%A5%E7%94%9F%E6%95%88%E2%80%A6%E2%80%A6https%3A%2F%2Ft%E2%80%A6)
@@ -1163,7 +1170,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [来自](来自.md), [计划](计划.md)
 ___
-##### 2024-12-30 06:09:44 UTC ~ 日經中文網
+##### 2024-12-30 06:09:44 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【川普要求暫緩實施禁令，TikTok或逃過一劫】限制TikTok的新法將於1月19日生效，是川普上任的前一天。川普認為新法的實施「有可能在全球範圍內開創危險的先例」。即使新法如期生效，他也可能利用總統許可權，允許TikTok在美國繼續運營…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%B7%9D%E6%99%AE%E8%A6%81%E6%B1%82%E6%9A%AB%E7%B7%A9%E5%AF%A6%E6%96%BD%E7%A6%81%E4%BB%A4%EF%BC%8CTikTok%E6%88%96%E9%80%83%E9%81%8E%E4%B8%80%E5%8A%AB%E3%80%91%E9%99%90%E5%88%B6TikTok%E7%9A%84%E6%96%B0%E6%B3%95%E5%B0%87%E6%96%BC1%E6%9C%8819%E6%97%A5%E7%94%9F%E6%95%88%EF%BC%8C%E6%98%AF%E5%B7%9D%E6%99%AE%E4%B8%8A%E4%BB%BB%E7%9A%84%E5%89%8D%E4%B8%80%E5%A4%A9%E3%80%82%E5%B7%9D%E6%99%AE%E8%AA%8D%E7%82%BA%E6%96%B0%E6%B3%95%E7%9A%84%E5%AF%A6%E6%96%BD%E3%80%8C%E6%9C%89%E5%8F%AF%E8%83%BD%E5%9C%A8%E5%85%A8%E7%90%83%E7%AF%84%E5%9C%8D%E5%85%A7%E9%96%8B%E5%89%B5%E5%8D%B1%E9%9A%AA%E7%9A%84%E5%85%88%E4%BE%8B%E3%80%8D%E3%80%82%E5%8D%B3%E4%BD%BF%E6%96%B0%E6%B3%95%E5%A6%82%E6%9C%9F%E7%94%9F%E6%95%88%EF%BC%8C%E4%BB%96%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%88%A9%E7%94%A8%E7%B8%BD%E7%B5%B1%E8%A8%B1%E5%8F%AF%E6%AC%8A%EF%BC%8C%E5%85%81%E8%A8%B1TikTok%E5%9C%A8%E7%BE%8E%E5%9C%8B%E7%B9%BC%E7%BA%8C%E9%81%8B%E7%87%9F%E2%80%A6)
@@ -1191,7 +1198,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [影响](影响.md), [最高法院](最高法院.md), [案件](案件.md), [美国](美国.md), [裁决](裁决.md), [进行](进行.md)
 ___
-##### 2024-12-17 08:34:13 UTC ~ 日經中文網
+##### 2024-12-17 08:34:13 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok請求美國最高法院暫緩禁令】TikTok表示將就上訴法院的判決向最高法院提起上訴。最高法院也有可能不受理該上訴……https://t.co/TtqlWhbvvC
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E8%AB%8B%E6%B1%82%E7%BE%8E%E5%9C%8B%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%9A%AB%E7%B7%A9%E7%A6%81%E4%BB%A4%E3%80%91TikTok%E8%A1%A8%E7%A4%BA%E5%B0%87%E5%B0%B1%E4%B8%8A%E8%A8%B4%E6%B3%95%E9%99%A2%E7%9A%84%E5%88%A4%E6%B1%BA%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%8F%90%E8%B5%B7%E4%B8%8A%E8%A8%B4%E3%80%82%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E4%B9%9F%E6%9C%89%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%8F%97%E7%90%86%E8%A9%B2%E4%B8%8A%E8%A8%B4%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FTtqlWhbvvC)
@@ -1254,14 +1261,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [估值](估值.md), [字节跳动](字节跳动.md), [投资](投资.md), [提出](提出.md), [计划](计划.md)
 ___
-##### 2024-10-10 02:36:47 UTC ~ 日經中文網
+##### 2024-10-10 02:36:47 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美國14個州和地區起訴TikTok】美國14個州和地區的總檢察長10月8日以TikTok正在損害年輕人的精神衛生為由，起訴了運營公司。在具體的APP功能方面，認為濾鏡會導致年輕人對自己的外貌產生負面看法，將之視為問題……https:/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B14%E5%80%8B%E5%B7%9E%E5%92%8C%E5%9C%B0%E5%8D%80%E8%B5%B7%E8%A8%B4TikTok%E3%80%91%E7%BE%8E%E5%9C%8B14%E5%80%8B%E5%B7%9E%E5%92%8C%E5%9C%B0%E5%8D%80%E7%9A%84%E7%B8%BD%E6%AA%A2%E5%AF%9F%E9%95%B710%E6%9C%888%E6%97%A5%E4%BB%A5TikTok%E6%AD%A3%E5%9C%A8%E6%90%8D%E5%AE%B3%E5%B9%B4%E8%BC%95%E4%BA%BA%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%A1%9B%E7%94%9F%E7%82%BA%E7%94%B1%EF%BC%8C%E8%B5%B7%E8%A8%B4%E4%BA%86%E9%81%8B%E7%87%9F%E5%85%AC%E5%8F%B8%E3%80%82%E5%9C%A8%E5%85%B7%E9%AB%94%E7%9A%84APP%E5%8A%9F%E8%83%BD%E6%96%B9%E9%9D%A2%EF%BC%8C%E8%AA%8D%E7%82%BA%E6%BF%BE%E9%8F%A1%E6%9C%83%E5%B0%8E%E8%87%B4%E5%B9%B4%E8%BC%95%E4%BA%BA%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%96%E8%B2%8C%E7%94%A2%E7%94%9F%E8%B2%A0%E9%9D%A2%E7%9C%8B%E6%B3%95%EF%BC%8C%E5%B0%87%E4%B9%8B%E8%A6%96%E7%82%BA%E5%95%8F%E9%A1%8C%E2%80%A6%E2%80%A6https%3A%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [美國](美國.md), [起訴](起訴.md)
 ___
-##### 2024-09-26 02:41:37 UTC ~ 日經中文網
+##### 2024-09-26 02:41:37 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok Music將在全球停止服務】TikTok Music是可以完整收聽或下載在TikTok上找到的樂曲的訂閱服務。將於11月28日在所有國家停止服務。背景是唱片公司對低廉的樂曲使用費不滿……https://t.co/98mNf…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok+Music%E5%B0%87%E5%9C%A8%E5%85%A8%E7%90%83%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8B%99%E3%80%91TikTok+Music%E6%98%AF%E5%8F%AF%E4%BB%A5%E5%AE%8C%E6%95%B4%E6%94%B6%E8%81%BD%E6%88%96%E4%B8%8B%E8%BC%89%E5%9C%A8TikTok%E4%B8%8A%E6%89%BE%E5%88%B0%E7%9A%84%E6%A8%82%E6%9B%B2%E7%9A%84%E8%A8%82%E9%96%B1%E6%9C%8D%E5%8B%99%E3%80%82%E5%B0%87%E6%96%BC11%E6%9C%8828%E6%97%A5%E5%9C%A8%E6%89%80%E6%9C%89%E5%9C%8B%E5%AE%B6%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8B%99%E3%80%82%E8%83%8C%E6%99%AF%E6%98%AF%E5%94%B1%E7%89%87%E5%85%AC%E5%8F%B8%E5%B0%8D%E4%BD%8E%E5%BB%89%E7%9A%84%E6%A8%82%E6%9B%B2%E4%BD%BF%E7%94%A8%E8%B2%BB%E4%B8%8D%E6%BB%BF%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F98mNf%E2%80%A6)
@@ -1366,7 +1373,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [商品](商品.md), [增长](增长.md), [巨头](巨头.md), [控制](控制.md), [消费者](消费者.md), [电商](电商.md), [知情](知情.md), [知情人士](知情人士.md), [美国](美国.md), [转变](转变.md), [透露](透露.md), [风险](风险.md)
 ___
-##### 2024-05-09 05:17:48 UTC ~ 日經中文網
+##### 2024-05-09 05:17:48 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok和字節跳動起訴美國政府】TikTok美國業務的運營公司和其母公司字節跳動已向美國首都華盛頓的聯邦上訴法院提起訴訟。TikTok的運營方在起訴書中主張，「禁止TikTok明顯違憲」……https://t.co/VP1Oivbi…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E5%92%8C%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E8%B5%B7%E8%A8%B4%E7%BE%8E%E5%9C%8B%E6%94%BF%E5%BA%9C%E3%80%91TikTok%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E7%9A%84%E9%81%8B%E7%87%9F%E5%85%AC%E5%8F%B8%E5%92%8C%E5%85%B6%E6%AF%8D%E5%85%AC%E5%8F%B8%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E5%B7%B2%E5%90%91%E7%BE%8E%E5%9C%8B%E9%A6%96%E9%83%BD%E8%8F%AF%E7%9B%9B%E9%A0%93%E7%9A%84%E8%81%AF%E9%82%A6%E4%B8%8A%E8%A8%B4%E6%B3%95%E9%99%A2%E6%8F%90%E8%B5%B7%E8%A8%B4%E8%A8%9F%E3%80%82TikTok%E7%9A%84%E9%81%8B%E7%87%9F%E6%96%B9%E5%9C%A8%E8%B5%B7%E8%A8%B4%E6%9B%B8%E4%B8%AD%E4%B8%BB%E5%BC%B5%EF%BC%8C%E3%80%8C%E7%A6%81%E6%AD%A2TikTok%E6%98%8E%E9%A1%AF%E9%81%95%E6%86%B2%E3%80%8D%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FVP1Oivbi%E2%80%A6)
@@ -1408,14 +1415,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [保障](保障.md), [分析](分析.md), [医疗](医疗.md), [影响](影响.md), [指出](指出.md), [推动](推动.md), [数据](数据.md), [标志](标志.md), [禁止](禁止.md), [美国](美国.md), [贸易](贸易.md), [阶段](阶段.md), [领域](领域.md)
 ___
-##### 2024-04-29 04:18:39 UTC ~ 日經中文網
+##### 2024-04-29 04:18:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok的退路越來越窄】今後的走向主要有三種可能性，一是運營方在法庭審理中勝訴，二是出售美國業務，三是停止服務。位元組跳動向《日本經濟新聞》表示沒有任何出售TikTok的計劃……https://t.co/5qz4JUedjX
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E7%9A%84%E9%80%80%E8%B7%AF%E8%B6%8A%E4%BE%86%E8%B6%8A%E7%AA%84%E3%80%91%E4%BB%8A%E5%BE%8C%E7%9A%84%E8%B5%B0%E5%90%91%E4%B8%BB%E8%A6%81%E6%9C%89%E4%B8%89%E7%A8%AE%E5%8F%AF%E8%83%BD%E6%80%A7%EF%BC%8C%E4%B8%80%E6%98%AF%E9%81%8B%E7%87%9F%E6%96%B9%E5%9C%A8%E6%B3%95%E5%BA%AD%E5%AF%A9%E7%90%86%E4%B8%AD%E5%8B%9D%E8%A8%B4%EF%BC%8C%E4%BA%8C%E6%98%AF%E5%87%BA%E5%94%AE%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%EF%BC%8C%E4%B8%89%E6%98%AF%E5%81%9C%E6%AD%A2%E6%9C%8D%E5%8B%99%E3%80%82%E4%BD%8D%E5%85%83%E7%B5%84%E8%B7%B3%E5%8B%95%E5%90%91%E3%80%8A%E6%97%A5%E6%9C%AC%E7%B6%93%E6%BF%9F%E6%96%B0%E8%81%9E%E3%80%8B%E8%A1%A8%E7%A4%BA%E6%B2%92%E6%9C%89%E4%BB%BB%E4%BD%95%E5%87%BA%E5%94%AETikTok%E7%9A%84%E8%A8%88%E5%8A%83%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F5qz4JUedjX)
 ##### Other Words/Names of Interest in the Above Tweet
 [出售](出售.md), [日本](日本.md), [法庭](法庭.md), [美國](美國.md), [計劃](計劃.md)
 ___
-##### 2024-04-25 06:40:13 UTC ~ 日經中文網
+##### 2024-04-25 06:40:13 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美國通過限製法案，TikTok將在法庭抗爭】拜登簽署相關法案，要求TikTok的美國業務要麼從中國資本剝離，要麼禁用。TikTok回應稱「這是禁止TikTok的違憲法律，將向法院提起訴訟」。美國內部也有觀點認為這一法律與言論自由相衝突……
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E9%80%9A%E9%81%8E%E9%99%90%E8%A3%BD%E6%B3%95%E6%A1%88%EF%BC%8CTikTok%E5%B0%87%E5%9C%A8%E6%B3%95%E5%BA%AD%E6%8A%97%E7%88%AD%E3%80%91%E6%8B%9C%E7%99%BB%E7%B0%BD%E7%BD%B2%E7%9B%B8%E9%97%9C%E6%B3%95%E6%A1%88%EF%BC%8C%E8%A6%81%E6%B1%82TikTok%E7%9A%84%E7%BE%8E%E5%9C%8B%E6%A5%AD%E5%8B%99%E8%A6%81%E9%BA%BC%E5%BE%9E%E4%B8%AD%E5%9C%8B%E8%B3%87%E6%9C%AC%E5%89%9D%E9%9B%A2%EF%BC%8C%E8%A6%81%E9%BA%BC%E7%A6%81%E7%94%A8%E3%80%82TikTok%E5%9B%9E%E6%87%89%E7%A8%B1%E3%80%8C%E9%80%99%E6%98%AF%E7%A6%81%E6%AD%A2TikTok%E7%9A%84%E9%81%95%E6%86%B2%E6%B3%95%E5%BE%8B%EF%BC%8C%E5%B0%87%E5%90%91%E6%B3%95%E9%99%A2%E6%8F%90%E8%B5%B7%E8%A8%B4%E8%A8%9F%E3%80%8D%E3%80%82%E7%BE%8E%E5%9C%8B%E5%85%A7%E9%83%A8%E4%B9%9F%E6%9C%89%E8%A7%80%E9%BB%9E%E8%AA%8D%E7%82%BA%E9%80%99%E4%B8%80%E6%B3%95%E5%BE%8B%E8%88%87%E8%A8%80%E8%AB%96%E8%87%AA%E7%94%B1%E7%9B%B8%E8%A1%9D%E7%AA%81%E2%80%A6%E2%80%A6)
@@ -1716,7 +1723,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [互联网](互联网.md), [字节跳动](字节跳动.md), [巨头](巨头.md), [平台](平台.md), [提出](提出.md), [法案](法案.md), [美国](美国.md), [面临](面临.md)
 ___
-##### 2024-03-06 05:17:50 UTC ~ 日經中文網
+##### 2024-03-06 05:17:50 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【對生活不滿的人更愛刷抖音？】根據美國南加州大學等的調查顯示，使用TikTok（抖音國際版）的用戶，對工作和日常生活感到不滿的比例較高。使用「X」（舊Twitter）的用戶中，很多人對自己的健康狀況不滿。對生活整體滿意度較高的人在用的AP…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%B0%8D%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%BB%BF%E7%9A%84%E4%BA%BA%E6%9B%B4%E6%84%9B%E5%88%B7%E6%8A%96%E9%9F%B3%EF%BC%9F%E3%80%91%E6%A0%B9%E6%93%9A%E7%BE%8E%E5%9C%8B%E5%8D%97%E5%8A%A0%E5%B7%9E%E5%A4%A7%E5%AD%B8%E7%AD%89%E7%9A%84%E8%AA%BF%E6%9F%A5%E9%A1%AF%E7%A4%BA%EF%BC%8C%E4%BD%BF%E7%94%A8TikTok%EF%BC%88%E6%8A%96%E9%9F%B3%E5%9C%8B%E9%9A%9B%E7%89%88%EF%BC%89%E7%9A%84%E7%94%A8%E6%88%B6%EF%BC%8C%E5%B0%8D%E5%B7%A5%E4%BD%9C%E5%92%8C%E6%97%A5%E5%B8%B8%E7%94%9F%E6%B4%BB%E6%84%9F%E5%88%B0%E4%B8%8D%E6%BB%BF%E7%9A%84%E6%AF%94%E4%BE%8B%E8%BC%83%E9%AB%98%E3%80%82%E4%BD%BF%E7%94%A8%E3%80%8CX%E3%80%8D%EF%BC%88%E8%88%8ATwitter%EF%BC%89%E7%9A%84%E7%94%A8%E6%88%B6%E4%B8%AD%EF%BC%8C%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%B0%8D%E8%87%AA%E5%B7%B1%E7%9A%84%E5%81%A5%E5%BA%B7%E7%8B%80%E6%B3%81%E4%B8%8D%E6%BB%BF%E3%80%82%E5%B0%8D%E7%94%9F%E6%B4%BB%E6%95%B4%E9%AB%94%E6%BB%BF%E6%84%8F%E5%BA%A6%E8%BC%83%E9%AB%98%E7%9A%84%E4%BA%BA%E5%9C%A8%E7%94%A8%E7%9A%84AP%E2%80%A6)
@@ -1751,14 +1758,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [平台](平台.md), [收入](收入.md), [社交媒体](社交媒体.md), [罚款](罚款.md), [调查](调查.md), [面临](面临.md), [风险](风险.md)
 ___
-##### 2024-02-20 03:44:33 UTC ~ 日經中文網
+##### 2024-02-20 03:44:33 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【歐盟以「對未成年人保護不充分」調查TikTok】歐洲委員會還提出了TikTok的APP系統有引起被稱為「兔子洞效應」的依賴症的風險。今後將聽取TikTok方面及專家等的意見並進行調查。如果最終判定違反法律，處罰的罰款最高將達到全球銷售額…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%AD%90%E7%9B%9F%E4%BB%A5%E3%80%8C%E5%B0%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E8%AD%B7%E4%B8%8D%E5%85%85%E5%88%86%E3%80%8D%E8%AA%BF%E6%9F%A5TikTok%E3%80%91%E6%AD%90%E6%B4%B2%E5%A7%94%E5%93%A1%E6%9C%83%E9%82%84%E6%8F%90%E5%87%BA%E4%BA%86TikTok%E7%9A%84APP%E7%B3%BB%E7%B5%B1%E6%9C%89%E5%BC%95%E8%B5%B7%E8%A2%AB%E7%A8%B1%E7%82%BA%E3%80%8C%E5%85%94%E5%AD%90%E6%B4%9E%E6%95%88%E6%87%89%E3%80%8D%E7%9A%84%E4%BE%9D%E8%B3%B4%E7%97%87%E7%9A%84%E9%A2%A8%E9%9A%AA%E3%80%82%E4%BB%8A%E5%BE%8C%E5%B0%87%E8%81%BD%E5%8F%96TikTok%E6%96%B9%E9%9D%A2%E5%8F%8A%E5%B0%88%E5%AE%B6%E7%AD%89%E7%9A%84%E6%84%8F%E8%A6%8B%E4%B8%A6%E9%80%B2%E8%A1%8C%E8%AA%BF%E6%9F%A5%E3%80%82%E5%A6%82%E6%9E%9C%E6%9C%80%E7%B5%82%E5%88%A4%E5%AE%9A%E9%81%95%E5%8F%8D%E6%B3%95%E5%BE%8B%EF%BC%8C%E8%99%95%E7%BD%B0%E7%9A%84%E7%BD%B0%E6%AC%BE%E6%9C%80%E9%AB%98%E5%B0%87%E9%81%94%E5%88%B0%E5%85%A8%E7%90%83%E9%8A%B7%E5%94%AE%E9%A1%8D%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [引起](引起.md), [提出](提出.md), [銷售額](銷售額.md)
 ___
-##### 2024-02-18 00:05:06 UTC ~ 日經中文網
+##### 2024-02-18 00:05:06 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【全球用戶花費最多的APP：TikTok居首】用戶都把錢花費在了哪些應用程序（APP）上呢？日經對全球和各國用戶付費額最高的APP進行排名，還比較了2023年和2020年的數據。在全球付費額最高的20款APP中，源自中國的APP佔了5款……
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%85%A8%E7%90%83%E7%94%A8%E6%88%B6%E8%8A%B1%E8%B2%BB%E6%9C%80%E5%A4%9A%E7%9A%84APP%EF%BC%9ATikTok%E5%B1%85%E9%A6%96%E3%80%91%E7%94%A8%E6%88%B6%E9%83%BD%E6%8A%8A%E9%8C%A2%E8%8A%B1%E8%B2%BB%E5%9C%A8%E4%BA%86%E5%93%AA%E4%BA%9B%E6%87%89%E7%94%A8%E7%A8%8B%E5%BA%8F%EF%BC%88APP%EF%BC%89%E4%B8%8A%E5%91%A2%EF%BC%9F%E6%97%A5%E7%B6%93%E5%B0%8D%E5%85%A8%E7%90%83%E5%92%8C%E5%90%84%E5%9C%8B%E7%94%A8%E6%88%B6%E4%BB%98%E8%B2%BB%E9%A1%8D%E6%9C%80%E9%AB%98%E7%9A%84APP%E9%80%B2%E8%A1%8C%E6%8E%92%E5%90%8D%EF%BC%8C%E9%82%84%E6%AF%94%E8%BC%83%E4%BA%862023%E5%B9%B4%E5%92%8C2020%E5%B9%B4%E7%9A%84%E6%95%B8%E6%93%9A%E3%80%82%E5%9C%A8%E5%85%A8%E7%90%83%E4%BB%98%E8%B2%BB%E9%A1%8D%E6%9C%80%E9%AB%98%E7%9A%8420%E6%AC%BEAPP%E4%B8%AD%EF%BC%8C%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9C%8B%E7%9A%84APP%E4%BD%94%E4%BA%865%E6%AC%BE%E2%80%A6%E2%80%A6)
@@ -1793,7 +1800,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [亚马逊](亚马逊.md), [希音](希音.md), [试图](试图.md), [购物](购物.md)
 ___
-##### 2024-02-02 05:59:20 UTC ~ 日經中文網
+##### 2024-02-02 05:59:20 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok和SHEIN在美國遊説經費激增】字節跳動的活動經費比去年增加了77%，達到874萬美元。SHEIN也大幅增長，2023年為212萬美元，增至前一年的7.6倍。美國企業中金額最多的亞馬遜約為1980萬美元，比去年減少7%………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E5%92%8CSHEIN%E5%9C%A8%E7%BE%8E%E5%9C%8B%E9%81%8A%E8%AA%AC%E7%B6%93%E8%B2%BB%E6%BF%80%E5%A2%9E%E3%80%91%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E7%9A%84%E6%B4%BB%E5%8B%95%E7%B6%93%E8%B2%BB%E6%AF%94%E5%8E%BB%E5%B9%B4%E5%A2%9E%E5%8A%A0%E4%BA%8677%25%EF%BC%8C%E9%81%94%E5%88%B0874%E8%90%AC%E7%BE%8E%E5%85%83%E3%80%82SHEIN%E4%B9%9F%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%B7%EF%BC%8C2023%E5%B9%B4%E7%82%BA212%E8%90%AC%E7%BE%8E%E5%85%83%EF%BC%8C%E5%A2%9E%E8%87%B3%E5%89%8D%E4%B8%80%E5%B9%B4%E7%9A%847.6%E5%80%8D%E3%80%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%B8%AD%E9%87%91%E9%A1%8D%E6%9C%80%E5%A4%9A%E7%9A%84%E4%BA%9E%E9%A6%AC%E9%81%9C%E7%B4%84%E7%82%BA1980%E8%90%AC%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AF%94%E5%8E%BB%E5%B9%B4%E6%B8%9B%E5%B0%917%25%E2%80%A6%E2%80%A6%E2%80%A6)
@@ -2059,21 +2066,21 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [威胁](威胁.md), [支持](支持.md), [机构](机构.md), [美国](美国.md), [金](金.md), [金融](金融.md)
 ___
-##### 2023-09-20 01:10:23 UTC ~ 日經中文網
+##### 2023-09-20 01:10:23 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok扩大海外“卖场”，对抗亚马逊】 “大量发货让我每天忙得不可开交”，美国个体商户克里斯汀·昆卡对TikTok的推广力感到惊讶。TikTok在东南亚已发展成威胁最大电商平台等的存在，如今又在美国开展电商业务，加强了与美国亚马逊对…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E6%89%A9%E5%A4%A7%E6%B5%B7%E5%A4%96%E2%80%9C%E5%8D%96%E5%9C%BA%E2%80%9D%EF%BC%8C%E5%AF%B9%E6%8A%97%E4%BA%9A%E9%A9%AC%E9%80%8A%E3%80%91+%E2%80%9C%E5%A4%A7%E9%87%8F%E5%8F%91%E8%B4%A7%E8%AE%A9%E6%88%91%E6%AF%8F%E5%A4%A9%E5%BF%99%E5%BE%97%E4%B8%8D%E5%8F%AF%E5%BC%80%E4%BA%A4%E2%80%9D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%B8%AA%E4%BD%93%E5%95%86%E6%88%B7%E5%85%8B%E9%87%8C%E6%96%AF%E6%B1%80%C2%B7%E6%98%86%E5%8D%A1%E5%AF%B9TikTok%E7%9A%84%E6%8E%A8%E5%B9%BF%E5%8A%9B%E6%84%9F%E5%88%B0%E6%83%8A%E8%AE%B6%E3%80%82TikTok%E5%9C%A8%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%B7%B2%E5%8F%91%E5%B1%95%E6%88%90%E5%A8%81%E8%83%81%E6%9C%80%E5%A4%A7%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%AD%89%E7%9A%84%E5%AD%98%E5%9C%A8%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%8F%88%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B1%95%E7%94%B5%E5%95%86%E4%B8%9A%E5%8A%A1%EF%BC%8C%E5%8A%A0%E5%BC%BA%E4%BA%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%AF%B9%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [东南亚](东南亚.md), [亚马逊](亚马逊.md), [如今](如今.md), [威胁](威胁.md), [对抗](对抗.md), [平台](平台.md), [惊讶](惊讶.md), [扩大](扩大.md), [电商](电商.md), [美国](美国.md)
 ___
-##### 2023-09-20 01:10:13 UTC ~ 日經中文網
+##### 2023-09-20 01:10:13 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok扩大海外“卖场”，对抗亚马逊】“大量发货让我每天忙得不可开交”，美国个体商户克里斯汀·昆卡对TikTok的推广力感到惊讶。TikTok在东南亚已发展成威胁最大电商平台等的存在，如今又在美国开展电商业务，加强了与美国亚马逊对抗…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E6%89%A9%E5%A4%A7%E6%B5%B7%E5%A4%96%E2%80%9C%E5%8D%96%E5%9C%BA%E2%80%9D%EF%BC%8C%E5%AF%B9%E6%8A%97%E4%BA%9A%E9%A9%AC%E9%80%8A%E3%80%91%E2%80%9C%E5%A4%A7%E9%87%8F%E5%8F%91%E8%B4%A7%E8%AE%A9%E6%88%91%E6%AF%8F%E5%A4%A9%E5%BF%99%E5%BE%97%E4%B8%8D%E5%8F%AF%E5%BC%80%E4%BA%A4%E2%80%9D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%B8%AA%E4%BD%93%E5%95%86%E6%88%B7%E5%85%8B%E9%87%8C%E6%96%AF%E6%B1%80%C2%B7%E6%98%86%E5%8D%A1%E5%AF%B9TikTok%E7%9A%84%E6%8E%A8%E5%B9%BF%E5%8A%9B%E6%84%9F%E5%88%B0%E6%83%8A%E8%AE%B6%E3%80%82TikTok%E5%9C%A8%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%B7%B2%E5%8F%91%E5%B1%95%E6%88%90%E5%A8%81%E8%83%81%E6%9C%80%E5%A4%A7%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%AD%89%E7%9A%84%E5%AD%98%E5%9C%A8%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%8F%88%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B1%95%E7%94%B5%E5%95%86%E4%B8%9A%E5%8A%A1%EF%BC%8C%E5%8A%A0%E5%BC%BA%E4%BA%86%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%AF%B9%E6%8A%97%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [东南亚](东南亚.md), [亚马逊](亚马逊.md), [如今](如今.md), [威胁](威胁.md), [对抗](对抗.md), [平台](平台.md), [惊讶](惊讶.md), [扩大](扩大.md), [电商](电商.md), [美国](美国.md)
 ___
-##### 2023-09-14 06:40:53 UTC ~ 日經中文網
+##### 2023-09-14 06:40:53 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok在美国开展电商服务】TikTok在美国的电商服务销售服装、家电、游戏等多种商品，可以使用优惠券，还能连接Shopify等外部电商平台。与低价销售中国商品的Temu等不同，TikTok似乎还设想让美国商家入驻开店……https…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B1%95%E7%94%B5%E5%95%86%E6%9C%8D%E5%8A%A1%E3%80%91TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%94%B5%E5%95%86%E6%9C%8D%E5%8A%A1%E9%94%80%E5%94%AE%E6%9C%8D%E8%A3%85%E3%80%81%E5%AE%B6%E7%94%B5%E3%80%81%E6%B8%B8%E6%88%8F%E7%AD%89%E5%A4%9A%E7%A7%8D%E5%95%86%E5%93%81%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E4%BC%98%E6%83%A0%E5%88%B8%EF%BC%8C%E8%BF%98%E8%83%BD%E8%BF%9E%E6%8E%A5Shopify%E7%AD%89%E5%A4%96%E9%83%A8%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E3%80%82%E4%B8%8E%E4%BD%8E%E4%BB%B7%E9%94%80%E5%94%AE%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E7%9A%84Temu%E7%AD%89%E4%B8%8D%E5%90%8C%EF%BC%8CTikTok%E4%BC%BC%E4%B9%8E%E8%BF%98%E8%AE%BE%E6%83%B3%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%95%86%E5%AE%B6%E5%85%A5%E9%A9%BB%E5%BC%80%E5%BA%97%E2%80%A6%E2%80%A6https%E2%80%A6)
@@ -2100,13 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%9F%8E%E5%B8%82%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%80%B1%E4%B8%89%EF%BC%888%E6%9C%8816%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%87%BA%E4%BA%8E%E5%AE%89%E5%85%A8%E8%80%83%E9%87%8F%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E6%94%BF%E5%BA%9C%E7%9A%84%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%EF%BC%8C%E8%B7%9F%E8%BF%9B%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E4%B8%8E%E5%B7%9E%E6%94%BF%E5%BA%9C%E7%AE%A1%E5%88%B6TikTok%E7%9A%84%E4%B8%BE%E6%8E%AA%E3%80%82+https%3A%2F%2Ft.co%2Fof0QdmxewH+https%3A%2F%2Ft.co%2FUjNpAQ9Hdc)
 ##### Other Words/Names of Interest in the Above Tweet
 [举措](举措.md), [禁止](禁止.md), [管制](管制.md), [美国](美国.md)
-___
-##### 2023-08-17 02:35:47 UTC ~ DW 中文- 德国之声
-> RT @dw_chinese: 美国纽约市决定加入许多地方政府行列，禁止在公务设备上使用TikTok。有民调也显示，近半数美国人支持在一定程度上禁用TikTok。究竟美国各地政府为何会禁用？https://t.co/WrZ3ngRPg7
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E5%B8%82%E5%86%B3%E5%AE%9A%E5%8A%A0%E5%85%A5%E8%AE%B8%E5%A4%9A%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E8%A1%8C%E5%88%97%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%85%AC%E5%8A%A1%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%E3%80%82%E6%9C%89%E6%B0%91%E8%B0%83%E4%B9%9F%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%BF%91%E5%8D%8A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%94%AF%E6%8C%81%E5%9C%A8%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E4%B8%8A%E7%A6%81%E7%94%A8TikTok%E3%80%82%E7%A9%B6%E7%AB%9F%E7%BE%8E%E5%9B%BD%E5%90%84%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%A6%81%E7%94%A8%EF%BC%9Fhttps%3A%2F%2Ft.co%2FWrZ3ngRPg7)
-##### Other Words/Names of Interest in the Above Tweet
-[支持](支持.md), [显示](显示.md), [禁止](禁止.md), [程度](程度.md), [美国](美国.md)
 ____
 
 [Next Page](TikTok-01.md)

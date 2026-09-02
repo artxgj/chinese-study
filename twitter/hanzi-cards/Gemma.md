@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemma) for definition
 ### Tweets containing Gemma
 
 ___
+##### 2026-08-31 09:36:09 UTC ~ karminski-牙医
+> RT @karminski3: 终于搞完了! 给大家带来小模型竞技场, 这次测试了8款模型, 包括:Qwen3.8-27BQwen3.6-27BQwen3.6-35B-A3BOrnith-1.5-35B-A3BGemma-4-31BGemma-4-26B-A4B…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86%21+%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E5%B0%8F%E6%A8%A1%E5%9E%8B%E7%AB%9E%E6%8A%80%E5%9C%BA%2C+%E8%BF%99%E6%AC%A1%E6%B5%8B%E8%AF%95%E4%BA%868%E6%AC%BE%E6%A8%A1%E5%9E%8B%2C+%E5%8C%85%E6%8B%AC%3AQwen3.8-27BQwen3.6-27BQwen3.6-35B-A3BOrnith-1.5-35B-A3BGemma-4-31BGemma-4-26B-A4B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Qwen](Qwen.md), [包括](包括.md), [模型](模型.md)
+___
+##### 2026-08-20 02:03:26 UTC ~ karminski-牙医
+> RT @karminski3: 放个预告，正在给大家准备大横评，包含：Qwen3.6-27BQwen3.6-35b-A3BGemma4-31BGemma4-26B-A4BGemma4-12BGPT-OSS-20BQwen3.8-27B.每个模型会测试3bit,…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%94%BE%E4%B8%AA%E9%A2%84%E5%91%8A%EF%BC%8C%E6%AD%A3%E5%9C%A8%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%87%86%E5%A4%87%E5%A4%A7%E6%A8%AA%E8%AF%84%EF%BC%8C%E5%8C%85%E5%90%AB%EF%BC%9AQwen3.6-27BQwen3.6-35b-A3BGemma4-31BGemma4-26B-A4BGemma4-12BGPT-OSS-20BQwen3.8-27B.%E6%AF%8F%E4%B8%AA%E6%A8%A1%E5%9E%8B%E4%BC%9A%E6%B5%8B%E8%AF%953bit%2C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Qwen](Qwen.md), [模型](模型.md)
+___
 ##### 2026-07-08 06:13:59 UTC ~ 思维怪怪
 > RT @0xLogicrw: 谷歌最新上线的 Gemma 4 技术报告，展示了如何用极简架构让大模型在手机和端侧跑得更快、省下更多内存。以往大模型看图和听音，需要先用独立的「翻译器」（编码器）把图像和音频翻译成大模型能懂的特征。Gemma 4 12B…
 

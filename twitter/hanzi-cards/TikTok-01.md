@@ -8,6 +8,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-08-17 02:35:47 UTC ~ DW 中文- 德国之声
+> RT @dw_chinese: 美国纽约市决定加入许多地方政府行列，禁止在公务设备上使用TikTok。有民调也显示，近半数美国人支持在一定程度上禁用TikTok。究竟美国各地政府为何会禁用？https://t.co/WrZ3ngRPg7
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dw_chinese%3A+%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E5%B8%82%E5%86%B3%E5%AE%9A%E5%8A%A0%E5%85%A5%E8%AE%B8%E5%A4%9A%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%E8%A1%8C%E5%88%97%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E5%85%AC%E5%8A%A1%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%E3%80%82%E6%9C%89%E6%B0%91%E8%B0%83%E4%B9%9F%E6%98%BE%E7%A4%BA%EF%BC%8C%E8%BF%91%E5%8D%8A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%94%AF%E6%8C%81%E5%9C%A8%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E4%B8%8A%E7%A6%81%E7%94%A8TikTok%E3%80%82%E7%A9%B6%E7%AB%9F%E7%BE%8E%E5%9B%BD%E5%90%84%E5%9C%B0%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E4%BC%9A%E7%A6%81%E7%94%A8%EF%BC%9Fhttps%3A%2F%2Ft.co%2FWrZ3ngRPg7)
+##### Other Words/Names of Interest in the Above Tweet
+[支持](支持.md), [显示](显示.md), [禁止](禁止.md), [程度](程度.md), [美国](美国.md)
+___
 ##### 2023-08-11 05:36:29 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 随着北半球进入夏天，预告暑假旅游旺季的到来。社交媒体TikTok用户纷纷使用标签，标记出他们最向往的城市。新加坡在一项热门旅游城市调查中排名第五，前三名分别是韩国首尔、法国巴黎和西班牙巴塞罗那。 https://t.co/32QCTVfNpY
 
@@ -57,7 +64,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [推特](推特.md), [提供](提供.md)
 ___
-##### 2023-07-24 23:57:41 UTC ~ 日經中文網
+##### 2023-07-24 23:57:41 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【链接——10个数字看ChatGPT问世这半年】ChatGPT发布后的2个月内，在全球的月均用户数就达到1亿人，过去TikTok和Instagram分别用了9个月和28个月才获得1亿用户。ChatGPT可能将全球的GDP推高7万亿美元………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%9410%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8BChatGPT%E9%97%AE%E4%B8%96%E8%BF%99%E5%8D%8A%E5%B9%B4%E3%80%91ChatGPT%E5%8F%91%E5%B8%83%E5%90%8E%E7%9A%842%E4%B8%AA%E6%9C%88%E5%86%85%EF%BC%8C%E5%9C%A8%E5%85%A8%E7%90%83%E7%9A%84%E6%9C%88%E5%9D%87%E7%94%A8%E6%88%B7%E6%95%B0%E5%B0%B1%E8%BE%BE%E5%88%B01%E4%BA%BF%E4%BA%BA%EF%BC%8C%E8%BF%87%E5%8E%BBTikTok%E5%92%8CInstagram%E5%88%86%E5%88%AB%E7%94%A8%E4%BA%869%E4%B8%AA%E6%9C%88%E5%92%8C28%E4%B8%AA%E6%9C%88%E6%89%8D%E8%8E%B7%E5%BE%971%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82ChatGPT%E5%8F%AF%E8%83%BD%E5%B0%86%E5%85%A8%E7%90%83%E7%9A%84GDP%E6%8E%A8%E9%AB%987%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%A6%E2%80%A6%E2%80%A6)
@@ -99,7 +106,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [周受资](周受资.md), [平台](平台.md), [执行](执行.md), [扩大](扩大.md), [新加坡](新加坡.md), [科技](科技.md), [美国](美国.md), [首席执行官](首席执行官.md)
 ___
-##### 2023-05-31 05:38:37 UTC ~ 日經中文網
+##### 2023-05-31 05:38:37 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【10个数字看ChatGPT问世这半年】ChatGPT发布后的2个月内，在全球的月均用户数就达到1亿人，过去TikTok和Instagram分别用了9个月和28个月才获得1亿用户。ChatGPT可能将全球的GDP推高7万亿美元……http…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%9010%E4%B8%AA%E6%95%B0%E5%AD%97%E7%9C%8BChatGPT%E9%97%AE%E4%B8%96%E8%BF%99%E5%8D%8A%E5%B9%B4%E3%80%91ChatGPT%E5%8F%91%E5%B8%83%E5%90%8E%E7%9A%842%E4%B8%AA%E6%9C%88%E5%86%85%EF%BC%8C%E5%9C%A8%E5%85%A8%E7%90%83%E7%9A%84%E6%9C%88%E5%9D%87%E7%94%A8%E6%88%B7%E6%95%B0%E5%B0%B1%E8%BE%BE%E5%88%B01%E4%BA%BF%E4%BA%BA%EF%BC%8C%E8%BF%87%E5%8E%BBTikTok%E5%92%8CInstagram%E5%88%86%E5%88%AB%E7%94%A8%E4%BA%869%E4%B8%AA%E6%9C%88%E5%92%8C28%E4%B8%AA%E6%9C%88%E6%89%8D%E8%8E%B7%E5%BE%971%E4%BA%BF%E7%94%A8%E6%88%B7%E3%80%82ChatGPT%E5%8F%AF%E8%83%BD%E5%B0%86%E5%85%A8%E7%90%83%E7%9A%84GDP%E6%8E%A8%E9%AB%987%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E2%80%A6%E2%80%A6http%E2%80%A6)
@@ -141,7 +148,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发挥](发挥.md), [品牌](品牌.md), [实力](实力.md), [影响](影响.md), [案例](案例.md), [科技](科技.md), [行为](行为.md), [领域](领域.md)
 ___
-##### 2023-05-15 03:20:01 UTC ~ 日經中文網
+##### 2023-05-15 03:20:01 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【中国APP全球人气不减，与美国抗衡】对95个国家和地区下载量排名前5位的APP进行统计后发现，“TikTok”（抖音国际版）等中国APP的占比超过总体的3成。与美国APP处于同等水平。在美国以安保等为由加强管制的情况下，中国APP的人气…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BDAPP%E5%85%A8%E7%90%83%E4%BA%BA%E6%B0%94%E4%B8%8D%E5%87%8F%EF%BC%8C%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%8A%97%E8%A1%A1%E3%80%91%E5%AF%B995%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E4%B8%8B%E8%BD%BD%E9%87%8F%E6%8E%92%E5%90%8D%E5%89%8D5%E4%BD%8D%E7%9A%84APP%E8%BF%9B%E8%A1%8C%E7%BB%9F%E8%AE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%EF%BC%8C%E2%80%9CTikTok%E2%80%9D%EF%BC%88%E6%8A%96%E9%9F%B3%E5%9B%BD%E9%99%85%E7%89%88%EF%BC%89%E7%AD%89%E4%B8%AD%E5%9B%BDAPP%E7%9A%84%E5%8D%A0%E6%AF%94%E8%B6%85%E8%BF%87%E6%80%BB%E4%BD%93%E7%9A%843%E6%88%90%E3%80%82%E4%B8%8E%E7%BE%8E%E5%9B%BDAPP%E5%A4%84%E4%BA%8E%E5%90%8C%E7%AD%89%E6%B0%B4%E5%B9%B3%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BB%A5%E5%AE%89%E4%BF%9D%E7%AD%89%E4%B8%BA%E7%94%B1%E5%8A%A0%E5%BC%BA%E7%AE%A1%E5%88%B6%E7%9A%84%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E4%B8%AD%E5%9B%BDAPP%E7%9A%84%E4%BA%BA%E6%B0%94%E2%80%A6)
@@ -169,7 +176,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [一直](一直.md), [推出](推出.md), [此举](此举.md), [转变](转变.md), [项目](项目.md)
 ___
-##### 2023-04-17 02:55:33 UTC ~ 日經中文網
+##### 2023-04-17 02:55:33 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok在美国蒙大拿州遭全面禁止】是全美第一个决定全面禁止的州，TikTok的运营公司表示：将继续奋斗……https://t.co/5m3Ik7xEFI
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E8%92%99%E5%A4%A7%E6%8B%BF%E5%B7%9E%E9%81%AD%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E3%80%91%E6%98%AF%E5%85%A8%E7%BE%8E%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%B3%E5%AE%9A%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E7%9A%84%E5%B7%9E%EF%BC%8CTikTok%E7%9A%84%E8%BF%90%E8%90%A5%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA%EF%BC%9A%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%A5%8B%E6%96%97%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F5m3Ik7xEFI)
@@ -400,7 +407,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [众议院](众议院.md), [周受资](周受资.md), [委员会](委员会.md), [导致](导致.md), [平台](平台.md), [指责](指责.md), [美国](美国.md), [能源](能源.md)
 ___
-##### 2023-03-24 06:42:53 UTC ~ 日經中文網
+##### 2023-03-24 06:42:53 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok CEO在美国国会听证会接受质询】TikTok CEO 周受资出席美国国会的听证会，否认向中国提供信息，并反驳了禁止和出售TikTok的方案。出席听证会的议员一度施加压力说：“如果做虚假发言，将被问罪”，周受资回答说：“我明…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok+CEO%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%90%AC%E8%AF%81%E4%BC%9A%E6%8E%A5%E5%8F%97%E8%B4%A8%E8%AF%A2%E3%80%91TikTok+CEO+%E5%91%A8%E5%8F%97%E8%B5%84%E5%87%BA%E5%B8%AD%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E7%9A%84%E5%90%AC%E8%AF%81%E4%BC%9A%EF%BC%8C%E5%90%A6%E8%AE%A4%E5%90%91%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%B9%B6%E5%8F%8D%E9%A9%B3%E4%BA%86%E7%A6%81%E6%AD%A2%E5%92%8C%E5%87%BA%E5%94%AETikTok%E7%9A%84%E6%96%B9%E6%A1%88%E3%80%82%E5%87%BA%E5%B8%AD%E5%90%AC%E8%AF%81%E4%BC%9A%E7%9A%84%E8%AE%AE%E5%91%98%E4%B8%80%E5%BA%A6%E6%96%BD%E5%8A%A0%E5%8E%8B%E5%8A%9B%E8%AF%B4%EF%BC%9A%E2%80%9C%E5%A6%82%E6%9E%9C%E5%81%9A%E8%99%9A%E5%81%87%E5%8F%91%E8%A8%80%EF%BC%8C%E5%B0%86%E8%A2%AB%E9%97%AE%E7%BD%AA%E2%80%9D%EF%BC%8C%E5%91%A8%E5%8F%97%E8%B5%84%E5%9B%9E%E7%AD%94%E8%AF%B4%EF%BC%9A%E2%80%9C%E6%88%91%E6%98%8E%E2%80%A6)
@@ -442,7 +449,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [代码](代码.md), [字节跳动](字节跳动.md), [收集](收集.md), [数据](数据.md), [显示](显示.md), [机构](机构.md), [根据](根据.md), [监管](监管.md), [程序](程序.md), [美国](美国.md), [遏制](遏制.md), [面临](面临.md)
 ___
-##### 2023-03-22 07:00:46 UTC ~ 日經中文網
+##### 2023-03-22 07:00:46 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok称美国用户达1.5亿人，牵制禁令】运营公司CEO周受资在TikTok的视频中表示，TikTok在美国的员工人数达到约7000人，以中小企业为中心，美国有500万家企业使用 。分析认为此番意在表态服务停用后将产生巨大影响，以阻…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%94%A8%E6%88%B7%E8%BE%BE1.5%E4%BA%BF%E4%BA%BA%EF%BC%8C%E7%89%B5%E5%88%B6%E7%A6%81%E4%BB%A4%E3%80%91%E8%BF%90%E8%90%A5%E5%85%AC%E5%8F%B8CEO%E5%91%A8%E5%8F%97%E8%B5%84%E5%9C%A8TikTok%E7%9A%84%E8%A7%86%E9%A2%91%E4%B8%AD%E8%A1%A8%E7%A4%BA%EF%BC%8CTikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%91%98%E5%B7%A5%E4%BA%BA%E6%95%B0%E8%BE%BE%E5%88%B0%E7%BA%A67000%E4%BA%BA%EF%BC%8C%E4%BB%A5%E4%B8%AD%E5%B0%8F%E4%BC%81%E4%B8%9A%E4%B8%BA%E4%B8%AD%E5%BF%83%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%9C%89500%E4%B8%87%E5%AE%B6%E4%BC%81%E4%B8%9A%E4%BD%BF%E7%94%A8+%E3%80%82%E5%88%86%E6%9E%90%E8%AE%A4%E4%B8%BA%E6%AD%A4%E7%95%AA%E6%84%8F%E5%9C%A8%E8%A1%A8%E6%80%81%E6%9C%8D%E5%8A%A1%E5%81%9C%E7%94%A8%E5%90%8E%E5%B0%86%E4%BA%A7%E7%94%9F%E5%B7%A8%E5%A4%A7%E5%BD%B1%E5%93%8D%EF%BC%8C%E4%BB%A5%E9%98%BB%E2%80%A6)
@@ -631,7 +638,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [众议院](众议院.md), [担忧](担忧.md), [此举](此举.md), [禁止](禁止.md), [美国](美国.md), [配合](配合.md)
 ___
-##### 2022-12-26 08:32:14 UTC ~ 日經中文網
+##### 2022-12-26 08:32:14 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【伊藤忠协助日企在大陆和台湾开展电商业务】面向中国大陆，由出资对象Inagora（豌豆公主）拓展直播带货业务。设置专用工作室，在TikTok和抖音上由明星和网红介绍商品。在台湾，由当地子公司提供让消费者从日本企业的网站直接购买的服务………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%BC%8A%E8%97%A4%E5%BF%A0%E5%8D%8F%E5%8A%A9%E6%97%A5%E4%BC%81%E5%9C%A8%E5%A4%A7%E9%99%86%E5%92%8C%E5%8F%B0%E6%B9%BE%E5%BC%80%E5%B1%95%E7%94%B5%E5%95%86%E4%B8%9A%E5%8A%A1%E3%80%91%E9%9D%A2%E5%90%91%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%EF%BC%8C%E7%94%B1%E5%87%BA%E8%B5%84%E5%AF%B9%E8%B1%A1Inagora%EF%BC%88%E8%B1%8C%E8%B1%86%E5%85%AC%E4%B8%BB%EF%BC%89%E6%8B%93%E5%B1%95%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E4%B8%9A%E5%8A%A1%E3%80%82%E8%AE%BE%E7%BD%AE%E4%B8%93%E7%94%A8%E5%B7%A5%E4%BD%9C%E5%AE%A4%EF%BC%8C%E5%9C%A8TikTok%E5%92%8C%E6%8A%96%E9%9F%B3%E4%B8%8A%E7%94%B1%E6%98%8E%E6%98%9F%E5%92%8C%E7%BD%91%E7%BA%A2%E4%BB%8B%E7%BB%8D%E5%95%86%E5%93%81%E3%80%82%E5%9C%A8%E5%8F%B0%E6%B9%BE%EF%BC%8C%E7%94%B1%E5%BD%93%E5%9C%B0%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8F%90%E4%BE%9B%E8%AE%A9%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%8E%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A%E7%9A%84%E7%BD%91%E7%AB%99%E7%9B%B4%E6%8E%A5%E8%B4%AD%E4%B9%B0%E7%9A%84%E6%9C%8D%E5%8A%A1%E2%80%A6%E2%80%A6%E2%80%A6)
@@ -841,7 +848,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [兴趣](兴趣.md), [神奇](神奇.md), [算法](算法.md)
 ___
-##### 2022-08-11 07:36:27 UTC ~ 日經中文網
+##### 2022-08-11 07:36:27 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【短视频平台竞相出资挖掘创作者】谷歌设立了向短视频发布者支付1亿美元报酬的基金。Meta将向让创作者获得收益的项目等投资10亿美元。TikTok在日本启动创作者培养项目。短视频观众不断增加，培养创作者成为关键……https://t.co…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0%E7%AB%9E%E7%9B%B8%E5%87%BA%E8%B5%84%E6%8C%96%E6%8E%98%E5%88%9B%E4%BD%9C%E8%80%85%E3%80%91%E8%B0%B7%E6%AD%8C%E8%AE%BE%E7%AB%8B%E4%BA%86%E5%90%91%E7%9F%AD%E8%A7%86%E9%A2%91%E5%8F%91%E5%B8%83%E8%80%85%E6%94%AF%E4%BB%981%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%A5%E9%85%AC%E7%9A%84%E5%9F%BA%E9%87%91%E3%80%82Meta%E5%B0%86%E5%90%91%E8%AE%A9%E5%88%9B%E4%BD%9C%E8%80%85%E8%8E%B7%E5%BE%97%E6%94%B6%E7%9B%8A%E7%9A%84%E9%A1%B9%E7%9B%AE%E7%AD%89%E6%8A%95%E8%B5%8410%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82TikTok%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E5%88%9B%E4%BD%9C%E8%80%85%E5%9F%B9%E5%85%BB%E9%A1%B9%E7%9B%AE%E3%80%82%E7%9F%AD%E8%A7%86%E9%A2%91%E8%A7%82%E4%BC%97%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%8A%A0%EF%BC%8C%E5%9F%B9%E5%85%BB%E5%88%9B%E4%BD%9C%E8%80%85%E6%88%90%E4%B8%BA%E5%85%B3%E9%94%AE%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%E2%80%A6)
@@ -904,7 +911,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [平台](平台.md), [新加坡](新加坡.md), [来自](来自.md), [罚款](罚款.md), [购买](购买.md)
 ___
-##### 2022-07-18 06:40:57 UTC ~ 日經中文網
+##### 2022-07-18 06:40:57 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok快速增长，美国企业强化竞争措施】生活在美国的阿什利·李从约5年前开始拍摄食物，发布在Ins上，而改变她人生的则是进驻TikTok。随着一条视频走红，她辞职专注于视频制作，收入比以前高。在美国，TikTok迅猛增长，Meta和…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E5%BF%AB%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%BC%BA%E5%8C%96%E7%AB%9E%E4%BA%89%E6%8E%AA%E6%96%BD%E3%80%91%E7%94%9F%E6%B4%BB%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E9%98%BF%E4%BB%80%E5%88%A9%C2%B7%E6%9D%8E%E4%BB%8E%E7%BA%A65%E5%B9%B4%E5%89%8D%E5%BC%80%E5%A7%8B%E6%8B%8D%E6%91%84%E9%A3%9F%E7%89%A9%EF%BC%8C%E5%8F%91%E5%B8%83%E5%9C%A8Ins%E4%B8%8A%EF%BC%8C%E8%80%8C%E6%94%B9%E5%8F%98%E5%A5%B9%E4%BA%BA%E7%94%9F%E7%9A%84%E5%88%99%E6%98%AF%E8%BF%9B%E9%A9%BBTikTok%E3%80%82%E9%9A%8F%E7%9D%80%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2%EF%BC%8C%E5%A5%B9%E8%BE%9E%E8%81%8C%E4%B8%93%E6%B3%A8%E4%BA%8E%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C%EF%BC%8C%E6%94%B6%E5%85%A5%E6%AF%94%E4%BB%A5%E5%89%8D%E9%AB%98%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9B%BD%EF%BC%8CTikTok%E8%BF%85%E7%8C%9B%E5%A2%9E%E9%95%BF%EF%BC%8CMeta%E5%92%8C%E2%80%A6)
@@ -960,7 +967,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [下架](下架.md), [收集](收集.md), [数据](数据.md), [机构](机构.md), [监管](监管.md), [美国](美国.md), [苹果](苹果.md), [谷歌](谷歌.md), [风险](风险.md)
 ___
-##### 2022-06-30 08:03:59 UTC ~ 日經中文網
+##### 2022-06-30 08:03:59 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美联邦通信委员会要求苹果谷歌下架TikTok】如果企业不配合，需要在7月8日之前给出理由。谷歌和苹果尚未做出回应……https://t.co/tnfDwmvGcV
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A%E8%A6%81%E6%B1%82%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E4%B8%8B%E6%9E%B6TikTok%E3%80%91%E5%A6%82%E6%9E%9C%E4%BC%81%E4%B8%9A%E4%B8%8D%E9%85%8D%E5%90%88%EF%BC%8C%E9%9C%80%E8%A6%81%E5%9C%A87%E6%9C%888%E6%97%A5%E4%B9%8B%E5%89%8D%E7%BB%99%E5%87%BA%E7%90%86%E7%94%B1%E3%80%82%E8%B0%B7%E6%AD%8C%E5%92%8C%E8%8B%B9%E6%9E%9C%E5%B0%9A%E6%9C%AA%E5%81%9A%E5%87%BA%E5%9B%9E%E5%BA%94%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FtnfDwmvGcV)
@@ -1093,14 +1100,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [候选人](候选人.md), [威胁](威胁.md), [平台](平台.md), [社交媒体](社交媒体.md), [菲律宾](菲律宾.md), [调查](调查.md)
 ___
-##### 2022-01-26 09:46:24 UTC ~ 日經中文網
+##### 2022-01-26 09:46:24 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【2021年全球手机APP下载量TikTok排第1】2021年全球智能手机APP的下载量达到2300亿次，比2020年增加5％。首位是短视频APP“TikTok（抖音国际版）”，直播带货等企业的利用增加。在日本方面，下载量排第1的手机游戏…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%902021%E5%B9%B4%E5%85%A8%E7%90%83%E6%89%8B%E6%9C%BAAPP%E4%B8%8B%E8%BD%BD%E9%87%8FTikTok%E6%8E%92%E7%AC%AC1%E3%80%912021%E5%B9%B4%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BAAPP%E7%9A%84%E4%B8%8B%E8%BD%BD%E9%87%8F%E8%BE%BE%E5%88%B02300%E4%BA%BF%E6%AC%A1%EF%BC%8C%E6%AF%942020%E5%B9%B4%E5%A2%9E%E5%8A%A05%EF%BC%85%E3%80%82%E9%A6%96%E4%BD%8D%E6%98%AF%E7%9F%AD%E8%A7%86%E9%A2%91APP%E2%80%9CTikTok%EF%BC%88%E6%8A%96%E9%9F%B3%E5%9B%BD%E9%99%85%E7%89%88%EF%BC%89%E2%80%9D%EF%BC%8C%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%AD%89%E4%BC%81%E4%B8%9A%E7%9A%84%E5%88%A9%E7%94%A8%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%96%B9%E9%9D%A2%EF%BC%8C%E4%B8%8B%E8%BD%BD%E9%87%8F%E6%8E%92%E7%AC%AC1%E7%9A%84%E6%89%8B%E6%9C%BA%E6%B8%B8%E6%88%8F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [日本](日本.md)
 ___
-##### 2022-01-24 09:51:43 UTC ~ 日經中文網
+##### 2022-01-24 09:51:43 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok日本法人被指可能存在“隐形营销”】“TikTok”（抖音国际版）运营公司的日本法人在推特上向拥有大量关注者的“网红”支付报酬，要求像普通用户发布那样介绍指定视频，而视频并未标明属于广告。在日本可能属于“隐形营销”……htt…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA%E8%A2%AB%E6%8C%87%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E2%80%9C%E9%9A%90%E5%BD%A2%E8%90%A5%E9%94%80%E2%80%9D%E3%80%91%E2%80%9CTikTok%E2%80%9D%EF%BC%88%E6%8A%96%E9%9F%B3%E5%9B%BD%E9%99%85%E7%89%88%EF%BC%89%E8%BF%90%E8%90%A5%E5%85%AC%E5%8F%B8%E7%9A%84%E6%97%A5%E6%9C%AC%E6%B3%95%E4%BA%BA%E5%9C%A8%E6%8E%A8%E7%89%B9%E4%B8%8A%E5%90%91%E6%8B%A5%E6%9C%89%E5%A4%A7%E9%87%8F%E5%85%B3%E6%B3%A8%E8%80%85%E7%9A%84%E2%80%9C%E7%BD%91%E7%BA%A2%E2%80%9D%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%EF%BC%8C%E8%A6%81%E6%B1%82%E5%83%8F%E6%99%AE%E9%80%9A%E7%94%A8%E6%88%B7%E5%8F%91%E5%B8%83%E9%82%A3%E6%A0%B7%E4%BB%8B%E7%BB%8D%E6%8C%87%E5%AE%9A%E8%A7%86%E9%A2%91%EF%BC%8C%E8%80%8C%E8%A7%86%E9%A2%91%E5%B9%B6%E6%9C%AA%E6%A0%87%E6%98%8E%E5%B1%9E%E4%BA%8E%E5%B9%BF%E5%91%8A%E3%80%82%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%B1%9E%E4%BA%8E%E2%80%9C%E9%9A%90%E5%BD%A2%E8%90%A5%E9%94%80%E2%80%9D%E2%80%A6%E2%80%A6htt%E2%80%A6)
@@ -1149,7 +1156,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [互联网](互联网.md), [基础设施](基础设施.md), [数据](数据.md), [设施](设施.md), [谷歌](谷歌.md), [超过](超过.md)
 ___
-##### 2021-11-26 06:30:52 UTC ~ 日經中文網
+##### 2021-11-26 06:30:52 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok日本受众扩大，“热门”不断】“工作日刷1小时，休息日刷2小时”，东京一位30多岁的女性通过刷TikTok来放松。在刚进入日本市场时，TikTok是一个“年轻人喜欢的应用”，而如今已经成为各个年龄段了解新闻、娱乐、商品等各种信…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E6%97%A5%E6%9C%AC%E5%8F%97%E4%BC%97%E6%89%A9%E5%A4%A7%EF%BC%8C%E2%80%9C%E7%83%AD%E9%97%A8%E2%80%9D%E4%B8%8D%E6%96%AD%E3%80%91%E2%80%9C%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%88%B71%E5%B0%8F%E6%97%B6%EF%BC%8C%E4%BC%91%E6%81%AF%E6%97%A5%E5%88%B72%E5%B0%8F%E6%97%B6%E2%80%9D%EF%BC%8C%E4%B8%9C%E4%BA%AC%E4%B8%80%E4%BD%8D30%E5%A4%9A%E5%B2%81%E7%9A%84%E5%A5%B3%E6%80%A7%E9%80%9A%E8%BF%87%E5%88%B7TikTok%E6%9D%A5%E6%94%BE%E6%9D%BE%E3%80%82%E5%9C%A8%E5%88%9A%E8%BF%9B%E5%85%A5%E6%97%A5%E6%9C%AC%E5%B8%82%E5%9C%BA%E6%97%B6%EF%BC%8CTikTok%E6%98%AF%E4%B8%80%E4%B8%AA%E2%80%9C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%96%9C%E6%AC%A2%E7%9A%84%E5%BA%94%E7%94%A8%E2%80%9D%EF%BC%8C%E8%80%8C%E5%A6%82%E4%BB%8A%E5%B7%B2%E7%BB%8F%E6%88%90%E4%B8%BA%E5%90%84%E4%B8%AA%E5%B9%B4%E9%BE%84%E6%AE%B5%E4%BA%86%E8%A7%A3%E6%96%B0%E9%97%BB%E3%80%81%E5%A8%B1%E4%B9%90%E3%80%81%E5%95%86%E5%93%81%E7%AD%89%E5%90%84%E7%A7%8D%E4%BF%A1%E2%80%A6)
@@ -1184,7 +1191,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [否认](否认.md), [字节跳动](字节跳动.md), [担忧](担忧.md), [机构](机构.md), [监管](监管.md), [计划](计划.md), [金](金.md), [金融](金融.md), [香港](香港.md)
 ___
-##### 2021-08-06 06:42:35 UTC ~ 日經中文網
+##### 2021-08-06 06:42:35 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok下载量超Facebook成世界第一】在疫情下增长的社交网站有哪些？日本经济新闻调查了2020年全球下载量，抖音国际版TikTok首次排到第1。特朗普曾要求出售美国业务或禁止使用TikTok。但疫情下TikTok人气越来越高。…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E4%B8%8B%E8%BD%BD%E9%87%8F%E8%B6%85Facebook%E6%88%90%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E3%80%91%E5%9C%A8%E7%96%AB%E6%83%85%E4%B8%8B%E5%A2%9E%E9%95%BF%E7%9A%84%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%AB%99%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E6%96%B0%E9%97%BB%E8%B0%83%E6%9F%A5%E4%BA%862020%E5%B9%B4%E5%85%A8%E7%90%83%E4%B8%8B%E8%BD%BD%E9%87%8F%EF%BC%8C%E6%8A%96%E9%9F%B3%E5%9B%BD%E9%99%85%E7%89%88TikTok%E9%A6%96%E6%AC%A1%E6%8E%92%E5%88%B0%E7%AC%AC1%E3%80%82%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%A6%81%E6%B1%82%E5%87%BA%E5%94%AE%E7%BE%8E%E5%9B%BD%E4%B8%9A%E5%8A%A1%E6%88%96%E7%A6%81%E6%AD%A2%E4%BD%BF%E7%94%A8TikTok%E3%80%82%E4%BD%86%E7%96%AB%E6%83%85%E4%B8%8BTikTok%E4%BA%BA%E6%B0%94%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%AB%98%E3%80%82%E2%80%A6)
@@ -1261,7 +1268,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [字节跳动](字节跳动.md), [知情](知情.md), [知情人士](知情人士.md), [策略](策略.md), [透露](透露.md)
 ___
-##### 2020-11-04 03:28:15 UTC ~ 日經中文網
+##### 2020-11-04 03:28:15 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【TikTok与索尼签署新协议，获得更多音乐资源】新协议的对象包括美国人气女歌手碧昂斯和人气DJ马丁•盖瑞斯等人……https://t.co/Wu1AAIDQHk https://t.co/FmM52dRxt3
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90TikTok%E4%B8%8E%E7%B4%A2%E5%B0%BC%E7%AD%BE%E7%BD%B2%E6%96%B0%E5%8D%8F%E8%AE%AE%EF%BC%8C%E8%8E%B7%E5%BE%97%E6%9B%B4%E5%A4%9A%E9%9F%B3%E4%B9%90%E8%B5%84%E6%BA%90%E3%80%91%E6%96%B0%E5%8D%8F%E8%AE%AE%E7%9A%84%E5%AF%B9%E8%B1%A1%E5%8C%85%E6%8B%AC%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%94%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%A2%A7%E6%98%82%E6%96%AF%E5%92%8C%E4%BA%BA%E6%B0%94DJ%E9%A9%AC%E4%B8%81%E2%80%A2%E7%9B%96%E7%91%9E%E6%96%AF%E7%AD%89%E4%BA%BA%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FWu1AAIDQHk+https%3A%2F%2Ft.co%2FFmM52dRxt3)

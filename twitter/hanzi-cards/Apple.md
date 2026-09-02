@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Apple) for definition
 ### Tweets containing Apple
 
 ___
+##### 2026-08-31 10:11:17 UTC ~ 李新宝
+> RT @lixinbao_X: Apple Watch Series 12/Ultra 4，可能要把心率监测真正做成“全天候”了。据古尔曼爆料，苹果正在测试让Apple Watch持续记录心率，而不是像现在这样主要在运动时和随机时间点测量。同时，健康和健身App也会重做…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+Apple+Watch+Series+12%2FUltra+4%EF%BC%8C%E5%8F%AF%E8%83%BD%E8%A6%81%E6%8A%8A%E5%BF%83%E7%8E%87%E7%9B%91%E6%B5%8B%E7%9C%9F%E6%AD%A3%E5%81%9A%E6%88%90%E2%80%9C%E5%85%A8%E5%A4%A9%E5%80%99%E2%80%9D%E4%BA%86%E3%80%82%E6%8D%AE%E5%8F%A4%E5%B0%94%E6%9B%BC%E7%88%86%E6%96%99%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95%E8%AE%A9Apple+Watch%E6%8C%81%E7%BB%AD%E8%AE%B0%E5%BD%95%E5%BF%83%E7%8E%87%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%83%8F%E7%8E%B0%E5%9C%A8%E8%BF%99%E6%A0%B7%E4%B8%BB%E8%A6%81%E5%9C%A8%E8%BF%90%E5%8A%A8%E6%97%B6%E5%92%8C%E9%9A%8F%E6%9C%BA%E6%97%B6%E9%97%B4%E7%82%B9%E6%B5%8B%E9%87%8F%E3%80%82%E5%90%8C%E6%97%B6%EF%BC%8C%E5%81%A5%E5%BA%B7%E5%92%8C%E5%81%A5%E8%BA%ABApp%E4%B9%9F%E4%BC%9A%E9%87%8D%E5%81%9A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[持续](持续.md), [测量](测量.md), [监测](监测.md), [苹果](苹果.md)
+___
+##### 2026-08-29 02:46:04 UTC ~ 李新宝
+> RT @lixinbao_X: Apple Watch Ultra 4 曝光：可能更薄，还要塞进 Touch ID新一代 Apple Watch Ultra 4 有望在北京时间 9 月 10 日凌晨，与 iPhone 18 Pro、Apple Watch Series 12…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+Apple+Watch+Ultra+4+%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%9B%B4%E8%96%84%EF%BC%8C%E8%BF%98%E8%A6%81%E5%A1%9E%E8%BF%9B+Touch+ID%E6%96%B0%E4%B8%80%E4%BB%A3+Apple+Watch+Ultra+4+%E6%9C%89%E6%9C%9B%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4+9+%E6%9C%88+10+%E6%97%A5%E5%87%8C%E6%99%A8%EF%BC%8C%E4%B8%8E+iPhone+18+Pro%E3%80%81Apple+Watch+Series+12%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [北京](北京.md), [有望](有望.md)
+___
+##### 2026-08-27 10:02:26 UTC ~ TechNews 科技新報
+> RT @technews_tw: 讓 AI 幫你讀訊息真的安全嗎？ChatGPT 獲授權可讀取 Mac 訊息，專家警告隱私風險極高。 #ChatGPT #AppleMessages #隱私安全 #OpenAI https://t.co/o4UULzRBhQ
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%AE%93+AI+%E5%B9%AB%E4%BD%A0%E8%AE%80%E8%A8%8A%E6%81%AF%E7%9C%9F%E7%9A%84%E5%AE%89%E5%85%A8%E5%97%8E%EF%BC%9FChatGPT+%E7%8D%B2%E6%8E%88%E6%AC%8A%E5%8F%AF%E8%AE%80%E5%8F%96+Mac+%E8%A8%8A%E6%81%AF%EF%BC%8C%E5%B0%88%E5%AE%B6%E8%AD%A6%E5%91%8A%E9%9A%B1%E7%A7%81%E9%A2%A8%E9%9A%AA%E6%A5%B5%E9%AB%98%E3%80%82+%23ChatGPT+%23AppleMessages+%23%E9%9A%B1%E7%A7%81%E5%AE%89%E5%85%A8+%23OpenAI+https%3A%2F%2Ft.co%2Fo4UULzRBhQ)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [OpenAI](OpenAI.md)
+___
+##### 2026-08-13 08:57:29 UTC ~ 娜美知识库
+> RT @fhwofjow51260: iPhone 改定位居然可以这么简单：不用越狱、不用 Mac，导入一个模块就能搞定。这个开源项目 iOS Location Spoofer，利用代理软件的 HTTPS 解密能力，修改 Apple 返回给 iPhone 的 WiFi 和基…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fhwofjow51260%3A+iPhone+%E6%94%B9%E5%AE%9A%E4%BD%8D%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%9A%E4%B8%8D%E7%94%A8%E8%B6%8A%E7%8B%B1%E3%80%81%E4%B8%8D%E7%94%A8+Mac%EF%BC%8C%E5%AF%BC%E5%85%A5%E4%B8%80%E4%B8%AA%E6%A8%A1%E5%9D%97%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E3%80%82%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE+iOS+Location+Spoofer%EF%BC%8C%E5%88%A9%E7%94%A8%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6%E7%9A%84+HTTPS+%E8%A7%A3%E5%AF%86%E8%83%BD%E5%8A%9B%EF%BC%8C%E4%BF%AE%E6%94%B9+Apple+%E8%BF%94%E5%9B%9E%E7%BB%99+iPhone+%E7%9A%84+WiFi+%E5%92%8C%E5%9F%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [iOS](iOS.md), [iPhone](iPhone.md), [开源](开源.md), [项目](项目.md)
+___
 ##### 2026-08-09 08:09:13 UTC ~ Max For AI
 > RT @MaxForAI: 🔥突发：千问AI功能上线苹果国行版Mac8月8日， $AAPL 官网显示，国行版本的Mac电脑的Apple智能目前已可以接入阿里巴巴Qwen模型进行工作。此前据上海证券报7月15日报道， @Alibaba_Qwen 将作为AI能力集成至App…
 
@@ -202,13 +230,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0%E5%80%BC%E5%BE%97%E4%B8%80%E7%9C%8B%EF%BC%9AApple+%E6%AD%A3%E5%9C%A8%E7%94%A8+Swift+%E9%87%8D%E5%86%99%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E9%87%8C%E9%82%A3%E4%BA%9B%E5%8F%A4%E8%80%81%E7%9A%84%E4%BD%86%E5%8F%88%E4%B8%8D%E8%83%BD%E4%B8%A2%E6%8E%89%E7%9A%84%E3%80%81%E7%94%A8+C+%E5%AE%9E%E7%8E%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%8C%E8%BF%99%E6%AC%A1%E6%98%AF+TrueType+hinting+interpreter%E3%80%82%E5%87%BA%E5%8F%91%E7%82%B9%E6%98%AF+Memory-safe%EF%BC%8C%E4%BD%86%E6%98%AF%E4%B9%9F%E5%8F%96%E5%BE%97%E4%BA%86%E6%80%A7%E8%83%BD%E4%B8%8A%E7%9A%84%E6%8F%90%E5%8D%87%E3%80%82%E7%9C%9F%E6%98%AF%E4%B8%80%E4%B8%AA%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [实现](实现.md), [操作](操作.md), [系统](系统.md)
-___
-##### 2026-06-13 00:35:50 UTC ~ 苏林SuLin
-> RT @SuLin2046: 以后苹果的东西都不买国行了，手机的Apple智能，实时翻译，手表的健康功能等，都阉割了，我还得花钱刷机用魔法才能实现！！！！#Apple https://t.co/8s4zkG1pYU
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40SuLin2046%3A+%E4%BB%A5%E5%90%8E%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%B8%8D%E4%B9%B0%E5%9B%BD%E8%A1%8C%E4%BA%86%EF%BC%8C%E6%89%8B%E6%9C%BA%E7%9A%84Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%EF%BC%8C%E6%89%8B%E8%A1%A8%E7%9A%84%E5%81%A5%E5%BA%B7%E5%8A%9F%E8%83%BD%E7%AD%89%EF%BC%8C%E9%83%BD%E9%98%89%E5%89%B2%E4%BA%86%EF%BC%8C%E6%88%91%E8%BF%98%E5%BE%97%E8%8A%B1%E9%92%B1%E5%88%B7%E6%9C%BA%E7%94%A8%E9%AD%94%E6%B3%95%E6%89%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%23Apple+https%3A%2F%2Ft.co%2F8s4zkG1pYU)
-##### Other Words/Names of Interest in the Above Tweet
-[实现](实现.md), [苹果](苹果.md)
 ___
 ##### 2026-06-13 00:31:12 UTC ~ 黄小木
 > RT @ai_xiaomu: 苹果官方出的github库：apple/container用Swift开发 ,专门给Apple芯片优化。干一件事: 在Mac上用轻量虚拟机跑Linux容器 ,不再依赖Docker Desktop那一套笨重的东西。本地起开发环境更快、更省…
@@ -1029,7 +1050,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [iPhone](iPhone.md), [正式](正式.md), [苹果](苹果.md), [配备](配备.md), [首批](首批.md)
 ___
-##### 2024-09-10 04:23:18 UTC ~ 日經中文網
+##### 2024-09-10 04:23:18 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone16售價不變，全機型搭載生成式AI】新機型都搭載了生成式AI服務「Apple Intelligence」，庫克強調「iPhone16是為了Apple Intelligence而從頭開始設計的」。有分析認為iPhone16在中…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone16%E5%94%AE%E5%83%B9%E4%B8%8D%E8%AE%8A%EF%BC%8C%E5%85%A8%E6%A9%9F%E5%9E%8B%E6%90%AD%E8%BC%89%E7%94%9F%E6%88%90%E5%BC%8FAI%E3%80%91%E6%96%B0%E6%A9%9F%E5%9E%8B%E9%83%BD%E6%90%AD%E8%BC%89%E4%BA%86%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%9C%8D%E5%8B%99%E3%80%8CApple+Intelligence%E3%80%8D%EF%BC%8C%E5%BA%AB%E5%85%8B%E5%BC%B7%E8%AA%BF%E3%80%8CiPhone16%E6%98%AF%E7%82%BA%E4%BA%86Apple+Intelligence%E8%80%8C%E5%BE%9E%E9%A0%AD%E9%96%8B%E5%A7%8B%E8%A8%AD%E8%A8%88%E7%9A%84%E3%80%8D%E3%80%82%E6%9C%89%E5%88%86%E6%9E%90%E8%AA%8D%E7%82%BAiPhone16%E5%9C%A8%E4%B8%AD%E2%80%A6)
@@ -1134,7 +1155,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [台湾](台湾.md), [战略](战略.md), [掀起](掀起.md), [标普](标普.md), [美国](美国.md), [英伟达](英伟达.md), [苹果](苹果.md), [黄仁勋](黄仁勋.md)
 ___
-##### 2024-06-11 05:16:49 UTC ~ 日經中文網
+##### 2024-06-11 05:16:49 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【蘋果的生成式AI姍姍來遲？】「Apple Intelligence是只有蘋果才能提供的AI」，蘋果10日發佈了自主研發的生成式AI，計劃在今年秋季上市的下一代OS上部分搭載。還宣佈與OpenAI的「ChatGPT」展開合作。介紹的AI相…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%98%8B%E6%9E%9C%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%E5%A7%8D%E5%A7%8D%E4%BE%86%E9%81%B2%EF%BC%9F%E3%80%91%E3%80%8CApple+Intelligence%E6%98%AF%E5%8F%AA%E6%9C%89%E8%98%8B%E6%9E%9C%E6%89%8D%E8%83%BD%E6%8F%90%E4%BE%9B%E7%9A%84AI%E3%80%8D%EF%BC%8C%E8%98%8B%E6%9E%9C10%E6%97%A5%E7%99%BC%E4%BD%88%E4%BA%86%E8%87%AA%E4%B8%BB%E7%A0%94%E7%99%BC%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8FAI%EF%BC%8C%E8%A8%88%E5%8A%83%E5%9C%A8%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E4%B8%8A%E5%B8%82%E7%9A%84%E4%B8%8B%E4%B8%80%E4%BB%A3OS%E4%B8%8A%E9%83%A8%E5%88%86%E6%90%AD%E8%BC%89%E3%80%82%E9%82%84%E5%AE%A3%E4%BD%88%E8%88%87OpenAI%E7%9A%84%E3%80%8CChatGPT%E3%80%8D%E5%B1%95%E9%96%8B%E5%90%88%E4%BD%9C%E3%80%82%E4%BB%8B%E7%B4%B9%E7%9A%84AI%E7%9B%B8%E2%80%A6)
@@ -1169,21 +1190,21 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [iOS](iOS.md), [iPhone](iPhone.md), [发布](发布.md), [苹果](苹果.md)
 ___
-##### 2024-04-28 01:24:14 UTC ~ 日經中文網
+##### 2024-04-28 01:24:14 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【從特斯拉到蘋果，EV追不上AI】中山淳史：特斯拉的銷量和股價迎來橫盤，蘋果放棄「Apple Car」。EV可從電池獲得的能量密度的增幅在2000年以後只有每年3~5％左右。這種增幅對IT企業而言慢得令人著急。半導體世界的「摩爾法則」對E…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%BE%9E%E7%89%B9%E6%96%AF%E6%8B%89%E5%88%B0%E8%98%8B%E6%9E%9C%EF%BC%8CEV%E8%BF%BD%E4%B8%8D%E4%B8%8AAI%E3%80%91%E4%B8%AD%E5%B1%B1%E6%B7%B3%E5%8F%B2%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E9%8A%B7%E9%87%8F%E5%92%8C%E8%82%A1%E5%83%B9%E8%BF%8E%E4%BE%86%E6%A9%AB%E7%9B%A4%EF%BC%8C%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E3%80%8CApple+Car%E3%80%8D%E3%80%82EV%E5%8F%AF%E5%BE%9E%E9%9B%BB%E6%B1%A0%E7%8D%B2%E5%BE%97%E7%9A%84%E8%83%BD%E9%87%8F%E5%AF%86%E5%BA%A6%E7%9A%84%E5%A2%9E%E5%B9%85%E5%9C%A82000%E5%B9%B4%E4%BB%A5%E5%BE%8C%E5%8F%AA%E6%9C%89%E6%AF%8F%E5%B9%B43~5%EF%BC%85%E5%B7%A6%E5%8F%B3%E3%80%82%E9%80%99%E7%A8%AE%E5%A2%9E%E5%B9%85%E5%B0%8DIT%E4%BC%81%E6%A5%AD%E8%80%8C%E8%A8%80%E6%85%A2%E5%BE%97%E4%BB%A4%E4%BA%BA%E8%91%97%E6%80%A5%E3%80%82%E5%8D%8A%E5%B0%8E%E9%AB%94%E4%B8%96%E7%95%8C%E7%9A%84%E3%80%8C%E6%91%A9%E7%88%BE%E6%B3%95%E5%89%87%E3%80%8D%E5%B0%8DE%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [半導體](半導體.md), [摩爾法則](摩爾法則.md), [特斯拉](特斯拉.md), [蘋果](蘋果.md), [電池](電池.md)
 ___
-##### 2024-04-02 06:21:37 UTC ~ 日經中文網
+##### 2024-04-02 06:21:37 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【日本專家：小米汽車如同iPhone問世】伊藤忠總研主任研究員 深尾三四郎：就像賈伯斯發佈第一代iPhone時一樣，我感到十分震驚。蘋果放棄了「Apple Car」構想，而小米代替蘋果打造了智慧手機和EV相結合的生態系統。站在競爭對手的角…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A%E5%A6%82%E5%90%8CiPhone%E5%95%8F%E4%B8%96%E3%80%91%E4%BC%8A%E8%97%A4%E5%BF%A0%E7%B8%BD%E7%A0%94%E4%B8%BB%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1+%E6%B7%B1%E5%B0%BE%E4%B8%89%E5%9B%9B%E9%83%8E%EF%BC%9A%E5%B0%B1%E5%83%8F%E8%B3%88%E4%BC%AF%E6%96%AF%E7%99%BC%E4%BD%88%E7%AC%AC%E4%B8%80%E4%BB%A3iPhone%E6%99%82%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%88%91%E6%84%9F%E5%88%B0%E5%8D%81%E5%88%86%E9%9C%87%E9%A9%9A%E3%80%82%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E4%BA%86%E3%80%8CApple+Car%E3%80%8D%E6%A7%8B%E6%83%B3%EF%BC%8C%E8%80%8C%E5%B0%8F%E7%B1%B3%E4%BB%A3%E6%9B%BF%E8%98%8B%E6%9E%9C%E6%89%93%E9%80%A0%E4%BA%86%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CEV%E7%9B%B8%E7%B5%90%E5%90%88%E7%9A%84%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E3%80%82%E7%AB%99%E5%9C%A8%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E8%A7%92%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [iPhone](iPhone.md), [小米](小米.md), [打造](打造.md), [日本](日本.md), [蘋果](蘋果.md)
 ___
-##### 2024-04-02 06:13:21 UTC ~ 日經中文網
+##### 2024-04-02 06:13:21 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【日本專家：小米汽車如同iPhone問世】伊藤忠總研主任研究員 深尾三四郎：就像賈伯斯發佈第一代iPhone時一樣，我感到十分震驚。蘋果放棄了「Apple Car」構想，而小米代替蘋果打造了智慧手機和EV相結合的生態系統。站在競爭對手的角…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%97%A5%E6%9C%AC%E5%B0%88%E5%AE%B6%EF%BC%9A%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BB%8A%E5%A6%82%E5%90%8CiPhone%E5%95%8F%E4%B8%96%E3%80%91%E4%BC%8A%E8%97%A4%E5%BF%A0%E7%B8%BD%E7%A0%94%E4%B8%BB%E4%BB%BB%E7%A0%94%E7%A9%B6%E5%93%A1+%E6%B7%B1%E5%B0%BE%E4%B8%89%E5%9B%9B%E9%83%8E%EF%BC%9A%E5%B0%B1%E5%83%8F%E8%B3%88%E4%BC%AF%E6%96%AF%E7%99%BC%E4%BD%88%E7%AC%AC%E4%B8%80%E4%BB%A3iPhone%E6%99%82%E4%B8%80%E6%A8%A3%EF%BC%8C%E6%88%91%E6%84%9F%E5%88%B0%E5%8D%81%E5%88%86%E9%9C%87%E9%A9%9A%E3%80%82%E8%98%8B%E6%9E%9C%E6%94%BE%E6%A3%84%E4%BA%86%E3%80%8CApple+Car%E3%80%8D%E6%A7%8B%E6%83%B3%EF%BC%8C%E8%80%8C%E5%B0%8F%E7%B1%B3%E4%BB%A3%E6%9B%BF%E8%98%8B%E6%9E%9C%E6%89%93%E9%80%A0%E4%BA%86%E6%99%BA%E6%85%A7%E6%89%8B%E6%A9%9F%E5%92%8CEV%E7%9B%B8%E7%B5%90%E5%90%88%E7%9A%84%E7%94%9F%E6%85%8B%E7%B3%BB%E7%B5%B1%E3%80%82%E7%AB%99%E5%9C%A8%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E7%9A%84%E8%A7%92%E2%80%A6)
@@ -1323,7 +1344,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [市值](市值.md), [收盘](收盘.md), [涨](涨.md), [累计](累计.md), [纪录](纪录.md), [苹果](苹果.md)
 ___
-##### 2023-12-12 05:15:52 UTC ~ 日經中文網
+##### 2023-12-12 05:15:52 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【中國企業也在向越南轉移】有分析認為到2025年，iPad和Apple Watch的約20%、無線耳機「AirPods」的約65%將在越南生産。立訊、比亞迪等中國企業紛紛在越南投資。1～11月中國直接投資的批准額增至上年同期的約2倍………
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%B9%9F%E5%9C%A8%E5%90%91%E8%B6%8A%E5%8D%97%E8%BD%89%E7%A7%BB%E3%80%91%E6%9C%89%E5%88%86%E6%9E%90%E8%AA%8D%E7%82%BA%E5%88%B02025%E5%B9%B4%EF%BC%8CiPad%E5%92%8CApple+Watch%E7%9A%84%E7%B4%8420%25%E3%80%81%E7%84%A1%E7%B7%9A%E8%80%B3%E6%A9%9F%E3%80%8CAirPods%E3%80%8D%E7%9A%84%E7%B4%8465%25%E5%B0%87%E5%9C%A8%E8%B6%8A%E5%8D%97%E7%94%9F%E7%94%A3%E3%80%82%E7%AB%8B%E8%A8%8A%E3%80%81%E6%AF%94%E4%BA%9E%E8%BF%AA%E7%AD%89%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%B4%9B%E7%B4%9B%E5%9C%A8%E8%B6%8A%E5%8D%97%E6%8A%95%E8%B3%87%E3%80%821%EF%BD%9E11%E6%9C%88%E4%B8%AD%E5%9C%8B%E7%9B%B4%E6%8E%A5%E6%8A%95%E8%B3%87%E7%9A%84%E6%89%B9%E5%87%86%E9%A1%8D%E5%A2%9E%E8%87%B3%E4%B8%8A%E5%B9%B4%E5%90%8C%E6%9C%9F%E7%9A%84%E7%B4%842%E5%80%8D%E2%80%A6%E2%80%A6%E2%80%A6)
@@ -1372,7 +1393,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [分析](分析.md), [分析师](分析师.md), [发布](发布.md), [如今](如今.md), [客户](客户.md), [根据](根据.md), [混乱](混乱.md), [罕见](罕见.md), [苹果](苹果.md), [道歉](道歉.md), [陷入](陷入.md), [障碍](障碍.md), [面临](面临.md)
 ___
-##### 2023-07-14 03:50:51 UTC ~ 日經中文網
+##### 2023-07-14 03:50:51 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【亚马逊大促销彰显美国消费出现变化】GAP的服装打4折，Apple Watch打7折，亚马逊大型促销Prime Day已经开始。打开美国亚马逊网站，比以往更加强调降价的标签占满屏幕。有观点指出，“由于消费者可自由裁量的资金吃紧，越来越关注…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%A4%A7%E4%BF%83%E9%94%80%E5%BD%B0%E6%98%BE%E7%BE%8E%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%87%BA%E7%8E%B0%E5%8F%98%E5%8C%96%E3%80%91GAP%E7%9A%84%E6%9C%8D%E8%A3%85%E6%89%934%E6%8A%98%EF%BC%8CApple+Watch%E6%89%937%E6%8A%98%EF%BC%8C%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%A4%A7%E5%9E%8B%E4%BF%83%E9%94%80Prime+Day%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E3%80%82%E6%89%93%E5%BC%80%E7%BE%8E%E5%9B%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99%EF%BC%8C%E6%AF%94%E4%BB%A5%E5%BE%80%E6%9B%B4%E5%8A%A0%E5%BC%BA%E8%B0%83%E9%99%8D%E4%BB%B7%E7%9A%84%E6%A0%87%E7%AD%BE%E5%8D%A0%E6%BB%A1%E5%B1%8F%E5%B9%95%E3%80%82%E6%9C%89%E8%A7%82%E7%82%B9%E6%8C%87%E5%87%BA%EF%BC%8C%E2%80%9C%E7%94%B1%E4%BA%8E%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%AF%E8%87%AA%E7%94%B1%E8%A3%81%E9%87%8F%E7%9A%84%E8%B5%84%E9%87%91%E5%90%83%E7%B4%A7%EF%BC%8C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%85%B3%E6%B3%A8%E2%80%A6)
@@ -1386,7 +1407,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [品牌](品牌.md), [市值](市值.md), [科技](科技.md), [突破](突破.md), [美国](美国.md), [苹果](苹果.md), [超过](超过.md)
 ___
-##### 2023-06-14 06:55:59 UTC ~ 日經中文網
+##### 2023-06-14 06:55:59 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【链接——拆解Apple Watch:成本率是iPhone一半】拆解调查显示第8代Apple Watch的零部件成本约为100美元，售价为399美元，零部件成本率25%。第2代AirPods Pro的零部件成本率为22%。而iPhone…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%93%BE%E6%8E%A5%E2%80%94%E2%80%94%E6%8B%86%E8%A7%A3Apple+Watch%3A%E6%88%90%E6%9C%AC%E7%8E%87%E6%98%AFiPhone%E4%B8%80%E5%8D%8A%E3%80%91%E6%8B%86%E8%A7%A3%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E7%AC%AC8%E4%BB%A3Apple+Watch%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%BA%A6%E4%B8%BA100%E7%BE%8E%E5%85%83%EF%BC%8C%E5%94%AE%E4%BB%B7%E4%B8%BA399%E7%BE%8E%E5%85%83%EF%BC%8C%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%8E%8725%25%E3%80%82%E7%AC%AC2%E4%BB%A3AirPods+Pro%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%8E%87%E4%B8%BA22%25%E3%80%82%E8%80%8CiPhone%E2%80%A6)
@@ -1400,7 +1421,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [市值](市值.md), [涨](涨.md), [苹果](苹果.md)
 ___
-##### 2023-06-07 06:37:12 UTC ~ 日經中文網
+##### 2023-06-07 06:37:12 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【苹果第四次挑战用户界面革命，但有死角】村山恵一：“这将是计算机历史上一个新时代的开端”，发布“Apple Vision Pro”的苹果CEO库克这样宣言。这将是该公司第四次发起改变人机交互方式的挑战。现在世界刚好处于明显改变人类与电脑关…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E7%AC%AC%E5%9B%9B%E6%AC%A1%E6%8C%91%E6%88%98%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2%E9%9D%A9%E5%91%BD%EF%BC%8C%E4%BD%86%E6%9C%89%E6%AD%BB%E8%A7%92%E3%80%91%E6%9D%91%E5%B1%B1%E6%81%B5%E4%B8%80%EF%BC%9A%E2%80%9C%E8%BF%99%E5%B0%86%E6%98%AF%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B8%80%E4%B8%AA%E6%96%B0%E6%97%B6%E4%BB%A3%E7%9A%84%E5%BC%80%E7%AB%AF%E2%80%9D%EF%BC%8C%E5%8F%91%E5%B8%83%E2%80%9CApple+Vision+Pro%E2%80%9D%E7%9A%84%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B%E8%BF%99%E6%A0%B7%E5%AE%A3%E8%A8%80%E3%80%82%E8%BF%99%E5%B0%86%E6%98%AF%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%8F%91%E8%B5%B7%E6%94%B9%E5%8F%98%E4%BA%BA%E6%9C%BA%E4%BA%A4%E4%BA%92%E6%96%B9%E5%BC%8F%E7%9A%84%E6%8C%91%E6%88%98%E3%80%82%E7%8E%B0%E5%9C%A8%E4%B8%96%E7%95%8C%E5%88%9A%E5%A5%BD%E5%A4%84%E4%BA%8E%E6%98%8E%E6%98%BE%E6%94%B9%E5%8F%98%E4%BA%BA%E7%B1%BB%E4%B8%8E%E7%94%B5%E8%84%91%E5%85%B3%E2%80%A6)
@@ -1414,7 +1435,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [增强现实](增强现实.md), [苹果](苹果.md)
 ___
-##### 2023-06-06 04:07:33 UTC ~ 日經中文網
+##### 2023-06-06 04:07:33 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【苹果头显终端值得期待吗？】“将开创空间计算时代”，苹果6月5日发布了眼镜型头戴式显示器Apple Vision Pro。佩戴后，视野中会出现一个巨大的屏幕，通过叠加真实空间，可观看3D视频或视频通话，仅靠眼睛及手部动作和声音就能直观操作…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E5%A4%B4%E6%98%BE%E7%BB%88%E7%AB%AF%E5%80%BC%E5%BE%97%E6%9C%9F%E5%BE%85%E5%90%97%EF%BC%9F%E3%80%91%E2%80%9C%E5%B0%86%E5%BC%80%E5%88%9B%E7%A9%BA%E9%97%B4%E8%AE%A1%E7%AE%97%E6%97%B6%E4%BB%A3%E2%80%9D%EF%BC%8C%E8%8B%B9%E6%9E%9C6%E6%9C%885%E6%97%A5%E5%8F%91%E5%B8%83%E4%BA%86%E7%9C%BC%E9%95%9C%E5%9E%8B%E5%A4%B4%E6%88%B4%E5%BC%8F%E6%98%BE%E7%A4%BA%E5%99%A8Apple+Vision+Pro%E3%80%82%E4%BD%A9%E6%88%B4%E5%90%8E%EF%BC%8C%E8%A7%86%E9%87%8E%E4%B8%AD%E4%BC%9A%E5%87%BA%E7%8E%B0%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%B1%8F%E5%B9%95%EF%BC%8C%E9%80%9A%E8%BF%87%E5%8F%A0%E5%8A%A0%E7%9C%9F%E5%AE%9E%E7%A9%BA%E9%97%B4%EF%BC%8C%E5%8F%AF%E8%A7%82%E7%9C%8B3D%E8%A7%86%E9%A2%91%E6%88%96%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%EF%BC%8C%E4%BB%85%E9%9D%A0%E7%9C%BC%E7%9D%9B%E5%8F%8A%E6%89%8B%E9%83%A8%E5%8A%A8%E4%BD%9C%E5%92%8C%E5%A3%B0%E9%9F%B3%E5%B0%B1%E8%83%BD%E7%9B%B4%E8%A7%82%E6%93%8D%E4%BD%9C%E2%80%A6)
@@ -1449,7 +1470,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [吸引](吸引.md), [存款](存款.md), [推出](推出.md), [收益](收益.md), [收益率](收益率.md), [竞争](竞争.md), [苹果](苹果.md), [蓄账户](蓄账户.md), [账户](账户.md), [银](银.md), [高盛](高盛.md)
 ___
-##### 2023-04-06 01:36:42 UTC ~ 日經中文網
+##### 2023-04-06 01:36:42 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【拆解Apple Watch:成本率是iPhone一半】拆解调查显示第8代Apple Watch的零部件成本约为100美元，售价为399美元，零部件成本率25%。第2代AirPods Pro的零部件成本率为22%。而iPhone 14 P…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%8B%86%E8%A7%A3Apple+Watch%3A%E6%88%90%E6%9C%AC%E7%8E%87%E6%98%AFiPhone%E4%B8%80%E5%8D%8A%E3%80%91%E6%8B%86%E8%A7%A3%E8%B0%83%E6%9F%A5%E6%98%BE%E7%A4%BA%E7%AC%AC8%E4%BB%A3Apple+Watch%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%BA%A6%E4%B8%BA100%E7%BE%8E%E5%85%83%EF%BC%8C%E5%94%AE%E4%BB%B7%E4%B8%BA399%E7%BE%8E%E5%85%83%EF%BC%8C%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%8E%8725%25%E3%80%82%E7%AC%AC2%E4%BB%A3AirPods+Pro%E7%9A%84%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%88%90%E6%9C%AC%E7%8E%87%E4%B8%BA22%25%E3%80%82%E8%80%8CiPhone+14+P%E2%80%A6)
@@ -1519,7 +1540,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [交易](交易.md), [巨头](巨头.md), [散户](散户.md), [特斯拉](特斯拉.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [趋势](趋势.md)
 ___
-##### 2022-12-16 11:16:54 UTC ~ 日經中文網
+##### 2022-12-16 11:16:54 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【华为在日本正将重心转向智能手表】从各厂商在日本智能手表市场的销量份额来看，苹果遥遥领先，达到6成以上，华为的份额为10.3％，排在第3位。华为的款式比Apple Watch丰富，价格也更为适中……https://t.co/IBvvjXb…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8E%E4%B8%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%B0%86%E9%87%8D%E5%BF%83%E8%BD%AC%E5%90%91%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E3%80%91%E4%BB%8E%E5%90%84%E5%8E%82%E5%95%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E5%B8%82%E5%9C%BA%E7%9A%84%E9%94%80%E9%87%8F%E4%BB%BD%E9%A2%9D%E6%9D%A5%E7%9C%8B%EF%BC%8C%E8%8B%B9%E6%9E%9C%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%EF%BC%8C%E8%BE%BE%E5%88%B06%E6%88%90%E4%BB%A5%E4%B8%8A%EF%BC%8C%E5%8D%8E%E4%B8%BA%E7%9A%84%E4%BB%BD%E9%A2%9D%E4%B8%BA10.3%EF%BC%85%EF%BC%8C%E6%8E%92%E5%9C%A8%E7%AC%AC3%E4%BD%8D%E3%80%82%E5%8D%8E%E4%B8%BA%E7%9A%84%E6%AC%BE%E5%BC%8F%E6%AF%94Apple+Watch%E4%B8%B0%E5%AF%8C%EF%BC%8C%E4%BB%B7%E6%A0%BC%E4%B9%9F%E6%9B%B4%E4%B8%BA%E9%80%82%E4%B8%AD%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FIBvvjXb%E2%80%A6)
@@ -1764,7 +1785,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [iOS](iOS.md), [iPhone](iPhone.md), [发布](发布.md), [开发](开发.md), [程序](程序.md), [系统](系统.md), [美国](美国.md), [苹果](苹果.md)
 ___
-##### 2021-05-06 04:26:53 UTC ~ 日經中文網
+##### 2021-05-06 04:26:53 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【松下在日本销售中国产超小型纯电动汽车】汽车名为e-Apple，长约2.2米，单座，有6种颜色。根据电池种类分为2种型号，续航距离分别为约120公里和约80公里。按照日本法律，e-Apple属于附带动力的自行车，不需要车检、不能上高速、保…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%9D%BE%E4%B8%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E9%94%80%E5%94%AE%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%B6%85%E5%B0%8F%E5%9E%8B%E7%BA%AF%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E3%80%91%E6%B1%BD%E8%BD%A6%E5%90%8D%E4%B8%BAe-Apple%EF%BC%8C%E9%95%BF%E7%BA%A62.2%E7%B1%B3%EF%BC%8C%E5%8D%95%E5%BA%A7%EF%BC%8C%E6%9C%896%E7%A7%8D%E9%A2%9C%E8%89%B2%E3%80%82%E6%A0%B9%E6%8D%AE%E7%94%B5%E6%B1%A0%E7%A7%8D%E7%B1%BB%E5%88%86%E4%B8%BA2%E7%A7%8D%E5%9E%8B%E5%8F%B7%EF%BC%8C%E7%BB%AD%E8%88%AA%E8%B7%9D%E7%A6%BB%E5%88%86%E5%88%AB%E4%B8%BA%E7%BA%A6120%E5%85%AC%E9%87%8C%E5%92%8C%E7%BA%A680%E5%85%AC%E9%87%8C%E3%80%82%E6%8C%89%E7%85%A7%E6%97%A5%E6%9C%AC%E6%B3%95%E5%BE%8B%EF%BC%8Ce-Apple%E5%B1%9E%E4%BA%8E%E9%99%84%E5%B8%A6%E5%8A%A8%E5%8A%9B%E7%9A%84%E8%87%AA%E8%A1%8C%E8%BD%A6%EF%BC%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E8%BD%A6%E6%A3%80%E3%80%81%E4%B8%8D%E8%83%BD%E4%B8%8A%E9%AB%98%E9%80%9F%E3%80%81%E4%BF%9D%E2%80%A6)

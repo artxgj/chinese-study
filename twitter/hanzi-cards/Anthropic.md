@@ -7,6 +7,34 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
+##### 2026-09-01 01:55:31 UTC ~ 李新宝
+> RT @lixinbao_X: OpenAI狂买几万台Mac，苹果竟从英伟达嘴里抢到AI生意据报道，OpenAI已经采购了数万台Mac mini和Mac Studio，用来做强化学习，训练能自己操作电脑、改代码、整理邮箱的AI Agent。Anthropic也在通过AW…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+OpenAI%E7%8B%82%E4%B9%B0%E5%87%A0%E4%B8%87%E5%8F%B0Mac%EF%BC%8C%E8%8B%B9%E6%9E%9C%E7%AB%9F%E4%BB%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%98%B4%E9%87%8C%E6%8A%A2%E5%88%B0AI%E7%94%9F%E6%84%8F%E6%8D%AE%E6%8A%A5%E9%81%93%EF%BC%8COpenAI%E5%B7%B2%E7%BB%8F%E9%87%87%E8%B4%AD%E4%BA%86%E6%95%B0%E4%B8%87%E5%8F%B0Mac+mini%E5%92%8CMac+Studio%EF%BC%8C%E7%94%A8%E6%9D%A5%E5%81%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E8%AE%AD%E7%BB%83%E8%83%BD%E8%87%AA%E5%B7%B1%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91%E3%80%81%E6%94%B9%E4%BB%A3%E7%A0%81%E3%80%81%E6%95%B4%E7%90%86%E9%82%AE%E7%AE%B1%E7%9A%84AI+Agent%E3%80%82Anthropic%E4%B9%9F%E5%9C%A8%E9%80%9A%E8%BF%87AW%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [OpenAI](OpenAI.md), [代码](代码.md), [操作](操作.md), [英伟达](英伟达.md), [苹果](苹果.md)
+___
+##### 2026-08-31 13:47:29 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 终于知道 Mac 都被谁扫了。信息报确认，ChatGPT 母公司 OpenAI，正大量扫货市面上的 Mac mini 和 Mac Studio，已达数万台，正迫切希望采购更多。而 Claude 的 Anthropic 则通过亚马逊 AWS，来租用 M…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93+Mac+%E9%83%BD%E8%A2%AB%E8%B0%81%E6%89%AB%E4%BA%86%E3%80%82%E4%BF%A1%E6%81%AF%E6%8A%A5%E7%A1%AE%E8%AE%A4%EF%BC%8CChatGPT+%E6%AF%8D%E5%85%AC%E5%8F%B8+OpenAI%EF%BC%8C%E6%AD%A3%E5%A4%A7%E9%87%8F%E6%89%AB%E8%B4%A7%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%9A%84+Mac+mini+%E5%92%8C+Mac+Studio%EF%BC%8C%E5%B7%B2%E8%BE%BE%E6%95%B0%E4%B8%87%E5%8F%B0%EF%BC%8C%E6%AD%A3%E8%BF%AB%E5%88%87%E5%B8%8C%E6%9C%9B%E9%87%87%E8%B4%AD%E6%9B%B4%E5%A4%9A%E3%80%82%E8%80%8C+Claude+%E7%9A%84+Anthropic+%E5%88%99%E9%80%9A%E8%BF%87%E4%BA%9A%E9%A9%AC%E9%80%8A+AWS%EF%BC%8C%E6%9D%A5%E7%A7%9F%E7%94%A8+M%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Claude](Claude.md), [Mac](Mac.md), [OpenAI](OpenAI.md), [亚马逊](亚马逊.md), [确认](确认.md)
+___
+##### 2026-08-26 03:55:17 UTC ~ 日经中文网/日經中文網
+> RT @rijingzhongwen: 【Anthropic IPO进入终盘，估值或超2万亿美元】媒体报道称，Anthropic的目标估值为2万亿美元。其规模将超过台积电，位列全球第六……https://t.co/HyYXC2zidD
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic+IPO%E8%BF%9B%E5%85%A5%E7%BB%88%E7%9B%98%EF%BC%8C%E4%BC%B0%E5%80%BC%E6%88%96%E8%B6%852%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%91%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8CAnthropic%E7%9A%84%E7%9B%AE%E6%A0%87%E4%BC%B0%E5%80%BC%E4%B8%BA2%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E3%80%82%E5%85%B6%E8%A7%84%E6%A8%A1%E5%B0%86%E8%B6%85%E8%BF%87%E5%8F%B0%E7%A7%AF%E7%94%B5%EF%BC%8C%E4%BD%8D%E5%88%97%E5%85%A8%E7%90%83%E7%AC%AC%E5%85%AD%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FHyYXC2zidD)
+##### Other Words/Names of Interest in the Above Tweet
+[估值](估值.md), [台积电](台积电.md), [规模](规模.md), [超过](超过.md)
+___
+##### 2026-08-26 03:54:46 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 科技初创公司通常会在上市时提出“总体潜在市场”（Total Addressable Market，TAM），向投资人说明未来成长空间，庞大的TAM也可能支持Anthropic寻求更高IPO估值。#南洋商报 #Anthropic #IPO #…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%A7%91%E6%8A%80%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8%E9%80%9A%E5%B8%B8%E4%BC%9A%E5%9C%A8%E4%B8%8A%E5%B8%82%E6%97%B6%E6%8F%90%E5%87%BA%E2%80%9C%E6%80%BB%E4%BD%93%E6%BD%9C%E5%9C%A8%E5%B8%82%E5%9C%BA%E2%80%9D%EF%BC%88Total+Addressable+Market%EF%BC%8CTAM%EF%BC%89%EF%BC%8C%E5%90%91%E6%8A%95%E8%B5%84%E4%BA%BA%E8%AF%B4%E6%98%8E%E6%9C%AA%E6%9D%A5%E6%88%90%E9%95%BF%E7%A9%BA%E9%97%B4%EF%BC%8C%E5%BA%9E%E5%A4%A7%E7%9A%84TAM%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%94%AF%E6%8C%81Anthropic%E5%AF%BB%E6%B1%82%E6%9B%B4%E9%AB%98IPO%E4%BC%B0%E5%80%BC%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Anthropic+%23IPO+%23%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[估值](估值.md), [投资](投资.md), [提出](提出.md), [支持](支持.md), [潜在](潜在.md), [科技](科技.md)
+___
 ##### 2026-07-31 11:01:47 UTC ~ Fuck Anthropic
 > RT @FuckAnthropic: what？不是吧？是我眼瞎了吧？太假了吧？Deepseek V4 Flash 在 Terminal Bench 2.1 和 DeepSWE 这两个重磅评测集上把 GLM 5.2 按在地上摩擦？？倒反天罡吧？大家快测一测，我收集收集真实反馈！…
 
@@ -124,7 +152,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E7%BE%8E%E8%BB%8D%E5%B0%81%E6%AE%BA+Anthropic+%E5%8A%A0%E9%80%9F%EF%BC%81%E7%A9%BA%E8%BB%8D%E7%A0%94%E7%A9%B6%E5%AF%A6%E9%A9%97%E5%AE%A4%E8%A6%81%E6%B1%82+9+%E6%9C%88+1+%E6%97%A5%E5%89%8D%E7%A7%BB%E9%99%A4%E6%89%80%E6%9C%89%E7%9B%B8%E9%97%9C%E7%94%A2%E5%93%81%E8%88%87%E6%9C%8D%E5%8B%99%E3%80%82+%23%E7%BE%8E%E8%BB%8D+%23Anthropic+%23AI%E7%A6%81%E4%BB%A4+https%3A%2F%2Ft.co%2FBJsqxZAi7p)
 ___
-##### 2026-06-29 06:29:27 UTC ~ 日經中文網
+##### 2026-06-29 06:29:27 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Anthropic或于本週恢復提供AI模型「Fable」】預計Anthropic繼尖端AI「Claude Mythos」之後，近期將恢復提供同等性能的「Fable」。中國企業也出現了先進模型，有聲音擔憂美國企業能否保持競爭優勢……ht…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic%E6%88%96%E4%BA%8E%E6%9C%AC%E9%80%B1%E6%81%A2%E5%BE%A9%E6%8F%90%E4%BE%9BAI%E6%A8%A1%E5%9E%8B%E3%80%8CFable%E3%80%8D%E3%80%91%E9%A0%90%E8%A8%88Anthropic%E7%B9%BC%E5%B0%96%E7%AB%AFAI%E3%80%8CClaude+Mythos%E3%80%8D%E4%B9%8B%E5%BE%8C%EF%BC%8C%E8%BF%91%E6%9C%9F%E5%B0%87%E6%81%A2%E5%BE%A9%E6%8F%90%E4%BE%9B%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E7%9A%84%E3%80%8CFable%E3%80%8D%E3%80%82%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E4%B9%9F%E5%87%BA%E7%8F%BE%E4%BA%86%E5%85%88%E9%80%B2%E6%A8%A1%E5%9E%8B%EF%BC%8C%E6%9C%89%E8%81%B2%E9%9F%B3%E6%93%94%E6%86%82%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E8%83%BD%E5%90%A6%E4%BF%9D%E6%8C%81%E7%AB%B6%E7%88%AD%E5%84%AA%E5%8B%A2%E2%80%A6%E2%80%A6ht%E2%80%A6)
@@ -173,7 +201,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Claude](Claude.md), [推动](推动.md), [收入](收入.md), [正式](正式.md), [申请](申请.md), [计划](计划.md), [销售](销售.md)
 ___
-##### 2026-06-02 01:14:46 UTC ~ 日經中文網
+##### 2026-06-02 01:14:46 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美國AI企業Anthropic宣佈申請IPO】市場預計，Anthropic上市時將力爭實現超過1萬億美元市值……https://t.co/BGTzNQWNny
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8BAI%E4%BC%81%E6%A5%ADAnthropic%E5%AE%A3%E4%BD%88%E7%94%B3%E8%AB%8BIPO%E3%80%91%E5%B8%82%E5%A0%B4%E9%A0%90%E8%A8%88%EF%BC%8CAnthropic%E4%B8%8A%E5%B8%82%E6%99%82%E5%B0%87%E5%8A%9B%E7%88%AD%E5%AF%A6%E7%8F%BE%E8%B6%85%E9%81%8E1%E8%90%AC%E5%84%84%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FBGTzNQWNny)
@@ -208,7 +236,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [OpenAI](OpenAI.md), [备受](备受.md), [投资](投资.md), [考虑](考虑.md), [计划](计划.md), [进行](进行.md), [追捧](追捧.md), [逾](逾.md), [领域](领域.md), [飙升](飙升.md)
 ___
-##### 2026-05-08 04:25:52 UTC ~ 日經中文網
+##### 2026-05-08 04:25:52 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【馬斯克與Anthropic聯手對OpenAI形成包圍圈】由馬斯克領導的SpaceX將把數據中心「Colossus 1」整體出租給Anthropic。馬斯克和Anthropic的CEO達里奧·阿莫代伊都與OpenAI的CEO薩姆·奧爾特曼…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%A6%AC%E6%96%AF%E5%85%8B%E8%88%87Anthropic%E8%81%AF%E6%89%8B%E5%B0%8DOpenAI%E5%BD%A2%E6%88%90%E5%8C%85%E5%9C%8D%E5%9C%88%E3%80%91%E7%94%B1%E9%A6%AC%E6%96%AF%E5%85%8B%E9%A0%98%E5%B0%8E%E7%9A%84SpaceX%E5%B0%87%E6%8A%8A%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E3%80%8CColossus+1%E3%80%8D%E6%95%B4%E9%AB%94%E5%87%BA%E7%A7%9F%E7%B5%A6Anthropic%E3%80%82%E9%A6%AC%E6%96%AF%E5%85%8B%E5%92%8CAnthropic%E7%9A%84CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E9%83%BD%E8%88%87OpenAI%E7%9A%84CEO%E8%96%A9%E5%A7%86%C2%B7%E5%A5%A7%E7%88%BE%E7%89%B9%E6%9B%BC%E2%80%A6)
@@ -222,7 +250,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [备受](备受.md), [客户](客户.md), [扩大](扩大.md), [计划](计划.md), [进行](进行.md), [金](金.md), [金融](金融.md)
 ___
-##### 2026-05-05 17:37:10 UTC ~ 日經中文網
+##### 2026-05-05 17:37:10 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【新AI讓漏洞檢出量激增，美放棄對缺陷全面分析】隨著美國Anthropic的Mythos等先進AI問世，軟體漏洞檢出數量激增，分析與修復難以及時跟進。美國國家標準與技術研究院表示，今後將僅對緊急性較高的漏洞進行分析。若連輕微漏洞也全部修復…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%96%B0AI%E8%AE%93%E6%BC%8F%E6%B4%9E%E6%AA%A2%E5%87%BA%E9%87%8F%E6%BF%80%E5%A2%9E%EF%BC%8C%E7%BE%8E%E6%94%BE%E6%A3%84%E5%B0%8D%E7%BC%BA%E9%99%B7%E5%85%A8%E9%9D%A2%E5%88%86%E6%9E%90%E3%80%91%E9%9A%A8%E8%91%97%E7%BE%8E%E5%9C%8BAnthropic%E7%9A%84Mythos%E7%AD%89%E5%85%88%E9%80%B2AI%E5%95%8F%E4%B8%96%EF%BC%8C%E8%BB%9F%E9%AB%94%E6%BC%8F%E6%B4%9E%E6%AA%A2%E5%87%BA%E6%95%B8%E9%87%8F%E6%BF%80%E5%A2%9E%EF%BC%8C%E5%88%86%E6%9E%90%E8%88%87%E4%BF%AE%E5%BE%A9%E9%9B%A3%E4%BB%A5%E5%8F%8A%E6%99%82%E8%B7%9F%E9%80%B2%E3%80%82%E7%BE%8E%E5%9C%8B%E5%9C%8B%E5%AE%B6%E6%A8%99%E6%BA%96%E8%88%87%E6%8A%80%E8%A1%93%E7%A0%94%E7%A9%B6%E9%99%A2%E8%A1%A8%E7%A4%BA%EF%BC%8C%E4%BB%8A%E5%BE%8C%E5%B0%87%E5%83%85%E5%B0%8D%E7%B7%8A%E6%80%A5%E6%80%A7%E8%BC%83%E9%AB%98%E7%9A%84%E6%BC%8F%E6%B4%9E%E9%80%B2%E8%A1%8C%E5%88%86%E6%9E%90%E3%80%82%E8%8B%A5%E9%80%A3%E8%BC%95%E5%BE%AE%E6%BC%8F%E6%B4%9E%E4%B9%9F%E5%85%A8%E9%83%A8%E4%BF%AE%E5%BE%A9%E2%80%A6)
@@ -243,7 +271,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Claude](Claude.md), [人工智能](人工智能.md)
 ___
-##### 2026-04-17 07:24:47 UTC ~ 日經中文網
+##### 2026-04-17 07:24:47 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【安全專家紛紛離職，誰為AI競賽踩煞車】「世界正陷入危機」。Anthropic的安全研究員Mrinank Sharma在給同事留下一封信後辭職。OpenAI的Zoë Hitzig也因Chat GPT引入廣告而辭職。「無論有多麼崇高的理念，…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%AE%89%E5%85%A8%E5%B0%88%E5%AE%B6%E7%B4%9B%E7%B4%9B%E9%9B%A2%E8%81%B7%EF%BC%8C%E8%AA%B0%E7%82%BAAI%E7%AB%B6%E8%B3%BD%E8%B8%A9%E7%85%9E%E8%BB%8A%E3%80%91%E3%80%8C%E4%B8%96%E7%95%8C%E6%AD%A3%E9%99%B7%E5%85%A5%E5%8D%B1%E6%A9%9F%E3%80%8D%E3%80%82Anthropic%E7%9A%84%E5%AE%89%E5%85%A8%E7%A0%94%E7%A9%B6%E5%93%A1Mrinank+Sharma%E5%9C%A8%E7%B5%A6%E5%90%8C%E4%BA%8B%E7%95%99%E4%B8%8B%E4%B8%80%E5%B0%81%E4%BF%A1%E5%BE%8C%E8%BE%AD%E8%81%B7%E3%80%82OpenAI%E7%9A%84Zo%C3%AB+Hitzig%E4%B9%9F%E5%9B%A0Chat+GPT%E5%BC%95%E5%85%A5%E5%BB%A3%E5%91%8A%E8%80%8C%E8%BE%AD%E8%81%B7%E3%80%82%E3%80%8C%E7%84%A1%E8%AB%96%E6%9C%89%E5%A4%9A%E9%BA%BC%E5%B4%87%E9%AB%98%E7%9A%84%E7%90%86%E5%BF%B5%EF%BC%8C%E2%80%A6)
@@ -271,7 +299,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [供应链](供应链.md), [侵犯](侵犯.md), [威胁](威胁.md), [模型](模型.md), [特朗普](特朗普.md), [禁止](禁止.md), [美国](美国.md), [裁决](裁决.md), [风险](风险.md)
 ___
-##### 2026-03-03 05:13:39 UTC ~ 日經中文網
+##### 2026-03-03 05:13:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Anthropic超ChatGPT躍居美國免費APP首位】Anthropic的AI「Claude」在軟體開發自動化功能方面領先，同時還展現出拒絕AI被過度用於軍事並重視安全性的姿態。自年初到現在，免費用戶增長60％以上，每天的新註冊用戶…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic%E8%B6%85ChatGPT%E8%BA%8D%E5%B1%85%E7%BE%8E%E5%9C%8B%E5%85%8D%E8%B2%BBAPP%E9%A6%96%E4%BD%8D%E3%80%91Anthropic%E7%9A%84AI%E3%80%8CClaude%E3%80%8D%E5%9C%A8%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E8%87%AA%E5%8B%95%E5%8C%96%E5%8A%9F%E8%83%BD%E6%96%B9%E9%9D%A2%E9%A0%98%E5%85%88%EF%BC%8C%E5%90%8C%E6%99%82%E9%82%84%E5%B1%95%E7%8F%BE%E5%87%BA%E6%8B%92%E7%B5%95AI%E8%A2%AB%E9%81%8E%E5%BA%A6%E7%94%A8%E6%96%BC%E8%BB%8D%E4%BA%8B%E4%B8%A6%E9%87%8D%E8%A6%96%E5%AE%89%E5%85%A8%E6%80%A7%E7%9A%84%E5%A7%BF%E6%85%8B%E3%80%82%E8%87%AA%E5%B9%B4%E5%88%9D%E5%88%B0%E7%8F%BE%E5%9C%A8%EF%BC%8C%E5%85%8D%E8%B2%BB%E7%94%A8%E6%88%B6%E5%A2%9E%E9%95%B760%EF%BC%85%E4%BB%A5%E4%B8%8A%EF%BC%8C%E6%AF%8F%E5%A4%A9%E7%9A%84%E6%96%B0%E8%A8%BB%E5%86%8A%E7%94%A8%E6%88%B6%E2%80%A6)
@@ -292,7 +320,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [冲突](冲突.md), [升级](升级.md), [技术](技术.md), [标志](标志.md), [特朗普](特朗普.md), [美国](美国.md)
 ___
-##### 2026-02-28 02:39:05 UTC ~ 日經中文網
+##### 2026-02-28 02:39:05 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美Anthropic稱3家中企對自身模型進行蒸餾】蒸餾是利用更高級AI模型的輸出數據來訓練其他模型的技術。Anthropic指出中國企業DeepSeek、Moonshot AI、MiniMax可能合計創建了約2.4萬個問題帳戶，並與An…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8EAnthropic%E7%A8%B13%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%B0%8D%E8%87%AA%E8%BA%AB%E6%A8%A1%E5%9E%8B%E9%80%B2%E8%A1%8C%E8%92%B8%E9%A4%BE%E3%80%91%E8%92%B8%E9%A4%BE%E6%98%AF%E5%88%A9%E7%94%A8%E6%9B%B4%E9%AB%98%E7%B4%9AAI%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%BC%B8%E5%87%BA%E6%95%B8%E6%93%9A%E4%BE%86%E8%A8%93%E7%B7%B4%E5%85%B6%E4%BB%96%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8A%80%E8%A1%93%E3%80%82Anthropic%E6%8C%87%E5%87%BA%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%ADDeepSeek%E3%80%81Moonshot+AI%E3%80%81MiniMax%E5%8F%AF%E8%83%BD%E5%90%88%E8%A8%88%E5%89%B5%E5%BB%BA%E4%BA%86%E7%B4%842.4%E8%90%AC%E5%80%8B%E5%95%8F%E9%A1%8C%E5%B8%B3%E6%88%B6%EF%BC%8C%E4%B8%A6%E8%88%87An%E2%80%A6)
@@ -390,14 +418,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [如今](如今.md), [技术](技术.md), [用于](用于.md), [美国](美国.md), [获得](获得.md)
 ___
-##### 2026-01-21 06:54:19 UTC ~ 日經中文網
+##### 2026-01-21 06:54:19 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【Anthropic CEO：向中國出口AI半導體等同於向朝鮮出售核武器】美國初創企業Anthropic CEO達里奧·阿莫代伊就向中國出口H200表示：是一個重大的錯誤……https://t.co/rto6VNRn8s
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90Anthropic+CEO%EF%BC%9A%E5%90%91%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E7%AD%89%E5%90%8C%E6%96%BC%E5%90%91%E6%9C%9D%E9%AE%AE%E5%87%BA%E5%94%AE%E6%A0%B8%E6%AD%A6%E5%99%A8%E3%80%91%E7%BE%8E%E5%9C%8B%E5%88%9D%E5%89%B5%E4%BC%81%E6%A5%ADAnthropic+CEO%E9%81%94%E9%87%8C%E5%A5%A7%C2%B7%E9%98%BF%E8%8E%AB%E4%BB%A3%E4%BC%8A%E5%B0%B1%E5%90%91%E4%B8%AD%E5%9C%8B%E5%87%BA%E5%8F%A3H200%E8%A1%A8%E7%A4%BA%EF%BC%9A%E6%98%AF%E4%B8%80%E5%80%8B%E9%87%8D%E5%A4%A7%E7%9A%84%E9%8C%AF%E8%AA%A4%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2Frto6VNRn8s)
 ##### Other Words/Names of Interest in the Above Tweet
 [出售](出售.md), [半導體](半導體.md), [朝鮮](朝鮮.md), [美國](美國.md)
 ___
-##### 2026-01-21 06:54:14 UTC ~ 日經中文網
+##### 2026-01-21 06:54:14 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【3個AI參加日本高考，誰得分最高？】從輸入題目到輸出答案，谷歌和Anthropic的模型最快4分鐘左右即可完成1個科目的答題。OpenAI的模型的答題時間是前兩家公司的2～3倍。三個AI模型均擅長理科科目，在語文和地理科目上的失分較為明…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%903%E5%80%8BAI%E5%8F%83%E5%8A%A0%E6%97%A5%E6%9C%AC%E9%AB%98%E8%80%83%EF%BC%8C%E8%AA%B0%E5%BE%97%E5%88%86%E6%9C%80%E9%AB%98%EF%BC%9F%E3%80%91%E5%BE%9E%E8%BC%B8%E5%85%A5%E9%A1%8C%E7%9B%AE%E5%88%B0%E8%BC%B8%E5%87%BA%E7%AD%94%E6%A1%88%EF%BC%8C%E8%B0%B7%E6%AD%8C%E5%92%8CAnthropic%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%9C%80%E5%BF%AB4%E5%88%86%E9%90%98%E5%B7%A6%E5%8F%B3%E5%8D%B3%E5%8F%AF%E5%AE%8C%E6%88%901%E5%80%8B%E7%A7%91%E7%9B%AE%E7%9A%84%E7%AD%94%E9%A1%8C%E3%80%82OpenAI%E7%9A%84%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%AD%94%E9%A1%8C%E6%99%82%E9%96%93%E6%98%AF%E5%89%8D%E5%85%A9%E5%AE%B6%E5%85%AC%E5%8F%B8%E7%9A%842%EF%BD%9E3%E5%80%8D%E3%80%82%E4%B8%89%E5%80%8BAI%E6%A8%A1%E5%9E%8B%E5%9D%87%E6%93%85%E9%95%B7%E7%90%86%E7%A7%91%E7%A7%91%E7%9B%AE%EF%BC%8C%E5%9C%A8%E8%AA%9E%E6%96%87%E5%92%8C%E5%9C%B0%E7%90%86%E7%A7%91%E7%9B%AE%E4%B8%8A%E7%9A%84%E5%A4%B1%E5%88%86%E8%BC%83%E7%82%BA%E6%98%8E%E2%80%A6)

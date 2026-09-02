@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-08-26 03:56:15 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 据MarketWatch，周二，AMD股价上涨。此前一位分析师上调了该股评级，并强调在蓬勃发展的服务器中央处理器市场中，该公司相比竞争对手更具优势。https://t.co/q3W8w3FvAE
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AEMarketWatch%EF%BC%8C%E5%91%A8%E4%BA%8C%EF%BC%8CAMD%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8%E3%80%82%E6%AD%A4%E5%89%8D%E4%B8%80%E4%BD%8D%E5%88%86%E6%9E%90%E5%B8%88%E4%B8%8A%E8%B0%83%E4%BA%86%E8%AF%A5%E8%82%A1%E8%AF%84%E7%BA%A7%EF%BC%8C%E5%B9%B6%E5%BC%BA%E8%B0%83%E5%9C%A8%E8%93%AC%E5%8B%83%E5%8F%91%E5%B1%95%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8%E5%B8%82%E5%9C%BA%E4%B8%AD%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E7%9B%B8%E6%AF%94%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B%E6%9B%B4%E5%85%B7%E4%BC%98%E5%8A%BF%E3%80%82https%3A%2F%2Ft.co%2Fq3W8w3FvAE)
+##### Other Words/Names of Interest in the Above Tweet
+[优势](优势.md), [分析](分析.md), [分析师](分析师.md), [处理](处理.md), [服务器](服务器.md), [涨](涨.md), [竞争](竞争.md), [蓬勃](蓬勃.md), [评级](评级.md)
+___
+##### 2026-08-19 07:06:07 UTC ~ TechNews 科技新報
+> RT @technews_tw: 美債殖利率暴升拖累科技股！英特爾重挫逾 7 %、 AMD 下跌 5.5 %。 #英特爾 #AMD #美股科技股 https://t.co/9EI94njysV
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E7%BE%8E%E5%82%B5%E6%AE%96%E5%88%A9%E7%8E%87%E6%9A%B4%E5%8D%87%E6%8B%96%E7%B4%AF%E7%A7%91%E6%8A%80%E8%82%A1%EF%BC%81%E8%8B%B1%E7%89%B9%E7%88%BE%E9%87%8D%E6%8C%AB%E9%80%BE+7+%25%E3%80%81+AMD+%E4%B8%8B%E8%B7%8C+5.5+%25%E3%80%82+%23%E8%8B%B1%E7%89%B9%E7%88%BE+%23AMD+%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1+https%3A%2F%2Ft.co%2F9EI94njysV)
+##### Other Words/Names of Interest in the Above Tweet
+[利率](利率.md), [拖累](拖累.md), [科技](科技.md), [英特爾](英特爾.md), [跌](跌.md), [逾](逾.md)
+___
+##### 2026-08-19 06:22:01 UTC ~ TechNews 科技新報
+> RT @technews_tw: 機架級 AI 解決方案能源效率大幅提升！ AMD 宣布 2026 年效能達到兩年前基準四倍。 #AMD #AI伺服器 #能效提升 https://t.co/ov2J6NBRjm
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%A9%9F%E6%9E%B6%E7%B4%9A+AI+%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E8%83%BD%E6%BA%90%E6%95%88%E7%8E%87%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%EF%BC%81+AMD+%E5%AE%A3%E5%B8%83+2026+%E5%B9%B4%E6%95%88%E8%83%BD%E9%81%94%E5%88%B0%E5%85%A9%E5%B9%B4%E5%89%8D%E5%9F%BA%E6%BA%96%E5%9B%9B%E5%80%8D%E3%80%82+%23AMD+%23AI%E4%BC%BA%E6%9C%8D%E5%99%A8+%23%E8%83%BD%E6%95%88%E6%8F%90%E5%8D%87+https%3A%2F%2Ft.co%2Fov2J6NBRjm)
+##### Other Words/Names of Interest in the Above Tweet
+[伺服器](伺服器.md), [大幅](大幅.md), [效率](效率.md), [方案](方案.md), [能源](能源.md)
+___
+##### 2026-08-18 03:31:59 UTC ~ TechNews 科技新報
+> RT @technews_tw: DDR5 記憶體效能再創巔峰！#長鑫存儲 CXMT 成功在 AMD 平台上飆出 9,000 MT/s 傳輸新高，搭配 Colorful iGame 硬體展現強悍超頻實力，目前更積極挑戰 CL28 超低延遲。 https://t.co/ZVdNp…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+DDR5+%E8%A8%98%E6%86%B6%E9%AB%94%E6%95%88%E8%83%BD%E5%86%8D%E5%89%B5%E5%B7%94%E5%B3%B0%EF%BC%81%23%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2+CXMT+%E6%88%90%E5%8A%9F%E5%9C%A8+AMD+%E5%B9%B3%E5%8F%B0%E4%B8%8A%E9%A3%86%E5%87%BA+9%2C000+MT%2Fs+%E5%82%B3%E8%BC%B8%E6%96%B0%E9%AB%98%EF%BC%8C%E6%90%AD%E9%85%8D+Colorful+iGame+%E7%A1%AC%E9%AB%94%E5%B1%95%E7%8F%BE%E5%BC%B7%E6%82%8D%E8%B6%85%E9%A0%BB%E5%AF%A6%E5%8A%9B%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%9B%B4%E7%A9%8D%E6%A5%B5%E6%8C%91%E6%88%B0+CL28+%E8%B6%85%E4%BD%8E%E5%BB%B6%E9%81%B2%E3%80%82+https%3A%2F%2Ft.co%2FZVdNp%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[CXMT](CXMT.md), [存儲](存儲.md), [平台](平台.md), [積極](積極.md), [記憶體](記憶體.md), [長鑫](長鑫.md)
+___
+##### 2026-08-14 10:03:11 UTC ~ TechNews 科技新報
+> RT @technews_tw: #AMD 啟動四部分債券發行，預計籌集 40 億至 50 億美元，全力擴大 #AI 與資料中心布局。 https://t.co/0tO3WCY7AF
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23AMD+%E5%95%9F%E5%8B%95%E5%9B%9B%E9%83%A8%E5%88%86%E5%82%B5%E5%88%B8%E7%99%BC%E8%A1%8C%EF%BC%8C%E9%A0%90%E8%A8%88%E7%B1%8C%E9%9B%86+40+%E5%84%84%E8%87%B3+50+%E5%84%84%E7%BE%8E%E5%85%83%EF%BC%8C%E5%85%A8%E5%8A%9B%E6%93%B4%E5%A4%A7+%23AI+%E8%88%87%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E5%B8%83%E5%B1%80%E3%80%82+https%3A%2F%2Ft.co%2F0tO3WCY7AF)
+##### Other Words/Names of Interest in the Above Tweet
+[啟動](啟動.md), [布局](布局.md), [預計](預計.md)
+___
 ##### 2026-08-06 03:15:23 UTC ~ SemiLLM
 > RT @SemiLLM: $SNDK 去年12月建仓，230美元。SNDK将于周三盘后公布财报，周度期权隐含波动率为224点双向波动。因此，可能看到股价上涨至1651或下跌至1203。看到AI双重利好对 $AMD 财报的影响了吧。这种情况，仍可能发生在SNDK身上，尽管他们可能…
 
@@ -252,7 +287,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [发布](发布.md), [苏姿丰](苏姿丰.md), [营收](营收.md), [超微](超微.md), [预计](预计.md)
 ___
-##### 2026-01-14 06:39:41 UTC ~ 日經中文網
+##### 2026-01-14 06:39:41 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美國附條件解禁英偉達等的AI半導體對華出口】對象為英偉達的H200以及具有同等或更低性能的AI半導體，還有AMD的MI325X。似乎設想主要面向在中國開展業務的西方企業，對總部設在中國大陸和澳門的中國企業的出口仍為「原則上禁止」。還要求…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E9%99%84%E6%A2%9D%E4%BB%B6%E8%A7%A3%E7%A6%81%E8%8B%B1%E5%81%89%E9%81%94%E7%AD%89%E7%9A%84AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B0%8D%E8%8F%AF%E5%87%BA%E5%8F%A3%E3%80%91%E5%B0%8D%E8%B1%A1%E7%82%BA%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84H200%E4%BB%A5%E5%8F%8A%E5%85%B7%E6%9C%89%E5%90%8C%E7%AD%89%E6%88%96%E6%9B%B4%E4%BD%8E%E6%80%A7%E8%83%BD%E7%9A%84AI%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E9%82%84%E6%9C%89AMD%E7%9A%84MI325X%E3%80%82%E4%BC%BC%E4%B9%8E%E8%A8%AD%E6%83%B3%E4%B8%BB%E8%A6%81%E9%9D%A2%E5%90%91%E5%9C%A8%E4%B8%AD%E5%9C%8B%E9%96%8B%E5%B1%95%E6%A5%AD%E5%8B%99%E7%9A%84%E8%A5%BF%E6%96%B9%E4%BC%81%E6%A5%AD%EF%BC%8C%E5%B0%8D%E7%B8%BD%E9%83%A8%E8%A8%AD%E5%9C%A8%E4%B8%AD%E5%9C%8B%E5%A4%A7%E9%99%B8%E5%92%8C%E6%BE%B3%E9%96%80%E7%9A%84%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%87%BA%E5%8F%A3%E4%BB%8D%E7%82%BA%E3%80%8C%E5%8E%9F%E5%89%87%E4%B8%8A%E7%A6%81%E6%AD%A2%E3%80%8D%E3%80%82%E9%82%84%E8%A6%81%E6%B1%82%E2%80%A6)
@@ -371,7 +406,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [引发](引发.md), [放宽](放宽.md), [此举](此举.md), [特朗普](特朗普.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [超微](超微.md), [限制](限制.md), [鹰](鹰.md)
 ___
-##### 2025-06-16 04:56:26 UTC ~ 日經中文網
+##### 2025-06-16 04:56:26 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【AMD發佈低價AI晶片，稱性能媲美英偉達】AMD在6月12日發佈新款AI半導體。CEO蘇姿丰表示與競爭對手英偉達相比，能以低成本發揮同等性能。英偉達2024年掌握AI半導體市場超過7成份額。AMD將以廉價産品進行抗衡……https:/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AMD%E7%99%BC%E4%BD%88%E4%BD%8E%E5%83%B9AI%E6%99%B6%E7%89%87%EF%BC%8C%E7%A8%B1%E6%80%A7%E8%83%BD%E5%AA%B2%E7%BE%8E%E8%8B%B1%E5%81%89%E9%81%94%E3%80%91AMD%E5%9C%A86%E6%9C%8812%E6%97%A5%E7%99%BC%E4%BD%88%E6%96%B0%E6%AC%BEAI%E5%8D%8A%E5%B0%8E%E9%AB%94%E3%80%82CEO%E8%98%87%E5%A7%BF%E4%B8%B0%E8%A1%A8%E7%A4%BA%E8%88%87%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E8%8B%B1%E5%81%89%E9%81%94%E7%9B%B8%E6%AF%94%EF%BC%8C%E8%83%BD%E4%BB%A5%E4%BD%8E%E6%88%90%E6%9C%AC%E7%99%BC%E6%8F%AE%E5%90%8C%E7%AD%89%E6%80%A7%E8%83%BD%E3%80%82%E8%8B%B1%E5%81%89%E9%81%942024%E5%B9%B4%E6%8E%8C%E6%8F%A1AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%B8%82%E5%A0%B4%E8%B6%85%E9%81%8E7%E6%88%90%E4%BB%BD%E9%A1%8D%E3%80%82AMD%E5%B0%87%E4%BB%A5%E5%BB%89%E5%83%B9%E7%94%A3%E5%93%81%E9%80%B2%E8%A1%8C%E6%8A%97%E8%A1%A1%E2%80%A6%E2%80%A6https%3A%2F%E2%80%A6)
@@ -516,7 +551,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [主导](主导.md), [交易](交易.md), [冲击](冲击.md), [批准](批准.md), [支持](支持.md), [收购](收购.md), [监管](监管.md), [芯片](芯片.md), [英伟达](英伟达.md), [获得](获得.md), [预计](预计.md), [领域](领域.md)
 ___
-##### 2024-07-19 05:46:50 UTC ~ 日經中文網
+##### 2024-07-19 05:46:50 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【半導體股急煞車，市場警惕美加強對華限制】在7月17日的美國股市上，英偉達的股價下跌7%，AMD的跌幅超過10%。日本Tokyo Electron的總市值2天內蒸發2.6萬億日元。原因是傳出美國拜登政府已要求日本和荷蘭加強半導體製造設備的…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1%E6%80%A5%E7%85%9E%E8%BB%8A%EF%BC%8C%E5%B8%82%E5%A0%B4%E8%AD%A6%E6%83%95%E7%BE%8E%E5%8A%A0%E5%BC%B7%E5%B0%8D%E8%8F%AF%E9%99%90%E5%88%B6%E3%80%91%E5%9C%A87%E6%9C%8817%E6%97%A5%E7%9A%84%E7%BE%8E%E5%9C%8B%E8%82%A1%E5%B8%82%E4%B8%8A%EF%BC%8C%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C7%25%EF%BC%8CAMD%E7%9A%84%E8%B7%8C%E5%B9%85%E8%B6%85%E9%81%8E10%25%E3%80%82%E6%97%A5%E6%9C%ACTokyo+Electron%E7%9A%84%E7%B8%BD%E5%B8%82%E5%80%BC2%E5%A4%A9%E5%85%A7%E8%92%B8%E7%99%BC2.6%E8%90%AC%E5%84%84%E6%97%A5%E5%85%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E5%82%B3%E5%87%BA%E7%BE%8E%E5%9C%8B%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%B7%B2%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E5%92%8C%E8%8D%B7%E8%98%AD%E5%8A%A0%E5%BC%B7%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E7%9A%84%E2%80%A6)
@@ -551,7 +586,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [丰厚](丰厚.md), [主导](主导.md), [人工智能](人工智能.md), [利润](利润.md), [半导体](半导体.md), [处理](处理.md), [尖端](尖端.md), [执行](执行.md), [挑战](挑战.md), [推出](推出.md), [数据](数据.md), [用于](用于.md), [苏姿丰](苏姿丰.md), [英伟达](英伟达.md), [超微](超微.md)
 ___
-##### 2024-06-03 04:25:58 UTC ~ 日經中文網
+##### 2024-06-03 04:25:58 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【美國限制向中東出口半導體，警惕流向中國】據悉針對英偉達和AMD等的半導體，美國商務部正在推遲發放對中東的出口許可……https://t.co/R4p09KXMac
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8E%E5%9C%8B%E9%99%90%E5%88%B6%E5%90%91%E4%B8%AD%E6%9D%B1%E5%87%BA%E5%8F%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E8%AD%A6%E6%83%95%E6%B5%81%E5%90%91%E4%B8%AD%E5%9C%8B%E3%80%91%E6%93%9A%E6%82%89%E9%87%9D%E5%B0%8D%E8%8B%B1%E5%81%89%E9%81%94%E5%92%8CAMD%E7%AD%89%E7%9A%84%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E7%BE%8E%E5%9C%8B%E5%95%86%E5%8B%99%E9%83%A8%E6%AD%A3%E5%9C%A8%E6%8E%A8%E9%81%B2%E7%99%BC%E6%94%BE%E5%B0%8D%E4%B8%AD%E6%9D%B1%E7%9A%84%E5%87%BA%E5%8F%A3%E8%A8%B1%E5%8F%AF%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FR4p09KXMac)
@@ -628,7 +663,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [半导体](半导体.md), [意味](意味.md), [意味着](意味着.md), [推出](推出.md), [禁止](禁止.md), [芯片](芯片.md), [英特尔](英特尔.md), [需求](需求.md)
 ___
-##### 2024-02-26 01:25:04 UTC ~ 日經中文網
+##### 2024-02-26 01:25:04 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【AI半導體，英偉達還能繼續「1強」嗎？】英偉達在AI半導體領域掌握8成份額。但競爭對手也推出對抗産品，英特爾推出了「Core Ultra」「Gaudi3」，AMD推出了「MI300X」，谷歌等也將增加自産半導體。還有2個人的動向備受關注…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AI%E5%8D%8A%E5%B0%8E%E9%AB%94%EF%BC%8C%E8%8B%B1%E5%81%89%E9%81%94%E9%82%84%E8%83%BD%E7%B9%BC%E7%BA%8C%E3%80%8C1%E5%BC%B7%E3%80%8D%E5%97%8E%EF%BC%9F%E3%80%91%E8%8B%B1%E5%81%89%E9%81%94%E5%9C%A8AI%E5%8D%8A%E5%B0%8E%E9%AB%94%E9%A0%98%E5%9F%9F%E6%8E%8C%E6%8F%A18%E6%88%90%E4%BB%BD%E9%A1%8D%E3%80%82%E4%BD%86%E7%AB%B6%E7%88%AD%E5%B0%8D%E6%89%8B%E4%B9%9F%E6%8E%A8%E5%87%BA%E5%B0%8D%E6%8A%97%E7%94%A3%E5%93%81%EF%BC%8C%E8%8B%B1%E7%89%B9%E7%88%BE%E6%8E%A8%E5%87%BA%E4%BA%86%E3%80%8CCore+Ultra%E3%80%8D%E3%80%8CGaudi3%E3%80%8D%EF%BC%8CAMD%E6%8E%A8%E5%87%BA%E4%BA%86%E3%80%8CMI300X%E3%80%8D%EF%BC%8C%E8%B0%B7%E6%AD%8C%E7%AD%89%E4%B9%9F%E5%B0%87%E5%A2%9E%E5%8A%A0%E8%87%AA%E7%94%A3%E5%8D%8A%E5%B0%8E%E9%AB%94%E3%80%82%E9%82%84%E6%9C%892%E5%80%8B%E4%BA%BA%E7%9A%84%E5%8B%95%E5%90%91%E5%82%99%E5%8F%97%E9%97%9C%E6%B3%A8%E2%80%A6)
@@ -677,7 +712,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [包括](包括.md), [印度](印度.md), [建设](建设.md), [投资](投资.md), [设计](设计.md)
 ___
-##### 2023-07-24 08:09:51 UTC ~ 日經中文網
+##### 2023-07-24 08:09:51 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【AMD首席执行官：AI半导体将年均增长50％】AMD的CEO苏姿丰接受日经独家采访，针对AI领域需求激增的GPU，她表示存在巨大机遇，将大量投入经营资源。她还暗示了将代工厂商扩大至台积电以外的其他企业的可能性……https://t.c…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90AMD%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%EF%BC%9AAI%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B0%86%E5%B9%B4%E5%9D%87%E5%A2%9E%E9%95%BF50%EF%BC%85%E3%80%91AMD%E7%9A%84CEO%E8%8B%8F%E5%A7%BF%E4%B8%B0%E6%8E%A5%E5%8F%97%E6%97%A5%E7%BB%8F%E7%8B%AC%E5%AE%B6%E9%87%87%E8%AE%BF%EF%BC%8C%E9%92%88%E5%AF%B9AI%E9%A2%86%E5%9F%9F%E9%9C%80%E6%B1%82%E6%BF%80%E5%A2%9E%E7%9A%84GPU%EF%BC%8C%E5%A5%B9%E8%A1%A8%E7%A4%BA%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%A4%A7%E6%9C%BA%E9%81%87%EF%BC%8C%E5%B0%86%E5%A4%A7%E9%87%8F%E6%8A%95%E5%85%A5%E7%BB%8F%E8%90%A5%E8%B5%84%E6%BA%90%E3%80%82%E5%A5%B9%E8%BF%98%E6%9A%97%E7%A4%BA%E4%BA%86%E5%B0%86%E4%BB%A3%E5%B7%A5%E5%8E%82%E5%95%86%E6%89%A9%E5%A4%A7%E8%87%B3%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%BB%A5%E5%A4%96%E7%9A%84%E5%85%B6%E4%BB%96%E4%BC%81%E4%B8%9A%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E2%80%A6%E2%80%A6https%3A%2F%2Ft.c%E2%80%A6)
@@ -719,7 +754,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [业绩](业绩.md), [惨淡](惨淡.md), [糟糕](糟糕.md), [英特尔](英特尔.md)
 ___
-##### 2023-01-13 05:21:01 UTC ~ 日經中文網
+##### 2023-01-13 05:21:01 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【台积电首季营收或降5%,硅周期谷底在哪】台积电的商业模式是完全的代工模式，有客户的订单才能成立。客户的约7成是美国IT大型企业，主要客户包括苹果、AMD和英伟达等。 但在目前，美国厂商面临经济减速的逆风……  https://t.co…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8F%B0%E7%A7%AF%E7%94%B5%E9%A6%96%E5%AD%A3%E8%90%A5%E6%94%B6%E6%88%96%E9%99%8D5%25%2C%E7%A1%85%E5%91%A8%E6%9C%9F%E8%B0%B7%E5%BA%95%E5%9C%A8%E5%93%AA%E3%80%91%E5%8F%B0%E7%A7%AF%E7%94%B5%E7%9A%84%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E6%98%AF%E5%AE%8C%E5%85%A8%E7%9A%84%E4%BB%A3%E5%B7%A5%E6%A8%A1%E5%BC%8F%EF%BC%8C%E6%9C%89%E5%AE%A2%E6%88%B7%E7%9A%84%E8%AE%A2%E5%8D%95%E6%89%8D%E8%83%BD%E6%88%90%E7%AB%8B%E3%80%82%E5%AE%A2%E6%88%B7%E7%9A%84%E7%BA%A67%E6%88%90%E6%98%AF%E7%BE%8E%E5%9B%BDIT%E5%A4%A7%E5%9E%8B%E4%BC%81%E4%B8%9A%EF%BC%8C%E4%B8%BB%E8%A6%81%E5%AE%A2%E6%88%B7%E5%8C%85%E6%8B%AC%E8%8B%B9%E6%9E%9C%E3%80%81AMD%E5%92%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AD%89%E3%80%82+%E4%BD%86%E5%9C%A8%E7%9B%AE%E5%89%8D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%8E%82%E5%95%86%E9%9D%A2%E4%B8%B4%E7%BB%8F%E6%B5%8E%E5%87%8F%E9%80%9F%E7%9A%84%E9%80%86%E9%A3%8E%E2%80%A6%E2%80%A6++https%3A%2F%2Ft.co%E2%80%A6)
@@ -733,7 +768,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [人工智能](人工智能.md), [包括](包括.md), [广泛](广泛.md), [影响](影响.md), [扩大](扩大.md), [措施](措施.md), [禁止](禁止.md), [科技](科技.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [英特尔](英特尔.md), [计划](计划.md), [限制](限制.md)
 ___
-##### 2022-09-02 06:46:40 UTC ~ 日經中文網
+##### 2022-09-02 06:46:40 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【中国AI市场对美国企业充满吸引力】世界人工智能大会在上海开幕，高通、AMD等欧美高科技企业的经营高管参加了大会。虽然中美在高科技领域的矛盾日益尖锐，但中美企业在收益和技术开发方面都相互需要对方……https://t.co/Dj9CDjS…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BDAI%E5%B8%82%E5%9C%BA%E5%AF%B9%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%85%85%E6%BB%A1%E5%90%B8%E5%BC%95%E5%8A%9B%E3%80%91%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E5%B9%95%EF%BC%8C%E9%AB%98%E9%80%9A%E3%80%81AMD%E7%AD%89%E6%AC%A7%E7%BE%8E%E9%AB%98%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E7%9A%84%E7%BB%8F%E8%90%A5%E9%AB%98%E7%AE%A1%E5%8F%82%E5%8A%A0%E4%BA%86%E5%A4%A7%E4%BC%9A%E3%80%82%E8%99%BD%E7%84%B6%E4%B8%AD%E7%BE%8E%E5%9C%A8%E9%AB%98%E7%A7%91%E6%8A%80%E9%A2%86%E5%9F%9F%E7%9A%84%E7%9F%9B%E7%9B%BE%E6%97%A5%E7%9B%8A%E5%B0%96%E9%94%90%EF%BC%8C%E4%BD%86%E4%B8%AD%E7%BE%8E%E4%BC%81%E4%B8%9A%E5%9C%A8%E6%94%B6%E7%9B%8A%E5%92%8C%E6%8A%80%E6%9C%AF%E5%BC%80%E5%8F%91%E6%96%B9%E9%9D%A2%E9%83%BD%E7%9B%B8%E4%BA%92%E9%9C%80%E8%A6%81%E5%AF%B9%E6%96%B9%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FDj9CDjS%E2%80%A6)
@@ -754,7 +789,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [交易](交易.md), [价格](价格.md), [半导体](半导体.md), [并购](并购.md), [扩大](扩大.md), [披露](披露.md), [收购](收购.md), [策略](策略.md), [芯片](芯片.md), [规模](规模.md), [计划](计划.md), [需求](需求.md)
 ___
-##### 2022-02-03 06:46:43 UTC ~ 日經中文網
+##### 2022-02-03 06:46:43 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【中国加快促进半导体海内外合作】中国将设立的是“半导体跨境产业服务工作委员会”。预计在2022年上半年之前设置。该委员会的职能是强化中国与外国半导体产业的合作。作为呼吁参加的海外企业，有英特尔、AMD、英飞凌，还包括ASML等……htt…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BF%AB%E4%BF%83%E8%BF%9B%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%B5%B7%E5%86%85%E5%A4%96%E5%90%88%E4%BD%9C%E3%80%91%E4%B8%AD%E5%9B%BD%E5%B0%86%E8%AE%BE%E7%AB%8B%E7%9A%84%E6%98%AF%E2%80%9C%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B7%A8%E5%A2%83%E4%BA%A7%E4%B8%9A%E6%9C%8D%E5%8A%A1%E5%B7%A5%E4%BD%9C%E5%A7%94%E5%91%98%E4%BC%9A%E2%80%9D%E3%80%82%E9%A2%84%E8%AE%A1%E5%9C%A82022%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B9%8B%E5%89%8D%E8%AE%BE%E7%BD%AE%E3%80%82%E8%AF%A5%E5%A7%94%E5%91%98%E4%BC%9A%E7%9A%84%E8%81%8C%E8%83%BD%E6%98%AF%E5%BC%BA%E5%8C%96%E4%B8%AD%E5%9B%BD%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%A7%E4%B8%9A%E7%9A%84%E5%90%88%E4%BD%9C%E3%80%82%E4%BD%9C%E4%B8%BA%E5%91%BC%E5%90%81%E5%8F%82%E5%8A%A0%E7%9A%84%E6%B5%B7%E5%A4%96%E4%BC%81%E4%B8%9A%EF%BC%8C%E6%9C%89%E8%8B%B1%E7%89%B9%E5%B0%94%E3%80%81AMD%E3%80%81%E8%8B%B1%E9%A3%9E%E5%87%8C%EF%BC%8C%E8%BF%98%E5%8C%85%E6%8B%ACASML%E7%AD%89%E2%80%A6%E2%80%A6htt%E2%80%A6)

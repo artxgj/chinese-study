@@ -7,6 +7,55 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Qwen) for definition
 ### Tweets containing Qwen
 
 ___
+##### 2026-08-31 09:36:09 UTC ~ karminski-牙医
+> RT @karminski3: 终于搞完了! 给大家带来小模型竞技场, 这次测试了8款模型, 包括:Qwen3.8-27BQwen3.6-27BQwen3.6-35B-A3BOrnith-1.5-35B-A3BGemma-4-31BGemma-4-26B-A4B…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E7%BB%88%E4%BA%8E%E6%90%9E%E5%AE%8C%E4%BA%86%21+%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%B8%A6%E6%9D%A5%E5%B0%8F%E6%A8%A1%E5%9E%8B%E7%AB%9E%E6%8A%80%E5%9C%BA%2C+%E8%BF%99%E6%AC%A1%E6%B5%8B%E8%AF%95%E4%BA%868%E6%AC%BE%E6%A8%A1%E5%9E%8B%2C+%E5%8C%85%E6%8B%AC%3AQwen3.8-27BQwen3.6-27BQwen3.6-35B-A3BOrnith-1.5-35B-A3BGemma-4-31BGemma-4-26B-A4B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemma](Gemma.md), [包括](包括.md), [模型](模型.md)
+___
+##### 2026-08-31 09:27:19 UTC ~ karminski-牙医
+> RT @karminski3: 小模型 Agent 能力测试的天梯在这里~ (希望图不要被压得太狠....)目前来看最值得使用是我测试的 Qwen3.8-27B-UD-Q4_K_XL 版本,  Agent 用使用 reasoning_effort = low, 然后写代码开…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E5%B0%8F%E6%A8%A1%E5%9E%8B+Agent+%E8%83%BD%E5%8A%9B%E6%B5%8B%E8%AF%95%E7%9A%84%E5%A4%A9%E6%A2%AF%E5%9C%A8%E8%BF%99%E9%87%8C~+%28%E5%B8%8C%E6%9C%9B%E5%9B%BE%E4%B8%8D%E8%A6%81%E8%A2%AB%E5%8E%8B%E5%BE%97%E5%A4%AA%E7%8B%A0....%29%E7%9B%AE%E5%89%8D%E6%9D%A5%E7%9C%8B%E6%9C%80%E5%80%BC%E5%BE%97%E4%BD%BF%E7%94%A8%E6%98%AF%E6%88%91%E6%B5%8B%E8%AF%95%E7%9A%84+Qwen3.8-27B-UD-Q4_K_XL+%E7%89%88%E6%9C%AC%2C++Agent+%E7%94%A8%E4%BD%BF%E7%94%A8+reasoning_effort+%3D+low%2C+%E7%84%B6%E5%90%8E%E5%86%99%E4%BB%A3%E7%A0%81%E5%BC%80%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [模型](模型.md)
+___
+##### 2026-08-20 09:37:32 UTC ~ Lonely
+> RT @Lonely__MH: 🎉昨天 @zhijianliu_  团队刚发布了 Qwen 3.8-27B  DFlash2 草稿模型！如果搭配使用，Mac 本地 token 吞吐应该能翻到 2~4倍我的 16G 丐版跑不起来，有32G 的推友可以试下评论区告诉下结…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Lonely__MH%3A+%F0%9F%8E%89%E6%98%A8%E5%A4%A9+%40zhijianliu_++%E5%9B%A2%E9%98%9F%E5%88%9A%E5%8F%91%E5%B8%83%E4%BA%86+Qwen+3.8-27B++DFlash2+%E8%8D%89%E7%A8%BF%E6%A8%A1%E5%9E%8B%EF%BC%81%E5%A6%82%E6%9E%9C%E6%90%AD%E9%85%8D%E4%BD%BF%E7%94%A8%EF%BC%8CMac+%E6%9C%AC%E5%9C%B0+token+%E5%90%9E%E5%90%90%E5%BA%94%E8%AF%A5%E8%83%BD%E7%BF%BB%E5%88%B0+2~4%E5%80%8D%E6%88%91%E7%9A%84+16G+%E4%B8%90%E7%89%88%E8%B7%91%E4%B8%8D%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%9C%8932G+%E7%9A%84%E6%8E%A8%E5%8F%8B%E5%8F%AF%E4%BB%A5%E8%AF%95%E4%B8%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%91%8A%E8%AF%89%E4%B8%8B%E7%BB%93%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [发布](发布.md), [模型](模型.md)
+___
+##### 2026-08-20 09:34:23 UTC ~ AYi
+> RT @AYi_AInotes: Damn，27B模型在MacBook上跑到70 tok/s，比Fable和Sol还快，还完全不降质，感觉本地AI的可用性拐点，可能就是今天了🤔DFlash 2让Qwen3.8-27B在一台M5 Max MacBook Pro上跑到了70…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40AYi_AInotes%3A+Damn%EF%BC%8C27B%E6%A8%A1%E5%9E%8B%E5%9C%A8MacBook%E4%B8%8A%E8%B7%91%E5%88%B070+tok%2Fs%EF%BC%8C%E6%AF%94Fable%E5%92%8CSol%E8%BF%98%E5%BF%AB%EF%BC%8C%E8%BF%98%E5%AE%8C%E5%85%A8%E4%B8%8D%E9%99%8D%E8%B4%A8%EF%BC%8C%E6%84%9F%E8%A7%89%E6%9C%AC%E5%9C%B0AI%E7%9A%84%E5%8F%AF%E7%94%A8%E6%80%A7%E6%8B%90%E7%82%B9%EF%BC%8C%E5%8F%AF%E8%83%BD%E5%B0%B1%E6%98%AF%E4%BB%8A%E5%A4%A9%E4%BA%86%F0%9F%A4%94DFlash+2%E8%AE%A9Qwen3.8-27B%E5%9C%A8%E4%B8%80%E5%8F%B0M5+Max+MacBook+Pro%E4%B8%8A%E8%B7%91%E5%88%B0%E4%BA%8670%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [拐点](拐点.md), [模型](模型.md)
+___
+##### 2026-08-20 09:29:32 UTC ~ Lonely
+> RT @Lonely__MH: 🎉好消息！ 8G 内存 Mac 也能部署 Qwen 3.8-27B 了！@UnslothAI   刚刚整了个大活，发布了基于 Qwen3.8-27B 的 Dynamic 3.0 超级量化版本！以往 27B 这种体量的多模态大模型，至少需要…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Lonely__MH%3A+%F0%9F%8E%89%E5%A5%BD%E6%B6%88%E6%81%AF%EF%BC%81+8G+%E5%86%85%E5%AD%98+Mac+%E4%B9%9F%E8%83%BD%E9%83%A8%E7%BD%B2+Qwen+3.8-27B+%E4%BA%86%EF%BC%81%40UnslothAI+++%E5%88%9A%E5%88%9A%E6%95%B4%E4%BA%86%E4%B8%AA%E5%A4%A7%E6%B4%BB%EF%BC%8C%E5%8F%91%E5%B8%83%E4%BA%86%E5%9F%BA%E4%BA%8E+Qwen3.8-27B+%E7%9A%84+Dynamic+3.0+%E8%B6%85%E7%BA%A7%E9%87%8F%E5%8C%96%E7%89%88%E6%9C%AC%EF%BC%81%E4%BB%A5%E5%BE%80+27B+%E8%BF%99%E7%A7%8D%E4%BD%93%E9%87%8F%E7%9A%84%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E8%87%B3%E5%B0%91%E9%9C%80%E8%A6%81%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [发布](发布.md), [模型](模型.md), [至少](至少.md), [量化](量化.md)
+___
+##### 2026-08-20 02:03:26 UTC ~ karminski-牙医
+> RT @karminski3: 放个预告，正在给大家准备大横评，包含：Qwen3.6-27BQwen3.6-35b-A3BGemma4-31BGemma4-26B-A4BGemma4-12BGPT-OSS-20BQwen3.8-27B.每个模型会测试3bit,…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40karminski3%3A+%E6%94%BE%E4%B8%AA%E9%A2%84%E5%91%8A%EF%BC%8C%E6%AD%A3%E5%9C%A8%E7%BB%99%E5%A4%A7%E5%AE%B6%E5%87%86%E5%A4%87%E5%A4%A7%E6%A8%AA%E8%AF%84%EF%BC%8C%E5%8C%85%E5%90%AB%EF%BC%9AQwen3.6-27BQwen3.6-35b-A3BGemma4-31BGemma4-26B-A4BGemma4-12BGPT-OSS-20BQwen3.8-27B.%E6%AF%8F%E4%B8%AA%E6%A8%A1%E5%9E%8B%E4%BC%9A%E6%B5%8B%E8%AF%953bit%2C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Gemma](Gemma.md), [模型](模型.md)
+___
+##### 2026-08-17 07:16:11 UTC ~ TechNews 科技新報
+> RT @technews_tw: 阿里巴巴旗下 Qwen 模型家族 6 個月累積下載衝破 30 億次，大幅超越 Google 的 4.18 億次與 Meta 的 2.27 億次。 https://t.co/dzpGIML3iM
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8B+Qwen+%E6%A8%A1%E5%9E%8B%E5%AE%B6%E6%97%8F+6+%E5%80%8B%E6%9C%88%E7%B4%AF%E7%A9%8D%E4%B8%8B%E8%BC%89%E8%A1%9D%E7%A0%B4+30+%E5%84%84%E6%AC%A1%EF%BC%8C%E5%A4%A7%E5%B9%85%E8%B6%85%E8%B6%8A+Google+%E7%9A%84+4.18+%E5%84%84%E6%AC%A1%E8%88%87+Meta+%E7%9A%84+2.27+%E5%84%84%E6%AC%A1%E3%80%82+https%3A%2F%2Ft.co%2FdzpGIML3iM)
+##### Other Words/Names of Interest in the Above Tweet
+[大幅](大幅.md), [模型](模型.md), [阿里巴巴](阿里巴巴.md)
+___
 ##### 2026-08-09 08:09:13 UTC ~ Max For AI
 > RT @MaxForAI: 🔥突发：千问AI功能上线苹果国行版Mac8月8日， $AAPL 官网显示，国行版本的Mac电脑的Apple智能目前已可以接入阿里巴巴Qwen模型进行工作。此前据上海证券报7月15日报道， @Alibaba_Qwen 将作为AI能力集成至App…
 
@@ -54,7 +103,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [字节跳动](字节跳动.md), [情况](情况.md), [技术](技术.md), [离职](离职.md)
 ___
-##### 2026-03-04 04:51:04 UTC ~ Bruce🐼
+##### 2026-03-04 04:51:04 UTC ~ 
 > RT @paulwalker99318: 晚点LatePost的独家报道：---同一天，Qwen 的后训练负责人郁博文也正式离职，他的工作将由今年初加入阿里通义实验室的前 DeepMind 高级资深研究员周浩接任。周浩向阿里云 CTO、通义实验室负责人周靖人汇报。我们还…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40paulwalker99318%3A+%E6%99%9A%E7%82%B9LatePost%E7%9A%84%E7%8B%AC%E5%AE%B6%E6%8A%A5%E9%81%93%EF%BC%9A---%E5%90%8C%E4%B8%80%E5%A4%A9%EF%BC%8CQwen+%E7%9A%84%E5%90%8E%E8%AE%AD%E7%BB%83%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%83%81%E5%8D%9A%E6%96%87%E4%B9%9F%E6%AD%A3%E5%BC%8F%E7%A6%BB%E8%81%8C%EF%BC%8C%E4%BB%96%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%B0%86%E7%94%B1%E4%BB%8A%E5%B9%B4%E5%88%9D%E5%8A%A0%E5%85%A5%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%9A%84%E5%89%8D+DeepMind+%E9%AB%98%E7%BA%A7%E8%B5%84%E6%B7%B1%E7%A0%94%E7%A9%B6%E5%91%98%E5%91%A8%E6%B5%A9%E6%8E%A5%E4%BB%BB%E3%80%82%E5%91%A8%E6%B5%A9%E5%90%91%E9%98%BF%E9%87%8C%E4%BA%91+CTO%E3%80%81%E9%80%9A%E4%B9%89%E5%AE%9E%E9%AA%8C%E5%AE%A4%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%91%A8%E9%9D%96%E4%BA%BA%E6%B1%87%E6%8A%A5%E3%80%82%E6%88%91%E4%BB%AC%E8%BF%98%E2%80%A6)
@@ -103,14 +152,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [千问](千问.md), [阿里巴巴](阿里巴巴.md), [除夕](除夕.md)
 ___
-##### 2026-01-26 01:27:34 UTC ~ 日經中文網
+##### 2026-01-26 01:27:34 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【DeepSeek衝擊一年，中國大語言模型超1500】DeepSeek在2025年1月給市場帶來衝擊。自那一年之後，中國的AI不斷增加。在美國企業的全球大語言模型排名中，Qwen（千問）、Kimi、MiniMax等中國AI上榜。美國的高科…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90DeepSeek%E8%A1%9D%E6%93%8A%E4%B8%80%E5%B9%B4%EF%BC%8C%E4%B8%AD%E5%9C%8B%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E8%B6%851500%E3%80%91DeepSeek%E5%9C%A82025%E5%B9%B41%E6%9C%88%E7%B5%A6%E5%B8%82%E5%A0%B4%E5%B8%B6%E4%BE%86%E8%A1%9D%E6%93%8A%E3%80%82%E8%87%AA%E9%82%A3%E4%B8%80%E5%B9%B4%E4%B9%8B%E5%BE%8C%EF%BC%8C%E4%B8%AD%E5%9C%8B%E7%9A%84AI%E4%B8%8D%E6%96%B7%E5%A2%9E%E5%8A%A0%E3%80%82%E5%9C%A8%E7%BE%8E%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%9A%84%E5%85%A8%E7%90%83%E5%A4%A7%E8%AA%9E%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8E%92%E5%90%8D%E4%B8%AD%EF%BC%8CQwen%EF%BC%88%E5%8D%83%E5%95%8F%EF%BC%89%E3%80%81Kimi%E3%80%81MiniMax%E7%AD%89%E4%B8%AD%E5%9C%8BAI%E4%B8%8A%E6%A6%9C%E3%80%82%E7%BE%8E%E5%9C%8B%E7%9A%84%E9%AB%98%E7%A7%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [Kimi](Kimi.md), [千問](千問.md), [模型](模型.md), [美國](美國.md), [衝擊](衝擊.md)
 ___
-##### 2026-01-19 01:51:05 UTC ~ 日經中文網
+##### 2026-01-19 01:51:05 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【阿里巴巴AI「千問」接入網購業務】只需對Qwen説「點兩杯拿鐵」，Qwen便會通過淘寶閃購選擇用戶所在地附近的咖啡店完成下單……https://t.co/JaeoEM7P6g
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4AI%E3%80%8C%E5%8D%83%E5%95%8F%E3%80%8D%E6%8E%A5%E5%85%A5%E7%B6%B2%E8%B3%BC%E6%A5%AD%E5%8B%99%E3%80%91%E5%8F%AA%E9%9C%80%E5%B0%8DQwen%E8%AA%AC%E3%80%8C%E9%BB%9E%E5%85%A9%E6%9D%AF%E6%8B%BF%E9%90%B5%E3%80%8D%EF%BC%8CQwen%E4%BE%BF%E6%9C%83%E9%80%9A%E9%81%8E%E6%B7%98%E5%AF%B6%E9%96%83%E8%B3%BC%E9%81%B8%E6%93%87%E7%94%A8%E6%88%B6%E6%89%80%E5%9C%A8%E5%9C%B0%E9%99%84%E8%BF%91%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97%E5%AE%8C%E6%88%90%E4%B8%8B%E5%96%AE%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FJaeoEM7P6g)
@@ -159,7 +208,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [数据](数据.md), [模型](模型.md), [苹果](苹果.md), [量化](量化.md)
 ___
-##### 2025-05-07 03:58:23 UTC ~ 日經中文網
+##### 2025-05-07 03:58:23 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【阿里「通義千問」成為日本AI開發基礎】在日經4月公開的「AI模型評分」榜中，阿里雲的「通義千問（Qwen）」模型超過了中國DeepSeek的模型，在113個模型中位居第6。作為開源模型，通義千問正在得到很多日本新興企業的使用。在評分榜位…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%98%BF%E9%87%8C%E3%80%8C%E9%80%9A%E7%BE%A9%E5%8D%83%E5%95%8F%E3%80%8D%E6%88%90%E7%82%BA%E6%97%A5%E6%9C%ACAI%E9%96%8B%E7%99%BC%E5%9F%BA%E7%A4%8E%E3%80%91%E5%9C%A8%E6%97%A5%E7%B6%934%E6%9C%88%E5%85%AC%E9%96%8B%E7%9A%84%E3%80%8CAI%E6%A8%A1%E5%9E%8B%E8%A9%95%E5%88%86%E3%80%8D%E6%A6%9C%E4%B8%AD%EF%BC%8C%E9%98%BF%E9%87%8C%E9%9B%B2%E7%9A%84%E3%80%8C%E9%80%9A%E7%BE%A9%E5%8D%83%E5%95%8F%EF%BC%88Qwen%EF%BC%89%E3%80%8D%E6%A8%A1%E5%9E%8B%E8%B6%85%E9%81%8E%E4%BA%86%E4%B8%AD%E5%9C%8BDeepSeek%E7%9A%84%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%9C%A8113%E5%80%8B%E6%A8%A1%E5%9E%8B%E4%B8%AD%E4%BD%8D%E5%B1%85%E7%AC%AC6%E3%80%82%E4%BD%9C%E7%82%BA%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%80%9A%E7%BE%A9%E5%8D%83%E5%95%8F%E6%AD%A3%E5%9C%A8%E5%BE%97%E5%88%B0%E5%BE%88%E5%A4%9A%E6%97%A5%E6%9C%AC%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%82%E5%9C%A8%E8%A9%95%E5%88%86%E6%A6%9C%E4%BD%8D%E2%80%A6)

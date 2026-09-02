@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GLM) for definition
 ### Tweets containing GLM
 
 ___
+##### 2026-09-01 01:45:33 UTC ~ 宝玉
+> RT @dotey: GLM 6 这么牛的吗？都能自训练了---智谱创始人唐杰：GLM-6.0定位全自训练技术路线8月31日晚间，智谱召开2026年半年度业绩发布会。智谱创始人唐杰在会上解读了智谱下一代GLM-6.0大模型的技术定位与研发方向。他将GLM-6…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dotey%3A+GLM+6+%E8%BF%99%E4%B9%88%E7%89%9B%E7%9A%84%E5%90%97%EF%BC%9F%E9%83%BD%E8%83%BD%E8%87%AA%E8%AE%AD%E7%BB%83%E4%BA%86---%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%94%90%E6%9D%B0%EF%BC%9AGLM-6.0%E5%AE%9A%E4%BD%8D%E5%85%A8%E8%87%AA%E8%AE%AD%E7%BB%83%E6%8A%80%E6%9C%AF%E8%B7%AF%E7%BA%BF8%E6%9C%8831%E6%97%A5%E6%99%9A%E9%97%B4%EF%BC%8C%E6%99%BA%E8%B0%B1%E5%8F%AC%E5%BC%802026%E5%B9%B4%E5%8D%8A%E5%B9%B4%E5%BA%A6%E4%B8%9A%E7%BB%A9%E5%8F%91%E5%B8%83%E4%BC%9A%E3%80%82%E6%99%BA%E8%B0%B1%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%94%90%E6%9D%B0%E5%9C%A8%E4%BC%9A%E4%B8%8A%E8%A7%A3%E8%AF%BB%E4%BA%86%E6%99%BA%E8%B0%B1%E4%B8%8B%E4%B8%80%E4%BB%A3GLM-6.0%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9A%E4%BD%8D%E4%B8%8E%E7%A0%94%E5%8F%91%E6%96%B9%E5%90%91%E3%80%82%E4%BB%96%E5%B0%86GLM-6%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[业绩](业绩.md), [发布](发布.md), [技术](技术.md), [智谱](智谱.md), [模型](模型.md), [研发](研发.md)
+___
 ##### 2026-07-31 11:04:06 UTC ~ Orange AI
 > RT @oran_ge: DeepSeek V4 Flash 模型智能超过 GLM 5.2 ，接近 GPT 5.6 Luna现已上架 Cola 的 Token Plan 和积分模型。欢迎大家来免费体验！https://t.co/DuylNtMLOE
 
@@ -49,7 +56,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [价格](价格.md), [模型](模型.md), [涨](涨.md)
 ___
-##### 2026-07-24 02:40:16 UTC ~ 日經中文網
+##### 2026-07-24 02:40:16 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【OpenAI失控越獄，靠中國AI救場】「衷心感謝智譜」，Hugging Face的CEO在社交媒體上向北京智譜表達了感謝。原因是Hugging Face受到網路攻擊後，智譜的AI模型「GLM」發揮了作用…… https://t.co/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90OpenAI%E5%A4%B1%E6%8E%A7%E8%B6%8A%E7%8D%84%EF%BC%8C%E9%9D%A0%E4%B8%AD%E5%9C%8BAI%E6%95%91%E5%A0%B4%E3%80%91%E3%80%8C%E8%A1%B7%E5%BF%83%E6%84%9F%E8%AC%9D%E6%99%BA%E8%AD%9C%E3%80%8D%EF%BC%8CHugging+Face%E7%9A%84CEO%E5%9C%A8%E7%A4%BE%E4%BA%A4%E5%AA%92%E9%AB%94%E4%B8%8A%E5%90%91%E5%8C%97%E4%BA%AC%E6%99%BA%E8%AD%9C%E8%A1%A8%E9%81%94%E4%BA%86%E6%84%9F%E8%AC%9D%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AFHugging+Face%E5%8F%97%E5%88%B0%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A%E5%BE%8C%EF%BC%8C%E6%99%BA%E8%AD%9C%E7%9A%84AI%E6%A8%A1%E5%9E%8B%E3%80%8CGLM%E3%80%8D%E7%99%BC%E6%8F%AE%E4%BA%86%E4%BD%9C%E7%94%A8%E2%80%A6%E2%80%A6+https%3A%2F%2Ft.co%2F%E2%80%A6)

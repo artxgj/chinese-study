@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2026-08-13 08:57:29 UTC ~ 娜美知识库
+> RT @fhwofjow51260: iPhone 改定位居然可以这么简单：不用越狱、不用 Mac，导入一个模块就能搞定。这个开源项目 iOS Location Spoofer，利用代理软件的 HTTPS 解密能力，修改 Apple 返回给 iPhone 的 WiFi 和基…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fhwofjow51260%3A+iPhone+%E6%94%B9%E5%AE%9A%E4%BD%8D%E5%B1%85%E7%84%B6%E5%8F%AF%E4%BB%A5%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%EF%BC%9A%E4%B8%8D%E7%94%A8%E8%B6%8A%E7%8B%B1%E3%80%81%E4%B8%8D%E7%94%A8+Mac%EF%BC%8C%E5%AF%BC%E5%85%A5%E4%B8%80%E4%B8%AA%E6%A8%A1%E5%9D%97%E5%B0%B1%E8%83%BD%E6%90%9E%E5%AE%9A%E3%80%82%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE+iOS+Location+Spoofer%EF%BC%8C%E5%88%A9%E7%94%A8%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6%E7%9A%84+HTTPS+%E8%A7%A3%E5%AF%86%E8%83%BD%E5%8A%9B%EF%BC%8C%E4%BF%AE%E6%94%B9+Apple+%E8%BF%94%E5%9B%9E%E7%BB%99+iPhone+%E7%9A%84+WiFi+%E5%92%8C%E5%9F%BA%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Apple](Apple.md), [Mac](Mac.md), [iPhone](iPhone.md), [开源](开源.md), [项目](项目.md)
+___
 ##### 2026-07-30 03:29:53 UTC ~ 码良
 > RT @cxjwin: 最近筛了几百份 iOS 开发的简历，发现一个通病不是能力不够，是每段经历都写”负责……”，却不写”做成了什么”我们招 iOS，最后看的是这几件事：带过多少人扛过多大的模块，上线的功能装机量涨了多少，性能优化把卡顿率压到了什么水平，出过什么线上故障…
 
@@ -343,7 +350,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [iPhone](iPhone.md), [升级](升级.md), [发布](发布.md), [情况](情况.md), [支持](支持.md), [电池](电池.md), [考虑](考虑.md), [苹果](苹果.md), [除了](除了.md)
 ___
-##### 2023-08-31 05:53:12 UTC ~ 日經中文網
+##### 2023-08-31 05:53:12 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【全球2023年手机出货量将创10年来最低】2023年全球智能手机出货量预计比2022年减少4.7％，降至11亿5000万部。专家称“换机周期的长期化导致增长率降低”。不过，按OS观察份额，搭载“iOS”的iPhone的份额将达到19.9…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%85%A8%E7%90%832023%E5%B9%B4%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E5%B0%86%E5%88%9B10%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%BD%8E%E3%80%912023%E5%B9%B4%E5%85%A8%E7%90%83%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%87%BA%E8%B4%A7%E9%87%8F%E9%A2%84%E8%AE%A1%E6%AF%942022%E5%B9%B4%E5%87%8F%E5%B0%914.7%EF%BC%85%EF%BC%8C%E9%99%8D%E8%87%B311%E4%BA%BF5000%E4%B8%87%E9%83%A8%E3%80%82%E4%B8%93%E5%AE%B6%E7%A7%B0%E2%80%9C%E6%8D%A2%E6%9C%BA%E5%91%A8%E6%9C%9F%E7%9A%84%E9%95%BF%E6%9C%9F%E5%8C%96%E5%AF%BC%E8%87%B4%E5%A2%9E%E9%95%BF%E7%8E%87%E9%99%8D%E4%BD%8E%E2%80%9D%E3%80%82%E4%B8%8D%E8%BF%87%EF%BC%8C%E6%8C%89OS%E8%A7%82%E5%AF%9F%E4%BB%BD%E9%A2%9D%EF%BC%8C%E6%90%AD%E8%BD%BD%E2%80%9CiOS%E2%80%9D%E7%9A%84iPhone%E7%9A%84%E4%BB%BD%E9%A2%9D%E5%B0%86%E8%BE%BE%E5%88%B019.9%E2%80%A6)
@@ -357,7 +364,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [担忧](担忧.md), [提出](提出.md), [提高](提高.md), [检测](检测.md), [苹果](苹果.md), [行业](行业.md), [谷歌](谷歌.md), [风险](风险.md)
 ___
-##### 2022-07-07 10:12:07 UTC ~ 日經中文網
+##### 2022-07-07 10:12:07 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【iPhone将增加可防御网络攻击的新功能】苹果iOS 16将配备Lockdown模式。启用后，iMessage中除图像外的大部分附件会被阻挡……https://t.co/H8sRPueMgT
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90iPhone%E5%B0%86%E5%A2%9E%E5%8A%A0%E5%8F%AF%E9%98%B2%E5%BE%A1%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E7%9A%84%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%91%E8%8B%B9%E6%9E%9CiOS+16%E5%B0%86%E9%85%8D%E5%A4%87Lockdown%E6%A8%A1%E5%BC%8F%E3%80%82%E5%90%AF%E7%94%A8%E5%90%8E%EF%BC%8CiMessage%E4%B8%AD%E9%99%A4%E5%9B%BE%E5%83%8F%E5%A4%96%E7%9A%84%E5%A4%A7%E9%83%A8%E5%88%86%E9%99%84%E4%BB%B6%E4%BC%9A%E8%A2%AB%E9%98%BB%E6%8C%A1%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FH8sRPueMgT)
@@ -385,7 +392,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [代价](代价.md), [苹果](苹果.md), [隐私](隐私.md)
 ___
-##### 2022-01-04 02:26:24 UTC ~ 日經中文網
+##### 2022-01-04 02:26:24 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【丰田将对外销售自主车载操作系统】丰田正在开发车载操作系统“Arene”，可以说是Windows及iOS等的汽车版。Arene能够统一管理汽车加速和安全控制功能等，最早2025年实现实用化。丰田力争实现“平台”效应，掌握操作系统的行业标准…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E4%B8%B0%E7%94%B0%E5%B0%86%E5%AF%B9%E5%A4%96%E9%94%80%E5%94%AE%E8%87%AA%E4%B8%BB%E8%BD%A6%E8%BD%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E3%80%91%E4%B8%B0%E7%94%B0%E6%AD%A3%E5%9C%A8%E5%BC%80%E5%8F%91%E8%BD%A6%E8%BD%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E2%80%9CArene%E2%80%9D%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AFWindows%E5%8F%8AiOS%E7%AD%89%E7%9A%84%E6%B1%BD%E8%BD%A6%E7%89%88%E3%80%82Arene%E8%83%BD%E5%A4%9F%E7%BB%9F%E4%B8%80%E7%AE%A1%E7%90%86%E6%B1%BD%E8%BD%A6%E5%8A%A0%E9%80%9F%E5%92%8C%E5%AE%89%E5%85%A8%E6%8E%A7%E5%88%B6%E5%8A%9F%E8%83%BD%E7%AD%89%EF%BC%8C%E6%9C%80%E6%97%A92025%E5%B9%B4%E5%AE%9E%E7%8E%B0%E5%AE%9E%E7%94%A8%E5%8C%96%E3%80%82%E4%B8%B0%E7%94%B0%E5%8A%9B%E4%BA%89%E5%AE%9E%E7%8E%B0%E2%80%9C%E5%B9%B3%E5%8F%B0%E2%80%9D%E6%95%88%E5%BA%94%EF%BC%8C%E6%8E%8C%E6%8F%A1%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%9A%84%E8%A1%8C%E4%B8%9A%E6%A0%87%E5%87%86%E2%80%A6)

@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Manus) for definition
 ### Tweets containing Manus
 
 ___
+##### 2026-08-12 08:51:13 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 成立于中国的人工智能（AI）初创公司Manus称，即将恢复独立运营。此前，中国官方叫停美国科技巨头Meta对Manus的收购，目前双方正着手撤销这笔交易，恢复独立运营是这一进程的最新进展。 https://t.co/YglxdRPB5i
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%88%90%E7%AB%8B%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%88AI%EF%BC%89%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8Manus%E7%A7%B0%EF%BC%8C%E5%8D%B3%E5%B0%86%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%AE%98%E6%96%B9%E5%8F%AB%E5%81%9C%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4Meta%E5%AF%B9Manus%E7%9A%84%E6%94%B6%E8%B4%AD%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%8F%8C%E6%96%B9%E6%AD%A3%E7%9D%80%E6%89%8B%E6%92%A4%E9%94%80%E8%BF%99%E7%AC%94%E4%BA%A4%E6%98%93%EF%BC%8C%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5%E6%98%AF%E8%BF%99%E4%B8%80%E8%BF%9B%E7%A8%8B%E7%9A%84%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%E3%80%82+https%3A%2F%2Ft.co%2FYglxdRPB5i)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [人工智能](人工智能.md), [巨头](巨头.md), [恢复](恢复.md), [收购](收购.md), [科技](科技.md), [美国](美国.md), [进程](进程.md)
+___
+##### 2026-08-12 08:50:31 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Manus表示，该公司很快将恢复独立运营。Manus周二在其官网发布通知称，部分用户数据将被删除，是Manus与Meta分拆的一部分。https://t.co/o9Dx1HBUJh
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Manus%E8%A1%A8%E7%A4%BA%EF%BC%8C%E8%AF%A5%E5%85%AC%E5%8F%B8%E5%BE%88%E5%BF%AB%E5%B0%86%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5%E3%80%82Manus%E5%91%A8%E4%BA%8C%E5%9C%A8%E5%85%B6%E5%AE%98%E7%BD%91%E5%8F%91%E5%B8%83%E9%80%9A%E7%9F%A5%E7%A7%B0%EF%BC%8C%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E6%95%B0%E6%8D%AE%E5%B0%86%E8%A2%AB%E5%88%A0%E9%99%A4%EF%BC%8C%E6%98%AFManus%E4%B8%8EMeta%E5%88%86%E6%8B%86%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86%E3%80%82https%3A%2F%2Ft.co%2Fo9Dx1HBUJh)
+##### Other Words/Names of Interest in the Above Tweet
+[分拆](分拆.md), [发布](发布.md), [恢复](恢复.md), [数据](数据.md)
+___
 ##### 2026-04-27 14:13:31 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: #更新 中国已下令撤销Meta Platforms以25亿美元收购Manus的交易。在中美两国陷入日益激烈的技术竞赛之际，对Manus出售交易的调查反映出中国政府为保护本国AI专有技术所作的更广泛努力。https://t.co/sJmMF0BnyK
 
