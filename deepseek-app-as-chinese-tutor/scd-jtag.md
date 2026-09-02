@@ -1,7 +1,7 @@
 ## 1. Prompt Repetition & Chinese Essence
 
 **Original Prompt (English):**  
-> You are Electrical engineer who writes software. Explain JTAG to a pure software developer. What can JTAG do? Is JTAG tied to USB-C? Separately, explain what Tamarin-C is and does. Make sure to describe acronyms if they appear in the response.
+> You are an Electrical engineer who writes software. Explain JTAG to a pure software developer. What can JTAG do? Is JTAG tied to USB-C? Separately, explain what Tamarin-C is and does. Make sure to describe acronyms if they appear in the response.
 
 **Chinese Essence (简明口语化):**  
 > 你是一位会写软件的电气工程师，现在要跟一个纯软件开发者解释 JTAG 是什么、能干什么，以及 JTAG 和 USB-C 有没有绑定关系。另外还要单独解释 Tamarin-C 是什么、做什么用的。所有缩写第一次出现时都要写出全称。
