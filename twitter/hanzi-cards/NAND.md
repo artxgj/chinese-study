@@ -26,7 +26,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E9%95%B7%E6%B1%9F%E5%AD%98%E5%84%B2NAND%E8%A8%98%E6%86%B6%E5%8D%A1%E5%87%BA%E8%B2%A8%E9%87%8F%E8%B6%85%E9%8E%A7%E4%BF%A0%E5%8D%87%E8%87%B3%E5%85%A8%E7%90%83%E7%AC%AC3%E3%80%912026%E5%B9%B44%E6%9C%88%EF%BD%9E6%E6%9C%88%EF%BC%8C%E9%95%B7%E6%B1%9F%E5%AD%98%E5%84%B2%E7%9A%84NAND%E5%9E%8B%E8%A8%98%E6%86%B6%E5%8D%A1%E5%87%BA%E8%B2%A8%E9%87%8F%E4%BB%BD%E9%A1%8D%E9%81%9414%25%E3%80%82%E9%8E%A7%E4%BF%A0%E4%B9%9F%E7%82%BA14%EF%BC%85%EF%BC%8C%E4%BD%86%E9%95%B7%E6%B1%9F%E5%AD%98%E5%84%B2%E7%95%A5%E9%AB%98%E3%80%82%E7%AC%AC%E4%B8%80%E4%BD%8D%E6%98%AF%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90%EF%BC%8825%25%EF%BC%89%EF%BC%8C%E7%AC%AC%E4%BA%8C%E4%BD%8D%E6%98%AFSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%EF%BC%8822%25%EF%BC%89%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2F%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[三星](三星.md), [存儲](存儲.md), [海力士](海力士.md), [鎧俠](鎧俠.md), [長江存儲](長江存儲.md)
+[三星](三星.md), [存儲](存儲.md), [海力士](海力士.md), [鎧俠](鎧俠.md), [長江](長江.md), [長江存儲](長江存儲.md)
 ___
 ##### 2026-08-08 12:38:43 UTC ~ rick awsb ($people, $people)
 > RT @rickawsb: HBF不是更便宜的HBMHBF，是在hbm和ssd之间插入一个新的层。解决的是hbm不够，和ssd太“慢”的问题但 HBF 仍然是 NAND Flash，这一点决定了其适合存模型权重存储。Weights 基本属于 Write Once…
@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E9%95%BF%E9%91%AB%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%89%8C%E3%80%82%E5%BE%80%E4%B8%8B%E7%BF%BB%E2%80%94%E2%80%94%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E3%80%81%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E3%80%81%E4%B8%8A%E6%B5%B7%E5%BE%AE%E7%94%B5%E5%AD%90%E3%80%81%E8%93%9D%E7%AE%AD%E8%88%AA%E5%A4%A9%E3%80%81%E5%BC%BA%E8%84%91%E7%A7%91%E6%8A%80%E3%80%82%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E8%B5%84%E4%BA%A7%E6%8E%92%E9%98%9F%E8%B5%B0%E4%B8%8A%E7%89%8C%E6%A1%8C%E3%80%82%E9%95%BF%E9%91%AB%E6%95%B2%E9%94%A3%E6%98%AFDRAM%E3%80%82%E9%95%BF%E6%B1%9F%E5%9C%A8%E5%90%8E%E9%9D%A2%E6%8E%92%E9%98%9F%E2%80%94%E2%80%94NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%EF%BC%8C232%E5%B1%82%E9%87%8F%E4%BA%A7%E3%80%82%E5%AE%87%E6%A0%91%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E7%89%88%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [mac](mac.md), [上海](上海.md), [上海微电子](上海微电子.md), [存储](存储.md), [宇树](宇树.md), [强脑科技](强脑科技.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长江存储](长江存储.md), [长鑫](长鑫.md)
+[DRAM](DRAM.md), [mac](mac.md), [上海](上海.md), [上海微电子](上海微电子.md), [存储](存储.md), [宇树](宇树.md), [强脑科技](强脑科技.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长江](长江.md), [长江存储](长江存储.md), [长鑫](长鑫.md)
 ___
 ##### 2026-07-22 03:37:10 UTC ~ 全球货币 Global Money
 > RT @GlobalMoney: 东京。黄仁勋品尝威士忌。根据肢体语言，配上 $SMCI 惊人订单，英伟达 $NVDA 财报不会暴雷。 英伟达刚要求三星，将NAND产量，增加相当于苹果全年NAND消费量水平。7月5日，一位硅谷创业者@NobelDing预测：“伯里正做空AI存储…
@@ -173,7 +173,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B9%E6%9E%9C%E6%9A%82%E7%BC%93%E9%87%87%E8%B4%AD%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8NAND%E9%97%AA%E5%AD%98%E7%9A%84%E8%AE%A1%E5%88%92%E3%80%91%E6%8D%AE%E6%97%A5%E7%BB%8F%E4%BA%9A%E6%B4%B2%E4%B8%8E%E5%A4%9A%E4%BD%8D%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%A3%AB%E9%87%87%E8%AE%BF%EF%BC%8C%E8%8B%B9%E6%9E%9C%E4%B8%80%E7%9B%B4%E8%AE%A1%E5%88%92%E5%9C%A8iPhone%E4%B8%8A%E9%87%87%E7%94%A8%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E7%A7%91%E6%8A%80%E7%94%9F%E4%BA%A7%E7%9A%84%E2%80%9CNAND%E5%9E%8B%E9%97%AA%E5%AD%98%E2%80%9D%EF%BC%8C%E4%BD%86%E7%94%B1%E4%BA%8E%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E9%A3%8E%E9%99%A9%E5%8A%A0%E5%A4%A7%E5%92%8C%E5%8F%97%E5%88%B0%E7%BE%8E%E5%9B%BD%E5%BD%93%E5%B1%80%E6%89%B9%E5%88%A4%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%94%B9%E5%8F%98%E4%BA%86%E6%96%B9%E9%92%88%E3%80%82+%E8%8B%B9%E6%9E%9C%E5%92%8C%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E7%A7%91%E6%8A%80%E5%AF%B9%E6%AD%A4%E5%9D%87%E6%9C%AA%E5%8F%91%E8%A1%A8%E8%AF%84%E8%AE%BA%E2%80%A6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[iPhone](iPhone.md), [一直](一直.md), [地缘政治](地缘政治.md), [存储](存储.md), [暂缓](暂缓.md), [生产](生产.md), [相关](相关.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md), [采访](采访.md), [长江存储](长江存储.md), [风险](风险.md)
+[iPhone](iPhone.md), [一直](一直.md), [亚洲](亚洲.md), [地缘政治](地缘政治.md), [存储](存储.md), [暂缓](暂缓.md), [生产](生产.md), [相关](相关.md), [科技](科技.md), [美国](美国.md), [苹果](苹果.md), [计划](计划.md), [采访](采访.md), [长江](长江.md), [长江存储](长江存储.md), [风险](风险.md)
 ___
 ##### 2022-08-04 06:23:15 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【SK海力士开发出最尖端NAND型闪存】SK开发出238层NAND闪存，单位面积的数据容量提高34％，传输速度提高50%……https://t.co/BXr49gemPL
@@ -194,7 +194,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E6%91%98%E3%80%91%E5%9D%82%E6%9C%AC%E5%B9%B8%E9%9B%84%EF%BC%9A%E5%9C%A8DRAM%E9%A2%86%E5%9F%9F%E5%A4%84%E4%BA%8E%E4%B8%AD%E5%9B%BD%E9%A1%B6%E5%B0%96%E6%B0%B4%E5%B9%B3%E7%9A%84%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E6%8A%80%E6%9C%AF%EF%BC%88CXMT%EF%BC%89%E4%B8%8E%E4%B8%89%E6%98%9F%E7%9B%B8%E6%AF%94%E8%90%BD%E5%90%8E4%E4%BB%A3%E5%B7%A6%E5%8F%B3%E3%80%82%E8%80%8C%E5%9C%A8NAND%E9%97%AA%E5%AD%98%E9%A2%86%E5%9F%9F%EF%BC%8C%E6%8D%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%A1%B6%E5%B0%96%E7%9A%84%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E7%A7%91%E6%8A%80%EF%BC%88YMTC%EF%BC%89%E5%B0%86%E5%90%AF%E5%8A%A8%EF%BC%88%E5%AD%98%E5%82%A8%E5%85%83%E4%BB%B6%E4%B8%BA%EF%BC%89128%E5%B1%82%E7%9A%84%E9%87%8F%E4%BA%A7%EF%BC%8C%E8%99%BD%E5%B7%B2%E5%90%AF%E5%8A%A8192%E5%B1%82%E7%9A%84%E8%AF%95%E7%94%9F%E4%BA%A7%EF%BC%8C%E4%BD%86%E5%88%B6%E9%80%A0%E7%9A%84%E6%95%B0%E9%87%8F%E8%BF%87%E5%B0%91%EF%BC%8C%E8%BE%BE%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[CXMT](CXMT.md), [DRAM](DRAM.md), [YMTC](YMTC.md), [三星](三星.md), [启动](启动.md), [处于](处于.md), [存储](存储.md), [技术](技术.md), [水平](水平.md), [生产](生产.md), [科技](科技.md), [量产](量产.md), [长江存储](长江存储.md), [长鑫](长鑫.md), [顶尖](顶尖.md), [领域](领域.md)
+[CXMT](CXMT.md), [DRAM](DRAM.md), [YMTC](YMTC.md), [三星](三星.md), [启动](启动.md), [处于](处于.md), [存储](存储.md), [技术](技术.md), [水平](水平.md), [生产](生产.md), [科技](科技.md), [量产](量产.md), [长江](长江.md), [长江存储](长江存储.md), [长鑫](长鑫.md), [顶尖](顶尖.md), [领域](领域.md)
 ___
 ##### 2021-07-19 04:31:39 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【铠侠社长：日本半导体工厂需降成本】早坂伸夫：调查显示，从运营存储器工厂的成本来看，中国、韩国等与日本、美国之间存在20～40％的差距。日本企业的半导体份额在下降，但在图像传感器、NAND存储器和功率器件等领域仍具有较高竞争力……http…

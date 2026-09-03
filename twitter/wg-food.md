@@ -85,6 +85,10 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [鰤鱼](hanzi-cards/鰤鱼.md) | yellowtail |
 | [錦鯉](hanzi-cards/錦鯉.md) | koi |
 | [鲤鱼](hanzi-cards/鲤鱼.md)/[鯉魚](hanzi-cards/鯉魚.md) | carp |
+| [鲈鱼](hanzi-cards/鲈鱼.md) | bass; perch |
+| [鲻鱼](hanzi-cards/鲻鱼.md) | mullet |
+| [鳜鱼](hanzi-cards/鳜鱼.md)/[鱖魚](hanzi-cards/鱖魚.md) | Chinese perch; mandarin fish |
+| [三文鱼](hanzi-cards/三文鱼.md)/[三文魚](hanzi-cards/三文魚.md) | salmon |
 | [蟹](hanzi-cards/蟹.md) | crab |
 | [蛤蜊](hanzi-cards/蛤蜊.md) | clam |
 | [铁锅炖](hanzi-cards/铁锅炖.md) | iron pot stew |
@@ -102,6 +106,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [马铃薯](hanzi-cards/马铃薯.md) | potato; white potato |
 | [槟榔芋](hanzi-cards/槟榔芋.md) | taro |
 | [塔帕斯](hanzi-cards/塔帕斯.md) | tapas |
+| [小笼包](hanzi-cards/小笼包.md) | Xiaolongbao; soup dumplings |
+| [猪脚](hanzi-cards/猪脚.md) | pig's knuckle ad trotter |
+| [控肉飯](hanzi-cards/控肉飯.md) | Braised pork rice |
 ## Drinks
 |  |  |
 | ----- | :---: |
@@ -146,6 +153,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [椰菜](hanzi-cards/椰菜.md) | cauliflower; broccoli; calabrese |
 | [包菜](hanzi-cards/包菜.md) | cabbage |
 | [芽菜](hanzi-cards/芽菜.md) | bean sprouts |
+| [土豆](hanzi-cards/土豆.md) | potato; peanut in Hokkien |
 ## miscellaneous
 |  |  |
 | ----- | :---: |
@@ -159,3 +167,10 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [汤匙](hanzi-cards/汤匙.md) | soup spoon; table spoon |
 | [叉](hanzi-cards/叉.md) | fork |
 | [芝麻](hanzi-cards/芝麻.md) | sesame |
+| [鲜嫩](hanzi-cards/鲜嫩.md)/[鮮嫩](hanzi-cards/鮮嫩.md) | fresh and tender |
+| [皮蛋](hanzi-cards/皮蛋.md) | century egg |
+| [清蒸](hanzi-cards/清蒸.md) | be steamed in clear soup (usu. without soy sauce) |
+| [蒸](hanzi-cards/蒸.md) | steam |
+| [炒](hanzi-cards/炒.md) | stir-fry |
+| [煮](hanzi-cards/煮.md) | boil |
+| [Q弹](hanzi-cards/Q弹.md)/[Q彈](hanzi-cards/Q彈.md)/[q弹](hanzi-cards/q弹.md) | (of a food's mouthfeel) springy; firm; al dente |

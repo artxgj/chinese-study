@@ -45,7 +45,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40macrotradecn%3A+%E9%95%BF%E9%91%AB%E5%8F%AA%E6%98%AF%E7%AC%AC%E4%B8%80%E5%BC%A0%E7%89%8C%E3%80%82%E5%BE%80%E4%B8%8B%E7%BF%BB%E2%80%94%E2%80%94%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E3%80%81%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E3%80%81%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E3%80%81%E4%B8%8A%E6%B5%B7%E5%BE%AE%E7%94%B5%E5%AD%90%E3%80%81%E8%93%9D%E7%AE%AD%E8%88%AA%E5%A4%A9%E3%80%81%E5%BC%BA%E8%84%91%E7%A7%91%E6%8A%80%E3%80%82%E4%B8%8D%E6%98%AF%E4%B8%80%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%B8%82%EF%BC%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E8%B5%84%E4%BA%A7%E6%8E%92%E9%98%9F%E8%B5%B0%E4%B8%8A%E7%89%8C%E6%A1%8C%E3%80%82%E9%95%BF%E9%91%AB%E6%95%B2%E9%94%A3%E6%98%AFDRAM%E3%80%82%E9%95%BF%E6%B1%9F%E5%9C%A8%E5%90%8E%E9%9D%A2%E6%8E%92%E9%98%9F%E2%80%94%E2%80%94NAND%E9%97%AA%E5%AD%98%EF%BC%8C%E5%85%A8%E7%90%83%E7%AC%AC%E4%BA%94%EF%BC%8C232%E5%B1%82%E9%87%8F%E4%BA%A7%E3%80%82%E5%AE%87%E6%A0%91%E2%80%94%E2%80%94%E4%B8%AD%E5%9B%BD%E7%89%88%E6%B3%A2%E5%A3%AB%E9%A1%BF%E5%8A%A8%E5%8A%9B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DRAM](DRAM.md), [NAND](NAND.md), [上海](上海.md), [上海微电子](上海微电子.md), [存储](存储.md), [宇树](宇树.md), [强脑科技](强脑科技.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长江存储](长江存储.md), [长鑫](长鑫.md)
+[DRAM](DRAM.md), [NAND](NAND.md), [上海](上海.md), [上海微电子](上海微电子.md), [存储](存储.md), [宇树](宇树.md), [强脑科技](强脑科技.md), [科技](科技.md), [资产](资产.md), [量产](量产.md), [长江](长江.md), [长江存储](长江存储.md), [长鑫](长鑫.md)
 ___
 ##### 2026-07-17 09:51:06 UTC ~ TechNews 科技新報
 > RT @technews_tw: 前 Sega 工程師神還原！把「拍打修復」老電視的經典操作，完整搬進 macOS。 #CRT模擬器 #復古 #任天堂 https://t.co/0Ye6uEelqh
@@ -66,7 +66,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E7%82%92%E8%82%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%8BAMD%E4%BA%86%EF%BC%8C%E5%9C%A8vLLM%E7%AD%89%E6%8A%80%E6%9C%AF%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%8D%E6%87%88%E5%8A%AA%E5%8A%9B%E4%B8%8B%EF%BC%8C%E7%9B%AE%E5%89%8D355X%E7%9A%84%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87B300%EF%BC%8C%E8%99%BD%E7%84%B6%E8%AE%AD%E7%BB%83%E4%B8%A5%E9%87%8D%E4%BE%9D%E8%B5%96CUDA%EF%BC%8C%E4%BD%86%E6%8E%A8%E7%90%86%E7%9A%84%E5%B8%82%E5%9C%BA%E5%9C%A82026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BC%9A%E5%A4%B1%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8CAMD%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%8D%96%E7%89%B9%E5%8D%96%EF%BC%8C%E5%A4%A7%E5%8F%91%E7%89%B9%E5%8F%91%EF%BC%81)
 ##### Other Words/Names of Interest in the Above Tweet
-[AMD](AMD.md), [LLM](LLM.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [超过](超过.md)
+[AMD](AMD.md), [LLM](LLM.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [炒](炒.md), [超过](超过.md)
 ___
 ##### 2026-07-06 21:57:45 UTC ~ 杰克船长宏观策略
 > RT @macrotradecn: 7月7日，三星Q2初步业绩7月15日，阿斯麦公布业绩7月16日，台积电Q2说法会7月22日，特斯拉公布业绩7月22日(或7月29日)，安费诺公布业绩7月23日，英特尔公布业绩7月28日，谷歌公布业绩7月28日(或8月4日)，康宁…

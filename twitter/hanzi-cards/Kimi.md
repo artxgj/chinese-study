@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Kay2289123%3A+%E5%8E%86%E5%8F%B2%E6%B0%B8%E8%BF%9C%E5%9C%A8%E9%87%8D%E6%BC%94%E3%80%82%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E5%8D%83%E9%97%AE%E3%80%81Kimi%E3%80%81DeepSeek+%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%BC%BA%EF%BC%8C%E5%A4%A7%E9%83%A8%E5%88%86%E4%BA%BA%E9%83%BD%E6%98%AF%E5%9C%A8%E6%AF%94%E8%BE%83%E5%92%8C%E4%BA%89%E5%90%B5%E5%93%AA%E4%B8%AA%E6%A8%A1%E5%9E%8B%E6%9B%B4%E5%8E%89%E5%AE%B3%EF%BC%8C%E8%B0%81%E6%98%AF%E7%AC%AC%E4%B8%80%EF%BC%8C%E8%B0%81%E8%92%B8%E9%A6%8F%E4%BA%86%E8%B0%81%EF%BC%9F%E8%81%AA%E6%98%8E%E9%92%B1%E6%97%A9%E5%B0%B1%E5%B7%B2%E7%BB%8F%E5%8F%91%E7%8E%B0%EF%BC%8C%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E8%AE%A9%E6%8B%A5%E6%9C%89%E7%AE%97%E5%8A%9B%E7%9A%84%E4%BE%9B%E5%BA%94%E5%95%86%E4%BB%8E%E5%8D%96%E7%AE%97%E5%8A%9B%E5%88%B0%E5%8D%96%E6%99%BA%E8%83%BD%EF%BC%8C%E7%9B%B8%E5%90%8C%E6%88%90%E6%9C%AC%E5%88%A9%E6%B6%A6%E4%B8%8A%E5%8D%87%EF%BC%8C%E6%8F%90%E5%89%8D%E5%B8%83%E5%B1%80%E3%80%82%E5%9C%A8+Kimi+%E5%8F%91%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [利润](利润.md), [千问](千问.md), [布局](布局.md), [开源](开源.md), [成本](成本.md), [模型](模型.md), [蒸馏](蒸馏.md), [越来越](越来越.md)
+[DeepSeek](DeepSeek.md), [利润](利润.md), [千问](千问.md), [布局](布局.md), [开源](开源.md), [成本](成本.md), [模型](模型.md), [蒸](蒸.md), [蒸馏](蒸馏.md), [越来越](越来越.md)
 ___
 ##### 2026-08-02 09:31:16 UTC ~ Max Lv
 > RT @m0d8ye: 看到有人用纯 C 在 CPU 上实现了 Kimi K3，8GB 内存下，性能 33 s/token，注意单位别看错了…https://t.co/BgeVyHeCeI
@@ -110,7 +110,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jasper_Wei1%3A+Kimi+%E7%9A%84%E6%8F%92%E4%BB%B6%E7%A1%AE%E5%AE%9E%E7%89%9B%E9%80%BC%EF%BC%8C%E7%B2%BE%E5%87%86%E6%8A%93%E4%BD%8F%E4%BA%86%E7%94%B7%E4%BA%BA%E7%94%A8AI%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E7%82%92%E8%82%A1%E6%8E%A5%E5%85%A5Wind%E6%8D%AE%E6%88%91%E6%89%80%E7%9F%A5%E7%9B%AE%E5%89%8D%E6%98%AF%E7%8B%AC%E4%B8%80%E4%BB%BD%E7%9A%84%EF%BC%8C%E5%9B%BD%E5%86%85%E5%81%9A%E6%8A%95%E7%A0%94%E7%9A%84%E9%83%BD%E7%9F%A5%E9%81%93wind%E6%95%B0%E6%8D%AE%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%B0%B1%E8%BF%99%E5%A5%97%E4%B8%9C%E8%A5%BF%E8%87%AA%E5%B7%B1%E7%94%A8%E6%9D%A5%E5%81%9A%E5%B0%8F%E5%9E%8B%E9%87%8F%E5%8C%96%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%81%9A%E6%8A%95%E7%A0%94%E5%88%86%E6%9E%90%E7%B3%BB%E7%BB%9F%E4%B8%80%E7%82%B9%E9%97%AE%E9%A2%98%E6%B2%A1%E6%9C%89%EF%BC%8CKimi%E5%B8%AE%E4%BD%A0%E8%A7%A3%E5%86%B3%E4%BA%86%E5%85%B3%E9%94%AE%E7%9A%84%E6%95%B0%E6%8D%AE%E9%97%AE%E9%A2%98+http%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关键](关键.md), [分析](分析.md), [接入](接入.md), [插件](插件.md), [数据](数据.md), [系统](系统.md), [量化](量化.md), [金](金.md)
+[关键](关键.md), [分析](分析.md), [接入](接入.md), [插件](插件.md), [数据](数据.md), [炒](炒.md), [系统](系统.md), [量化](量化.md), [金](金.md)
 ___
 ##### 2026-07-30 06:14:33 UTC ~ Hux
 > RT @huxlab: 我靠，Kimi K3实在太强了：一座3100万美元的酒店。190个房间的所有管道、电线、风管、消防系统，全部提前建模协调完毕。以前：3个工程师，6周，花费约4.7万美元。现在：1个工程师确认AI输出，9天，总共约1.05万美元。方法很简…
@@ -166,7 +166,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40WallStTV%3A+Kimi+K3%E5%8F%91%E5%B8%83%E5%90%8E%EF%BC%8C%E4%B8%80%E5%9C%BAAI%E8%B7%AF%E7%BA%BF%E4%B9%8B%E4%BA%89%E7%AA%81%E7%84%B6%E5%B8%AD%E5%8D%B7%E7%A1%85%E8%B0%B7%E3%80%82%E9%BB%84%E4%BB%81%E5%8B%8B%E5%85%AC%E5%BC%80%E5%8A%9B%E6%8C%BA%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%EF%BC%8C%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E8%AD%A6%E5%91%8A%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E8%A2%AB%E5%B0%91%E6%95%B0%E6%9C%BA%E6%9E%84%E5%9E%84%E6%96%AD%EF%BC%9BAnthropic%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%98%BF%E8%8E%AB%E8%BF%AA%E5%88%99%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD%EF%BC%8C%E4%B8%BB%E5%BC%A0%E7%BB%A7%E7%BB%AD%E5%B0%81%E9%94%81%E9%AB%98%E7%AB%AF%E8%8A%AF%E7%89%87%E3%80%81%E6%89%93%E5%87%BB%E8%B5%B0%E7%A7%81%E5%92%8C%E5%B7%A5%E4%B8%9A%E5%8C%96%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E3%80%82%E8%BF%99%E5%9C%BA%E4%BA%89%E8%AE%BA%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%89%E5%9C%BA%E6%88%98%E4%BA%89%EF%BC%9A%E8%B0%81%E6%8E%A7%E5%88%B6%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%99%BA%E8%83%BD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [发布](发布.md), [垄断](垄断.md), [封锁](封锁.md), [打击](打击.md), [执行](执行.md), [控制](控制.md), [机构](机构.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [芯片](芯片.md), [蒸馏](蒸馏.md), [走私](走私.md), [首席执行官](首席执行官.md), [黄仁勋](黄仁勋.md)
+[Anthropic](Anthropic.md), [发布](发布.md), [垄断](垄断.md), [封锁](封锁.md), [打击](打击.md), [执行](执行.md), [控制](控制.md), [机构](机构.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [芯片](芯片.md), [蒸](蒸.md), [蒸馏](蒸馏.md), [走私](走私.md), [首席执行官](首席执行官.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2026-07-30 02:43:44 UTC ~ Xudong Han
 > RT @Xudong07452910: 有人真的在 Apple M1 Max 上跑起来了 2.8 万亿参数的 Kimi K3。速度是每秒 0.0687 个 token，也就是大约 14.6 秒生成一个字。完整安装需要约 1.7 TB 本地磁盘。这个项目叫 Deltafin，…
@@ -458,7 +458,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40andyz8818576155%3A+Kimi%E7%9A%84%E4%BE%8B%E5%AD%90%E5%86%8D%E6%AC%A1%E8%AF%B4%E6%98%8E%E4%BA%86%E7%9B%AE%E5%89%8DAI%E4%B8%80%E4%B8%AA%E6%AE%8B%E9%85%B7%E7%9A%84%E7%8E%B0%E5%AE%9E%3A%E5%9C%A8%E6%97%A0%E6%B3%95%E6%9D%9C%E7%BB%9D%E8%92%B8%E9%A6%8F%E5%B8%A6%E6%9D%A5%E7%9A%84%E5%BF%AB%E9%80%9F%E6%A8%A1%E4%BB%BF%E5%89%8D%2C%E4%BB%BB%E4%BD%95AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%83%BD%E6%98%AF%E6%B2%A1%E6%9C%89%E6%8A%A4%E5%9F%8E%E6%B2%B3%E5%8F%AF%E8%A8%80%E7%9A%84%2C%E7%BE%8E%E5%9B%BD%E4%BB%98%E8%B4%B9%E7%9A%84%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%A4%A7%E9%83%A8%E5%88%86%E4%B8%AD%E4%BD%8E%E7%AB%AF%E5%B8%82%E5%9C%BA%E4%BC%9A%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%85%8D%E8%B4%B9%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%E6%9B%BF%E4%BB%A3~%E5%8D%B7%2C%E5%8D%B7%E6%AD%BB%E6%89%80%E6%9C%89%E4%BA%BA%2C%E5%8C%85%E6%8B%AC%E8%87%AA%E5%B7%B1%2C%E8%BF%99%E5%B0%B1%E6%98%AF%E7%9B%AE%E5%89%8DAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%82%E5%9C%BA%E7%9A%84%E7%8E%B0%E7%8A%B6%2C%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[包括](包括.md), [开源](开源.md), [替代](替代.md), [模型](模型.md), [残酷](残酷.md), [现状](现状.md), [美国](美国.md), [蒸馏](蒸馏.md)
+[包括](包括.md), [开源](开源.md), [替代](替代.md), [模型](模型.md), [残酷](残酷.md), [现状](现状.md), [美国](美国.md), [蒸](蒸.md), [蒸馏](蒸馏.md)
 ___
 ##### 2026-07-18 02:43:48 UTC ~ kabikabi
 > RT @jakevin7: 深度体验了 Kimi K3。Kimi K3 相比 K2.6/K2.7 有明显的代际提升！已经从“能干活”进化到“能扛事”，尤其适合复杂的多步骤 Agent 和内容生产工作流。拿A/的模型来比的话，仅次于Fable了，完全有Opus的水准了!…
@@ -486,7 +486,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40gelunding%3A+Kimi%E5%8F%91%E5%B8%83K3%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%88%9A%E5%88%9A%E5%BC%95%E5%8F%91%E4%BA%86%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1%E3%80%82%E5%91%A8%E5%9B%9B%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89AI%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%EF%BC%8C%E5%91%A8%E4%BA%94%EF%BC%8C%E4%BA%9A%E6%B4%B2AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E4%B9%9F%E9%81%AD%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%9B%E5%94%AE%E3%80%82Moonshot%E7%9A%84K3%E8%AE%A9%E6%8A%95%E8%B5%84%E8%80%85%E5%BC%80%E5%A7%8B%E8%B4%A8%E7%96%91%E4%B8%A4%E4%BB%B6%E4%BA%8B%EF%BC%9A%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%B2%BFAI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A6%82OpenAI%E5%92%8CAnthropic%E5%87%AD%E4%BB%80%E4%B9%88%E8%83%BD%E6%94%AF%E6%92%911%E4%B8%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
+[Anthropic](Anthropic.md), [OpenAI](OpenAI.md), [亚洲](亚洲.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
 ___
 ##### 2026-07-17 23:37:05 UTC ~ BlockBeats｜We're hiring!
 > RT @BlockBeatsAsia: Kimi为何能做出K3？月之暗面新成员杨新宇列出同行四宗罪🤥🤥① 傲慢：老牌团队认为AI战争已经结束，自己已经赢了，对未来和人才失去渴望。② 浮躁：年轻实验室基础不牢，只顾追赶前沿，追不上就匆忙转向其他赛道。③ 胆怯：一些团队经验…
@@ -528,7 +528,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40fxtrader%3A+%E5%BD%AD%E5%8D%9A%E7%A4%BE%E5%B0%86%E5%91%A8%E4%BA%94%E4%BA%9A%E6%B4%B2AI%E5%92%8C%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%82%A1%E7%A5%A8%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C%E5%BD%92%E5%9B%A0%E4%BA%8E%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2Kimi+K3%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%8F%91%E5%B8%83%EF%BC%8C%E5%B0%86%E6%AD%A4%E6%AC%A1%E5%8F%91%E5%B8%83%E6%8F%8F%E8%BF%B0%E4%B8%BA%E7%B1%BB%E4%BC%BC%E4%BB%A5%E5%BE%80%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E7%9A%84%E2%80%9CKimi%E6%97%B6%E5%88%BB%E2%80%9D%EF%BC%8C%E6%8A%95%E8%B5%84%E8%80%85%E8%B4%A8%E7%96%91AI%E8%A1%8C%E4%B8%9A%E5%B7%A8%E9%A2%9D%E6%94%AF%E5%87%BA%E7%9A%84%E5%90%88%E7%90%86%E6%80%A7%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%BB%A5%E7%AB%99%E5%BE%97%E4%BD%8F%E8%84%9A%E3%80%82%E8%80%8CK3%E5%B1%95%E7%8E%B0%E7%9A%84%E8%83%BD%E5%8A%9B%E4%BC%98%E4%BA%8E%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82%E7%9A%84%E6%99%BA%E8%B0%B1%E5%92%8CMin%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [半导体](半导体.md), [发布](发布.md), [大幅](大幅.md), [投资](投资.md), [支出](支出.md), [智谱](智谱.md), [月之暗面](月之暗面.md), [模型](模型.md), [行业](行业.md), [质疑](质疑.md), [越来越](越来越.md), [跌](跌.md)
+[DeepSeek](DeepSeek.md), [亚洲](亚洲.md), [半导体](半导体.md), [发布](发布.md), [大幅](大幅.md), [投资](投资.md), [支出](支出.md), [智谱](智谱.md), [月之暗面](月之暗面.md), [模型](模型.md), [行业](行业.md), [质疑](质疑.md), [越来越](越来越.md), [跌](跌.md)
 ___
 ##### 2026-07-17 10:22:17 UTC ~ ✧ 𝕀𝔸𝕄𝔸𝕀 ✧
 > RT @iamai_omni: Kimi 这么拿货 Blackwell 显然是有理由的，仅仅为了在硅芯片上容纳一个 2.8T 参数模型（并以 FP16 量化运行它），你就需要 5.6TB 的 VRAM——大致相当于 44 台 Mac Studio，或 15 台 Blackwel…

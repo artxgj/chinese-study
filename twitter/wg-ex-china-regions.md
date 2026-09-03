@@ -16,6 +16,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [泰国](hanzi-cards/泰国.md)/[泰國](hanzi-cards/泰國.md) | Thailand |
 | [老挝](hanzi-cards/老挝.md)/[老撾](hanzi-cards/老撾.md) | Laos |
 | [巴勒斯坦](hanzi-cards/巴勒斯坦.md) | Palestine |
+| [尼泊尔](hanzi-cards/尼泊尔.md)/[尼泊爾](hanzi-cards/尼泊爾.md) | Nepal |
 | [印度](hanzi-cards/印度.md) | India |
 | [斯里兰卡](hanzi-cards/斯里兰卡.md) | Sri Lanka |
 | [朝鮮](hanzi-cards/朝鮮.md) | North Korea |
@@ -119,6 +120,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 ## 7. General
 |  |  |
 | ----- | :---: |
+| [亚洲](hanzi-cards/亚洲.md)/[亞洲](hanzi-cards/亞洲.md) | Asia |
 | [撒哈拉](hanzi-cards/撒哈拉.md) | Sahara |
 | [好望角](hanzi-cards/好望角.md) | Cape of Good Hope |
 | [东南亚](hanzi-cards/东南亚.md)/[東南亞](hanzi-cards/東南亞.md) | Southeast Asia |

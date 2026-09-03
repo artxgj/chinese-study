@@ -146,7 +146,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A%E4%B8%93%E5%8C%BA%E3%80%91TikTok%E5%8F%8A%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%AD%89%E7%8E%B0%E8%B1%A1%E5%8E%9F%E6%9C%AC%E5%8F%AA%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%86%85%E5%95%86%E4%B8%9A%E5%93%81%E7%89%8C%E6%88%90%E5%8A%9F%E8%B5%B0%E5%90%91%E5%9B%BD%E9%99%85%E7%9A%84%E6%A1%88%E4%BE%8B%EF%BC%8C%E4%BD%86%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%97%A5%E7%9B%8A%E4%B8%8A%E5%8D%87%E7%9A%84%E5%88%9B%E6%96%B0%E7%A7%91%E6%8A%80%E5%8F%8A%E5%95%86%E4%B8%9A%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%BC%BC%E4%B9%8E%E5%B7%B2%E7%BB%8F%E8%A7%A6%E5%8F%8A%E5%88%B0%E5%9B%BD%E9%99%85%E6%94%BF%E6%B2%BB%E7%9A%84%E9%A2%86%E5%9F%9F%EF%BC%8C%E6%88%90%E4%B8%BA%E4%BA%86%E6%94%BF%E6%B2%BB%E7%BD%91%E9%87%8C%E7%BD%91%E5%A4%96%E5%8F%91%E6%8C%A5%E4%B8%AD%E5%9B%BD%E8%BD%AF%E5%AE%9E%E5%8A%9B%E7%9A%84%E6%95%B0%E5%AD%97%E9%92%A5%E5%8C%99%E3%80%82https%3A%2F%2Ft.co%2FT3LA0H%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[发挥](发挥.md), [品牌](品牌.md), [实力](实力.md), [影响](影响.md), [案例](案例.md), [科技](科技.md), [行为](行为.md), [领域](领域.md)
+[亚洲](亚洲.md), [发挥](发挥.md), [品牌](品牌.md), [实力](实力.md), [影响](影响.md), [案例](案例.md), [科技](科技.md), [行为](行为.md), [领域](领域.md)
 ___
 ##### 2023-05-15 03:20:01 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【中国APP全球人气不减，与美国抗衡】对95个国家和地区下载量排名前5位的APP进行统计后发现，“TikTok”（抖音国际版）等中国APP的占比超过总体的3成。与美国APP处于同等水平。在美国以安保等为由加强管制的情况下，中国APP的人气…
@@ -237,7 +237,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%BB%8E%E6%9D%83%E5%8A%9B%E6%94%BF%E6%B2%BB%E7%9A%84%E6%B0%94%E5%8A%BF%E6%9D%A5%E7%9C%8B%EF%BC%8C%23TikTok+%E5%91%BD%E8%BF%90%E5%A0%AA%E8%99%9E%EF%BC%8C%E4%BD%86%E4%BB%8E%E7%BD%91%E7%BB%9C%E7%9A%84%E6%B0%94%E5%9C%BA%E6%9D%A5%E7%9C%8B%EF%BC%8C%23%E5%91%A8%E5%8F%97%E8%B5%84+%E5%8D%B4%E8%B5%A2%E5%BE%97%E5%90%8C%E6%83%85%E4%B8%8E%E6%94%AF%E6%8C%81%E3%80%82%E4%BB%96%E6%88%90%E4%B8%BA%E7%BB%B4%E6%8A%A41%E4%BA%BF5000%E4%B8%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1%E7%9A%84%E5%AD%A4%E8%83%86%E8%8B%B1%E9%9B%84%EF%BC%8C%E6%98%AF%E5%8A%9B%E6%8A%97%E5%BC%BA%E6%9D%83%E7%9A%84%E7%BD%91%E7%BB%9C%E5%85%88%E9%94%8B%E3%80%82%23%E4%BA%9A%E6%B4%B2%E5%91%A8%E5%88%8A%E4%B8%93%E5%8C%BA+https%3A%2F%2Ft.co%2Fk1k1vXaOkB+htt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[先锋](先锋.md), [周受资](周受资.md), [命运](命运.md), [孤胆英雄](孤胆英雄.md), [支持](支持.md), [权力](权力.md), [美国](美国.md)
+[亚洲](亚洲.md), [先锋](先锋.md), [周受资](周受资.md), [命运](命运.md), [孤胆英雄](孤胆英雄.md), [支持](支持.md), [权力](权力.md), [美国](美国.md)
 ___
 ##### 2023-04-04 06:22:13 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 澳大利亚周二表示，将在所有政府提供的数字设备上禁用TikTok，追随美国和其他情报共享盟友的做法，对该应用程序上的数据安全担忧作出了回应。https://t.co/vSxMFK7GPX

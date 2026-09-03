@@ -87,6 +87,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [涡轮机](hanzi-cards/涡轮机.md) | turbine |
 | [反应堆](hanzi-cards/反应堆.md) | reactor |
 | [考古学家](hanzi-cards/考古学家.md) | archaeologist |
+| [考古](hanzi-cards/考古.md) | archeology |
 | [曲线](hanzi-cards/曲线.md) | curve |
 | [设计](hanzi-cards/设计.md)/[設計](hanzi-cards/設計.md) | design |
 | [气球](hanzi-cards/气球.md) | balloon |
@@ -720,3 +721,6 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [窥](hanzi-cards/窥.md)/[窺](hanzi-cards/窺.md) | peep; peek; pry; glimpse ; (pinyin: kuī) |
 | [挖泥船](hanzi-cards/挖泥船.md) | dredger; (pinyin: wāníchuán) |
 | [盾构机](hanzi-cards/盾构机.md)/[盾構機](hanzi-cards/盾構機.md) | tunnel boring machine; (pinyin: dùngòujī) |
+| [彩虹](hanzi-cards/彩虹.md) | rainbow |
+| [马拉松](hanzi-cards/马拉松.md)/[馬拉松](hanzi-cards/馬拉松.md) | marathon |
+| [罽](hanzi-cards/罽.md) | felt; rug |

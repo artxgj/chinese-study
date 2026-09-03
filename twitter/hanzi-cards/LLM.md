@@ -68,7 +68,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E7%82%92%E8%82%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%8BAMD%E4%BA%86%EF%BC%8C%E5%9C%A8vLLM%E7%AD%89%E6%8A%80%E6%9C%AF%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%8D%E6%87%88%E5%8A%AA%E5%8A%9B%E4%B8%8B%EF%BC%8C%E7%9B%AE%E5%89%8D355X%E7%9A%84%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87B300%EF%BC%8C%E8%99%BD%E7%84%B6%E8%AE%AD%E7%BB%83%E4%B8%A5%E9%87%8D%E4%BE%9D%E8%B5%96CUDA%EF%BC%8C%E4%BD%86%E6%8E%A8%E7%90%86%E7%9A%84%E5%B8%82%E5%9C%BA%E5%9C%A82026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BC%9A%E5%A4%B1%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8CAMD%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%8D%96%E7%89%B9%E5%8D%96%EF%BC%8C%E5%A4%A7%E5%8F%91%E7%89%B9%E5%8F%91%EF%BC%81)
 ##### Other Words/Names of Interest in the Above Tweet
-[AMD](AMD.md), [mac](mac.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [超过](超过.md)
+[AMD](AMD.md), [mac](mac.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [炒](炒.md), [超过](超过.md)
 ___
 ##### 2026-07-05 10:08:31 UTC ~ Xudong Han
 > RT @Xudong07452910: 可解释 AI 研究了这么多年，很多工作都在尝试从神经网络的权重、激活和中间表示里，反推出模型到底「在想什么」。但这篇论文，提出了一个很有意思的视角：如果一群 LLM Agent 的决策、协作、冲突和反思，本身就是用自然语言发生的，…

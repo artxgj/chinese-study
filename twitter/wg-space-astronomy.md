@@ -25,6 +25,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [空间站](hanzi-cards/空间站.md) | space station |
 | [不明飞行物](hanzi-cards/不明飞行物.md) | UFO |
 | [嫦娥](hanzi-cards/嫦娥.md) | Chang'e - series of lunar spacecraft; [mythology] the lady on the moon |
+| [鹊桥](hanzi-cards/鹊桥.md)/[鵲橋](hanzi-cards/鵲橋.md) | quèqiáo - relay satellites named after the Magpies bridge; [mythology] legend of 七夕 (Qixi) |
 | [神舟](hanzi-cards/神舟.md) | Shenzhou (Chinese spacecraft name) |
 | [望远镜](hanzi-cards/望远镜.md) | telescope |
 | [公转](hanzi-cards/公转.md) | revolve; orbital revolution |

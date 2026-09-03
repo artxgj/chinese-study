@@ -6,6 +6,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 ## 1. Civilization and Culture
 |  |  |
 | ----- | :---: |
+| [黄河](hanzi-cards/黄河.md)/[黃河](hanzi-cards/黃河.md) | Yellow River |
+| [长江](hanzi-cards/长江.md)/[長江](hanzi-cards/長江.md) | Yangtze River |
 | [三星堆](hanzi-cards/三星堆.md) | Sānxīngduī, an archaeological site and major Bronze Age culture in Guanghan, Sichuan, China. |
 | [二里头](hanzi-cards/二里头.md) | Èrlǐtou, Xia dynasty archaeological site at Yǎnshī in Luòyáng, Henan, China |
 | [甲骨文](hanzi-cards/甲骨文.md) | Oracle bones |
@@ -36,7 +38,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [天坛](hanzi-cards/天坛.md)/[天壇](hanzi-cards/天壇.md) | Temple of Heaven |
 | [琵琶](hanzi-cards/琵琶.md) | pipa (a plucked string instrument with a fretted fingeboard) |
 | [二胡](hanzi-cards/二胡.md) | erhu (Chinese 2-string fiddle) |
-| [古筝](hanzi-cards/古筝.md) | zither-like 21-stringed or 25-stringed plucked musical instrument |
+| [古筝](hanzi-cards/古筝.md)/[古箏](hanzi-cards/古箏.md) | zheng (a 21- or 25-stringed plucked instrument somewhat similar to the zither) |
+| [古琴](hanzi-cards/古琴.md) | guqin (a seven-stringed plucked instrument similar to the zither)  |
 | [悟空](hanzi-cards/悟空.md) | Wu Kong, the Monkey King (Sun Wukong), from the novel Journey to the West. |
 | [两岸](hanzi-cards/两岸.md)/[兩岸](hanzi-cards/兩岸.md) | both sides of a strait; banks of river; cross-straits; bilateral |
 | [华裔](hanzi-cards/华裔.md)/[華裔](hanzi-cards/華裔.md) | ethnic Chinese; non-Chinese citizen of Chinese ancestry |

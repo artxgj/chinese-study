@@ -75,7 +75,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40WallStTV%3A+Kimi+K3%E5%8F%91%E5%B8%83%E5%90%8E%EF%BC%8C%E4%B8%80%E5%9C%BAAI%E8%B7%AF%E7%BA%BF%E4%B9%8B%E4%BA%89%E7%AA%81%E7%84%B6%E5%B8%AD%E5%8D%B7%E7%A1%85%E8%B0%B7%E3%80%82%E9%BB%84%E4%BB%81%E5%8B%8B%E5%85%AC%E5%BC%80%E5%8A%9B%E6%8C%BA%E5%BC%80%E6%94%BE%E6%9D%83%E9%87%8D%EF%BC%8C%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC%E8%AD%A6%E5%91%8A%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E8%A2%AB%E5%B0%91%E6%95%B0%E6%9C%BA%E6%9E%84%E5%9E%84%E6%96%AD%EF%BC%9BAnthropic%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E9%98%BF%E8%8E%AB%E8%BF%AA%E5%88%99%E7%82%B9%E5%90%8D%E4%B8%AD%E5%9B%BD%EF%BC%8C%E4%B8%BB%E5%BC%A0%E7%BB%A7%E7%BB%AD%E5%B0%81%E9%94%81%E9%AB%98%E7%AB%AF%E8%8A%AF%E7%89%87%E3%80%81%E6%89%93%E5%87%BB%E8%B5%B0%E7%A7%81%E5%92%8C%E5%B7%A5%E4%B8%9A%E5%8C%96%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%E3%80%82%E8%BF%99%E5%9C%BA%E4%BA%89%E8%AE%BA%E8%83%8C%E5%90%8E%E6%98%AF%E4%B8%89%E5%9C%BA%E6%88%98%E4%BA%89%EF%BC%9A%E8%B0%81%E6%8E%A7%E5%88%B6%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%99%BA%E8%83%BD%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Kimi](Kimi.md), [发布](发布.md), [垄断](垄断.md), [封锁](封锁.md), [打击](打击.md), [执行](执行.md), [控制](控制.md), [机构](机构.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [芯片](芯片.md), [蒸馏](蒸馏.md), [走私](走私.md), [首席执行官](首席执行官.md), [黄仁勋](黄仁勋.md)
+[Kimi](Kimi.md), [发布](发布.md), [垄断](垄断.md), [封锁](封锁.md), [打击](打击.md), [执行](执行.md), [控制](控制.md), [机构](机构.md), [模型](模型.md), [硅](硅.md), [硅谷](硅谷.md), [芯片](芯片.md), [蒸](蒸.md), [蒸馏](蒸馏.md), [走私](走私.md), [首席执行官](首席执行官.md), [黄仁勋](黄仁勋.md)
 ___
 ##### 2026-07-29 05:14:57 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 啊这？OpenAI、Anthropic、谷歌等公司的 1178 名员工，发布联名声明，呼吁美国政府牵头开展国际行动，让各国和各 AI 公司，能够同步放慢研发进度。他们认为，过快的 AI 发展，最终可能会远快于社会的适应速度，带来不可控。不过联名成…
@@ -124,7 +124,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40gelunding%3A+Kimi%E5%8F%91%E5%B8%83K3%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%88%9A%E5%88%9A%E5%BC%95%E5%8F%91%E4%BA%86%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1%E3%80%82%E5%91%A8%E5%9B%9B%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89AI%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%EF%BC%8C%E5%91%A8%E4%BA%94%EF%BC%8C%E4%BA%9A%E6%B4%B2AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E4%B9%9F%E9%81%AD%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%9B%E5%94%AE%E3%80%82Moonshot%E7%9A%84K3%E8%AE%A9%E6%8A%95%E8%B5%84%E8%80%85%E5%BC%80%E5%A7%8B%E8%B4%A8%E7%96%91%E4%B8%A4%E4%BB%B6%E4%BA%8B%EF%BC%9A%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%B2%BFAI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A6%82OpenAI%E5%92%8CAnthropic%E5%87%AD%E4%BB%80%E4%B9%88%E8%83%BD%E6%94%AF%E6%92%911%E4%B8%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Kimi](Kimi.md), [OpenAI](OpenAI.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
+[Kimi](Kimi.md), [OpenAI](OpenAI.md), [亚洲](亚洲.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
 ___
 ##### 2026-07-17 18:55:01 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国人工智能（AI）初创公司月之暗面发布新一代大模型Kimi K3，是全球目前规模最大的开源模型，据称性能已接近美国AI公司Anthropic的前沿模型Fable。 https://t.co/UHgPqoApWB https://t.co/4jfvR…
@@ -325,7 +325,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E7%BE%8EAnthropic%E7%A8%B13%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%B0%8D%E8%87%AA%E8%BA%AB%E6%A8%A1%E5%9E%8B%E9%80%B2%E8%A1%8C%E8%92%B8%E9%A4%BE%E3%80%91%E8%92%B8%E9%A4%BE%E6%98%AF%E5%88%A9%E7%94%A8%E6%9B%B4%E9%AB%98%E7%B4%9AAI%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%BC%B8%E5%87%BA%E6%95%B8%E6%93%9A%E4%BE%86%E8%A8%93%E7%B7%B4%E5%85%B6%E4%BB%96%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8A%80%E8%A1%93%E3%80%82Anthropic%E6%8C%87%E5%87%BA%E4%B8%AD%E5%9C%8B%E4%BC%81%E6%A5%ADDeepSeek%E3%80%81Moonshot+AI%E3%80%81MiniMax%E5%8F%AF%E8%83%BD%E5%90%88%E8%A8%88%E5%89%B5%E5%BB%BA%E4%BA%86%E7%B4%842.4%E8%90%AC%E5%80%8B%E5%95%8F%E9%A1%8C%E5%B8%B3%E6%88%B6%EF%BC%8C%E4%B8%A6%E8%88%87An%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [指出](指出.md), [數據](數據.md), [模型](模型.md), [輸出](輸出.md)
+[DeepSeek](DeepSeek.md), [指出](指出.md), [數據](數據.md), [模型](模型.md), [蒸](蒸.md), [輸出](輸出.md)
 ___
 ##### 2026-02-28 02:01:19 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 美国总统特朗普指示联邦机构“立即”停止使用人工智能（AI）初创公司Anthropic PBC的产品，这标志着这个美国AI巨头与五角大楼之间关于技术安全保障的争端白热化。 https://t.co/xDHhbVM6Su

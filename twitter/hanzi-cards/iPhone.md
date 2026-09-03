@@ -529,7 +529,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E5%91%A8%E4%BA%8C%E4%B8%8B%E8%B7%8C%EF%BC%8C%E6%8A%95%E8%B5%84%E8%80%85%E6%AD%A3%E8%AF%84%E4%BC%B0%E9%A2%84%E8%AE%A1%E5%B0%86%E4%BA%8E%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E7%9A%84%E5%8F%AF%E6%8A%98%E5%8F%A0iPhone%E8%83%BD%E5%90%A6%E9%A1%BA%E5%88%A9%E5%8F%91%E8%B4%A7%E3%80%82%E3%80%8A%E6%97%A5%E7%BB%8F%E4%BA%9A%E6%B4%B2%E3%80%8B%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E8%BF%99%E6%AC%BE%E6%96%B0%E6%9C%BA%E5%9E%8B%E7%9A%84%E9%A6%96%E6%89%B9%E5%87%BA%E8%B4%A7%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%BB%B6%E8%BF%9F%E8%87%B3%E5%A4%9A%E6%95%B0%E6%9C%88%E3%80%82%E5%BD%AD%E5%8D%9A%E5%88%99%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E5%8F%AF%E6%8A%98%E5%8F%A0iPhone%E4%BB%8D%E6%9C%89%E6%9C%9B%E5%9C%A8%E7%A7%8B%E5%AD%A3%E5%8F%91%E5%B8%83%E3%80%82https%3A%2F%2Ft.co%2Frz0LhUnco1)
 ##### Other Words/Names of Interest in the Above Tweet
-[发布](发布.md), [延迟](延迟.md), [投资](投资.md), [有望](有望.md), [苹果](苹果.md), [评估](评估.md), [跌](跌.md), [预计](预计.md), [首批](首批.md)
+[亚洲](亚洲.md), [发布](发布.md), [延迟](延迟.md), [投资](投资.md), [有望](有望.md), [苹果](苹果.md), [评估](评估.md), [跌](跌.md), [预计](预计.md), [首批](首批.md)
 ___
 ##### 2026-04-01 07:54:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 数据显示，在iPhone于去年年底推出后，华为在中国的智能手机出货量下降2%，但仍保持市场第一的位置。#南洋商报 #华为 #huawei #手机https://t.co/XSvUwVUgnm https://t.co/sKUKmsaBfR
@@ -1094,7 +1094,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E7%A7%B0%EF%BC%8C%E5%A6%82%E6%9E%9C%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E4%B8%9A%E4%B8%8D%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BB%BA%E5%8E%82%EF%BC%8C%E5%B0%86%E5%AF%B9%E5%85%B6%E5%BE%81%E6%94%B6%E9%AB%98%E9%A2%9D%E5%85%B3%E7%A8%8E%EF%BC%8C%E6%8A%95%E8%B5%84%E8%80%85%E5%8F%AF%E8%83%BD%E4%BC%9A%E5%B0%86%E8%BF%99%E7%95%AA%E6%9C%80%E6%96%B0%E8%A8%80%E8%AE%BA%E8%A7%86%E4%B8%BA%E2%80%9CTACO%E2%80%9D%E4%BA%A4%E6%98%93%E7%9A%84%E5%8F%88%E4%B8%80%E4%BD%93%E7%8E%B0%E3%80%82%E6%9C%89%E5%88%86%E6%9E%90%E5%B8%88%E6%8C%87%E5%87%BA%EF%BC%8C%E2%80%9C%E8%80%83%E8%99%91%E5%88%B0%E4%B8%8E%E4%BA%9A%E6%B4%B2%2F%E5%8D%B0%E5%BA%A6%E7%9A%84%E6%88%90%E6%9C%AC%E7%BB%93%E6%9E%84%E5%AF%B9%E6%AF%94%EF%BC%8C%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%9F%E4%BA%A7iPhone%E6%98%AF%E4%B8%8D%E7%8E%B0%E5%AE%9E%E7%9A%84%EF%BC%8C%E5%9C%A8%E6%88%91%E4%BB%AC%E7%9C%8B%E6%9D%A5%E8%BF%99%E4%BB%8D%E7%84%B6%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%96%B9%E5%A4%9C%E8%B0%AD%E3%80%82%E2%80%9Dhtt%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[交易](交易.md), [关税](关税.md), [分析](分析.md), [分析师](分析师.md), [半导体](半导体.md), [印度](印度.md), [威胁](威胁.md), [成本](成本.md), [投资](投资.md), [指出](指出.md), [特朗普](特朗普.md), [生产](生产.md), [税](税.md), [美国](美国.md), [考虑](考虑.md), [行业](行业.md)
+[亚洲](亚洲.md), [交易](交易.md), [关税](关税.md), [分析](分析.md), [分析师](分析师.md), [半导体](半导体.md), [印度](印度.md), [威胁](威胁.md), [成本](成本.md), [投资](投资.md), [指出](指出.md), [特朗普](特朗普.md), [生产](生产.md), [税](税.md), [美国](美国.md), [考虑](考虑.md), [行业](行业.md)
 ___
 ##### 2025-08-07 05:37:03 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 这对苹果和其他担心新贸易挑战的科技公司而言是巨大的胜利。苹果宣布了一项新的1,000亿美元投资承诺，但并未如特朗普所愿将iPhone生产线迁至美国。特朗普表示，此举是“朝着确保在美国销售的iPhone也在美国造的这一最终目标迈出的重要一步”。…

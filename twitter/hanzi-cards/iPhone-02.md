@@ -195,7 +195,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E8%82%A1%E9%97%BB%E5%A4%A9%E4%B8%8B+%E4%B8%93%E6%A0%8F%E8%AE%B0%E8%80%85Megha+Mandavia%E5%86%99%E9%81%93%EF%BC%8C%E5%8D%B0%E5%BA%A6%E6%AD%A3%E5%9C%A8%E6%88%90%E4%B8%BA%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%9C%A8%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E9%99%A4%E4%B8%AD%E5%9B%BD%E4%BB%A5%E5%A4%96%E7%9A%84%E9%87%8D%E7%82%B9%E6%8A%BC%E6%B3%A8%E5%AF%B9%E8%B1%A1%E3%80%82%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E5%B7%B2%E5%BC%80%E5%A7%8B%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7iPhone+13%E3%80%82%E4%BD%86%E5%8D%B0%E5%BA%A6%E8%A6%81%E6%83%B3%E5%9C%A8%E8%BF%99%E5%9D%97%E5%88%B6%E9%80%A0%E4%B8%9A%E9%A2%86%E5%9F%9F%E6%8A%A2%E5%8D%A0%E5%88%B0%E8%BE%83%E5%A4%A7%E7%9A%84%E4%BB%BD%E9%A2%9D%EF%BC%8C%E5%B0%B1%E9%9C%80%E8%A6%81%E6%89%93%E9%80%A0%E5%87%BA%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%86%85%E5%B8%82%E5%9C%BA%E3%80%81%E6%8E%A8%E5%87%BA%E5%88%A9%E5%A5%BD%E5%87%BA%E5%8F%A3%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[份额](份额.md), [制造业](制造业.md), [印度](印度.md), [打造](打造.md), [抢占](抢占.md), [押注](押注.md), [推出](推出.md), [生产](生产.md), [苹果](苹果.md), [领域](领域.md)
+[亚洲](亚洲.md), [份额](份额.md), [制造业](制造业.md), [印度](印度.md), [打造](打造.md), [抢占](抢占.md), [押注](押注.md), [推出](推出.md), [生产](生产.md), [苹果](苹果.md), [领域](领域.md)
 ___
 ##### 2022-03-22 18:25:34 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 苹果iPhone最大组装企业富士康科技集团表示，在深圳结束对全市1,700万居民的新冠病毒检测后，该公司在深圳的工厂周一恢复满负荷运营。有迹象表明，公众不满情绪在升温。在豆瓣上，用户在古诗词和外国经典小说中插入“核酸检测”和“健康码”等关键词，…
@@ -587,7 +587,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%A4%9A%E5%B1%82%E9%99%B6%E7%93%B7%E7%94%B5%E5%AE%B9%E5%99%A8%28MLCC%29%E6%98%AF%E6%89%80%E6%9C%89iPhone%E3%80%81PlayStation%E6%B8%B8%E6%88%8F%E6%9C%BA%E6%88%96%E9%AB%98%E7%BA%A7%E6%B1%BD%E8%BD%A6%E9%83%BD%E5%BF%85%E4%B8%8D%E5%8F%AF%E5%B0%91%E7%9A%84%E9%87%8D%E8%A6%81%E5%85%83%E4%BB%B6%EF%BC%8C%E8%A2%AB%E7%A7%B0%E4%B8%BA%E7%94%B5%E5%AD%90%E8%A1%8C%E4%B8%9A%E7%9A%84%E2%80%9C%E5%A4%A7%E7%B1%B3%E2%80%9D%E3%80%82%E5%8F%97%E7%96%AB%E6%83%85%E5%BD%B1%E5%93%8D%EF%BC%8C%E4%BA%9A%E6%B4%B2%E4%B8%80%E5%AE%B6MLCC%E4%B8%BB%E8%A6%81%E4%BE%9B%E5%BA%94%E5%95%86%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E4%B8%80%E5%AE%B6%E5%B7%A5%E5%8E%82%EF%BC%8C%E5%8F%A6%E4%B8%80%E5%AE%B6%E5%88%99%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E4%BA%A7%E8%83%BD%E3%80%82https%3A%2F%2Ft.co%2FhHWkT%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[大米](大米.md), [影响](影响.md), [暂停](暂停.md), [电容](电容.md), [电容器](电容器.md), [疫情](疫情.md), [行业](行业.md), [陶瓷](陶瓷.md)
+[亚洲](亚洲.md), [大米](大米.md), [影响](影响.md), [暂停](暂停.md), [电容](电容.md), [电容器](电容器.md), [疫情](疫情.md), [行业](行业.md), [陶瓷](陶瓷.md)
 ___
 ##### 2021-08-08 01:41:48 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 美国苹果公司5日宣布，计划在美国出售的iPhone手机安装软件，以监测是否存在涉及儿童的色情照片，有需要时会通知政府。 https://t.co/BCDfsuo7v2 https://t.co/gz6P9PoTvN

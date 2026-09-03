@@ -88,6 +88,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [紅嘴鷗](hanzi-cards/紅嘴鷗.md) | hóng zuǐ ōu 🦉 Black-headed Gull 🦉 Chroicocephalus ridibundus |
 | [环嘴鸥](hanzi-cards/环嘴鸥.md) | huán zuǐ ōu 🦉 Ring-billed Gull 🦉 Larus delawarensis |
 | [中华凤头燕鸥](hanzi-cards/中华凤头燕鸥.md) | zhōng huá fèng tóu yàn ōu 🦉 Chinese Crested Tern 🦉 Thalasseus bernsteini |
+| [喉蜂虎](hanzi-cards/喉蜂虎.md) | lán hóu fēng hǔ 🦉 Blue-throated Bee-eater 🦉 Merops viridis |
 | [灰鹡鸰](hanzi-cards/灰鹡鸰.md) | huī jí líng 🦉 Grey Wagtail 🦉 Motacilla cinerea |
 | [海南藍仙鶲](hanzi-cards/海南藍仙鶲.md) | hǎi nán lán xiān wēng 🦉 Hainan Blue Flycatcher 🦉 Cyornis hainanus |
 | [紅尾水鴝](hanzi-cards/紅尾水鴝.md) | hóng wěi shuǐ qú 🦉 Plumbeous Water Redstart 🦉 Phoenicurus fuliginosus |

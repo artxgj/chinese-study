@@ -297,7 +297,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40op7418%3A+%E6%98%A8%E5%A4%A9+Manus+%E7%9A%84%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B9%8B%E4%B8%80+Peak+%E5%AD%A3%E9%80%B8%E8%B6%85%E9%80%8F%E9%9C%B2+Manus+%E4%B8%BB%E8%A6%81%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%98%AF+Cluade+%E5%92%8C%E4%BB%96%E4%BB%AC%E5%BE%AE%E8%B0%83%E7%9A%84+Qwen+%E6%A8%A1%E5%9E%8B%E3%80%82%E6%9C%80%E8%BF%91%E5%87%BA%E5%9C%88%E7%9A%84%E5%87%A0%E4%B8%AA+AI+%E6%A8%A1%E5%9E%8B%E5%92%8C%E4%BA%A7%E5%93%81%E8%83%8C%E5%90%8E%E9%83%BD%E6%9C%89+Qwen+%E7%9A%84%E5%BD%B1%E5%AD%90%EF%BC%9A%E6%AF%94%E5%A6%82+Deepseek+R1+%E8%87%AA%E5%B7%B1%E7%94%A8%E6%9D%A5%E5%AE%9E%E9%AA%8C%E6%8E%A8%E7%90%86%E8%92%B8%E9%A6%8F%E7%9A%84%E4%B8%BB%E8%A6%81%E6%A8%A1%E5%9E%8B%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Manus](Manus.md), [推理](推理.md), [模型](模型.md), [蒸馏](蒸馏.md), [透露](透露.md)
+[Manus](Manus.md), [推理](推理.md), [模型](模型.md), [蒸](蒸.md), [蒸馏](蒸馏.md), [透露](透露.md)
 ___
 ##### 2025-03-06 06:37:07 UTC ~ karminski-牙医
 > RT @karminski3: Qwen-QwQ-32B 发布了哈！官方测试数据跟 DeepSeek-R1 不相上下。那么究竟性能如何？我已经正在测试了！稍后放出 BF16，8bit量化，4bit量化的测试结果，敬请期待！目前来看，如果4bit量化效果好，那么妥妥是单机…

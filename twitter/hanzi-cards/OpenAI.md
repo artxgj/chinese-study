@@ -222,7 +222,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40gelunding%3A+Kimi%E5%8F%91%E5%B8%83K3%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%88%9A%E5%88%9A%E5%BC%95%E5%8F%91%E4%BA%86%E5%85%A8%E7%90%83%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1%E3%80%82%E5%91%A8%E5%9B%9B%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89AI%E6%A6%82%E5%BF%B5%E8%82%A1%E9%9B%86%E4%BD%93%E6%9A%B4%E8%B7%8C%EF%BC%8C%E5%91%A8%E4%BA%94%EF%BC%8C%E4%BA%9A%E6%B4%B2AI%E7%9B%B8%E5%85%B3%E8%82%A1%E7%A5%A8%E4%B9%9F%E9%81%AD%E5%88%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%9B%E5%94%AE%E3%80%82Moonshot%E7%9A%84K3%E8%AE%A9%E6%8A%95%E8%B5%84%E8%80%85%E5%BC%80%E5%A7%8B%E8%B4%A8%E7%96%91%E4%B8%A4%E4%BB%B6%E4%BA%8B%EF%BC%9A%E7%AC%AC%E4%B8%80%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%B2%BFAI%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A6%82OpenAI%E5%92%8CAnthropic%E5%87%AD%E4%BB%80%E4%B9%88%E8%83%BD%E6%94%AF%E6%92%911%E4%B8%87%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[Anthropic](Anthropic.md), [Kimi](Kimi.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
+[Anthropic](Anthropic.md), [Kimi](Kimi.md), [亚洲](亚洲.md), [发布](发布.md), [引发](引发.md), [投资](投资.md), [抛售](抛售.md), [模型](模型.md), [相关](相关.md), [美国](美国.md), [规模](规模.md), [质疑](质疑.md), [跌](跌.md), [震荡](震荡.md)
 ___
 ##### 2026-07-13 10:07:58 UTC ~ TechNews 科技新報
 > RT @technews_tw: 蘋果告 OpenAI 挖角竊密！指控透過離職員工取得機密，甚至把面試當蒐集資訊管道。 #蘋果 #OpenAI #商業機密 https://t.co/isqy7pEQhR
@@ -460,7 +460,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%AD%E5%9B%BD%E7%89%B9%E8%AE%BE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A3%B0%E6%98%8E%E4%B8%AD%E8%A1%A8%E7%A4%BA%EF%BC%9A%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%92%B8%E9%A6%8F%E5%B9%B6%E5%88%A9%E7%94%A8%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%A8%A1%E5%9E%8B%E4%B8%BA%E8%87%AA%E8%BA%AB%E8%B0%8B%E5%88%A9%EF%BC%8C%E5%B0%B1%E5%83%8F%E4%BB%96%E4%BB%AC%E5%BD%93%E5%88%9D%E6%8A%84%E8%A2%ADOpenAI%E6%89%93%E9%80%A0DeepSeek%E4%B8%80%E6%A0%B7%E3%80%82%E2%80%9D%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23OpenAI+%23%E5%A4%8D%E5%88%B6+%23%E8%92%B8%E9%A6%8Fhttps%3A%2F%2Ft.co%2FRoW%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [人工智能](人工智能.md), [众议院](众议院.md), [委员会](委员会.md), [打造](打造.md), [模型](模型.md), [美国](美国.md), [蒸馏](蒸馏.md)
+[DeepSeek](DeepSeek.md), [人工智能](人工智能.md), [众议院](众议院.md), [委员会](委员会.md), [打造](打造.md), [模型](模型.md), [美国](美国.md), [蒸](蒸.md), [蒸馏](蒸馏.md)
 ___
 ##### 2026-02-13 02:53:57 UTC ~ 日经中文网/日經中文網
 > RT @rijingzhongwen: 【孫正義對Open AI的豪賭迎來關鍵考驗】軟銀集團2025年4～12月凈利潤增至同期的5倍，其中來自OpenAI的投資收益貢獻巨大。OpenAI正向軟銀集團等投資方尋求鉅額追加注資。孫正義對OpenAI情有獨鍾，但AI開發競爭正日趨激烈…
@@ -1090,7 +1090,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+DeepSeek%E7%9A%84%E5%B4%9B%E8%B5%B7%E3%80%81%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%92%B8%E5%8F%91%E7%9A%84%E5%B8%82%E5%80%BC%E3%80%81%E5%AF%B9OpenAI%E7%9A%84%E9%87%8D%E5%A4%A7%E6%8A%BC%E6%B3%A8%E2%80%A6%E2%80%A6%E6%9C%AC%E6%96%87%E5%9B%9E%E9%A1%BE%E4%BA%86%E5%9C%A8AI%E9%A2%86%E5%9F%9F%E7%9A%84%E7%96%AF%E7%8B%82%E4%B8%80%E5%91%A8%E4%B8%AD%E5%8F%91%E7%94%9F%E7%9A%84%E4%BA%8B%E4%BB%B6%EF%BC%8C%E5%B9%B6%E4%BB%8E%E5%85%AD%E4%B8%AA%E8%A6%81%E7%82%B9%E5%88%87%E5%85%A5%E4%BB%A5%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3%E8%BF%99%E4%B8%80%E9%A2%86%E5%9F%9F%E7%9A%84%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E3%80%82https%3A%2F%2Ft.co%2FVuLb8tGdnE)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [崛起](崛起.md), [市值](市值.md), [押注](押注.md), [疯狂](疯狂.md), [英伟达](英伟达.md), [趋势](趋势.md), [领域](领域.md)
+[DeepSeek](DeepSeek.md), [崛起](崛起.md), [市值](市值.md), [押注](押注.md), [疯狂](疯狂.md), [英伟达](英伟达.md), [蒸](蒸.md), [趋势](趋势.md), [领域](领域.md)
 ___
 ##### 2025-02-03 01:59:39 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 人工智能巨头OpenAI推出一款名为“深度研究”（Deep Research）的新AI工具，可以在互联网上针对复杂任务进行多步骤研究。 https://t.co/qlJw35wMzW
@@ -1167,7 +1167,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+OpenAI%E6%AD%A3%E5%9C%A8%E5%AE%A1%E6%9F%A5DeepSeek%E4%BD%BF%E7%94%A8%E2%80%9C%E8%92%B8%E9%A6%8F%E2%80%9D%E6%8A%80%E6%9C%AF%E4%BB%8EOpenAI%E7%9A%84%E5%B7%A5%E5%85%B7%E4%B8%AD%E6%8F%90%E5%8F%96%E5%A4%A7%E9%87%8F%E6%95%B0%E6%8D%AE%E4%BB%A5%E5%B8%AE%E5%8A%A9%E5%BC%80%E5%8F%91%E5%85%B6%E6%8A%80%E6%9C%AF%E7%9A%84%E8%BF%B9%E8%B1%A1%E3%80%82%E6%AD%A4%E5%89%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84AI%E6%B2%99%E7%9A%87%E6%88%B4%E7%BB%B4%C2%B7%E8%90%A8%E5%85%8B%E6%96%AF%E6%98%8E%E7%A1%AE%E6%8C%87%E7%A7%B0DeepSeek%E9%80%9A%E8%BF%87%E5%AF%B9OpenAI%E6%A8%A1%E5%9E%8B%E8%BF%9B%E8%A1%8C%E8%92%B8%E9%A6%8F%E6%9D%A5%E6%9E%84%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E6%A8%A1%E5%9E%8B%E3%80%82https%3A%2F%2Ft.co%2Fz%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [审查](审查.md), [工具](工具.md), [开发](开发.md), [技术](技术.md), [数据](数据.md), [明确](明确.md), [模型](模型.md), [特朗普](特朗普.md), [萨克斯](萨克斯.md), [蒸馏](蒸馏.md), [进行](进行.md)
+[DeepSeek](DeepSeek.md), [审查](审查.md), [工具](工具.md), [开发](开发.md), [技术](技术.md), [数据](数据.md), [明确](明确.md), [模型](模型.md), [特朗普](特朗普.md), [萨克斯](萨克斯.md), [蒸](蒸.md), [蒸馏](蒸馏.md), [进行](进行.md)
 ___
 ##### 2025-01-30 04:36:48 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 软银集团正在商谈向OpenAI投资最高达250亿美元的计划，此举可能使软银成为这家人工智能初创公司最大的支持者。 https://t.co/Si6zO1iXt6

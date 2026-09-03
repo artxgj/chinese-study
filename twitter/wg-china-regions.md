@@ -58,6 +58,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [漳州](hanzi-cards/漳州.md) | Chiang-chiu (Zhangzhou in Mandarin) |
 | [潮州](hanzi-cards/潮州.md) | Teochew/Chaozhou |
 | [深圳](hanzi-cards/深圳.md) | Shenzhen |
+| [广州](hanzi-cards/广州.md)/[廣州](hanzi-cards/廣州.md) | Guangzhou |
 | [桂林](hanzi-cards/桂林.md) | Guilin |
 | [杭州](hanzi-cards/杭州.md) | Hangzhou |
 | [苏州](hanzi-cards/苏州.md)/[蘇州](hanzi-cards/蘇州.md) | Suzhou |
@@ -74,6 +75,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [敦煌](hanzi-cards/敦煌.md) | Dunhuang |
 | [西安](hanzi-cards/西安.md) | Xi'an |
 | [成都](hanzi-cards/成都.md) | Chengdu |
+| [扬州](hanzi-cards/扬州.md)/[揚州](hanzi-cards/揚州.md) | Yangzhou |
 ## 6. General
 |  |  |
 | ----- | :---: |
@@ -85,6 +87,8 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [港珠澳](hanzi-cards/港珠澳.md) | Hong Kong-Zhuhai-Macau Bridge |
 | [广深港](hanzi-cards/广深港.md)/[廣深港](hanzi-cards/廣深港.md) | Guangzhou-Shenzhen-Hong Kong |
 | [珠三角](hanzi-cards/珠三角.md) | Pearl River Delta |
+| [潮汕](hanzi-cards/潮汕.md) | Cháoshàn, region in NE Guangdong, short for 潮州 and 汕頭/汕头 |
 | [京津冀](hanzi-cards/京津冀.md) | Beijing-Tianjin-Hebei |
 | [长三角](hanzi-cards/长三角.md)/[長三角](hanzi-cards/長三角.md) | Yangtze River Delta |
 | [塔克拉瑪干沙漠](hanzi-cards/塔克拉瑪干沙漠.md) | Taklamakan Desert |
+| [江南](hanzi-cards/江南.md) | Jiangnan; south of the river |

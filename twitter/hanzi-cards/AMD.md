@@ -145,7 +145,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E7%82%92%E8%82%A1%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%B7%B1%E5%BA%A6%E5%85%B3%E6%B3%A8%E4%B8%8BAMD%E4%BA%86%EF%BC%8C%E5%9C%A8vLLM%E7%AD%89%E6%8A%80%E6%9C%AF%E7%BB%84%E7%BB%87%E7%9A%84%E4%B8%8D%E6%87%88%E5%8A%AA%E5%8A%9B%E4%B8%8B%EF%BC%8C%E7%9B%AE%E5%89%8D355X%E7%9A%84%E6%8E%A8%E7%90%86%E6%80%A7%E8%83%BD%E5%B7%B2%E7%BB%8F%E8%B6%85%E8%BF%87B300%EF%BC%8C%E8%99%BD%E7%84%B6%E8%AE%AD%E7%BB%83%E4%B8%A5%E9%87%8D%E4%BE%9D%E8%B5%96CUDA%EF%BC%8C%E4%BD%86%E6%8E%A8%E7%90%86%E7%9A%84%E5%B8%82%E5%9C%BA%E5%9C%A82026%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BC%9A%E5%A4%B1%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8CAMD%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%8D%96%E7%89%B9%E5%8D%96%EF%BC%8C%E5%A4%A7%E5%8F%91%E7%89%B9%E5%8F%91%EF%BC%81)
 ##### Other Words/Names of Interest in the Above Tweet
-[LLM](LLM.md), [mac](mac.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [超过](超过.md)
+[LLM](LLM.md), [mac](mac.md), [严重](严重.md), [依赖](依赖.md), [关注](关注.md), [增长](增长.md), [技术](技术.md), [推理](推理.md), [炒](炒.md), [超过](超过.md)
 ___
 ##### 2026-07-07 01:24:07 UTC ~ 拖拉机
 > RT @tuolaji2024: 高盛：预计韩国KOSPI指数未来12个月将达到12000点高盛：闪迪目标价从1200美元大幅上调至2200美元。高盛：AMD目标价从450美元上调至640美元。 高盛：高通目标价从145美元上调至180美元。高盛：明确把2027年预测上…
@@ -439,7 +439,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%23%E5%AE%9E%E6%97%B6%E6%9B%B4%E6%96%B0+%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E+%E4%BA%9A%E6%B4%B2%E8%82%A1%E5%B8%82%E4%B8%8A%E6%B6%A8%EF%BC%8C%E7%BE%8E%E6%97%A5%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E5%90%AF%E5%8A%A8%EF%BC%9B%E7%BE%8E%E5%9B%BD%E8%AF%81%E5%AE%9E%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%92%8CAMD%E8%8A%AF%E7%89%87%E9%87%87%E5%8F%96%E6%96%B0%E7%9A%84%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%EF%BC%9BAMD%E8%AD%A6%E5%91%8A%E7%A7%B0%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E5%B0%86%E5%AF%BC%E8%87%B4%E5%85%B6%E6%8D%9F%E5%A4%B18%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%9B%E9%98%BF%E6%96%AF%E9%BA%A6%E4%BB%A5%E5%AE%9E%E4%BE%8B%E6%8F%AD%E7%A4%BA%E5%85%B3%E7%A8%8E%E7%9A%84%E9%9A%90%E5%BD%A2%E6%88%90%E6%9C%AC%EF%BC%9B%E5%8A%A0%E5%B7%9E%E5%B0%B1%E5%85%B3%E7%A8%8E%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%EF%BC%9B%E5%9F%BA%E9%87%91%E7%BB%8F%E7%90%86%E4%B8%BA%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E2%80%9C%E7%A1%AC%E7%9D%80%E9%99%86%E2%80%9D%E5%81%9A%E5%87%86%E5%A4%87%E3%80%82h%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [涨](涨.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [金](金.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
+[亚洲](亚洲.md), [关税](关税.md), [加州](加州.md), [启动](启动.md), [基金](基金.md), [导致](导致.md), [成本](成本.md), [损失](损失.md), [揭示](揭示.md), [涨](涨.md), [特朗普](特朗普.md), [税](税.md), [美国](美国.md), [芯片](芯片.md), [英伟达](英伟达.md), [证实](证实.md), [谈判](谈判.md), [贸易](贸易.md), [起诉](起诉.md), [采取](采取.md), [金](金.md), [阿斯麦](阿斯麦.md), [限制](限制.md), [麦](麦.md)
 ___
 ##### 2025-04-12 19:52:55 UTC ~ ruanyf
 > RT @ruanyf: 看到一篇分析，本次关税事件，美国受伤最重的科技公司是Intel。中国是它的最大市场，去年占销售29%，比美国本土还大（占25%），它的芯片全部美国制造。Intel已经很困难了，去年亏了188亿美元，现在完全没了翻身希望。最大收益者将是AMD。…
@@ -556,7 +556,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%82%A1%E6%80%A5%E7%85%9E%E8%BB%8A%EF%BC%8C%E5%B8%82%E5%A0%B4%E8%AD%A6%E6%83%95%E7%BE%8E%E5%8A%A0%E5%BC%B7%E5%B0%8D%E8%8F%AF%E9%99%90%E5%88%B6%E3%80%91%E5%9C%A87%E6%9C%8817%E6%97%A5%E7%9A%84%E7%BE%8E%E5%9C%8B%E8%82%A1%E5%B8%82%E4%B8%8A%EF%BC%8C%E8%8B%B1%E5%81%89%E9%81%94%E7%9A%84%E8%82%A1%E5%83%B9%E4%B8%8B%E8%B7%8C7%25%EF%BC%8CAMD%E7%9A%84%E8%B7%8C%E5%B9%85%E8%B6%85%E9%81%8E10%25%E3%80%82%E6%97%A5%E6%9C%ACTokyo+Electron%E7%9A%84%E7%B8%BD%E5%B8%82%E5%80%BC2%E5%A4%A9%E5%85%A7%E8%92%B8%E7%99%BC2.6%E8%90%AC%E5%84%84%E6%97%A5%E5%85%83%E3%80%82%E5%8E%9F%E5%9B%A0%E6%98%AF%E5%82%B3%E5%87%BA%E7%BE%8E%E5%9C%8B%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%B7%B2%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E5%92%8C%E8%8D%B7%E8%98%AD%E5%8A%A0%E5%BC%B7%E5%8D%8A%E5%B0%8E%E9%AB%94%E8%A3%BD%E9%80%A0%E8%A8%AD%E5%82%99%E7%9A%84%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
-[半導體](半導體.md), [市值](市值.md), [日本](日本.md), [美國](美國.md), [英偉達](英偉達.md), [跌](跌.md), [限制](限制.md)
+[半導體](半導體.md), [市值](市值.md), [日本](日本.md), [美國](美國.md), [英偉達](英偉達.md), [蒸](蒸.md), [跌](跌.md), [限制](限制.md)
 ___
 ##### 2024-06-12 18:59:34 UTC ~ 总裁简报 CEO Briefing
 > RT @CEOBriefing: 黄仁勋谈苏姿丰：我们很不一样，但我敬佩她。黄仁勋和苏姿丰，都出生在台南，目前分别领导英伟达(NVDA)和超威半导体(AMD)，这两个世界顶级AI巨头。他们既是亲戚，又是竞争对手。黄仁勋在6月8日离开台湾之际，回应了之前关于“Country”的言…

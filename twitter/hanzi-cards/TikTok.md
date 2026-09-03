@@ -650,7 +650,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E7%9F%AD%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%91%BD%E8%BF%90%E6%82%AC%E8%80%8C%E6%9C%AA%E5%86%B3%E4%B9%8B%E9%99%85%EF%BC%8C%E8%BF%99%E5%AE%B6%E8%B7%A8%E5%9B%BD%E5%85%AC%E5%8F%B8%E4%BC%A0%E5%87%BA%E5%9C%A8%E8%A3%81%E5%87%8F%E4%BA%9A%E6%B4%B2%E3%80%81%E6%AC%A7%E6%B4%B2%E3%80%81%E4%B8%AD%E4%B8%9C%E5%92%8C%E9%9D%9E%E6%B4%B2%EF%BC%8C%E8%B4%9F%E8%B4%A3%E5%86%85%E5%AE%B9%E5%AE%A1%E6%A0%B8%E7%9A%84%E4%BF%A1%E4%BB%BB%E5%92%8C%E5%AE%89%E5%85%A8%E9%83%A8%E9%97%A8%E7%9A%84%E5%91%98%E5%B7%A5%E3%80%82%E6%8D%AE%E4%BA%86%E8%A7%A3%EF%BC%8C%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%9C%89%E6%95%B0%E5%8D%81%E4%BA%BA%E5%8F%97%E5%BD%B1%E5%93%8D%E3%80%82+https%3A%2F%2Ft.co%2F0U7E7lRpPu)
 ##### Other Words/Names of Interest in the Above Tweet
-[中东](中东.md), [命运](命运.md), [平台](平台.md), [影响](影响.md), [新加坡](新加坡.md), [美国](美国.md), [跨国](跨国.md), [非洲](非洲.md)
+[中东](中东.md), [亚洲](亚洲.md), [命运](命运.md), [平台](平台.md), [影响](影响.md), [新加坡](新加坡.md), [美国](美国.md), [跨国](跨国.md), [非洲](非洲.md)
 ___
 ##### 2025-02-20 16:58:27 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 消息人士透露，中国短视频应用TikTok正在全球范围裁减信任和安全部门的员工。 https://t.co/KZuc8heDXj
@@ -1952,7 +1952,7 @@ ___
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%9B%A0%E6%8B%85%E5%BF%83%E8%A7%86%E9%A2%91%E5%B9%B3%E5%8F%B0TikTok%E2%80%9C%E6%89%B0%E4%B9%B1%E7%A4%BE%E4%BC%9A%E5%92%8C%E8%B0%90%E2%80%9D%E8%80%8C%E5%B0%86%E5%85%B6%E7%A6%81%E7%94%A8%EF%BC%9B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%B7%B2%E9%83%A8%E5%88%86%E6%88%96%E5%AE%8C%E5%85%A8%E7%A6%81%E6%AD%A2%E4%BA%86%E8%BF%99%E6%AC%BE%E7%94%B1%E4%B8%AD%E5%9B%BD%E6%89%80%E6%9C%89%E7%9A%84%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E3%80%82https%3A%2F%2Ft.co%2FE6h0VdxknC+https%3A%2F%2Ft.co%2FE6h0VdxknC)
 ##### Other Words/Names of Interest in the Above Tweet
-[平台](平台.md), [担心](担心.md), [禁止](禁止.md), [程序](程序.md), [越来越](越来越.md)
+[尼泊尔](尼泊尔.md), [平台](平台.md), [担心](担心.md), [禁止](禁止.md), [程序](程序.md), [越来越](越来越.md)
 ___
 ##### 2023-11-10 02:35:17 UTC ~ 南洋商报eNanyang
 > RT @nanyangpress: 欧盟9日宣布，对分别由美国和中国企业拥有的热门影音分享平台优管和TikTok展开调查，以了解两平台目前采取哪些行动来确保未成年使用者的安全。https://t.co/8eRcp4QX6j https://t.co/99oEa6Ji9p
