@@ -53,6 +53,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [录取通知书](hanzi-cards/录取通知书.md)/[錄取通知書](hanzi-cards/錄取通知書.md) | admission notice (issued by a university |
 | [华夏](hanzi-cards/华夏.md)/[華夏](hanzi-cards/華夏.md) | old name for China |
 | [神州](hanzi-cards/神州.md) | Divine Land (a poetic name for China) |
+| [中國故事](hanzi-cards/中國故事.md) | China Stories |
 ## 2. Festivals
 |  |  |
 | ----- | :---: |

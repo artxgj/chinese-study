@@ -27,6 +27,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [煎](hanzi-cards/煎.md) | fry; pan-fry |
 | [烤](hanzi-cards/烤.md) | roast; bake; broil; grill; toast; (pinyin: kǎo; poj: khóⁿ/khó |
 | [炖](hanzi-cards/炖.md)/[燉](hanzi-cards/燉.md) | to stew; to heat up; (pinyin: dùn; poj: tūn) |
+| [开水](hanzi-cards/开水.md)/[開水](hanzi-cards/開水.md) | boiling water/boiled water |
 ## Desserts
 |  |  |
 | ----- | :---: |
@@ -109,6 +110,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [小笼包](hanzi-cards/小笼包.md) | Xiaolongbao; soup dumplings |
 | [猪脚](hanzi-cards/猪脚.md) | pig's knuckle ad trotter |
 | [控肉飯](hanzi-cards/控肉飯.md) | Braised pork rice |
+| [蘑菇](hanzi-cards/蘑菇.md) | mushroom |
 ## Drinks
 |  |  |
 | ----- | :---: |

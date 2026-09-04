@@ -724,3 +724,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [彩虹](hanzi-cards/彩虹.md) | rainbow |
 | [马拉松](hanzi-cards/马拉松.md)/[馬拉松](hanzi-cards/馬拉松.md) | marathon |
 | [罽](hanzi-cards/罽.md) | felt; rug |
+| [孙子兵法](hanzi-cards/孙子兵法.md)/[孫子兵法](hanzi-cards/孫子兵法.md) | The Art of War |

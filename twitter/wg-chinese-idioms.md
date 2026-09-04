@@ -9,6 +9,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [龙马精神](hanzi-cards/龙马精神.md)/[龍馬精神](hanzi-cards/龍馬精神.md) | spirit of a dragon horse—vigorous spirit of the aged |
 | [马到成功](hanzi-cards/马到成功.md)/[馬到成功](hanzi-cards/馬到成功.md) | to win instant success  |
 | [万马奔腾](hanzi-cards/万马奔腾.md)/[萬馬奔騰](hanzi-cards/萬馬奔騰.md) | ten thousand horses galloping—going full steam ahead |
+| [塞翁失馬](hanzi-cards/塞翁失馬.md) | the old frontiersman losing his horse -- a blessing in disguise   |
 | [源源不断](hanzi-cards/源源不断.md) | a steady flow (idiom); an unending stream |
 | [有史以来](hanzi-cards/有史以来.md) | since the beginning (or dawn) of history; throughout history |
 | [脱胎换骨](hanzi-cards/脱胎换骨.md) | be reborn; cast off one's old self; thoroughly remould oneself |
@@ -38,3 +39,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [繁花似锦](hanzi-cards/繁花似锦.md) | flowers in full bloom |
 | [食不厭精，膾不厭細](hanzi-cards/食不厭精，膾不厭細.md) | to eat but finely ground grain and finely chopped meat; be particular about one's food |
 | [喋喋不休](hanzi-cards/喋喋不休.md) | chatter away; rattle on; talk endlessly |
+## Neologism
+|  |  |
+| ----- | :---: |
+| [火炎焱燚](hanzi-cards/火炎焱燚.md) | super hot or extremely popular / on fire |

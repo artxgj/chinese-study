@@ -15,6 +15,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 ## 2. Economy And Markets
 |  |  |
 | ----- | :---: |
+| [地缘政治](hanzi-cards/地缘政治.md) | geopolitics |
 | [央行](hanzi-cards/央行.md) | central bank |
 | [货币政策](hanzi-cards/货币政策.md) | monetary policy |
 | [利率](hanzi-cards/利率.md) | interest rate |

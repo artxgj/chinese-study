@@ -10,11 +10,16 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [仙女座](hanzi-cards/仙女座.md) | Andromeda |
 | [矮星](hanzi-cards/矮星.md) | dwarf star |
 | [彗星](hanzi-cards/彗星.md) | comet |
+| [流星](hanzi-cards/流星.md) | meteor |
 | [近日点](hanzi-cards/近日点.md) | perihelion |
 | [极光](hanzi-cards/极光.md)/[極光](hanzi-cards/極光.md) | aurora |
+| [水星](hanzi-cards/水星.md) | Mercury |
+| [金星](hanzi-cards/金星.md) | Venus |
 | [火星](hanzi-cards/火星.md) | Mars |
-| [土星](hanzi-cards/土星.md) | Saturn |
 | [木星](hanzi-cards/木星.md) | Jupiter |
+| [土星](hanzi-cards/土星.md) | Saturn |
+| [天王星](hanzi-cards/天王星.md) | Uranus |
+| [海王星](hanzi-cards/海王星.md) | Neptune |
 | [小行星](hanzi-cards/小行星.md) | asteroid |
 | [宇宙](hanzi-cards/宇宙.md) | universe; cosmos; space; void |
 | [银河](hanzi-cards/银河.md)/[銀河](hanzi-cards/銀河.md) | Milky Way |

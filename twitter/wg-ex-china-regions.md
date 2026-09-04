@@ -16,14 +16,16 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [泰国](hanzi-cards/泰国.md)/[泰國](hanzi-cards/泰國.md) | Thailand |
 | [老挝](hanzi-cards/老挝.md)/[老撾](hanzi-cards/老撾.md) | Laos |
 | [巴勒斯坦](hanzi-cards/巴勒斯坦.md) | Palestine |
+| [也門](hanzi-cards/也門.md) | Yemen |
 | [尼泊尔](hanzi-cards/尼泊尔.md)/[尼泊爾](hanzi-cards/尼泊爾.md) | Nepal |
 | [印度](hanzi-cards/印度.md) | India |
 | [斯里兰卡](hanzi-cards/斯里兰卡.md) | Sri Lanka |
 | [朝鮮](hanzi-cards/朝鮮.md) | North Korea |
 | [俄罗斯](hanzi-cards/俄罗斯.md)/[俄羅斯](hanzi-cards/俄羅斯.md) | Russia |
-| [哈萨克斯坦](hanzi-cards/哈萨克斯坦.md) | Kazakhstan |
-| [吉爾吉斯斯坦](hanzi-cards/吉爾吉斯斯坦.md) | Kyrgyzstan |
+| [哈薩克斯坦](hanzi-cards/哈薩克斯坦.md)/[哈萨克斯坦](hanzi-cards/哈萨克斯坦.md) | Kazakhstan |
+| [吉尔吉斯斯坦](hanzi-cards/吉尔吉斯斯坦.md)/[吉爾吉斯斯坦](hanzi-cards/吉爾吉斯斯坦.md) | Kyrgyzstan |
 | [塔吉克斯坦](hanzi-cards/塔吉克斯坦.md) | Tajikistan |
+| [乌兹别克斯坦](hanzi-cards/乌兹别克斯坦.md)/[烏茲別克斯坦](hanzi-cards/烏茲別克斯坦.md) | Uzbekistan |
 | [白罗斯](hanzi-cards/白罗斯.md) | Belarus |
 | [冰岛](hanzi-cards/冰岛.md) | Iceland |
 | [格陵兰](hanzi-cards/格陵兰.md) | Greenland |
@@ -34,7 +36,9 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [希腊](hanzi-cards/希腊.md) | Greece |
 | [以色列](hanzi-cards/以色列.md) | Israel |
 | [布基纳法索](hanzi-cards/布基纳法索.md) | Burkina Faso |
-| [肯尼亚](hanzi-cards/肯尼亚.md) | Kenya |
+| [肯尼亚](hanzi-cards/肯尼亚.md)/[肯尼亞](hanzi-cards/肯尼亞.md) | Kenya |
+| [尼日利亚](hanzi-cards/尼日利亚.md)/[尼日利亞](hanzi-cards/尼日利亞.md) | Nigeria |
+| [埃塞俄比亞](hanzi-cards/埃塞俄比亞.md)/[埃塞俄比亚](hanzi-cards/埃塞俄比亚.md) | Ethiopia |
 | [秘鲁](hanzi-cards/秘鲁.md)/[秘魯](hanzi-cards/秘魯.md) | Peru |
 | [委内瑞拉](hanzi-cards/委内瑞拉.md)/[委內瑞拉](hanzi-cards/委內瑞拉.md) | Venezuela |
 | [古巴](hanzi-cards/古巴.md) | Cuba |
@@ -72,7 +76,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [喀麦隆](hanzi-cards/喀麦隆.md) | Cameroon |
 | [葡萄牙](hanzi-cards/葡萄牙.md) | Portugal |
 | [加纳](hanzi-cards/加纳.md) | Ghana |
-| [乌拉圭](hanzi-cards/乌拉圭.md) | Uruguay |
+| [乌拉圭](hanzi-cards/乌拉圭.md)/[烏拉圭](hanzi-cards/烏拉圭.md) | Uruguay |
 | [韩国](hanzi-cards/韩国.md)/[韓國](hanzi-cards/韓國.md) | South Korea |
 ## 3. Islands
 |  |  |

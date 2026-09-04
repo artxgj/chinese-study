@@ -67,6 +67,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [钕](hanzi-cards/钕.md)/[釹](hanzi-cards/釹.md) | neodymium (element 60, Nd) |
 | [铽](hanzi-cards/铽.md)/[鋱](hanzi-cards/鋱.md) | terbium (element 65, Tb) |
 | [镝](hanzi-cards/镝.md)/[鏑](hanzi-cards/鏑.md) | dysprosium (element 66, Dy); the barb of an arrow; the head of a javelin |
+| [鉿](hanzi-cards/鉿.md) | hafnium (element 72, Hf) |
 | [钽](hanzi-cards/钽.md) | tantalum (element 73, Ta) |
 | [钨](hanzi-cards/钨.md)/[鎢](hanzi-cards/鎢.md) | tungsten (element 74, W) |
 | [铼](hanzi-cards/铼.md)/[錸](hanzi-cards/錸.md) | rhenium (element 75, Re) |

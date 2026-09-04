@@ -17,6 +17,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [钱学森](hanzi-cards/钱学森.md)/[錢學森](hanzi-cards/錢學森.md) | Qian Xuesen/Tsien Hsue-Shen, aerodynamicist and cyberneticist, co-founder of JPL |
 | [杨振宁](hanzi-cards/杨振宁.md)/[楊振寧](hanzi-cards/楊振寧.md) | Yang Chen-Ning, 1957 Nobel Prize Winner in Physics |
 | [姚期智](hanzi-cards/姚期智.md) | Andrew Chi-Chih Yao, 1996 Knuth Prize and 2000 Turing Award |
+| [殷玉珍](hanzi-cards/殷玉珍.md) | Yin Yuzhen, Desert Tree-Planter |
 | [丘成桐](hanzi-cards/丘成桐.md) | Shing-Tung Yau, first ethnic Chinese Fields medalist |
 | [王虹](hanzi-cards/王虹.md) | Wáng Hóng, 2026 Fields Medalist |
 | [邓煜](hanzi-cards/邓煜.md)/[鄧煜](hanzi-cards/鄧煜.md) | Dèng Yù, 2026 Fields Medalist |
@@ -57,6 +58,7 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [扎哈罗娃](hanzi-cards/扎哈罗娃.md) | Zakharova (Maria) |
 | [杜特蒂](hanzi-cards/杜特蒂.md) | Duterte |
 | [沃兹尼克](hanzi-cards/沃兹尼克.md) | Wozniak (Steve) |
+| [赛考斯](hanzi-cards/赛考斯.md)/[賽考斯](hanzi-cards/賽考斯.md) | Ronald Sakolsky, retired American history teacher; see Yin Yuzhen |
 | [贝多芬](hanzi-cards/贝多芬.md) | Beethoven |
 | [莎翁](hanzi-cards/莎翁.md) | Shakespeare |
 | [梵高](hanzi-cards/梵高.md) | Van Gogh |

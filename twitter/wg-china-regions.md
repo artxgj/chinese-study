@@ -92,3 +92,4 @@ list of the curated words, check it out [here](../words_tweets_stats.md).
 | [长三角](hanzi-cards/长三角.md)/[長三角](hanzi-cards/長三角.md) | Yangtze River Delta |
 | [塔克拉瑪干沙漠](hanzi-cards/塔克拉瑪干沙漠.md) | Taklamakan Desert |
 | [江南](hanzi-cards/江南.md) | Jiangnan; south of the river |
+| [三峡](hanzi-cards/三峡.md)/[三峽](hanzi-cards/三峽.md) | Three Gorges |
