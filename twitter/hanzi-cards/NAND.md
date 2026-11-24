@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/NAND) for definition
 ### Tweets containing NAND
 
 ___
+##### 2026-09-18 18:18:31 UTC ~ TechNews 科技新報
+> RT @technews_tw: 長鑫存儲規劃在北京新廠建立 NAND 研發產線與研究院！擴大記憶體版圖，積極挑戰三星、SK 海力士與美光等國際大廠。 #NAND研發 #北京新廠 #長江存儲 #三星電子 #記憶體競爭 https://t.co/gT9d3lxNTT
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E9%95%B7%E9%91%AB%E5%AD%98%E5%84%B2%E8%A6%8F%E5%8A%83%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%96%B0%E5%BB%A0%E5%BB%BA%E7%AB%8B+NAND+%E7%A0%94%E7%99%BC%E7%94%A2%E7%B7%9A%E8%88%87%E7%A0%94%E7%A9%B6%E9%99%A2%EF%BC%81%E6%93%B4%E5%A4%A7%E8%A8%98%E6%86%B6%E9%AB%94%E7%89%88%E5%9C%96%EF%BC%8C%E7%A9%8D%E6%A5%B5%E6%8C%91%E6%88%B0%E4%B8%89%E6%98%9F%E3%80%81SK+%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%88%87%E7%BE%8E%E5%85%89%E7%AD%89%E5%9C%8B%E9%9A%9B%E5%A4%A7%E5%BB%A0%E3%80%82+%23NAND%E7%A0%94%E7%99%BC+%23%E5%8C%97%E4%BA%AC%E6%96%B0%E5%BB%A0+%23%E9%95%B7%E6%B1%9F%E5%AD%98%E5%84%B2+%23%E4%B8%89%E6%98%9F%E9%9B%BB%E5%AD%90+%23%E8%A8%98%E6%86%B6%E9%AB%94%E7%AB%B6%E7%88%AD+https%3A%2F%2Ft.co%2FgT9d3lxNTT)
+##### Other Words/Names of Interest in the Above Tweet
+[三星](三星.md), [北京](北京.md), [存儲](存儲.md), [海力士](海力士.md), [積極](積極.md), [美光](美光.md), [記憶體](記憶體.md), [長江](長江.md), [長江存儲](長江存儲.md), [長鑫](長鑫.md)
+___
+##### 2026-09-18 18:14:59 UTC ~ TechNews 科技新報
+> RT @technews_tw: 鎧俠與 SanDisk 宣佈將在 2032 年前共同投資逾 310 億美元擴充日本 NAND Flash 產能，並補齊日本半導體復興戰略的最後一塊拼圖。 #鎧俠 #SanDisk #NANDFlash #AI資料中心 #日本半導體復興 http…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E9%8E%A7%E4%BF%A0%E8%88%87+SanDisk+%E5%AE%A3%E4%BD%88%E5%B0%87%E5%9C%A8+2032+%E5%B9%B4%E5%89%8D%E5%85%B1%E5%90%8C%E6%8A%95%E8%B3%87%E9%80%BE+310+%E5%84%84%E7%BE%8E%E5%85%83%E6%93%B4%E5%85%85%E6%97%A5%E6%9C%AC+NAND+Flash+%E7%94%A2%E8%83%BD%EF%BC%8C%E4%B8%A6%E8%A3%9C%E9%BD%8A%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%BE%A9%E8%88%88%E6%88%B0%E7%95%A5%E7%9A%84%E6%9C%80%E5%BE%8C%E4%B8%80%E5%A1%8A%E6%8B%BC%E5%9C%96%E3%80%82+%23%E9%8E%A7%E4%BF%A0+%23SanDisk+%23NANDFlash+%23AI%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83+%23%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%BE%A9%E8%88%88+http%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [日本](日本.md), [逾](逾.md), [鎧俠](鎧俠.md)
+___
 ##### 2026-08-30 13:14:53 UTC ~ Time Horizon📊
 > RT @Time_HorizonX: 全球NAND份额，铠侠很快会被YMTC超过。 https://t.co/1Gsf6FsRfk
 

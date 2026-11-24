@@ -7,14 +7,77 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Apple) for definition
 ### Tweets containing Apple
 
 ___
-##### 2026-08-31 10:11:17 UTC ~ 李新宝
+##### 2026-10-14 17:02:09 UTC ~ AB Kuai.Dong
+> RT @_FORAB: 在广州呆了 2 天的库克，今天闪现在了北京，一天时间内，出席了首届 Apple 应用孵化器，去了三里屯苹果零售店，最后见到了副总理何立峰。卸任 CEO 后的老哥，现在像吉祥物一样到处奔波，并与各地的政策层打交道。 https://t.co/eFVUy…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40_FORAB%3A+%E5%9C%A8%E5%B9%BF%E5%B7%9E%E5%91%86%E4%BA%86+2+%E5%A4%A9%E7%9A%84%E5%BA%93%E5%85%8B%EF%BC%8C%E4%BB%8A%E5%A4%A9%E9%97%AA%E7%8E%B0%E5%9C%A8%E4%BA%86%E5%8C%97%E4%BA%AC%EF%BC%8C%E4%B8%80%E5%A4%A9%E6%97%B6%E9%97%B4%E5%86%85%EF%BC%8C%E5%87%BA%E5%B8%AD%E4%BA%86%E9%A6%96%E5%B1%8A+Apple+%E5%BA%94%E7%94%A8%E5%AD%B5%E5%8C%96%E5%99%A8%EF%BC%8C%E5%8E%BB%E4%BA%86%E4%B8%89%E9%87%8C%E5%B1%AF%E8%8B%B9%E6%9E%9C%E9%9B%B6%E5%94%AE%E5%BA%97%EF%BC%8C%E6%9C%80%E5%90%8E%E8%A7%81%E5%88%B0%E4%BA%86%E5%89%AF%E6%80%BB%E7%90%86%E4%BD%95%E7%AB%8B%E5%B3%B0%E3%80%82%E5%8D%B8%E4%BB%BB+CEO+%E5%90%8E%E7%9A%84%E8%80%81%E5%93%A5%EF%BC%8C%E7%8E%B0%E5%9C%A8%E5%83%8F%E5%90%89%E7%A5%A5%E7%89%A9%E4%B8%80%E6%A0%B7%E5%88%B0%E5%A4%84%E5%A5%94%E6%B3%A2%EF%BC%8C%E5%B9%B6%E4%B8%8E%E5%90%84%E5%9C%B0%E7%9A%84%E6%94%BF%E7%AD%96%E5%B1%82%E6%89%93%E4%BA%A4%E9%81%93%E3%80%82+https%3A%2F%2Ft.co%2FeFVUy%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[北京](北京.md), [卸任](卸任.md), [吉祥](吉祥.md), [广州](广州.md), [政策](政策.md), [苹果](苹果.md)
+___
+##### 2026-09-18 08:45:16 UTC ~ TechNews 科技新報
+> RT @technews_tw: 台積電 2nm 首發！ #蘋果A20Pro晶片登場 蘋果（Apple）新一代 A20 Pro 晶片的早期跑分結果近日在 Geekbench 6 資料庫曝光，顯示這顆採用 2nm 製程的手機處理器，單核與多核表現都比前代有明顯躍進。根據流出資料，…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E5%8F%B0%E7%A9%8D%E9%9B%BB+2nm+%E9%A6%96%E7%99%BC%EF%BC%81+%23%E8%98%8B%E6%9E%9CA20Pro%E6%99%B6%E7%89%87%E7%99%BB%E5%A0%B4+%E8%98%8B%E6%9E%9C%EF%BC%88Apple%EF%BC%89%E6%96%B0%E4%B8%80%E4%BB%A3+A20+Pro+%E6%99%B6%E7%89%87%E7%9A%84%E6%97%A9%E6%9C%9F%E8%B7%91%E5%88%86%E7%B5%90%E6%9E%9C%E8%BF%91%E6%97%A5%E5%9C%A8+Geekbench+6+%E8%B3%87%E6%96%99%E5%BA%AB%E6%9B%9D%E5%85%89%EF%BC%8C%E9%A1%AF%E7%A4%BA%E9%80%99%E9%A1%86%E6%8E%A1%E7%94%A8+2nm+%E8%A3%BD%E7%A8%8B%E7%9A%84%E6%89%8B%E6%A9%9F%E8%99%95%E7%90%86%E5%99%A8%EF%BC%8C%E5%96%AE%E6%A0%B8%E8%88%87%E5%A4%9A%E6%A0%B8%E8%A1%A8%E7%8F%BE%E9%83%BD%E6%AF%94%E5%89%8D%E4%BB%A3%E6%9C%89%E6%98%8E%E9%A1%AF%E8%BA%8D%E9%80%B2%E3%80%82%E6%A0%B9%E6%93%9A%E6%B5%81%E5%87%BA%E8%B3%87%E6%96%99%EF%BC%8C%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[台積電](台積電.md), [晶片](晶片.md), [蘋果](蘋果.md)
+___
+##### 2026-09-18 08:41:59 UTC ~ Ken W
+> RT @kenw_2: Tim果然被果粉骂疯了，但是作为顶流媒体，应该不影响继续受邀参加明年的发布会和评测。还是那句话，折叠屏这个形态的手机，远比你想象的要脆弱，真正用过一段时间后就会明白，这不是能自适应或者能忽略掉的，只有Apple care+能保命。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40kenw_2%3A+Tim%E6%9E%9C%E7%84%B6%E8%A2%AB%E6%9E%9C%E7%B2%89%E9%AA%82%E7%96%AF%E4%BA%86%EF%BC%8C%E4%BD%86%E6%98%AF%E4%BD%9C%E4%B8%BA%E9%A1%B6%E6%B5%81%E5%AA%92%E4%BD%93%EF%BC%8C%E5%BA%94%E8%AF%A5%E4%B8%8D%E5%BD%B1%E5%93%8D%E7%BB%A7%E7%BB%AD%E5%8F%97%E9%82%80%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E7%9A%84%E5%8F%91%E5%B8%83%E4%BC%9A%E5%92%8C%E8%AF%84%E6%B5%8B%E3%80%82%E8%BF%98%E6%98%AF%E9%82%A3%E5%8F%A5%E8%AF%9D%EF%BC%8C%E6%8A%98%E5%8F%A0%E5%B1%8F%E8%BF%99%E4%B8%AA%E5%BD%A2%E6%80%81%E7%9A%84%E6%89%8B%E6%9C%BA%EF%BC%8C%E8%BF%9C%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E8%A6%81%E8%84%86%E5%BC%B1%EF%BC%8C%E7%9C%9F%E6%AD%A3%E7%94%A8%E8%BF%87%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%E5%90%8E%E5%B0%B1%E4%BC%9A%E6%98%8E%E7%99%BD%EF%BC%8C%E8%BF%99%E4%B8%8D%E6%98%AF%E8%83%BD%E8%87%AA%E9%80%82%E5%BA%94%E6%88%96%E8%80%85%E8%83%BD%E5%BF%BD%E7%95%A5%E6%8E%89%E7%9A%84%EF%BC%8C%E5%8F%AA%E6%9C%89Apple+care%2B%E8%83%BD%E4%BF%9D%E5%91%BD%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[发布](发布.md), [影响](影响.md), [流媒体](流媒体.md), [脆弱](脆弱.md)
+___
+##### 2026-09-13 17:11:35 UTC ~ 周尔复
+> RT @cholf5: 一台 iPhone Duo 的价格，比 iPhone 18 Pro + iPad Mini 7 + Apple Pencil Pro 加起来还要贵。是买一台 iPhone Duo 呢，还是买全家桶呢😅 https://t.co/aGz0FMszhU
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40cholf5%3A+%E4%B8%80%E5%8F%B0+iPhone+Duo+%E7%9A%84%E4%BB%B7%E6%A0%BC%EF%BC%8C%E6%AF%94+iPhone+18+Pro+%2B+iPad+Mini+7+%2B+Apple+Pencil+Pro+%E5%8A%A0%E8%B5%B7%E6%9D%A5%E8%BF%98%E8%A6%81%E8%B4%B5%E3%80%82%E6%98%AF%E4%B9%B0%E4%B8%80%E5%8F%B0+iPhone+Duo+%E5%91%A2%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B9%B0%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%91%A2%F0%9F%98%85+https%3A%2F%2Ft.co%2FaGz0FMszhU)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [价格](价格.md), [桶](桶.md)
+___
+##### 2026-09-12 01:39:21 UTC ~ TechNews 科技新報
+> RT @technews_tw: 蘋果最新 AI 策略在執行長特納斯主導下，將焦點轉向「讓既有產品更聰明」，強調將 Apple Intelligence 無縫融入 iPhone、Apple Watch 與 AirPods 之中。 #Apple #AppleIntelligenc…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E8%98%8B%E6%9E%9C%E6%9C%80%E6%96%B0+AI+%E7%AD%96%E7%95%A5%E5%9C%A8%E5%9F%B7%E8%A1%8C%E9%95%B7%E7%89%B9%E7%B4%8D%E6%96%AF%E4%B8%BB%E5%B0%8E%E4%B8%8B%EF%BC%8C%E5%B0%87%E7%84%A6%E9%BB%9E%E8%BD%89%E5%90%91%E3%80%8C%E8%AE%93%E6%97%A2%E6%9C%89%E7%94%A2%E5%93%81%E6%9B%B4%E8%81%B0%E6%98%8E%E3%80%8D%EF%BC%8C%E5%BC%B7%E8%AA%BF%E5%B0%87+Apple+Intelligence+%E7%84%A1%E7%B8%AB%E8%9E%8D%E5%85%A5+iPhone%E3%80%81Apple+Watch+%E8%88%87+AirPods+%E4%B9%8B%E4%B8%AD%E3%80%82+%23Apple+%23AppleIntelligenc%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [策略](策略.md), [蘋果](蘋果.md)
+___
+##### 2026-09-10 06:53:31 UTC ~ TechNews 科技新報
+> RT @technews_tw: #蘋果 秋季發表會登場！除了 #iPhone18 Pro 與首款摺疊手機，Apple Watch Series 12 與 Ultra 4 也將迎來重點升級。 https://t.co/El7y4XaoTu
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%98%8B%E6%9E%9C+%E7%A7%8B%E5%AD%A3%E7%99%BC%E8%A1%A8%E6%9C%83%E7%99%BB%E5%A0%B4%EF%BC%81%E9%99%A4%E4%BA%86+%23iPhone18+Pro+%E8%88%87%E9%A6%96%E6%AC%BE%E6%91%BA%E7%96%8A%E6%89%8B%E6%A9%9F%EF%BC%8CApple+Watch+Series+12+%E8%88%87+Ultra+4+%E4%B9%9F%E5%B0%87%E8%BF%8E%E4%BE%86%E9%87%8D%E9%BB%9E%E5%8D%87%E7%B4%9A%E3%80%82+https%3A%2F%2Ft.co%2FEl7y4XaoTu)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [蘋果](蘋果.md), [除了](除了.md)
+___
+##### 2026-09-10 05:14:05 UTC ~ TechNews 科技新報
+> RT @technews_tw: 摺疊機來了！ #蘋果2026秋季新品一次看 蘋果秋季新品發表會正式登場，今年除了推出 iPhone 18 Pro、iPhone 18 Pro Max，以及 AirPods 5、Apple Watch Series 12、Apple Watch…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E6%91%BA%E7%96%8A%E6%A9%9F%E4%BE%86%E4%BA%86%EF%BC%81+%23%E8%98%8B%E6%9E%9C2026%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%93%81%E4%B8%80%E6%AC%A1%E7%9C%8B+%E8%98%8B%E6%9E%9C%E7%A7%8B%E5%AD%A3%E6%96%B0%E5%93%81%E7%99%BC%E8%A1%A8%E6%9C%83%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%A0%B4%EF%BC%8C%E4%BB%8A%E5%B9%B4%E9%99%A4%E4%BA%86%E6%8E%A8%E5%87%BA+iPhone+18+Pro%E3%80%81iPhone+18+Pro+Max%EF%BC%8C%E4%BB%A5%E5%8F%8A+AirPods+5%E3%80%81Apple+Watch+Series+12%E3%80%81Apple+Watch%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [推出](推出.md), [正式](正式.md), [蘋果](蘋果.md), [除了](除了.md)
+___
+##### 2026-09-02 14:31:12 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 苹果公司（Apple）披露，新任首席执行官特努斯（John Ternus）2027财年的薪酬目标约为5800万美元（约7386万新元），卸任首席执行官、转任执行主席的库克（Tim Cook）薪酬则约为4700万美元。 https://t.co/cDi…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%EF%BC%88Apple%EF%BC%89%E6%8A%AB%E9%9C%B2%EF%BC%8C%E6%96%B0%E4%BB%BB%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E7%89%B9%E5%8A%AA%E6%96%AF%EF%BC%88John+Ternus%EF%BC%892027%E8%B4%A2%E5%B9%B4%E7%9A%84%E8%96%AA%E9%85%AC%E7%9B%AE%E6%A0%87%E7%BA%A6%E4%B8%BA5800%E4%B8%87%E7%BE%8E%E5%85%83%EF%BC%88%E7%BA%A67386%E4%B8%87%E6%96%B0%E5%85%83%EF%BC%89%EF%BC%8C%E5%8D%B8%E4%BB%BB%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E3%80%81%E8%BD%AC%E4%BB%BB%E6%89%A7%E8%A1%8C%E4%B8%BB%E5%B8%AD%E7%9A%84%E5%BA%93%E5%85%8B%EF%BC%88Tim+Cook%EF%BC%89%E8%96%AA%E9%85%AC%E5%88%99%E7%BA%A6%E4%B8%BA4700%E4%B8%87%E7%BE%8E%E5%85%83%E3%80%82+https%3A%2F%2Ft.co%2FcDi%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[卸任](卸任.md), [执行](执行.md), [披露](披露.md), [苹果](苹果.md), [首席执行官](首席执行官.md)
+___
+##### 2026-09-01 13:01:15 UTC ~ TechNews 科技新報
+> RT @technews_tw: #蘋果 秋季發表會將於 9 月 9 日登場！除了 iPhone 18 與 Apple Watch，新一代 AirPods 5 也傳出將同步亮相。 https://t.co/VoUxqw77he
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23%E8%98%8B%E6%9E%9C+%E7%A7%8B%E5%AD%A3%E7%99%BC%E8%A1%A8%E6%9C%83%E5%B0%87%E6%96%BC+9+%E6%9C%88+9+%E6%97%A5%E7%99%BB%E5%A0%B4%EF%BC%81%E9%99%A4%E4%BA%86+iPhone+18+%E8%88%87+Apple+Watch%EF%BC%8C%E6%96%B0%E4%B8%80%E4%BB%A3+AirPods+5+%E4%B9%9F%E5%82%B3%E5%87%BA%E5%B0%87%E5%90%8C%E6%AD%A5%E4%BA%AE%E7%9B%B8%E3%80%82+https%3A%2F%2Ft.co%2FVoUxqw77he)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [蘋果](蘋果.md), [除了](除了.md)
+___
+##### 2026-08-31 10:11:17 UTC ~ Simbao
 > RT @lixinbao_X: Apple Watch Series 12/Ultra 4，可能要把心率监测真正做成“全天候”了。据古尔曼爆料，苹果正在测试让Apple Watch持续记录心率，而不是像现在这样主要在运动时和随机时间点测量。同时，健康和健身App也会重做…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+Apple+Watch+Series+12%2FUltra+4%EF%BC%8C%E5%8F%AF%E8%83%BD%E8%A6%81%E6%8A%8A%E5%BF%83%E7%8E%87%E7%9B%91%E6%B5%8B%E7%9C%9F%E6%AD%A3%E5%81%9A%E6%88%90%E2%80%9C%E5%85%A8%E5%A4%A9%E5%80%99%E2%80%9D%E4%BA%86%E3%80%82%E6%8D%AE%E5%8F%A4%E5%B0%94%E6%9B%BC%E7%88%86%E6%96%99%EF%BC%8C%E8%8B%B9%E6%9E%9C%E6%AD%A3%E5%9C%A8%E6%B5%8B%E8%AF%95%E8%AE%A9Apple+Watch%E6%8C%81%E7%BB%AD%E8%AE%B0%E5%BD%95%E5%BF%83%E7%8E%87%EF%BC%8C%E8%80%8C%E4%B8%8D%E6%98%AF%E5%83%8F%E7%8E%B0%E5%9C%A8%E8%BF%99%E6%A0%B7%E4%B8%BB%E8%A6%81%E5%9C%A8%E8%BF%90%E5%8A%A8%E6%97%B6%E5%92%8C%E9%9A%8F%E6%9C%BA%E6%97%B6%E9%97%B4%E7%82%B9%E6%B5%8B%E9%87%8F%E3%80%82%E5%90%8C%E6%97%B6%EF%BC%8C%E5%81%A5%E5%BA%B7%E5%92%8C%E5%81%A5%E8%BA%ABApp%E4%B9%9F%E4%BC%9A%E9%87%8D%E5%81%9A%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [持续](持续.md), [测量](测量.md), [监测](监测.md), [苹果](苹果.md)
 ___
-##### 2026-08-29 02:46:04 UTC ~ 李新宝
+##### 2026-08-29 02:46:04 UTC ~ Simbao
 > RT @lixinbao_X: Apple Watch Ultra 4 曝光：可能更薄，还要塞进 Touch ID新一代 Apple Watch Ultra 4 有望在北京时间 9 月 10 日凌晨，与 iPhone 18 Pro、Apple Watch Series 12…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+Apple+Watch+Ultra+4+%E6%9B%9D%E5%85%89%EF%BC%9A%E5%8F%AF%E8%83%BD%E6%9B%B4%E8%96%84%EF%BC%8C%E8%BF%98%E8%A6%81%E5%A1%9E%E8%BF%9B+Touch+ID%E6%96%B0%E4%B8%80%E4%BB%A3+Apple+Watch+Ultra+4+%E6%9C%89%E6%9C%9B%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4+9+%E6%9C%88+10+%E6%97%A5%E5%87%8C%E6%99%A8%EF%BC%8C%E4%B8%8E+iPhone+18+Pro%E3%80%81Apple+Watch+Series+12%E2%80%A6)
@@ -231,6 +294,13 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [实现](实现.md), [操作](操作.md), [系统](系统.md)
 ___
+##### 2026-06-13 00:35:50 UTC ~ 苏林SuLin
+> RT @SuLin2046: 以后苹果的东西都不买国行了，手机的Apple智能，实时翻译，手表的健康功能等，都阉割了，我还得花钱刷机用魔法才能实现！！！！#Apple https://t.co/8s4zkG1pYU
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40SuLin2046%3A+%E4%BB%A5%E5%90%8E%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%83%BD%E4%B8%8D%E4%B9%B0%E5%9B%BD%E8%A1%8C%E4%BA%86%EF%BC%8C%E6%89%8B%E6%9C%BA%E7%9A%84Apple%E6%99%BA%E8%83%BD%EF%BC%8C%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%EF%BC%8C%E6%89%8B%E8%A1%A8%E7%9A%84%E5%81%A5%E5%BA%B7%E5%8A%9F%E8%83%BD%E7%AD%89%EF%BC%8C%E9%83%BD%E9%98%89%E5%89%B2%E4%BA%86%EF%BC%8C%E6%88%91%E8%BF%98%E5%BE%97%E8%8A%B1%E9%92%B1%E5%88%B7%E6%9C%BA%E7%94%A8%E9%AD%94%E6%B3%95%E6%89%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81%23Apple+https%3A%2F%2Ft.co%2F8s4zkG1pYU)
+##### Other Words/Names of Interest in the Above Tweet
+[实现](实现.md), [苹果](苹果.md)
+___
 ##### 2026-06-13 00:31:12 UTC ~ 黄小木
 > RT @ai_xiaomu: 苹果官方出的github库：apple/container用Swift开发 ,专门给Apple芯片优化。干一件事: 在Mac上用轻量虚拟机跑Linux容器 ,不再依赖Docker Desktop那一套笨重的东西。本地起开发环境更快、更省…
 
@@ -245,14 +315,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [芯片](芯片.md), [金](金.md), [钛](钛.md), [钛合金](钛合金.md)
 ___
-##### 2026-06-11 15:54:22 UTC ~ 
+##### 2026-06-11 15:54:22 UTC ~ Cyandev
 > RT @unixzii: 偶然发现 Apple 有一个叫 PrototypeTools 的 framework 用来给内部设计师调参，系统里大量 UI 的交互和动画细节都可以实时调整，并且还支持远程控制。 https://t.co/dv6wQzRSmF
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%E5%81%B6%E7%84%B6%E5%8F%91%E7%8E%B0+Apple+%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8F%AB+PrototypeTools+%E7%9A%84+framework+%E7%94%A8%E6%9D%A5%E7%BB%99%E5%86%85%E9%83%A8%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%B0%83%E5%8F%82%EF%BC%8C%E7%B3%BB%E7%BB%9F%E9%87%8C%E5%A4%A7%E9%87%8F+UI+%E7%9A%84%E4%BA%A4%E4%BA%92%E5%92%8C%E5%8A%A8%E7%94%BB%E7%BB%86%E8%8A%82%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%AE%9E%E6%97%B6%E8%B0%83%E6%95%B4%EF%BC%8C%E5%B9%B6%E4%B8%94%E8%BF%98%E6%94%AF%E6%8C%81%E8%BF%9C%E7%A8%8B%E6%8E%A7%E5%88%B6%E3%80%82+https%3A%2F%2Ft.co%2Fdv6wQzRSmF)
 ##### Other Words/Names of Interest in the Above Tweet
 [动画](动画.md), [控制](控制.md), [支持](支持.md), [系统](系统.md), [设计](设计.md)
 ___
-##### 2026-06-10 16:04:43 UTC ~ 
+##### 2026-06-10 16:04:43 UTC ~ Cyandev
 > RT @unixzii: anyAppleOS 27 又在 Core Animation 上增加了几个玻璃属性，例如这次优化后的边缘高光就是用新属性实现的。不过也说明现在这些属性还不够稳定，建议还是不要在生产环境定制玻璃（ https://t.co/oZy6Ugi1t5
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+anyAppleOS+27+%E5%8F%88%E5%9C%A8+Core+Animation+%E4%B8%8A%E5%A2%9E%E5%8A%A0%E4%BA%86%E5%87%A0%E4%B8%AA%E7%8E%BB%E7%92%83%E5%B1%9E%E6%80%A7%EF%BC%8C%E4%BE%8B%E5%A6%82%E8%BF%99%E6%AC%A1%E4%BC%98%E5%8C%96%E5%90%8E%E7%9A%84%E8%BE%B9%E7%BC%98%E9%AB%98%E5%85%89%E5%B0%B1%E6%98%AF%E7%94%A8%E6%96%B0%E5%B1%9E%E6%80%A7%E5%AE%9E%E7%8E%B0%E7%9A%84%E3%80%82%E4%B8%8D%E8%BF%87%E4%B9%9F%E8%AF%B4%E6%98%8E%E7%8E%B0%E5%9C%A8%E8%BF%99%E4%BA%9B%E5%B1%9E%E6%80%A7%E8%BF%98%E4%B8%8D%E5%A4%9F%E7%A8%B3%E5%AE%9A%EF%BC%8C%E5%BB%BA%E8%AE%AE%E8%BF%98%E6%98%AF%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E5%AE%9A%E5%88%B6%E7%8E%BB%E7%92%83%EF%BC%88+https%3A%2F%2Ft.co%2FoZy6Ugi1t5)
@@ -546,7 +616,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Mac](Mac.md), [波动](波动.md), [连续](连续.md)
 ___
-##### 2025-06-13 14:56:14 UTC ~ 
+##### 2025-06-13 14:56:14 UTC ~ Cyandev
 > RT @unixzii: 感觉 Swift 这个语言现在越来越拧巴了，一方面 Apple 为了给大众开发者一种易学易用的印象（从 WWDC 的各个 session 里就能看出来）隐藏了很多偏学术的特性，另一方面为了让整个语言更 sound 更 system 又不得不把那些缺失的…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%E6%84%9F%E8%A7%89+Swift+%E8%BF%99%E4%B8%AA%E8%AF%AD%E8%A8%80%E7%8E%B0%E5%9C%A8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%8B%A7%E5%B7%B4%E4%BA%86%EF%BC%8C%E4%B8%80%E6%96%B9%E9%9D%A2+Apple+%E4%B8%BA%E4%BA%86%E7%BB%99%E5%A4%A7%E4%BC%97%E5%BC%80%E5%8F%91%E8%80%85%E4%B8%80%E7%A7%8D%E6%98%93%E5%AD%A6%E6%98%93%E7%94%A8%E7%9A%84%E5%8D%B0%E8%B1%A1%EF%BC%88%E4%BB%8E+WWDC+%E7%9A%84%E5%90%84%E4%B8%AA+session+%E9%87%8C%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%EF%BC%89%E9%9A%90%E8%97%8F%E4%BA%86%E5%BE%88%E5%A4%9A%E5%81%8F%E5%AD%A6%E6%9C%AF%E7%9A%84%E7%89%B9%E6%80%A7%EF%BC%8C%E5%8F%A6%E4%B8%80%E6%96%B9%E9%9D%A2%E4%B8%BA%E4%BA%86%E8%AE%A9%E6%95%B4%E4%B8%AA%E8%AF%AD%E8%A8%80%E6%9B%B4+sound+%E6%9B%B4+system+%E5%8F%88%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%8A%8A%E9%82%A3%E4%BA%9B%E7%BC%BA%E5%A4%B1%E7%9A%84%E2%80%A6)
@@ -567,7 +637,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [关键](关键.md), [发布](发布.md), [开发](开发.md), [生态](生态.md), [苹果](苹果.md), [资源](资源.md), [额外](额外.md)
 ___
-##### 2025-06-11 18:09:27 UTC ~ 
+##### 2025-06-11 18:09:27 UTC ~ Cyandev
 > RT @unixzii: #WWDC25 从 Mac OS X 用静态位图实现水晶效果的 Aqua，到 Windows Vista 用实时模糊 + 位图高光和反射实现玻璃效果的 Windows Aero，再到现在 Apple 用 SDF 实时计算边缘实现玻璃折射效果的 Liqu…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%23WWDC25+%E4%BB%8E+Mac+OS+X+%E7%94%A8%E9%9D%99%E6%80%81%E4%BD%8D%E5%9B%BE%E5%AE%9E%E7%8E%B0%E6%B0%B4%E6%99%B6%E6%95%88%E6%9E%9C%E7%9A%84+Aqua%EF%BC%8C%E5%88%B0+Windows+Vista+%E7%94%A8%E5%AE%9E%E6%97%B6%E6%A8%A1%E7%B3%8A+%2B+%E4%BD%8D%E5%9B%BE%E9%AB%98%E5%85%89%E5%92%8C%E5%8F%8D%E5%B0%84%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E7%9A%84+Windows+Aero%EF%BC%8C%E5%86%8D%E5%88%B0%E7%8E%B0%E5%9C%A8+Apple+%E7%94%A8+SDF+%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E8%BE%B9%E7%BC%98%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%8A%98%E5%B0%84%E6%95%88%E6%9E%9C%E7%9A%84+Liqu%E2%80%A6)
@@ -588,7 +658,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [妨碍](妨碍.md), [市值](市值.md), [微软](微软.md)
 ___
-##### 2025-06-11 09:14:00 UTC ~ 
+##### 2025-06-11 09:14:00 UTC ~ Cyandev
 > RT @unixzii: Apple 这次的 Liquid Glass 让世界上几亿台设备每天都在跑游戏级的 real-time rendering，这又要对世界碳排放量造成多少影响？难怪这次自然之母都不来了 😇 https://t.co/6eeh1aFz0f
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+Apple+%E8%BF%99%E6%AC%A1%E7%9A%84+Liquid+Glass+%E8%AE%A9%E4%B8%96%E7%95%8C%E4%B8%8A%E5%87%A0%E4%BA%BF%E5%8F%B0%E8%AE%BE%E5%A4%87%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E8%B7%91%E6%B8%B8%E6%88%8F%E7%BA%A7%E7%9A%84+real-time+rendering%EF%BC%8C%E8%BF%99%E5%8F%88%E8%A6%81%E5%AF%B9%E4%B8%96%E7%95%8C%E7%A2%B3%E6%8E%92%E6%94%BE%E9%87%8F%E9%80%A0%E6%88%90%E5%A4%9A%E5%B0%91%E5%BD%B1%E5%93%8D%EF%BC%9F%E9%9A%BE%E6%80%AA%E8%BF%99%E6%AC%A1%E8%87%AA%E7%84%B6%E4%B9%8B%E6%AF%8D%E9%83%BD%E4%B8%8D%E6%9D%A5%E4%BA%86+%F0%9F%98%87+https%3A%2F%2Ft.co%2F6eeh1aFz0f)

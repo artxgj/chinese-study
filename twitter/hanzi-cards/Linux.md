@@ -98,7 +98,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [代码](代码.md)
 ___
-##### 2025-06-21 06:05:48 UTC ~ 
+##### 2025-06-21 06:05:48 UTC ~ Cyandev
 > RT @unixzii: 找到了在 Mac 下读取 ext4 的奇技淫巧：自己用 Virtualization 框架写个虚拟机，得益于它支持操作 host 的 block device，可以让 guest Linux 直接读写外置硬盘然后用 dufs 暴露出去。 https:/…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%E6%89%BE%E5%88%B0%E4%BA%86%E5%9C%A8+Mac+%E4%B8%8B%E8%AF%BB%E5%8F%96+ext4+%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7%EF%BC%9A%E8%87%AA%E5%B7%B1%E7%94%A8+Virtualization+%E6%A1%86%E6%9E%B6%E5%86%99%E4%B8%AA%E8%99%9A%E6%8B%9F%E6%9C%BA%EF%BC%8C%E5%BE%97%E7%9B%8A%E4%BA%8E%E5%AE%83%E6%94%AF%E6%8C%81%E6%93%8D%E4%BD%9C+host+%E7%9A%84+block+device%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AE%A9+guest+Linux+%E7%9B%B4%E6%8E%A5%E8%AF%BB%E5%86%99%E5%A4%96%E7%BD%AE%E7%A1%AC%E7%9B%98%E7%84%B6%E5%90%8E%E7%94%A8+dufs+%E6%9A%B4%E9%9C%B2%E5%87%BA%E5%8E%BB%E3%80%82+https%3A%2F%E2%80%A6)

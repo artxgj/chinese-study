@@ -7,7 +7,14 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Anthropic) for definition
 ### Tweets containing Anthropic
 
 ___
-##### 2026-09-01 01:55:31 UTC ~ 李新宝
+##### 2026-09-30 09:20:52 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 市场震荡和对AI安全的担忧令投资者不安，也打乱了原本有望在今年秋季接连登场的一批重磅IPO。智能戒指制造商Oura周二表示推迟IPO，此前Anthropic等多家公司也已调整上市时间表。https://t.co/4wGMoRcGNy
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E5%B8%82%E5%9C%BA%E9%9C%87%E8%8D%A1%E5%92%8C%E5%AF%B9AI%E5%AE%89%E5%85%A8%E7%9A%84%E6%8B%85%E5%BF%A7%E4%BB%A4%E6%8A%95%E8%B5%84%E8%80%85%E4%B8%8D%E5%AE%89%EF%BC%8C%E4%B9%9F%E6%89%93%E4%B9%B1%E4%BA%86%E5%8E%9F%E6%9C%AC%E6%9C%89%E6%9C%9B%E5%9C%A8%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E6%8E%A5%E8%BF%9E%E7%99%BB%E5%9C%BA%E7%9A%84%E4%B8%80%E6%89%B9%E9%87%8D%E7%A3%85IPO%E3%80%82%E6%99%BA%E8%83%BD%E6%88%92%E6%8C%87%E5%88%B6%E9%80%A0%E5%95%86Oura%E5%91%A8%E4%BA%8C%E8%A1%A8%E7%A4%BA%E6%8E%A8%E8%BF%9FIPO%EF%BC%8C%E6%AD%A4%E5%89%8DAnthropic%E7%AD%89%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B9%9F%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%8A%E5%B8%82%E6%97%B6%E9%97%B4%E8%A1%A8%E3%80%82https%3A%2F%2Ft.co%2F4wGMoRcGNy)
+##### Other Words/Names of Interest in the Above Tweet
+[投资](投资.md), [担忧](担忧.md), [推迟](推迟.md), [时间表](时间表.md), [有望](有望.md), [震荡](震荡.md)
+___
+##### 2026-09-01 01:55:31 UTC ~ Simbao
 > RT @lixinbao_X: OpenAI狂买几万台Mac，苹果竟从英伟达嘴里抢到AI生意据报道，OpenAI已经采购了数万台Mac mini和Mac Studio，用来做强化学习，训练能自己操作电脑、改代码、整理邮箱的AI Agent。Anthropic也在通过AW…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+OpenAI%E7%8B%82%E4%B9%B0%E5%87%A0%E4%B8%87%E5%8F%B0Mac%EF%BC%8C%E8%8B%B9%E6%9E%9C%E7%AB%9F%E4%BB%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%98%B4%E9%87%8C%E6%8A%A2%E5%88%B0AI%E7%94%9F%E6%84%8F%E6%8D%AE%E6%8A%A5%E9%81%93%EF%BC%8COpenAI%E5%B7%B2%E7%BB%8F%E9%87%87%E8%B4%AD%E4%BA%86%E6%95%B0%E4%B8%87%E5%8F%B0Mac+mini%E5%92%8CMac+Studio%EF%BC%8C%E7%94%A8%E6%9D%A5%E5%81%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E8%AE%AD%E7%BB%83%E8%83%BD%E8%87%AA%E5%B7%B1%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91%E3%80%81%E6%94%B9%E4%BB%A3%E7%A0%81%E3%80%81%E6%95%B4%E7%90%86%E9%82%AE%E7%AE%B1%E7%9A%84AI+Agent%E3%80%82Anthropic%E4%B9%9F%E5%9C%A8%E9%80%9A%E8%BF%87AW%E2%80%A6)

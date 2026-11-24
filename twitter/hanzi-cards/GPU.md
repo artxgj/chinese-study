@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GPU) for definition
 ### Tweets containing GPU
 
 ___
+##### 2026-10-16 09:31:43 UTC ~ 日经中文网/日經中文網
+> RT @rijingzhongwen: 【动摇市场的CoreWeave业务扩张的后盾是英伟达】CoreWeave向AI企业出租服务器算力，采取以购入的GPU作为担保、反复借贷来采购更多新GPU的模式。但一旦GPU价值下跌，借贷的前提就会崩塌，风险较高。其背后的支持者正是GPU供…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E5%8A%A8%E6%91%87%E5%B8%82%E5%9C%BA%E7%9A%84CoreWeave%E4%B8%9A%E5%8A%A1%E6%89%A9%E5%BC%A0%E7%9A%84%E5%90%8E%E7%9B%BE%E6%98%AF%E8%8B%B1%E4%BC%9F%E8%BE%BE%E3%80%91CoreWeave%E5%90%91AI%E4%BC%81%E4%B8%9A%E5%87%BA%E7%A7%9F%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AE%97%E5%8A%9B%EF%BC%8C%E9%87%87%E5%8F%96%E4%BB%A5%E8%B4%AD%E5%85%A5%E7%9A%84GPU%E4%BD%9C%E4%B8%BA%E6%8B%85%E4%BF%9D%E3%80%81%E5%8F%8D%E5%A4%8D%E5%80%9F%E8%B4%B7%E6%9D%A5%E9%87%87%E8%B4%AD%E6%9B%B4%E5%A4%9A%E6%96%B0GPU%E7%9A%84%E6%A8%A1%E5%BC%8F%E3%80%82%E4%BD%86%E4%B8%80%E6%97%A6GPU%E4%BB%B7%E5%80%BC%E4%B8%8B%E8%B7%8C%EF%BC%8C%E5%80%9F%E8%B4%B7%E7%9A%84%E5%89%8D%E6%8F%90%E5%B0%B1%E4%BC%9A%E5%B4%A9%E5%A1%8C%EF%BC%8C%E9%A3%8E%E9%99%A9%E8%BE%83%E9%AB%98%E3%80%82%E5%85%B6%E8%83%8C%E5%90%8E%E7%9A%84%E6%94%AF%E6%8C%81%E8%80%85%E6%AD%A3%E6%98%AFGPU%E4%BE%9B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[担保](担保.md), [支持](支持.md), [服务器](服务器.md), [模式](模式.md), [英伟达](英伟达.md), [跌](跌.md), [采取](采取.md), [风险](风险.md)
+___
+##### 2026-09-29 04:25:23 UTC ~ 日经中文网/日經中文網
+> RT @rijingzhongwen: 【英伟达将实施史上最大规模股票回购】受AI领域投资热潮带动，GPU销量飞速增长，英伟达计划将充裕的手头资金投入本次回购……https://t.co/KQyb46dbVk
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40rijingzhongwen%3A+%E3%80%90%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%86%E5%AE%9E%E6%96%BD%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD%E3%80%91%E5%8F%97AI%E9%A2%86%E5%9F%9F%E6%8A%95%E8%B5%84%E7%83%AD%E6%BD%AE%E5%B8%A6%E5%8A%A8%EF%BC%8CGPU%E9%94%80%E9%87%8F%E9%A3%9E%E9%80%9F%E5%A2%9E%E9%95%BF%EF%BC%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A1%E5%88%92%E5%B0%86%E5%85%85%E8%A3%95%E7%9A%84%E6%89%8B%E5%A4%B4%E8%B5%84%E9%87%91%E6%8A%95%E5%85%A5%E6%9C%AC%E6%AC%A1%E5%9B%9E%E8%B4%AD%E2%80%A6%E2%80%A6https%3A%2F%2Ft.co%2FKQyb46dbVk)
+##### Other Words/Names of Interest in the Above Tweet
+[增长](增长.md), [实施](实施.md), [投资](投资.md), [热潮](热潮.md), [英伟达](英伟达.md), [规模](规模.md), [计划](计划.md), [金](金.md), [销量](销量.md), [领域](领域.md)
+___
 ##### 2026-08-23 05:41:08 UTC ~ AI超元域
 > RT @AISuperDomain: 别再为了跑大模型去买多卡工作站了！开源推理引擎 FreeToken 把 CPU、GPU、内存统合为一体： 8G 显存轻薄本 跑 35B MoE，家用单卡游戏本直接干 290B+！彻底解决显存塞不下的难题，开源免费： 🔗 #A…
 
@@ -89,6 +103,13 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [mac](mac.md), [工具](工具.md), [麦](麦.md)
 ___
+##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
+> RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40H3gletK%3A+%E6%88%91%E7%9A%84mac+mini%E4%B8%8D%E7%9F%A5%E9%81%93%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%A8%E5%A4%A9%E5%BC%80%E5%A7%8BGPU%E8%B4%9F%E8%BD%BD%E4%B8%80%E7%9B%B4%E5%A4%84%E5%9C%A850%25%EF%BC%8C%E9%87%8D%E5%90%AF%E5%AE%8C%E4%B9%8B%E5%90%8E%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%90%AF%E5%8A%A8%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%A4%9A%E3%80%82%E4%B9%8B%E5%89%8D%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BD%9C%EF%BC%8C%E9%9D%99%E6%80%81%E8%B4%9F%E8%BD%BD%E4%B9%9F%E5%BA%94%E8%AF%A5%E5%8F%AA%E6%9C%892%25%E5%B7%A6%E5%8F%B3%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[mac](mac.md), [一直](一直.md), [启动](启动.md)
+___
 ##### 2026-05-11 06:02:28 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 芯片制造商利润激增正促使投资者蜂拥买入CPU、GPU和内存芯片公司的股票。https://t.co/SP3B6g6TNu
 
@@ -96,7 +117,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [买入](买入.md), [促使](促使.md), [利润](利润.md), [投资](投资.md), [芯片](芯片.md)
 ___
-##### 2026-03-20 03:26:54 UTC ~ ⧫ Alan Chen ⧫(alanchentsla.eth）
+##### 2026-03-20 03:26:54 UTC ~ Alan Chen
 > RT @alanchen: 历史上最大的 AI 走私案，作案工具竟然是一把吹风机。 🔌💀SMCI 的联合创始人不仅被抓到向中国走私了 25 亿美元的 Nvidia GPU。 他还在监控录像里被拍到：拿着一把吹风机融化序列号贴纸的胶水，好组装“假服务器”来糊弄美国的合规审计员…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40alanchen%3A+%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84+AI+%E8%B5%B0%E7%A7%81%E6%A1%88%EF%BC%8C%E4%BD%9C%E6%A1%88%E5%B7%A5%E5%85%B7%E7%AB%9F%E7%84%B6%E6%98%AF%E4%B8%80%E6%8A%8A%E5%90%B9%E9%A3%8E%E6%9C%BA%E3%80%82+%F0%9F%94%8C%F0%9F%92%80SMCI+%E7%9A%84%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8D%E4%BB%85%E8%A2%AB%E6%8A%93%E5%88%B0%E5%90%91%E4%B8%AD%E5%9B%BD%E8%B5%B0%E7%A7%81%E4%BA%86+25+%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84+Nvidia+GPU%E3%80%82+%E4%BB%96%E8%BF%98%E5%9C%A8%E7%9B%91%E6%8E%A7%E5%BD%95%E5%83%8F%E9%87%8C%E8%A2%AB%E6%8B%8D%E5%88%B0%EF%BC%9A%E6%8B%BF%E7%9D%80%E4%B8%80%E6%8A%8A%E5%90%B9%E9%A3%8E%E6%9C%BA%E8%9E%8D%E5%8C%96%E5%BA%8F%E5%88%97%E5%8F%B7%E8%B4%B4%E7%BA%B8%E7%9A%84%E8%83%B6%E6%B0%B4%EF%BC%8C%E5%A5%BD%E7%BB%84%E8%A3%85%E2%80%9C%E5%81%87%E6%9C%8D%E5%8A%A1%E5%99%A8%E2%80%9D%E6%9D%A5%E7%B3%8A%E5%BC%84%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%90%88%E8%A7%84%E5%AE%A1%E8%AE%A1%E5%91%98%E2%80%A6)

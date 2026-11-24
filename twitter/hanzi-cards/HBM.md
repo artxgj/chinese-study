@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/HBM) for definition
 ### Tweets containing HBM
 
 ___
+##### 2026-09-18 18:19:24 UTC ~ TechNews 科技新報
+> RT @technews_tw: TrendForce 最新半導體先進封裝報告指出，隨著 AI 晶片面積與 HBM 整合數量持續擴張，2.5D 封裝主流正從 CoWoS-S 加速轉向 CoWoS-L，台積電憑藉技術成熟度與良率優勢，至 2028 年仍將穩居市場主流地位。 #先進…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+TrendForce+%E6%9C%80%E6%96%B0%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%85%88%E9%80%B2%E5%B0%81%E8%A3%9D%E5%A0%B1%E5%91%8A%E6%8C%87%E5%87%BA%EF%BC%8C%E9%9A%A8%E8%91%97+AI+%E6%99%B6%E7%89%87%E9%9D%A2%E7%A9%8D%E8%88%87+HBM+%E6%95%B4%E5%90%88%E6%95%B8%E9%87%8F%E6%8C%81%E7%BA%8C%E6%93%B4%E5%BC%B5%EF%BC%8C2.5D+%E5%B0%81%E8%A3%9D%E4%B8%BB%E6%B5%81%E6%AD%A3%E5%BE%9E+CoWoS-S+%E5%8A%A0%E9%80%9F%E8%BD%89%E5%90%91+CoWoS-L%EF%BC%8C%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%86%91%E8%97%89%E6%8A%80%E8%A1%93%E6%88%90%E7%86%9F%E5%BA%A6%E8%88%87%E8%89%AF%E7%8E%87%E5%84%AA%E5%8B%A2%EF%BC%8C%E8%87%B3+2028+%E5%B9%B4%E4%BB%8D%E5%B0%87%E7%A9%A9%E5%B1%85%E5%B8%82%E5%A0%B4%E4%B8%BB%E6%B5%81%E5%9C%B0%E4%BD%8D%E3%80%82+%23%E5%85%88%E9%80%B2%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半導體](半導體.md), [台積電](台積電.md), [封裝](封裝.md), [成熟](成熟.md), [指出](指出.md), [整合](整合.md), [晶片](晶片.md)
+___
+##### 2026-09-02 05:55:16 UTC ~ 高飞
+> RT @maide89699220: 国产存储这波太给力了，HBM3E开始试产！HBM是AI算力不可或缺的核心内存，长期被海外巨头牢牢垄断。面对重重技术壁垒，国内科研团队持续攻坚，攻克堆叠、硅通孔等多项高难度工艺。HBM3E试产，代表国产高端存储迈出重要一步，有力缩小与…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40maide89699220%3A+%E5%9B%BD%E4%BA%A7%E5%AD%98%E5%82%A8%E8%BF%99%E6%B3%A2%E5%A4%AA%E7%BB%99%E5%8A%9B%E4%BA%86%EF%BC%8CHBM3E%E5%BC%80%E5%A7%8B%E8%AF%95%E4%BA%A7%EF%BC%81HBM%E6%98%AFAI%E7%AE%97%E5%8A%9B%E4%B8%8D%E5%8F%AF%E6%88%96%E7%BC%BA%E7%9A%84%E6%A0%B8%E5%BF%83%E5%86%85%E5%AD%98%EF%BC%8C%E9%95%BF%E6%9C%9F%E8%A2%AB%E6%B5%B7%E5%A4%96%E5%B7%A8%E5%A4%B4%E7%89%A2%E7%89%A2%E5%9E%84%E6%96%AD%E3%80%82%E9%9D%A2%E5%AF%B9%E9%87%8D%E9%87%8D%E6%8A%80%E6%9C%AF%E5%A3%81%E5%9E%92%EF%BC%8C%E5%9B%BD%E5%86%85%E7%A7%91%E7%A0%94%E5%9B%A2%E9%98%9F%E6%8C%81%E7%BB%AD%E6%94%BB%E5%9D%9A%EF%BC%8C%E6%94%BB%E5%85%8B%E5%A0%86%E5%8F%A0%E3%80%81%E7%A1%85%E9%80%9A%E5%AD%94%E7%AD%89%E5%A4%9A%E9%A1%B9%E9%AB%98%E9%9A%BE%E5%BA%A6%E5%B7%A5%E8%89%BA%E3%80%82HBM3E%E8%AF%95%E4%BA%A7%EF%BC%8C%E4%BB%A3%E8%A1%A8%E5%9B%BD%E4%BA%A7%E9%AB%98%E7%AB%AF%E5%AD%98%E5%82%A8%E8%BF%88%E5%87%BA%E9%87%8D%E8%A6%81%E4%B8%80%E6%AD%A5%EF%BC%8C%E6%9C%89%E5%8A%9B%E7%BC%A9%E5%B0%8F%E4%B8%8E%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[垄断](垄断.md), [堆叠](堆叠.md), [壁垒](壁垒.md), [存储](存储.md), [工艺](工艺.md), [巨头](巨头.md), [技术](技术.md), [持续](持续.md), [核心](核心.md), [硅](硅.md)
+___
 ##### 2026-08-27 10:09:06 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: NVIDIA 宣布開發客製化高頻寬記憶體 NVHBM，專為 AI 設計，並與 Amazon Annapurna Labs 合作。核心技術：將記憶體控制器從 XPU 移至 HBM 基底晶粒，取代傳統 HBM4E 架構。主要優勢（相較標準 HB…
 

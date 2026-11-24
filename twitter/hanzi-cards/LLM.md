@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/LLM) for definition
 ### Tweets containing LLM
 
 ___
+##### 2026-09-29 04:31:55 UTC ~ kern
+> RT @kernbz: AMD 82亿美金收购李飞飞的World Labs是对其roadmap的高度押注“从像素到世界、从看（Seeing）到做（Doing）”，而这将收获的是全新的“算力维度”，将甩出LLM几条街…#AMD #worldlabs
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40kernbz%3A+AMD+82%E4%BA%BF%E7%BE%8E%E9%87%91%E6%94%B6%E8%B4%AD%E6%9D%8E%E9%A3%9E%E9%A3%9E%E7%9A%84World+Labs%E6%98%AF%E5%AF%B9%E5%85%B6roadmap%E7%9A%84%E9%AB%98%E5%BA%A6%E6%8A%BC%E6%B3%A8%E2%80%9C%E4%BB%8E%E5%83%8F%E7%B4%A0%E5%88%B0%E4%B8%96%E7%95%8C%E3%80%81%E4%BB%8E%E7%9C%8B%EF%BC%88Seeing%EF%BC%89%E5%88%B0%E5%81%9A%EF%BC%88Doing%EF%BC%89%E2%80%9D%EF%BC%8C%E8%80%8C%E8%BF%99%E5%B0%86%E6%94%B6%E8%8E%B7%E7%9A%84%E6%98%AF%E5%85%A8%E6%96%B0%E7%9A%84%E2%80%9C%E7%AE%97%E5%8A%9B%E7%BB%B4%E5%BA%A6%E2%80%9D%EF%BC%8C%E5%B0%86%E7%94%A9%E5%87%BALLM%E5%87%A0%E6%9D%A1%E8%A1%97%E2%80%A6%23AMD+%23worldlabs)
+##### Other Words/Names of Interest in the Above Tweet
+[AMD](AMD.md), [像素](像素.md), [押注](押注.md), [收购](收购.md), [金](金.md)
+___
+##### 2026-09-13 09:59:48 UTC ~ Dongxi 东锡 NLP
+> RT @dongxi_nlp: 三个重要的概念， Prefill, KV cache, Prefix caching例如，在文档+LLM 的办公场景：A:  文档 ＋“帮我看看，有哪些风险？”B:  文档＋“预算减半，帮我调整一下。”C：修改后文档＋“再看看，现在的…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40dongxi_nlp%3A+%E4%B8%89%E4%B8%AA%E9%87%8D%E8%A6%81%E7%9A%84%E6%A6%82%E5%BF%B5%EF%BC%8C%C2%A0Prefill%2C+KV+cache%2C+Prefix+caching%E4%BE%8B%E5%A6%82%EF%BC%8C%E5%9C%A8%E6%96%87%E6%A1%A3%2BLLM+%E7%9A%84%E5%8A%9E%E5%85%AC%E5%9C%BA%E6%99%AF%EF%BC%9AA%3A++%E6%96%87%E6%A1%A3+%EF%BC%8B%E2%80%9C%E5%B8%AE%E6%88%91%E7%9C%8B%E7%9C%8B%EF%BC%8C%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A3%8E%E9%99%A9%EF%BC%9F%E2%80%9DB%3A++%E6%96%87%E6%A1%A3%EF%BC%8B%E2%80%9C%E9%A2%84%E7%AE%97%E5%87%8F%E5%8D%8A%EF%BC%8C%E5%B8%AE%E6%88%91%E8%B0%83%E6%95%B4%E4%B8%80%E4%B8%8B%E3%80%82%E2%80%9DC%EF%BC%9A%E4%BF%AE%E6%94%B9%E5%90%8E%E6%96%87%E6%A1%A3%EF%BC%8B%E2%80%9C%E5%86%8D%E7%9C%8B%E7%9C%8B%EF%BC%8C%E7%8E%B0%E5%9C%A8%E7%9A%84%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[场景](场景.md), [预算](预算.md), [风险](风险.md)
+___
 ##### 2026-08-09 08:03:25 UTC ~ 山景城小路
 > RT @Zen_with_AI: LLM from scratch.周末没事做，可以跟着这个 repo（我目前看到最好的免费教程）看看别人如何手搓一个大模型。从文本处理 → 注意力机制 → GPT 架构 → 预训练 → 微调（分类 + 指令跟随）全覆盖。纯 PyTorch…
 
@@ -35,7 +49,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [变形](变形.md), [语义](语义.md), [跌](跌.md)
 ___
-##### 2026-07-22 03:56:44 UTC ~ Amto
+##### 2026-07-22 03:56:44 UTC ~ 
 > RT @XAMTO_AI: 一份大模型学习资源，上海交大团队出品，项目叫 Dive into LLMs。11个主题，每个都配了能直接跑的代码，课件和教程文档也齐。想上手试的话，基本不用自己从头搭环境。… https://t.co/WJVuBmwjTJ
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XAMTO_AI%3A+%E4%B8%80%E4%BB%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%EF%BC%8C%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%9B%A2%E9%98%9F%E5%87%BA%E5%93%81%EF%BC%8C%E9%A1%B9%E7%9B%AE%E5%8F%AB+Dive+into+LLMs%E3%80%8211%E4%B8%AA%E4%B8%BB%E9%A2%98%EF%BC%8C%E6%AF%8F%E4%B8%AA%E9%83%BD%E9%85%8D%E4%BA%86%E8%83%BD%E7%9B%B4%E6%8E%A5%E8%B7%91%E7%9A%84%E4%BB%A3%E7%A0%81%EF%BC%8C%E8%AF%BE%E4%BB%B6%E5%92%8C%E6%95%99%E7%A8%8B%E6%96%87%E6%A1%A3%E4%B9%9F%E9%BD%90%E3%80%82%E6%83%B3%E4%B8%8A%E6%89%8B%E8%AF%95%E7%9A%84%E8%AF%9D%EF%BC%8C%E5%9F%BA%E6%9C%AC%E4%B8%8D%E7%94%A8%E8%87%AA%E5%B7%B1%E4%BB%8E%E5%A4%B4%E6%90%AD%E7%8E%AF%E5%A2%83%E3%80%82%E2%80%A6+https%3A%2F%2Ft.co%2FWJVuBmwjTJ)

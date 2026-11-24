@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/MCP) for definition
 ### Tweets containing MCP
 
 ___
+##### 2026-09-12 02:57:53 UTC ~ larrymask
+> RT @divid_lu49394: 写代码时频繁在浏览器、数据库和 IDE 之间来回切换？这里整理了 10 个目前最稳的开源 MCP 服务器配置，直接复制就能用。必装核心工具清单 GitHub MCP Server直接让 AI 读取 Issue、PR 和提交历史，无需手…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40divid_lu49394%3A+%E5%86%99%E4%BB%A3%E7%A0%81%E6%97%B6%E9%A2%91%E7%B9%81%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E3%80%81%E6%95%B0%E6%8D%AE%E5%BA%93%E5%92%8C+IDE+%E4%B9%8B%E9%97%B4%E6%9D%A5%E5%9B%9E%E5%88%87%E6%8D%A2%EF%BC%9F%E8%BF%99%E9%87%8C%E6%95%B4%E7%90%86%E4%BA%86+10+%E4%B8%AA%E7%9B%AE%E5%89%8D%E6%9C%80%E7%A8%B3%E7%9A%84%E5%BC%80%E6%BA%90+MCP+%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%A4%8D%E5%88%B6%E5%B0%B1%E8%83%BD%E7%94%A8%E3%80%82%E5%BF%85%E8%A3%85%E6%A0%B8%E5%BF%83%E5%B7%A5%E5%85%B7%E6%B8%85%E5%8D%95+GitHub+MCP+Server%E7%9B%B4%E6%8E%A5%E8%AE%A9+AI+%E8%AF%BB%E5%8F%96+Issue%E3%80%81PR+%E5%92%8C%E6%8F%90%E4%BA%A4%E5%8E%86%E5%8F%B2%EF%BC%8C%E6%97%A0%E9%9C%80%E6%89%8B%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [工具](工具.md), [开源](开源.md), [数据](数据.md), [服务器](服务器.md), [核心](核心.md), [直接](直接.md), [频繁](频繁.md)
+___
 ##### 2026-08-02 03:08:55 UTC ~ 𝙩𝙮≃𝙛{𝕩}^A𝕀²·ℙarad𝕚g𝕞
 > RT @TaNGSoFT: MCP 不是第六圈年轮我们的框架确立了五圈：prompt → context → harness → loop → graph，是共存的、从未退场。那最新更新的MCP 是什么关系？MCP不是接在 graph 后面的第六圈。理由很简单：五圈…
 

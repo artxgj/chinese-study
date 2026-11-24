@@ -7,19 +7,19 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Gemini) for definition
 ### Tweets containing Gemini
 
 ___
+##### 2026-09-26 09:53:05 UTC ~ 
+> RT @zhongwen_ai: 有人问 @nntaleb 老师，世上可有一门秘密科学连接其他所有学科，塔勒布老师答：概率论。顺着这条思路，让Gemini推荐了两本入门书。- Feller 的《An Introduction to Probability Theory an…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zhongwen_ai%3A+%E6%9C%89%E4%BA%BA%E9%97%AE+%40nntaleb+%E8%80%81%E5%B8%88%EF%BC%8C%E4%B8%96%E4%B8%8A%E5%8F%AF%E6%9C%89%E4%B8%80%E9%97%A8%E7%A7%98%E5%AF%86%E7%A7%91%E5%AD%A6%E8%BF%9E%E6%8E%A5%E5%85%B6%E4%BB%96%E6%89%80%E6%9C%89%E5%AD%A6%E7%A7%91%EF%BC%8C%E5%A1%94%E5%8B%92%E5%B8%83%E8%80%81%E5%B8%88%E7%AD%94%EF%BC%9A%E6%A6%82%E7%8E%87%E8%AE%BA%E3%80%82%E9%A1%BA%E7%9D%80%E8%BF%99%E6%9D%A1%E6%80%9D%E8%B7%AF%EF%BC%8C%E8%AE%A9Gemini%E6%8E%A8%E8%8D%90%E4%BA%86%E4%B8%A4%E6%9C%AC%E5%85%A5%E9%97%A8%E4%B9%A6%E3%80%82-+Feller+%E7%9A%84%E3%80%8AAn+Introduction+to+Probability+Theory+an%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[推荐](推荐.md), [连接](连接.md)
+___
 ##### 2026-07-31 01:15:55 UTC ~ 超级财经 SuperFinance
 > RT @SupFin: 美军教你用AI：第一步，打开Gemini；第二步，输入“创建一个发动战争的agent”。这不是开玩笑，这是官方演示。当然，屏幕里的WAR也可能只是WeeklyActivityReport，也就是每周活动报告。与此同时，有消息称特朗普近日对幕僚大发脾气，认…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40SupFin%3A+%E7%BE%8E%E5%86%9B%E6%95%99%E4%BD%A0%E7%94%A8AI%EF%BC%9A%E7%AC%AC%E4%B8%80%E6%AD%A5%EF%BC%8C%E6%89%93%E5%BC%80Gemini%EF%BC%9B%E7%AC%AC%E4%BA%8C%E6%AD%A5%EF%BC%8C%E8%BE%93%E5%85%A5%E2%80%9C%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89%E7%9A%84agent%E2%80%9D%E3%80%82%E8%BF%99%E4%B8%8D%E6%98%AF%E5%BC%80%E7%8E%A9%E7%AC%91%EF%BC%8C%E8%BF%99%E6%98%AF%E5%AE%98%E6%96%B9%E6%BC%94%E7%A4%BA%E3%80%82%E5%BD%93%E7%84%B6%EF%BC%8C%E5%B1%8F%E5%B9%95%E9%87%8C%E7%9A%84WAR%E4%B9%9F%E5%8F%AF%E8%83%BD%E5%8F%AA%E6%98%AFWeeklyActivityReport%EF%BC%8C%E4%B9%9F%E5%B0%B1%E6%98%AF%E6%AF%8F%E5%91%A8%E6%B4%BB%E5%8A%A8%E6%8A%A5%E5%91%8A%E3%80%82%E4%B8%8E%E6%AD%A4%E5%90%8C%E6%97%B6%EF%BC%8C%E6%9C%89%E6%B6%88%E6%81%AF%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%91%E6%97%A5%E5%AF%B9%E5%B9%95%E5%83%9A%E5%A4%A7%E5%8F%91%E8%84%BE%E6%B0%94%EF%BC%8C%E8%AE%A4%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [屏幕](屏幕.md), [特朗普](特朗普.md)
-___
-##### 2026-07-30 23:08:21 UTC ~ 海洋馆馆长
-> RT @CycleDecoded: DeepSeek R1 的“强逻辑大脑”加上 Claude 3.7 / Gemini 的“神级文笔”，这套缝合怪组合拳真有人做出来了！GitHub 上刚爆火的项目 DeepClaude（作者 ErlichLiu），目前已斩获 2.9k S…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CycleDecoded%3A+DeepSeek+R1+%E7%9A%84%E2%80%9C%E5%BC%BA%E9%80%BB%E8%BE%91%E5%A4%A7%E8%84%91%E2%80%9D%E5%8A%A0%E4%B8%8A+Claude+3.7+%2F+Gemini+%E7%9A%84%E2%80%9C%E7%A5%9E%E7%BA%A7%E6%96%87%E7%AC%94%E2%80%9D%EF%BC%8C%E8%BF%99%E5%A5%97%E7%BC%9D%E5%90%88%E6%80%AA%E7%BB%84%E5%90%88%E6%8B%B3%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81GitHub+%E4%B8%8A%E5%88%9A%E7%88%86%E7%81%AB%E7%9A%84%E9%A1%B9%E7%9B%AE+DeepClaude%EF%BC%88%E4%BD%9C%E8%80%85+ErlichLiu%EF%BC%89%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%96%A9%E8%8E%B7+2.9k+S%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[Claude](Claude.md), [DeepSeek](DeepSeek.md), [逻辑](逻辑.md), [项目](项目.md)
 ___
 ##### 2026-07-30 11:44:14 UTC ~ nicekate
 > RT @nicekate8888: 来一个搞笑视频《水墨虾跃入未来城市》视频1 MiniMax H3 文本生成视频，水墨虾的虾须很酷视频2-3 分别是 Grok Imagine、Gemini Omni，虾的数量搞错了三款模型在指令遵循上都有些问题，不过这轮对比下来，…

@@ -8,6 +8,48 @@ Search [wiktionary](https://en.wiktionary.org/wiki/DeepSeek) for definition
 ### Tweets containing DeepSeek
 
 ___
+##### 2025-02-22 19:06:04 UTC ~ 通傳媒
+> RT @TongMediaHK: 【DeepSeek宣布開源五個代碼庫】中國人工智能“深度求索”（DeepSeek）2月21日宣布，接下來一周，將陸續開源五個代碼庫，每日都有新內容解鎖，進一步分享新的進展。（來源：香港新聞網）詳情：https://t.co/S0ud7e5h…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40TongMediaHK%3A+%E3%80%90DeepSeek%E5%AE%A3%E5%B8%83%E9%96%8B%E6%BA%90%E4%BA%94%E5%80%8B%E4%BB%A3%E7%A2%BC%E5%BA%AB%E3%80%91%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E2%80%9C%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%E2%80%9D%EF%BC%88DeepSeek%EF%BC%892%E6%9C%8821%E6%97%A5%E5%AE%A3%E5%B8%83%EF%BC%8C%E6%8E%A5%E4%B8%8B%E4%BE%86%E4%B8%80%E5%91%A8%EF%BC%8C%E5%B0%87%E9%99%B8%E7%BA%8C%E9%96%8B%E6%BA%90%E4%BA%94%E5%80%8B%E4%BB%A3%E7%A2%BC%E5%BA%AB%EF%BC%8C%E6%AF%8F%E6%97%A5%E9%83%BD%E6%9C%89%E6%96%B0%E5%85%A7%E5%AE%B9%E8%A7%A3%E9%8E%96%EF%BC%8C%E9%80%B2%E4%B8%80%E6%AD%A5%E5%88%86%E4%BA%AB%E6%96%B0%E7%9A%84%E9%80%B2%E5%B1%95%E3%80%82%EF%BC%88%E4%BE%86%E6%BA%90%EF%BC%9A%E9%A6%99%E6%B8%AF%E6%96%B0%E8%81%9E%E7%B6%B2%EF%BC%89%E8%A9%B3%E6%83%85%EF%BC%9Ahttps%3A%2F%2Ft.co%2FS0ud7e5h%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工智能](人工智能.md), [代碼](代碼.md), [深度求索](深度求索.md), [開源](開源.md), [香港](香港.md)
+___
+##### 2025-02-22 09:53:12 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 黄仁勋强调，AI计算不仅仅是预训练和推理的简单过程，而是一个持续优化、不断升级的循环。#南洋商报 #黃仁勳 #DeepSeek #AI #nvidia https://t.co/hLRnVg1juB https://t.co/ODnfdb…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%BC%BA%E8%B0%83%EF%BC%8CAI%E8%AE%A1%E7%AE%97%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E9%A2%84%E8%AE%AD%E7%BB%83%E5%92%8C%E6%8E%A8%E7%90%86%E7%9A%84%E7%AE%80%E5%8D%95%E8%BF%87%E7%A8%8B%EF%BC%8C%E8%80%8C%E6%98%AF%E4%B8%80%E4%B8%AA%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96%E3%80%81%E4%B8%8D%E6%96%AD%E5%8D%87%E7%BA%A7%E7%9A%84%E5%BE%AA%E7%8E%AF%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23%E9%BB%83%E4%BB%81%E5%8B%B3+%23DeepSeek+%23AI+%23nvidia+https%3A%2F%2Ft.co%2FhLRnVg1juB+https%3A%2F%2Ft.co%2FODnfdb%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[不仅](不仅.md), [优化](优化.md), [升级](升级.md), [持续](持续.md), [推理](推理.md), [黃仁勳](黃仁勳.md), [黄仁勋](黄仁勋.md)
+___
+##### 2025-02-22 09:41:45 UTC ~ 𝐶𝑜𝑟𝑟𝑖𝑛𝑒✨
+> RT @Qpigpig: 梁文峰决定下周彻底开源DeepSeek核心五大代码库。这是对马斯克自称“最强大AI模型”的回击，也是彻底打碎了美国星际之门的战略。DS确实是要集国内甚至国际的力量来共建模型。马斯克自家搞花了几十亿美金来建模，换做普通小公司根本撑不了，DS彻底开源这…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Qpigpig%3A+%E6%A2%81%E6%96%87%E5%B3%B0%E5%86%B3%E5%AE%9A%E4%B8%8B%E5%91%A8%E5%BD%BB%E5%BA%95%E5%BC%80%E6%BA%90DeepSeek%E6%A0%B8%E5%BF%83%E4%BA%94%E5%A4%A7%E4%BB%A3%E7%A0%81%E5%BA%93%E3%80%82%E8%BF%99%E6%98%AF%E5%AF%B9%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E7%A7%B0%E2%80%9C%E6%9C%80%E5%BC%BA%E5%A4%A7AI%E6%A8%A1%E5%9E%8B%E2%80%9D%E7%9A%84%E5%9B%9E%E5%87%BB%EF%BC%8C%E4%B9%9F%E6%98%AF%E5%BD%BB%E5%BA%95%E6%89%93%E7%A2%8E%E4%BA%86%E7%BE%8E%E5%9B%BD%E6%98%9F%E9%99%85%E4%B9%8B%E9%97%A8%E7%9A%84%E6%88%98%E7%95%A5%E3%80%82DS%E7%A1%AE%E5%AE%9E%E6%98%AF%E8%A6%81%E9%9B%86%E5%9B%BD%E5%86%85%E7%94%9A%E8%87%B3%E5%9B%BD%E9%99%85%E7%9A%84%E5%8A%9B%E9%87%8F%E6%9D%A5%E5%85%B1%E5%BB%BA%E6%A8%A1%E5%9E%8B%E3%80%82%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E5%AE%B6%E6%90%9E%E8%8A%B1%E4%BA%86%E5%87%A0%E5%8D%81%E4%BA%BF%E7%BE%8E%E9%87%91%E6%9D%A5%E5%BB%BA%E6%A8%A1%EF%BC%8C%E6%8D%A2%E5%81%9A%E6%99%AE%E9%80%9A%E5%B0%8F%E5%85%AC%E5%8F%B8%E6%A0%B9%E6%9C%AC%E6%92%91%E4%B8%8D%E4%BA%86%EF%BC%8CDS%E5%BD%BB%E5%BA%95%E5%BC%80%E6%BA%90%E8%BF%99%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[代码](代码.md), [开源](开源.md), [战略](战略.md), [核心](核心.md), [模型](模型.md), [美国](美国.md), [金](金.md)
+___
+##### 2025-02-22 06:34:51 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: DeepSeek称，任何人都可以下载、构建或改进广受好评的R1或其他平台背后的代码。#南洋商报 #DeepSeek #AI #人工智能 https://t.co/0qk2LVITtZ https://t.co/OjmBrQh4uA
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+DeepSeek%E7%A7%B0%EF%BC%8C%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E5%8F%AF%E4%BB%A5%E4%B8%8B%E8%BD%BD%E3%80%81%E6%9E%84%E5%BB%BA%E6%88%96%E6%94%B9%E8%BF%9B%E5%B9%BF%E5%8F%97%E5%A5%BD%E8%AF%84%E7%9A%84R1%E6%88%96%E5%85%B6%E4%BB%96%E5%B9%B3%E5%8F%B0%E8%83%8C%E5%90%8E%E7%9A%84%E4%BB%A3%E7%A0%81%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23DeepSeek+%23AI+%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD+https%3A%2F%2Ft.co%2F0qk2LVITtZ+https%3A%2F%2Ft.co%2FOjmBrQh4uA)
+##### Other Words/Names of Interest in the Above Tweet
+[人工智能](人工智能.md), [代码](代码.md), [平台](平台.md)
+___
+##### 2025-02-22 06:34:21 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 中国浙江义乌一名老板娘利用DeepSeek直播带货走红，在脸书的视频里，老板娘用阿拉伯语熟练地介绍商品。其实，这段视频是由AI生成的。https://t.co/eyqs7JvauB https://t.co/9EHFJxzv4W
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E4%B8%AD%E5%9B%BD%E6%B5%99%E6%B1%9F%E4%B9%89%E4%B9%8C%E4%B8%80%E5%90%8D%E8%80%81%E6%9D%BF%E5%A8%98%E5%88%A9%E7%94%A8DeepSeek%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B5%B0%E7%BA%A2%EF%BC%8C%E5%9C%A8%E8%84%B8%E4%B9%A6%E7%9A%84%E8%A7%86%E9%A2%91%E9%87%8C%EF%BC%8C%E8%80%81%E6%9D%BF%E5%A8%98%E7%94%A8%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD%E7%86%9F%E7%BB%83%E5%9C%B0%E4%BB%8B%E7%BB%8D%E5%95%86%E5%93%81%E3%80%82%E5%85%B6%E5%AE%9E%EF%BC%8C%E8%BF%99%E6%AE%B5%E8%A7%86%E9%A2%91%E6%98%AF%E7%94%B1AI%E7%94%9F%E6%88%90%E7%9A%84%E3%80%82https%3A%2F%2Ft.co%2Feyqs7JvauB+https%3A%2F%2Ft.co%2F9EHFJxzv4W)
+##### Other Words/Names of Interest in the Above Tweet
+[义乌](义乌.md), [商品](商品.md), [浙江](浙江.md)
+___
+##### 2025-02-22 05:37:22 UTC ~ 联合早报 Lianhe Zaobao
+> RT @zaobaosg: 早在中国人工智能公司深度求索（DeepSeek）爆火之前，从事AI研究的“95后”罗福莉去年底因传被小米集团董事长雷军高薪挖角而走入公众视野，被中国媒体封为“天才AI少女”。对于自己频频成为话题焦点，罗福莉高呼：“神化一个人的结果就是捧得多高摔得多重…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E6%97%A9%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%B7%B1%E5%BA%A6%E6%B1%82%E7%B4%A2%EF%BC%88DeepSeek%EF%BC%89%E7%88%86%E7%81%AB%E4%B9%8B%E5%89%8D%EF%BC%8C%E4%BB%8E%E4%BA%8BAI%E7%A0%94%E7%A9%B6%E7%9A%84%E2%80%9C95%E5%90%8E%E2%80%9D%E7%BD%97%E7%A6%8F%E8%8E%89%E5%8E%BB%E5%B9%B4%E5%BA%95%E5%9B%A0%E4%BC%A0%E8%A2%AB%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E9%9B%B7%E5%86%9B%E9%AB%98%E8%96%AA%E6%8C%96%E8%A7%92%E8%80%8C%E8%B5%B0%E5%85%A5%E5%85%AC%E4%BC%97%E8%A7%86%E9%87%8E%EF%BC%8C%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E5%B0%81%E4%B8%BA%E2%80%9C%E5%A4%A9%E6%89%8DAI%E5%B0%91%E5%A5%B3%E2%80%9D%E3%80%82%E5%AF%B9%E4%BA%8E%E8%87%AA%E5%B7%B1%E9%A2%91%E9%A2%91%E6%88%90%E4%B8%BA%E8%AF%9D%E9%A2%98%E7%84%A6%E7%82%B9%EF%BC%8C%E7%BD%97%E7%A6%8F%E8%8E%89%E9%AB%98%E5%91%BC%EF%BC%9A%E2%80%9C%E7%A5%9E%E5%8C%96%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E7%BB%93%E6%9E%9C%E5%B0%B1%E6%98%AF%E6%8D%A7%E5%BE%97%E5%A4%9A%E9%AB%98%E6%91%94%E5%BE%97%E5%A4%9A%E9%87%8D%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[人工智能](人工智能.md), [小米](小米.md), [深度求索](深度求索.md), [焦点](焦点.md), [雷军](雷军.md)
+___
 ##### 2025-02-22 04:44:11 UTC ~ 中國新聞社
 > RT @CNS1952: 【多地政務系統接入DeepSeek，AI公務員批量上崗】開年以來，北京、廣東、江蘇、江西、內蒙古等多地政務系統都已接入 DeepSeek… https://t.co/pCMZSeG6PA
 

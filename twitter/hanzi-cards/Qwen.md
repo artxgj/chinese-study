@@ -110,14 +110,14 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [正式](正式.md), [离职](离职.md)
 ___
-##### 2026-03-03 23:20:00 UTC ~ 知县｜zhixian
+##### 2026-03-03 23:20:00 UTC ~ 知县｜zhixian 🐚
 > RT @zhixianio: 刚刚测试了一下在 32G 内存的 M4 Mac Mini 上跑了最新的 Qwen 3.5 35B MoE Text 版本，感觉智商还是在线的，速度也可以接受（差不多 20+ tok/s），感觉可以作为日常执行用的大脑了。32G 的内存刚刚好够用，有…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zhixianio%3A+%E5%88%9A%E5%88%9A%E6%B5%8B%E8%AF%95%E4%BA%86%E4%B8%80%E4%B8%8B%E5%9C%A8+32G+%E5%86%85%E5%AD%98%E7%9A%84+M4+Mac+Mini+%E4%B8%8A%E8%B7%91%E4%BA%86%E6%9C%80%E6%96%B0%E7%9A%84+Qwen+3.5+35B+MoE+Text+%E7%89%88%E6%9C%AC%EF%BC%8C%E6%84%9F%E8%A7%89%E6%99%BA%E5%95%86%E8%BF%98%E6%98%AF%E5%9C%A8%E7%BA%BF%E7%9A%84%EF%BC%8C%E9%80%9F%E5%BA%A6%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%EF%BC%88%E5%B7%AE%E4%B8%8D%E5%A4%9A+20%2B+tok%2Fs%EF%BC%89%EF%BC%8C%E6%84%9F%E8%A7%89%E5%8F%AF%E4%BB%A5%E4%BD%9C%E4%B8%BA%E6%97%A5%E5%B8%B8%E6%89%A7%E8%A1%8C%E7%94%A8%E7%9A%84%E5%A4%A7%E8%84%91%E4%BA%86%E3%80%8232G+%E7%9A%84%E5%86%85%E5%AD%98%E5%88%9A%E5%88%9A%E5%A5%BD%E5%A4%9F%E7%94%A8%EF%BC%8C%E6%9C%89%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [Mac](Mac.md), [执行](执行.md), [速度](速度.md)
 ___
-##### 2026-03-03 21:52:42 UTC ~ Panda@Cerul.ai
+##### 2026-03-03 21:52:42 UTC ~ Jiaxi Cui
 > RT @Jiaxi_Cui: 普通人要到很久之后才会知道Qwen引领了一个多么伟大的时代如果没有这两年Qwen的无私贡献，你们熟悉的国内新能源电车根本搭载不了现在这样好用的大模型，以及迅速做出自家的VLA模型机器人公司同理你们以为这些模型都是他们…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jiaxi_Cui%3A+%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81%E5%88%B0%E5%BE%88%E4%B9%85%E4%B9%8B%E5%90%8E%E6%89%8D%E4%BC%9A%E7%9F%A5%E9%81%93Qwen%E5%BC%95%E9%A2%86%E4%BA%86%E4%B8%80%E4%B8%AA%E5%A4%9A%E4%B9%88%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%97%B6%E4%BB%A3%E5%A6%82%E6%9E%9C%E6%B2%A1%E6%9C%89%E8%BF%99%E4%B8%A4%E5%B9%B4Qwen%E7%9A%84%E6%97%A0%E7%A7%81%E8%B4%A1%E7%8C%AE%EF%BC%8C%E4%BD%A0%E4%BB%AC%E7%86%9F%E6%82%89%E7%9A%84%E5%9B%BD%E5%86%85%E6%96%B0%E8%83%BD%E6%BA%90%E7%94%B5%E8%BD%A6%E6%A0%B9%E6%9C%AC%E6%90%AD%E8%BD%BD%E4%B8%8D%E4%BA%86%E7%8E%B0%E5%9C%A8%E8%BF%99%E6%A0%B7%E5%A5%BD%E7%94%A8%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E4%BB%A5%E5%8F%8A%E8%BF%85%E9%80%9F%E5%81%9A%E5%87%BA%E8%87%AA%E5%AE%B6%E7%9A%84VLA%E6%A8%A1%E5%9E%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8%E5%90%8C%E7%90%86%E4%BD%A0%E4%BB%AC%E4%BB%A5%E4%B8%BA%E8%BF%99%E4%BA%9B%E6%A8%A1%E5%9E%8B%E9%83%BD%E6%98%AF%E4%BB%96%E4%BB%AC%E2%80%A6)

@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/iOS) for definition
 ### Tweets containing iOS
 
 ___
+##### 2026-09-18 08:45:29 UTC ~ Simbao
+> RT @lixinbao_X: iOS 27正式版才推送两天，苹果直接甩出27.2 Beta，中间的27.1却消失了。原因很可能是：27.1专门留给10月23日上市的iPhone Duo。垂直Dock、竖向灵动岛、双屏多任务等功能都藏在里面，提前放出来等于自己剧透。27…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+iOS+27%E6%AD%A3%E5%BC%8F%E7%89%88%E6%89%8D%E6%8E%A8%E9%80%81%E4%B8%A4%E5%A4%A9%EF%BC%8C%E8%8B%B9%E6%9E%9C%E7%9B%B4%E6%8E%A5%E7%94%A9%E5%87%BA27.2+Beta%EF%BC%8C%E4%B8%AD%E9%97%B4%E7%9A%8427.1%E5%8D%B4%E6%B6%88%E5%A4%B1%E4%BA%86%E3%80%82%E5%8E%9F%E5%9B%A0%E5%BE%88%E5%8F%AF%E8%83%BD%E6%98%AF%EF%BC%9A27.1%E4%B8%93%E9%97%A8%E7%95%99%E7%BB%9910%E6%9C%8823%E6%97%A5%E4%B8%8A%E5%B8%82%E7%9A%84iPhone+Duo%E3%80%82%E5%9E%82%E7%9B%B4Dock%E3%80%81%E7%AB%96%E5%90%91%E7%81%B5%E5%8A%A8%E5%B2%9B%E3%80%81%E5%8F%8C%E5%B1%8F%E5%A4%9A%E4%BB%BB%E5%8A%A1%E7%AD%89%E5%8A%9F%E8%83%BD%E9%83%BD%E8%97%8F%E5%9C%A8%E9%87%8C%E9%9D%A2%EF%BC%8C%E6%8F%90%E5%89%8D%E6%94%BE%E5%87%BA%E6%9D%A5%E7%AD%89%E4%BA%8E%E8%87%AA%E5%B7%B1%E5%89%A7%E9%80%8F%E3%80%8227%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [正式](正式.md), [直接](直接.md), [苹果](苹果.md)
+___
+##### 2026-09-18 03:22:10 UTC ~ TechNews 科技新報
+> RT @technews_tw: iPhone Duo 雖然在展開厚度與重量等硬體規格上不及三星 Galaxy Z Fold8 Ultra，但蘋果透過全新的 iOS 27 軟體機制與 Hinge API，成功將「摺疊」轉化為極致順暢的互動體驗。 #iPhoneDuo #蘋果摺疊…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+iPhone+Duo+%E9%9B%96%E7%84%B6%E5%9C%A8%E5%B1%95%E9%96%8B%E5%8E%9A%E5%BA%A6%E8%88%87%E9%87%8D%E9%87%8F%E7%AD%89%E7%A1%AC%E9%AB%94%E8%A6%8F%E6%A0%BC%E4%B8%8A%E4%B8%8D%E5%8F%8A%E4%B8%89%E6%98%9F+Galaxy+Z+Fold8+Ultra%EF%BC%8C%E4%BD%86%E8%98%8B%E6%9E%9C%E9%80%8F%E9%81%8E%E5%85%A8%E6%96%B0%E7%9A%84+iOS+27+%E8%BB%9F%E9%AB%94%E6%A9%9F%E5%88%B6%E8%88%87+Hinge+API%EF%BC%8C%E6%88%90%E5%8A%9F%E5%B0%87%E3%80%8C%E6%91%BA%E7%96%8A%E3%80%8D%E8%BD%89%E5%8C%96%E7%82%BA%E6%A5%B5%E8%87%B4%E9%A0%86%E6%9A%A2%E7%9A%84%E4%BA%92%E5%8B%95%E9%AB%94%E9%A9%97%E3%80%82+%23iPhoneDuo+%23%E8%98%8B%E6%9E%9C%E6%91%BA%E7%96%8A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[iPhone](iPhone.md), [三星](三星.md), [蘋果](蘋果.md)
+___
 ##### 2026-08-13 08:57:29 UTC ~ 娜美知识库
 > RT @fhwofjow51260: iPhone 改定位居然可以这么简单：不用越狱、不用 Mac，导入一个模块就能搞定。这个开源项目 iOS Location Spoofer，利用代理软件的 HTTPS 解密能力，修改 Apple 返回给 iPhone 的 WiFi 和基…
 
@@ -28,7 +42,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [iPhone](iPhone.md), [支援](支援.md), [電池](電池.md)
 ___
-##### 2026-07-20 22:57:20 UTC ~ Amto
+##### 2026-07-20 22:57:20 UTC ~ 
 > RT @XAMTO_AI: 手边有闲置的iPhone或iPad？不少人应该都有。放着吃灰觉得可惜，想拿来当副屏又发现市面上的方案多少都有点门槛。OpenDisplay 这个开源项目把这事儿简单化了。免费、开源、不需要账号、不需要额外硬件，就能把闲置的iOS设备变成Mac的第…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XAMTO_AI%3A+%E6%89%8B%E8%BE%B9%E6%9C%89%E9%97%B2%E7%BD%AE%E7%9A%84iPhone%E6%88%96iPad%EF%BC%9F%E4%B8%8D%E5%B0%91%E4%BA%BA%E5%BA%94%E8%AF%A5%E9%83%BD%E6%9C%89%E3%80%82%E6%94%BE%E7%9D%80%E5%90%83%E7%81%B0%E8%A7%89%E5%BE%97%E5%8F%AF%E6%83%9C%EF%BC%8C%E6%83%B3%E6%8B%BF%E6%9D%A5%E5%BD%93%E5%89%AF%E5%B1%8F%E5%8F%88%E5%8F%91%E7%8E%B0%E5%B8%82%E9%9D%A2%E4%B8%8A%E7%9A%84%E6%96%B9%E6%A1%88%E5%A4%9A%E5%B0%91%E9%83%BD%E6%9C%89%E7%82%B9%E9%97%A8%E6%A7%9B%E3%80%82OpenDisplay+%E8%BF%99%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%8A%8A%E8%BF%99%E4%BA%8B%E5%84%BF%E7%AE%80%E5%8D%95%E5%8C%96%E4%BA%86%E3%80%82%E5%85%8D%E8%B4%B9%E3%80%81%E5%BC%80%E6%BA%90%E3%80%81%E4%B8%8D%E9%9C%80%E8%A6%81%E8%B4%A6%E5%8F%B7%E3%80%81%E4%B8%8D%E9%9C%80%E8%A6%81%E9%A2%9D%E5%A4%96%E7%A1%AC%E4%BB%B6%EF%BC%8C%E5%B0%B1%E8%83%BD%E6%8A%8A%E9%97%B2%E7%BD%AE%E7%9A%84iOS%E8%AE%BE%E5%A4%87%E5%8F%98%E6%88%90Mac%E7%9A%84%E7%AC%AC%E2%80%A6)
@@ -147,7 +161,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [升级](升级.md), [玻璃](玻璃.md)
 ___
-##### 2025-06-11 17:41:06 UTC ~ 
+##### 2025-06-11 17:41:06 UTC ~ Cyandev
 > RT @unixzii: #WWDC25 简单研究了一下 Liquid Glass 的实现，这个效果主要还是通过一系列私有 CALayer 的组合来实现的。这里 iOS 首次引入了 _UIMultiLayer 来隐藏一些底层的 sublayers，开发者通过 view.laye…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%23WWDC25+%E7%AE%80%E5%8D%95%E7%A0%94%E7%A9%B6%E4%BA%86%E4%B8%80%E4%B8%8B+Liquid+Glass+%E7%9A%84%E5%AE%9E%E7%8E%B0%EF%BC%8C%E8%BF%99%E4%B8%AA%E6%95%88%E6%9E%9C%E4%B8%BB%E8%A6%81%E8%BF%98%E6%98%AF%E9%80%9A%E8%BF%87%E4%B8%80%E7%B3%BB%E5%88%97%E7%A7%81%E6%9C%89+CALayer+%E7%9A%84%E7%BB%84%E5%90%88%E6%9D%A5%E5%AE%9E%E7%8E%B0%E7%9A%84%E3%80%82%E8%BF%99%E9%87%8C+iOS+%E9%A6%96%E6%AC%A1%E5%BC%95%E5%85%A5%E4%BA%86+_UIMultiLayer+%E6%9D%A5%E9%9A%90%E8%97%8F%E4%B8%80%E4%BA%9B%E5%BA%95%E5%B1%82%E7%9A%84+sublayers%EF%BC%8C%E5%BC%80%E5%8F%91%E8%80%85%E9%80%9A%E8%BF%87+view.laye%E2%80%A6)

@@ -7,7 +7,14 @@ Search [wiktionary](https://en.wiktionary.org/wiki/OpenAI) for definition
 ### Tweets containing OpenAI
 
 ___
-##### 2026-09-01 01:55:31 UTC ~ 李新宝
+##### 2026-09-21 07:09:21 UTC ~ TechNews 科技新報
+> RT @technews_tw: 甲骨文為支援 OpenAI 雲端合約所推動的新墨西哥州「木星計畫」，因 180 億美元貸款轉售遭拒、信評惡化與施工延宕，正面臨嚴重的融資與政治危機。 #甲骨文 #OpenAI #木星計畫 https://t.co/TAx5SHxX0h
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E7%94%B2%E9%AA%A8%E6%96%87%E7%82%BA%E6%94%AF%E6%8F%B4+OpenAI+%E9%9B%B2%E7%AB%AF%E5%90%88%E7%B4%84%E6%89%80%E6%8E%A8%E5%8B%95%E7%9A%84%E6%96%B0%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B7%9E%E3%80%8C%E6%9C%A8%E6%98%9F%E8%A8%88%E7%95%AB%E3%80%8D%EF%BC%8C%E5%9B%A0+180+%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%B8%E6%AC%BE%E8%BD%89%E5%94%AE%E9%81%AD%E6%8B%92%E3%80%81%E4%BF%A1%E8%A9%95%E6%83%A1%E5%8C%96%E8%88%87%E6%96%BD%E5%B7%A5%E5%BB%B6%E5%AE%95%EF%BC%8C%E6%AD%A3%E9%9D%A2%E8%87%A8%E5%9A%B4%E9%87%8D%E7%9A%84%E8%9E%8D%E8%B3%87%E8%88%87%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F%E3%80%82+%23%E7%94%B2%E9%AA%A8%E6%96%87+%23OpenAI+%23%E6%9C%A8%E6%98%9F%E8%A8%88%E7%95%AB+https%3A%2F%2Ft.co%2FTAx5SHxX0h)
+##### Other Words/Names of Interest in the Above Tweet
+[墨西哥](墨西哥.md), [推動](推動.md), [支援](支援.md), [木星](木星.md), [甲骨文](甲骨文.md), [融資](融資.md)
+___
+##### 2026-09-01 01:55:31 UTC ~ Simbao
 > RT @lixinbao_X: OpenAI狂买几万台Mac，苹果竟从英伟达嘴里抢到AI生意据报道，OpenAI已经采购了数万台Mac mini和Mac Studio，用来做强化学习，训练能自己操作电脑、改代码、整理邮箱的AI Agent。Anthropic也在通过AW…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40lixinbao_X%3A+OpenAI%E7%8B%82%E4%B9%B0%E5%87%A0%E4%B8%87%E5%8F%B0Mac%EF%BC%8C%E8%8B%B9%E6%9E%9C%E7%AB%9F%E4%BB%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%98%B4%E9%87%8C%E6%8A%A2%E5%88%B0AI%E7%94%9F%E6%84%8F%E6%8D%AE%E6%8A%A5%E9%81%93%EF%BC%8COpenAI%E5%B7%B2%E7%BB%8F%E9%87%87%E8%B4%AD%E4%BA%86%E6%95%B0%E4%B8%87%E5%8F%B0Mac+mini%E5%92%8CMac+Studio%EF%BC%8C%E7%94%A8%E6%9D%A5%E5%81%9A%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%EF%BC%8C%E8%AE%AD%E7%BB%83%E8%83%BD%E8%87%AA%E5%B7%B1%E6%93%8D%E4%BD%9C%E7%94%B5%E8%84%91%E3%80%81%E6%94%B9%E4%BB%A3%E7%A0%81%E3%80%81%E6%95%B4%E7%90%86%E9%82%AE%E7%AE%B1%E7%9A%84AI+Agent%E3%80%82Anthropic%E4%B9%9F%E5%9C%A8%E9%80%9A%E8%BF%87AW%E2%80%A6)
@@ -62,13 +69,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%E7%95%B6%E6%99%82%E5%85%A8%E4%B8%96%E7%95%8C%E6%B2%92%E4%BA%BA%E8%A6%81%EF%BC%8C%E9%99%A4%E4%BA%86%E9%A6%AC%E6%96%AF%E5%85%8B...+%23NVIDIA_DGX%E5%8D%81%E9%80%B1%E5%B9%B4+NVIDIA+%E8%BF%91%E6%97%A5%E7%99%BC%E6%96%87%E7%B4%80%E5%BF%B5+DGX+%E5%B9%B3%E5%8F%B0%E5%95%8F%E4%B8%96%E5%8D%81%E9%80%B1%E5%B9%B4%E3%80%822016+%E5%B9%B4%EF%BC%8C%E9%BB%83%E4%BB%81%E5%8B%B3%E5%B0%87%E9%A6%96%E5%8F%B0+DGX-1+%E8%A6%AA%E6%89%8B%E4%BA%A4%E4%BB%98%E9%A6%AC%E6%96%AF%E5%85%8B%E4%BB%8D%E5%9C%A8%E5%85%B6%E4%B8%AD%E7%9A%84+OpenAI%EF%BC%8C%E6%88%90%E7%82%BA%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E9%9D%A9%E5%91%BD%E7%9A%84%E8%B5%B7%E9%BB%9E%EF%BC%9B%E5%8D%81%E5%B9%B4%E9%96%93%EF%BC%8CDGX+%E5%BE%9E%E5%96%AE%E4%B8%80%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [平台](平台.md), [除了](除了.md), [黃仁勳](黃仁勳.md)
-___
-##### 2026-08-09 08:03:55 UTC ~ 海洋馆馆长
-> RT @CycleDecoded: 以为 OpenAI 那种高门槛的 Deep Research 离普通人很远？LangChain 官方直接把底裤都给扒出来了。LangChain 开源的 open_deep_research，说白了就是完全开源复刻了顶尖 AI 机构的“深度…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CycleDecoded%3A+%E4%BB%A5%E4%B8%BA+OpenAI+%E9%82%A3%E7%A7%8D%E9%AB%98%E9%97%A8%E6%A7%9B%E7%9A%84+Deep+Research+%E7%A6%BB%E6%99%AE%E9%80%9A%E4%BA%BA%E5%BE%88%E8%BF%9C%EF%BC%9FLangChain+%E5%AE%98%E6%96%B9%E7%9B%B4%E6%8E%A5%E6%8A%8A%E5%BA%95%E8%A3%A4%E9%83%BD%E7%BB%99%E6%89%92%E5%87%BA%E6%9D%A5%E4%BA%86%E3%80%82LangChain+%E5%BC%80%E6%BA%90%E7%9A%84+open_deep_research%EF%BC%8C%E8%AF%B4%E7%99%BD%E4%BA%86%E5%B0%B1%E6%98%AF%E5%AE%8C%E5%85%A8%E5%BC%80%E6%BA%90%E5%A4%8D%E5%88%BB%E4%BA%86%E9%A1%B6%E5%B0%96+AI+%E6%9C%BA%E6%9E%84%E7%9A%84%E2%80%9C%E6%B7%B1%E5%BA%A6%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[开源](开源.md), [机构](机构.md), [直接](直接.md), [门槛](门槛.md), [顶尖](顶尖.md)
 ___
 ##### 2026-08-05 10:21:47 UTC ~ TechNews 科技新報
 > RT @technews_tw: 尋求禁制令！蘋果尋求法院核發初步禁制令，要求 OpenAI 不得繼續開發基於蘋果技術的產品。 #蘋果 #OpenAI #商業機密 https://t.co/UhaI4ejZuZ

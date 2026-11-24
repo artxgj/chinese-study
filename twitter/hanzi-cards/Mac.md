@@ -7,6 +7,41 @@ Search [wiktionary](https://en.wiktionary.org/wiki/mac) for definition
 ### Tweets containing mac
 
 ___
+##### 2026-09-23 05:16:23 UTC ~ TechNews 科技新報
+> RT @technews_tw: macOS 資安專家揭露 Meta AI Agent「Muse」存在零時差漏洞，攻擊者可劫持語音轉錄端點並竊取 Token，進而濫用 Muse 已獲取的全系統權限控制裝置與個人帳號。 #Meta #Muse #AIAgent #零日漏洞 #ma…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+macOS+%E8%B3%87%E5%AE%89%E5%B0%88%E5%AE%B6%E6%8F%AD%E9%9C%B2+Meta+AI+Agent%E3%80%8CMuse%E3%80%8D%E5%AD%98%E5%9C%A8%E9%9B%B6%E6%99%82%E5%B7%AE%E6%BC%8F%E6%B4%9E%EF%BC%8C%E6%94%BB%E6%93%8A%E8%80%85%E5%8F%AF%E5%8A%AB%E6%8C%81%E8%AA%9E%E9%9F%B3%E8%BD%89%E9%8C%84%E7%AB%AF%E9%BB%9E%E4%B8%A6%E7%AB%8A%E5%8F%96+Token%EF%BC%8C%E9%80%B2%E8%80%8C%E6%BF%AB%E7%94%A8+Muse+%E5%B7%B2%E7%8D%B2%E5%8F%96%E7%9A%84%E5%85%A8%E7%B3%BB%E7%B5%B1%E6%AC%8A%E9%99%90%E6%8E%A7%E5%88%B6%E8%A3%9D%E7%BD%AE%E8%88%87%E5%80%8B%E4%BA%BA%E5%B8%B3%E8%99%9F%E3%80%82+%23Meta+%23Muse+%23AIAgent+%23%E9%9B%B6%E6%97%A5%E6%BC%8F%E6%B4%9E+%23ma%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[控制](控制.md), [揭露](揭露.md), [漏洞](漏洞.md), [竊取](竊取.md)
+___
+##### 2026-09-19 06:04:08 UTC ~ 徐伦
+> RT @Jolyne_AI: 平时用 Mac 干活，难免要回到家里那台 Windows：取文件、跑只有 Windows 才有的软件。可不少商业远程工具不是限速，就是动不动让你开会员。YourDesk 是一款打通 macOS 和 Windows 的远程桌面工具：输入对方 ID…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jolyne_AI%3A+%E5%B9%B3%E6%97%B6%E7%94%A8+Mac+%E5%B9%B2%E6%B4%BB%EF%BC%8C%E9%9A%BE%E5%85%8D%E8%A6%81%E5%9B%9E%E5%88%B0%E5%AE%B6%E9%87%8C%E9%82%A3%E5%8F%B0+Windows%EF%BC%9A%E5%8F%96%E6%96%87%E4%BB%B6%E3%80%81%E8%B7%91%E5%8F%AA%E6%9C%89+Windows+%E6%89%8D%E6%9C%89%E7%9A%84%E8%BD%AF%E4%BB%B6%E3%80%82%E5%8F%AF%E4%B8%8D%E5%B0%91%E5%95%86%E4%B8%9A%E8%BF%9C%E7%A8%8B%E5%B7%A5%E5%85%B7%E4%B8%8D%E6%98%AF%E9%99%90%E9%80%9F%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%8A%A8%E4%B8%8D%E5%8A%A8%E8%AE%A9%E4%BD%A0%E5%BC%80%E4%BC%9A%E5%91%98%E3%80%82YourDesk+%E6%98%AF%E4%B8%80%E6%AC%BE%E6%89%93%E9%80%9A+macOS+%E5%92%8C+Windows+%E7%9A%84%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7%EF%BC%9A%E8%BE%93%E5%85%A5%E5%AF%B9%E6%96%B9+ID%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [Windows](Windows.md), [工具](工具.md), [文件](文件.md)
+___
+##### 2026-09-18 01:22:13 UTC ~ 初码
+> RT @chumacn: 至此，中国大模型工程双霸正式诞生！对照之前，DeepSeek在整体架构、数据与奖励、后训练方法、精度处理、算子、通讯等偏算法侧、训练侧的工程上保持领先。而智谱如今在推理侧也逐渐掌握了霸权，长上下文、缓存、网络协同等都是智谱的重点方向，而它甚至把KV的容…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chumacn%3A+%E8%87%B3%E6%AD%A4%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B7%A5%E7%A8%8B%E5%8F%8C%E9%9C%B8%E6%AD%A3%E5%BC%8F%E8%AF%9E%E7%94%9F%EF%BC%81%E5%AF%B9%E7%85%A7%E4%B9%8B%E5%89%8D%EF%BC%8CDeepSeek%E5%9C%A8%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E3%80%81%E6%95%B0%E6%8D%AE%E4%B8%8E%E5%A5%96%E5%8A%B1%E3%80%81%E5%90%8E%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95%E3%80%81%E7%B2%BE%E5%BA%A6%E5%A4%84%E7%90%86%E3%80%81%E7%AE%97%E5%AD%90%E3%80%81%E9%80%9A%E8%AE%AF%E7%AD%89%E5%81%8F%E7%AE%97%E6%B3%95%E4%BE%A7%E3%80%81%E8%AE%AD%E7%BB%83%E4%BE%A7%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%8A%E4%BF%9D%E6%8C%81%E9%A2%86%E5%85%88%E3%80%82%E8%80%8C%E6%99%BA%E8%B0%B1%E5%A6%82%E4%BB%8A%E5%9C%A8%E6%8E%A8%E7%90%86%E4%BE%A7%E4%B9%9F%E9%80%90%E6%B8%90%E6%8E%8C%E6%8F%A1%E4%BA%86%E9%9C%B8%E6%9D%83%EF%BC%8C%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E3%80%81%E7%BC%93%E5%AD%98%E3%80%81%E7%BD%91%E7%BB%9C%E5%8D%8F%E5%90%8C%E7%AD%89%E9%83%BD%E6%98%AF%E6%99%BA%E8%B0%B1%E7%9A%84%E9%87%8D%E7%82%B9%E6%96%B9%E5%90%91%EF%BC%8C%E8%80%8C%E5%AE%83%E7%94%9A%E8%87%B3%E6%8A%8AKV%E7%9A%84%E5%AE%B9%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [上下文](上下文.md), [处理](处理.md), [奖励](奖励.md), [如今](如今.md), [推理](推理.md), [数据](数据.md), [智谱](智谱.md), [模型](模型.md), [正式](正式.md), [算法](算法.md), [精度](精度.md), [逐渐](逐渐.md)
+___
+##### 2026-09-17 07:11:02 UTC ~ Geek Lite
+> RT @QingQ77: 在 macOS 上按住 fn 键说话，松开后把标点齐整、去掉口头禅的文字直接输入到光标处，无需切换窗口和复制粘贴，对就是这样简单https://t.co/5md2QdB6PZ https://t.co/jpkRiYHgVR
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40QingQ77%3A+%E5%9C%A8+macOS+%E4%B8%8A%E6%8C%89%E4%BD%8F+fn+%E9%94%AE%E8%AF%B4%E8%AF%9D%EF%BC%8C%E6%9D%BE%E5%BC%80%E5%90%8E%E6%8A%8A%E6%A0%87%E7%82%B9%E9%BD%90%E6%95%B4%E3%80%81%E5%8E%BB%E6%8E%89%E5%8F%A3%E5%A4%B4%E7%A6%85%E7%9A%84%E6%96%87%E5%AD%97%E7%9B%B4%E6%8E%A5%E8%BE%93%E5%85%A5%E5%88%B0%E5%85%89%E6%A0%87%E5%A4%84%EF%BC%8C%E6%97%A0%E9%9C%80%E5%88%87%E6%8D%A2%E7%AA%97%E5%8F%A3%E5%92%8C%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%EF%BC%8C%E5%AF%B9%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E7%AE%80%E5%8D%95https%3A%2F%2Ft.co%2F5md2QdB6PZ+https%3A%2F%2Ft.co%2FjpkRiYHgVR)
+##### Other Words/Names of Interest in the Above Tweet
+[直接](直接.md)
+___
+##### 2026-09-12 03:17:03 UTC ~ LotusDecoder
+> RT @LotusDecoder: anthropic 故事会里，全是啥黑客啊、战争啊、崩老头啊，宏大叙事。反观DeepSeek-V4.1-Flash才是普通人的小确幸，在mac m5 128g上可以跑15t/s。次旗舰模型飞入寻常百姓家，有助于自己生活和工作。☺️
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40LotusDecoder%3A+anthropic+%E6%95%85%E4%BA%8B%E4%BC%9A%E9%87%8C%EF%BC%8C%E5%85%A8%E6%98%AF%E5%95%A5%E9%BB%91%E5%AE%A2%E5%95%8A%E3%80%81%E6%88%98%E4%BA%89%E5%95%8A%E3%80%81%E5%B4%A9%E8%80%81%E5%A4%B4%E5%95%8A%EF%BC%8C%E5%AE%8F%E5%A4%A7%E5%8F%99%E4%BA%8B%E3%80%82%E5%8F%8D%E8%A7%82DeepSeek-V4.1-Flash%E6%89%8D%E6%98%AF%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%A1%AE%E5%B9%B8%EF%BC%8C%E5%9C%A8mac+m5+128g%E4%B8%8A%E5%8F%AF%E4%BB%A5%E8%B7%9115t%2Fs%E3%80%82%E6%AC%A1%E6%97%97%E8%88%B0%E6%A8%A1%E5%9E%8B%E9%A3%9E%E5%85%A5%E5%AF%BB%E5%B8%B8%E7%99%BE%E5%A7%93%E5%AE%B6%EF%BC%8C%E6%9C%89%E5%8A%A9%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%94%9F%E6%B4%BB%E5%92%8C%E5%B7%A5%E4%BD%9C%E3%80%82%E2%98%BA%EF%B8%8F)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [模型](模型.md)
+___
 ##### 2026-08-19 06:39:59 UTC ~ TechNews 科技新報
 > RT @technews_tw: macOS Tahoe 程式碼驚現 N109 代號！外界推測蘋果仍秘密開發第二代 Vision Pro 或新頭顯。 #VisionPro #蘋果頭顯 #macOS https://t.co/oOp1MFZ9Im
 
@@ -14,7 +49,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [蘋果](蘋果.md), [開發](開發.md)
 ___
-##### 2026-08-09 07:53:33 UTC ~ Amto
+##### 2026-08-09 07:53:33 UTC ~ 
 > RT @XAMTO_AI: 买完 Mac 别急着到处找软件下载！GitHub 上这个高星项目，把各类高质量的 macOS 应用全给整理好了，而且分类做得非常细。目前这个项目在 GitHub 上已经积累了 十万 Star！它采用 MIT 开源协议，基本可以说是目前全网比较全、…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40XAMTO_AI%3A+%E4%B9%B0%E5%AE%8C+Mac+%E5%88%AB%E6%80%A5%E7%9D%80%E5%88%B0%E5%A4%84%E6%89%BE%E8%BD%AF%E4%BB%B6%E4%B8%8B%E8%BD%BD%EF%BC%81GitHub+%E4%B8%8A%E8%BF%99%E4%B8%AA%E9%AB%98%E6%98%9F%E9%A1%B9%E7%9B%AE%EF%BC%8C%E6%8A%8A%E5%90%84%E7%B1%BB%E9%AB%98%E8%B4%A8%E9%87%8F%E7%9A%84+macOS+%E5%BA%94%E7%94%A8%E5%85%A8%E7%BB%99%E6%95%B4%E7%90%86%E5%A5%BD%E4%BA%86%EF%BC%8C%E8%80%8C%E4%B8%94%E5%88%86%E7%B1%BB%E5%81%9A%E5%BE%97%E9%9D%9E%E5%B8%B8%E7%BB%86%E3%80%82%E7%9B%AE%E5%89%8D%E8%BF%99%E4%B8%AA%E9%A1%B9%E7%9B%AE%E5%9C%A8+GitHub+%E4%B8%8A%E5%B7%B2%E7%BB%8F%E7%A7%AF%E7%B4%AF%E4%BA%86+%E5%8D%81%E4%B8%87+Star%EF%BC%81%E5%AE%83%E9%87%87%E7%94%A8+MIT+%E5%BC%80%E6%BA%90%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%9F%BA%E6%9C%AC%E5%8F%AF%E4%BB%A5%E8%AF%B4%E6%98%AF%E7%9B%AE%E5%89%8D%E5%85%A8%E7%BD%91%E6%AF%94%E8%BE%83%E5%85%A8%E3%80%81%E2%80%A6)
@@ -130,6 +165,13 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40tualatrix%3A+%E4%B8%BA%E4%BB%80%E4%B9%88+Apple+%E7%BB%99+macOS+27+%E4%B9%9F%E5%8A%A0%E4%BA%86%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0%EF%BC%9F%E8%BF%99%E4%B8%AA%E4%BA%A4%E4%BA%92%E5%9C%A8+macOS+%E4%B8%8A%E9%9D%9E%E5%B8%B8%E9%9A%BE%E7%94%A8%E5%95%8A%E2%80%A6%E5%8F%AA%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8F%AF%E8%83%BD%EF%BC%9A%E8%A7%A6%E6%91%B8%E5%B1%8F%E7%89%88%E6%9C%AC%E7%9A%84+Mac+%E7%9C%9F%E7%9A%84%E8%A6%81%E6%9D%A5%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FayhHJ3LumQ)
 ##### Other Words/Names of Interest in the Above Tweet
 [Apple](Apple.md), [Mac](Mac.md), [触摸屏](触摸屏.md)
+___
+##### 2026-06-13 17:39:24 UTC ~ 哇兮泥
+> RT @H3gletK: 我的mac mini不知道出了什么问题，昨天开始GPU负载一直处在50%，重启完之后什么都不启动也是这么多。之前就算工作，静态负载也应该只有2%左右。
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40H3gletK%3A+%E6%88%91%E7%9A%84mac+mini%E4%B8%8D%E7%9F%A5%E9%81%93%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E6%98%A8%E5%A4%A9%E5%BC%80%E5%A7%8BGPU%E8%B4%9F%E8%BD%BD%E4%B8%80%E7%9B%B4%E5%A4%84%E5%9C%A850%25%EF%BC%8C%E9%87%8D%E5%90%AF%E5%AE%8C%E4%B9%8B%E5%90%8E%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E5%90%AF%E5%8A%A8%E4%B9%9F%E6%98%AF%E8%BF%99%E4%B9%88%E5%A4%9A%E3%80%82%E4%B9%8B%E5%89%8D%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BD%9C%EF%BC%8C%E9%9D%99%E6%80%81%E8%B4%9F%E8%BD%BD%E4%B9%9F%E5%BA%94%E8%AF%A5%E5%8F%AA%E6%9C%892%25%E5%B7%A6%E5%8F%B3%E3%80%82)
+##### Other Words/Names of Interest in the Above Tweet
+[GPU](GPU.md), [一直](一直.md), [启动](启动.md)
 ___
 ##### 2026-06-13 00:32:32 UTC ~ 小弟调调
 > RT @jaywcjlove: Zipora v1.7 发布，原生解压缩 macOS 工具 本次更新：新增支持解压加密RAR压缩包，并修复编辑压缩包时原有密码丢失的问题。👉 https://t.co/HnyCNkW9kU https://t.co/J177rv98ty
@@ -349,7 +391,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [搜索](搜索.md), [支持](支持.md), [直接](直接.md), [进行](进行.md)
 ___
-##### 2025-03-12 07:18:04 UTC ~ beihuo
+##### 2025-03-12 07:18:04 UTC ~ 北火
 > RT @beihuo: 换新 Mac 时总是要手动设置很多东西，今天发现了 macos-defaults 网站，原来这么多设置可以通过自动化脚本完成啊！比如：- 设置更快的 key repeat （vim 用户必备）- 设置 Dock 的大小和自动隐藏- 关闭根据最近的…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40beihuo%3A+%E6%8D%A2%E6%96%B0+Mac+%E6%97%B6%E6%80%BB%E6%98%AF%E8%A6%81%E6%89%8B%E5%8A%A8%E8%AE%BE%E7%BD%AE%E5%BE%88%E5%A4%9A%E4%B8%9C%E8%A5%BF%EF%BC%8C%E4%BB%8A%E5%A4%A9%E5%8F%91%E7%8E%B0%E4%BA%86+macos-defaults+%E7%BD%91%E7%AB%99%EF%BC%8C%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E5%A4%9A%E8%AE%BE%E7%BD%AE%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E5%AE%8C%E6%88%90%E5%95%8A%EF%BC%81%E6%AF%94%E5%A6%82%EF%BC%9A-+%E8%AE%BE%E7%BD%AE%E6%9B%B4%E5%BF%AB%E7%9A%84+key+repeat+%EF%BC%88vim+%E7%94%A8%E6%88%B7%E5%BF%85%E5%A4%87%EF%BC%89-+%E8%AE%BE%E7%BD%AE+Dock+%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%92%8C%E8%87%AA%E5%8A%A8%E9%9A%90%E8%97%8F-+%E5%85%B3%E9%97%AD%E6%A0%B9%E6%8D%AE%E6%9C%80%E8%BF%91%E7%9A%84%E2%80%A6)

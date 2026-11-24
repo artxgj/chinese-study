@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2023-09-11 00:46:14 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 【视频】大麦克（Big Mac）是麦当劳相当受欢迎的餐点之一，每年更能在美国卖出5.5亿个。不过前麦当劳烹饪创新经理迈克哈拉茨发布TikTok影片称，到麦当劳点餐时不该选择大麦克，应该要点……#mcdonaldshttps://t.co/…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E8%A7%86%E9%A2%91%E3%80%91%E5%A4%A7%E9%BA%A6%E5%85%8B%EF%BC%88Big+Mac%EF%BC%89%E6%98%AF%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%9B%B8%E5%BD%93%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E9%A4%90%E7%82%B9%E4%B9%8B%E4%B8%80%EF%BC%8C%E6%AF%8F%E5%B9%B4%E6%9B%B4%E8%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8D%96%E5%87%BA5.5%E4%BA%BF%E4%B8%AA%E3%80%82%E4%B8%8D%E8%BF%87%E5%89%8D%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%83%B9%E9%A5%AA%E5%88%9B%E6%96%B0%E7%BB%8F%E7%90%86%E8%BF%88%E5%85%8B%E5%93%88%E6%8B%89%E8%8C%A8%E5%8F%91%E5%B8%83TikTok%E5%BD%B1%E7%89%87%E7%A7%B0%EF%BC%8C%E5%88%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%82%B9%E9%A4%90%E6%97%B6%E4%B8%8D%E8%AF%A5%E9%80%89%E6%8B%A9%E5%A4%A7%E9%BA%A6%E5%85%8B%EF%BC%8C%E5%BA%94%E8%AF%A5%E8%A6%81%E7%82%B9%E2%80%A6%E2%80%A6%23mcdonaldshttps%3A%2F%2Ft.co%2F%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [发布](发布.md), [受欢迎](受欢迎.md), [美国](美国.md), [麦](麦.md), [麦当劳](麦当劳.md)
+___
+##### 2023-08-17 09:42:59 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: 美国最大城市纽约市週三（8月16日）宣布，出于安全考量，禁止在政府的电子设备上使用TikTok，跟进美国多个城市与州政府管制TikTok的举措。 https://t.co/of0QdmxewH https://t.co/UjNpAQ9Hdc
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%9F%8E%E5%B8%82%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%80%B1%E4%B8%89%EF%BC%888%E6%9C%8816%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%87%BA%E4%BA%8E%E5%AE%89%E5%85%A8%E8%80%83%E9%87%8F%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E6%94%BF%E5%BA%9C%E7%9A%84%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%EF%BC%8C%E8%B7%9F%E8%BF%9B%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E4%B8%8E%E5%B7%9E%E6%94%BF%E5%BA%9C%E7%AE%A1%E5%88%B6TikTok%E7%9A%84%E4%B8%BE%E6%8E%AA%E3%80%82+https%3A%2F%2Ft.co%2Fof0QdmxewH+https%3A%2F%2Ft.co%2FUjNpAQ9Hdc)
+##### Other Words/Names of Interest in the Above Tweet
+[举措](举措.md), [禁止](禁止.md), [管制](管制.md), [美国](美国.md)
+___
 ##### 2023-08-17 02:35:47 UTC ~ DW 中文- 德国之声
 > RT @dw_chinese: 美国纽约市决定加入许多地方政府行列，禁止在公务设备上使用TikTok。有民调也显示，近半数美国人支持在一定程度上禁用TikTok。究竟美国各地政府为何会禁用？https://t.co/WrZ3ngRPg7
 

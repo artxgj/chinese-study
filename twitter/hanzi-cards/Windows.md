@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Windows) for definition
 ### Tweets containing Windows
 
 ___
+##### 2026-09-19 06:04:08 UTC ~ 徐伦
+> RT @Jolyne_AI: 平时用 Mac 干活，难免要回到家里那台 Windows：取文件、跑只有 Windows 才有的软件。可不少商业远程工具不是限速，就是动不动让你开会员。YourDesk 是一款打通 macOS 和 Windows 的远程桌面工具：输入对方 ID…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Jolyne_AI%3A+%E5%B9%B3%E6%97%B6%E7%94%A8+Mac+%E5%B9%B2%E6%B4%BB%EF%BC%8C%E9%9A%BE%E5%85%8D%E8%A6%81%E5%9B%9E%E5%88%B0%E5%AE%B6%E9%87%8C%E9%82%A3%E5%8F%B0+Windows%EF%BC%9A%E5%8F%96%E6%96%87%E4%BB%B6%E3%80%81%E8%B7%91%E5%8F%AA%E6%9C%89+Windows+%E6%89%8D%E6%9C%89%E7%9A%84%E8%BD%AF%E4%BB%B6%E3%80%82%E5%8F%AF%E4%B8%8D%E5%B0%91%E5%95%86%E4%B8%9A%E8%BF%9C%E7%A8%8B%E5%B7%A5%E5%85%B7%E4%B8%8D%E6%98%AF%E9%99%90%E9%80%9F%EF%BC%8C%E5%B0%B1%E6%98%AF%E5%8A%A8%E4%B8%8D%E5%8A%A8%E8%AE%A9%E4%BD%A0%E5%BC%80%E4%BC%9A%E5%91%98%E3%80%82YourDesk+%E6%98%AF%E4%B8%80%E6%AC%BE%E6%89%93%E9%80%9A+macOS+%E5%92%8C+Windows+%E7%9A%84%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2%E5%B7%A5%E5%85%B7%EF%BC%9A%E8%BE%93%E5%85%A5%E5%AF%B9%E6%96%B9+ID%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[Mac](Mac.md), [mac](mac.md), [工具](工具.md), [文件](文件.md)
+___
 ##### 2026-08-18 13:52:02 UTC ~ 联合早报 Lianhe Zaobao
 > RT @zaobaosg: 中国政府机构据报提前停用为其所定制的微软Windows 10操作系统。此举被视为北京进一步减少对外国科技的依赖。 https://t.co/kIFedlbkMi
 
@@ -35,7 +42,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [AMD](AMD.md), [晶片](晶片.md), [核心](核心.md), [正式](正式.md), [英特爾](英特爾.md), [輝達](輝達.md), [黃仁勳](黃仁勳.md)
 ___
-##### 2026-06-02 05:51:24 UTC ~ 空空 | 美股合约首选Gate
+##### 2026-06-02 05:51:24 UTC ~ 空空 | Gate WCTC S9全球交易赛
 > RT @btcoindown: 黄仁勋在GTC Taipei主题演讲上掏出了RTX Spark。据说这科芯片就像Windows95改变PC一样，有了RTX Spark，你只需要提问，PC就会完成工作。这颗由英伟达与联发科联合开发、台积电3nm工艺制造的SoC，把20核G…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40btcoindown%3A+%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8GTC+Taipei%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E4%B8%8A%E6%8E%8F%E5%87%BA%E4%BA%86RTX+Spark%E3%80%82%E6%8D%AE%E8%AF%B4%E8%BF%99%E7%A7%91%E8%8A%AF%E7%89%87%E5%B0%B1%E5%83%8FWindows95%E6%94%B9%E5%8F%98PC%E4%B8%80%E6%A0%B7%EF%BC%8C%E6%9C%89%E4%BA%86RTX+Spark%EF%BC%8C%E4%BD%A0%E5%8F%AA%E9%9C%80%E8%A6%81%E6%8F%90%E9%97%AE%EF%BC%8CPC%E5%B0%B1%E4%BC%9A%E5%AE%8C%E6%88%90%E5%B7%A5%E4%BD%9C%E3%80%82%E8%BF%99%E9%A2%97%E7%94%B1%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E8%81%94%E5%8F%91%E7%A7%91%E8%81%94%E5%90%88%E5%BC%80%E5%8F%91%E3%80%81%E5%8F%B0%E7%A7%AF%E7%94%B53nm%E5%B7%A5%E8%89%BA%E5%88%B6%E9%80%A0%E7%9A%84SoC%EF%BC%8C%E6%8A%8A20%E6%A0%B8G%E2%80%A6)
@@ -91,7 +98,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [生产](生产.md)
 ___
-##### 2025-06-11 18:09:27 UTC ~ 
+##### 2025-06-11 18:09:27 UTC ~ Cyandev
 > RT @unixzii: #WWDC25 从 Mac OS X 用静态位图实现水晶效果的 Aqua，到 Windows Vista 用实时模糊 + 位图高光和反射实现玻璃效果的 Windows Aero，再到现在 Apple 用 SDF 实时计算边缘实现玻璃折射效果的 Liqu…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40unixzii%3A+%23WWDC25+%E4%BB%8E+Mac+OS+X+%E7%94%A8%E9%9D%99%E6%80%81%E4%BD%8D%E5%9B%BE%E5%AE%9E%E7%8E%B0%E6%B0%B4%E6%99%B6%E6%95%88%E6%9E%9C%E7%9A%84+Aqua%EF%BC%8C%E5%88%B0+Windows+Vista+%E7%94%A8%E5%AE%9E%E6%97%B6%E6%A8%A1%E7%B3%8A+%2B+%E4%BD%8D%E5%9B%BE%E9%AB%98%E5%85%89%E5%92%8C%E5%8F%8D%E5%B0%84%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E7%9A%84+Windows+Aero%EF%BC%8C%E5%86%8D%E5%88%B0%E7%8E%B0%E5%9C%A8+Apple+%E7%94%A8+SDF+%E5%AE%9E%E6%97%B6%E8%AE%A1%E7%AE%97%E8%BE%B9%E7%BC%98%E5%AE%9E%E7%8E%B0%E7%8E%BB%E7%92%83%E6%8A%98%E5%B0%84%E6%95%88%E6%9E%9C%E7%9A%84+Liqu%E2%80%A6)

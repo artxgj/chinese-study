@@ -7,6 +7,53 @@ Search [wiktionary](https://en.wiktionary.org/wiki/AMD) for definition
 ### Tweets containing AMD
 
 ___
+##### 2026-10-08 02:33:35 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: 据MarketWatch，对于AI生态系统的投资者来说，AMD董事长兼首席执行官苏姿丰本周在东北亚之行中释放出的看好行业前景的信号，或许能让他们感到宽慰。苏姿丰此行在台北和首尔会见半导体制造商及AI公司。https://t.co/xdfwFmqX…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+%E6%8D%AEMarketWatch%EF%BC%8C%E5%AF%B9%E4%BA%8EAI%E7%94%9F%E6%80%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E6%9D%A5%E8%AF%B4%EF%BC%8CAMD%E8%91%A3%E4%BA%8B%E9%95%BF%E5%85%BC%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%8B%8F%E5%A7%BF%E4%B8%B0%E6%9C%AC%E5%91%A8%E5%9C%A8%E4%B8%9C%E5%8C%97%E4%BA%9A%E4%B9%8B%E8%A1%8C%E4%B8%AD%E9%87%8A%E6%94%BE%E5%87%BA%E7%9A%84%E7%9C%8B%E5%A5%BD%E8%A1%8C%E4%B8%9A%E5%89%8D%E6%99%AF%E7%9A%84%E4%BF%A1%E5%8F%B7%EF%BC%8C%E6%88%96%E8%AE%B8%E8%83%BD%E8%AE%A9%E4%BB%96%E4%BB%AC%E6%84%9F%E5%88%B0%E5%AE%BD%E6%85%B0%E3%80%82%E8%8B%8F%E5%A7%BF%E4%B8%B0%E6%AD%A4%E8%A1%8C%E5%9C%A8%E5%8F%B0%E5%8C%97%E5%92%8C%E9%A6%96%E5%B0%94%E4%BC%9A%E8%A7%81%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%88%B6%E9%80%A0%E5%95%86%E5%8F%8AAI%E5%85%AC%E5%8F%B8%E3%80%82https%3A%2F%2Ft.co%2FxdfwFmqX%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[半导体](半导体.md), [执行](执行.md), [投资](投资.md), [生态](生态.md), [系统](系统.md), [苏姿丰](苏姿丰.md), [行业](行业.md), [首席执行官](首席执行官.md)
+___
+##### 2026-10-02 10:00:14 UTC ~ TechNews 科技新報
+> RT @technews_tw: #AMD 82 億美元延攬 #李飛飛！出任執行副總裁兼首席科學家，直接向蘇姿丰報告。 dlvr.​it/TVl816
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23AMD+82+%E5%84%84%E7%BE%8E%E5%85%83%E5%BB%B6%E6%94%AC+%23%E6%9D%8E%E9%A3%9B%E9%A3%9B%EF%BC%81%E5%87%BA%E4%BB%BB%E5%9F%B7%E8%A1%8C%E5%89%AF%E7%B8%BD%E8%A3%81%E5%85%BC%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%B8%E5%AE%B6%EF%BC%8C%E7%9B%B4%E6%8E%A5%E5%90%91%E8%98%87%E5%A7%BF%E4%B8%B0%E5%A0%B1%E5%91%8A%E3%80%82+dlvr.%E2%80%8Bit%2FTVl816)
+##### Other Words/Names of Interest in the Above Tweet
+[直接](直接.md), [蘇姿丰](蘇姿丰.md)
+___
+##### 2026-10-01 19:53:50 UTC ~ TechNews 科技新報
+> RT @technews_tw: #AMD 執行長 #蘇姿丰 睽違 7 個月再訪韓國！預計出席 AI 論壇並與當地 NPU 業者會面。 dlvr.​it/TVkCsc
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40technews_tw%3A+%23AMD+%E5%9F%B7%E8%A1%8C%E9%95%B7+%23%E8%98%87%E5%A7%BF%E4%B8%B0+%E7%9D%BD%E9%81%95+7+%E5%80%8B%E6%9C%88%E5%86%8D%E8%A8%AA%E9%9F%93%E5%9C%8B%EF%BC%81%E9%A0%90%E8%A8%88%E5%87%BA%E5%B8%AD+AI+%E8%AB%96%E5%A3%87%E4%B8%A6%E8%88%87%E7%95%B6%E5%9C%B0+NPU+%E6%A5%AD%E8%80%85%E6%9C%83%E9%9D%A2%E3%80%82+dlvr.%E2%80%8Bit%2FTVkCsc)
+##### Other Words/Names of Interest in the Above Tweet
+[蘇姿丰](蘇姿丰.md), [韓國](韓國.md), [預計](預計.md)
+___
+##### 2026-09-29 07:45:45 UTC ~ 华尔街日报中文网
+> RT @ChineseWSJ: Advanced Micro Devices同意以约82亿美元的全股票交易收购人工智能研究公司World Labs。AMD表示，此次交易将为其引入顶尖的AI研发人才，助力开发更出色的AI硬件、软件和系统，尤其是在物理AI和机器人领域。https:…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40ChineseWSJ%3A+Advanced+Micro+Devices%E5%90%8C%E6%84%8F%E4%BB%A5%E7%BA%A682%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E8%82%A1%E7%A5%A8%E4%BA%A4%E6%98%93%E6%94%B6%E8%B4%AD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A0%94%E7%A9%B6%E5%85%AC%E5%8F%B8World+Labs%E3%80%82AMD%E8%A1%A8%E7%A4%BA%EF%BC%8C%E6%AD%A4%E6%AC%A1%E4%BA%A4%E6%98%93%E5%B0%86%E4%B8%BA%E5%85%B6%E5%BC%95%E5%85%A5%E9%A1%B6%E5%B0%96%E7%9A%84AI%E7%A0%94%E5%8F%91%E4%BA%BA%E6%89%8D%EF%BC%8C%E5%8A%A9%E5%8A%9B%E5%BC%80%E5%8F%91%E6%9B%B4%E5%87%BA%E8%89%B2%E7%9A%84AI%E7%A1%AC%E4%BB%B6%E3%80%81%E8%BD%AF%E4%BB%B6%E5%92%8C%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%B0%A4%E5%85%B6%E6%98%AF%E5%9C%A8%E7%89%A9%E7%90%86AI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%86%E5%9F%9F%E3%80%82https%3A%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[交易](交易.md), [人工智能](人工智能.md), [开发](开发.md), [收购](收购.md), [机器人](机器人.md), [研发](研发.md), [系统](系统.md), [顶尖](顶尖.md), [领域](领域.md)
+___
+##### 2026-09-29 04:31:55 UTC ~ kern
+> RT @kernbz: AMD 82亿美金收购李飞飞的World Labs是对其roadmap的高度押注“从像素到世界、从看（Seeing）到做（Doing）”，而这将收获的是全新的“算力维度”，将甩出LLM几条街…#AMD #worldlabs
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40kernbz%3A+AMD+82%E4%BA%BF%E7%BE%8E%E9%87%91%E6%94%B6%E8%B4%AD%E6%9D%8E%E9%A3%9E%E9%A3%9E%E7%9A%84World+Labs%E6%98%AF%E5%AF%B9%E5%85%B6roadmap%E7%9A%84%E9%AB%98%E5%BA%A6%E6%8A%BC%E6%B3%A8%E2%80%9C%E4%BB%8E%E5%83%8F%E7%B4%A0%E5%88%B0%E4%B8%96%E7%95%8C%E3%80%81%E4%BB%8E%E7%9C%8B%EF%BC%88Seeing%EF%BC%89%E5%88%B0%E5%81%9A%EF%BC%88Doing%EF%BC%89%E2%80%9D%EF%BC%8C%E8%80%8C%E8%BF%99%E5%B0%86%E6%94%B6%E8%8E%B7%E7%9A%84%E6%98%AF%E5%85%A8%E6%96%B0%E7%9A%84%E2%80%9C%E7%AE%97%E5%8A%9B%E7%BB%B4%E5%BA%A6%E2%80%9D%EF%BC%8C%E5%B0%86%E7%94%A9%E5%87%BALLM%E5%87%A0%E6%9D%A1%E8%A1%97%E2%80%A6%23AMD+%23worldlabs)
+##### Other Words/Names of Interest in the Above Tweet
+[LLM](LLM.md), [像素](像素.md), [押注](押注.md), [收购](收购.md), [金](金.md)
+___
+##### 2026-09-29 04:30:46 UTC ~ Sam Gao
+> RT @samuel_ys92: World Labs 卖给 AMD 了。82 亿美元，全股票。三个人你大概都听说过：李飞飞。ImageNet，1400 万张标注图。2012 年 AlexNet 在上面赢了，深度学习才真正拐过来。Justin Johnson。她…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40samuel_ys92%3A+World+Labs+%E5%8D%96%E7%BB%99+AMD+%E4%BA%86%E3%80%8282+%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E5%85%A8%E8%82%A1%E7%A5%A8%E3%80%82%E4%B8%89%E4%B8%AA%E4%BA%BA%E4%BD%A0%E5%A4%A7%E6%A6%82%E9%83%BD%E5%90%AC%E8%AF%B4%E8%BF%87%EF%BC%9A%E6%9D%8E%E9%A3%9E%E9%A3%9E%E3%80%82ImageNet%EF%BC%8C1400+%E4%B8%87%E5%BC%A0%E6%A0%87%E6%B3%A8%E5%9B%BE%E3%80%822012+%E5%B9%B4+AlexNet+%E5%9C%A8%E4%B8%8A%E9%9D%A2%E8%B5%A2%E4%BA%86%EF%BC%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E6%89%8D%E7%9C%9F%E6%AD%A3%E6%8B%90%E8%BF%87%E6%9D%A5%E3%80%82Justin+Johnson%E3%80%82%E5%A5%B9%E2%80%A6)
+___
+##### 2026-09-22 03:51:49 UTC ~ 投资学人 Invest Scholar
+> RT @InvestScholar: $AMD 股价大涨10%，市值突破1万亿美元，正式迈入万亿美元俱乐部！自苏姿丰(Lisa Su)于2014年出任CEO以来，AMD从当年濒临破产、股价仅2美元、市值仅20亿美元的谷底逆袭；历经12年，市值实现了500倍的爆发式增长。硅谷和芯…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40InvestScholar%3A+%24AMD+%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A810%25%EF%BC%8C%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E6%AD%A3%E5%BC%8F%E8%BF%88%E5%85%A5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%BF%B1%E4%B9%90%E9%83%A8%EF%BC%81%E8%87%AA%E8%8B%8F%E5%A7%BF%E4%B8%B0%28Lisa+Su%29%E4%BA%8E2014%E5%B9%B4%E5%87%BA%E4%BB%BBCEO%E4%BB%A5%E6%9D%A5%EF%BC%8CAMD%E4%BB%8E%E5%BD%93%E5%B9%B4%E6%BF%92%E4%B8%B4%E7%A0%B4%E4%BA%A7%E3%80%81%E8%82%A1%E4%BB%B7%E4%BB%852%E7%BE%8E%E5%85%83%E3%80%81%E5%B8%82%E5%80%BC%E4%BB%8520%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%B0%B7%E5%BA%95%E9%80%86%E8%A2%AD%EF%BC%9B%E5%8E%86%E7%BB%8F12%E5%B9%B4%EF%BC%8C%E5%B8%82%E5%80%BC%E5%AE%9E%E7%8E%B0%E4%BA%86500%E5%80%8D%E7%9A%84%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF%E3%80%82%E7%A1%85%E8%B0%B7%E5%92%8C%E8%8A%AF%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[历经](历经.md), [增长](增长.md), [实现](实现.md), [市值](市值.md), [正式](正式.md), [涨](涨.md), [爆发](爆发.md), [破产](破产.md), [硅](硅.md), [硅谷](硅谷.md), [突破](突破.md), [苏姿丰](苏姿丰.md), [谷底](谷底.md)
+___
 ##### 2026-08-26 03:56:15 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 据MarketWatch，周二，AMD股价上涨。此前一位分析师上调了该股评级，并强调在蓬勃发展的服务器中央处理器市场中，该公司相比竞争对手更具优势。https://t.co/q3W8w3FvAE
 

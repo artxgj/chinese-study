@@ -63,13 +63,6 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [三星](三星.md), [利润](利润.md), [存储](存储.md), [投资](投资.md), [海力士](海力士.md), [研发](研发.md), [美光](美光.md), [行业](行业.md), [距离](距离.md), [量产](量产.md), [长鑫](长鑫.md), [验证](验证.md)
 ___
-##### 2026-07-31 02:37:46 UTC ~ chongxian 🔥🦖
-> RT @chongxian: 复盘一下：这次在 Predict 上下注 CXMT，亏了 3k 刀😇😇😇从最开始我其实并不了解 CXMT 是什么，然后通过 AI 去分析项目估值和市场情绪面。还记得当时 AI 给我的估值判断大概在 1.5-2 万亿，外加我不相信有一个什么项目，…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40chongxian%3A+%E5%A4%8D%E7%9B%98%E4%B8%80%E4%B8%8B%EF%BC%9A%E8%BF%99%E6%AC%A1%E5%9C%A8+Predict+%E4%B8%8A%E4%B8%8B%E6%B3%A8+CXMT%EF%BC%8C%E4%BA%8F%E4%BA%86+3k+%E5%88%80%F0%9F%98%87%F0%9F%98%87%F0%9F%98%87%E4%BB%8E%E6%9C%80%E5%BC%80%E5%A7%8B%E6%88%91%E5%85%B6%E5%AE%9E%E5%B9%B6%E4%B8%8D%E4%BA%86%E8%A7%A3+CXMT+%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%8C%E7%84%B6%E5%90%8E%E9%80%9A%E8%BF%87+AI+%E5%8E%BB%E5%88%86%E6%9E%90%E9%A1%B9%E7%9B%AE%E4%BC%B0%E5%80%BC%E5%92%8C%E5%B8%82%E5%9C%BA%E6%83%85%E7%BB%AA%E9%9D%A2%E3%80%82%E8%BF%98%E8%AE%B0%E5%BE%97%E5%BD%93%E6%97%B6+AI+%E7%BB%99%E6%88%91%E7%9A%84%E4%BC%B0%E5%80%BC%E5%88%A4%E6%96%AD%E5%A4%A7%E6%A6%82%E5%9C%A8+1.5-2+%E4%B8%87%E4%BA%BF%EF%BC%8C%E5%A4%96%E5%8A%A0%E6%88%91%E4%B8%8D%E7%9B%B8%E4%BF%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E9%A1%B9%E7%9B%AE%EF%BC%8C%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[估值](估值.md), [分析](分析.md), [判断](判断.md), [项目](项目.md)
-___
 ##### 2026-07-27 14:36:04 UTC ~ 駿HaYaO
 > RT @QQ_Timmy: 野村證券開始覆蓋中國最大DRAM製造商長存儲存技術（CXMT，688825），給予「買入」評級，目標價116人民幣，潛在上漲空間逾12倍。  看好理由：全球內存供需持續緊張。2026-2030年比特需求增長約7倍（年複合成長逾60%），即使考慮密…
 

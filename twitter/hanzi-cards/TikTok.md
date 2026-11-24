@@ -8,6 +8,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/TikTok) for definition
 ### Tweets containing TikTok
 
 ___
+##### 2026-10-20 15:22:43 UTC ~ 南洋商报eNanyang
+> RT @nanyangpress: Sea旗下电商与数字娱乐业务正面对日益激烈的竞争，对手包括字节跳动旗下TikTok Shop，以及阿里巴巴旗下Lazada。#南洋商报 #Shopee #冬海集团 #云端服务 #上市 新闻链接：https://t.co/QT1ZGdN0u…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+Sea%E6%97%97%E4%B8%8B%E7%94%B5%E5%95%86%E4%B8%8E%E6%95%B0%E5%AD%97%E5%A8%B1%E4%B9%90%E4%B8%9A%E5%8A%A1%E6%AD%A3%E9%9D%A2%E5%AF%B9%E6%97%A5%E7%9B%8A%E6%BF%80%E7%83%88%E7%9A%84%E7%AB%9E%E4%BA%89%EF%BC%8C%E5%AF%B9%E6%89%8B%E5%8C%85%E6%8B%AC%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%97%97%E4%B8%8BTikTok+Shop%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%97%97%E4%B8%8BLazada%E3%80%82%23%E5%8D%97%E6%B4%8B%E5%95%86%E6%8A%A5+%23Shopee+%23%E5%86%AC%E6%B5%B7%E9%9B%86%E5%9B%A2+%23%E4%BA%91%E7%AB%AF%E6%9C%8D%E5%8A%A1+%23%E4%B8%8A%E5%B8%82+%E6%96%B0%E9%97%BB%E9%93%BE%E6%8E%A5%EF%BC%9Ahttps%3A%2F%2Ft.co%2FQT1ZGdN0u%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[包括](包括.md), [娱乐](娱乐.md), [字节跳动](字节跳动.md), [激烈](激烈.md), [电商](电商.md), [竞争](竞争.md), [阿里巴巴](阿里巴巴.md)
+___
+##### 2026-10-14 17:33:27 UTC ~ 拾习生.X
+> RT @interr_x: TikTok CEO 周受资透露，如今绝大多数短剧已经开始由 AI 制作，视频广告的制作成本更是从 100～1000 美元降至 1～10 美元。品牌过去制作一条广告，需要聘请团队或制作公司，如今只需向字节跳动的 Seedance 模型提供产品图片…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40interr_x%3A+TikTok+CEO+%E5%91%A8%E5%8F%97%E8%B5%84%E9%80%8F%E9%9C%B2%EF%BC%8C%E5%A6%82%E4%BB%8A%E7%BB%9D%E5%A4%A7%E5%A4%9A%E6%95%B0%E7%9F%AD%E5%89%A7%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E7%94%B1+AI+%E5%88%B6%E4%BD%9C%EF%BC%8C%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E7%9A%84%E5%88%B6%E4%BD%9C%E6%88%90%E6%9C%AC%E6%9B%B4%E6%98%AF%E4%BB%8E+100%EF%BD%9E1000+%E7%BE%8E%E5%85%83%E9%99%8D%E8%87%B3+1%EF%BD%9E10+%E7%BE%8E%E5%85%83%E3%80%82%E5%93%81%E7%89%8C%E8%BF%87%E5%8E%BB%E5%88%B6%E4%BD%9C%E4%B8%80%E6%9D%A1%E5%B9%BF%E5%91%8A%EF%BC%8C%E9%9C%80%E8%A6%81%E8%81%98%E8%AF%B7%E5%9B%A2%E9%98%9F%E6%88%96%E5%88%B6%E4%BD%9C%E5%85%AC%E5%8F%B8%EF%BC%8C%E5%A6%82%E4%BB%8A%E5%8F%AA%E9%9C%80%E5%90%91%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E7%9A%84+Seedance+%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E4%BA%A7%E5%93%81%E5%9B%BE%E7%89%87%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[周受资](周受资.md), [品牌](品牌.md), [如今](如今.md), [字节跳动](字节跳动.md), [成本](成本.md), [提供](提供.md), [模型](模型.md), [透露](透露.md)
+___
 ##### 2026-08-27 10:04:38 UTC ~ 华尔街日报中文网
 > RT @ChineseWSJ: 根据一项特殊的方案，Meta将仅支付和解金的70%，除非TikTok以及YouTube也同意为其未成年用户设置每天一小时的默认使用时长上限，并由这两家公司分别向这些州支付约53亿美元。只有在这两家公司同意上述条款的情况下，Meta才会支付其和解金…
 
@@ -2093,20 +2107,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40zaobaosg%3A+%E5%8D%B0%E5%B0%BC%E6%94%BF%E5%BA%9C%E6%8B%9F%E7%A6%81%E6%AD%A2%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E4%B8%8A%E7%9A%84%E5%95%86%E5%93%81%E4%BA%A4%E6%98%93%EF%BC%8CTikTok%E6%98%9F%E6%9C%9F%E4%B8%89%EF%BC%889%E6%9C%8813%E6%97%A5%EF%BC%89%E8%A1%A8%E8%BE%BE%E5%8F%8D%E5%AF%B9%E4%B9%8B%E6%84%8F%E3%80%82%E9%9B%85%E5%8A%A0%E8%BE%BE%E5%BD%93%E5%B1%80%E6%89%B9%E8%AF%84TikTok%E7%AD%89%E5%A4%A7%E5%9E%8B%E7%A4%BE%E7%BE%A4%E5%AA%92%E4%BD%93%E6%8B%A5%E6%9C%89%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E6%98%AF%E5%9E%84%E6%96%AD%E8%A1%8C%E4%B8%BA%E3%80%82+https%3A%2F%2Ft.co%2FoUv0fxEIvY)
 ##### Other Words/Names of Interest in the Above Tweet
 [交易](交易.md), [印尼](印尼.md), [商品](商品.md), [垄断](垄断.md), [平台](平台.md), [批评](批评.md), [电商](电商.md), [社交媒体](社交媒体.md), [禁止](禁止.md), [行为](行为.md)
-___
-##### 2023-09-11 00:46:14 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 【视频】大麦克（Big Mac）是麦当劳相当受欢迎的餐点之一，每年更能在美国卖出5.5亿个。不过前麦当劳烹饪创新经理迈克哈拉茨发布TikTok影片称，到麦当劳点餐时不该选择大麦克，应该要点……#mcdonaldshttps://t.co/…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E3%80%90%E8%A7%86%E9%A2%91%E3%80%91%E5%A4%A7%E9%BA%A6%E5%85%8B%EF%BC%88Big+Mac%EF%BC%89%E6%98%AF%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%9B%B8%E5%BD%93%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E9%A4%90%E7%82%B9%E4%B9%8B%E4%B8%80%EF%BC%8C%E6%AF%8F%E5%B9%B4%E6%9B%B4%E8%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8D%96%E5%87%BA5.5%E4%BA%BF%E4%B8%AA%E3%80%82%E4%B8%8D%E8%BF%87%E5%89%8D%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%83%B9%E9%A5%AA%E5%88%9B%E6%96%B0%E7%BB%8F%E7%90%86%E8%BF%88%E5%85%8B%E5%93%88%E6%8B%89%E8%8C%A8%E5%8F%91%E5%B8%83TikTok%E5%BD%B1%E7%89%87%E7%A7%B0%EF%BC%8C%E5%88%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E7%82%B9%E9%A4%90%E6%97%B6%E4%B8%8D%E8%AF%A5%E9%80%89%E6%8B%A9%E5%A4%A7%E9%BA%A6%E5%85%8B%EF%BC%8C%E5%BA%94%E8%AF%A5%E8%A6%81%E7%82%B9%E2%80%A6%E2%80%A6%23mcdonaldshttps%3A%2F%2Ft.co%2F%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[Mac](Mac.md), [发布](发布.md), [受欢迎](受欢迎.md), [美国](美国.md), [麦](麦.md), [麦当劳](麦当劳.md)
-___
-##### 2023-08-17 09:42:59 UTC ~ 南洋商报eNanyang
-> RT @nanyangpress: 美国最大城市纽约市週三（8月16日）宣布，出于安全考量，禁止在政府的电子设备上使用TikTok，跟进美国多个城市与州政府管制TikTok的举措。 https://t.co/of0QdmxewH https://t.co/UjNpAQ9Hdc
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40nanyangpress%3A+%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%9F%8E%E5%B8%82%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%80%B1%E4%B8%89%EF%BC%888%E6%9C%8816%E6%97%A5%EF%BC%89%E5%AE%A3%E5%B8%83%EF%BC%8C%E5%87%BA%E4%BA%8E%E5%AE%89%E5%85%A8%E8%80%83%E9%87%8F%EF%BC%8C%E7%A6%81%E6%AD%A2%E5%9C%A8%E6%94%BF%E5%BA%9C%E7%9A%84%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E4%B8%8A%E4%BD%BF%E7%94%A8TikTok%EF%BC%8C%E8%B7%9F%E8%BF%9B%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E4%B8%8E%E5%B7%9E%E6%94%BF%E5%BA%9C%E7%AE%A1%E5%88%B6TikTok%E7%9A%84%E4%B8%BE%E6%8E%AA%E3%80%82+https%3A%2F%2Ft.co%2Fof0QdmxewH+https%3A%2F%2Ft.co%2FUjNpAQ9Hdc)
-##### Other Words/Names of Interest in the Above Tweet
-[举措](举措.md), [禁止](禁止.md), [管制](管制.md), [美国](美国.md)
 ____
 
 [Next Page](TikTok-01.md)

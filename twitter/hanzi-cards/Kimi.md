@@ -259,7 +259,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [Anthropic](Anthropic.md), [Claude](Claude.md), [OpenAI](OpenAI.md), [人工智能](人工智能.md), [包括](包括.md), [推动](推动.md), [美国](美国.md)
 ___
-##### 2026-07-23 23:48:17 UTC ~ China view
+##### 2026-07-23 23:48:17 UTC ~ China View
 > RT @Chinaview0022: Kimi的CEO杨植麟🇨🇳：“过去你需要一个团队、一笔预算和数月时间。现在你只需要一个周末和15美元的套餐”。杨志林在台上花了11分钟展示如何使用K3独自完成一个完整应用的开发和发布。所有拖延你想法的借口，现在都被重新定价为一份午餐…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40Chinaview0022%3A+Kimi%E7%9A%84CEO%E6%9D%A8%E6%A4%8D%E9%BA%9F%F0%9F%87%A8%F0%9F%87%B3%EF%BC%9A%E2%80%9C%E8%BF%87%E5%8E%BB%E4%BD%A0%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%9B%A2%E9%98%9F%E3%80%81%E4%B8%80%E7%AC%94%E9%A2%84%E7%AE%97%E5%92%8C%E6%95%B0%E6%9C%88%E6%97%B6%E9%97%B4%E3%80%82%E7%8E%B0%E5%9C%A8%E4%BD%A0%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E5%91%A8%E6%9C%AB%E5%92%8C15%E7%BE%8E%E5%85%83%E7%9A%84%E5%A5%97%E9%A4%90%E2%80%9D%E3%80%82%E6%9D%A8%E5%BF%97%E6%9E%97%E5%9C%A8%E5%8F%B0%E4%B8%8A%E8%8A%B1%E4%BA%8611%E5%88%86%E9%92%9F%E5%B1%95%E7%A4%BA%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8K3%E7%8B%AC%E8%87%AA%E5%AE%8C%E6%88%90%E4%B8%80%E4%B8%AA%E5%AE%8C%E6%95%B4%E5%BA%94%E7%94%A8%E7%9A%84%E5%BC%80%E5%8F%91%E5%92%8C%E5%8F%91%E5%B8%83%E3%80%82%E6%89%80%E6%9C%89%E6%8B%96%E5%BB%B6%E4%BD%A0%E6%83%B3%E6%B3%95%E7%9A%84%E5%80%9F%E5%8F%A3%EF%BC%8C%E7%8E%B0%E5%9C%A8%E9%83%BD%E8%A2%AB%E9%87%8D%E6%96%B0%E5%AE%9A%E4%BB%B7%E4%B8%BA%E4%B8%80%E4%BB%BD%E5%8D%88%E9%A4%90%E2%80%A6)
@@ -460,7 +460,7 @@ ___
 ##### Other Words/Names of Interest in the Above Tweet
 [包括](包括.md), [开源](开源.md), [替代](替代.md), [模型](模型.md), [残酷](残酷.md), [现状](现状.md), [美国](美国.md), [蒸](蒸.md), [蒸馏](蒸馏.md)
 ___
-##### 2026-07-18 02:43:48 UTC ~ kabikabi
+##### 2026-07-18 02:43:48 UTC ~ 卡比卡比
 > RT @jakevin7: 深度体验了 Kimi K3。Kimi K3 相比 K2.6/K2.7 有明显的代际提升！已经从“能干活”进化到“能扛事”，尤其适合复杂的多步骤 Agent 和内容生产工作流。拿A/的模型来比的话，仅次于Fable了，完全有Opus的水准了!…
 
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40jakevin7%3A+%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E4%BA%86+Kimi+K3%E3%80%82Kimi+K3+%E7%9B%B8%E6%AF%94+K2.6%2FK2.7+%E6%9C%89%E6%98%8E%E6%98%BE%E7%9A%84%E4%BB%A3%E9%99%85%E6%8F%90%E5%8D%87%EF%BC%81%E5%B7%B2%E7%BB%8F%E4%BB%8E%E2%80%9C%E8%83%BD%E5%B9%B2%E6%B4%BB%E2%80%9D%E8%BF%9B%E5%8C%96%E5%88%B0%E2%80%9C%E8%83%BD%E6%89%9B%E4%BA%8B%E2%80%9D%EF%BC%8C%E5%B0%A4%E5%85%B6%E9%80%82%E5%90%88%E5%A4%8D%E6%9D%82%E7%9A%84%E5%A4%9A%E6%AD%A5%E9%AA%A4+Agent+%E5%92%8C%E5%86%85%E5%AE%B9%E7%94%9F%E4%BA%A7%E5%B7%A5%E4%BD%9C%E6%B5%81%E3%80%82%E6%8B%BFA%2F%E7%9A%84%E6%A8%A1%E5%9E%8B%E6%9D%A5%E6%AF%94%E7%9A%84%E8%AF%9D%EF%BC%8C%E4%BB%85%E6%AC%A1%E4%BA%8EFable%E4%BA%86%EF%BC%8C%E5%AE%8C%E5%85%A8%E6%9C%89Opus%E7%9A%84%E6%B0%B4%E5%87%86%E4%BA%86%21%E2%80%A6)

@@ -7,6 +7,20 @@ Search [wiktionary](https://en.wiktionary.org/wiki/GLM) for definition
 ### Tweets containing GLM
 
 ___
+##### 2026-09-17 23:01:37 UTC ~ SuSu_酥酥👅
+> RT @NFT_Chen: 💥第一视角来了！唐杰教授课上课下反复提到ASI，GLM也在迈向ASI ！智普创始人唐杰教授在清华课堂上给学生的几句硬判断：1️⃣知识类内容，大模型基本到头了。Chat这一仗已经打完。2️⃣多模态能力和记忆能力是必然，下一步是模型自己记、自己…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40NFT_Chen%3A+%F0%9F%92%A5%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E6%9D%A5%E4%BA%86%EF%BC%81%E5%94%90%E6%9D%B0%E6%95%99%E6%8E%88%E8%AF%BE%E4%B8%8A%E8%AF%BE%E4%B8%8B%E5%8F%8D%E5%A4%8D%E6%8F%90%E5%88%B0ASI%EF%BC%8CGLM%E4%B9%9F%E5%9C%A8%E8%BF%88%E5%90%91ASI+%EF%BC%81%E6%99%BA%E6%99%AE%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%94%90%E6%9D%B0%E6%95%99%E6%8E%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E8%AF%BE%E5%A0%82%E4%B8%8A%E7%BB%99%E5%AD%A6%E7%94%9F%E7%9A%84%E5%87%A0%E5%8F%A5%E7%A1%AC%E5%88%A4%E6%96%AD%EF%BC%9A1%EF%B8%8F%E2%83%A3%E7%9F%A5%E8%AF%86%E7%B1%BB%E5%86%85%E5%AE%B9%EF%BC%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9F%BA%E6%9C%AC%E5%88%B0%E5%A4%B4%E4%BA%86%E3%80%82Chat%E8%BF%99%E4%B8%80%E4%BB%97%E5%B7%B2%E7%BB%8F%E6%89%93%E5%AE%8C%E3%80%822%EF%B8%8F%E2%83%A3%E5%A4%9A%E6%A8%A1%E6%80%81%E8%83%BD%E5%8A%9B%E5%92%8C%E8%AE%B0%E5%BF%86%E8%83%BD%E5%8A%9B%E6%98%AF%E5%BF%85%E7%84%B6%EF%BC%8C%E4%B8%8B%E4%B8%80%E6%AD%A5%E6%98%AF%E6%A8%A1%E5%9E%8B%E8%87%AA%E5%B7%B1%E8%AE%B0%E3%80%81%E8%87%AA%E5%B7%B1%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[判断](判断.md), [模型](模型.md)
+___
+##### 2026-09-17 20:22:14 UTC ~ SuSu_酥酥👅
+> RT @NFT_Chen: 😂笑死！Zai智普创始人唐杰教授在清华大学一开课就试图用作业劝退学生：这课作业会挺多！结果学生看完梯子，第一反应不是退课，是打开 GLM-5.3 ！唐老师对学生的要求，基本是把大模型全链路亲手走一遍：🔹从零写 Tokenizer + Trans…
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40NFT_Chen%3A+%F0%9F%98%82%E7%AC%91%E6%AD%BB%EF%BC%81Zai%E6%99%BA%E6%99%AE%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%94%90%E6%9D%B0%E6%95%99%E6%8E%88%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%BC%80%E8%AF%BE%E5%B0%B1%E8%AF%95%E5%9B%BE%E7%94%A8%E4%BD%9C%E4%B8%9A%E5%8A%9D%E9%80%80%E5%AD%A6%E7%94%9F%EF%BC%9A%E8%BF%99%E8%AF%BE%E4%BD%9C%E4%B8%9A%E4%BC%9A%E6%8C%BA%E5%A4%9A%EF%BC%81%E7%BB%93%E6%9E%9C%E5%AD%A6%E7%94%9F%E7%9C%8B%E5%AE%8C%E6%A2%AF%E5%AD%90%EF%BC%8C%E7%AC%AC%E4%B8%80%E5%8F%8D%E5%BA%94%E4%B8%8D%E6%98%AF%E9%80%80%E8%AF%BE%EF%BC%8C%E6%98%AF%E6%89%93%E5%BC%80+GLM-5.3+%EF%BC%81%E5%94%90%E8%80%81%E5%B8%88%E5%AF%B9%E5%AD%A6%E7%94%9F%E7%9A%84%E8%A6%81%E6%B1%82%EF%BC%8C%E5%9F%BA%E6%9C%AC%E6%98%AF%E6%8A%8A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%A8%E9%93%BE%E8%B7%AF%E4%BA%B2%E6%89%8B%E8%B5%B0%E4%B8%80%E9%81%8D%EF%BC%9A%F0%9F%94%B9%E4%BB%8E%E9%9B%B6%E5%86%99+Tokenizer+%2B+Trans%E2%80%A6)
+##### Other Words/Names of Interest in the Above Tweet
+[反应](反应.md), [模型](模型.md), [清华大学](清华大学.md), [试图](试图.md)
+___
 ##### 2026-09-01 01:45:33 UTC ~ 宝玉
 > RT @dotey: GLM 6 这么牛的吗？都能自训练了---智谱创始人唐杰：GLM-6.0定位全自训练技术路线8月31日晚间，智谱召开2026年半年度业绩发布会。智谱创始人唐杰在会上解读了智谱下一代GLM-6.0大模型的技术定位与研发方向。他将GLM-6…
 

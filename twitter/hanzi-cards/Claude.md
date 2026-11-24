@@ -7,6 +7,13 @@ Search [wiktionary](https://en.wiktionary.org/wiki/Claude) for definition
 ### Tweets containing Claude
 
 ___
+##### 2026-09-12 02:55:33 UTC ~ Geek
+> RT @geekbb: 如果梁文锋真的把 Claude Opus 以每百万 tokens 一元的价格按 DeepSeek-V4-Flash 卖给我们，那我高低得叫他一声哥了。 https://t.co/LjuzDi3M1S
+
+[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40geekbb%3A+%E5%A6%82%E6%9E%9C%E6%A2%81%E6%96%87%E9%94%8B%E7%9C%9F%E7%9A%84%E6%8A%8A+Claude+Opus+%E4%BB%A5%E6%AF%8F%E7%99%BE%E4%B8%87+tokens+%E4%B8%80%E5%85%83%E7%9A%84%E4%BB%B7%E6%A0%BC%E6%8C%89+DeepSeek-V4-Flash+%E5%8D%96%E7%BB%99%E6%88%91%E4%BB%AC%EF%BC%8C%E9%82%A3%E6%88%91%E9%AB%98%E4%BD%8E%E5%BE%97%E5%8F%AB%E4%BB%96%E4%B8%80%E5%A3%B0%E5%93%A5%E4%BA%86%E3%80%82+https%3A%2F%2Ft.co%2FLjuzDi3M1S)
+##### Other Words/Names of Interest in the Above Tweet
+[DeepSeek](DeepSeek.md), [价格](价格.md), [梁文锋](梁文锋.md)
+___
 ##### 2026-08-31 13:47:29 UTC ~ AB Kuai.Dong
 > RT @_FORAB: 终于知道 Mac 都被谁扫了。信息报确认，ChatGPT 母公司 OpenAI，正大量扫货市面上的 Mac mini 和 Mac Studio，已达数万台，正迫切希望采购更多。而 Claude 的 Anthropic 则通过亚马逊 AWS，来租用 M…
 
@@ -41,13 +48,6 @@ ___
 [Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%400xLogicrw%3A+%E5%9C%A8%E9%95%BF%E7%A8%8B%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%9F%BA%E5%87%86+DeepSWE+%E4%B8%8A%EF%BC%8CDeepSeek-V4-Flash+%E6%AD%A3%E5%BC%8F%E7%89%88%E6%8B%BF%E5%88%B0+54.4+%E5%88%86%EF%BC%8C%E6%8E%A5%E8%BF%91+Claude+Opus+4.8+%E7%9A%84+59+%E5%88%86%EF%BC%8C%E8%BF%9C%E9%AB%98%E4%BA%8E+V4-Pro-Preview+%E6%AD%A4%E5%89%8D%E7%9A%84+8+%E5%88%86%E3%80%82%E8%BF%99%E4%B8%AA%E6%88%90%E7%BB%A9%E4%BD%8E%E4%BA%8E+Kimi+K3+%E7%9A%84+6%E2%80%A6)
 ##### Other Words/Names of Interest in the Above Tweet
 [DeepSeek](DeepSeek.md), [Kimi](Kimi.md), [正式](正式.md)
-___
-##### 2026-07-30 23:08:21 UTC ~ 海洋馆馆长
-> RT @CycleDecoded: DeepSeek R1 的“强逻辑大脑”加上 Claude 3.7 / Gemini 的“神级文笔”，这套缝合怪组合拳真有人做出来了！GitHub 上刚爆火的项目 DeepClaude（作者 ErlichLiu），目前已斩获 2.9k S…
-
-[Google Translation](https://translate.google.com/?hi=en&tab=TT&sl=zh-CN&tl=en&op=translate&text=RT+%40CycleDecoded%3A+DeepSeek+R1+%E7%9A%84%E2%80%9C%E5%BC%BA%E9%80%BB%E8%BE%91%E5%A4%A7%E8%84%91%E2%80%9D%E5%8A%A0%E4%B8%8A+Claude+3.7+%2F+Gemini+%E7%9A%84%E2%80%9C%E7%A5%9E%E7%BA%A7%E6%96%87%E7%AC%94%E2%80%9D%EF%BC%8C%E8%BF%99%E5%A5%97%E7%BC%9D%E5%90%88%E6%80%AA%E7%BB%84%E5%90%88%E6%8B%B3%E7%9C%9F%E6%9C%89%E4%BA%BA%E5%81%9A%E5%87%BA%E6%9D%A5%E4%BA%86%EF%BC%81GitHub+%E4%B8%8A%E5%88%9A%E7%88%86%E7%81%AB%E7%9A%84%E9%A1%B9%E7%9B%AE+DeepClaude%EF%BC%88%E4%BD%9C%E8%80%85+ErlichLiu%EF%BC%89%EF%BC%8C%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%96%A9%E8%8E%B7+2.9k+S%E2%80%A6)
-##### Other Words/Names of Interest in the Above Tweet
-[DeepSeek](DeepSeek.md), [Gemini](Gemini.md), [逻辑](逻辑.md), [项目](项目.md)
 ___
 ##### 2026-07-30 11:07:27 UTC ~ Berryxia.AI
 > RT @berryxia: 兄弟们，今天这个事儿真的还挺触动我的！明白真正能改变中国小生意的，不是Claude Code，而是让“卖包子的人”敢开口说话的工具。全网都在吹终端、API、Skills有多强。一个喀什卖包子的老板，初中毕业，每天凌晨四五点起来揉面，用一部…
